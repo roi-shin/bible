@@ -37,7 +37,7 @@ if (toggleLayoutBtn) {
 // 言語切替
 const toggleLangBtn = document.getElementById('toggleLang');
 if (toggleLangBtn) {
-  const langs = ['both', 'ja-only', 'en-only'];
+  const langs = ['ja-only', 'both', 'en-only'];
   let currentLangIdx = 0;
   toggleLangBtn.addEventListener('click', () => {
     document.body.classList.remove('lang-' + langs[currentLangIdx]);

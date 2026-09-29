@@ -41,6 +41,35 @@ BOOKS = {
     "2 John": 1, "3 John": 1, "Jude": 1, "Revelation": 22,
 }
 
+JA_BOOK_NAMES = {
+    "Genesis": "創世記", "Exodus": "出エジプト記", "Leviticus": "レビ記",
+    "Numbers": "民数記", "Deuteronomy": "申命記", "Joshua": "ヨシュア記",
+    "Judges": "士師記", "Ruth": "ルツ記", "1 Samuel": "サムエル記上",
+    "2 Samuel": "サムエル記下", "1 Kings": "列王記上", "2 Kings": "列王記下",
+    "1 Chronicles": "歴代誌上", "2 Chronicles": "歴代誌下", "Ezra": "エズラ記",
+    "Nehemiah": "ネヘミヤ記", "Esther": "エステル記", "Job": "ヨブ記",
+    "Psalms": "詩編", "Proverbs": "箴言", "Ecclesiastes": "コヘレトの言葉",
+    "Song of Solomon": "雅歌", "Isaiah": "イザヤ書", "Jeremiah": "エレミヤ書",
+    "Lamentations": "哀歌", "Ezekiel": "エゼキエル書", "Daniel": "ダニエル書",
+    "Hosea": "ホセア書", "Joel": "ヨエル書", "Amos": "アモス書",
+    "Obadiah": "オバデヤ書", "Jonah": "ヨナ書", "Micah": "ミカ書",
+    "Nahum": "ナホム書", "Habakkuk": "ハバクク書", "Zephaniah": "ゼファニヤ書",
+    "Haggai": "ハガイ書", "Zechariah": "ゼカリヤ書", "Malachi": "マラキ書",
+    "Matthew": "マタイによる福音書", "Mark": "マルコによる福音書",
+    "Luke": "ルカによる福音書", "John": "ヨハネによる福音書",
+    "Acts": "使徒言行録", "Romans": "ローマの信徒への手紙",
+    "1 Corinthians": "コリントの信徒への手紙一", "2 Corinthians": "コリントの信徒への手紙二",
+    "Galatians": "ガラテヤの信徒への手紙", "Ephesians": "エフェソの信徒への手紙",
+    "Philippians": "フィリピの信徒への手紙", "Colossians": "コロサイの信徒への手紙",
+    "1 Thessalonians": "テサロニケの信徒への手紙一", "2 Thessalonians": "テサロニケの信徒への手紙二",
+    "1 Timothy": "テモテへの手紙一", "2 Timothy": "テモテへの手紙二",
+    "Titus": "テトスへの手紙", "Philemon": "フィレモンへの手紙",
+    "Hebrews": "ヘブライ人への手紙", "James": "ヤコブの手紙",
+    "1 Peter": "ペトロの手紙一", "2 Peter": "ペトロの手紙二",
+    "1 John": "ヨハネの手紙一", "2 John": "ヨハネの手紙二",
+    "3 John": "ヨハネの手紙三", "Jude": "ユダの手紙", "Revelation": "ヨハネの黙示録"
+}
+
 
 def fetch_chapter_text(book: str, chapter: int) -> list[dict]:
     """labs.bible.org/api から章の本文をJSON取得"""
@@ -330,30 +359,44 @@ def generate_chapter_html(data: dict) -> str:
               <div class="note-en">{n['en']}</div>
             </div>"""
 
+    ja_book = JA_BOOK_NAMES.get(book, book)
+    title_ja = f"{ja_book} {chapter}"
+    title_en = f"{book} {chapter}"
+    
+    prev_disabled = " disabled" if chapter <= 1 else ""
+    next_disabled = " disabled" if chapter >= BOOKS.get(book, 1) else ""
+    prev_link = f"{book.replace(' ', '_')}_{chapter-1}.html"
+    next_link = f"{book.replace(' ', '_')}_{chapter+1}.html"
+
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{book} {chapter} - NET Bible 日本語対訳</title>
+  <title>{title_ja} - NET Bible 日本語対訳</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="lang-ja-only">
   <header>
     <nav class="top-nav">
-      <a href="index.html" class="nav-home">📖 NET Bible 対訳</a>
-      <span class="nav-title">{book} {chapter}</span>
+      <a href="index.html" class="nav-home">NET Bible 対訳</a>
+      <span class="nav-title">
+        <a href="{prev_link}" class="nav-arrow{prev_disabled}">&#8249;</a>
+        <span class="title-ja">{title_ja}</span>
+        <span class="title-en">{title_en}</span>
+        <a href="{next_link}" class="nav-arrow{next_disabled}">&#8250;</a>
+      </span>
       <div class="nav-controls">
-        <button id="toggleLang" class="nav-btn" title="言語切替">🌐</button>
-        <button id="toggleNotes" class="nav-btn" title="注の表示切替">📝</button>
-        <button id="toggleLayout" class="nav-btn" title="レイアウト切替">⇆</button>
+        <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
+        <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
+        <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
       </div>
     </nav>
   </header>
 
   <main class="reader">
     <section class="text-panel" id="textPanel">
-      <h1>{book} {chapter}</h1>
+      <h1><span class="title-ja">{title_ja}</span><span class="title-en">{title_en}</span></h1>
       <div class="verses">
         {verses_html}
       </div>
@@ -396,9 +439,9 @@ def generate_css() -> str:
   --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
   --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
   --shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 16px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 6px;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -798,8 +841,23 @@ header {
 ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
 
 /* --- Language Toggle --- */
-body.lang-ja-only .verse-en, body.lang-ja-only .note-en { display: none; }
-body.lang-en-only .verse-ja, body.lang-en-only .note-ja { display: none; }
+body.lang-ja-only .verse-en, body.lang-ja-only .note-en, body.lang-ja-only .title-en { display: none; }
+body.lang-en-only .verse-ja, body.lang-en-only .note-ja, body.lang-en-only .title-ja { display: none; }
+
+.nav-arrow {
+  color: var(--text-primary);
+  text-decoration: none;
+  padding: 0 0.5rem;
+  font-size: 1.2rem;
+  line-height: 1;
+  transition: color 0.2s;
+  vertical-align: middle;
+}
+.nav-arrow:hover { color: var(--accent-gold); }
+.nav-arrow.disabled {
+  color: var(--text-muted);
+  pointer-events: none;
+}
 """
 
 
@@ -844,7 +902,7 @@ if (toggleLayoutBtn) {
 // 言語切替
 const toggleLangBtn = document.getElementById('toggleLang');
 if (toggleLangBtn) {
-  const langs = ['both', 'ja-only', 'en-only'];
+  const langs = ['ja-only', 'both', 'en-only'];
   let currentLangIdx = 0;
   toggleLangBtn.addEventListener('click', () => {
     document.body.classList.remove('lang-' + langs[currentLangIdx]);
@@ -864,6 +922,7 @@ def generate_index_html(available_chapters: dict) -> str:
     nt_books = list(BOOKS.keys())[39:]
 
     def make_book_section(book_name, total_chapters):
+        ja_book = JA_BOOK_NAMES.get(book_name, book_name)
         links = ""
         for ch in range(1, total_chapters + 1):
             fname = f"{book_name.replace(' ', '_')}_{ch}.html"
@@ -871,7 +930,7 @@ def generate_index_html(available_chapters: dict) -> str:
             cls = "chapter-link available" if is_available else "chapter-link unavailable"
             href = fname if is_available else "#"
             links += f'<a href="{href}" class="{cls}">{ch}</a>\n'
-        return f"""<h3>{book_name}</h3><div class="chapter-grid">{links}</div>"""
+        return f"""<h3>{ja_book} ({book_name})</h3><div class="chapter-grid">{links}</div>"""
 
     ot_html = "\n".join(make_book_section(b, BOOKS[b]) for b in ot_books)
     nt_html = "\n".join(make_book_section(b, BOOKS[b]) for b in nt_books)
@@ -887,7 +946,7 @@ def generate_index_html(available_chapters: dict) -> str:
 <body>
   <header>
     <nav class="top-nav">
-      <a href="index.html" class="nav-home">📖 NET Bible 対訳</a>
+      <a href="index.html" class="nav-home">NET Bible 対訳</a>
       <span class="nav-title">目次</span>
     </nav>
   </header>
