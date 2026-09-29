@@ -976,10 +976,21 @@ def main():
     import sys
 
     # コマンドライン引数: python scrape_and_translate.py Genesis 1
+    # 範囲指定: python scrape_and_translate.py Genesis 4-10 (または 4~10)
     if len(sys.argv) >= 3:
         book = sys.argv[1]
-        chapter = int(sys.argv[2])
-        books_to_process = [(book, chapter)]
+        ch_arg = sys.argv[2]
+        if "-" in ch_arg or "~" in ch_arg:
+            delimiter = "-" if "-" in ch_arg else "~"
+            try:
+                start_ch, end_ch = map(int, ch_arg.split(delimiter))
+                books_to_process = [(book, ch) for ch in range(start_ch, end_ch + 1)]
+            except ValueError:
+                print(f"エラー: 無効な章の範囲指定です ({ch_arg})")
+                sys.exit(1)
+        else:
+            chapter = int(ch_arg)
+            books_to_process = [(book, chapter)]
     elif len(sys.argv) >= 2:
         book = sys.argv[1]
         books_to_process = [(book, ch) for ch in range(1, BOOKS.get(book, 1) + 1)]
