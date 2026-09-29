@@ -129,7 +129,15 @@ def translate_with_agy(raw_data: dict) -> dict:
     with open(temp_in, "w", encoding="utf-8") as f:
         f.write(json_str)
 
-    prompt = f"Read the file '{temp_in}'. It contains a JSON object with 'verses' and 'notes'. Translate all English text in the 'verses' and 'notes' fields to natural Japanese. Return the output in exactly the same JSON structure, but replace the English text with Japanese translation in the 'ja' fields for verses, and add 'ja' fields for notes. Output ONLY raw JSON, do not use markdown code blocks."
+    prompt = (
+        f"Read the file '{temp_in}'. It contains a JSON object with 'verses' and 'notes'. "
+        f"Translate all English text in the 'verses' and 'notes' fields to natural Japanese. "
+        f"CRITICAL INSTRUCTION: The 'notes' field contains highly detailed translator's notes (tn), study notes (sn), and text-critical notes (tc) that justify the specific English translation choices. "
+        f"When translating the 'verses', you MUST carefully cross-reference and incorporate the nuances and justifications provided in the corresponding notes for that verse. "
+        f"Ensure that the Japanese translation of the verses accurately reflects the theological and grammatical insights detailed in the notes, maintaining strict consistency between the verse text and its explanatory notes. "
+        f"Return the output in exactly the same JSON structure, replacing the English text with Japanese in the 'ja' fields for verses, and adding 'ja' fields for notes. "
+        f"Output ONLY raw JSON, do not use markdown code blocks."
+    )
 
     # agy コマンドの構築
     cmd = [
