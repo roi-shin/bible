@@ -413,3 +413,7 @@ header {
   border-radius: 3px;
 }
 ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* --- Language Toggle --- */
+body.lang-ja-only .verse-en, body.lang-ja-only .note-en { display: none; }
+body.lang-en-only .verse-ja, body.lang-en-only .note-ja { display: none; }

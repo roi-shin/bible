@@ -33,3 +33,18 @@ if (toggleLayoutBtn) {
     toggleLayoutBtn.classList.toggle('active');
   });
 }
+
+// 言語切替
+const toggleLangBtn = document.getElementById('toggleLang');
+if (toggleLangBtn) {
+  const langs = ['both', 'ja-only', 'en-only'];
+  let currentLangIdx = 0;
+  toggleLangBtn.addEventListener('click', () => {
+    document.body.classList.remove('lang-' + langs[currentLangIdx]);
+    currentLangIdx = (currentLangIdx + 1) % langs.length;
+    if (langs[currentLangIdx] !== 'both') {
+      document.body.classList.add('lang-' + langs[currentLangIdx]);
+    }
+    toggleLangBtn.classList.toggle('active', currentLangIdx !== 0);
+  });
+}

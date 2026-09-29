@@ -13,8 +13,8 @@ import re
 import sys
 import time
 import requests
+import subprocess
 from bs4 import BeautifulSoup
-from deep_translator import GoogleTranslator
 
 # --- 設定 ---
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "docs")
@@ -94,36 +94,6 @@ def fetch_all_notes_for_chapter(book: str, chapter: int, max_notes_per_verse: in
     return notes, text_data
 
 
-def translate_text(text: str, max_retries: int = 3) -> str:
-    """deep-translator で英→日翻訳 (リトライ付き)"""
-    if not text or not text.strip():
-        return ""
-    # GoogleTranslatorは5000文字制限がある
-    if len(text) > 4500:
-        # 文単位で分割
-        sentences = re.split(r'(?<=[.!?])\s+', text)
-        chunks = []
-        current_chunk = ""
-        for sent in sentences:
-            if len(current_chunk) + len(sent) + 1 > 4500:
-                chunks.append(current_chunk)
-                current_chunk = sent
-            else:
-                current_chunk = (current_chunk + " " + sent).strip()
-        if current_chunk:
-            chunks.append(current_chunk)
-        return " ".join(translate_text(c) for c in chunks)
-
-    for attempt in range(max_retries):
-        try:
-            result = GoogleTranslator(source="en", target="ja").translate(text)
-            return result if result else text
-        except Exception as e:
-            print(f"    翻訳エラー (試行 {attempt+1}/{max_retries}): {e}")
-            time.sleep(2 + (2 ** attempt))
-    return f"[翻訳失敗] {text}"
-
-
 def clean_note_html(note_text: str) -> str:
     """注のHTMLタグを除去してプレーンテキストに"""
     # sn, tn, tc などのプレフィックスを除去
@@ -131,6 +101,48 @@ def clean_note_html(note_text: str) -> str:
     # HTMLタグを除去
     soup = BeautifulSoup(text, 'html.parser')
     return soup.get_text()
+
+def translate_with_agy(raw_data: dict) -> dict:
+    """agy CLIを使ってJSON全体の英語を一括翻訳する"""
+    # 送信用のデータ構造を整理
+    payload = {
+        "verses": [{"verse": v["verse"], "text": BeautifulSoup(v["text"], 'html.parser').get_text()} for v in raw_data["text_data"]],
+        "notes": {}
+    }
+    for vn, notes_list in raw_data["notes"].items():
+        payload["notes"][vn] = [{"pos": pos, "text": clean_note_html(text)} for pos, text in notes_list]
+
+    json_str = json.dumps(payload, ensure_ascii=False)
+    
+    # テンポラリファイルに保存
+    temp_in = os.path.join(DATA_DIR, "temp_in.json")
+    with open(temp_in, "w", encoding="utf-8") as f:
+        f.write(json_str)
+
+    prompt = f"Read the file '{temp_in}'. It contains a JSON object with 'verses' and 'notes'. Translate all English text in the 'verses' and 'notes' fields to natural Japanese. Return the output in exactly the same JSON structure, but replace the English text with Japanese translation in the 'ja' fields for verses, and add 'ja' fields for notes. Output ONLY raw JSON, do not use markdown code blocks."
+
+    # agy コマンドの構築
+    cmd = [
+        "agy", "-p",
+        prompt,
+        "--model", "gemini-3.7-flash-medium",
+        "--output-format", "json"
+    ]
+    
+    print("    agy CLI を呼び出して一括翻訳中...")
+    result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+    
+    if result.returncode != 0:
+        print(f"agyコマンドエラー:\n{result.stderr}")
+        raise Exception("agy CLI translation failed")
+        
+    try:
+        translated = json.loads(result.stdout.strip())
+        return translated
+    except json.JSONDecodeError:
+        print("    agyが不正なJSONを返しました。生の出力:")
+        print(result.stdout)
+        raise
 
 
 def process_chapter(book: str, chapter: int) -> dict:
@@ -159,7 +171,8 @@ def process_chapter(book: str, chapter: int) -> dict:
             json.dump({"notes": notes, "text_data": text_data}, f, ensure_ascii=False, indent=2)
 
     # 翻訳
-    print(f"  翻訳中: {book} {chapter}")
+    print(f"  翻訳中 (agy使用): {book} {chapter}")
+    translated_data = translate_with_agy(raw_data) if "raw_data" in locals() else translate_with_agy({"notes": notes, "text_data": text_data})
 
     result = {
         "book": book,
@@ -168,32 +181,30 @@ def process_chapter(book: str, chapter: int) -> dict:
         "notes": {},
     }
 
-    for v in text_data:
+    # 翻訳結果の構築
+    for v in translated_data.get("verses", []):
         verse_num = int(v["verse"])
-        en_text = v["text"]
-        # HTMLタグ除去
-        en_clean = BeautifulSoup(en_text, 'html.parser').get_text()
-        ja_text = translate_text(en_clean)
-        time.sleep(1.5)
-
+        # フォールバックで英語を残す
+        ja_text = v.get("ja", v.get("text", ""))
+        en_text = v.get("text", "")
+        
         result["verses"].append({
             "verse": verse_num,
-            "en": en_clean,
+            "en": en_text,
             "ja": ja_text,
         })
 
-    for verse_num, verse_notes in notes.items():
+    for verse_num_str, verse_notes in translated_data.get("notes", {}).items():
         translated_notes = []
-        for pos, note_text in verse_notes:
-            clean = clean_note_html(note_text)
-            ja_note = translate_text(clean)
-            time.sleep(1.5)
+        for n in verse_notes:
+            ja_note = n.get("ja", n.get("text", ""))
+            en_note = n.get("text", "")
             translated_notes.append({
-                "pos": pos,
-                "en": clean,
+                "pos": n["pos"],
+                "en": en_note,
                 "ja": ja_note,
             })
-        result["notes"][str(verse_num)] = translated_notes
+        result["notes"][str(verse_num_str)] = translated_notes
 
     # キャッシュ保存
     os.makedirs(DATA_DIR, exist_ok=True)
