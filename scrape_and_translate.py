@@ -212,7 +212,37 @@ def process_chapter(book: str, chapter: int) -> dict:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
     print(f"  保存完了: {data_file}")
+    
     return result
+
+def export_markdown(data: dict):
+    """ローカルAI用に、翻訳データをMarkdownとして出力する"""
+    book = data["book"]
+    chapter = data["chapter"]
+    md_file = os.path.join(DATA_DIR, f"{book}_{chapter}.md")
+    
+    lines = [f"# {book} {chapter}\n"]
+    
+    # 本文
+    lines.append("## 本文 (Text)\n")
+    for v in data["verses"]:
+        vn = v["verse"]
+        lines.append(f"**{vn}** {v['ja']}")
+        lines.append(f"> {v['en']}\n")
+        
+    # 注釈
+    if data["notes"]:
+        lines.append("## 注釈 (Notes)\n")
+        for vn_str, notes in data["notes"].items():
+            for n in notes:
+                pos = n["pos"]
+                lines.append(f"### 節 {vn_str} - 注 {pos}")
+                lines.append(f"{n['ja']}")
+                lines.append(f"> {n['en']}\n")
+                
+    with open(md_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"  Markdown出力完了: {md_file}")
 
 
 def generate_chapter_html(data: dict) -> str:
@@ -850,6 +880,7 @@ def main():
         print(f"\n=== {book} {chapter} ===")
         try:
             data = process_chapter(book, chapter)
+            export_markdown(data)
             html = generate_chapter_html(data)
             fname = f"{book.replace(' ', '_')}_{chapter}.html"
             with open(os.path.join(OUTPUT_DIR, fname), "w", encoding="utf-8") as f:
