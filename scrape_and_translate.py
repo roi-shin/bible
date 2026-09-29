@@ -115,7 +115,7 @@ def translate_with_agy(raw_data: dict) -> dict:
     json_str = json.dumps(payload, ensure_ascii=False)
     
     # テンポラリファイルに保存
-    temp_in = os.path.join(DATA_DIR, "temp_in.json")
+    temp_in = temp_in_path if 'temp_in_path' in globals() else os.path.join(DATA_DIR, "temp_in.json")
     with open(temp_in, "w", encoding="utf-8") as f:
         f.write(json_str)
 
@@ -126,7 +126,8 @@ def translate_with_agy(raw_data: dict) -> dict:
         "agy", "-p",
         prompt,
         "--model", "gemini-3.7-flash-medium",
-        "--output-format", "json"
+        "--output-format", "json",
+        "--dangerously-skip-permissions"
     ]
     
     print("    agy CLI を呼び出して一括翻訳中...")
@@ -137,19 +138,36 @@ def translate_with_agy(raw_data: dict) -> dict:
         raise Exception("agy CLI translation failed")
         
     try:
-        translated = json.loads(result.stdout.strip())
+        # agyの--output-format json は {"response": "..."} でラップされるので、
+        # まず外側のJSONをパースし、その中のresponse文字列をさらにパースする
+        outer_json_text = result.stdout.strip().split("\n")[-1] # エラーメッセージ等を無視して最後の行を取得
+        outer_json = json.loads(outer_json_text)
+        response_text = outer_json.get("response", "").strip()
+        
+        # Markdownのコードブロック記法 (```json ... ```) を除去
+        if response_text.startswith("```json"):
+            response_text = response_text[7:]
+        if response_text.startswith("```"):
+            response_text = response_text[3:]
+        if response_text.endswith("```"):
+            response_text = response_text[:-3]
+            
+        translated = json.loads(response_text.strip())
         return translated
-    except json.JSONDecodeError:
-        print("    agyが不正なJSONを返しました。生の出力:")
-        print(result.stdout)
+    except Exception as e:
+        print(f"    agyが不正なJSONを返しました。エラー: {e}")
+        print("    生の出力:", result.stdout)
         raise
 
 
 def process_chapter(book: str, chapter: int) -> dict:
     """1章分のデータを取得・翻訳"""
-    data_file = os.path.join(DATA_DIR, f"{book}_{chapter}.json")
-
-    raw_file = os.path.join(DATA_DIR, f"{book}_{chapter}_raw.json")
+    book_dir_name = book.replace(" ", "_")
+    chap_dir = os.path.join(DATA_DIR, book_dir_name, str(chapter))
+    os.makedirs(chap_dir, exist_ok=True)
+    
+    data_file = os.path.join(chap_dir, "data.json")
+    raw_file = os.path.join(chap_dir, "raw.json")
 
     # キャッシュがあればロード
     if os.path.exists(data_file):
@@ -166,9 +184,12 @@ def process_chapter(book: str, chapter: int) -> dict:
             text_data = raw_data["text_data"]
     else:
         notes, text_data = fetch_all_notes_for_chapter(book, chapter)
-        os.makedirs(DATA_DIR, exist_ok=True)
         with open(raw_file, "w", encoding="utf-8") as f:
             json.dump({"notes": notes, "text_data": text_data}, f, ensure_ascii=False, indent=2)
+
+    # テンポラリファイル用にパスを上書き (translate_with_agy 内で使用するため)
+    global temp_in_path
+    temp_in_path = os.path.join(chap_dir, "temp_in.json")
 
     # 翻訳
     print(f"  翻訳中 (agy使用): {book} {chapter}")
@@ -207,7 +228,6 @@ def process_chapter(book: str, chapter: int) -> dict:
         result["notes"][str(verse_num_str)] = translated_notes
 
     # キャッシュ保存
-    os.makedirs(DATA_DIR, exist_ok=True)
     with open(data_file, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
@@ -216,33 +236,46 @@ def process_chapter(book: str, chapter: int) -> dict:
     return result
 
 def export_markdown(data: dict):
-    """ローカルAI用に、翻訳データをMarkdownとして出力する"""
+    """ローカルAI用に、翻訳データを英語用と日本語用に分けてMarkdown出力する"""
     book = data["book"]
     chapter = data["chapter"]
-    md_file = os.path.join(DATA_DIR, f"{book}_{chapter}.md")
     
-    lines = [f"# {book} {chapter}\n"]
+    book_dir_name = book.replace(" ", "_")
+    chap_dir = os.path.join(DATA_DIR, book_dir_name, str(chapter))
+    os.makedirs(chap_dir, exist_ok=True)
+    
+    en_file = os.path.join(chap_dir, "en.md")
+    ja_file = os.path.join(chap_dir, "ja.md")
+    
+    lines_en = [f"# {book} {chapter} (English)\n"]
+    lines_ja = [f"# {book} {chapter} (Japanese)\n"]
     
     # 本文
-    lines.append("## 本文 (Text)\n")
+    lines_en.append("## Text\n")
+    lines_ja.append("## 本文\n")
     for v in data["verses"]:
         vn = v["verse"]
-        lines.append(f"**{vn}** {v['ja']}")
-        lines.append(f"> {v['en']}\n")
+        lines_en.append(f"**{vn}** {v['en']}\n")
+        lines_ja.append(f"**{vn}** {v['ja']}\n")
         
     # 注釈
     if data["notes"]:
-        lines.append("## 注釈 (Notes)\n")
+        lines_en.append("## Notes\n")
+        lines_ja.append("## 注釈\n")
         for vn_str, notes in data["notes"].items():
             for n in notes:
                 pos = n["pos"]
-                lines.append(f"### 節 {vn_str} - 注 {pos}")
-                lines.append(f"{n['ja']}")
-                lines.append(f"> {n['en']}\n")
+                lines_en.append(f"### Verse {vn_str} - Note {pos}")
+                lines_en.append(f"{n['en']}\n")
+                lines_ja.append(f"### 節 {vn_str} - 注 {pos}")
+                lines_ja.append(f"{n['ja']}\n")
                 
-    with open(md_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-    print(f"  Markdown出力完了: {md_file}")
+    with open(en_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines_en))
+    with open(ja_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines_ja))
+        
+    print(f"  Markdown出力完了: {en_file}, {ja_file}")
 
 
 def generate_chapter_html(data: dict) -> str:
