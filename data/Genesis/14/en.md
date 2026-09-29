@@ -1,0 +1,230 @@
+# Genesis 14 (English)
+
+## Text
+
+**1** At that time Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tidal king of nations 
+
+**2** went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela (that is, Zoar). 
+
+**3** These last five kings joined forces in the Valley of Siddim (that is, the Salt Sea). 
+
+**4** For twelve years they had served Kedorlaomer, but in the thirteenth year they rebelled. 
+
+**5** In the fourteenth year, Kedorlaomer and the kings who were his allies came and defeated the Rephaites in Ashteroth Karnaim, the Zuzites in Ham, the Emites in Shaveh Kiriathaim, 
+
+**6** and the Horites in their hill country of Seir, as far as El Paran, which is near the desert. 
+
+**7** Then they attacked En Mishpat (that is, Kadesh) again, and they conquered all the territory of the Amalekites, as well as the Amorites who were living in Hazezon Tamar. 
+
+**8** Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboyim, and the king of Bela (that is, Zoar) went out and prepared for battle. In the Valley of Siddim they met
+
+**9** Kedorlaomer king of Elam, Tidal king of nations, Amraphel king of Shinar, and Arioch king of Ellasar. Four kings fought against five. 
+
+**10** Now the Valley of Siddim was full of tar pits. When the kings of Sodom and Gomorrah fled, they fell into them, but some survivors fled to the hills. 
+
+**11** The four victorious kings took all the possessions and food of Sodom and Gomorrah and left. 
+
+**12** They also took Abram’s nephew Lot and his possessions when they left, for Lot was living in Sodom. 
+
+**13** A fugitive came and told Abram the Hebrew. Now Abram was living by the oaks of Mamre the Amorite, the brother of Eshcol and Aner. (All these were allied by treaty with Abram.) 
+
+**14** When Abram heard that his nephew had been taken captive, he mobilized his 318 trained men who had been born in his household, and he pursued the invaders as far as Dan. 
+
+**15** Then, during the night, Abram divided his forces against them and defeated them. He chased them as far as Hobah, which is north of Damascus. 
+
+**16** He retrieved all the stolen property. He also brought back his nephew Lot and his possessions, as well as the women and the rest of the people. 
+
+**17** After Abram returned from defeating Kedorlaomer and the kings who were with him, the king of Sodom went out to meet Abram in the Valley of Shaveh (known as the King’s Valley). 
+
+**18** Melchizedek king of Salem brought out bread and wine. (Now he was the priest of the Most High God.) 
+
+**19** He blessed Abram, saying, “Blessed be Abram by the Most High God, Creator of heaven and earth. 
+
+**20** Worthy of praise is the Most High God, who delivered your enemies into your hand.” Abram gave Melchizedek a tenth of everything. 
+
+**21** Then the king of Sodom said to Abram, “Give me the people and take the possessions for yourself.”
+
+**22** But Abram replied to the king of Sodom, “I raise my hand to the Lord, the Most High God, Creator of heaven and earth, and vow
+
+**23** that I will take nothing belonging to you, not even a thread or the strap of a sandal. That way you can never say, ‘It is I who made Abram rich.’ 
+
+**24** I will take nothing except compensation for what the young men have eaten. As for the share of the men who went with me—Aner, Eshcol, and Mamre—let them take their share.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The sentence begins with the temporal indicator וַיְהִי (vayÿhi) followed by “in the days of.”
+
+### Verse 1 - Note 2
+[解説]  Shinar (also in v. 9) is the region of Babylonia.
+
+### Verse 1 - Note 3
+[翻訳注]  Or “king of Goyim.” The Hebrew term גּוֹיִם (goyim) means “nations,” but a number of modern translations merely transliterate the Hebrew (cf. NEB “Goyim”; NIV, NRSV “Goiim”).
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “made war.”[解説]  Went to war. The conflict here reflects international warfare in the Early and Middle Bronze periods. The countries operated with overlords and vassals. Kings ruled over city states, or sometimes a number of city states (i.e., nations). Due to their treaties, when one went to war, those confederate with him joined him in battle. It appears here that it is Kedorlaomer’s war, because the western city states have rebelled against him (meaning they did not send products as tribute to keep him from invading them).
+
+### Verse 2 - Note 2
+[解説]  On the geographical background of vv. 1-2 see J. P. Harland, “Sodom and Gomorrah,” The Biblical Archaeologist Reader, 1:41-75; and D. N. Freedman, “The Real Story of the Ebla Tablets, Ebla and the Cities of the Plain,” BA 41 (1978): 143-64.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “all these,” referring only to the last five kings named. The referent has been specified as “these last five kings” in the translation for clarity.
+
+### Verse 3 - Note 2
+[翻訳注]  The Hebrew verb used here means “to join together; to unite; to be allied.” It stresses close associations, especially of friendships, marriages, or treaties.
+
+### Verse 3 - Note 3
+[解説]  The Salt Sea is the older name for the Dead Sea.
+
+### Verse 4 - Note 1
+[翻訳注]  The sentence simply begins with “twelve years”; it serves as an adverbial accusative giving the duration of their bondage.
+
+### Verse 4 - Note 2
+[翻訳注]  This is another adverbial accusative of time.
+
+### Verse 4 - Note 3
+[解説]  The story serves as a foreshadowing of the plight of the kingdom of Israel later. Eastern powers came and forced the western kingdoms into submission. Each year, then, they would send tribute east – to keep them away. Here, in the thirteenth year, they refused to send the tribute (just as later Hezekiah rebelled against Assyria). And so in the fourteenth year the eastern powers came to put them down again. This account from Abram’s life taught future generations that God can give victory over such threats – that people did not have to live in servitude to tyrants from the east.
+
+### Verse 5 - Note 1
+[翻訳注]  The Hebrew verb נָכָה (nakhah) means “to attack, to strike, to smite.” In this context it appears that the strike was successful, and so a translation of “defeated” is preferable.
+
+### Verse 6 - Note 1
+[解説]  The line of attack ran down the eastern side of the Jordan Valley into the desert, and then turned and came up the valley to the cities of the plain.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “they returned and came to En Mishpat (that is, Kadesh).” The two verbs together form a verbal hendiadys, the first serving as the adverb: “they returned and came” means “they came again.” Most English translations do not treat this as a hendiadys, but translate “they turned back” or something similar. Since in the context, however, “came again to” does not simply refer to travel but an assault against the place, the present translation expresses this as “attacked…again.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “against.”
+
+### Verse 9 - Note 1
+[翻訳注]  Or “Goyim.” See the note on the word “nations” in 14:1.
+
+### Verse 9 - Note 2
+[翻訳注]  The Hebrew text has simply “against.” The word “fought” is supplied in the translation for stylistic reasons.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “Now the Valley of Siddim [was] pits, pits of tar.” This parenthetical disjunctive clause emphasizes the abundance of tar pits in the area through repetition of the noun “pits.”[解説]  The word for “tar” (or “bitumen”) occurs earlier in the story of the building of the tower in Babylon (see Gen 11:3).
+
+### Verse 10 - Note 2
+[翻訳注]  Or “they were defeated there.” After a verb of motion the Hebrew particle שָׁם (sham) with the directional heh (שָׁמָּה, shammah) can mean “into it, therein” (BDB 1027 s.v. שָׁם).
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “the rest.”
+
+### Verse 10 - Note 4
+[解説]  The reference to the kings of Sodom and Gomorrah must mean the kings along with their armies. Most of them were defeated in the valley, but some of them escaped to the hills.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “they”; the referent (the four victorious kings, see v. 9) has been supplied in the translation for clarity.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “Lot the son of his brother.”
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “and.”
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “he”; the referent (Lot) has been specified in the translation for clarity.
+
+### Verse 12 - Note 4
+[翻訳注]  This disjunctive clause is circumstantial/causal, explaining that Lot was captured because he was living in Sodom at the time.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “the fugitive.” The article carries a generic force or indicates that this fugitive is definite in the mind of the speaker.
+
+### Verse 13 - Note 2
+[解説]  E. A. Speiser (Genesis [AB], 103) suggests that part of this chapter came from an outside source since it refers to Abram the Hebrew. That is not impossible, given that the narrator likely utilized traditions and genealogies that had been collected and transmitted over the years. The meaning of the word “Hebrew” has proved elusive. It may be related to the verb “to cross over,” perhaps meaning “immigrant.” Or it might be derived from the name of Abram’s ancestor Eber (see Gen 11:14-16).
+
+### Verse 13 - Note 3
+[翻訳注]  Or “terebinths.”
+
+### Verse 13 - Note 4
+[翻訳注]  Or “a brother”; or “a relative”; or perhaps “an ally.”
+
+### Verse 13 - Note 5
+[翻訳注]  Heb “possessors of a treaty with.” Since it is likely that the qualifying statement refers to all three (Mamre, Eshcol, and Aner) the words “all these” have been supplied in the translation to make this clear.
+
+### Verse 13 - Note 6
+[翻訳注]  This parenthetical disjunctive clause explains how Abram came to be living in their territory, but it also explains why they must go to war with Abram.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “his brother,” by extension, “relative.” Here and in v. 16 the more specific term “nephew” has been used in the translation for clarity. Lot was the son of Haran, Abram’s brother (Gen 11:27).
+
+### Verse 14 - Note 2
+[翻訳注]  The verb וַיָּרֶק (vayyareq) is a rare form, probably related to the word רֵיק (req, “to be empty”). If so, it would be a very figurative use: “he emptied out” (or perhaps “unsheathed”) his men. The LXX has “mustered” (cf. NEB). E. A. Speiser (Genesis [AB], 103-4) suggests reading with the Samaritan Pentateuch a verb diq, cognate with Akkadian deku, “to mobilize” troops. If this view is accepted, one must assume that a confusion of the Hebrew letters ד (dalet) and ר (resh) led to the error in the traditional Hebrew text. These two letters are easily confused in all phases of ancient Hebrew script development. The present translation is based on this view.
+
+### Verse 14 - Note 3
+[翻訳注]  The words “the invaders” have been supplied in the translation for clarification.
+
+### Verse 14 - Note 4
+[解説]  The use of the name Dan reflects a later perspective. The Danites did not migrate to this northern territory until centuries later (see Judg 18:29). Furthermore Dan was not even born until much later. By inserting this name a scribe has clarified the location of the region.
+
+### Verse 15 - Note 1
+[翻訳注]  The Hebrew text simply has “night” as an adverbial accusative.
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “he”; the referent (Abram) has been specified in the translation for clarity.
+
+### Verse 15 - Note 3
+[翻訳注]  Heb “he divided himself…he and his servants.”
+
+### Verse 15 - Note 4
+[翻訳注]  Heb “left.” Directions in ancient Israel were given in relation to the east rather than the north.
+
+### Verse 16 - Note 1
+[翻訳注]  The word “stolen” is supplied in the translation for clarification.
+
+### Verse 16 - Note 2
+[翻訳注]  The phrase “the rest of “ has been supplied in the translation for clarification.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “he”; the referent (Abram) has been specified in the translation for clarity.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “him”; the referent (Abram) has been specified in the translation for clarity.
+
+### Verse 17 - Note 3
+[解説]  The King’s Valley is possibly a reference to what came to be known later as the Kidron Valley.
+
+### Verse 18 - Note 1
+[解説]  Salem is traditionally identified as the Jebusite stronghold of old Jerusalem. Accordingly, there has been much speculation about its king. Though some have identified him with the preincarnate Christ or with Noah’s son Shem, it is far more likely that Melchizedek was a Canaanite royal priest whom God used to renew the promise of the blessing to Abram, perhaps because Abram considered Melchizedek his spiritual superior. But Melchizedek remains an enigma. In a book filled with genealogical records he appears on the scene without a genealogy and then disappears from the narrative. In  the Lord declares that the Davidic king is a royal priest after the pattern of Melchizedek.
+
+### Verse 18 - Note 2
+[翻訳注]  The parenthetical disjunctive clause significantly identifies Melchizedek as a priest as well as a king.[解説]  It is his royal priestly status that makes Melchizedek a type of Christ: He was identified with Jerusalem, superior to the ancestor of Israel, and both a king and a priest. Unlike the normal Canaanites, this man served “God Most High” (אֵל עֶלְיוֹן, ’el ’elyon) – one sovereign God, who was the creator of all the universe. Abram had in him a spiritual brother.
+
+### Verse 19 - Note 1
+[翻訳注]  The preposition לְ (lamed) introduces the agent after the passive participle.
+
+### Verse 19 - Note 2
+[翻訳注]  Some translate “possessor of heaven and earth” (cf. NASB). But cognate evidence from Ugaritic indicates that there were two homonymic roots ָקנָה (qanah), one meaning “to create” (as in Gen 4:1) and the other “to obtain, to acquire, to possess.” While “possessor” would fit here, “creator” is the more likely due to the collocation with “heaven and earth.”
+
+### Verse 19 - Note 3
+[翻訳注]  The terms translated “heaven” and “earth” are both objective genitives after the participle in construct.
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “blessed be.” For God to be “blessed” means that is praised. His reputation is enriched in the world as his name is praised.
+
+### Verse 20 - Note 2
+[解説]  Who delivered. The Hebrew verb מִגֵּן (miggen, “delivered”) foreshadows the statement by God to Abram in Gen 15:1, “I am your shield” (מָגֵן, magen). Melchizedek provided a theological interpretation of Abram’s military victory.
+
+### Verse 20 - Note 3
+[翻訳注]  Heb “him”; the referent (Melchizedek) has been specified in the translation for clarity.
+
+### Verse 22 - Note 1
+[翻訳注]  Abram takes an oath, raising his hand as a solemn gesture. The translation understands the perfect tense as having an instantaneous nuance: “Here and now I raise my hand.”
+
+### Verse 22 - Note 2
+[翻訳注]  The words “and vow” are not in the Hebrew text, but are supplied in the translation for clarification.
+
+### Verse 23 - Note 1
+[翻訳注]  The oath formula is elliptical, reading simply: “…if I take.” It is as if Abram says, “[May the Lord deal with me] if I take,” meaning, “I will surely not take.” The positive oath would add the negative adverb and be the reverse: “[God will deal with me] if I do not take,” meaning, “I certainly will.”
+
+### Verse 23 - Note 2
+[翻訳注]  The Hebrew text adds the independent pronoun (“I”) to the verb form for emphasis.
+
+### Verse 24 - Note 1
+[翻訳注]  The words “I will take nothing” have been supplied in the translation for stylistic reasons.
+
+### Verse 24 - Note 2
+[翻訳注]  Heb “except only what the young men have eaten.”

@@ -1014,7 +1014,20 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "app.js"), "w", encoding="utf-8") as f:
         f.write(generate_js())
 
-    # 既存のデータから available_chapters を構築
+    # 処理 (データ取得)
+    # ここでは自分自身の担当分だけを処理・保存する
+    for book, chapter in books_to_process:
+        print(f"\n=== {book} {chapter} ===")
+        try:
+            data = process_chapter(book, chapter)
+            export_markdown(data)
+        except Exception as e:
+            print(f"  エラー: {e}")
+            import traceback
+            traceback.print_exc()
+
+    # 自分の処理が全て終わった後、HTML生成の直前で「現在のディスク上の最新状態」をスキャンする
+    # こうすることで、自分が処理している間に別の並列プロセスが保存した章も全て漏れなく認識できる
     available_chapters = {}
     if os.path.exists(DATA_DIR):
         for b_dir in os.listdir(DATA_DIR):
@@ -1031,20 +1044,6 @@ def main():
                             available_chapters[b_name].add(ch)
                         except ValueError:
                             pass
-
-    # 処理 (データ取得)
-    for book, chapter in books_to_process:
-        print(f"\n=== {book} {chapter} ===")
-        try:
-            data = process_chapter(book, chapter)
-            export_markdown(data)
-            if book not in available_chapters:
-                available_chapters[book] = set()
-            available_chapters[book].add(chapter)
-        except Exception as e:
-            print(f"  エラー: {e}")
-            import traceback
-            traceback.print_exc()
 
     # 全ての available_chapters の HTML を再生成
     print("\n=== HTML一括再生成 ===")
