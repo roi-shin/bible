@@ -1,0 +1,268 @@
+# Genesis 21 (English)
+
+## Text
+
+**1** The Lord visited Sarah just as he had said he would and did for Sarah what he had promised. 
+
+**2** So Sarah became pregnant and bore Abraham a son in his old age at the appointed time that God had told him. 
+
+**3** Abraham named his son—whom Sarah bore to him—Isaac. 
+
+**4** When his son Isaac was eight days old, Abraham circumcised him just as God had commanded him to do.
+
+**5** (Now Abraham was one hundred years old when his son Isaac was born to him.)
+
+**6** Sarah said, “God has made me laugh. Everyone who hears about this will laugh with me.”
+
+**7** She went on to say, “Who would have said to Abraham that Sarah would nurse children? Yet I have given birth to a son for him in his old age!” 
+
+**8** The child grew and was weaned. Abraham prepared a great feast on the day that Isaac was weaned. 
+
+**9** But Sarah noticed the son of Hagar the Egyptian—the son whom Hagar had borne to Abraham—mocking. 
+
+**10** So she said to Abraham, “Banish that slave woman and her son, for the son of that slave woman will not be an heir along with my son Isaac!” 
+
+**11** Sarah’s demand displeased Abraham greatly because Ishmael was his son. 
+
+**12** But God said to Abraham, “Do not be upset about the boy or your slave wife. Do all that Sarah is telling you because through Isaac your descendants will be counted. 
+
+**13** But I will also make the son of the slave wife into a great nation, for he is your descendant too.”
+
+**14** Early in the morning Abraham took some food and a skin of water and gave them to Hagar. He put them on her shoulders, gave her the child, and sent her away. So she went wandering aimlessly through the wilderness of Beer Sheba. 
+
+**15** When the water in the skin was gone, she shoved the child under one of the shrubs. 
+
+**16** Then she went and sat down by herself across from him at quite a distance, about a bowshot, away; for she thought, “I refuse to watch the child die.” So she sat across from him and wept uncontrollably.
+
+**17** But God heard the boy’s voice. The angel of God called to Hagar from heaven and asked her, “What is the matter, Hagar? Don’t be afraid, for God has heard the boy’s voice right where he is crying.
+
+**18** Get up! Help the boy up and hold him by the hand, for I will make him into a great nation.” 
+
+**19** Then God enabled Hagar to see a well of water. She went over and filled the skin with water, and then gave the boy a drink. 
+
+**20** God was with the boy as he grew. He lived in the wilderness and became an archer. 
+
+**21** He lived in the wilderness of Paran. His mother found a wife for him from the land of Egypt. 
+
+**22** At that time Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you in all that you do. 
+
+**23** Now swear to me right here in God’s name that you will not deceive me, my children, or my descendants. Show me, and the land where you are staying, the same loyalty that I have shown you.” 
+
+**24** Abraham said, “I swear to do this.”
+
+**25** But Abraham lodged a complaint against Abimelech concerning a well that Abimelech’s servants had seized. 
+
+**26** “I do not know who has done this thing,” Abimelech replied. “Moreover, you did not tell me. I did not hear about it until today.” 
+
+**27** Abraham took some sheep and cattle and gave them to Abimelech. The two of them made a treaty. 
+
+**28** Then Abraham set seven ewe lambs apart from the flock by themselves. 
+
+**29** Abimelech asked Abraham, “What is the meaning of these seven ewe lambs that you have set apart?” 
+
+**30** He replied, “You must take these seven ewe lambs from my hand as legal proof that I dug this well.” 
+
+**31** That is why he named that place Beer Sheba, because the two of them swore an oath there. 
+
+**32** So they made a treaty at Beer Sheba; then Abimelech and Phicol, the commander of his army, returned to the land of the Philistines. 
+
+**33** Abraham planted a tamarisk tree in Beer Sheba. There he worshiped the Lord, the eternal God. 
+
+**34** So Abraham stayed in the land of the Philistines for quite some time. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The Hebrew verb translated “visit” (פָּקַד, paqad ) often describes divine intervention for blessing or cursing; it indicates God’s special attention to an individual or a matter, always with respect to his people’s destiny. He may visit (that is, destroy) the Amalekites; he may visit (that is, deliver) his people in Egypt. Here he visits Sarah, to allow her to have the promised child. One’s destiny is changed when the Lord “visits.” For a more detailed study of the term, see G. André, Determining the Destiny (ConBOT).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “and the Lord did.” The divine name has not been repeated here in the translation for stylistic reasons.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “spoken.”
+
+### Verse 2 - Note 1
+[翻訳注]  Or “she conceived.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “the one born to him, whom Sarah bore to him, Isaac.” The two modifying clauses, the first introduced with an article and the second with the relative pronoun, are placed in the middle of the sentence, before the name Isaac is stated. They are meant to underscore that this was indeed an actual birth to Abraham and Sarah in fulfillment of the promise.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “Isaac his son, the son of eight days.” The name “Isaac” is repeated in the translation for clarity.
+
+### Verse 4 - Note 2
+[解説]  Just as God had commanded him to do. With the birth of the promised child, Abraham obeyed the Lord by both naming (Gen 17:19) and circumcising Isaac (17:12).
+
+### Verse 5 - Note 1
+[翻訳注]  The parenthetical disjunctive clause underscores how miraculous this birth was. Abraham was 100 years old. The fact that the genealogies give the ages of the fathers when their first son is born shows that this was considered a major milestone in one’s life (G. J. Wenham, Genesis [WBC], 2:80).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “Laughter God has made for me.”
+
+### Verse 6 - Note 2
+[翻訳注]  The words “about this” are supplied in the translation for clarification.
+
+### Verse 6 - Note 3
+[解説]  Sarah’s words play on the name “Isaac” in a final triumphant manner. God prepared “laughter” (צְחֹק, ysÿkhoq ) for her, and everyone who hears about this “will laugh” (יִצְחַק, yitskhaq ) with her. The laughter now signals great joy and fulfillment, not unbelief (cf. Gen 18:12-15).
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “said.”
+
+### Verse 7 - Note 2
+[翻訳注]  The perfect form of the verb is used here to describe a hypothetical situation.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “made.”
+
+### Verse 8 - Note 2
+[解説]  Children were weaned closer to the age of two or three in the ancient world, because infant mortality was high. If an infant grew to this stage, it was fairly certain he or she would live. Such an event called for a celebration, especially for parents who had waited so long for a child.
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “saw.”
+
+### Verse 9 - Note 2
+[翻訳注]  The Piel participle used here is from the same root as the name “Isaac.” In the Piel stem the verb means “to jest; to make sport of; to play with,” not simply “to laugh,” which is the meaning of the verb in the Qal stem. What exactly Ishmael was doing is not clear. Interpreters have generally concluded that the boy was either (1) mocking Isaac (cf. NASB, NIV, NLT) or (2) merely playing with Isaac as if on equal footing (cf. NAB, NRSV). In either case Sarah saw it as a threat. The same participial form was used in Gen 19:14 to describe how some in Lot’s family viewed his attempt to warn them of impending doom. It also appears later in Gen 39:14, 17, where Potiphar accuses Joseph of mocking them.[解説]  Mocking. Here Sarah interprets Ishmael’s actions as being sinister. Ishmael probably did not take the younger child seriously and Sarah saw this as a threat to Isaac. Paul in Gal 4:29 says that Ishmael persecuted Isaac. He uses a Greek word that can mean “to put to flight; to chase away; to pursue” and may be drawing on a rabbinic interpretation of the passage. In Paul’s analogical application of the passage, he points out that once the promised child Isaac (symbolizing Christ as the fulfillment of God’s promise) has come, there is no room left for the slave woman and her son (who symbolize the Mosaic law).
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “drive out.” The language may seem severe, but Sarah’s maternal instincts sensed a real danger in that Ishmael was not treating Isaac with the proper respect.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “and the word was very wrong in the eyes of Abraham on account of his son.” The verb רָעַע (ra’a’) often refers to what is morally or ethically “evil.” It usage here suggests that Abraham thought Sarah’s demand was ethically (and perhaps legally) wrong.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “Let it not be evil in your eyes.”
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “listen to her voice.” The idiomatic expression means “obey; comply.” Here her advice, though harsh, is necessary and conforms to the will of God. Later (see ), when Abraham has other sons, he sends them all away as well.
+
+### Verse 12 - Note 3
+[翻訳注]  The imperfect verbal form here draws attention to an action that is underway.
+
+### Verse 12 - Note 4
+[翻訳注]  Or perhaps “will be named”; Heb “for in Isaac offspring will be called to you.” The exact meaning of the statement is not clear, but it does indicate that God’s covenantal promises to Abraham will be realized through Isaac, not Ishmael.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “and Abraham rose up early in the morning and he took.”
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “bread,” although the term can be used for food in general.
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “He put upon her shoulder, and the boy [or perhaps, “and with the boy”], and he sent her away.” It is unclear how “and the boy” relates syntactically to what precedes. Perhaps the words should be rearranged and the text read, “and he put [them] on her shoulder and he gave to Hagar the boy.”
+
+### Verse 14 - Note 4
+[翻訳注]  Heb “she went and wandered.”
+
+### Verse 14 - Note 5
+[翻訳注]  Or “desert,” although for English readers this usually connotes a sandy desert like the Sahara rather than the arid wasteland of this region with its sparse vegetation.
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “threw,” but the child, who was now thirteen years old, would not have been carried, let alone thrown under a bush. The exaggerated language suggests Ishmael is limp from dehydration and is being abandoned to die. See G. J. Wenham, Genesis (WBC), 2:85.
+
+### Verse 16 - Note 1
+[解説]  A bowshot would be a distance of about a hundred yards (ninety meters).
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “said.”
+
+### Verse 16 - Note 3
+[翻訳注]  Heb “I will not look on the death of the child.” The cohortative verbal form (note the negative particle אַל,’al) here expresses her resolve to avoid the stated action.
+
+### Verse 16 - Note 4
+[翻訳注]  Heb “and she lifted up her voice and wept” (that is, she wept uncontrollably). The LXX reads “he” (referring to Ishmael) rather than “she” (referring to Hagar), but this is probably an attempt to harmonize this verse with the following one, which refers to the boy’s cries.
+
+### Verse 17 - Note 1
+[解説]  God heard the boy’s voice. The text has not to this point indicated that Ishmael was crying out, either in pain or in prayer. But the text here makes it clear that God heard him. Ishmael is clearly central to the story. Both the mother and the Lord are focused on the child’s imminent death.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “What to you?”
+
+### Verse 17 - Note 3
+[解説]  Here the verb heard picks up the main motif of the name Ishmael (“God hears”), introduced back in chap. .
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “And God opened her eyes and she saw a well of water.” The referent (Hagar) has been specified in the translation for clarity.
+
+### Verse 21 - Note 1
+[解説]  The wilderness of Paran is an area in the east central region of the Sinai peninsula, northeast from the traditional site of Mt. Sinai and with the Arabah and the Gulf of Aqaba as its eastern border.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “And his mother took for him a wife from the land of Egypt.”
+
+### Verse 22 - Note 1
+[解説]  God is with you. Abimelech and Phicol recognized that Abraham enjoyed special divine provision and protection.
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “And now swear to me by God here.”
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “my offspring and my descendants.”
+
+### Verse 23 - Note 3
+[翻訳注]  The word “land” refers by metonymy to the people in the land.
+
+### Verse 23 - Note 4
+[翻訳注]  The Hebrew verb means “to stay, to live, to sojourn” as a temporary resident without ownership rights.
+
+### Verse 23 - Note 5
+[翻訳注]  Or “kindness.”
+
+### Verse 23 - Note 6
+[翻訳注]  Heb “According to the loyalty which I have done with you, do with me and with the land in which you are staying.”
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “I swear.” No object is specified in the Hebrew text, but the content of the oath requested by Abimelech is the implied object.
+
+### Verse 25 - Note 1
+[翻訳注]  The Hebrew verb used here means “to argue; to dispute”; it can focus on the beginning of the dispute (as here), the dispute itself, or the resolution of a dispute (Isa 1:18). Apparently the complaint was lodged before the actual oath was taken.
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “concerning the matter of the well of water.”
+
+### Verse 25 - Note 3
+[翻訳注]  The Hebrew verb used here means “to steal; to rob; to take violently.” The statement reflects Abraham’s perspective.
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “and also.”
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “cut a covenant.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “What are these?”
+
+### Verse 30 - Note 1
+[翻訳注]  Heb “that it be for me for a witness.”
+
+### Verse 30 - Note 2
+[解説]  This well. Since the king wanted a treaty to share in Abraham’s good fortune, Abraham used the treaty to secure ownership of and protection for the well he dug. It would be useless to make a treaty to live in this territory if he had no rights to the water. Abraham consented to the treaty, but added his rider to it.
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “that is why he called that place.” Some translations render this as an impersonal passive, “that is why that place was called.”
+
+### Verse 31 - Note 2
+[解説]  The name Beer Sheba (בְּאֵר שָׁבַע, bÿ’er shava’) means “well of the oath” or “well of the seven.” Both the verb “to swear” and the number “seven” have been used throughout the account. Now they are drawn in as part of the explanation of the significance of the name.
+
+### Verse 31 - Note 3
+[解説]  The verb forms a wordplay with the name Beer Sheba.
+
+### Verse 32 - Note 1
+[翻訳注]  Heb “cut a covenant.”
+
+### Verse 32 - Note 2
+[翻訳注]  Heb “arose and returned.”
+
+### Verse 32 - Note 3
+[解説]  The Philistines mentioned here may not be ethnically related to those who lived in Palestine in the time of the judges and the united monarchy. See D. M. Howard, “Philistines,” Peoples of the Old Testament World, 238.
+
+### Verse 33 - Note 1
+[翻訳注]  Heb “and he”; the referent (Abraham) has been specified in the translation for clarity.
+
+### Verse 33 - Note 2
+[解説]  The planting of the tamarisk tree is a sign of Abraham’s intent to stay there for a long time, not a religious act. A growing tree in the Negev would be a lasting witness to God’s provision of water.
+
+### Verse 33 - Note 3
+[翻訳注]  Heb “he called there in the name of the Lord.” The expression refers to worshiping the Lord through prayer and sacrifice (see Gen 4:26; 12:8; 13:4; 26:25). See G. J. Wenham, Genesis (WBC), 1:116, 281.
+
+### Verse 34 - Note 1
+[翻訳注]  Heb “many days.”

@@ -1,0 +1,210 @@
+# Genesis 35 (English)
+
+## Text
+
+**1** Then God said to Jacob, “Go up at once to Bethel and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau.” 
+
+**2** So Jacob told his household and all who were with him, “Get rid of the foreign gods you have among you. Purify yourselves and change your clothes. 
+
+**3** Let us go up at once to Bethel. Then I will make an altar there to God, who responded to me in my time of distress and has been with me wherever I went.” 
+
+**4** So they gave Jacob all the foreign gods that were in their possession and the rings that were in their ears. Jacob buried them under the oak near Shechem 
+
+**5** and they started on their journey. The surrounding cities were afraid of God, and they did not pursue the sons of Jacob. 
+
+**6** Jacob and all those who were with him arrived at Luz (that is, Bethel) in the land of Canaan. 
+
+**7** He built an altar there and named the place El Bethel because there God had revealed himself to him when he was fleeing from his brother. 
+
+**8** (Deborah, Rebekah’s nurse, died and was buried under the oak below Bethel; thus it was named Oak of Weeping.) 
+
+**9** God appeared to Jacob again after he returned from Paddan Aram and blessed him.
+
+**10** God said to him, “Your name is Jacob, but your name will no longer be called Jacob; Israel will be your name.” So God named him Israel. 
+
+**11** Then God said to him, “I am the Sovereign God. Be fruitful and multiply! A nation—even a company of nations—will descend from you; kings will be among your descendants!
+
+**12** The land I gave to Abraham and Isaac I will give to you. To your descendants I will also give this land.” 
+
+**13** Then God went up from the place where he spoke with him.
+
+**14** So Jacob set up a sacred stone pillar in the place where God spoke with him. He poured out a drink offering on it, and then he poured oil on it.
+
+**15** Jacob named the place where God spoke with him Bethel. 
+
+**16** They traveled on from Bethel, and when Ephrath was still some distance away, Rachel went into labor—and her labor was hard. 
+
+**17** When her labor was at its hardest, the midwife said to her, “Don’t be afraid, for you are having another son.” 
+
+**18** With her dying breath, she named him Ben Oni. But his father called him Benjamin instead.
+
+**19** So Rachel died and was buried on the way to Ephrath (that is, Bethlehem). 
+
+**20** Jacob set up a marker over her grave; it is the Marker of Rachel’s Grave to this day. 
+
+**21** Then Israel traveled on and pitched his tent beyond Migdal Eder. 
+
+**22** While Israel was living in that land, Reuben went to bed with Bilhah, his father’s concubine, and Israel heard about it.Jacob had twelve sons: 
+
+**23** The sons of Leah were Reuben, Jacob’s firstborn, as well as Simeon, Levi, Judah, Issachar, and Zebulun. 
+
+**24** The sons of Rachel were Joseph and Benjamin. 
+
+**25** The sons of Bilhah, Rachel’s servant, were Dan and Naphtali. 
+
+**26** The sons of Zilpah, Leah’s servant, were Gad and Asher.These were the sons of Jacob who were born to him in Paddan Aram. 
+
+**27** So Jacob came back to his father Isaac in Mamre, to Kiriath Arba (that is, Hebron), where Abraham and Isaac had stayed. 
+
+**28** Isaac lived to be 180 years old.
+
+**29** Then Isaac breathed his last and joined his ancestors. He died an old man who had lived a full life. His sons Esau and Jacob buried him.
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “arise, go up.” The first imperative gives the command a sense of urgency.
+
+### Verse 1 - Note 2
+[地図]  For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3.
+
+### Verse 1 - Note 3
+[解説]  God is calling on Jacob to fulfill his vow he made when he fled from…Esau (see Gen 28:20-22).
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “which are in your midst.”
+
+### Verse 2 - Note 2
+[解説]  The actions of removing false gods, becoming ritually clean, and changing garments would become necessary steps in Israel when approaching the Lord in worship.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “let us arise and let us go up.” The first cohortative gives the statement a sense of urgency.
+
+### Verse 3 - Note 2
+[翻訳注]  The cohortative with the prefixed conjunction here indicates purpose or consequence.
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “day of distress.” See Ps 20:1 which utilizes similar language.
+
+### Verse 3 - Note 4
+[翻訳注]  Heb “in the way in which I went.” Jacob alludes here to God’s promise to be with him (see Gen 28:20).
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “in their hand.”
+
+### Verse 4 - Note 2
+[解説]  On the basis of a comparison with  and , G. J. Wenham argues that the foreign gods and the rings could have been part of the plunder that came from the destruction of Shechem (Genesis [WBC], 2:324).
+
+### Verse 4 - Note 3
+[解説]  Jacob buried them. On the burial of the gods, see E. Nielson, “The Burial of the Foreign Gods,” ST 8 (1954/55): 102-22.
+
+### Verse 4 - Note 4
+[翻訳注]  Or “terebinth.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “and they journeyed.”
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “and the fear of God was upon the cities which were round about them.” The expression “fear of God” apparently refers (1) to a fear of God (objective genitive; God is the object of their fear). (2) But it could mean “fear from God,” that is, fear which God placed in them (cf. NRSV “a terror from God”). Another option (3) is that the divine name is used as a superlative here, referring to “tremendous fear” (cf. NEB “were panic-stricken”; NASB “a great terror”).
+
+### Verse 6 - Note 1
+[地図]  For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3.
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “and Jacob came to Luz which is in the land of Canaan – it is Bethel – he and all the people who were with him.”
+
+### Verse 7 - Note 1
+[解説]  The name El-Bethel means “God of Bethel.”
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “revealed themselves.” The verb נִגְלוּ (niglu), translated “revealed himself,” is plural, even though one expects the singular form with the plural of majesty. Perhaps אֱלֹהִים (’elohim) is here a numerical plural, referring both to God and the angelic beings that appeared to Jacob. See the note on the word “know” in Gen 3:5.
+
+### Verse 8 - Note 1
+[解説]  Deborah. This woman had been Rebekah’s nurse, but later attached herself to Jacob. She must have been about one hundred and eighty years old when she died.
+
+### Verse 8 - Note 2
+[翻訳注]  “and he called its name.” There is no expressed subject, so the verb can be translated as passive.
+
+### Verse 8 - Note 3
+[翻訳注]  Or “Allon Bacuth,” if one transliterates the Hebrew name (cf. NEB, NIV, NRSV). An oak tree was revered in the ancient world and often designated as a shrine or landmark. This one was named for the weeping (mourning) occasioned by the death of Deborah.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “and he called his name Israel.” The referent of the pronoun “he” (God) has been specified in the translation for clarity.[解説]  The name Israel means “God fights” (although some interpret the meaning as “he fights [with] God”). See Gen 32:28.
+
+### Verse 11 - Note 1
+[翻訳注]  The name אֵל שַׁדַּי (’el shadday, “El Shaddai”) has often been translated “God Almighty,” primarily because Jerome translated it omnipotens (“all powerful”) in the Latin Vulgate. There has been much debate over the meaning of the name. For discussion see W. F. Albright, “The Names Shaddai and Abram,” JBL 54 (1935): 173-210; R. Gordis, “The Biblical Root sdy-sd,” JTS 41 (1940): 34-43; and especially T. N. D. Mettinger, In Search of God, 69-72. Shaddai/El Shaddai is the sovereign king of the world who grants, blesses, and judges. In the Book of Genesis he blesses the patriarchs with fertility and promises numerous descendants. Outside Genesis he both blesses/protects and takes away life/happiness. The patriarchs knew God primarily as El Shaddai (Exod 6:3). While the origin and meaning of this name are uncertain its significance is clear. The name is used in contexts where God appears as the source of fertility and life. For a fuller discussion see the note on “sovereign God” in Gen 17:1.
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “A nation and a company of nations will be from you and kings from your loins will come out.”[解説]  A nation…will descend from you. The promise is rooted in the Abrahamic promise (see ). God confirms what Isaac told Jacob (see Gen 28:3-4). Here, though, for the first time Jacob is promised kings as descendants.
+
+### Verse 12 - Note 1
+[翻訳注]  The Hebrew verb translated “gave” refers to the Abrahamic promise of the land. However, the actual possession of that land lay in the future. The decree of the Lord made it certain; but it has the sense “promised to give.”
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “and to your offspring after you.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “went up from upon him in the place.”
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “and Jacob set up a sacred pillar in the place where he spoke with him, a sacred pillar of stone” (see the notes on the term “sacred stone” in Gen 28:18). This passage stands parallel to Gen 28:18-19, where Jacob set up a sacred stone, poured oil on it, and called the place Bethel. Some commentators see these as two traditions referring to the same event, but it is more likely that Jacob reconsecrated the place in fulfillment of the vow he had made here earlier. In support of this is the fact that the present narrative alludes to and is built on the previous one.
+
+### Verse 14 - Note 2
+[翻訳注]  The verb נָסַךְ (nasakh) means “to pour out, to make libations,” and the noun נֶסֶךְ (nesekh) is a “drink-offering,” usually of wine or of blood. The verb יָצַק (yatsaq) means “to pour out,” often of anointing oil, but of other elements as well.
+
+### Verse 15 - Note 1
+[解説]  Called the name of the place. In view of the previous naming of Bethel in Gen 28:19, here Jacob was confirming or affirming the name through an official ritual marking the fulfillment of the vow. This place now did become Bethel, the house of God.
+
+### Verse 15 - Note 2
+[翻訳注]  The name Bethel means “house of God” in Hebrew.[地図]  For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “and there was still a stretch of the land to go to Ephrath.”
+
+### Verse 16 - Note 2
+[翻訳注]  Normally the verb would be translated “she gave birth,” but because that obviously had not happened yet, it is better to translate the verb as ingressive, “began to give birth” (cf. NIV) or “went into labor.”
+
+### Verse 17 - Note 1
+[翻訳注]  The construction uses a Hiphil infinitive, which E. A. Speiser classifies as an elative Hiphil. The contrast is with the previous Piel: there “she had hard labor,” and here, “her labor was at its hardest.” Failure to see this, Speiser notes, has led to redundant translations and misunderstandings (Genesis [AB], 273).
+
+### Verse 17 - Note 2
+[解説]  Another son. The episode recalls and fulfills the prayer of Rachel at the birth of Joseph (Gen 30:24): “may he add” another son.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “in the going out of her life, for she was dying.” Rachel named the child with her dying breath.
+
+### Verse 18 - Note 2
+[解説]  The name Ben-Oni means “son of my suffering.” It is ironic that Rachel’s words to Jacob in Gen 30:1, “Give me children or I’ll die,” take a different turn here, for it was having the child that brought about her death.
+
+### Verse 18 - Note 3
+[翻訳注]  The disjunctive clause is contrastive.[解説]  His father called him Benjamin. There was a preference for giving children good or positive names in the ancient world, and “son of my suffering” would not do (see the incident in 1 Chr 4:9-10), because it would be a reminder of the death of Rachel (in this connection, see also D. Daube, “The Night of Death,” HTR 61 [1968]: 629-32). So Jacob named him Benjamin, which means “son of the [or “my”] right hand.” The name Benjamin appears in the Mari texts. There have been attempts to connect this name to the resident tribe listed at Mari, “sons of the south” (since the term “right hand” can also mean “south” in Hebrew), but this assumes a different reading of the story. See J. Muilenburg, “The Birth of Benjamin,” JBL 75 (1956): 194-201.
+
+### Verse 19 - Note 1
+[解説]  This explanatory note links the earlier name Ephrath with the later name Bethlehem.[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “standing stone.”
+
+### Verse 20 - Note 2
+[翻訳注]  Or perhaps “it is known as” (cf. NEB).
+
+### Verse 21 - Note 1
+[解説]  The location of Migdal Eder is not given. It appears to be somewhere between Bethlehem and Hebron. Various traditions have identified it as at the shepherds’ fields near Bethlehem (the Hebrew name Migdal Eder means “tower of the flock”; see Mic 4:8) or located it near Solomon’s pools.
+
+### Verse 27 - Note 1
+[翻訳注]  This is an adverbial accusative of location.
+
+### Verse 27 - Note 2
+[翻訳注]  The name “Kiriath Arba” is in apposition to the preceding name, “Mamre.”
+
+### Verse 27 - Note 3
+[翻訳注]  The Hebrew verb גּוּר (gur), traditionally rendered “to sojourn,” refers to temporary settlement without ownership rights.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “And the days of Isaac were one hundred and eighty years.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “and Isaac expired and died and he was gathered to his people.” In the ancient Israelite view he joined his deceased ancestors in Sheol, the land of the dead.
+
+### Verse 29 - Note 2
+[翻訳注]  Heb “old and full of years.”
