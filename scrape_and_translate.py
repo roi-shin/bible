@@ -96,11 +96,21 @@ def fetch_all_notes_for_chapter(book: str, chapter: int, max_notes_per_verse: in
 
 def clean_note_html(note_text: str) -> str:
     """注のHTMLタグを除去してプレーンテキストに"""
-    # sn, tn, tc などのプレフィックスを除去
-    text = re.sub(r'^(sn|tn|tc|map)\s*', '', note_text.strip())
-    # HTMLタグを除去
-    soup = BeautifulSoup(text, 'html.parser')
-    return soup.get_text()
+    soup = BeautifulSoup(note_text, 'html.parser')
+    
+    # notetype（tn, sn, tcなど）を分かりやすい日本語ラベルに変換
+    for span in soup.find_all('span', class_='notetype'):
+        text = span.get_text().strip()
+        if text == 'tn':
+            span.string = "[翻訳注] "
+        elif text == 'sn':
+            span.string = "[解説] "
+        elif text == 'tc':
+            span.string = "[写本注] "
+        elif text == 'map':
+            span.string = "[地図] "
+            
+    return soup.get_text().strip()
 
 def translate_with_agy(raw_data: dict) -> dict:
     """agy CLIを使ってJSON全体の英語を一括翻訳する"""
@@ -296,7 +306,8 @@ def generate_chapter_html(data: dict) -> str:
           <div class="verse-num">{vn}</div>
           <div class="verse-content">
             <div class="verse-ja">{v["ja"]}</div>
-            <div class="verse-en">{v["en"]}{note_markers}</div>
+            <div class="verse-en">{v["en"]}</div>
+            <div class="verse-markers">{note_markers}</div>
           </div>
         </div>"""
 
@@ -544,6 +555,13 @@ header {
   font-size: 0.85rem;
   line-height: 1.7;
   color: var(--verse-en-color);
+}
+
+.verse-markers {
+  margin-top: 0.3rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
 }
 
 .note-ref {
