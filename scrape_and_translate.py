@@ -179,11 +179,18 @@ def translate_with_agy(raw_data: dict) -> dict:
     ]
     
     print("    agy CLI を呼び出して一括翻訳中...")
-    result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
-    
-    if result.returncode != 0:
-        print(f"agyコマンドエラー:\n{result.stderr}")
-        raise Exception("agy CLI translation failed")
+    import time
+    max_retries = 3
+    for attempt in range(max_retries):
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+        if result.returncode == 0:
+            break
+        print(f"    [警告] agyコマンドエラー (試行 {attempt + 1}/{max_retries}):\n{result.stderr}")
+        if attempt < max_retries - 1:
+            print("    10秒待機して再試行します...")
+            time.sleep(10)
+        else:
+            raise Exception("agy CLI translation failed after retries")
         
     try:
         # agyの--output-format json は {"response": "..."} でラップされるので、
