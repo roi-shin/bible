@@ -957,18 +957,20 @@ def main():
 
     # 既存のデータからも available_chapters を構築
     if os.path.exists(DATA_DIR):
-        for f in os.listdir(DATA_DIR):
-            if f.endswith(".json"):
-                parts = f.replace(".json", "").rsplit("_", 1)
-                if len(parts) == 2:
-                    b = parts[0].replace("_", " ")
-                    try:
-                        ch = int(parts[1])
-                        if b not in available_chapters:
-                            available_chapters[b] = set()
-                        available_chapters[b].add(ch)
-                    except ValueError:
-                        pass
+        for b_dir in os.listdir(DATA_DIR):
+            book_path = os.path.join(DATA_DIR, b_dir)
+            if os.path.isdir(book_path):
+                b_name = b_dir.replace("_", " ")
+                for c_dir in os.listdir(book_path):
+                    ch_path = os.path.join(book_path, c_dir)
+                    if os.path.isdir(ch_path) and os.path.exists(os.path.join(ch_path, "data.json")):
+                        try:
+                            ch = int(c_dir)
+                            if b_name not in available_chapters:
+                                available_chapters[b_name] = set()
+                            available_chapters[b_name].add(ch)
+                        except ValueError:
+                            pass
 
     # 目次生成
     index_html = generate_index_html(available_chapters)
