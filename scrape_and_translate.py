@@ -326,7 +326,7 @@ def export_markdown(data: dict):
     print(f"  Markdown出力完了: {en_file}, {ja_file}")
 
 
-def generate_chapter_html(data: dict) -> str:
+def generate_chapter_html(data: dict, available_chapters: dict) -> str:
     """1章分のHTMLを生成"""
     book = data["book"]
     chapter = data["chapter"]
@@ -363,8 +363,11 @@ def generate_chapter_html(data: dict) -> str:
     title_ja = f"{ja_book} {chapter}"
     title_en = f"{book} {chapter}"
     
-    prev_disabled = " disabled" if chapter <= 1 else ""
-    next_disabled = " disabled" if chapter >= BOOKS.get(book, 1) else ""
+    prev_ch_available = book in available_chapters and (chapter - 1) in available_chapters[book]
+    next_ch_available = book in available_chapters and (chapter + 1) in available_chapters[book]
+
+    prev_disabled = "" if prev_ch_available else " disabled"
+    next_disabled = "" if next_ch_available else " disabled"
     prev_link = f"{book.replace(' ', '_')}_{chapter-1}.html"
     next_link = f"{book.replace(' ', '_')}_{chapter+1}.html"
 
@@ -993,28 +996,8 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "app.js"), "w", encoding="utf-8") as f:
         f.write(generate_js())
 
-    # 処理
+    # 既存のデータから available_chapters を構築
     available_chapters = {}
-    for book, chapter in books_to_process:
-        print(f"\n=== {book} {chapter} ===")
-        try:
-            data = process_chapter(book, chapter)
-            export_markdown(data)
-            html = generate_chapter_html(data)
-            fname = f"{book.replace(' ', '_')}_{chapter}.html"
-            with open(os.path.join(OUTPUT_DIR, fname), "w", encoding="utf-8") as f:
-                f.write(html)
-            print(f"  HTML出力: {fname}")
-
-            if book not in available_chapters:
-                available_chapters[book] = set()
-            available_chapters[book].add(chapter)
-        except Exception as e:
-            print(f"  エラー: {e}")
-            import traceback
-            traceback.print_exc()
-
-    # 既存のデータからも available_chapters を構築
     if os.path.exists(DATA_DIR):
         for b_dir in os.listdir(DATA_DIR):
             book_path = os.path.join(DATA_DIR, b_dir)
@@ -1030,6 +1013,36 @@ def main():
                             available_chapters[b_name].add(ch)
                         except ValueError:
                             pass
+
+    # 処理 (データ取得)
+    for book, chapter in books_to_process:
+        print(f"\n=== {book} {chapter} ===")
+        try:
+            data = process_chapter(book, chapter)
+            export_markdown(data)
+            if book not in available_chapters:
+                available_chapters[book] = set()
+            available_chapters[book].add(chapter)
+        except Exception as e:
+            print(f"  エラー: {e}")
+            import traceback
+            traceback.print_exc()
+
+    # 全ての available_chapters の HTML を再生成
+    print("\n=== HTML一括再生成 ===")
+    for b_name, chapters in available_chapters.items():
+        for ch in chapters:
+            try:
+                ch_path = os.path.join(DATA_DIR, b_name.replace(" ", "_"), str(ch), "data.json")
+                if os.path.exists(ch_path):
+                    with open(ch_path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    html = generate_chapter_html(data, available_chapters)
+                    fname = f"{b_name.replace(' ', '_')}_{ch}.html"
+                    with open(os.path.join(OUTPUT_DIR, fname), "w", encoding="utf-8") as f:
+                        f.write(html)
+            except Exception as e:
+                print(f"  HTML生成エラー ({b_name} {ch}): {e}")
 
     # 目次生成
     index_html = generate_index_html(available_chapters)

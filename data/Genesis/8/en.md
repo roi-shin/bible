@@ -1,0 +1,166 @@
+# Genesis 8 (English)
+
+## Text
+
+**1** But God remembered Noah and all the wild animals and domestic animals that were with him in the ark. God caused a wind to blow over the earth and the waters receded. 
+
+**2** The fountains of the deep and the floodgates of heaven were closed, and the rain stopped falling from the sky. 
+
+**3** The waters kept receding steadily from the earth, so that they had gone down by the end of the 150 days. 
+
+**4** On the seventeenth day of the seventh month, the ark came to rest on one of the mountains of Ararat. 
+
+**5** The waters kept on receding until the tenth month. On the first day of the tenth month, the tops of the mountains became visible. 
+
+**6** At the end of 40 days, Noah opened the window he had made in the ark 
+
+**7** and sent out a raven; it kept flying back and forth until the waters had dried up on the earth. 
+
+**8** Then Noah sent out a dove to see if the waters had receded from the surface of the ground. 
+
+**9** The dove could not find a resting place for its feet because water still covered the surface of the entire earth, and so it returned to Noah in the ark. He stretched out his hand, took the dove, and brought it back into the ark. 
+
+**10** He waited seven more days and then sent out the dove again from the ark. 
+
+**11** When the dove returned to him in the evening, there was a freshly plucked olive leaf in its beak! Noah knew that the waters had receded from the earth. 
+
+**12** He waited another seven days and sent the dove out again, but it did not return to him this time.
+
+**13** In Noah’s six hundred and first year, in the first day of the first month, the waters had dried up from the earth, and Noah removed the covering from the ark and saw that the surface of the ground was dry. 
+
+**14** And by the twenty-seventh day of the second month the earth was dry. 
+
+**15** Then God spoke to Noah and said, 
+
+**16** “Come out of the ark, you, your wife, your sons, and your sons’ wives with you. 
+
+**17** Bring out with you all the living creatures that are with you. Bring out every living thing, including the birds, animals, and every creeping thing that creeps on the earth. Let them increase and be fruitful and multiply on the earth!” 
+
+**18** Noah went out along with his sons, his wife, and his sons’ wives. 
+
+**19** Every living creature, every creeping thing, every bird, and everything that moves on the earth went out of the ark in their groups. 
+
+**20** Noah built an altar to the Lord. He then took some of every kind of clean animal and clean bird and offered burnt offerings on the altar. 
+
+**21** And the Lord smelled the soothing aroma and said to himself, “I will never again curse the ground because of humankind, even though the inclination of their minds is evil from childhood on. I will never again destroy everything that lives, as I have just done. 
+
+**22** “While the earth continues to exist, planting time and harvest, cold and heat, summer and winter, and day and night will not cease.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The Hebrew word translated “remembered” often carries the sense of acting in accordance with what is remembered, i.e., fulfilling covenant promises (see B. S. Childs, Memory and Tradition in Israel [SBT], especially p. 34).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “to pass over.”
+
+### Verse 2 - Note 1
+[翻訳注]  Some (e.g., NIV) translate the preterite verb forms in this verse as past perfects (e.g., “had been closed”), for it seems likely that the sources of the water would have stopped before the waters receded.
+
+### Verse 3 - Note 1
+[翻訳注]  The construction combines a Qal preterite from שׁוּב (shuv) with its infinitive absolute to indicate continuous action. The infinitive absolute from הָלָךְ (halakh) is included for emphasis: “the waters returned…going and returning.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “the waters.” The pronoun (“they”) has been employed in the translation for stylistic reasons.
+
+### Verse 3 - Note 3
+[翻訳注]  The vav (ו) consecutive with the preterite here describes the consequence of the preceding action.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “on the mountains of Ararat.” Obviously a boat (even one as large as the ark) cannot rest on multiple mountains. Perhaps (1) the preposition should be translated “among,” or (2) the plural “mountains” should be understood in the sense of “mountain range” (see E. A. Speiser, Genesis [AB], 53). A more probable option (3) is that the plural indicates an indefinite singular, translated “one of the mountains” (see GKC 400 §124.o).[解説]  Ararat is the Hebrew name for Urartu, the name of a mountainous region located north of Mesopotamia in modern day eastern Turkey. See E. M. Yamauchi, Foes from the Northern Frontier (SBA), 29-32; G. J. Wenham, Genesis (WBC), 1:184-85; C. Westermann, Genesis, 1:443-44.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “the waters were going and lessening.” The perfect verb form הָיָה (hayah) is used as an auxiliary verb with the infinitive absolute חָסוֹר (khasor, “lessening”), while the infinitive absolute הָלוֹךְ (halokh) indicates continuous action.
+
+### Verse 5 - Note 2
+[翻訳注]  Or “could be seen.”
+
+### Verse 6 - Note 1
+[翻訳注]  The introductory verbal form וַיְהִי (vayÿhi), traditionally rendered “and it came to pass,” serves as a temporal indicator and has not been translated here.
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “opened the window in the ark which he had made.” The perfect tense (“had made”) refers to action preceding the opening of the window, and is therefore rendered as a past perfect. Since in English “had made” could refer to either the ark or the window, the order of the phrases was reversed in the translation to clarify that the window is the referent.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “and it went out, going out and returning.” The Hebrew verb יָצָא (yatsa’), translated here “flying,” is modified by two infinitives absolute indicating that the raven went back and forth.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “he”; the referent (Noah) has been specified in the translation for clarity.
+
+### Verse 8 - Note 2
+[翻訳注]  The Hebrew text adds “from him.” This has not been translated for stylistic reasons, because it is redundant in English.
+
+### Verse 8 - Note 3
+[翻訳注]  The Hebrew verb קָלָל (qalal) normally means “to be light, to be slight”; it refers here to the waters receding.
+
+### Verse 9 - Note 1
+[翻訳注]  The words “still covered” is supplied in the translation for stylistic reasons.
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “him”; the referent (Noah) has been specified in the translation for clarity.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “it”; the referent (the dove) has been specified in the translation for clarity.
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “and he brought it to himself to the ark.”
+
+### Verse 11 - Note 1
+[翻訳注]  The clause introduced by vav (ו) consecutive is translated as a temporal clause subordinated to the following clause.
+
+### Verse 11 - Note 2
+[翻訳注]  The deictic particle הִנֵּה (hinneh) draws attention to the olive leaf. It invites readers to enter into the story, as it were, and look at the olive leaf with their own eyes.
+
+### Verse 12 - Note 1
+[翻訳注]  The word “again” is not in the Hebrew text, but is supplied in the translation for stylistic reasons.
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “it did not again return to him still.” For a study of this section of the flood narrative, see W. O. E. Oesterley, “The Dove with the Olive Leaf (Gen VIII 8–11),” ExpTim 18 (1906/07): 377-78.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb In the six hundred and first year.” Since this refers to the six hundred and first year of Noah’s life, the word “Noah’s” has been supplied in the translation for clarity.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “and saw and look.” As in v. 11, the deictic particle הִנֵּה (hinneh) invites readers to enter into the story, as it were, and look at the dry ground with their own eyes.
+
+### Verse 14 - Note 1
+[翻訳注]  In v. 13 the ground (הָאֲדָמָה, ha’adamah) is dry; now the earth (הָאָרֶץ, ha’arets) is dry.
+
+### Verse 17 - Note 1
+[翻訳注]  The words “bring out” are not in the Hebrew text, but are supplied in the translation for stylistic reasons.
+
+### Verse 17 - Note 2
+[翻訳注]  Following the Hiphil imperative, “bring out,” the three perfect verb forms with vav (ו) consecutive carry an imperatival nuance. For a discussion of the Hebrew construction here and the difficulty of translating it into English, see S. R. Driver, A Treatise on the Use of the Tenses in Hebrew, 124-25.
+
+### Verse 17 - Note 3
+[翻訳注]  Heb “and let them swarm in the earth and be fruitful and multiply on the earth.”
+
+### Verse 20 - Note 1
+[解説]  Offered burnt offerings on the altar. F. D. Maurice includes a chapter on the sacrifice of Noah in The Doctrine of Sacrifice. The whole burnt offering, according to , represented the worshiper’s complete surrender and dedication to the Lord. After the flood Noah could see that God was not only a God of wrath, but a God of redemption and restoration. The one who escaped the catastrophe could best express his gratitude and submission through sacrificial worship, acknowledging God as the sovereign of the universe.
+
+### Verse 21 - Note 1
+[翻訳注]  The Lord “smelled” (וַיָּרַח, vayyarakh) a “soothing smell” (רֵיחַ הַנִּיהֹחַ, reakh hannihoakh). The object forms a cognate accusative with the verb. The language is anthropomorphic. The offering had a sweet aroma that pleased or soothed. The expression in  signifies that God accepts the offering with pleasure, and in accepting the offering he accepts the worshiper.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “and the Lord said.”
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “in his heart.”
+
+### Verse 21 - Note 4
+[翻訳注]  Here the Hebrew word translated “curse” is קָלָל (qalal), used in the Piel verbal stem.
+
+### Verse 21 - Note 5
+[翻訳注]  The Hebrew particle כִּי (ki) can be used in a concessive sense (see BDB 473 s.v. כִּי), which makes good sense in this context. Its normal causal sense (“for”) does not fit the context here very well.
+
+### Verse 21 - Note 6
+[翻訳注]  Heb “the inclination of the heart of humankind.”
+
+### Verse 21 - Note 7
+[翻訳注]  Heb “from his youth.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “yet all the days of the earth.” The idea is “[while there are] yet all the days of the earth,” meaning, “as long as the earth exists.”
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “seed,” which stands here by metonymy for the time when seed is planted.
