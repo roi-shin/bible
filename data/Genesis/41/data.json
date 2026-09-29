@@ -1,0 +1,944 @@
+{
+  "book": "Genesis",
+  "chapter": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "At the end of two full years Pharaoh had a dream. As he was standing by the Nile, ",
+      "ja": "丸二年が終わった時、パロは夢を見た。見ると、彼はナイル川のほとりに立っていた。"
+    },
+    {
+      "verse": 2,
+      "en": "seven fine-looking, fat cows were coming up out of the Nile, and they grazed in the reeds. ",
+      "ja": "ナイル川から姿が美しく肉付きの良い七頭の雌牛が上がって来て、葦原で草を食べていた。"
+    },
+    {
+      "verse": 3,
+      "en": "Then seven bad-looking, thin cows were coming up after them from the Nile, and they stood beside the other cows at the edge of the river. ",
+      "ja": "すると、姿が見苦しく痩せ細った別の七頭の雌牛が、それらの後に続いてナイル川から上がって来て、川のほとりで他の雌牛の傍らに立った。"
+    },
+    {
+      "verse": 4,
+      "en": "The bad-looking, thin cows ate the seven fine-looking, fat cows. Then Pharaoh woke up. ",
+      "ja": "その姿が見苦しく痩せ細った雌牛が、姿が美しく肥えた七頭の雌牛を食い尽くした。そこでパロは目が覚めた。"
+    },
+    {
+      "verse": 5,
+      "en": "Then he fell asleep again and had a second dream: There were seven heads of grain growing on one stalk, healthy and good. ",
+      "ja": "彼は再び眠りに入り、二度目の夢を見た。一本の茎に、豊かで良い七つの穂が出て育っていた。"
+    },
+    {
+      "verse": 6,
+      "en": "Then seven heads of grain, thin and burned by the east wind, were sprouting up after them.",
+      "ja": "すると、痩せ細り東風に焼け散らされた七つの穂が、その後に芽を出した。"
+    },
+    {
+      "verse": 7,
+      "en": "The thin heads swallowed up the seven healthy and full heads. Then Pharaoh woke up and realized it was a dream. ",
+      "ja": "その痩せ細った穂が、豊かで実の詰まった七つの穂を飲み込んだ。そこでパロは目が覚め、それが夢であると知った。"
+    },
+    {
+      "verse": 8,
+      "en": "In the morning he was troubled, so he called for all the diviner-priests of Egypt and all its wise men. Pharaoh told them his dreams, but no one could interpret them for him. ",
+      "ja": "朝になると彼の心は騒ぎ、人を遣わしてエジプトのすべての呪法師と知者たちを呼び集めた。パロは彼らに自分の夢を話したが、それを解き明かせる者は一人もいなかった。"
+    },
+    {
+      "verse": 9,
+      "en": "Then the chief cupbearer said to Pharaoh, “Today I recall my failures. ",
+      "ja": "その時、給仕長がパロに言った。「私は今日、自分の過ちを思い出しました。"
+    },
+    {
+      "verse": 10,
+      "en": "Pharaoh was enraged with his servants, and he put me in prison in the house of the captain of the guards—me and the chief baker. ",
+      "ja": "パロはかつてしもべたちに対して激怒され、私と料理長を護衛隊長の家の監禁所に投獄されました。"
+    },
+    {
+      "verse": 11,
+      "en": "We each had a dream one night; each of us had a dream with its own meaning. ",
+      "ja": "私たちはある夜、それぞれ夢を見ました。私たち各自の夢にそれぞれの意味があったのです。"
+    },
+    {
+      "verse": 12,
+      "en": "Now a young man, a Hebrew, a servant of the captain of the guards, was with us there. We told him our dreams, and he interpreted the meaning of each of our respective dreams for us.",
+      "ja": "そこには、護衛隊長のしもべであるヘブル人の若者が私たちと一緒にいました。私たちが彼に夢を話すと、彼は私たち各自の夢の意味を解き明かしてくれました。"
+    },
+    {
+      "verse": 13,
+      "en": "It happened just as he had said to us—Pharaoh restored me to my office, but he impaled the baker.”",
+      "ja": "そして彼が私たちに言ったとおりのことが起こりました。パロは私を職務に復帰させ、料理長を木に掛けられたのです。」"
+    },
+    {
+      "verse": 14,
+      "en": "Then Pharaoh summoned Joseph. So they brought him quickly out of the dungeon; he shaved himself, changed his clothes, and came before Pharaoh. ",
+      "ja": "そこでパロは人を遣わしてヨセフを呼び寄せた。人々は彼を急いで地下牢から連れ出した。ヨセフはひげを剃り、服を着替えてパロの前に進み出た。"
+    },
+    {
+      "verse": 15,
+      "en": "Pharaoh said to Joseph, “I had a dream, and there is no one who can interpret it. But I have heard about you, that you can interpret dreams.” ",
+      "ja": "パロはヨセフに言った。「私は夢を見たのだが、それを解き明かせる者がいない。しかしあなたについて、夢を聞けば解き明かすことができると聞いた。」"
+    },
+    {
+      "verse": 16,
+      "en": "Joseph replied to Pharaoh, “It is not within my power, but God will speak concerning the welfare of Pharaoh.” ",
+      "ja": "ヨセフはパロに答えた。「私によるのではありません。神がパロの安寧について告げ知らされます。」"
+    },
+    {
+      "verse": 17,
+      "en": "Then Pharaoh said to Joseph, “In my dream I was standing by the edge of the Nile. ",
+      "ja": "そこでパロはヨセフに話した。「私の夢の中で、私はナイル川の岸辺に立っていた。"
+    },
+    {
+      "verse": 18,
+      "en": "Then seven fat and fine-looking cows were coming up out of the Nile, and they grazed in the reeds. ",
+      "ja": "すると、肉付きが良く姿の美しい七頭の雌牛がナイル川から上がって来て、葦原で草を食べていた。"
+    },
+    {
+      "verse": 19,
+      "en": "Then seven other cows came up after them; they were scrawny, very bad looking, and lean. I had never seen such bad-looking cows as these in all the land of Egypt! ",
+      "ja": "すると、その後に別の七頭の雌牛が上がって来た。それらは貧弱で、姿がひどく見苦しく、痩せ細っていた。私はエジプト全土でこれほど見苦しい雌牛を見たことがない。"
+    },
+    {
+      "verse": 20,
+      "en": "The lean, bad-looking cows ate up the seven fat cows. ",
+      "ja": "その痩せ細った見苦しい雌牛が、初めの肥えた七頭の雌牛を食い尽くした。"
+    },
+    {
+      "verse": 21,
+      "en": "When they had eaten them, no one would have known that they had done so, for they were just as bad looking as before. Then I woke up. ",
+      "ja": "それらを腹の中に入れても、腹に入ったとは分からないほどで、その姿は以前と変わらず見苦しかった。そこで私は目が覚めた。"
+    },
+    {
+      "verse": 22,
+      "en": "I also saw in my dream seven heads of grain growing on one stalk, full and good. ",
+      "ja": "私はまた夢の中で、一本の茎に豊かに実った良い七つの穂が出て育つのを見た。"
+    },
+    {
+      "verse": 23,
+      "en": "Then seven heads of grain, withered and thin and burned with the east wind, were sprouting up after them.",
+      "ja": "すると、しなびて痩せ細り、東風に焼け散らされた七つの穂が、その後に芽を出した。"
+    },
+    {
+      "verse": 24,
+      "en": "The thin heads of grain swallowed up the seven good heads of grain. So I told all this to the diviner-priests, but no one could tell me its meaning.”",
+      "ja": "その痩せ細った穂が、あの七つの良い穂を飲み込んだ。私はこのすべてを呪法師たちに話したが、私に意味を告げられる者は一人もいなかった。」"
+    },
+    {
+      "verse": 25,
+      "en": "Then Joseph said to Pharaoh, “Both dreams of Pharaoh have the same meaning. God has revealed to Pharaoh what he is about to do. ",
+      "ja": "ヨセフはパロに言った。「パロの夢は二つとも同じ意味です。神が行おうとしておられることを、パロに示されたのです。"
+    },
+    {
+      "verse": 26,
+      "en": "The seven good cows represent seven years, and the seven good heads of grain represent seven years. Both dreams have the same meaning. ",
+      "ja": "七頭の良い雌牛は七年を表し、七つの良い穂も七年を表します。二つの夢は同じ意味です。"
+    },
+    {
+      "verse": 27,
+      "en": "The seven lean, bad-looking cows that came up after them represent seven years, as do the seven empty heads of grain burned with the east wind. They represent seven years of famine. ",
+      "ja": "その後に上がって来た七頭の痩せた見苦しい雌牛は七年を表し、東風に焼け散らされた中身のない七つの穂も同様です。これらは七年間の飢饉を表しています。"
+    },
+    {
+      "verse": 28,
+      "en": "This is just what I told Pharaoh: God has shown Pharaoh what he is about to do. ",
+      "ja": "私がパロに申し上げたとおり、神はご自分が行おうとしておられることをパロにお見せになったのです。"
+    },
+    {
+      "verse": 29,
+      "en": "Seven years of great abundance are coming throughout the whole land of Egypt. ",
+      "ja": "エジプト全土に、七年間の大豊作が訪れようとしています。"
+    },
+    {
+      "verse": 30,
+      "en": "But seven years of famine will occur after them, and all the abundance will be forgotten in the land of Egypt. The famine will devastate the land. ",
+      "ja": "しかしその後に七年間の飢饉が起こり、エジプトの地ではその豊作がすべて忘れ去られます。飢饉はこの地を荒廃させるでしょう。"
+    },
+    {
+      "verse": 31,
+      "en": "The previous abundance of the land will not be remembered because of the famine that follows, for the famine will be very severe. ",
+      "ja": "その後に続く飢饉のために、以前のこの地の豊かさは記憶にも残らないでしょう。その飢饉がひどく激しいからです。"
+    },
+    {
+      "verse": 32,
+      "en": "The dream was repeated to Pharaoh because the matter has been decreed by God, and God will make it happen soon.",
+      "ja": "夢がパロに二度繰り返されたのは、このことが神によって定められ、神がそれを速やかに行われるからです。"
+    },
+    {
+      "verse": 33,
+      "en": "“So now Pharaoh should look for a wise and discerning man and give him authority over all the land of Egypt. ",
+      "ja": "「ですから今、パロは知恵と思慮のある人物を見出し、その者にエジプト全土を治める権威をお与えになるべきです。"
+    },
+    {
+      "verse": 34,
+      "en": "Pharaoh should do this—he should appoint officials throughout the land to collect one-fifth of the produce of the land of Egypt during the seven years of abundance. ",
+      "ja": "パロはこのように行われるべきです。国中に役人を任命し、七年間の豊作の間にエジプトの地の収穫の五分の一を徴収させるのです。"
+    },
+    {
+      "verse": 35,
+      "en": "They should gather all the excess food during these good years that are coming. By Pharaoh’s authority they should store up grain so the cities will have food, and they should preserve it.",
+      "ja": "彼らはこれから来る良い年々のすべての余剰食糧を集め、パロの権威のもとに穀物を蓄えて町々に食糧を確保し、それを保管すべきです。"
+    },
+    {
+      "verse": 36,
+      "en": "This food should be held in storage for the land in preparation for the seven years of famine that will occur throughout the land of Egypt. In this way the land will survive the famine.” ",
+      "ja": "この食糧は、エジプト全土に起こる七年間の飢饉に備えて国のために保管されるべきです。そうすれば、国は飢饉によって滅びずに済みます。」"
+    },
+    {
+      "verse": 37,
+      "en": "This advice made sense to Pharaoh and all his officials. ",
+      "ja": "この提案は、パロとすべての廷臣たちの目にかなった。"
+    },
+    {
+      "verse": 38,
+      "en": "So Pharaoh asked his officials, “Can we find a man like Joseph, one in whom the Spirit of God is present?”",
+      "ja": "そこでパロは廷臣たちに尋ねた。「神の霊が宿るヨセフのような人物を、私たちは他に見出すことができるだろうか。」"
+    },
+    {
+      "verse": 39,
+      "en": "So Pharaoh said to Joseph, “Because God has enabled you to know all this, there is no one as wise and discerning as you are!",
+      "ja": "そしてパロはヨセフに言った。「神があなたにこのすべてのことを知らせてくださったのだから、あなたのように知恵と思慮のある者は他にはいない。"
+    },
+    {
+      "verse": 40,
+      "en": "You will oversee my household, and all my people will submit to your commands. Only I, the king, will be greater than you.",
+      "ja": "あなたは私の家を管理し、私の民はみなあなたの命令に従う。私、王だけがあなたより上位に立つ。」"
+    },
+    {
+      "verse": 41,
+      "en": "“See here,” Pharaoh said to Joseph, “I place you in authority over all the land of Egypt.” ",
+      "ja": "「見よ」とパロはヨセフに言った。「私はあなたをエジプト全土を治める権威の座に就かせる。」"
+    },
+    {
+      "verse": 42,
+      "en": "Then Pharaoh took his signet ring from his own hand and put it on Joseph’s. He clothed him with fine linen clothes and put a gold chain around his neck. ",
+      "ja": "パロは自分の手から印章の指輪を外し、ヨセフの手に嵌めた。そして上等の亜麻布の衣を着せ、金の首飾りを首に掛けた。"
+    },
+    {
+      "verse": 43,
+      "en": "Pharaoh had him ride in the chariot used by his second-in-command, and they cried out before him, “Kneel down!” So he placed him over all the land of Egypt. ",
+      "ja": "パロは彼を副司令官の戦車に乗せ、人々は彼の前で「ひざまずけ」と叫んだ。こうしてパロは彼をエジプト全土の上に立てた。"
+    },
+    {
+      "verse": 44,
+      "en": "Pharaoh also said to Joseph, “I am Pharaoh, but without your permission no one will move his hand or his foot in all the land of Egypt.” ",
+      "ja": "パロはさらにヨセフに言った。「私はパロである。しかしあなたの許可なしには、エジプト全土で誰も手足を動かすことはできない。」"
+    },
+    {
+      "verse": 45,
+      "en": "Pharaoh gave Joseph the name Zaphenath-Paneah. He also gave him Asenath daughter of Potiphera, priest of On, to be his wife. So Joseph took charge of all the land of Egypt. ",
+      "ja": "パロはヨセフにツァフェナテ・パネアという名を与えた。またオンの祭司ポティ・フェラの娘アセテナを妻として与えた。こうしてヨセフはエジプト全土を巡回し管轄した。"
+    },
+    {
+      "verse": 46,
+      "en": "Now Joseph was 30 years old when he began serving Pharaoh king of Egypt. Joseph was commissioned by Pharaoh and was in charge of all the land of Egypt. ",
+      "ja": "ヨセフがエジプトの王パロに仕え始めた時、三十歳であった。ヨセフはパロの前から出て行き、エジプト全土を巡回して管轄した。"
+    },
+    {
+      "verse": 47,
+      "en": "During the seven years of abundance the land produced large, bountiful harvests.",
+      "ja": "七年間の豊作の間に、地は豊かな実りをもたらした。"
+    },
+    {
+      "verse": 48,
+      "en": "Joseph collected all the excess food in the land of Egypt during the seven years and stored it in the cities. In every city he put the food gathered from the fields around it. ",
+      "ja": "ヨセフはその七年間にエジプトの地にあったすべての余剰食糧を集め、町々に蓄えた。各々の町の周りの畑から集めた食糧を、その町の中に収めた。"
+    },
+    {
+      "verse": 49,
+      "en": "Joseph stored up a vast amount of grain, like the sand of the sea, until he stopped measuring it because it was impossible to measure. ",
+      "ja": "ヨセフは海の砂のように大量の穀物を蓄え、測りきれなくなったために測るのをやめた。"
+    },
+    {
+      "verse": 50,
+      "en": "Two sons were born to Joseph before the famine came. Asenath daughter of Potiphera, priest of On, was their mother. ",
+      "ja": "飢饉の年が訪れる前に、ヨセフに二人の息子が生まれた。オンの祭司ポティ・フェラの娘アセテナが彼らの母であった。"
+    },
+    {
+      "verse": 51,
+      "en": "Joseph named the firstborn Manasseh, saying, “Certainly God has made me forget all my trouble and all my father’s house.” ",
+      "ja": "ヨセフは長男をマナセと名づけて言った。「神が私のすべての苦しみと父の家を忘れさせてくださった。」"
+    },
+    {
+      "verse": 52,
+      "en": "He named the second child Ephraim, saying, “Certainly God has made me fruitful in the land of my suffering.” ",
+      "ja": "また次男をエフライムと名づけて言った。「神が苦難の地で私に実を結ばせてくださった。」"
+    },
+    {
+      "verse": 53,
+      "en": "The seven years of abundance in the land of Egypt came to an end. ",
+      "ja": "エジプトの地にあった七年間の豊作が終わった。"
+    },
+    {
+      "verse": 54,
+      "en": "Then the seven years of famine began, just as Joseph had predicted. There was famine in all the other lands, but throughout the land of Egypt there was food. ",
+      "ja": "そしてヨセフが予告したとおり、七年間の飢饉が始まった。他のすべての国々に飢饉があったが、エジプト全土には食糧があった。"
+    },
+    {
+      "verse": 55,
+      "en": "When all the land of Egypt experienced the famine, the people cried out to Pharaoh for food. Pharaoh said to all the people of Egypt, “Go to Joseph and do whatever he tells you.”",
+      "ja": "エジプト全土が飢饉に見舞われると、民は食糧を求めてパロに叫び求めた。パロはエジプトのすべての人々に言った。「ヨセフのところに行き、彼が言うとおりにしなさい。」"
+    },
+    {
+      "verse": 56,
+      "en": "While the famine was over all the earth, Joseph opened the storehouses and sold grain to the Egyptians. The famine was severe throughout the land of Egypt. ",
+      "ja": "飢饉が地の全面に及ぶ中、ヨセフはすべての穀物倉を開いてエジプト人に穀物を売った。飢饉はエジプト全土で激しかった。"
+    },
+    {
+      "verse": 57,
+      "en": "People from every country came to Joseph in Egypt to buy grain because the famine was severe throughout the earth. ",
+      "ja": "飢饉が全地に激しかったため、すべての国々の人々が穀物を買うためにエジプトのヨセフのもとにやって来た。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “two years, days.”",
+        "ja": "[翻訳注]  ヘブル語では丸二年の日々。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “was dreaming.”",
+        "ja": "[翻訳注]  ヘブル語では夢を見ていた。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look, he was standing by the Nile, and look, from the Nile were coming up seven cows, attractive of appearance and fat of flesh.” By the use of the particle הִנֵּה (hinneh, “look”), the narrator invites the audience to see the dream through Pharaoh’s eyes.",
+        "ja": "[翻訳注]  ヘブル語では見よ、彼はナイル川のほとりに立っていた。そして見よ、ナイル川から姿が美しく肉付きの良い七頭の雌牛が上がって来て。不変化詞 הִנֵּה（hinneh、見よ）を用いることで、語り手は聞き手にパロの目を通して夢を見るよう促している。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look, seven other cows were coming up after them from the Nile, bad of appearance and thin of flesh.”",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ、姿が見苦しく肉の落ちた別の七頭の雌牛が、それらの後に続いてナイル川から上がって来て。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Nile.” This has been replaced by “the river” in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語ではナイル川。文体上の理由から訳出では川に置き換えられている。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “coming up.”",
+        "ja": "[翻訳注]  ヘブル語では上がって来る。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “fat.”",
+        "ja": "[翻訳注]  ヘブル語では肥えた。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look.”",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look, a dream.”[解説]  Pharaoh’s two dreams, as explained in the following verses, pertained to the economy of Egypt. Because of the Nile River, the land of Egypt weathered all kinds of famines – there was usually grain in Egypt, and if there was grain and water the livestock would flourish. These two dreams, however, indicated that poverty would overtake plenty and that the blessing of the herd and the field would cease.",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ、夢であった。[解説]  以下の節で説明されるように、パロの二つの夢はエジプトの経済に関わるものであった。エジプトの地はナイル川のおかげであらゆる飢饉を乗り切ってきた。エジプトには通常穀物があり、穀物と水があれば家畜は繁祥したからである。しかしこれら二つの夢は、欠乏が豊かさを圧倒し、家畜と畑の祝福が途絶えることを示していた。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “his spirit.”",
+        "ja": "[翻訳注]  ヘブル語では彼の霊（心）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he sent and called,” which indicates an official summons.",
+        "ja": "[翻訳注]  ヘブル語では人を遣わして呼んだ。これは公式の召集を示す。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew term חַרְטֹם (khartom) is an Egyptian loanword (hyr-tp) that describes a class of priests who were skilled in such interpretations.",
+        "ja": "[翻訳注]  ヘブル語 חַרְטֹם（khartom）はエジプト語からの借用語（hyr-tp）で、こうした解き明かしに長けた祭司階級を指す。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hebrew text has the singular (though the Samaritan Pentateuch reads the plural). If retained, the singular must be collective for the set of dreams. Note the plural pronoun “them,” referring to the dreams, in the next clause. However, note that in v. 15 Pharaoh uses the singular to refer to the two dreams. In vv. 17-24 Pharaoh seems to treat the dreams as two parts of one dream (see especially v. 22).",
+        "ja": "[翻訳注]  ヘブル語本文は単数形である（サマリア五書は複数形）。単数形を維持する場合、一連の夢を総称するものと解釈される。次の節で夢を指す代名詞が複数形である点に注目。ただし15節でパロは二つの夢を単数形で言及している。17-24節でパロは二つの夢を一つの夢の二つの部分として扱っている（特に22節参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  “there was no interpreter.”",
+        "ja": "[翻訳注]  解き明かす者がいなかった。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Heb “for Pharaoh.” The pronoun “him” has been used in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語ではパロのために。文体上の理由から訳出では代名詞が用いられている。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “sins, offenses.” He probably refers here to the offenses that landed him in prison (see 40:1).",
+        "ja": "[翻訳注]  ヘブル語では罪、過ち。彼はおそらく投獄される原因となった過ち（40:1参照）を指している。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and we dreamed a dream in one night, I and he, each according to the interpretation of his dream we dreamed.”",
+        "ja": "[翻訳注]  ヘブル語ではそして私たちはある夜に夢を夢見た、私と彼、各自が自分の夢の解き明かしに従って夢を見た。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “slave.”",
+        "ja": "[翻訳注]  または奴隷。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a servant to the captain of the guards.” On this construction see GKC 419-20 §129.c.",
+        "ja": "[翻訳注]  ヘブル語では護衛隊長のしもべ。この構造についてはGKC 419-20 §129.c参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “our dreams” are supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  私たちの夢という語は、文体上の理由から訳出で補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he interpreted for us our dreams, each according to his dream he interpreted.”",
+        "ja": "[翻訳注]  ヘブル語ではそして彼は私たちのために私たちの夢を解き明かした、各自の夢に従って彼は解き明かした。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “interpreted.”",
+        "ja": "[翻訳注]  ヘブル語では解き明かした。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he”; the referent (Pharaoh) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ヘブル語では彼。明瞭さのために訳出で指示対象（パロ）が明示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “him”; the referent (the baker) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ヘブル語では彼を。明瞭さのために訳出で指示対象（料理長）が明示されている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and Pharaoh sent and called,” indicating a summons to the royal court.",
+        "ja": "[翻訳注]  ヘブル語ではそしてパロは人を遣わして呼んだ。宮廷への公式の召集を示す。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “dreamed a dream.”",
+        "ja": "[翻訳注]  ヘブル語では夢を夢見た。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “there is no one interpreting.”",
+        "ja": "[翻訳注]  ヘブル語では解き明かす者がいない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “saying.”",
+        "ja": "[翻訳注]  ヘブル語では言った。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “you hear a dream to interpret it,” which may mean, “you only have to hear a dream to be able to interpret it.”",
+        "ja": "[翻訳注]  ヘブル語ではあなたは夢を聞いてそれを解き明かす。これは夢を聞きさえすれば解き明かすことができるという意味になり得る。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “not within me.”",
+        "ja": "[翻訳注]  ヘブル語では私によるのではない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “God will answer.”",
+        "ja": "[翻訳注]  ヘブル語では神が答えられる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The expression שְׁלוֹם פַּרְעֹה (shÿlom par’oh) is here rendered “the welfare of Pharaoh” because the dream will be about life in his land. Some interpret it to mean an answer of “peace” – one that will calm his heart, or give him the answer that he desires (cf. NIV, NRSV, NLT).",
+        "ja": "[翻訳注]  表現 שְׁלוֹם פַּרְעֹה（shÿlom par’oh）は、夢がその地の命に関わるものであるため、ここではパロの安寧と訳出されている。これをパロの心を落ち着かせる平安の答え、または彼が望む答えを与えるという意味に解釈する者もいる（NIV、NRSV、NLT参照）。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “In my dream look, I was standing.” The use of the particle הִנֵּה (hinneh, “look”) here (and also in vv. 18, 19, 22, 23) invites the hearer (within the context of the narrative, Joseph; but in the broader sense the reader or hearer of the Book of Genesis) to observe the scene through Pharaoh’s eyes.",
+        "ja": "[翻訳注]  ヘブル語では私の夢の中で見よ、私は立っていた。ここで（また18、19、22、23節でも）不変化詞 הִנֵּה（hinneh、見よ）を用いることで、聞き手（物語の文脈ではヨセフ、広い意味では創世記の読者や聴衆）に対し、パロの目を通して光景を見るよう促している。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and look, from the Nile seven cows were coming up, fat of flesh and attractive of appearance, and they grazed in the reeds.”",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ、ナイル川から七頭の雌牛が上がって来た、肉付きが良く姿が美しい、そして葦原で草を食べていた。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look.”",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “cows” is supplied here in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  雌牛という語は、文体上の理由から訳出で補われている。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the seven first fat cows.”",
+        "ja": "[翻訳注]  ヘブル語では初めの七頭の肥えた雌牛。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “when they went inside them.”",
+        "ja": "[翻訳注]  ヘブル語ではそれらがそれらの体内に入った時。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “it was not known.”",
+        "ja": "[翻訳注]  ヘブル語では知られなかった。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and I saw in my dream and look.”",
+        "ja": "[翻訳注]  ヘブル語ではそして私は夢の中で見た、見よ。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And look.”",
+        "ja": "[翻訳注]  ヘブル語ではそして見よ。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “all this” have been supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  このすべてという語は、文体上の理由から訳出で補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and there was no one telling me.”",
+        "ja": "[翻訳注]  ヘブル語ではそして私に告げる者がいなかった。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the dream of Pharaoh is one.”",
+        "ja": "[翻訳注]  ヘブル語ではパロの夢は一つである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “declared.”",
+        "ja": "[翻訳注]  ヘブル語では告げ知らせた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The active participle here indicates what is imminent.",
+        "ja": "[翻訳注]  ここでの能動分詞は、間近に迫っていることを示している。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “one dream it is.”",
+        "ja": "[翻訳注]  ヘブル語ではそれは一つの夢である。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “are.” Another option is to translate, “There will be seven years of famine.”",
+        "ja": "[翻訳注]  ヘブル語ではである。別の訳出の選択肢として七年の飢饉があるとなる。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “it is the word that I spoke.”",
+        "ja": "[翻訳注]  ヘブル語ではそれは私が語った言葉である。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The perfect with the vav consecutive continues the time frame of the preceding participle, which has an imminent future nuance here.",
+        "ja": "[翻訳注]  接続詞ワウを伴う完了形は先行する分詞の時間枠を継続しており、ここでは切迫した未来のニュアンスを持つ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew verb כָּלָה (kalah) in the Piel stem means “to finish, to destroy, to bring an end to.” The severity of the famine will ruin the land of Egypt.",
+        "ja": "[翻訳注]  ピエル態のヘブル語動詞 כָּלָה（kalah）は、終わらせる、滅ぼす、終わりをもたらすを意味する。飢饉の激しさがエジプトの地を荒廃させることになる。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “known.”",
+        "ja": "[翻訳注]  ヘブル語では知られる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “heavy.”",
+        "ja": "[翻訳注]  または重い。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and concerning the repeating of the dream to Pharaoh two times.” The Niphal infinitive here is the object of the preposition; it is followed by the subjective genitive “of the dream.”",
+        "ja": "[翻訳注]  ヘブル語ではそして夢がパロに二度繰り返されたことについて。ここでのニファル態不定詞は前置詞の目的語であり、主格属格の夢がそれに続く。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “established.”",
+        "ja": "[翻訳注]  ヘブル語では確立された、定められた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The clause combines a participle and an infinitive construct: God “is hurrying…to do it,” meaning he is going to do it soon.",
+        "ja": "[翻訳注]  この節は分詞と連語形不定詞を組み合わせており、神がそれを行うために急いでおられる、すなわち速やかに行おうとしておられることを意味する。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “let Pharaoh look.” The jussive form expresses Joseph’s advice to Pharaoh.",
+        "ja": "[翻訳注]  ヘブル語ではパロが見出されますように。接続形（懇請形）はパロに対するヨセフの助言を表している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a man discerning and wise.” The order of the terms is rearranged in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語では思慮深く知恵のある人。訳出では文体上の理由から語順が入れ替えられている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and let him set him.”",
+        "ja": "[翻訳注]  ヘブル語ではそして彼を任命しますように。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The imperfect verbal form has an obligatory nuance here. The Samaritan Pentateuch has a jussive form here, “and let [Pharaoh] do.”",
+        "ja": "[翻訳注]  ここでの未完了動詞形は義務のニュアンスを持つ。サマリア五書では接続形（懇請形）で、パロが行われますようにとなっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and let him appoint.” The jussive form expresses Joseph’s advice to Pharaoh.",
+        "ja": "[翻訳注]  ヘブル語ではそして任命されますように。接続形（懇請形）はパロに対するヨセフの助言を表している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “appointees.” The noun is a cognate accusative of the preceding verb. Since “appoint appointees” would be redundant in English, the term “officials” was used in the translation instead.",
+        "ja": "[翻訳注]  ヘブル語では任命された者たち。この名詞は先行する動詞の同族目的語である。官吏を任命するの重複を避けるため、訳出では役人という語が用いられている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he shall collect a fifth of the land of Egypt.” The language is figurative (metonymy); it means what the land produces, i.e., the harvest.",
+        "ja": "[翻訳注]  ヘブル語ではそして彼はエジプトの地の五分の一を徴収する。この表現は比喩（換喩）であり、地が産出するもの、すなわち収穫を意味する。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “all the food.”",
+        "ja": "[翻訳注]  ヘブル語ではすべての食糧。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “under the hand of Pharaoh.”",
+        "ja": "[翻訳注]  ヘブル語ではパロの手の下に。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “[for] food in the cities.” The noun translated “food” is an adverbial accusative in the sentence.",
+        "ja": "[翻訳注]  ヘブル語では町々の食糧のために。食糧と訳された名詞は文中で副詞的目的語となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The perfect with vav (ו) consecutive carries the same force as the sequence of jussives before it.",
+        "ja": "[翻訳注]  接続詞ワウ（ו）を伴う完了形は、それに先行する一連の接続形（懇請形）と同じ効力を持つ。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the land will not be cut off in the famine.”",
+        "ja": "[翻訳注]  ヘブル語ではそして地は飢饉によって断ち滅ぼされない。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the matter was good in the eyes of Pharaoh and in the eyes of all his servants.”",
+        "ja": "[翻訳注]  ヘブル語ではそしてその提案はパロの目にも、彼のすべてのしもべたちの目にも良かった。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “like this,” but the referent could be misunderstood to be a man like that described by Joseph in v. 33, rather than Joseph himself. For this reason the proper name “Joseph” has been supplied in the translation.",
+        "ja": "[翻訳注]  ヘブル語ではこのような人。しかし指示対象がヨセフ自身ではなく33節でヨセフが描写したような人物と誤解される恐れがあるため、訳出では固有名詞ヨセフが補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The rhetorical question expects the answer “No, of course not!”",
+        "ja": "[翻訳注]  この修辞的疑問は、いるはずがないという答えを想定している。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “as discerning and wise.” The order has been rearranged in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語では思慮深く知恵のある。訳出では文体上の理由から順序が入れ替えられている。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and at your mouth (i.e., instructions) all my people will kiss.” G. J. Wenham translates this “shall kowtow to your instruction” (Genesis [WBC], 2:395). Although there is some textual support for reading “will be judged, ruled by you,” this is probably an attempt to capture the significance of this word. Wenham lists a number of references where individuals have tried to make connections with other words or expressions – such as a root meaning “order themselves” lying behind “kiss,” or an idiomatic idea of “kiss” meaning “seal the mouth,” and so “be silent and submit to.” See K. A. Kitchen, “The Term Nsq in Genesis 41:40,” ExpTim 69 (1957): 30; D. S. Sperling, “Genesis 41:40: A New Interpretation,” JANESCU 10 (1978): 113-19.",
+        "ja": "[翻訳注]  ヘブル語ではそしてあなたの口（すなわち指示）において私の民はみな口づけする。G・J・ウェナムはこれをあなたの指示にひれ伏す（Genesis [WBC], 2:395）と訳している。あなたによって裁かれ、統治されると読む本文の支持もあるが、これはこの語の意味を捉えようとする試みであろう。ウェナムは口づけの背景に整列するを意味する語根があるとする説や、口づけが口を封じるを意味し、そこから沈黙して従うという慣用表現であるとする説など、他の語や表現との関連づけを試みた多くの文献を挙げている。K・A・キッチン「Genesis 41:40における語Nsq」ExpTim 69 (1957): 30、D・S・スパーリング「Genesis 41:40：新しい解釈」JANESCU 10 (1978): 113-19参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “only the throne, I will be greater than you.”",
+        "ja": "[翻訳注]  ヘブル語では王座においてのみ、私はあなたより大いなる者となる。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation assumes that the perfect verbal form is descriptive of a present action. Another option is to understand it as rhetorical, in which case Pharaoh describes a still future action as if it had already occurred in order to emphasize its certainty. In this case one could translate “I have placed” or “I will place.” The verb נָתַן (natan) is translated here as “to place in authority [over].”",
+        "ja": "[翻訳注]  この訳出では、完了動詞形が現在の行為を表していると想定している。別の選択肢として修辞的なものと理解し、確実性を強調するためにパロが将来の行為をすでに起こったかのように述べているとする解釈もある。その場合、任命したまたは任命するとなる。動詞 נָתַן（natan）は、ここでは統治の権威を与える（任命する）と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Joseph became the grand vizier of the land of Egypt. See W. A. Ward, “The Egyptian Office of Joseph,” JSS 5 (1960): 144-50; and R. de Vaux, Ancient Israel, 129-31.",
+        "ja": "[解説]  ヨセフはエジプトの地の宰相となった。W・A・ウォード「ヨセフのエジプトにおける官職」JSS 5 (1960): 144-50、およびR・ド・ヴォー『古代イスラエル』129-31参照。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew word שֵׁשׁ (shesh) is an Egyptian loanword that describes the fine linen robes that Egyptian royalty wore. The clothing signified Joseph’s rank.",
+        "ja": "[翻訳注]  ヘブル語 שֵׁשׁ（shesh）はエジプト語からの借用語で、エジプトの王族がまとった上等の亜麻布の衣を指す。この衣服はヨセフの地位を示すものであった。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Pharaoh) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ヘブル語では彼。明瞭さのために訳出で指示対象（パロ）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and he caused him to ride in the second chariot which was his.”",
+        "ja": "[翻訳注]  ヘブル語ではそして自分の第二の戦車に彼を乗せた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb form appears to be a causative imperative from a verbal root meaning “to kneel.” It is a homonym of the word “bless” (identical in root letters but not related etymologically).",
+        "ja": "[翻訳注]  この動詞形はひざまずくを意味する語根の使役命令形と見られる。祝福するを意味する語と同音異義語である（語根の文字は同一だが語源的な関連はない）。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “apart from you.”",
+        "ja": "[翻訳注]  ヘブル語ではあなたを離れては。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “no man,” but here “man” is generic, referring to people in general.",
+        "ja": "[翻訳注]  ヘブル語では人は誰も。ここでは一般的な人々を指す。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The idiom “lift up hand or foot” means “take any action” here.",
+        "ja": "[翻訳注]  手足を上げるという慣用句は、ここでは行動を起こすことを意味する。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "1262).",
+        "ja": "[翻訳注]  1262）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The name Asenath may mean “she belongs to the goddess Neit” (see HALOT 74 s.v. אָֽסְנַת). A novel was written at the beginning of the first century entitled Joseph and Asenath, which included a legendary account of the conversion of Asenath to Joseph’s faith in Yahweh. However, all that can be determined from this chapter is that their children received Hebrew names. See also V. Aptowitzer, “Asenath, the Wife of Joseph – a Haggadic Literary-Historical Study,” HUCA 1 (1924): 239-306.",
+        "ja": "[解説]  アセテナという名は女神ネイトに属する者を意味する可能性がある（HALOT 74 s.v. אָֽסְנַת 参照）。1世紀初頭に『ヨセフとアセテナ』と題する小説が書かれ、アセテナがヤハウェに対するヨセフの信仰へと改宗した伝説的な物語が含まれていた。しかし本章から確認できるのは、彼らの子どもたちがヘブル語の名を与えられたことだけである。V・アプトヴィツァー「ヨセフの妻アセテナ――ハッガーダーの文学的歴史的研究」HUCA 1 (1924): 239-306参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  On (also in v. 50) is another name for the city of Heliopolis.",
+        "ja": "[解説]  オン（50節にも登場）はヘリオポリスの町の別名である。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he passed through.”",
+        "ja": "[翻訳注]  ヘブル語ではそして彼は巡回した。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a son of thirty years.”",
+        "ja": "[翻訳注]  ヘブル語では三十歳の子。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “when he stood before.”",
+        "ja": "[翻訳注]  ヘブル語ではパロの前に立った時。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “went out from before.”",
+        "ja": "[翻訳注]  ヘブル語ではパロの前から出て行った。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he passed through all the land of Egypt”; this phrase is interpreted by JPS to mean that Joseph “emerged in charge of the whole land.”",
+        "ja": "[翻訳注]  ヘブル語ではそして彼はエジプト全土を巡回した。この句はJPSによってヨセフが国全体を管轄する者として現れたという意味に解釈されている。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “brought forth by handfuls.”",
+        "ja": "[翻訳注]  ヘブル語では手一杯に産出した。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Joseph) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ヘブル語では彼。明瞭さのために訳出で指示対象（ヨセフ）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all the food.”",
+        "ja": "[翻訳注]  ヘブル語ではすべての食糧。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “of the seven years which were in the land of Egypt and placed food in the cities.”",
+        "ja": "[翻訳注]  ヘブル語ではエジプトの地にあった七年間の、そして町々に食糧を置いた。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and Joseph gathered grain like the sand of the sea, multiplying much.” To emphasize the vast amount of grain he stored up, the Hebrew text modifies the verb “gathered” with an infinitive absolute and an adverb.",
+        "ja": "[翻訳注]  ヘブル語ではそしてヨセフは海の砂のように穀物を集め、大いに増し加えた。蓄えられた莫大な量の穀物を強調するために、ヘブル語本文では集めたという動詞を絶対不定詞と副詞で修飾している。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “before the year of the famine came.”",
+        "ja": "[翻訳注]  ヘブル語では飢饉の年が来る前に。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gave birth for him.”",
+        "ja": "[翻訳注]  ヘブル語では彼のために産んだ。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[解説]  The name Manasseh (מְנַשֶּׁה, mÿnasheh) describes God’s activity on behalf of Joseph, explaining in general the significance of his change of fortune. The name is a Piel participle, suggesting the meaning “he who brings about forgetfulness.” The Hebrew verb נַשַּׁנִי (nashani) may have been used instead of the normal נִשַּׁנִי (nishani) to provide a closer sound play with the name. The giving of this Hebrew name to his son shows that Joseph retained his heritage and faith; and it shows that a brighter future was in store for him.",
+        "ja": "[解説]  マナセ（מְנַשֶּׁה、mÿnasheh）という名は、ヨセフのために神が働かれたことを描写し、彼の境遇の好転が持つ意義を概括的に説明している。この名はピエル態分詞であり、忘れさせる者を意味することを示唆している。通常の נִשַּׁנִי（nishani）の代わりにヘブル語動詞 נַשַּׁנִי（nashani）が用いられたのは、名との音の響きをより近づけるためであった可能性がある。息子にこのヘブル語の名を付けたことは、ヨセフが自らの伝統と信仰を保ち続けていたことを示し、明るい未来が彼を待ち受けていたことを表している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “saying” has been supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  言ったという語は、文体上の理由から訳出で補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “for.”",
+        "ja": "[翻訳注]  またはなぜなら。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[解説]  The name Ephraim (אֶפְרַיִם, ’efrayim), a form of the Hebrew verb פָּרָה (parah), means “to bear fruit.” The theme of fruitfulness is connected with this line of the family from Rachel (30:2) on down (see Gen 49:22, Deut 33:13-17, and Hos 13:15). But there is some difficulty with the name “Ephraim” itself. It appears to be a dual, for which F. Delitzsch simply said it meant “double fruitfulness” (New Commentary on Genesis, 2:305). G. J. Spurrell suggested it was a diphthongal pronunciation of a name ending in -an or -am, often thought to be dual suffixes (Notes on the text of the book of Genesis, 334). Many, however, simply connect the name to the territory of Ephraim and interpret it to be “fertile land” (C. Fontinoy, “Les noms de lieux en -ayim dans la Bible,” UF 3 [1971]: 33-40). The dual would then be an old locative ending. There is no doubt that the name became attached to the land in which the tribe settled, and it is possible that is where the dual ending came from, but in this story it refers to Joseph’s God-given fruitfulness.",
+        "ja": "[解説]  エフライム（אֶפְרַיִם、’efrayim）という名は、実を結ぶを意味するヘブル語動詞 פָּרָה（parah）の派生形である。実を結ぶという主題は、ラケル（30:2）から続くこの家系と結びついている（創世記49:22、申命記33:13-17、ホセア13:15参照）。しかしエフライムという名自体にはいくらかの難点がある。これは双数形のように見え、F・デーリッチは二重の実りと解釈した（『創世記新註解』2:305）。G・J・スパレルは、双数接尾辞とみなされることの多い -an や -am で終わる名前の二重母音的発音であると示唆した（『創世記本文覚書』334）。しかし多くの学者は、この名を単にエフライムの領域と結びつけ、肥沃な地と解釈している（C・フォンティノワ「聖書における -ayim 語尾の地名」UF 3 [1971]: 33-40）。その場合、双数形は古い場所格語尾ということになる。この名が部族の定住した地に付けられたことは確かであり、双数語尾がそこに由来する可能性もあるが、本物語では神がヨセフに与えられた結実を指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “saying” has been supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  言ったという語は、文体上の理由から訳出で補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “for.”",
+        "ja": "[翻訳注]  またはなぜなら。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “began to arrive.”",
+        "ja": "[翻訳注]  ヘブル語では到来し始めた。"
+      }
+    ],
+    "55": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to all Egypt.” The name of the country is used by metonymy for the inhabitants.",
+        "ja": "[翻訳注]  ヘブル語では全エジプトに。国名が換喩として住民を指すために用いられている。"
+      }
+    ],
+    "56": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “over the entire land”; Heb “over all the face of the earth.” The disjunctive clause is circumstantial-temporal to the next clause.",
+        "ja": "[翻訳注]  または全地の上に。ヘブル語では地の全面の上に。この接続詞分離節は、次の節に対して状況的・時間的な関係を示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT reads “he opened all that was in [or “among”] them.” The translation follows the reading of the LXX and Syriac versions.",
+        "ja": "[写本注]  マソラ本文はそれらの中にあったすべてのものを開いたと読める。本訳出は七十人訳ギリシャ語聖書（LXX）およびシリア語訳の読みに従っている。"
+      }
+    ],
+    "57": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “all the earth,” which refers here (by metonymy) to the people of the earth. Note that the following verb is plural in form, indicating that the inhabitants of the earth are in view.",
+        "ja": "[翻訳注]  ヘブル語では全地。ここでは（換喩によって）地の民を指す。続く動詞が複数形であり、地の住民が念頭に置かれている点に注目。"
+      }
+    ]
+  }
+}

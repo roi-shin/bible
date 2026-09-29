@@ -21,3 +21,7 @@ data/*_raw.json
 # OS files
 .DS_Store
 Thumbs.db
+
+# agy temporary files
+scratch/
+scratch_output.json
