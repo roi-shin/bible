@@ -179,30 +179,43 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
     max_retries = 3
 
     if use_api:
-        print("    Gemini API (3.7-flash) を直接呼び出して翻訳中...")
-        import requests
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent?key={API_KEY}"
-        payload = {
-            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-            "generationConfig": {"responseMimeType": "application/json"}
-        }
-        max_retries_api = 10
-        for attempt in range(max_retries_api):
-            resp = requests.post(url, json=payload)
-            if resp.status_code == 200:
-                try:
-                    text = resp.json()['candidates'][0]['content']['parts'][0]['text']
-                    return json.loads(text)
-                except Exception as e:
-                    print(f"    [警告] APIレスポンス形式エラー: {e}")
-            else:
-                print(f"    [警告] APIエラー (試行 {attempt + 1}/{max_retries_api}): {resp.status_code}")
-            
-            if attempt < max_retries_api - 1:
-                print("    15秒待機して再試行します (混雑回避)...")
-                time.sleep(15)
-            else:
-                raise Exception("API translation failed after retries")
+        # 優先順序: 3.5-flash-lite (RPD500) → 2.5-flash → 3.7-flash → 3.5-flash
+        fallback_models = [
+            "gemini-3.5-flash-lite",
+            "gemini-2.5-flash",
+            "gemini-3.7-flash",
+            "gemini-3.5-flash",
+        ]
+        for model_name in fallback_models:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={API_KEY}"
+            payload = {
+                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+                "generationConfig": {"responseMimeType": "application/json"}
+            }
+            max_retries_api = 3
+            success = False
+            for attempt in range(max_retries_api):
+                resp = requests.post(url, json=payload, timeout=120)
+                if resp.status_code == 200:
+                    try:
+                        text = resp.json()['candidates'][0]['content']['parts'][0]['text']
+                        print(f"    [{model_name}] 成功")
+                        return json.loads(text)
+                    except Exception as e:
+                        print(f"    [{model_name}] レスポンス形式エラー: {e}")
+                        break
+                elif resp.status_code in (429, 503):
+                    err_msg = resp.json().get("error", {}).get("message", "")
+                    if "quota" in err_msg.lower() or resp.status_code == 429:
+                        print(f"    [{model_name}] RPD上限に達しました。次のモデルへ切替...")
+                        break  # このモデルを諦めて次へ
+                    else:
+                        print(f"    [{model_name}] 一時的なエラー (試行 {attempt + 1}/{max_retries_api})、10秒後に再試行...")
+                        time.sleep(10)
+                else:
+                    print(f"    [{model_name}] エラー {resp.status_code}: {resp.text[:100]}")
+                    break
+        raise Exception("全フォールバックモデルのAPI呼び出しに失敗しました")
 
     else:
         # agy コマンドの構築
@@ -293,26 +306,46 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
         "notes": {},
     }
 
+    # raw_dataから英語原文のマップを作成（補填用）
+    en_text_map = {}
+    for v in raw_data.get("text_data", []):
+        vn = int(v.get("verse_num", v.get("verse", 0)))
+        en_text_map[vn] = v.get("text", "")
+
     # 翻訳結果の構築
     for v in translated_data.get("verses", []):
         verse_num = int(v["verse"])
-        # フォールバックで英語を残す
         ja_text = v.get("ja", v.get("text", ""))
-        en_text = v.get("text", "")
-        
+        # 英語原文はAPIレスポンスに頼らず、raw_dataから確実に取得
+        en_text = en_text_map.get(verse_num, v.get("text", v.get("en", "")))
+
         result["verses"].append({
             "verse": verse_num,
             "en": en_text,
             "ja": ja_text,
         })
 
-    for verse_num_str, verse_notes in translated_data.get("notes", {}).items():
+    raw_notes = translated_data.get("notes", {})
+    # モデルによっては notes が list[{verse_num, pos, ja, text}] 形式で返る場合があるため正規化
+    if isinstance(raw_notes, list):
+        normalized = {}
+        for n in raw_notes:
+            key = str(n.get("verse_num", n.get("verse", "")))
+            if not key.strip():  # 空キーは無視
+                continue
+            if key not in normalized:
+                normalized[key] = []
+            normalized[key].append(n)
+        raw_notes = normalized
+
+    for verse_num_str, verse_notes in raw_notes.items():
         translated_notes = []
         for n in verse_notes:
             ja_note = n.get("ja", n.get("text", ""))
             en_note = n.get("text", "")
+            pos = n.get("pos", n.get("note_pos", len(translated_notes) + 1))
             translated_notes.append({
-                "pos": n["pos"],
+                "pos": pos,
                 "en": en_note,
                 "ja": ja_note,
             })
@@ -393,7 +426,7 @@ def generate_chapter_html(data: dict, available_chapters: dict) -> str:
         </div>"""
 
     notes_html = ""
-    for verse_num_str, verse_notes in sorted(data["notes"].items(), key=lambda x: int(x[0])):
+    for verse_num_str, verse_notes in sorted(data["notes"].items(), key=lambda x: int(x[0]) if x[0].strip().isdigit() else 0):
         for n in verse_notes:
             notes_html += f"""
             <div class="note" id="note-{verse_num_str}-{n['pos']}">
