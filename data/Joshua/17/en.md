@@ -1,0 +1,119 @@
+# Joshua 17 (English)
+
+## Text
+
+**1** The tribe of Manasseh, Joseph’s firstborn son, was also allotted land. The descendants of Makir, Manasseh’s firstborn and the father of Gilead, received land, for they were warriors. They were assigned Gilead and Bashan. 
+
+**2** The rest of Manasseh’s descendants were also assigned land by their clans, including the descendants of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the male descendants of Manasseh son of Joseph by their clans. 
+
+**3** Now Zelophehad son of Hepher, son of Gilead, son of Makir, son of Manasseh, had no sons, only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. 
+
+**4** They went before Eleazar the priest, Joshua son of Nun, and the leaders and said, “The Lord told Moses to assign us land among our relatives.” So Joshua assigned them land among their uncles, as the Lord had commanded. 
+
+**5** Manasseh was allotted 10 shares of land, in addition to the land of Gilead and Bashan east of the Jordan, 
+
+**6** for the daughters of Manasseh were assigned land among his sons. The land of Gilead belonged to the rest of the descendants of Manasseh. 
+
+**7** The border of Manasseh went from Asher to Micmethath, which is near Shechem. It then went south toward those who live by En Tappuah.
+
+**8** (The land of Tappuah belonged to Manasseh, but Tappuah, located on the border of Manasseh, belonged to the tribe of Ephraim.) 
+
+**9** The border then descended southward to the Valley of Kanah. Ephraim was assigned cities there among the cities of Manasseh, but the border of Manasseh was north of the valley and ended at the sea. 
+
+**10** Ephraim’s territory was to the south, and Manasseh’s to the north. The sea was Manasseh’s western border, and their territory touched Asher on the north and Issachar on the east. 
+
+**11** Within Issachar’s and Asher’s territories Manasseh was assigned Beth Shean, Ibleam, the residents of Dor, the residents of Endor, the residents of Taanach, the residents of Megiddo, the three of Napheth, and the towns surrounding all these cities.
+
+**12** But the men of Manasseh were unable to conquer these cities; the Canaanites managed to remain in those areas. 
+
+**13** Whenever the Israelites were strong militarily, they forced the Canaanites to do hard labor, but they never totally conquered them.
+
+**14** The descendants of Joseph said to Joshua, “Why have you assigned us only one tribal allotment? After all, we have many people, for until now the Lord has enabled us to increase in number.”
+
+**15** Joshua replied to them, “Since you have so many people, go up into the forest and clear out a place to live in the land of the Perizzites and Rephaites, if the hill country of Ephraim is too small for you.” 
+
+**16** The descendants of Joseph said, “The whole hill country is inadequate for us, and the Canaanites living down in the valley in Beth Shean and its surrounding towns and in the Valley of Jezreel have chariots with iron-rimmed wheels.”
+
+**17** Joshua said to the family of Joseph—to both Ephraim and Manasseh: “You have many people and great military strength. You will not have just one tribal allotment. 
+
+**18** The whole hill country will be yours; though it is a forest, you can clear it, and it will be entirely yours. You can conquer the Canaanites, though they have chariots with iron-rimmed wheels and are strong.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “and the lot belonged to the tribe of Manasseh, for he was the firstborn of Joseph.”
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “to Makir, the firstborn of Manasseh, the father of Gilead, for he was a man of war.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “Gilead and Bashan belonged to him.”[解説]  On the assignment of Manasseh’s territory in Gilead and Bashan, see Josh 13:31.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “and it belonged to the sons of Manasseh who remained.”
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “The Lord commanded Moses to assign to us an inheritance in the midst of our brothers.” Since Zelophehad had no sons, “brothers” must refer to their uncles, as the next sentence makes clear.
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “he.” The referent is probably Joshua, although Eleazar is mentioned first in the preceding list.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “and he assigned to them in accordance with the mouth [i.e., command] of the Lord an inheritance in the midst of the brothers of their father.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “and the allotted portions of Manasseh fell out ten.”
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “was.”
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “in front of”; perhaps “east of.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “these cities belonged to Ephraim in the midst of the cities of Manasseh.”
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “his”; the referent (Manasseh) has been specified in the translation for clarity.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “they”; the referent (their territory) has been specified in the translation for clarity.
+
+### Verse 11 - Note 1
+[地図]  For location see Map1-D4; Map2-C1; Map4-C2; Map5-F2; Map7-B1.
+
+### Verse 11 - Note 2
+[翻訳注]  Or “the third [is] Napheth”; or “Napheth-dor.” The meaning of the Hebrew phrase is uncertain.
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “Beth Shean and its surrounding towns, Ibleam and its surrounding towns, the residents of Dor and its surrounding towns, the residents of En Dor and its surrounding towns, the residents of Taanach and its surrounding towns, the residents of Megiddo and its surrounding towns, three of Nepheth.”
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “sons”; “men” has been used in the translation because the context involves the conquest of cities; therefore, warriors (hence males) would be in view here.
+
+### Verse 12 - Note 2
+[翻訳注]  Or “were determined.”
+
+### Verse 13 - Note 1
+[解説]  On the Israelites’ failure to conquer the Canaanites completely, see Judg 1:27-28.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “Why have you given me as an inheritance one lot and one portion, though I am a great people until [the time] which, until now the Lord has blessed me?” The construction עַד אֲשֶׁר־עַד־כֹּה (’ad-’asher-’ad-koh, “until [the time] which, until now”) is extremely awkward. An emendation of the first עַד (’ad) to עַל (’al) yields a more likely reading: “for until now” (see HALOT 2:787).
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “If you are a great people.”
+
+### Verse 16 - Note 1
+[翻訳注]  The Hebrew text has simply “the hill country,” which must here include the hill country of Ephraim and the forest regions mentioned in v. 15.
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “and there are iron chariots among all the Canaanites who live in the land of the valley, to those who are in Beth Shean and its daughters and to those who are in the Valley of Jezreel.” Regarding the translation “chariots with iron-rimmed wheels” see Y. Yadin, The Art of Warfare in Biblical Lands, 255 and R. Drews, “The ‘Chariots of Iron’ of Joshua and Judges,” JSOT 45 (1989): 15-23.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “house.”
+
+### Verse 18 - Note 1
+[翻訳注]  The Hebrew text has simply “the hill country,” which must here include the hill country of Ephraim and the forest regions mentioned in v. 15.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “and its limits will be yours.”

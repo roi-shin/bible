@@ -1,0 +1,126 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;The lot went out to the sons of Joseph from the Jordan [at] Jericho to the waters of Jericho to the east, the desert going up from Jericho into the hill country of Bethel.&#8221;<p class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-G4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-C1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-D1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-G3</a>.</p></div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;it&#8221;; the referent (the southern border) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In the Hebrew text the place name &#8220;Luz&#8221; has the directive ending, indicating that the border went <i>from</i> Bethel <i>to</i> Luz. Elsewhere Luz and Bethel appear to be names for the same site (cf. <span class=\"bibleref\" title=\"Judges 1:23\">Judg 1:23</span>), but here they appear to be distinct. Note that the NIV translates &#8220;from Bethel (that is, Luz)&#8221; here, following the reading of the LXX, <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#962; &#914;&#945;&#953;&#952;&#951;&#955; &#923;&#959;&#965;&#950;&#945;</font> (<font face=\"Greektl\">eis Baiqhl Louza</font>, &#8220;from Bethel [Luz]&#8221;).</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;received their inheritance.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;The territory of the sons of Ephraim was for their clans.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;River&#8221; is not in the Hebrew text, but has been supplied in the translation for clarity.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;This is the inheritance of the tribe of the sons of Ephraim.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the cities set apart for the sons of Ephraim in the midst of the inheritance of the sons of Manasseh, all the cities and their towns.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they&#8221;; the referent (the Ephraimites) has been specified in the translation for clarity.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "1",
+      "text": "The land allotted to Joseph’s descendants extended from the Jordan at Jericho to the waters of Jericho to the east, through the desert and on up from Jericho into the hill country of Bethel. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "2",
+      "text": "The southern border extended from Bethel to Luz, and crossed to Arkite territory at Ataroth. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "3",
+      "text": "It then descended westward to Japhletite territory, as far as the territory of lower Beth Horon and Gezer, and ended at the sea. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "4",
+      "text": "Joseph’s descendants, Manasseh and Ephraim, were assigned their land."
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "5",
+      "text": "The territory of the tribe of Ephraim by its clans included the following: The border of their assigned land to the east was Ataroth Addar as far as upper Beth Horon. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "6",
+      "text": "It then extended on to the sea, with Micmethath on the north. It turned eastward to Taanath Shiloh and crossed it on the east to Janoah. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "7",
+      "text": "It then descended from Janoah to Ataroth and Naarah, touched Jericho, and extended to the Jordan River. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "8",
+      "text": "From Tappuah it went westward to the Valley of Kanah and ended at the sea. This is the land assigned to the tribe of Ephraim by its clans. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "9",
+      "text": "Also included were the cities set apart for the tribe of Ephraim within Manasseh’s territory, along with their towns. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "16",
+      "verse": "10",
+      "text": "The Ephraimites did not conquer the Canaanites living in Gezer. The Canaanites live among the Ephraimites to this very day and do hard labor as their servants. "
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "book": "Exodus",
+  "chapter": 39,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "From the blue, purple, and scarlet yarn they made woven garments for serving in the sanctuary; they made holy garments that were for Aaron, just as the Lord had commanded Moses. ",
+      "ja": "彼らは青色、紫色、緋色の撚り糸から、聖所で仕えるための編んだ装束を作った。彼らは主がモーセに命じられたとおりに、アロンのための聖なる装束を作った。"
+    },
+    {
+      "verse": 2,
+      "en": "He made the ephod of gold, blue, purple, scarlet yarn, and fine twisted linen. ",
+      "ja": "彼は金糸、青色、紫色、緋色の撚り糸、撚り糸で織った上等の亜麻布でエポデを作った。"
+    },
+    {
+      "verse": 3,
+      "en": "They hammered the gold into thin sheets and cut it into narrow strips to weave them into the blue, purple, and scarlet yarn, and into the fine linen, the work of an artistic designer. ",
+      "ja": "彼らは金を薄い板に打ち延ばし、それを細い紐状に切り刻んで、意匠家の細工として、青色、紫色、緋色の撚り糸や上等の亜麻布の中に織り込んだ。"
+    },
+    {
+      "verse": 4,
+      "en": "They made shoulder pieces for it, attached to two of its corners, so it could be joined together.",
+      "ja": "彼らはエポデのために、その二つの端に取り付けられた肩掛けを作り、それによってつなぎ合わされるようにした。"
+    },
+    {
+      "verse": 5,
+      "en": "The artistically woven waistband of the ephod that was on it was like it, of one piece with it, of gold, blue, purple, and scarlet yarn and fine twisted linen, just as the Lord had commanded Moses. ",
+      "ja": "エポデの上にあってそれを締める巧みに織られた帯は、エポデと同じように作られ、エポデと一続きのものであり、主がモーセに命じられたとおり、金糸、青色、紫色、緋色の撚り糸、撚り糸で織った上等の亜麻布で作られた。"
+    },
+    {
+      "verse": 6,
+      "en": "They set the onyx stones in gold filigree settings, engraved as with the engravings of a seal with the names of the sons of Israel. ",
+      "ja": "彼らは縞めのうを金の飾り座にはめ込み、印章を彫るようにイスラエルの子らの名を彫り刻んだ。"
+    },
+    {
+      "verse": 7,
+      "en": "He put them on the shoulder pieces of the ephod as stones of memorial for the Israelites, just as the Lord had commanded Moses. ",
+      "ja": "彼は主がモーセに命じられたとおり、イスラエル人のための記念の石として、それらをエポデの肩掛けの上に置いた。"
+    },
+    {
+      "verse": 8,
+      "en": "He made the breastpiece, the work of an artistic designer, in the same fashion as the ephod, of gold, blue, purple, and scarlet yarn, and fine twisted linen. ",
+      "ja": "彼は胸当てを意匠家の細工として、エポデと同じ仕立てで、金糸、青色、紫色、緋色の撚り糸、撚り糸で織った上等の亜麻布で作った。"
+    },
+    {
+      "verse": 9,
+      "en": "It was square—they made the breastpiece doubled, nine inches long and nine inches wide when doubled. ",
+      "ja": "胸当ては四角形であった。彼らはそれを二重にして作り、二重にした状態で長さ九インチ、幅九インチであった。"
+    },
+    {
+      "verse": 10,
+      "en": "They set on it four rows of stones: a row with a ruby, a topaz, and a beryl—the first row; ",
+      "ja": "彼らはその上に宝石を四列はめ込んだ。第一列はルビー、トパーズ、緑柱石。"
+    },
+    {
+      "verse": 11,
+      "en": "and the second row, a turquoise, a sapphire, and an emerald; ",
+      "ja": "第二列はトルコ石、サファイア、エメラルド。"
+    },
+    {
+      "verse": 12,
+      "en": "and the third row, a jacinth, an agate, and an amethyst; ",
+      "ja": "第三列はヒヤシンス石、めのう、紫水晶。"
+    },
+    {
+      "verse": 13,
+      "en": "and the fourth row, a chrysolite, an onyx, and a jasper. They were enclosed in gold filigree settings. ",
+      "ja": "第四列は貴かんらん石、縞めのう、碧玉。これらは金の飾り座の中にはめ込まれていた。"
+    },
+    {
+      "verse": 14,
+      "en": "The stones were for the names of the sons of Israel, twelve, corresponding to the number of their names. Each name corresponding to one of the twelve tribes was like the engravings of a seal. ",
+      "ja": "これらの石はイスラエルの子らの名を表す十二個で、その名の数に対応していた。十二部族のそれぞれに対応する各々の名は、印章を彫るように刻まれていた。"
+    },
+    {
+      "verse": 15,
+      "en": "They made for the breastpiece braided chains like cords of pure gold, ",
+      "ja": "彼らは胸当てのために、純金で紐のように編んだ鎖を作った。"
+    },
+    {
+      "verse": 16,
+      "en": "and they made two gold filigree settings and two gold rings, and they attached the two rings to the upper two ends of the breastpiece. ",
+      "ja": "彼らは二つの金の飾り座と二つの金の環を作り、その二つの環を胸当ての上の両端に取り付けた。"
+    },
+    {
+      "verse": 17,
+      "en": "They attached the two gold chains to the two rings at the ends of the breastpiece; ",
+      "ja": "彼らは胸当ての両端にある二つの環に、二本の金の編んだ鎖を取り付けた。"
+    },
+    {
+      "verse": 18,
+      "en": "the other two ends of the two chains they attached to the two settings, and they attached them to the shoulder pieces of the ephod at the front of it.",
+      "ja": "その二本の鎖のもう一方の端を二つの飾り座に取り付け、エポデの前にある肩掛けの上に取り付けた。"
+    },
+    {
+      "verse": 19,
+      "en": "They made two rings of gold and put them on the other two ends of the breastpiece on its edge, which is on the inner side of the ephod. ",
+      "ja": "彼らは二つの金の環を作り、それらを胸当てのもう一方の両端、エポデの内側に向かい合う縁に取り付けた。"
+    },
+    {
+      "verse": 20,
+      "en": "They made two more gold rings and attached them to the bottom of the two shoulder pieces on the front of the ephod, close to the juncture above the waistband of the ephod. ",
+      "ja": "彼らはさらに二つの金の環を作り、エポデの前にある二つの肩掛けの下部、エポデの帯の上の継ぎ目に近いところに取り付けた。"
+    },
+    {
+      "verse": 21,
+      "en": "They tied the breastpiece by its rings to the rings of the ephod by blue cord, so that it was above the waistband of the ephod, so that the breastpiece would not be loose from the ephod, just as the Lord had commanded Moses. ",
+      "ja": "彼らは主がモーセに命じられたとおり、胸当てがエポデの帯の上に位置し、エポデから外れないように、青色の撚り紐によって胸当ての環をエポデの環に結びつけた。"
+    },
+    {
+      "verse": 22,
+      "en": "He made the robe of the ephod completely blue, the work of a weaver. ",
+      "ja": "彼は織物職人の細工により、エポデの上着を青色の布で作った。"
+    },
+    {
+      "verse": 23,
+      "en": "There was an opening in the center of the robe, like the opening of a collar, with an edge all around the opening so that it could not be torn. ",
+      "ja": "上着の中央には襟ぐりのような開口部があり、それが破れないように開口部の周囲に縁が付けられていた。"
+    },
+    {
+      "verse": 24,
+      "en": "They made pomegranates of blue, purple, and scarlet yarn and twisted linen around the hem of the robe. ",
+      "ja": "彼らは上着の裾の周りに、青色、紫色、緋色の撚り糸と撚り糸の亜麻布でざくろを作った。"
+    },
+    {
+      "verse": 25,
+      "en": "They made bells of pure gold and attached the bells between the pomegranates around the hem of the robe between the pomegranates. ",
+      "ja": "彼らは純金で鈴を作り、上着の裾の周りにあるざくろの間に、ざくろとざくろの間にその鈴を取り付けた。"
+    },
+    {
+      "verse": 26,
+      "en": "There was a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe, to be used in ministering, just as the Lord had commanded Moses. ",
+      "ja": "主がモーセに命じられたとおり、仕える際に用いるため、上着の裾の周りに鈴、ざくろ、鈴、ざくろと交互に並んでいた。"
+    },
+    {
+      "verse": 27,
+      "en": "They made tunics of fine linen—the work of a weaver, for Aaron and for his sons—",
+      "ja": "彼らはアロンとその子らのために、織物職人の細工による上等の亜麻布の長服を作り、"
+    },
+    {
+      "verse": 28,
+      "en": "and the turban of fine linen, the headbands of fine linen, and the undergarments of fine twisted linen. ",
+      "ja": "上等の亜麻布のターバン、上等の亜麻布の被り物、撚り糸で織った上等の亜麻布のもも引きを作った。"
+    },
+    {
+      "verse": 29,
+      "en": "The sash was of fine twisted linen and blue, purple, and scarlet yarn, the work of an embroiderer, just as the Lord had commanded Moses. ",
+      "ja": "帯は主がモーセに命じられたとおり、刺繍職人の細工によるもので、撚り糸で織った上等の亜麻布、青色、紫色、緋色の撚り糸で作られた。"
+    },
+    {
+      "verse": 30,
+      "en": "They made a plate, the holy diadem, of pure gold and wrote on it an inscription, as on the engravings of a seal, “Holiness to the Lord.”",
+      "ja": "彼らは純金で聖なる冠である板を作り、印章を彫るようにその上に「主に聖なるもの」と銘を彫り刻んだ。"
+    },
+    {
+      "verse": 31,
+      "en": "They attached to it a blue cord to attach it to the turban above, just as the Lord had commanded Moses. ",
+      "ja": "彼らは主がモーセに命じられたとおり、それを上のターバンに取り付けるため、青色の撚り紐を結びつけた。"
+    },
+    {
+      "verse": 32,
+      "en": " So all the work of the tabernacle, the tent of meeting, was completed, and the Israelites did according to all that the Lord had commanded Moses—they did it exactly so.",
+      "ja": "こうして幕屋、すなわち会見の天幕のすべての工事が完了した。イスラエル人は主がモーセに命じられたすべてのことに従って行い、そのとおりに行った。"
+    },
+    {
+      "verse": 33,
+      "en": "They brought the tabernacle to Moses, the tent and all its furnishings, clasps, frames, bars, posts, and bases; ",
+      "ja": "彼らは幕屋をモーセのもとに持って来た。天幕とそのすべての器具、留め金、枠板、横木、柱、台座、"
+    },
+    {
+      "verse": 34,
+      "en": "and the coverings of ram skins dyed red, the covering of fine leather, and the protecting curtain; ",
+      "ja": "赤く染めた雄羊の皮の覆い、じゅごんの皮の覆い、それを覆い隠す垂れ幕、"
+    },
+    {
+      "verse": 35,
+      "en": "the ark of the testimony and its poles, and the atonement lid; ",
+      "ja": "証しの箱とその棒、贖いの蓋、"
+    },
+    {
+      "verse": 36,
+      "en": "the table, all its utensils, and the Bread of the Presence; ",
+      "ja": "机とそのすべての器具、供えのパン、"
+    },
+    {
+      "verse": 37,
+      "en": "the pure lampstand, its lamps, with the lamps set in order, and all its accessories, and oil for the light; ",
+      "ja": "純金の燭台とそのともし火皿、整然と並べられたともし火皿、そのすべての器具、ともし火のための油、"
+    },
+    {
+      "verse": 38,
+      "en": "and the gold altar, and the anointing oil, and the fragrant incense; and the curtain for the entrance to the tent; ",
+      "ja": "金の祭壇、注ぎの油、香り高い香、天幕の入り口の幕、"
+    },
+    {
+      "verse": 39,
+      "en": "the bronze altar and its bronze grating, its poles, and all its utensils; the large basin with its pedestal; ",
+      "ja": "青銅の祭壇とその青銅の格子、その棒、そのすべての器具、台座付きの大きな洗盤、"
+    },
+    {
+      "verse": 40,
+      "en": "the hangings of the courtyard, its posts and its bases, and the curtain for the gateway of the courtyard, its ropes and its tent pegs, and all the furnishings for the service of the tabernacle, for the tent of meeting; ",
+      "ja": "庭の掛け幕、その柱とその台座、庭の門の幕、その綱とその留め杭、幕屋の奉仕のための、会見の天幕のためのすべての用具、"
+    },
+    {
+      "verse": 41,
+      "en": "the woven garments for serving in the sanctuary, the holy garments for Aaron the priest, and the garments for his sons to minister as priests.",
+      "ja": "聖所で仕えるための編んだ装束、祭司アロンのための聖なる装束、祭司として仕えるためのその子らの装束である。"
+    },
+    {
+      "verse": 42,
+      "en": "The Israelites did all the work according to all that the Lord had commanded Moses. ",
+      "ja": "イスラエル人は、主がモーセに命じられたすべてのことに従って、すべての工事を行った。"
+    },
+    {
+      "verse": 43,
+      "en": "Moses inspected all the work, and they had done it just as the Lord had commanded—they had done it exactly—and Moses blessed them.",
+      "ja": "モーセがすべての工事を検分すると、彼らはまさに主が命じられたとおりに行っていた。彼らはそのとおりに行っており、モーセは彼らを祝福した。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  This chapter also will be almost identical to the instructions given earlier, with a few changes along the way.",
+        "ja": "[解説] この章も、途中でいくらかの変更はあるものの、先に与えられた指示とほぼ同一の内容となる。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is the infinitive that means “to do, to work.” It could be given a literal rendering: “to work [them into] the blue….” Weaving or embroidering is probably what is intended.",
+        "ja": "[翻訳注] 動詞は「行う、細工する」を意味する不定詞である。直訳すると「それらを青色の中に細工する」となる。おそらく織り込みや刺繍を意図している。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from it” or the same.",
+        "ja": "[翻訳注] ヘブル語原文は「それから」、すなわち同じものからの一続きを意味する。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “as seals are engraved.”",
+        "ja": "[翻訳注] または「印章が彫られるように」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The twelve names were those of Israel’s sons. The idea was not the remembrance of the twelve sons as such, but the twelve tribes that bore their names.",
+        "ja": "[解説] 十二の名はイスラエルの子らの名であった。これは十二人の息子そのものを記念するのではなく、その名を冠した十二部族を記念することを意図している。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “attached.”",
+        "ja": "[翻訳注] または「取り付けた」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  That is, they set in mountings.",
+        "ja": "[翻訳注] すなわち、台座にはめ込んだ。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The phrase “the number of” has been supplied.",
+        "ja": "[翻訳注] 「〜の数」という表現は補訳である。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here “upper” has been supplied.",
+        "ja": "[翻訳注] ここでの「上の」は補訳である。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here “other” has been supplied.",
+        "ja": "[翻訳注] ここでの「もう一方の」は補訳である。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here “other” has been supplied.",
+        "ja": "[翻訳注] ここでの「もう一方の」は補訳である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “homeward side.”",
+        "ja": "[翻訳注] ヘブル語原文は「内側に向かう側」。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here “more” has been supplied.",
+        "ja": "[翻訳注] ここでの「さらに」は補訳である。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word is simply “twined” or “twisted.” It may refer to the twisted linen that so frequently is found in these lists; or, it may refer to the yarn twisted. The LXX reads “fine twined linen.” This is not found in the text of Exod 28:33, except in Smr and LXX.",
+        "ja": "[翻訳注] この語は単に「撚り合わされた」あるいは「撚られた」を意味する。これらの一覧に頻出する撚り糸で織った亜麻布を指している可能性もあれば、撚り合わされた糸を指している可能性もある。七十人訳（LXX）は「撚り糸で織った上等の亜麻布」と読んでいる。これはサマリア五書と七十人訳を除き、出エジプト記28章33節の本文には見られない。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “there was” are supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注] 「〜があった」という言葉は文体上の理由から補訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The infinitive “to minister” is present; “to be used” is supplied from the context.",
+        "ja": "[翻訳注] 「仕える」という不定詞が存在し、「用いるための」は文脈から補足されている。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[解説]  The last sections of the book bring several themes together to a full conclusion. Not only is it the completion of the tabernacle, it is the fulfillment of God’s plan revealed at the beginning of the book, i.e., to reside with his people.",
+        "ja": "[解説] この書の結びの部分は、複数の主題を一つにまとめて完全な締めくくりへと導く。それは単に幕屋の完成にとどまらず、この書の冒頭で示された神の計画、すなわちご自身の民とともに住まわれるという計画の成就でもある。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on this phrase in Exod 25:5.",
+        "ja": "[翻訳注] 出エジプト記25章5節のこの表現に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “shielding” (NIV); NASB “the screening veil.”",
+        "ja": "[翻訳注] または「遮蔽する」（NIV）、NASB「遮る垂れ幕」。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Possibly meaning “pure gold lampstand.”",
+        "ja": "[翻訳注] おそらく「純金の燭台」を意味する。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “utensils, vessels.”",
+        "ja": "[翻訳注] ヘブル語原文は「器具、器」。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form is the infinitive construct; it means the clothes to be used “to minister” in the holy place.",
+        "ja": "[翻訳注] 語形は連語形不定詞であり、聖所で「仕える」ために用いられる装束を意味する。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “examined” (NASB, TEV); NCV “looked closely at.”",
+        "ja": "[翻訳注] または「調べた」（NASB、TEV）、NCV「綿密に見た」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The deictic particle draws attention to what he saw in such a way as to give the reader Moses’ point of view and a sense of his pleasure: “and behold, they…”",
+        "ja": "[翻訳注] 提示の不変化詞は、読者にモーセの視点と彼の喜びの感覚を与えるように、彼が見たものに注意を向けさせている。「そして見よ、彼らは……」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The situation and wording in Exod 39:43 are reminiscent of Gen 1:28 and 31, with the motifs of blessing people and inspecting what has been made.",
+        "ja": "[解説] 出エジプト記39章43節の状況と言葉遣いは、人々を祝福することや造られたものを検分するというモチーフにおいて、創世記1章28節および31節を想起させる。"
+      }
+    ]
+  }
+}

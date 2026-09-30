@@ -1,0 +1,242 @@
+{
+  "book": "Joshua",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now these are the kings of the land whom the Israelites defeated and drove from their land on the east side of the Jordan, from the Arnon Valley to Mount Hermon, including all the eastern rift valley:",
+      "ja": "イスラエル人がヨルダン川の東側、アルノン谷からヘルモン山に至るまで、東のアラバ渓谷全域を含めて打ち破り、その地を占領したこの地の王たちは次のとおりである。"
+    },
+    {
+      "verse": 2,
+      "en": "King Sihon of the Amorites who lived in Heshbon and ruled from Aroer (on the edge of the Arnon Valley)—including the city in the middle of the valley and half of Gilead—all the way to the Jabbok Valley bordering Ammonite territory. ",
+      "ja": "ヘシュボンに住んでいたアモリ人の王シホン。彼はアルノン谷の縁にあるアロエルから、谷の中央にある町とギレアデの半分を含め、アンモン人の領境であるヤボク谷に至るまでを治めていた。"
+    },
+    {
+      "verse": 3,
+      "en": "His kingdom included the eastern rift valley from the Sea of Kinnereth to the sea of the rift valley (the Salt Sea), including the route to Beth Jeshimoth and the area southward below the slopes of Pisgah. ",
+      "ja": "キネレテ湖からアラバの海（塩の海）に至る東のアラバ渓谷、ベテ・エシモテに至る道、そして南のピスガの傾斜地の下の地域も彼の領土に含まれていた。"
+    },
+    {
+      "verse": 4,
+      "en": "The territory of King Og of Bashan, one of the few remaining Rephaites, who lived in Ashtaroth and Edrei ",
+      "ja": "アシュタロテとエドレイに住んでいた、レパイム人の生き残りの一人であるバシャンの王オグの領土。"
+    },
+    {
+      "verse": 5,
+      "en": "and ruled over Mount Hermon, Salecah, all Bashan to the border of the Geshurites and Maacathites, and half of Gilead as far as the border of King Sihon of Heshbon. ",
+      "ja": "オグはヘルモン山、サルカ、ゲシュル人とマアカ人の境界に至るバシャン全土、ならびにヘシュボンの王シホンの領境に至るギレアデの半分を治めていた。"
+    },
+    {
+      "verse": 6,
+      "en": "Moses the Lord’s servant and the Israelites defeated them, and Moses the Lord’s servant assigned their land to Reuben, Gad, and the half-tribe of Manasseh. ",
+      "ja": "主のしもべモーセとイスラエル人は彼らを討ち倒し、主のしもべモーセはその地をルベン人、ガド人、マナセの半部族に所有地として与えた。"
+    },
+    {
+      "verse": 7,
+      "en": "These are the kings of the land whom Joshua and the Israelites defeated on the west side of the Jordan, from Baal Gad in the Lebanon Valley to Mount Halak up to Seir. Joshua assigned this territory to the Israelite tribes, ",
+      "ja": "ヨシュアとイスラエル人がヨルダン川の西側、レバノンの谷にあるバアル・ガドからセイルへ上るハラク山に至る地域で打ち破ったこの地の王たちは次のとおりである。ヨシュアはこの領土をイスラエルの部族に割り当てに従って分配した。"
+    },
+    {
+      "verse": 8,
+      "en": "including the hill country, the foothills, the rift valley, the slopes, the wilderness, and the Negev—the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites: ",
+      "ja": "山地、低地、アラバ渓谷、傾斜地、荒野、ネゲブ、すなわちヒッタイト人、アモリ人、カナン人、ペリジ人、ヒビ人、エブス人の地である。"
+    },
+    {
+      "verse": 9,
+      "en": "the king of Jericho (one), the king of Ai—located near Bethel—(one),",
+      "ja": "エリコの王（一人）、ベテルの近くにあるアイの王（一人）、"
+    },
+    {
+      "verse": 10,
+      "en": "the king of Jerusalem (one), the king of Hebron (one),",
+      "ja": "エルサレムの王（一人）、ヘブロンの王（一人）、"
+    },
+    {
+      "verse": 11,
+      "en": "the king of Jarmuth (one), the king of Lachish (one),",
+      "ja": "ヤルムテの王（一人）、ラキシュの王（一人）、"
+    },
+    {
+      "verse": 12,
+      "en": "the king of Eglon (one), the king of Gezer (one),",
+      "ja": "エグロンの王（一人）、ゲゼルの王（一人）、"
+    },
+    {
+      "verse": 13,
+      "en": "the king of Debir (one), the king of Geder (one),",
+      "ja": "デビルの王（一人）、ゲデルの王（一人）、"
+    },
+    {
+      "verse": 14,
+      "en": "the king of Hormah (one), the king of Arad (one),",
+      "ja": "ホルマの王（一人）、アラデの王（一人）、"
+    },
+    {
+      "verse": 15,
+      "en": "the king of Libnah (one), the king of Adullam (one),",
+      "ja": "リブナの王（一人）、アドラムの王（一人）、"
+    },
+    {
+      "verse": 16,
+      "en": "the king of Makkedah (one), the king of Bethel (one),",
+      "ja": "マケダの王（一人）、ベテルの王（一人）、"
+    },
+    {
+      "verse": 17,
+      "en": "the king of Tappuah (one), the king of Hepher (one),",
+      "ja": "タップアの王（一人）、ヘフェルの王（一人）、"
+    },
+    {
+      "verse": 18,
+      "en": "the king of Aphek (one), the king of Lasharon (one),",
+      "ja": "アフェクの王（一人）、ラシャロンの王（一人）、"
+    },
+    {
+      "verse": 19,
+      "en": "the king of Madon (one), the king of Hazor (one),",
+      "ja": "マドンの王（一人）、ハツォルの王（一人）、"
+    },
+    {
+      "verse": 20,
+      "en": "the king of Shimron Meron (one), the king of Acshaph (one),",
+      "ja": "シムロン・メロンの王（一人）、アクシャフの王（一人）、"
+    },
+    {
+      "verse": 21,
+      "en": "the king of Taanach (one), the king of Megiddo (one),",
+      "ja": "タアナクの王（一人）、メギドの王（一人）、"
+    },
+    {
+      "verse": 22,
+      "en": "the king of Kedesh (one), the king of Jokneam near Carmel (one),",
+      "ja": "ケデシュの王（一人）、カルメルに近いヨクネアムの王（一人）、"
+    },
+    {
+      "verse": 23,
+      "en": "the king of Dor—near Naphath Dor—(one), the king of Goyim—near Gilgal—(one),",
+      "ja": "ナファテ・ドルの近くにあるドルの王（一人）、ギルガルの近くにあるゴイムの王（一人）、"
+    },
+    {
+      "verse": 24,
+      "en": "the king of Tirzah (one),a total of thirty-one kings. ",
+      "ja": "ティルツァの王（一人）。王は合わせて三十一人であった。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and took possession of their land.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの地を所有した」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “beyond the Jordan, toward the rising of the sun.”",
+        "ja": "[翻訳注] ヘブル語原文は「日の出る方、ヨルダンの向こう側」。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or perhaps, “reigned.”",
+        "ja": "[翻訳注] または「統治した」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT reads here, “and the middle of the valley,” but the reading “the city in the middle of valley” can be reconstructed on the basis of Josh 13:9, 16.",
+        "ja": "[写本注] マソラ本文（MT）は「谷の中央」とあるが、「谷の中央にある町」という読みはヨシュア記13章9節、16節に基づいて再建できる。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “his kingdom included” are supplied in the translation for clarification.",
+        "ja": "[翻訳注] 「彼の領土に含まれていた」という表現は、意味を明確にするために訳出にあたって補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Sea of Kinnereth is another name for the Sea of Galilee. See the note on the word “Kinnereth” in 11:2.",
+        "ja": "[解説] キネレテ湖はガリラヤ湖の別名である。11章2節の「キネレテ」に関する注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The Salt Sea is another name for the Dead Sea.",
+        "ja": "[解説] 塩の海は死海の別名である。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from the remnant of the Rephaites.”[解説]  The Rephaites were apparently an extremely tall ethnic group. See Deut 2:10-11, 20; 3:11.",
+        "ja": "[翻訳注] ヘブル語原文は「レパイムの残りの者」。[解説] レパイム人は背の高い民族であったと見られる。申命記2章10-11節、20節、3章11節を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or perhaps “who reigned.”",
+        "ja": "[翻訳注] または「統治していた」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “gave it for a possession.”",
+        "ja": "[翻訳注] ヘブル語原文は「それを所有地として与えた」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Joshua gave it to the tribes of Israel as a possession according to their allotted portions.”",
+        "ja": "[翻訳注] ヘブル語原文は「ヨシュアはそれをイスラエルの部族に割り当てに従って所有地として与えた」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the foothills”; Heb “the Shephelah.”",
+        "ja": "[翻訳注] または「丘陵地帯」。ヘブル語原文は「シェフェラ（低地）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “the land of” are supplied in the translation for clarification.",
+        "ja": "[翻訳注] 「〜の地」という言葉は、意味を明確にするために訳出にあたって補われている。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B2; Map6-E1; Map7-E1; Map8-E3; Map10-A2; Map11-A1.",
+        "ja": "[地図] 位置についてはMap5-B2; Map6-E1; Map7-E1; Map8-E3; Map10-A2; Map11-A1を参照。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 位置についてはMap5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4を参照。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3.",
+        "ja": "[地図] 位置についてはMap4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3を参照。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-D2; Map2-D3; Map3-A2; Map4-C1.",
+        "ja": "[地図] 位置についてはMap1-D2; Map2-D3; Map3-A2; Map4-C1を参照。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-D4; Map2-C1; Map4-C2; Map5-F2; Map7-B1.",
+        "ja": "[地図] 位置についてはMap1-D4; Map2-C1; Map4-C2; Map5-F2; Map7-B1を参照。"
+      }
+    ]
+  }
+}

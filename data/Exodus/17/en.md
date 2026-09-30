@@ -1,0 +1,172 @@
+# Exodus 17 (English)
+
+## Text
+
+**1**  The whole community of the Israelites traveled on their journey from the wilderness of Sin according to the Lord’s instruction, and they pitched camp in Rephidim. Now there was no water for the people to drink. 
+
+**2** So the people contended with Moses, and they said, “Give us water to drink!” Moses said to them, “Why do you contend with me? Why do you test the Lord?”
+
+**3** But the people were very thirsty there for water, and they murmured against Moses and said, “Why in the world did you bring us up from Egypt—to kill us and our children and our cattle with thirst?” 
+
+**4** Then Moses cried out to the Lord, “What will I do with this people?—a little more and they will stone me!”
+
+**5** The Lord said to Moses, “Go over before the people; take with you some of the elders of Israel and take in your hand your staff with which you struck the Nile and go. 
+
+**6** I will be standing before you there on the rock in Horeb, and you will strike the rock, and water will come out of it so that the people may drink.” And Moses did so in plain view of the elders of Israel. 
+
+**7** He called the name of the place Massah and Meribah, because of the contending of the Israelites and because of their testing the Lord, saying, “Is the Lord among us or not?” 
+
+**8**  Amalek came and attacked Israel in Rephidim. 
+
+**9** So Moses said to Joshua, “Choose some of our men and go out, fight against Amalek. Tomorrow I will stand on top of the hill with the staff of God in my hand.” 
+
+**10** So Joshua fought against Amalek just as Moses had instructed him, and Moses and Aaron and Hur went up to the top of the hill. 
+
+**11** Whenever Moses would raise his hands, then Israel prevailed, but whenever he would rest his hands, then Amalek prevailed. 
+
+**12** When the hands of Moses became heavy, they took a stone and put it under him, and Aaron and Hur held up his hands, one on one side and one on the other, and so his hands were steady until the sun went down. 
+
+**13** So Joshua destroyed Amalek and his army with the sword. 
+
+**14** The Lord said to Moses, “Write this as a memorial in the book, and rehearse it in Joshua’s hearing; for I will surely wipe out the remembrance of Amalek from under heaven.”
+
+**15** Moses built an altar, and he called it “The Lord is my Banner,” 
+
+**16** for he said, “For a hand was lifted up to the throne of the Lord—that the Lord will have war with Amalek from generation to generation.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  This is the famous story telling how the people rebelled against Yahweh when they thirsted, saying that Moses had brought them out into the wilderness to kill them by thirst, and how Moses with the staff brought water from the rock. As a result of this the name was called Massa and Meribah because of the testing and the striving. It was a challenge to Moses’ leadership as well as a test of Yahweh’s presence. The narrative in its present form serves an important point in the argument of the book. The story turns on the gracious provision of God who can give his people water when there is none available. The narrative is structured to show how the people strove. Thus, the story intertwines God’s free flowing grace with the sad memory of Israel’s sins. The passage can be divided into three parts: the situation and the complaint (1-3), the cry and the miracle (4-6), and the commemoration by naming (7).
+
+### Verse 1 - Note 2
+[翻訳注]  Or “congregation” (KJV, ASV, NASB, NRSV).
+
+### Verse 1 - Note 3
+[翻訳注]  The text says that they journeyed “according to their journeyings.” Since the verb form (and therefore the derived noun) essentially means to pull up the tent pegs and move along, this verse would be saying that they traveled by stages, or, from place to place.
+
+### Verse 1 - Note 4
+[解説]  The location is a bit of a problem. Exod 19:1-2 suggests that it is near Sinai, whereas it is normally located near Kadesh in the north. Without any details provided, M. Noth concludes that two versions came together (Exodus [OTL], 138). S. R. Driver says that the writer wrote not knowing that they were 24 miles apart (Exodus, 157). Critics have long been bothered by this passage because of the two names given at the same place. If two sources had been brought together, it is not possible now to identify them. But Noth insisted that if there were two names there were two different locations. The names Massah and Meribah occur alone in Scripture (Deut 9:22, and Num 20:1 for examples), but together in  and in Deut 33:8. But none of these passages is a clarification of the difficulty. Most critics would argue that Massah was a secondary element that was introduced into this account, because  focuses on Meribah. From that starting point they can diverge greatly on the interpretation, usually having something to do with a water test. But although  is parallel in several ways, there are major differences: 1) it takes place 40 years later than this, 2) the name Kadesh is joined to the name Meribah there, and 3) Moses is punished there. One must conclude that if an event could occur twice in similar ways (complaint about water would be a good candidate for such), then there is no reason a similar name could not be given.
+
+### Verse 1 - Note 5
+[翻訳注]  The disjunctive vav introduces a parenthetical clause that is essential for this passage – there was no water.
+
+### Verse 1 - Note 6
+[翻訳注]  Here the construction uses a genitive after the infinitive construct for the subject: “there was no water for the drinking of the people” (GKC 353-54 §115.c).
+
+### Verse 2 - Note 1
+[翻訳注]  The verb וַיָּרֶב (vayyarev) is from the root רִיב (riv); it forms the basis of the name “Meribah.” The word means “strive, quarrel, be in contention” and even “litigation.” A translation “quarrel” does not appear to capture the magnitude of what is being done here. The people have a legal dispute – they are contending with Moses as if bringing a lawsuit.
+
+### Verse 2 - Note 2
+[翻訳注]  The imperfect tense with the vav (ו) follows the imperative, and so it carries the nuance of the logical sequence, showing purpose or result. This may be expressed in English as “give us water so that we may drink,” but more simply with the English infinitive, “give us water to drink.”[解説]  One wonders if the people thought that Moses and Aaron had water and were withholding it from the people, or whether Moses was able to get it on demand. The people should have come to Moses to ask him to pray to God for water, but their action led Moses to say that they had challenged God (B. Jacob, Exodus, 476).
+
+### Verse 2 - Note 3
+[翻訳注]  In this case and in the next clause the imperfect tenses are to be taken as progressive imperfects – the action is in progress.
+
+### Verse 2 - Note 4
+[翻訳注]  The verb נָסָה (nasah) means “to test, tempt, try, prove.” It can be used of people simply trying to do something that they are not sure of (such as David trying on Saul’s armor), or of God testing people to see if they will obey (as in testing Abraham, Gen 22:1), or of people challenging others (as in the Queen of Sheba coming to test Solomon), and of the people in the desert in rebellion putting God to the test. By doubting that God was truly in their midst, and demanding that he demonstrate his presence, they tested him to see if he would act. There are times when “proving” God is correct and required, but that is done by faith (as with Gideon); when it is done out of unbelief, then it is an act of disloyalty.
+
+### Verse 3 - Note 1
+[翻訳注]  The verbs and the pronouns in this verse are in the singular because “the people” is singular in form.
+
+### Verse 3 - Note 2
+[翻訳注]  The demonstrative pronoun is used as the enclitic form for special emphasis in the question; it literally says, “why is this you have brought us up?” (R. J. Williams, Hebrew Syntax, 24, §118).
+
+### Verse 3 - Note 3
+[解説]  Their words deny God the credit for bringing them out of Egypt, impugn the integrity of Moses and God by accusing them of bringing the people out here to die, and show a lack of faith in God’s ability to provide for them.
+
+### Verse 4 - Note 1
+[翻訳注]  The preposition lamed (ל) is here specification, meaning “with respect to” (see R. J. Williams, Hebrew Syntax, 49, §273).
+
+### Verse 4 - Note 2
+[翻訳注]  Or “they are almost ready to stone me.”
+
+### Verse 4 - Note 3
+[翻訳注]  The perfect tense with the vav (ו) consecutive almost develops an independent force; this is true in sentences where it follows an expression of time, as here (see GKC 334 §112.x).
+
+### Verse 5 - Note 1
+[翻訳注]  “Pass over before” indicates that Moses is the leader who goes first, and the people follow him. In other words, לִפְנֵי (lifney) indicates time and not place here (B. Jacob, Exodus, 477-78).
+
+### Verse 6 - Note 1
+[翻訳注]  The construction uses הִנְנִי עֹמֵד (hinni ’omed) to express the futur instans or imminent future of the verb: “I am going to be standing.”[解説]  The reader has many questions when studying this passage – why water from a rock, why Horeb, why strike the rock when later only speak to it, why recall the Nile miracles, etc. B. Jacob (Exodus, 479-80) says that all these are answered when it is recalled that they were putting God to the test. So water from the rock, the most impossible thing, cleared up the question of his power. Doing it at Horeb was significant because there Moses was called and told he would bring them to this place. Since they had doubted God was in their midst, he would not do this miracle in the camp, but would have Moses lead the elders out to Horeb. If people doubt God is in their midst, then he will choose not to be in their midst. And striking the rock recalled striking the Nile; there it brought death to Egypt, but here it brought life to Israel. There could be little further doubting that God was with them and able to provide for them.
+
+### Verse 6 - Note 2
+[翻訳注]  Or “by” (NIV, NLT).
+
+### Verse 6 - Note 3
+[翻訳注]  The form is a Hiphil perfect with the vav (ו) consecutive; it follows the future nuance of the participle and so is equivalent to an imperfect tense nuance of instruction.
+
+### Verse 6 - Note 4
+[翻訳注]  These two verbs are also perfect tenses with vav (ו) consecutive: “and [water] will go out…and [the people] will drink.” But the second verb is clearly the intent or the result of the water gushing from the rock, and so it may be subordinated.[解説]  The presence of Yahweh at this rock enabled Paul to develop a midrashic lesson, an analogical application: Christ was present with Israel to provide water for them in the wilderness. So this was a Christophany. But Paul takes it a step further to equate the rock with Christ, for just as it was struck to produce water, so Christ would be struck to produce rivers of living water. The provision of bread to eat and water to drink provided for Paul a ready analogy to the provisions of Christ in the gospel (1 Cor 10:4).
+
+### Verse 6 - Note 5
+[翻訳注]  Heb “in the eyes of.”
+
+### Verse 7 - Note 1
+[解説]  The name Massah (מַסָּה, massah) means “Proving”; it is derived from the verb “test, prove, try.” And the name Meribah (מְרִיבָה, mÿrivah) means “Strife”; it is related to the verb “to strive, quarrel, contend.” The choice of these names for the place would serve to remind Israel for all time of this failure with God. God wanted this and all subsequent generations to know how unbelief challenges God. And yet, he gave them water. So in spite of their failure, he remained faithful to his promises. The incident became proverbial, for it is the warning in Ps 95:7-8, which is quoted in Heb 3:15: “Oh, that today you would listen as he speaks! Do not harden your hearts as in the rebellion, in the day of testing in the wilderness. There your fathers tested me and tried me, and they saw my works for forty years.” The lesson is clear enough: to persist in this kind of unbelief could only result in the loss of divine blessing. Or, to put it another way, if they refused to believe in the power of God, they would wander powerless in the wilderness. They had every reason to believe, but they did not. (Note that this does not mean they are unbelievers, only that they would not take God at his word.)
+
+### Verse 8 - Note 1
+[解説]  This short passage gives the first account of Israel’s holy wars. The war effort and Moses’ holding up his hands go side by side until the victory is won and commemorated. Many have used this as an example of intercessory prayer – but the passage makes no such mention. In Exodus so far the staff of God is the token of the power of God; when Moses used it, God demonstrated his power. To use the staff of God was to say that God did it; to fight without the staff was to face defeat. Using the staff of God was a way of submitting to and depending on the power of God in all areas of life. The first part of the story reports the attack and the preparation for the battle (8,9). The second part describes the battle and its outcome (10-13). The final section is the preservation of this event in the memory of Israel (14-16).
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “and Amalek came”; NIV, NCV, TEV, CEV “the Amalekites.”
+
+### Verse 8 - Note 3
+[翻訳注]  Or “fought with.”
+
+### Verse 9 - Note 1
+[翻訳注]  This could be rendered literally “choose men for us.” But the lamed (ל) preposition probably indicates possession, “our men,” and the fact that Joshua was to choose from Israel, as well as the fact that there is no article on “men,” indicates he was to select some to fight.
+
+### Verse 10 - Note 1
+[翻訳注]  The line in Hebrew reads literally: And Joshua did as Moses had said to him, to fight with Amalek. The infinitive construct is epexegetical, explaining what Joshua did that was in compliance with Moses’ words.
+
+### Verse 11 - Note 1
+[翻訳注]  The two verbs in the temporal clauses are by וְהָיָה כַּאֲשֶׁר (vÿhaya ka’asher, “as long as” or, “and it was that whenever”). This indicates that the two imperfect tenses should be given a frequentative translation, probably a customary imperfect.
+
+### Verse 11 - Note 2
+[翻訳注]  Or “lower.”
+
+### Verse 12 - Note 1
+[翻訳注]  Literally “now the hands of Moses,” the disjunctive vav (ו) introduces a circumstantial clause here – of time.
+
+### Verse 12 - Note 2
+[翻訳注]  The term used here is the adjective כְּבֵדִים (kÿvedim). It means “heavy,” but in this context the idea is more that of being tired. This is the important word that was used in the plague stories: when the heart of Pharaoh was hard, then the Israelites did not gain their freedom or victory. Likewise here, when the staff was lowered because Moses’ hands were “heavy,” Israel started to lose.
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “from this, one, and from this, one.”
+
+### Verse 12 - Note 4
+[翻訳注]  The word “steady” is אֱמוּנָה (’emuna) from the root אָמַן (’aman). The word usually means “faithfulness.” Here is a good illustration of the basic idea of the word – firm, steady, reliable, dependable. There may be a double entendre here; on the one hand it simply says that his hands were stayed so that Israel might win, but on the other hand it is portraying Moses as steady, firm, reliable, faithful. The point is that whatever God commissioned as the means or agency of power – to Moses a staff, to the Christians the Spirit – the people of God had to know that the victory came from God alone.
+
+### Verse 13 - Note 1
+[翻訳注]  The verb means “disabled, weakened, prostrated.” It is used a couple of times in the Bible to describe how man dies and is powerless (see Job 14:10; Isa 14:12).
+
+### Verse 13 - Note 2
+[翻訳注]  Or “people.”
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “mouth of the sword.” It means as the sword devours – without quarter (S. R. Driver, Exodus, 159).
+
+### Verse 14 - Note 1
+[翻訳注]  The presence of the article does not mean that he was to write this in a book that was existing now, but in one dedicated to this purpose (book, meaning scroll). See GKC 408 §126.s.
+
+### Verse 14 - Note 2
+[翻訳注]  The Hebrew word is “place,” meaning that the events were to be impressed on Joshua.
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “in the ears of Joshua.” The account should be read to Joshua.
+
+### Verse 14 - Note 4
+[翻訳注]  The construction uses the infinitive absolute and the imperfect tense to stress the resolution of Yahweh to destroy Amalek. The verb מָחָה (makhah) is often translated “blot out” – but that is not a very satisfactory image, since it would not remove completely what is the object. “Efface, erase, scrape off” (as in a palimpsest, a manuscript that is scraped clean so it can be reused) is a more accurate image.
+
+### Verse 14 - Note 5
+[解説]  This would seem to be defeated by the preceding statement that the events would be written in a book for a memorial. If this war is recorded, then the Amalekites would be remembered. But here God was going to wipe out the memory of them. But the idea of removing the memory of a people is an idiom for destroying them – they will have no posterity and no lasting heritage.
+
+### Verse 15 - Note 1
+[解説]  Heb “Yahweh-nissi” (so NAB), which means “Yahweh is my banner.” Note that when Israel murmured and failed God, the name commemorated the incident or the outcome of their failure. When they were blessed with success, the naming praised God. Here the holding up of the staff of God was preserved in the name for the altar – God gave them the victory.
+
+### Verse 16 - Note 1
+[翻訳注]  The line here is very difficult. The Hebrew text has כִּי־יָד עַל־כֵּס יָהּ (ki yad ’al kes yah, “for a hand on the throne of Yah”). If the word is “throne” (and it is not usually spelled like this), then it would mean Moses’ hand was extended to the throne of God, showing either intercession or source of power. It could not be turned to mean that the hand of Yah was taking an oath to destroy the Amalekites. The LXX took the same letters, but apparently saw the last four (כסיה) as a verbal form; it reads “with a secret hand.” Most scholars have simply assumed that the text is wrong, and כֵּס should be emended to נֵס (nes) to fit the name, for this is the pattern of naming in the OT with popular etymologies – some motif of the name must be found in the sentiment. This would then read, “My hand on the banner of Yah.” It would be an expression signifying that the banner, the staff of God, should ever be ready at hand when the Israelites fight the Amalekites again.
+
+### Verse 16 - Note 2
+[解説]  The message of this short narrative, then, concerns the power of God to protect his people. The account includes the difficulty, the victory, and the commemoration. The victory must be retained in memory by the commemoration. So the expositional idea could focus on that: The people of God must recognize (both for engaging in warfare and for praise afterward) that victory comes only with the power of God. In the NT the issue is even more urgent, because the warfare is spiritual – believers do not wrestle against flesh and blood. So only God’s power will bring victory.

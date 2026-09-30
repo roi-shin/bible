@@ -1,0 +1,628 @@
+{
+  "book": "Joshua",
+  "chapter": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Joshua assembled all the Israelite tribes at Shechem. He summoned Israel’s elders, rulers, judges, and leaders, and they appeared before God. ",
+      "ja": "ヨシュアはイスラエルの全部族をシェケムに集めた。彼はイスラエルの長老、頭、裁判官、役人を召集し、彼らは神の前に進み出た。"
+    },
+    {
+      "verse": 2,
+      "en": "Joshua told all the people, “This is what the Lord God of Israel has said: ‘In the distant past your ancestors lived beyond the Euphrates River, including Terah the father of Abraham and Nahor. They worshiped other gods, ",
+      "ja": "ヨシュアは民全体に言った。「イスラエルの神、主はこう仰せられた。『遠い昔、アブラハムとナホルの父テラをはじめとするあなたがたの先祖は、ユーフラテス川の向こうに住んでいた。彼らは他の神々に仕えていたが、"
+    },
+    {
+      "verse": 3,
+      "en": "but I took your father Abraham from beyond the Euphrates and brought him into the entire land of Canaan. I made his descendants numerous; I gave him Isaac, ",
+      "ja": "わたしはあなたがたの父アブラハムをユーフラテス川の向こうから連れ出し、カナンの全地を導き巡らせた。わたしは彼の子孫を増やし、彼にイサクを与え、"
+    },
+    {
+      "verse": 4,
+      "en": "and to Isaac I gave Jacob and Esau. To Esau I assigned Mount Seir, while Jacob and his sons went down to Egypt. ",
+      "ja": "イサクにはヤコブとエサウを与えた。エサウにはセイル山を割り当てたが、ヤコブとその子らはエジプトに下った。"
+    },
+    {
+      "verse": 5,
+      "en": "I sent Moses and Aaron, and I struck Egypt down when I intervened in their land. Then I brought you out. ",
+      "ja": "わたしはモーセとアロンを遣わし、エジプトのただ中で介入してこれに打撃を与えた。その後、わたしはあなたがたを導き出した。"
+    },
+    {
+      "verse": 6,
+      "en": "When I brought your fathers out of Egypt, you arrived at the sea. The Egyptians chased your fathers with chariots and horsemen to the Red Sea. ",
+      "ja": "わたしがあなたがたの父祖をエジプトから導き出したとき、あなたがたは海に到着した。エジプト人は戦車と騎兵をもって、あなたがたの父祖を紅海まで追撃した。"
+    },
+    {
+      "verse": 7,
+      "en": "Your fathers cried out for help to the Lord; he made the area between you and the Egyptians dark, and then he drowned them in the sea. You witnessed with your very own eyes what I did in Egypt. You lived in the wilderness for a long time. ",
+      "ja": "あなたがたの父祖が主に助けを求めて叫んだので、主はあなたがたとエジプト人の間に暗闇を生じさせ、彼らを海で溺れさせられた。あなたがたは、わたしがエジプトで行ったことを自らの目で目撃した。そしてあなたがたは長い間荒野に住んだ。"
+    },
+    {
+      "verse": 8,
+      "en": "Then I brought you to the land of the Amorites who lived east of the Jordan. They fought with you, but I handed them over to you; you conquered their land, and I destroyed them from before you.",
+      "ja": "それからわたしは、ヨルダン川の東に住んでいたアモリ人の地にあなたがたを導いた。彼らはあなたがたと戦ったが、わたしは彼らをあなたがたの手に渡した。あなたがたはその地を占領し、わたしは彼らをあなたがたの前から滅ぼした。"
+    },
+    {
+      "verse": 9,
+      "en": "Balak son of Zippor, king of Moab, launched an attack against Israel. He summoned Balaam son of Beor to call down judgment on you.",
+      "ja": "モアブの王、ツィポルの子バラクはイスラエルに対して攻撃を仕掛けた。彼はベオルの子バラムを呼び寄せ、あなたがたに裁きを下させようとした。"
+    },
+    {
+      "verse": 10,
+      "en": "I refused to respond to Balaam; he kept prophesying good things about you, and I rescued you from his power. ",
+      "ja": "しかしわたしはバラムに応じることを拒んだ。彼はあなたがたについて幸いな預言を語り続け、わたしはあなたがたを彼の手から救い出した。"
+    },
+    {
+      "verse": 11,
+      "en": "You crossed the Jordan and came to Jericho. The leaders of Jericho, as well as the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, fought against you, but I handed them over to you.",
+      "ja": "あなたがたはヨルダン川を渡ってエリコに来た。エリコの指導者たちをはじめ、アモリ人、ペリジ人、カナン人、ヒッタイト人、ギルガシ人、ヒビ人、エブス人があなたがたと戦ったが、わたしは彼らをあなたがたの手に渡した。"
+    },
+    {
+      "verse": 12,
+      "en": "I sent terror ahead of you to drive out before you the two Amorite kings. I gave you the victory; it was not by your swords or bows. ",
+      "ja": "わたしはあなたがたの前に恐れを送り、アモリ人の二人の王をあなたがたの前から追い払った。わたしがあなたがたに勝利を与えたのであり、あなたがたの剣や弓によるのではない。"
+    },
+    {
+      "verse": 13,
+      "en": "I gave you a land in which you had not worked hard; you took up residence in cities you did not build, and you are eating the produce of vineyards and olive groves you did not plant.’ ",
+      "ja": "わたしはあなたがたが労苦しなかった地を与えた。あなたがたは自分で建てていない町々に住み、自分で植えていないぶどう畑やオリーブ畑の収穫を食べている』。"
+    },
+    {
+      "verse": 14,
+      "en": "“Now obey the Lord and worship him with integrity and loyalty. Put aside the gods your ancestors worshiped beyond the Euphrates and in Egypt, and worship the Lord. ",
+      "ja": "「それゆえ今、主を恐れ、誠実と忠実をもって主に仕えなさい。あなたがたの先祖がユーフラテス川の向こうやエジプトで仕えていた神々を取り除き、主に仕えなさい。"
+    },
+    {
+      "verse": 15,
+      "en": "If you have no desire to worship the Lord, then choose today whom you will worship, whether it be the gods whom your ancestors worshiped beyond the Euphrates or the gods of the Amorites in whose land you are living. But I and my family will worship the Lord.”",
+      "ja": "もし主に仕えることを望まないなら、あなたがたの先祖がユーフラテス川の向こうで仕えた神々であれ、今あなたがたが住んでいる地のアモリ人の神々であれ、だれに仕えるかを今日選びなさい。しかし、わたしとわたしの家は主に仕える」。"
+    },
+    {
+      "verse": 16,
+      "en": "The people responded, “Far be it from us to abandon the Lord so we can worship other gods! ",
+      "ja": "民は答えた。「主を捨てて他の神々に仕えるなど、わたしたちにはありえないことである。"
+    },
+    {
+      "verse": 17,
+      "en": "For the Lord our God took us and our fathers out of slavery in the land of Egypt and performed these awesome miracles before our very eyes. He continually protected us as we traveled and when we passed through nations. ",
+      "ja": "わたしたちの神、主こそが、わたしたちとわたしたちの父祖をエジプトの地にある奴隷状態から導き出し、わたしたちの目の前でこれらの大いなる奇跡を行われたからである。主は、わたしたちが旅した道中のすべてにおいて、また諸民族の間を通過したときにも、わたしたちを守り続けてくださった。"
+    },
+    {
+      "verse": 18,
+      "en": "The Lord drove out from before us all the nations, including the Amorites who lived in the land. So we too will worship the Lord, for he is our God!” ",
+      "ja": "主は、この地に住んでいたアモリ人をはじめとするすべての民族を、わたしたちの前から追い払われた。それゆえ、わたしたちも主に仕える。主こそがわたしたちの神であるからだ」。"
+    },
+    {
+      "verse": 19,
+      "en": "Joshua warned the people, “You will not keep worshiping the Lord, for he is a holy God. He is a jealous God who will not forgive your rebellion or your sins. ",
+      "ja": "ヨシュアは民を戒めて言った。「あなたがたは主に仕え続けることはできない。神は聖なる神であり、ねたむ神であって、あなたがたの反逆や罪を赦されないからである。"
+    },
+    {
+      "verse": 20,
+      "en": "If you abandon the Lord and worship foreign gods, he will turn against you; he will bring disaster on you and destroy you, though he once treated you well.” ",
+      "ja": "もしあなたがたが主を捨てて異国の神々に仕えるなら、主はかつてあなたがたを慈しまれたにもかかわらず、態度を変えてあなたがたに災いをもたらし、あなたがたを滅ぼし尽くされる」。"
+    },
+    {
+      "verse": 21,
+      "en": "The people said to Joshua, “No! We really will worship the Lord.”",
+      "ja": "民はヨシュアに言った。「いいえ、わたしたちは主にお仕えします」。"
+    },
+    {
+      "verse": 22,
+      "en": "Joshua said to the people, “Do you agree to be witnesses against yourselves that you have chosen to worship the Lord?” They replied, “We are witnesses!” ",
+      "ja": "ヨシュアは民に言った。「あなたがたは主を選んでこれに仕えることについて、自分自身に対する証人となることを認めるか」。彼らは答えた。「わたしたちは証人です」。"
+    },
+    {
+      "verse": 23,
+      "en": "Joshua said, “Now put aside the foreign gods that are among you and submit to the Lord God of Israel.” ",
+      "ja": "ヨシュアは言った。「それなら今、あなたがたの間にある異国の神々を取り除き、イスラエルの神、主に心を傾けなさい」。"
+    },
+    {
+      "verse": 24,
+      "en": "The people said to Joshua, “We will worship the Lord our God and obey him.”",
+      "ja": "民はヨシュアに言った。「わたしたちは自分たちの神、主に仕え、その御声に従います」。"
+    },
+    {
+      "verse": 25,
+      "en": "That day Joshua drew up an agreement for the people, and he established rules and regulations for them in Shechem. ",
+      "ja": "その日、ヨシュアは民のために契約を結び、シェケムにおいて彼らのために掟と定めを制定した。"
+    },
+    {
+      "verse": 26,
+      "en": "Joshua wrote these words in the Law Scroll of God. He then took a large stone and set it up there under the oak tree near the Lord’s sanctuary. ",
+      "ja": "ヨシュアはこれらの言葉を神の律法の書に書き記した。それから大きな石を取り、主の聖所のそばにある樫の木の下に立てた。"
+    },
+    {
+      "verse": 27,
+      "en": "Joshua said to all the people, “Look, this stone will be a witness against us, for it has heard everything the Lord said to us. It will be a witness against you if you deny your God.” ",
+      "ja": "ヨシュアは民全体に言った。「見よ、この石はわたしたちに対する証拠となる。主がわたしたちに語られたすべての言葉を聞いたからである。あなたがたが自分の神を否むなら、これはあなたがたに対する証拠となる」。"
+    },
+    {
+      "verse": 28,
+      "en": "When Joshua dismissed the people, they went to their allotted portions of land.",
+      "ja": "ヨシュアが民を解散させると、彼らはそれぞれ割り当てられた相続地へと帰っていった。"
+    },
+    {
+      "verse": 29,
+      "en": "After all this Joshua son of Nun, the Lord’s servant, died at the age of 110. ",
+      "ja": "これらすべてのことの後、主のしもべであるヌンの子ヨシュアは百十歳で死んだ。"
+    },
+    {
+      "verse": 30,
+      "en": "They buried him in his allotted territory in Timnath Serah in the hill country of Ephraim, north of Mount Gaash. ",
+      "ja": "人々は彼を、エフライムの山地にあるガアシュ山の北、ティムナト・セラにある彼の割り当て地領内に葬った。"
+    },
+    {
+      "verse": 31,
+      "en": "Israel worshiped the Lord throughout Joshua’s lifetime and as long as the elderly men who outlived him remained alive. These men had experienced firsthand everything the Lord had done for Israel. ",
+      "ja": "イスラエルは、ヨシュアの生涯の間、また彼より長生きした長老たちが生存している間、主に仕えた。これらの長老たちは、主がイスラエルのために行われたすべての業を自ら経験していた。"
+    },
+    {
+      "verse": 32,
+      "en": "The bones of Joseph, which the Israelites had brought up from Egypt, were buried at Shechem in the part of the field that Jacob bought from the sons of Hamor, the father of Shechem, for 100 pieces of money. So it became the inheritance of the tribe of Joseph. ",
+      "ja": "イスラエル人がエジプトから携え上ったヨセフの骨は、ヤコブがシェケムの父ハモルの子らから銀百枚で買い取った畑の区画内のシェケムに葬られた。そこはヨセフの部族の相続地となった。"
+    },
+    {
+      "verse": 33,
+      "en": "Eleazar son of Aaron died, and they buried him in Gibeah in the hill country of Ephraim, where his son Phinehas had been assigned land.",
+      "ja": "アロンの子エルアザルも死に、人々は彼を、エフライムの山地にある息子のピネハスに割り当てられた土地ギブアに葬った。"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “your fathers.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたの父祖」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the river,” referring to the Euphrates. This has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語原文は「川」で、ユーフラテス川を指す。明確にするために訳文で特定されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “served.”",
+        "ja": "[翻訳注] または「仕えた」。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the river,” referring to the Euphrates. This has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語原文は「川」で、ユーフラテス川を指す。明確にするために訳文で特定されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “through.”",
+        "ja": "[翻訳注] または「くまなく」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “I gave to Esau Mount Seir to possess it.”",
+        "ja": "[翻訳注] ヘブル語原文は「わたしはエサウにセイル山を与えてそれを所有させた」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “by that which I did in its midst.”",
+        "ja": "[翻訳注] ヘブル語原文は「わたしがそのただ中で行ったことによって」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “they”; the referent (the fathers) has been specified in the translation for clarity (see the previous verse).",
+        "ja": "[翻訳注] ヘブル語原文は「彼らは」。指示対象（父祖たち）が明確にするために訳文で特定されている（前節参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “put darkness between you and the Egyptians.”",
+        "ja": "[翻訳注] または「あなたがたとエジプト人との間に暗闇を置いた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and he brought over them the sea and covered them.”",
+        "ja": "[翻訳注] ヘブル語原文は「そして主は彼らの上に海をもたらし、彼らを覆った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “your eyes saw.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたの目が見た」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “many days.”",
+        "ja": "[翻訳注] ヘブル語原文は「多くの日」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “took possession of.”",
+        "ja": "[翻訳注] または「所有した」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “arose and fought.”",
+        "ja": "[翻訳注] ヘブル語原文は「立ち上がって戦った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “sent and called.”",
+        "ja": "[翻訳注] ヘブル語原文は「人を遣わして呼んだ」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “to curse.”",
+        "ja": "[翻訳注] または「呪うために」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The infinitive absolute follows the finite verb in the Hebrew text and indicates continuation or repetition of the action. Balaam pronounced several oracles of blessing over Israel (see Num 23-24).",
+        "ja": "[翻訳注] ヘブル語本文では定形動詞の後に絶対不定詞が続き、動作の継続または反復を示す。バラムはイスラエルに対して祝福の託宣を繰り返し告げた（民数記23-24章参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “blessing.” Balaam’s “blessings” were actually prophecies of how God would prosper Israel.",
+        "ja": "[翻訳注] ヘブル語原文は「祝福」。バラムの祝福は、実際には神がどのようにイスラエルを繁栄させるかについての預言であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “hand.”",
+        "ja": "[翻訳注] ヘブル語原文は「手」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B2; Map6-E1; Map7-E1; Map8-E3; Map10-A2; Map11-A1.",
+        "ja": "[地図] 位置については Map5-B2、Map6-E1、Map7-E1、Map8-E3、Map10-A2、Map11-A1 を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or perhaps, “citizens.”",
+        "ja": "[翻訳注] または「市民たち」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Traditionally, “the hornet” (so KJV, NKJV, NASB, NIV, NRSV) but the precise meaning of the Hebrew word is uncertain (cf. NEB “panic”).",
+        "ja": "[翻訳注] 伝統的には「スズメバチ」（KJV、NKJV、NASB、NIV、NRSVなど）とされるが、ヘブル語の単語の正確な意味は不確かである（NEBの「恐慌」を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The LXX has “twelve,” apparently understanding this as a reference to Amorite kings west of the Jordan (see Josh 5:1, rather than the trans-Jordanian Amorite kings Sihon and Og (see Josh 2:10; 9:10).",
+        "ja": "[翻訳注] 七十人訳（LXX）は「十二」としており、ヨルダン川東岸のアモリ人の王シホンとオグ（ヨシュア記2:10、9:10参照）ではなく、ヨルダン川西岸のアモリ人の王たち（ヨシュア記5:1参照）を指すと理解しているようである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and it drove them out from before you, the two kings of the Amorites, not by your sword and not by your bow.” The words “I gave you the victory” are supplied for clarification.",
+        "ja": "[翻訳注] ヘブル語原文は「そしてそれは、アモリ人の二人の王をあなたがたの前から追い払った。あなたがたの剣によるのでもなく、あなたがたの弓によるのでもない」。「わたしがあなたがたに勝利を与えた」という言葉は明確にするために補われている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or perhaps, “for.”",
+        "ja": "[翻訳注] または「のために」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “the produce of” are supplied for clarification.",
+        "ja": "[翻訳注] 「の収穫」という言葉は明確にするために補われている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  Joshua quotes the Lord’s words in vv. 2b-13 (note that the Lord speaks in the first person in these verses); in vv. 14-15 Joshua himself exhorts the people (note the third person references to the Lord).",
+        "ja": "[解説] ヨシュアは2b-13節で主の言葉を引用している（これらの節で主が一人称で語っている点に注目）。14-15節ではヨシュア自身が民を勧告している（主が三人称で言及されている点に注目）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “fear.”",
+        "ja": "[翻訳注] ヘブル語原文は「恐れよ」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “and serve.”",
+        "ja": "[翻訳注] または「仕えよ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “your fathers.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたの父祖」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “served.”",
+        "ja": "[翻訳注] または「仕えた」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Heb “the river,” referring to the Euphrates. This has been specified in the translation for clarity; see v. 3.",
+        "ja": "[翻訳注] ヘブル語原文は「川」で、ユーフラテス川を指す。明確にするために訳文で特定されている（3節参照）。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  Or “and serve.”",
+        "ja": "[翻訳注] または「仕えよ」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “if it is bad in your eyes.”",
+        "ja": "[翻訳注] ヘブル語原文は「もしそれがあなたがたの目に悪しきことと見えるなら」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “to serve.”",
+        "ja": "[翻訳注] または「仕えることを」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “will serve.”",
+        "ja": "[翻訳注] または「仕えるか」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “your fathers.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたの父祖」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “served.”",
+        "ja": "[翻訳注] または「仕えた」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Heb “the river,” referring to the Euphrates. This has been specified in the translation for clarity; see v. 3.",
+        "ja": "[翻訳注] ヘブル語原文は「川」で、ユーフラテス川を指す。明確にするために訳文で特定されている（3節参照）。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  Heb “house.”",
+        "ja": "[翻訳注] ヘブル語原文は「家」。"
+      },
+      {
+        "pos": 8,
+        "en": "[翻訳注]  Or “will serve.”",
+        "ja": "[翻訳注] または「仕える」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to.”",
+        "ja": "[翻訳注] ヘブル語原文は「〜に対して」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “can serve.”",
+        "ja": "[翻訳注] または「仕えるために」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “of the house of slavery.”",
+        "ja": "[翻訳注] ヘブル語原文は「奴隷の家から」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for the Lord our God, he is the one who brought up us and our fathers from the land of Egypt, from the house of slaves.”",
+        "ja": "[翻訳注] ヘブル語原文は「わたしたちの神、主こそが、わたしたちとわたしたちの父祖をエジプトの地、奴隷の家から導き上られた方であるから」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “great signs.”",
+        "ja": "[翻訳注] または「大いなるしるし」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he guarded us in all the way in which we walked and among all the peoples through whose midst we passed.”",
+        "ja": "[翻訳注] ヘブル語原文は「そして主は、わたしたちが歩んだすべての道において、またわたしたちがその中を通り抜けたすべての民の間で、わたしたちを守られた」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “will serve.”",
+        "ja": "[翻訳注] または「仕える」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “said to.”",
+        "ja": "[翻訳注] ヘブル語原文は「〜に言った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “you are not able to serve.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたは仕えることができない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  For an excellent discussion of Joshua’s logical argument here, see T. C. Butler, Joshua (WBC), 274-75.",
+        "ja": "[解説] ここでのヨシュアの論理的議論に関する詳細な考察については、T. C. Butler, Joshua (WBC), 274-75 を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  In the Hebrew text both the divine name (אֱלֹהִים, ’elohim) and the adjective (קְדֹשִׁים, qÿdoshim, “holy”) are plural. Normally the divine name, when referring to the one true God, takes singular modifiers, but this is a rare exception where the adjective agrees grammatically with the honorific plural noun. See GKC §124.i and IBHS 122.",
+        "ja": "[翻訳注] ヘブル語本文において、神名（אֱלֹהִים, ’elohim）と形容詞（קְדֹשִׁים, qÿdoshim、「聖なる」）の双方が複数形である。唯一の真の神を指す場合、神名は通常単数の修飾語を取るが、これは形容詞が尊称複数名詞と文法的に一致している例外である。GKC §124.i および IBHS 122 を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “lift up” or “take away.”[解説]  This assertion obviously needs qualification, for the OT elsewhere affirms that God does forgive. Joshua is referring to the persistent national rebellion against the Mosaic covenant that eventually cause God to decree unconditionally the nation’s exile.",
+        "ja": "[翻訳注] ヘブル語原文は「持ち上げる」または「取り去る」。[解説] この主張には限定が必要である。旧約聖書の他の箇所では神が赦されることが断言されているからである。ヨシュアは、最終的に神が無条件で民族の捕囚を宣告する原因となった、モーセ契約に対する執拗な国家的反逆を指している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “when.”",
+        "ja": "[翻訳注] または「〜のとき」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “and serve.”",
+        "ja": "[翻訳注] または「仕え」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “against you” are added for clarification.",
+        "ja": "[翻訳注] 「あなたがたに」という言葉は明確にするために補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “bring you to an end.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたを終わらせる」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “after he did good for you.”",
+        "ja": "[翻訳注] ヘブル語原文は「主があなたがたに良くされた後に」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation assumes that כִּי (ki) is emphatic. Another option is to take it as explanatory, “No, for we will….”",
+        "ja": "[翻訳注] この訳は כִּי (ki) を強調として解釈している。別の解釈として、「いいえ、わたしたちは…」のように説明的とみなす立場もある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “will serve.”",
+        "ja": "[翻訳注] または「仕えます」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “You are witnesses against yourselves that you have chosen for yourselves the Lord to serve him.”",
+        "ja": "[翻訳注] ヘブル語原文は「あなたがたは、自分たちのために主を選んで仕えることについて、自分自身に対する証人である」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Like witnesses in a court of law, Israel’s solemn vow to worship the Lord will testify against them in the divine court if the nation ever violates its commitment.",
+        "ja": "[解説] 法廷での証人のように、主を礼拝するというイスラエルの厳粛な誓いは、もしこの民族が約束を破るなら、神の法廷において彼ら自身に対して証言することになる。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “Joshua said” are supplied for clarification.",
+        "ja": "[翻訳注] 「ヨシュアは言った」という言葉は明確にするために補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “bend your heart toward.” The term לֵבָב (levav, “heart”) probably here refers to the people’s volition or will.",
+        "ja": "[翻訳注] ヘブル語原文は「〜へ心を傾けよ」。ここで「心」（לֵבָב, levav）という語は、民の決断や意志を指していると思われる。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “will serve.”",
+        "ja": "[翻訳注] または「仕え」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and listen to his voice.”",
+        "ja": "[翻訳注] ヘブル語原文は「その御声に聞き従う」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “cut a covenant.”",
+        "ja": "[翻訳注] ヘブル語原文は「契約を結んだ（切り結んだ）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a statute and a judgment.”",
+        "ja": "[翻訳注] ヘブル語原文は「掟と定め」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “all the words of the Lord which he spoke with us.”",
+        "ja": "[翻訳注] ヘブル語原文は「主がわたしたちと語られたすべての言葉」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “lest,” “so that you might not.”",
+        "ja": "[翻訳注] または「〜しないように」「否定することのないように」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And Joshua sent the people away, each to his inheritance.”",
+        "ja": "[翻訳注] ヘブル語原文は「ヨシュアは民をそれぞれ自分の相続地へと送り出した」。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “after these things.”",
+        "ja": "[翻訳注] ヘブル語原文は「これらのことの後」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in the territory of his inheritance.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼の相続地の境界内に」。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “served.”",
+        "ja": "[翻訳注] または「仕えた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all the days of Joshua and all the days of the elders who outlived him.”",
+        "ja": "[翻訳注] ヘブル語原文は「ヨシュアの日々の間、また彼より長生きした長老たちの日々の間」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “who knew all the work of the Lord which he had done for Israel.”",
+        "ja": "[翻訳注] ヘブル語原文は「主がイスラエルのために行われたすべての業を知っていた」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “one hundred qesitahs.” The Hebrew word קְשִׂיטָה (qesitah) is generally understood to refer to a unit of money, but the value and/or weight is unknown. The word occurs only here and in Gen 33:19 and Job 42:11.",
+        "ja": "[翻訳注] ヘブル語原文は「百ケシタ」。ヘブル語の単語 קְשִׂיטָה（ケシタ）は一般に通貨単位を指すと理解されているが、その価値や重量は不明である。この語はここと創世記33:19、ヨブ記42:11にのみ現れる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and they became for the sons of Joseph an inheritance.” One might think “bones” is the subject of the verb “they became,” but the verb is masculine, while “bones” is feminine. The translation follows the emendation suggested in the BHS note, which appeals to the Syriac and Vulgate for support. The emended reading understands “the part (of the field)” as the subject of the verb “became.” The emended verb is feminine singular; this agrees with “the part” (of the field), which is feminine in Hebrew.",
+        "ja": "[翻訳注] ヘブル語原文は「そして彼らはヨセフの子らにとって相続地となった」。「骨」が動詞「彼らは〜となった」の主語であると考えがちであるが、動詞が男性形であるのに対し、「骨」は女性名詞である。この訳はシリア語訳およびウルガタ訳を支持とするBHSの注に示された校正に従っている。校正された読みでは、「（畑の）区画」を動詞「〜となった」の主語と解釈する。校正された動詞は女性単数形であり、これはヘブル語で女性名詞である（畑の）「区画」と一致する。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in Gibeah of Phinehas, his son, which had been given to him in the hill country of Ephraim.”",
+        "ja": "[翻訳注] ヘブル語原文は「エフライムの山地で彼の息子ピネハスに与えられたギブアに」。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "book": "Joshua",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The land allotted to the tribe of Judah by its clans reached to the border of Edom, to the wilderness of Zin in the Negev far to the south. ",
+      "ja": "ユダ部族にその氏族ごとに割り当てられた地は、南のエドムの境界、ネゲブのはるか南にあるツィンの荒野に及んでいた。"
+    },
+    {
+      "verse": 2,
+      "en": "Their southern border started at the southern tip of the Salt Sea, ",
+      "ja": "彼らの南の境界は、塩の海の南端から始まり、"
+    },
+    {
+      "verse": 3,
+      "en": "extended south of the Scorpion Ascent, crossed to Zin, went up from the south to Kadesh Barnea, crossed to Hezron, went up to Addar, and turned toward Karka. ",
+      "ja": "アクラビムの坂の南に伸び、ツィンを通り、南からカデシュ・バルネアへ上り、ヘツロンを通り、アダルへ上り、カルカの方へ曲がった。"
+    },
+    {
+      "verse": 4,
+      "en": "It then crossed to Azmon, extended to the Stream of Egypt, and ended at the Mediterranean Sea. This was their southern border. ",
+      "ja": "それからアツモンを通り、エジプト川に伸び、地中海で行き当たった。これが彼らの南の境界であった。"
+    },
+    {
+      "verse": 5,
+      "en": "The eastern border was the Salt Sea to the mouth of the Jordan River. The northern border started north of the Salt Sea at the mouth of the Jordan, ",
+      "ja": "東の境界は塩の海で、ヨルダン川の河口に至っていた。北の境界は、ヨルダン川の河口にある塩の海の北端から始まり、"
+    },
+    {
+      "verse": 6,
+      "en": "went up to Beth Hoglah, crossed north of Beth Arabah, and went up to the Stone of Bohan son of Reuben. ",
+      "ja": "ベテ・ホグラへ上り、ベテ・アラバの北を通り、ルベンの子ボーハンの石へ上った。"
+    },
+    {
+      "verse": 7,
+      "en": "It then went up to Debir from the Valley of Achor, turning northward to Gilgal (which is opposite the Pass of Adummim south of the valley), crossed to the waters of En Shemesh, and extended to En Rogel. ",
+      "ja": "それからアコルの谷からデビルへ上り、北に向きを変えて谷の南にあるアヅミムの坂の向かいにあるギルガルへ向かい、エン・シェメシュの水に進み、エン・ロゲルに達した。"
+    },
+    {
+      "verse": 8,
+      "en": "It then went up the Valley of Ben Hinnom to the slope of the Jebusites on the south (that is, Jerusalem), going up to the top of the hill opposite the Valley of Ben Hinnom to the west, which is at the end of the Valley of the Rephaites to the north. ",
+      "ja": "さらにベン・ヒノムの谷を上って南側のエブス人の斜面（すなわちエルサレム）に至り、ベン・ヒノムの谷の西の向かいにある丘の頂、北のレファイムの谷の端へと上った。"
+    },
+    {
+      "verse": 9,
+      "en": "It then went from the top of the hill to the spring of the waters of Nephtoah, extended to the cities of Mount Ephron, and went to Baalah (that is, Kiriath Jearim). ",
+      "ja": "それから丘の頂からネフトアの水の水源へ進み、エフロン山の町々に伸び、バアラ（すなわちキルヤテ・エアリム）に至った。"
+    },
+    {
+      "verse": 10,
+      "en": "It then turned from Baalah westward to Mount Seir, crossed to the slope of Mount Jearim on the north (that is Kesalon), descended to Beth Shemesh, and crossed to Timnah. ",
+      "ja": "さらにバアラから西へ向かってセイル山に向きを変え、北にあるエアリム山の斜面（すなわちケサロン）を通り、ベテ・シェメシュに下り、ティムナへと進んだ。"
+    },
+    {
+      "verse": 11,
+      "en": "It then extended to the slope of Ekron to the north, went toward Shikkeron, crossed to Mount Baalah, extended to Jabneel, and ended at the sea. ",
+      "ja": "それから北のエクロンの斜面に伸び、シケロンに向かい、バアラ山を通り、ヤブネエルに伸びて、海で行き当たった。"
+    },
+    {
+      "verse": 12,
+      "en": "The western border was the Mediterranean Sea. These were the borders of the tribe of Judah and its clans. ",
+      "ja": "西の境界は地中海とその海岸であった。これがユダ部族の氏族ごとの周囲の境界であった。"
+    },
+    {
+      "verse": 13,
+      "en": "Caleb son of Jephunneh was assigned Kiriath Arba (that is Hebron) within the tribe of Judah, according to the Lord’s instructions to Joshua. (Arba was the father of Anak.) ",
+      "ja": "ヨシュアに対する主の命にしたがい、エフネの子カレブには、ユダ部族の中でキルヤテ・アルバ（すなわちヘブロン）が割り当てられた（アルバはアナクの父であった）。"
+    },
+    {
+      "verse": 14,
+      "en": "Caleb drove out from there three Anakites—Sheshai, Ahiman, and Talmai, descendants of Anak. ",
+      "ja": "カレブはそこから三人のアナク人、すなわちアナクの子孫であるシェシャイ、アヒマン、タルマイを追い払った。"
+    },
+    {
+      "verse": 15,
+      "en": "From there he attacked the people of Debir. (Debir used to be called Kiriath Sepher.) ",
+      "ja": "彼はそこからデビルの住民を攻めた（デビルはかつてキルヤテ・セフェルと呼ばれていた）。"
+    },
+    {
+      "verse": 16,
+      "en": "Caleb said, “To the man who attacks and captures Kiriath Sepher I will give my daughter Achsah as a wife.” ",
+      "ja": "カレブは言った。「キルヤテ・セフェルを攻めて占領した者に、私の娘アクサを妻として与える」。"
+    },
+    {
+      "verse": 17,
+      "en": "When Othniel son of Kenaz, Caleb’s brother, captured it, Caleb gave Achsah his daughter to him as a wife. ",
+      "ja": "カレブの兄弟ケナズの子オテニエルがそれを占領したので、カレブは娘アクサを彼に妻として与えた。"
+    },
+    {
+      "verse": 18,
+      "en": "One time Achsah came and charmed her father so that she could ask him for some land. When she got down from her donkey, Caleb said to her, “What would you like?”",
+      "ja": "アクサがやって来て、父に畑を求めるよう促した。彼女がろばから降りたとき、カレブは彼女に「何が望みか」と言った。"
+    },
+    {
+      "verse": 19,
+      "en": "She answered, “Please give me a special present. Since you have given me land in the Negev, now give me springs of water.” So he gave her both the upper and lower springs. ",
+      "ja": "彼女は答えた。「私に贈り物をください。あなたは私にネゲブの地を下さったのですから、水の泉もください」。そこで彼は上の泉と下の泉を彼女に与えた。"
+    },
+    {
+      "verse": 20,
+      "en": "This is the land assigned to the tribe of Judah by its clans: ",
+      "ja": "ユダ部族にその氏族ごとに割り当てられた相続地は次のとおりである。"
+    },
+    {
+      "verse": 21,
+      "en": "These cities were located at the southern extremity of Judah’s tribal land near the border of Edom: Kabzeel, Eder, Jagur, ",
+      "ja": "エドムの境界に近いユダ部族の地の最南端にあった町々は次のとおりである。カブツェエル、エデル、ヤグル、"
+    },
+    {
+      "verse": 22,
+      "en": "Kinah, Dimonah, Adadah, ",
+      "ja": "キナ、ディモナ、アダダ、"
+    },
+    {
+      "verse": 23,
+      "en": "Kedesh, Hazor, Ithnan, ",
+      "ja": "ケデシュ、ハツォル、イツナン、"
+    },
+    {
+      "verse": 24,
+      "en": "Ziph, Telem, Bealoth, ",
+      "ja": "ジフ、テレム、ベアロテ、"
+    },
+    {
+      "verse": 25,
+      "en": "Hazor Hadattah, Kerioth Hezron (that is, Hazor), ",
+      "ja": "ハツォル・ハダタ、ケリヨテ・ヘツロン（すなわちハツォル）、"
+    },
+    {
+      "verse": 26,
+      "en": "Amam, Shema, Moladah, ",
+      "ja": "アマム、シェマ、モラダ、"
+    },
+    {
+      "verse": 27,
+      "en": "Hazar Gaddah, Heshbon, Beth Pelet, ",
+      "ja": "ハツァル・ガダ、ヘシュモン、ベテ・ペレテ、"
+    },
+    {
+      "verse": 28,
+      "en": "Hazar Shual, Beer Sheba, Biziothiah, ",
+      "ja": "ハツァル・シュアル、ベエル・シェバ、ビズヨテヤ、"
+    },
+    {
+      "verse": 29,
+      "en": "Baalah, Iim, Ezem, ",
+      "ja": "バアラ、イイム、エツェム、"
+    },
+    {
+      "verse": 30,
+      "en": "Eltolad, Kesil, Hormah, ",
+      "ja": "エルトラデ、ケシル、ホルマ、"
+    },
+    {
+      "verse": 31,
+      "en": "Ziklag, Madmannah, Sansannah, ",
+      "ja": "ツィクラグ、マドマナ、サンサナ、"
+    },
+    {
+      "verse": 32,
+      "en": "Lebaoth, Shilhim, Ain, and Rimmon—a total of 29 cities and their towns. ",
+      "ja": "レバオテ、シルヒム、アイン、リモン。合計二十九の町とそれに属する村々であった。"
+    },
+    {
+      "verse": 33,
+      "en": "These cities were in the foothills: Eshtaol, Zorah, Ashnah, ",
+      "ja": "低地にあった町々は、エシュタオル、ツォルア、アシナ、"
+    },
+    {
+      "verse": 34,
+      "en": "Zanoah, En Gannim, Tappuah, Enam, ",
+      "ja": "ザノア、エン・ガニム、タプア、エナム、"
+    },
+    {
+      "verse": 35,
+      "en": "Jarmuth, Adullam, Socoh, Azekah, ",
+      "ja": "ヤルムテ、アドラム、ソコ、アゼカ、"
+    },
+    {
+      "verse": 36,
+      "en": "Shaaraim, Adithaim, and Gederah (or Gederothaim)—a total of 14 cities and their towns. ",
+      "ja": "シャアライム、アディタイム、ゲデラ（またはゲデロタイム）。合計十四の町とそれに属する村々であった。"
+    },
+    {
+      "verse": 37,
+      "en": "Zenan, Hadashah, Migdal Gad, ",
+      "ja": "ツェナン、ハダシャ、ミグダル・ガド、"
+    },
+    {
+      "verse": 38,
+      "en": "Dilean, Mizpah, Joktheel, ",
+      "ja": "ディルアン、ミツパ、ヨクテエル、"
+    },
+    {
+      "verse": 39,
+      "en": "Lachish, Bozkath, Eglon, ",
+      "ja": "ラキシュ、ボツカテ、エグロン、"
+    },
+    {
+      "verse": 40,
+      "en": "Cabbon, Lahmas, Kitlish, ",
+      "ja": "カボン、ラフマス、キトリシュ、"
+    },
+    {
+      "verse": 41,
+      "en": "Gederoth, Beth Dagon, Naamah, and Makkedah—a total of 16 cities and their towns. ",
+      "ja": "ゲデロテ、ベテ・ダゴン、ナアマ、マケダ。合計十六の町とそれに属する村々であった。"
+    },
+    {
+      "verse": 42,
+      "en": "Libnah, Ether, Ashan, ",
+      "ja": "リブナ、エテル、アシャン、"
+    },
+    {
+      "verse": 43,
+      "en": "Iphtah, Ashnah, Nezib, ",
+      "ja": "イフタ、アシナ、ネツィブ、"
+    },
+    {
+      "verse": 44,
+      "en": "Keilah, Achzib, and Mareshah—a total of nine cities and their towns. ",
+      "ja": "ケイラ、アクジブ、マレシャ。合計九つの町とそれに属する村々であった。"
+    },
+    {
+      "verse": 45,
+      "en": "Ekron and its surrounding towns and settlements; ",
+      "ja": "エクロンとそれに属する町々および集落。"
+    },
+    {
+      "verse": 46,
+      "en": "from Ekron westward, all those in the vicinity of Ashdod and their towns; ",
+      "ja": "エクロンから西の方、アシドデの周辺にあるすべてのものとそれに属する村々。"
+    },
+    {
+      "verse": 47,
+      "en": "Ashdod with its surrounding towns and settlements, and Gaza with its surrounding towns and settlements, as far as the Stream of Egypt and the border at the Mediterranean Sea. ",
+      "ja": "アシドデとそれに属する町々および集落、ガザとそれに属する町々および集落。エジプト川、地中海の境界に至るまで。"
+    },
+    {
+      "verse": 48,
+      "en": "These cities were in the hill country: Shamir, Jattir, Socoh, ",
+      "ja": "山地にあった町々は、シャミル、ヤティル、ソコ、"
+    },
+    {
+      "verse": 49,
+      "en": "Dannah, Kiriath Sannah (that is, Debir), ",
+      "ja": "ダナ、キルヤテ・サナ（すなわちデビル）、"
+    },
+    {
+      "verse": 50,
+      "en": "Anab, Eshtemoh, Anim, ",
+      "ja": "アナブ、エシュテモ、アニム、"
+    },
+    {
+      "verse": 51,
+      "en": "Goshen, Holon, and Giloh—a total of eleven cities and their towns. ",
+      "ja": "ゴシェン、ホロン、ギロ。合計十一の町とそれに属する村々であった。"
+    },
+    {
+      "verse": 52,
+      "en": "Arab, Dumah, Eshan, ",
+      "ja": "アラブ、ドマ、エシャン、"
+    },
+    {
+      "verse": 53,
+      "en": "Janim, Beth Tappuah, Aphekah, ",
+      "ja": "ヤニム、ベテ・タプア、アフェカ、"
+    },
+    {
+      "verse": 54,
+      "en": "Humtah, Kiriath Arba (that is, Hebron), and Zior—a total of nine cities and their towns. ",
+      "ja": "フムタ、キルヤテ・アルバ（すなわちヘブロン）、ツィオル。合計九つの町とそれに属する村々であった。"
+    },
+    {
+      "verse": 55,
+      "en": "Maon, Carmel, Ziph, Juttah, ",
+      "ja": "マオン、カルメル、ジフ、ユタ、"
+    },
+    {
+      "verse": 56,
+      "en": "Jezreel, Jokdeam, Zanoah, ",
+      "ja": "エズレル、ヨクデアム、ザノア、"
+    },
+    {
+      "verse": 57,
+      "en": "Kain, Gibeah, and Timnah—a total of 10 cities and their towns. ",
+      "ja": "カイン、ギブア、ティムナ。合計十の町とそれに属する村々であった。"
+    },
+    {
+      "verse": 58,
+      "en": "Halhul, Beth Zur, Gedor, ",
+      "ja": "ハルフル、ベテ・ツル、ゲドル、"
+    },
+    {
+      "verse": 59,
+      "en": "Maarath, Beth Anoth, and Eltekon—a total of six cities and their towns. ",
+      "ja": "マアラテ、ベテ・アノテ、エルテコン。合計六つの町とそれに属する村々であった。"
+    },
+    {
+      "verse": 60,
+      "en": "Kiriath Baal (that is, Kiriath Jearim) and Rabbah—a total of two cities and their towns. ",
+      "ja": "キルヤテ・バアル（すなわちキルヤテ・エアリム）、ラバ。合計二つの町とそれに属する村々であった。"
+    },
+    {
+      "verse": 61,
+      "en": "These cities were in the wilderness: Beth Arabah, Middin, Secacah, ",
+      "ja": "荒野にあった町々は、ベテ・アラバ、ミディン、セカカ、"
+    },
+    {
+      "verse": 62,
+      "en": "Nibshan, the City of Salt, and En Gedi—a total of six cities and their towns. ",
+      "ja": "ニブシャン、塩の町、エン・ゲディ。合計六つの町とそれに属する村々であった。"
+    },
+    {
+      "verse": 63,
+      "en": "The men of Judah were unable to conquer the Jebusites living in Jerusalem. The Jebusites live with the people of Judah in Jerusalem to this very day. ",
+      "ja": "ユダの人々は、エルサレムに住んでいたエブス人を追い払うことができなかった。エブス人は今日に至るまで、エルサレムでユダの人々とともに住んでいる。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “The lot was to the tribe of the sons of Judah by their clans to the border of Edom, the wilderness of Zin toward the south, southward.”",
+        "ja": "[翻訳注] ヘブル語原文は「ユダの子らの部族の氏族ごとのくじは、エドムの境界、南のさらに南に向かうツィンの荒野に及んだ」。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Their southern border was from the end of the Salt Sea, from the tongue that faces to the south.”[解説]  The Salt Sea is another name for the Dead Sea (also in v. 5).",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの南の境界は塩の海の端、南に面する舌のような入江からであった」。[解説] 「塩の海」は死海の別名である（5節も同様）。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “went out.”",
+        "ja": "[翻訳注] ヘブル語原文は「出て行った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the Ascent of Scorpions” (עַקְרַבִּים [’aqrabbim] means “scorpions” in Hebrew).",
+        "ja": "[翻訳注] または「サソリの坂」（ヘブル語のעַקְרַבִּים［’aqrabbim］は「サソリ」を意味する）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Traditionally “the Brook of Egypt,” although a number of recent translations have “the Wadi of Egypt” (cf. NAB, NIV, NRSV).",
+        "ja": "[翻訳注] 伝統的には「エジプト川」であるが、近年の多くの翻訳では「エジプトのワディ（枯れ川）」と訳されている（NAB、NIV、NRSV等参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The translation follows the LXX at this point. The MT reads, “This will be your southern border.”",
+        "ja": "[翻訳注] ここでは七十人訳聖書（LXX）に従っている。マソラ本文（MT）は「これがあなたがたの南の境界となる」とある。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “end.”",
+        "ja": "[翻訳注] ヘブル語原文は「端」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “River” is not in the Hebrew text, but has been supplied for clarity.",
+        "ja": "[翻訳注] 「川」という言葉はヘブル語本文にはないが、分かりやすさのために補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the border on the northern side was from the tongue of the sea, from the end of the Jordan.”",
+        "ja": "[翻訳注] ヘブル語原文は「北側の境界は、海の舌のような入江、ヨルダン川の端からであった」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “ascent.”",
+        "ja": "[翻訳注] または「上り坂」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 位置については Map5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4 を参照。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Great Sea,” the typical designation for the Mediterranean Sea.",
+        "ja": "[翻訳注] ヘブル語原文は「大海」。これは地中海を指す典型的な表現である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “this was the border of the sons of Judah round about, by their clans.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがユダの子らの氏族ごとの周囲の境界であった」。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “To Caleb son of Jephunneh he gave a portion in the midst of the sons of Judah according to the mouth [i.e., command] of the Lord to Joshua, Kiriath Arba (the father of Anak), it is Hebron.”",
+        "ja": "[翻訳注] ヘブル語原文は「エフネの子カレブには、ヨシュアに対する主の口（すなわち命令）にしたがい、ユダの子らの中で分け前が与えられた。それはキルヤテ・アルバ（アナクの父）であり、ヘブロンである」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “dispossessed.”",
+        "ja": "[翻訳注] または「追い出した」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he went up against the inhabitants of Debir.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼はデビルの住民に向かって上って行った」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  “Caleb’s brother” may refer either to Othniel or to Kenaz. If Kenaz was the brother of Caleb, Othniel is Caleb’s nephew.",
+        "ja": "[翻訳注] 「カレブの兄弟」はオテニエルまたはケナズのいずれかを指す可能性がある。もしケナズがカレブの兄弟であれば、オテニエルはカレブの甥にあたる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he”; the referent (Caleb) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語原文は「彼」。分かりやすさのため、翻訳では指示対象（カレブ）を明示している。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “she”; the referent (Acsah) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語原文は「彼女」。分かりやすさのため、翻訳では指示対象（アクサ）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “him.” The referent of the pronoun could be Othniel, in which case the translation would be, “she incited him [Othniel] to ask her father for a field.” This is problematic, however, for Acsah, not Othniel, makes the request in v. 19. The LXX has “he [Othniel] urged her to ask her father for a field.” This appears to be an attempt to reconcile the apparent inconsistency and probably does not reflect the original text. If Caleb is understood as the referent of the pronoun, the problem disappears. For a fuller discussion of the issue, see P. G. Mosca, “Who Seduced Whom? A Note on Joshua 15:18//Judges 1:14,” CBQ 46 (1984): 18-22. This incident is also recorded in Judg 1:14.",
+        "ja": "[翻訳注] ヘブル語原文は「彼に」。代名詞の指示対象はオテニエルの可能性もあり、その場合の訳は「彼女は彼女の父に畑を求めるよう彼［オテニエル］を促した」となる。しかし、19節で要求を行うのはオテニエルではなくアクサであるため、これは問題となる。七十人訳（LXX）は「彼［オテニエル］は彼女に父へ畑を求めるよう促した」としている。これは明らかな不一致を調和させようとする試みとみられ、原文を反映したものではない可能性が高い。代名詞の指示対象をカレブと解釈すれば、この問題は解消する。詳細な議論については、P. G. Mosca, “Who Seduced Whom? A Note on Joshua 15:18//Judges 1:14,” CBQ 46 (1984): 18-22 を参照。この出来事は士師記1章14節にも記録されている。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Elsewhere this Hebrew word (בְּרָכָה, bÿrakhah) is often translated “blessing,” but here it refers to a gift (as in Gen 33:11; 1 Sam 25:27; 30:26; and 2 Kgs 5:15).",
+        "ja": "[翻訳注] 他の箇所ではこのヘブル語（בְּרָכָה、berakhah）はしばしば「祝福」と訳されるが、ここでは贈り物（創世記33:11、サムエル記上25:27、30:26、列王記下5:15と同様）を指している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “This is the inheritance of the tribe of the sons of Judah by their clans.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがユダの子らの部族の氏族ごとの相続地である」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the cities were at the end of the tribe of the sons of Judah, at the border of Edom, to the south.”",
+        "ja": "[翻訳注] ヘブル語原文は「そして町々はユダの子らの部族の端、エドムの境界、南にあった」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-D2; Map2-D3; Map3-A2; Map4-C1.",
+        "ja": "[地図] 位置については Map1-D2、Map2-D3、Map3-A2、Map4-C1 を参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The total number of names in the list is thirty-six, not twenty-nine. Perhaps (1) some of the names are alternatives (though the text appears to delineate clearly such alternative names here and elsewhere, see vv. 8, 9, 10, 13, 25b) or (2), more likely, later scribes added to a list originally numbering twenty-nine and failed to harmonize the concluding summary statement with the expanded list.",
+        "ja": "[翻訳注] 一覧にある名前の総数は二十九ではなく三十六である。可能性として、(1) 名前のいくつかが別名であるか（ただし、本文はここや他の箇所でそのような別名を明確に区別しているように見える。8、9、10、13、25b節参照）、あるいは (2) より可能性が高いのは、もともと二十九であった一覧に後代の書記が追加したものの、結びの要約文と拡張された一覧とを一致させ損ねたことである。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “these cities were” have been supplied for English stylistic reasons.",
+        "ja": "[翻訳注] 「これらの町々は〜にあった」という言葉は、英語の文体上の理由で補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the foothills”; Heb “the Shephelah.”",
+        "ja": "[翻訳注] または「丘陵地帯」。ヘブル語原文は「シェフェラ」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “daughters.”",
+        "ja": "[翻訳注] ヘブル語原文は「娘たち」。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on this place name in 15:4.",
+        "ja": "[翻訳注] この地名については15章4節の注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Great Sea,” the typical designation for the Mediterranean Sea.",
+        "ja": "[翻訳注] ヘブル語原文は「大海」。これは地中海を指す典型的な表現である。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “These cities were” have been supplied in the translation for English stylistic reasons.",
+        "ja": "[翻訳注] 「これらの町々は〜にあった」という言葉は、英語の文体上の理由で翻訳に補われている。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some Hebrew mss and some mss of the LXX read “Rumah” in place of “Dumah.”",
+        "ja": "[写本注] 一部のヘブル語写本および七十人訳聖書（LXX）の一部の写本では、「ドマ」の代わりに「ルマ」と読まれている。"
+      }
+    ],
+    "61": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “These cities were” have been supplied for English stylistic reasons.",
+        "ja": "[翻訳注] 「これらの町々は〜にあった」という言葉は、英語の文体上の理由で補われている。"
+      }
+    ],
+    "63": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 位置については Map5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4 を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The statement to this very day reflects the perspective of the author, who must have written prior to David’s conquest of the Jebusites (see 2 Sam 5:6-7).",
+        "ja": "[解説] 「今日に至るまで」という記述は著者の視点を反映しており、ダビデによるエブス人征服（サムエル記下5:6-7参照）以前に書かれたことを示している。"
+      }
+    ]
+  }
+}

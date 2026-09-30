@@ -1,0 +1,244 @@
+# Exodus 7 (English)
+
+## Text
+
+**1** So the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet. 
+
+**2** You are to speak everything I command you, and your brother Aaron is to tell Pharaoh that he must release the Israelites from his land. 
+
+**3** But I will harden Pharaoh’s heart, and although I will multiply my signs and my wonders in the land of Egypt, 
+
+**4** Pharaoh will not listen to you. I will reach into Egypt and bring out my regiments, my people the Israelites, from the land of Egypt with great acts of judgment. 
+
+**5** Then the Egyptians will know that I am the Lord when I extend my hand over Egypt and bring the Israelites out from among them.”
+
+**6** And Moses and Aaron did so; they did just as the Lord commanded them.
+
+**7** Now Moses was eighty years old and Aaron was eighty-three years old when they spoke to Pharaoh. 
+
+**8** The Lord said to Moses and Aaron, 
+
+**9** “When Pharaoh says to you, ‘Do a miracle,’ and you say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ it will become a snake.” 
+
+**10** When Moses and Aaron went to Pharaoh, they did so, just as the Lord had commanded them—Aaron threw down his staff before Pharaoh and his servants, and it became a snake. 
+
+**11** Then Pharaoh also summoned wise men and sorcerers, and the magicians of Egypt by their secret arts did the same thing. 
+
+**12** Each man threw down his staff, and the staffs became snakes. But Aaron’s staff swallowed up their staffs. 
+
+**13** Yet Pharaoh’s heart became hard, and he did not listen to them, just as the Lord had predicted. 
+
+**14**  The Lord said to Moses, “Pharaoh’s heart is hard; he refuses to release the people. 
+
+**15** Go to Pharaoh in the morning when he goes out to the water. Position yourself to meet him by the edge of the Nile, and take in your hand the staff that was turned into a snake. 
+
+**16** Tell him, ‘The Lord, the God of the Hebrews, has sent me to you to say, “Release my people, that they may serve me in the wilderness!” But until now you have not listened. 
+
+**17** This is what the Lord has said: “By this you will know that I am the Lord: I am going to strike the water of the Nile with the staff that is in my hand, and it will be turned into blood. 
+
+**18** Fish in the Nile will die, the Nile will stink, and the Egyptians will be unable to drink water from the Nile.”’” 
+
+**19** Then the Lord said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters—over their rivers, over their canals, over their ponds, and over all their reservoirs—so that it becomes blood.’ There will be blood everywhere in the land of Egypt, even in wooden and stone containers.”
+
+**20** Moses and Aaron did so, just as the Lord had commanded. He raised the staff and struck the water that was in the Nile right before the eyes of Pharaoh and his servants, and all the water that was in the Nile was turned to blood. 
+
+**21** When the fish that were in the Nile died, the Nile began to stink, so that the Egyptians could not drink water from the Nile. There was blood everywhere in the land of Egypt! 
+
+**22** But the magicians of Egypt did the same by their secret arts, and so Pharaoh’s heart remained hard, and he refused to listen to Moses and Aaron—just as the Lord had predicted. 
+
+**23** And Pharaoh turned and went into his house. He did not pay any attention to this. 
+
+**24** All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile. 
+
+**25**  Seven full days passed after the Lord struck the Nile. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The word “like” is added for clarity, making explicit the implied comparison in the statement “I have made you God to Pharaoh.” The word אֱלֹהִים (’elohim) is used a few times in the Bible for humans (e.g., Pss 45:6; 82:1), and always clearly in the sense of a subordinate to GOD – they are his representatives on earth. The explanation here goes back to 4:16. If Moses is like God in that Aaron is his prophet, then Moses is certainly like God to Pharaoh. Only Moses, then, is able to speak to Pharaoh with such authority, giving him commands.
+
+### Verse 1 - Note 2
+[翻訳注]  The word נְבִיאֶךָ (nÿvi’ekha, “your prophet”) recalls 4:16. Moses was to be like God to Aaron, and Aaron was to speak for him. This indicates that the idea of a “prophet” was of one who spoke for God, an idea with which Moses and Aaron and the readers of Exodus are assumed to be familiar.
+
+### Verse 2 - Note 1
+[翻訳注]  The imperfect tense here should have the nuance of instruction or injunction: “you are to speak.” The subject is singular (Moses) and made emphatic by the presence of the personal pronoun “you.”
+
+### Verse 2 - Note 2
+[翻訳注]  The phrase translated “everything I command you” is a noun clause serving as the direct object of the verb “speak.” The verb in the clause (אֲצַוֶּךָ, ’atsavvekha) is the Piel imperfect. It could be classified as a future: “everything that I will command you.” A nuance of progressive imperfect also fits well: “everything that I am commanding you.”[解説]  The distinct emphasis is important. Aaron will speak to the people and Pharaoh what Moses tells him, and Moses will speak to Aaron what God commands him. The use of “command” keeps everything in perspective for Moses’ position.
+
+### Verse 2 - Note 3
+[翻訳注]  The form is וְשִׁלַּח (vÿshillakh), a Piel perfect with vav (ו) consecutive. Following the imperfects of injunction or instruction, this verb continues the sequence. It could be taken as equal to an imperfect expressing future (“and he will release”) or subordinate to express purpose (“to release” = “in order that he may release”).
+
+### Verse 3 - Note 1
+[翻訳注]  The clause begins with the emphatic use of the pronoun and a disjunctive vav (ו) expressing the contrast “But as for me, I will harden.” They will speak, but God will harden.[解説]  The imperfect tense of the verb קָשָׁה (qasha) is found only here in these “hardening passages.” The verb (here the Hiphil for “I will harden”) summarizes Pharaoh’s resistance to what God would be doing through Moses – he would stubbornly resist and refuse to submit; he would be resolved in his opposition. See R. R. Wilson, “The Hardening of Pharaoh’s Heart,” CBQ 41 (1979): 18-36.
+
+### Verse 3 - Note 2
+[翻訳注]  The form beginning the second half of the verse is the perfect tense with vav (ו) consecutive, הִרְבֵּיתִי (hirbeti). It could be translated as a simple future in sequence after the imperfect preceding it, but the logical connection is not obvious. Since it carries the force of an imperfect due to the sequence, it may be subordinated as a temporal clause to the next clause that begins in v. 4. That maintains the flow of the argument.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “and Pharaoh will not listen.”
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “put my hand into.” The expression is a strong anthropomorphism to depict God’s severest judgment on Egypt. The point is that neither the speeches of Moses and Aaron nor the signs that God would do will be effective. Consequently, God would deliver the blow that would destroy.
+
+### Verse 4 - Note 3
+[翻訳注]  See the note on this term in 6:26.
+
+### Verse 5 - Note 1
+[翻訳注]  The emphasis on sequence is clear because the form is the perfect tense with the vav consecutive.[解説]  The use of the verb “to know” (יָדַע, yada’) underscores what was said with regard to 6:3. By the time the actual exodus took place, the Egyptians would have “known” the name Yahweh, probably hearing it more than they wished. But they will know – experience the truth of it – when Yahweh defeats them.
+
+### Verse 5 - Note 2
+[解説]  This is another anthropomorphism, parallel to the preceding. If God were to “put” (נָתַן, natan), “extend” (נָטָה, nata), or “reach out” (שָׁלַח, shalakh) his hand against them, they would be destroyed. Contrast Exod 24:11.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “And Yahweh said.”
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “said to Moses and Aaron, saying.”
+
+### Verse 9 - Note 1
+[翻訳注]  The verb is תְּנוּ (tÿnu), literally “give.” The imperative is followed by an ethical dative that strengthens the subject of the imperative: “you give a miracle.”
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “and throw it.” The direct object, “it,” is implied.
+
+### Verse 9 - Note 3
+[翻訳注]  The form is the jussive יְהִי ( yÿhi). Gesenius notes that frequently in a conditional clause, a sentence with a protasis and apodosis, the jussive will be used. Here it is in the apodosis (GKC 323 §109.h).
+
+### Verse 10 - Note 1
+[翻訳注]  The clause begins with the preterite and the vav (ו) consecutive; it is here subordinated to the next clause as a temporal clause.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “and Aaron threw.”
+
+### Verse 10 - Note 3
+[翻訳注]  The noun used here is תַּנִּין (tannin), and not the word for “serpent” or “snake” used in chap. . This noun refers to a large reptile, in some texts large river or sea creatures (Gen 1:21; Ps 74:13) or land creatures (Deut 32:33). This wonder paralleled Moses’ miracle in 4:3 when he cast his staff down. But this is Aaron’s staff, and a different miracle. The noun could still be rendered “snake” here since the term could be broad enough to include it.
+
+### Verse 11 - Note 1
+[解説]  For information on this Egyptian material, see D. B. Redford, A Study of the Biblical Story of Joseph (VTSup), 203-4.
+
+### Verse 11 - Note 2
+[翻訳注]  The חַרְטֻּמִּים (kharttummim) seem to have been the keepers of Egypt’s religious and magical texts, the sacred scribes.
+
+### Verse 11 - Note 3
+[翻訳注]  The term בְּלַהֲטֵיהֶם (bÿlahatehem) means “by their secret arts”; it is from לוּט (lut, “to enwrap”). The Greek renders the word “by their magic”; Tg. Onq. uses “murmurings” and “whispers,” and other Jewish sources “dazzling display” or “demons” (see further B. Jacob, Exodus, 253-54). They may have done this by clever tricks, manipulation of the animals, or demonic power. Many have suggested that Aaron and the magicians were familiar with an old trick in which they could temporarily paralyze a serpent and then revive it. But here Aaron’s snake swallows up their snakes.
+
+### Verse 12 - Note 1
+[翻訳注]  The verb is plural, but the subject is singular, “a man – his staff.” This noun can be given a distributive sense: “each man threw down his staff.”
+
+### Verse 13 - Note 1
+[翻訳注]  This phrase translates the Hebrew word חָזַק (khazaq); see S. R. Driver, Exodus, 53.[解説]  For more on this subject, see B. Jacob, Exodus, 241-49. S. R. Driver (Exodus, 53) notes that when this word (חָזַק) is used it indicates a will or attitude that is unyielding and firm, but when כָּבֵד (kaved) is used, it stresses the will as being slow to move, unimpressionable, slow to be affected.
+
+### Verse 14 - Note 1
+[解説]  With the first plague, or blow on Pharaoh, a new section of the book unfolds. Until now the dominant focus has been on preparing the deliverer for the exodus. From here the account will focus on preparing Pharaoh for it. The theological emphasis for exposition of the entire series of plagues may be: The sovereign Lord is fully able to deliver his people from the oppression of the world so that they may worship and serve him alone. The distinct idea of each plague then will contribute to this main idea. It is clear from the outset that God could have delivered his people simply and suddenly. But he chose to draw out the process with the series of plagues. There appear to be several reasons: First, the plagues are designed to judge Egypt. It is justice for slavery. Second, the plagues are designed to inform Israel and Egypt of the ability of Yahweh. Everyone must know that it is Yahweh doing all these things. The Egyptians must know this before they are destroyed. Third, the plagues are designed to deliver Israel. The first plague is the plague of blood: God has absolute power over the sources of life. Here Yahweh strikes the heart of Egyptian life with death and corruption. The lesson is that God can turn the source of life into the prospect of death. Moreover, the Nile was venerated; so by turning it into death Moses was showing the superiority of Yahweh.
+
+### Verse 14 - Note 2
+[翻訳注]  Or “unresponsive” (so HALOT 456 s.v. I כָּבֵד).
+
+### Verse 14 - Note 3
+[翻訳注]  The Piel infinitive construct לְשַׁלַּח (lÿshallakh) serves as the direct object of מֵאֵן (me’en), telling what Pharaoh refuses (characteristic perfect) to do. The whole clause is an explanation (like a metonymy of effect) of the first clause that states that Pharaoh’s heart is hard.
+
+### Verse 15 - Note 1
+[翻訳注]  The clause begins with הִנֵּה (hinneh); here it provides the circumstances for the instruction for Moses – he is going out to the water so go meet him. A temporal clause translation captures the connection between the clauses.
+
+### Verse 15 - Note 2
+[翻訳注]  The instruction to Moses continues with this perfect tense with vav (ו) consecutive following the imperative. The verb means “to take a stand, station oneself.” It seems that Pharaoh’s going out to the water was a regular feature of his day and that Moses could be there waiting to meet him.
+
+### Verse 15 - Note 3
+[解説]  The Nile, the source of fertility for the country, was deified by the Egyptians. There were religious festivals held to the god of the Nile, especially when the Nile was flooding. The Talmud suggests that Pharaoh in this passage went out to the Nile to make observations as a magician about its level. Others suggest he went out simply to bathe or to check the water level – but that would not change the view of the Nile that was prevalent in the land.
+
+### Verse 15 - Note 4
+[翻訳注]  The verb תִּקַּח (tiqqakh), the Qal imperfect of לָקַח (laqakh), functions here as the imperfect of instruction, or injunction perhaps, given the word order of the clause.
+
+### Verse 15 - Note 5
+[翻訳注]  The final clause begins with the noun and vav disjunctive, which singles this instruction out for special attention – “now the staff…you are to take.”
+
+### Verse 16 - Note 1
+[翻訳注]  The form לֵאמֹר (le’mor) is the Qal infinitive construct with the lamed (ל) preposition. It is used so often epexegetically that it has achieved idiomatic status – “saying” (if translated at all). But here it would make better sense to take it as a purpose infinitive. God sent him to say these words.
+
+### Verse 16 - Note 2
+[翻訳注]  The imperfect tense with the vav (וְיַעַבְדֻנִי, vÿya’avduni) following the imperative is in volitive sequence, showing the purpose – “that they may serve me.” The word “serve” (עָבַד, ’avad) is a general term to include religious observance and obedience.
+
+### Verse 16 - Note 3
+[翻訳注]  The final עַד־כֹּה (’ad-koh, “until now”) narrows the use of the perfect tense to the present perfect: “you have not listened.” That verb, however, involves more than mere audition. It has the idea of responding to, hearkening, and in some places obeying; here “you have not complied” might catch the point of what Moses is saying, while “listen” helps to maintain the connection with other uses of the verb.
+
+### Verse 16 - Note 4
+[翻訳注]  Or “complied” (שָׁמַעְתָּ, shama’ta).
+
+### Verse 17 - Note 1
+[翻訳注]  The construction using הִנֵּה (hinneh) before the participle (here the Hiphil participle מַכֶּה, makkeh) introduces a futur instans use of the participle, expressing imminent future, that he is about to do something.
+
+### Verse 17 - Note 2
+[解説]  W. C. Kaiser summarizes a view that has been adopted by many scholars, including a good number of conservatives, that the plagues overlap with natural phenomena in Egypt. Accordingly, the “blood” would not be literal blood, but a reddish contamination in the water. If there was an unusually high inundation of the Nile, the water flowed sluggishly through swamps and was joined with the water from the mountains that washed out the reddish soil. If the flood were high, the water would have a deeper red color. In addition to this discoloration, there is said to be a type of algae which produce a stench and a deadly fluctuation of the oxygen level of the river that is fatal to fish (see W. C. Kaiser, Jr., “Exodus,” EBC 2:350; he cites Greta Hort, “The Plagues of Egypt,” ZAW 69 [1957]: 84-103; same title, ZAW 70 [1958]: 48-59). While most scholars would agree that the water did not actually become blood (any more than the moon will be turned to literal blood [Joel 2:31]), many are not satisfied with this kind of explanation. If the event was a fairly common feature of the Nile, it would not have been any kind of sign to Pharaoh – and it should still be observable. The features that would have to be safeguarded are that it was understood to be done by the staff of God, that it was unexpected and not a mere coincidence, and that the magnitude of the contamination, color, stench, and death, was unparalleled. God does use natural features in miracles, but to be miraculous signs they cannot simply coincide with natural phenomena.
+
+### Verse 18 - Note 1
+[翻訳注]  The definite article here has the generic use, indicating the class – “fish” (R. J. Williams, Hebrew Syntax, 19, §92).
+
+### Verse 18 - Note 2
+[翻訳注]  The verb לָאָה (la’a), here in the Niphal perfect with a vav consecutive, means “be weary, impatient.” The Niphal meaning is “make oneself weary” in doing something, or “weary (strenuously exert) oneself.” It seems always to indicate exhausted patience (see BDB 521 s.v.). The term seems to imply that the Egyptians were not able to drink the red, contaminated water, and so would expend all their energy looking for water to drink – in frustration of course.
+
+### Verse 19 - Note 1
+[翻訳注]  Or “irrigation rivers” of the Nile.
+
+### Verse 19 - Note 2
+[解説]  The Hebrew term means “gathering,” i.e., wherever they gathered or collected waters, notably cisterns and reservoirs. This would naturally lead to the inclusion of both wooden and stone vessels – down to the smallest gatherings.
+
+### Verse 19 - Note 3
+[翻訳注]  The imperfect tense with vav (ו) after the imperative indicates the purpose or result: “in order that they [the waters] be[come] blood.”
+
+### Verse 19 - Note 4
+[翻訳注]  Or “in all.”
+
+### Verse 20 - Note 1
+[解説]  Both Moses and Aaron had tasks to perform. Moses, being the “god” to Pharaoh, dealt directly with him and the Nile. He would strike the Nile. But Aaron, “his prophet,” would stretch out the staff over the rest of the waters of Egypt.
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “And he raised”; the referent (Moses) has been specified in the translation for clarity.
+
+### Verse 20 - Note 3
+[翻訳注]  Gesenius calls the preposition on “staff” the בְּ (bet) instrumenti, used to introduce the object (GKC 380-81 §119.q). This construction provides a greater emphasis than an accusative.
+
+### Verse 20 - Note 4
+[翻訳注]  The text could be rendered “in the sight of,” or simply “before,” but the literal idea of “before the eyes of” may stress how obvious the event was and how personally they were witnesses of it.
+
+### Verse 20 - Note 5
+[解説]  U. Cassuto (Exodus, 98) notes that the striking of the water was not a magical act. It signified two things: (1) the beginning of the sign, which was in accordance with God’s will, as Moses had previously announced, and (2) to symbolize actual “striking,” wherewith the Lord strikes Egypt and its gods (see v. 25).
+
+### Verse 20 - Note 6
+[解説]  There have been various attempts to explain the details of this plague or blow. One possible suggestion is that the plague turned the Nile into “blood,” but that it gradually turned back to its normal color and substance. However, the effects of the “blood” polluted the water so that dead fish and other contamination left it undrinkable. This would explain how the magicians could also do it – they would not have tried if all water was already turned to blood. It also explains why Pharaoh did not ask for the water to be turned back. This view was put forward by B. Schor; it is summarized by B. Jacob (Exodus, 258), who prefers the view of Rashi that the blow affected only water in use.
+
+### Verse 21 - Note 1
+[翻訳注]  The first clause in this verse begins with a vav disjunctive, introducing a circumstantial clause to the statement that the water stank. The vav (ו) consecutive on the next verb shows that the smell was the result of the dead fish in the contaminated water. The result is then expressed with the vav beginning the clause that states that they could not drink it.
+
+### Verse 21 - Note 2
+[翻訳注]  The preterite could be given a simple definite past translation, but an ingressive past would be more likely, as the smell would get worse and worse with the dead fish.
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “and there was blood.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “thus, so.”
+
+### Verse 22 - Note 2
+[翻訳注]  The vav consecutive on the preterite introduces the outcome or result of the matter – Pharaoh was hardened.
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “and the heart of Pharaoh became hard.” This phrase translates the Hebrew word חָזַק (khazaq; see S. R. Driver, Exodus, 53). In context this represents the continuation of a prior condition.
+
+### Verse 22 - Note 4
+[翻訳注]  Heb “to them”; the referents (Moses and Aaron) have been specified in the translation for clarity.
+
+### Verse 23 - Note 1
+[翻訳注]  The text has וְלֹא־שָׁת לִבּוֹ גַּם־לָזֹאת (vÿlo’-shat libbo gam-lazo’t), which literally says, “and he did not set his heart also to this.” To “set the heart” to something would mean “to consider it.” This Hebrew idiom means that he did not pay attention to it, or take it to heart (cf. 2 Sam 13:20; Ps 48:13; 62:10; Prov 22:17; 24:32). Since Pharaoh had not been affected by this, he did not consider it or its implications further.
+
+### Verse 24 - Note 1
+[解説]  The text stresses that the water in the Nile, and Nile water that had been diverted or collected for use, was polluted and undrinkable. Water underground also was from the Nile, but it had not been contaminated, certainly not with dead fish, and so would be drinkable.
+
+### Verse 25 - Note 1
+[解説]  An attempt to connect this plague with the natural phenomena of Egypt proposes that because of the polluted water due to the high Nile, the frogs abandoned their normal watery homes (seven days after the first plague) and sought cover from the sun in homes wherever there was moisture. Since they had already been exposed to the poisonous water, they died very suddenly. The miracle was in the announcement and the timing, i.e., that Moses would predict this blow, and in the magnitude of it all, which was not natural (Greta Hort, “The Plagues of Egypt,” ZAW 69 [1957]: 95-98). It is also important to note that in parts of Egypt there was a fear of these creatures as embodying spirits capable of great evil. People developed the mentality of bowing to incredibly horrible idols to drive away the bad spirits. Evil spirits are represented in the book of Revelation in the forms of frogs (Rev 16:13). The frogs that the magicians produced could very well have been in the realm of evil spirits. Exactly how the Egyptians thought about this plague is hard to determine, but there is enough evidence to say that the plague would have made them spiritually as well as physically uncomfortable, and that the death of the frogs would have been a “sign” from God about their superstitions and related beliefs. The frog is associated with the god Hapi, and a frog-headed goddess named Heqet was supposed to assist women at childbirth. The plague would have been evidence that Yahweh was controlling their environment and upsetting their beliefs for his own purpose.
+
+### Verse 25 - Note 2
+[翻訳注]  The text literally has “and seven days were filled.” Seven days gave Pharaoh enough time to repent and release Israel. When the week passed, God’s second blow came.
+
+### Verse 25 - Note 3
+[翻訳注]  This is a temporal clause made up of the preposition, the Hiphil infinitive construct of נָכָה (nakhah), הַכּוֹת (hakkot), followed by the subjective genitive YHWH. Here the verb is applied to the true meaning of the plague: Moses struck the water, but the plague was a blow struck by God.

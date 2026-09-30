@@ -1,0 +1,511 @@
+{
+  "book": "Joshua",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The second lot belonged to the tribe of Simeon by its clans. Their assigned land was in the middle of Judah’s assigned land. ",
+      "ja": "第二のくじはシメオンのために、その氏族ごとのシメオン族に当たった。彼らに割り当てられた地はユダに割り当てられた地の中にあった。"
+    },
+    {
+      "verse": 2,
+      "en": "Their assigned land included Beer Sheba, Moladah, ",
+      "ja": "彼らに割り当てられた地には、ベエル・シェバ、モラダ、"
+    },
+    {
+      "verse": 3,
+      "en": "Hazar Shual, Balah, Ezem, ",
+      "ja": "ハツァル・シュアル、バラ、エツェム、"
+    },
+    {
+      "verse": 4,
+      "en": "Eltolad, Bethul, Hormah, ",
+      "ja": "エルトラデ、ベツル、ホルマ、"
+    },
+    {
+      "verse": 5,
+      "en": "Ziklag, Beth Marcaboth, Hazar Susah, ",
+      "ja": "ジクラグ、ベテ・マルカボテ、ハツァル・スサ、"
+    },
+    {
+      "verse": 6,
+      "en": "Beth Lebaoth, and Sharuhen—a total of 13 cities and their towns, ",
+      "ja": "ベテ・レバオテ、シャルヘンが含まれていた。合計十三の町とそれに属する村落であった。"
+    },
+    {
+      "verse": 7,
+      "en": "Ain, Rimmon, Ether, and Ashan—a total of four cities and their towns, ",
+      "ja": "アイン、リムモン、エテル、アシャン、合計四つの町とそれに属する村落、"
+    },
+    {
+      "verse": 8,
+      "en": "as well as all the towns around these cities as far as Baalath Beer (Ramah of the Negev). This was the land assigned to the tribe of Simeon by its clans. ",
+      "ja": "ならびにこれらの町々の周囲にあるすべての村落であって、バアラテ・ベエル（ネゲブのラマ）に至るまでが含まれていた。これがその氏族ごとのシメオン族に割り当てられた地であった。"
+    },
+    {
+      "verse": 9,
+      "en": "Simeon’s assigned land was taken from Judah’s allotted portion, for Judah’s territory was too large for them; so Simeon was assigned land within Judah.",
+      "ja": "シメオンの割り当てられた地はユダの割り当て部分から取られた。ユダの領地が彼らにとって広すぎたためである。そこでシメオンはユダの領地の中に地を割り当てられた。"
+    },
+    {
+      "verse": 10,
+      "en": "The third lot belonged to the tribe of Zebulun by its clans. The border of their territory extended to Sarid. ",
+      "ja": "第三のくじはゼブルン族のためにその氏族ごとに当たった。彼らの領地の境界はサリデに達した。"
+    },
+    {
+      "verse": 11,
+      "en": "Their border went up westward to Maralah and touched Dabbesheth and the valley near Jokneam. ",
+      "ja": "彼らの境界は西に向かってマララへと上り、ダベシェテに達し、ヨクネアムの近くの谷に達した。"
+    },
+    {
+      "verse": 12,
+      "en": "From Sarid it turned eastward to the territory of Kisloth Tabor, extended to Daberath, and went up to Japhia. ",
+      "ja": "サリデから東に向かって日の出る方へと向きを変え、キスロテ・タボルの領地に至り、ダベラテへと進み、ヤフィアへと上った。"
+    },
+    {
+      "verse": 13,
+      "en": "From there it crossed eastward to Gath Hepher and Eth Kazin, and extended to Rimmon, turning toward Neah. ",
+      "ja": "そこから東へガテ・ヘフェル、エテ・カツィンへと進み、リムモンへと延びてネアの方へ折れた。"
+    },
+    {
+      "verse": 14,
+      "en": "It then turned on the north to Hannathon and ended at the Valley of Iphtah El. ",
+      "ja": "北側でハンナトンへと向きを変え、イフタ・エルの谷で終わっていた。"
+    },
+    {
+      "verse": 15,
+      "en": "Their territory included Kattah, Nahalal, Shimron, Idalah, and Bethlehem; in all they had 12 cities and their towns. ",
+      "ja": "彼らの領地にはカタテ、ナハラル、シムロン、イデアラ、ベツレヘムが含まれていた。合計で十二の町とそれに属する村落があった。"
+    },
+    {
+      "verse": 16,
+      "en": "This was the land assigned to the tribe of Zebulun by its clans, including these cities and their towns. ",
+      "ja": "これがその氏族ごとのゼブルン族に割り当てられた地であり、これらの町とそれに属する村落である。"
+    },
+    {
+      "verse": 17,
+      "en": "The fourth lot belonged to the tribe of Issachar by its clans. ",
+      "ja": "第四のくじはイッサカルのために、その氏族ごとのイッサカル族に当たった。"
+    },
+    {
+      "verse": 18,
+      "en": "Their assigned land included Jezreel, Kesulloth, Shunem, ",
+      "ja": "彼らに割り当てられた地には、エズレル、ケスロテ、シュネム、"
+    },
+    {
+      "verse": 19,
+      "en": "Hapharaim, Shion, Anaharath, ",
+      "ja": "ハファライム、シオン、アナハラテ、"
+    },
+    {
+      "verse": 20,
+      "en": "Rabbith, Kishion, Ebez, ",
+      "ja": "ラビテ、キション、エベツ、"
+    },
+    {
+      "verse": 21,
+      "en": "Remeth, En Gannim, En Haddah and Beth Pazzez. ",
+      "ja": "レメテ、エン・ガンニム、エン・ハダ、ベテ・パツェツが含まれていた。"
+    },
+    {
+      "verse": 22,
+      "en": "Their border touched Tabor, Shahazumah, and Beth Shemesh, and ended at the Jordan. They had 16 cities and their towns. ",
+      "ja": "彼らの境界はタボル、シャハツィマ、ベテ・シェメシュに達し、ヨルダン川で終わっていた。十六の町とそれに属する村落があった。"
+    },
+    {
+      "verse": 23,
+      "en": "This was the land assigned to the tribe of Issachar by its clans, including these cities and their towns. ",
+      "ja": "これがその氏族ごとのイッサカル族に割り当てられた地であり、これらの町とそれに属する村落である。"
+    },
+    {
+      "verse": 24,
+      "en": "The fifth lot belonged to the tribe of Asher by its clans. ",
+      "ja": "第五のくじはアシェル族のためにその氏族ごとに当たった。"
+    },
+    {
+      "verse": 25,
+      "en": "Their territory included Helkath, Hali, Beten, Acshaph, ",
+      "ja": "彼らの領地にはヘルカテ、ハリ、ベテン、アクシャフ、"
+    },
+    {
+      "verse": 26,
+      "en": "Alammelech, Amad, and Mishal. Their border touched Carmel to the west and Shihor Libnath. ",
+      "ja": "アラメレク、アマデ、ミシャルが含まれていた。その境界は西でカルメルおよびシホル・リブナテに達した。"
+    },
+    {
+      "verse": 27,
+      "en": "It turned eastward toward Beth Dagon, touched Zebulun and the Valley of Iphtah El to the north, as well as Beth Emek and Neiel, and extended to Cabul on the north ",
+      "ja": "東に向きを変えてベテ・ダゴンに向かい、北でゼブルンおよびイフタ・エルの谷に達し、さらにベテ・エメク、ネイエルに達して、北でカブルへと延び、"
+    },
+    {
+      "verse": 28,
+      "en": "and on to Ebron, Rehob, Hammon, and Kanah, as far as Greater Sidon. ",
+      "ja": "さらにエブロン、レホブ、ハムモン、カナへと進み、大シドンに至った。"
+    },
+    {
+      "verse": 29,
+      "en": "It then turned toward Ramah as far as the fortified city of Tyre, turned to Hosah, and ended at the sea near Hebel, Achzib,",
+      "ja": "境界はラマに向きを変え、要塞都市ツロに至り、ホサに向きを変えて、ヘベル、アクジブの近くの海で終わっていた。"
+    },
+    {
+      "verse": 30,
+      "en": "Umah, Aphek, and Rehob. In all they had 22 cities and their towns. ",
+      "ja": "ウマ、アフェク、レホブが含まれていた。合計で二十二の町とそれに属する村落があった。"
+    },
+    {
+      "verse": 31,
+      "en": "This was the land assigned to the tribe of Asher by its clans, including these cities and their towns. ",
+      "ja": "これがその氏族ごとのアシェル族に割り当てられた地であり、これらの町とそれに属する村落である。"
+    },
+    {
+      "verse": 32,
+      "en": "The sixth lot belonged to the tribe of Naphtali by its clans. ",
+      "ja": "第六のくじはナフタリ族のために、その氏族ごとのナフタリ族に当たった。"
+    },
+    {
+      "verse": 33,
+      "en": "Their border started at Heleph and the oak of Zaanannim, went to Adami Nekeb, Jabneel and on to Lakkum, and ended at the Jordan River. ",
+      "ja": "彼らの境界はヘレフおよびツァアナンニムの樫の木から始まり、アダミ・ネケブ、ヤブネエルを経てラックムへと進み、ヨルダン川で終わっていた。"
+    },
+    {
+      "verse": 34,
+      "en": "It turned westward to Aznoth Tabor, extended from there to Hukok, touched Zebulun on the south, Asher on the west, and the Jordan on the east. ",
+      "ja": "西に向きを変えてアズノテ・タボルに至り、そこからフコクへと延び、南でゼブルンに、西でアシェルに、東でヨルダン川に達した。"
+    },
+    {
+      "verse": 35,
+      "en": "The fortified cities included Ziddim, Zer, Hammath, Rakkath, Kinnereth, ",
+      "ja": "要塞都市には、ツィディム、ツェル、ハマテ、ラカテ、キネレテ、"
+    },
+    {
+      "verse": 36,
+      "en": "Adamah, Ramah, Hazor, ",
+      "ja": "アダマ、ラマ、ハツォル、"
+    },
+    {
+      "verse": 37,
+      "en": "Kedesh, Edrei, En Hazor, ",
+      "ja": "ケデシュ、エドレイ、エン・ハツォル、"
+    },
+    {
+      "verse": 38,
+      "en": "Yiron, Migdal El, Horem, Beth Anath, and Beth Shemesh. In all they had 19 cities and their towns. ",
+      "ja": "イロン、ミグダル・エル、ホレム、ベテ・アナテ、ベテ・シェメシュが含まれていた。合計で十九の町とそれに属する村落があった。"
+    },
+    {
+      "verse": 39,
+      "en": "This was the land assigned to the tribe of Naphtali by its clans, including these cities and their towns. ",
+      "ja": "これがその氏族ごとのナフタリ族に割り当てられた地であり、これらの町とそれに属する村落である。"
+    },
+    {
+      "verse": 40,
+      "en": "The seventh lot belonged to the tribe of Dan by its clans. ",
+      "ja": "第七のくじはダン族のためにその氏族ごとに当たった。"
+    },
+    {
+      "verse": 41,
+      "en": "Their assigned land included Zorah, Eshtaol, Ir Shemesh, ",
+      "ja": "彼らに割り当てられた地には、ツォルア、エシュタオル、イル・シェメシュ、"
+    },
+    {
+      "verse": 42,
+      "en": "Shaalabbin, Aijalon, Ithlah, ",
+      "ja": "シャアラビン、アヤロン、イトラ、"
+    },
+    {
+      "verse": 43,
+      "en": "Elon, Timnah, Ekron, ",
+      "ja": "エロン、ティムナ、エクロン、"
+    },
+    {
+      "verse": 44,
+      "en": "Eltekeh, Gibbethon, Baalath, ",
+      "ja": "エルテケ、ギベトン、バアラテ、"
+    },
+    {
+      "verse": 45,
+      "en": "Jehud, Bene Berak, Gath Rimmon, ",
+      "ja": "エフデ、ベネ・ベラク、ガテ・リムモン、"
+    },
+    {
+      "verse": 46,
+      "en": "the waters of Jarkon, and Rakkon, including the territory in front of Joppa. ",
+      "ja": "ヤルコンの水およびラコンが含まれ、ヤッファの向かいの領域も含まれていた。"
+    },
+    {
+      "verse": 47,
+      "en": "(The Danites failed to conquer their territory, so they went up and fought with Leshem and captured it. They put the sword to it, took possession of it, and lived in it. They renamed it Dan after their ancestor.) ",
+      "ja": "（ダン人は自分たちの領地を占領できなかったので、上って行ってレシェムと戦い、これを占領した。彼らはこれを刃で討ち、占領してそこに住んだ。そして自分たちの先祖の名にちなんでレシェムをダンと改名した。）"
+    },
+    {
+      "verse": 48,
+      "en": "This was the land assigned to the tribe of Dan by its clans, including these cities and their towns. ",
+      "ja": "これがその氏族ごとのダン族に割り当てられた地であり、これらの町とそれに属する村落である。"
+    },
+    {
+      "verse": 49,
+      "en": "When they finished dividing the land into its regions, the Israelites gave Joshua son of Nun some land. ",
+      "ja": "人々は領地ごとに地の分割を終えたとき、イスラエルの人々はヌンの子ヨシュアに自分たちの中で地を与えた。"
+    },
+    {
+      "verse": 50,
+      "en": "As the Lord had instructed, they gave him the city he requested—Timnath Serah in the Ephraimite hill country. He built up the city and lived in it.",
+      "ja": "主が命じられたとおり、人々はヨシュアが求めた町、エフライムの山地にあるティムナテ・セラを彼に与えた。ヨシュアはその町を築き、そこに住んだ。"
+    },
+    {
+      "verse": 51,
+      "en": "These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots in Shiloh before the Lord at the entrance of the tent of meeting. So they finished dividing up the land. ",
+      "ja": "これらは、祭司エルアザル、ヌンの子ヨシュア、およびイスラエルの部族の指導者たちが、シロで、会見の天幕の入り口で、主の前でくじを引いて割り当てた地である。こうして彼らは地の分割を終えた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the second lot came out for Simeon, for the tribe of the sons of Simeon by their clans.”",
+        "ja": "[翻訳注] ヘブル語原文は「第2のくじはシメオンのために、その氏族ごとのシメオンの子らの部族のために出た」。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and they had in their inheritance.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの相続地にあったのは」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT has “and Sheba” listed after “Beer Sheba.” The LXX suggests “Shema.” The Hebrew text appears to be corrupt, since the form “Sheba” duplicates the latter part of the preceding name. If Sheba (or Shema) is retained, the list numbers fourteen, one more than the number given in the concluding summary (v. 6).",
+        "ja": "[写本注] マソラ本文では「ベエル・シェバ」の後に「シェバ」が挙げられている。七十人訳は「シェマ」を示唆している。ヘブル語本文は損なわれていると見られる。「シェバ」という形が直前の名詞の後半部と重複しているためである。もしシェバ（またはシェマ）を残すと、町の数は14となり、6節の結論の要約で示されている数より一つ多くなる。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this was the inheritance of the tribe of the sons of Simeon.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがシメオンの子らの部族の相続地であった」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from the portion of the sons of Judah was the inheritance of the sons of Simeon for the portion of the sons of Judah was too large for them, and the sons of Simeon received an inheritance in the midst of their inheritance.”",
+        "ja": "[翻訳注] ヘブル語原文は「シメオンの子らの相続地はユダの子らの割り当てからであった。ユダの子らの割り当てが彼らにとって大きすぎたため、シメオンの子らは彼らの相続地の中に相続地を受けた」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the third lot came up for the sons of Zebulun.”",
+        "ja": "[翻訳注] ヘブル語原文は「第3のくじはゼブルンの子らのために上がった」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “inheritance.”",
+        "ja": "[翻訳注] または「相続地」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in front of”; perhaps “east of.”",
+        "ja": "[翻訳注] ヘブル語原文は「〜の前に」。おそらく「〜の東に」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “eastward toward the rising of the sun.”",
+        "ja": "[翻訳注] ヘブル語原文は「東へ、日の出る方へ」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.",
+        "ja": "[地図] 位置についてはMap5-B1; Map7-E2; Map8-E2; Map10-B4を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Kattah, Nahalal, Shimron, Idalah, and Bethlehem, twelve cities and their towns.” The words “their territory included” and “in all they had” are supplied in the translation for clarification.",
+        "ja": "[翻訳注] ヘブル語原文は「カタテ、ナハラル、シムロン、イデアラ、ベツレヘム、十二の町とそれに属する村」。「彼らの領地には〜が含まれていた」および「合計で〜があった」という言葉は、分かりやすさのために訳文で補われている。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this is the inheritance of the sons of Zebulun.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがゼブルンの子らの相続地である」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fourth lot came out for the sons of Issachar.”",
+        "ja": "[翻訳注] ヘブル語原文は「第4のくじはイッサカルの子らのために出た」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “their inheritance.”",
+        "ja": "[翻訳注] または「彼らの相続地」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this was the inheritance of the tribe of the sons of Issachar.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがイッサカルの子らの部族の相続地であった」。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the fifth lot came out for the tribe of the sons of Asher.”",
+        "ja": "[翻訳注] ヘブル語原文は「第5のくじはアシェルの子らの部族のために出た」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “left.”",
+        "ja": "[翻訳注] ヘブル語原文は「左」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some Hebrew mss read “Abdon.”",
+        "ja": "[写本注] 一部のヘブル語写本は「アブドン」と読んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map1-A1; JP3-F3; JP4-F3.",
+        "ja": "[地図] 位置についてはMap1-A1; JP3-F3; JP4-F3を参照。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-A2; Map2-G2; Map4-A1; JP3-F3; JP4-F3.",
+        "ja": "[地図] 位置についてはMap1-A2; Map2-G2; Map4-A1; JP3-F3; JP4-F3を参照。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “in all they had” are supplied in the translation for clarification.",
+        "ja": "[翻訳注] 「合計で〜があった」という言葉は、分かりやすさのために訳文で補われている。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this was the inheritance of the tribe of the sons of Asher.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがアシェルの子らの部族の相続地であった」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sixth lot came out for the sons of Naphtali, for the sons of Naphtali.”",
+        "ja": "[翻訳注] ヘブル語原文は「第6のくじはナフタリの子らのために、ナフタリの子らのために出た」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and their border was from Heleph, from the oak of Zaanannim, and Adami Nekeb, and Jabneel to Lakkum.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの境界はヘレフから、ツァアナンニムの樫の木から、アダミ・ネケブ、ヤブネエルからラックムへであった」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “River” is not in the Hebrew text, but has been supplied for clarity.",
+        "ja": "[翻訳注] 「川」という言葉はヘブル語本文にはないが、分かりやすさのために補われている。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT reads “Judah, the Jordan”; the LXX omits “Judah.” Perhaps there was a town named Judah, distinct from the tribe of Judah, located near the northern end of the Jordan.",
+        "ja": "[写本注] マソラ本文は「ユダ、ヨルダン」と読んでいるが、七十人訳は「ユダ」を省いている。おそらく、ユダ部族とは異なるユダという町がヨルダン川の北端の近くにあったと考えられる。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-D2; Map2-D3; Map3-A2; Map4-C1.",
+        "ja": "[地図] 位置についてはMap1-D2; Map2-D3; Map3-A2; Map4-C1を参照。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[解説]  Instead of Yiron some English translations read Iron.",
+        "ja": "[解説] 「イロン（Yiron）」の代わりに「アイロン（Iron）」と表記する英語訳もある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “in all they had” are supplied in the translation for clarification.",
+        "ja": "[翻訳注] 「合計で〜があった」という言葉は、分かりやすさのために訳文で補われている。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this was the inheritance of the tribe of the sons of Naphtali.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがナフタリの子らの部族の相続地であった」。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the seventh lot came out for the sons of Dan.”",
+        "ja": "[翻訳注] ヘブル語原文は「第7のくじはダンの子らのために出た」。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the territory of the sons of Dan went out from them.”",
+        "ja": "[翻訳注] ヘブル語原文は「ダンの子らの領地は彼らから出て行った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Leshem.” The pronoun (“it”) has replaced the name “Leshem” in the translation for stylistic reasons.",
+        "ja": "[翻訳注] ヘブル語原文は「レシェム」。文体上の理由から、訳文では「レシェム」という名の代わりに代名詞（「これ」）が用いられている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “according to the name of their father.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの父の名に従って」。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this was the inheritance of the tribe of the sons of Dan.”",
+        "ja": "[翻訳注] ヘブル語原文は「これがダンの子らの部族の相続地であった」。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “an inheritance in their midst.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの中の相続地」。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the leaders of the fathers of the tribes.”",
+        "ja": "[翻訳注] ヘブル語原文は「部族の父祖たちの長たち」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “at the entrance of the tent of assembly.”[解説]  On the tent of meeting see Exod 33:7-11.",
+        "ja": "[翻訳注] ヘブル語原文は「会衆の天幕の入り口で」。[解説] 会見の天幕については出エジプト記33:7-11を参照。"
+      }
+    ]
+  }
+}

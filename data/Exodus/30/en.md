@@ -1,0 +1,321 @@
+# Exodus 30 (English)
+
+## Text
+
+**1**  “You are to make an altar for burning incense; you are to make it of acacia wood. 
+
+**2** Its length is to be 18 inches and its width 18 inches; it will be square. Its height is to be 36 inches, with its horns of one piece with it.
+
+**3** You are to overlay it with pure gold—its top, its four walls, and its horns—and make a surrounding border of gold for it. 
+
+**4** You are to make two gold rings for it under its border, on its two flanks; you are to make them on its two sides. The rings will be places for poles to carry it with.
+
+**5** You are to make the poles of acacia wood and overlay them with gold. 
+
+**6** “You are to put it in front of the curtain that is before the ark of the testimony (before the atonement lid that is over the testimony), where I will meet you.
+
+**7** Aaron is to burn sweet incense on it morning by morning; when he attends to the lamps he is to burn incense. 
+
+**8** When Aaron sets up the lamps around sundown he is to burn incense on it; it is to be a regular incense offering before the Lord throughout your generations. 
+
+**9** You must not offer strange incense on it, nor burnt offering, nor meal offering, and you must not pour out a drink offering on it.
+
+**10** Aaron is to make atonement on its horns once in the year with some of the blood of the sin offering for atonement; once in the year he is to make atonement on it throughout your generations. It is most holy to the Lord.” 
+
+**11**  The Lord spoke to Moses, 
+
+**12** “When you take a census of the Israelites according to their number, then each man is to pay a ransom for his life to the Lord when you number them, so that there will be no plague among them when you number them. 
+
+**13** Everyone who crosses over to those who are numbered is to pay this: a half shekel according to the shekel of the sanctuary (a shekel weighs 20 gerahs). The half shekel is to be an offering to the Lord.
+
+**14** Everyone who crosses over to those numbered, from twenty years old and up, is to pay an offering to the Lord.
+
+**15** The rich are not to pay more and the poor are not to pay less than the half shekel when giving the offering of the Lord, to make atonement for your lives. 
+
+**16** You are to receive the atonement money from the Israelites and give it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord, to make atonement for your lives.” 
+
+**17**  The Lord spoke to Moses, 
+
+**18** “You are also to make a large bronze basin with a bronze stand for washing. You are to put it between the tent of meeting and the altar and put water in it, 
+
+**19** and Aaron and his sons must wash their hands and their feet from it.
+
+**20** When they enter the tent of meeting, they must wash with water so that they do not die. Also, when they approach the altar to minister by burning incense as an offering made by fire to the Lord,
+
+**21** they must wash their hands and their feet so that they do not die. And this will be a perpetual ordinance for them and for their descendants throughout their generations.” 
+
+**22**  The Lord spoke to Moses, 
+
+**23** “Take choice spices: 12½ pounds of free-flowing myrrh, half that—about 6¼ pounds—of sweet-smelling cinnamon, 6¼ pounds of sweet-smelling cane, 
+
+**24** and 12½ pounds of cassia, all weighed according to the sanctuary shekel, and four quarts of olive oil. 
+
+**25** You are to make this into a sacred anointing oil, a perfumed compound, the work of a perfumer. It will be sacred anointing oil. 
+
+**26** “With it you are to anoint the tent of meeting, the ark of the testimony, 
+
+**27** the table and all its utensils, the lampstand and its utensils, the altar of incense, 
+
+**28** the altar for the burnt offering and all its utensils, and the laver and its base. 
+
+**29** So you are to sanctify them, and they will be most holy; anything that touches them will be holy. 
+
+**30** “You are to anoint Aaron and his sons and sanctify them so that they may minister as my priests.
+
+**31** And you are to tell the Israelites: ‘This is to be my sacred anointing oil throughout your generations. 
+
+**32** It must not be applied to people’s bodies, and you must not make any like it with the same recipe. It is holy, and it must be holy to you.
+
+**33** Whoever makes perfume like it and whoever puts any of it on someone not a priest will be cut off from his people.’” 
+
+**34** The Lord said to Moses, “Take spices, gum resin, onycha, galbanum, and pure frankincense of equal amounts 
+
+**35** and make it into an incense, a perfume, the work of a perfumer. It is to be finely ground, and pure and sacred. 
+
+**36** You are to beat some of it very fine and put some of it before the ark of the testimony in the tent of meeting where I will meet with you; it is to be most holy to you.
+
+**37** And the incense that you are to make, you must not make for yourselves using the same recipe; it is to be most holy to you, belonging to the Lord. 
+
+**38** Whoever makes anything like it, to use as perfume, will be cut off from his people.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Why this section has been held until now is a mystery. One would have expected to find it with the instructions for the other furnishings. The widespread contemporary view that it was composed later does not answer the question, it merely moves the issue to the work of an editor rather than the author. N. M. Sarna notes concerning the items in chapter  that “all the materials for these final items were anticipated in the list of invited donations in 25:3-6” and that they were not needed for installing Aaron and his sons (Exodus [JPSTC], 193). Verses 1-10 can be divided into three sections: the instructions for building the incense altar (1-5), its placement (6), and its proper use (7-10).
+
+### Verse 1 - Note 2
+[翻訳注]  The expression is מִזְבֵּחַ מִקְטַר קְטֹרֶת (mizbeakh miqtar qÿtoret), either “an altar, namely an altar of incense,” or “an altar, [for] burning incense.” The second noun is “altar of incense,” although some suggest it is an active noun meaning “burning.” If the former, then it is in apposition to the word for “altar” (which is not in construct). The last noun is “incense” or “sweet smoke.” It either qualifies the “altar of incense” or serves as the object of the active noun. B. Jacob says that in order to designate that this altar be used only for incense, the Torah prepared the second word for this passage alone. It specifies the kind of altar this is (Exodus, 828).
+
+### Verse 1 - Note 3
+[翻訳注]  This is an adverbial accusative explaining the material used in building the altar.
+
+### Verse 1 - Note 4
+[解説]  See M. Haran, “The Uses of Incense in Ancient Israel Ritual,” VT 10 (1960): 113-15; N. Glueck, “Incense Altars,” Translating and Understanding the Old Testament, 325-29.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “a cubit.”
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “two cubits.”
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “its horns from it.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “roof.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “its walls around.”
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “and make for it border gold around.” The verb is a consecutive perfect. See Exod 25:11, where the ark also has such a molding.
+
+### Verse 4 - Note 1
+[解説]  Since it was a small altar, it needed only two rings, one on either side, in order to be carried. The second clause clarifies that the rings should be on the sides, the right and the left, as you approach the altar.
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “And it”; this refers to the rings collectively in their placement on the box, and so the word “rings” has been used to clarify the referent for the modern reader.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “for houses.”
+
+### Verse 7 - Note 1
+[翻訳注]  The text uses a cognate accusative (“incense”) with the verb “to burn” or “to make into incense/sweet smoke.” Then, the noun “sweet spices” is added in apposition to clarify the incense as sweet.
+
+### Verse 7 - Note 2
+[翻訳注]  The Hebrew is בְּהֵיטִיבוֹ (bÿhetivo), a Hiphil infinitive construct serving in a temporal clause. The Hebrew verb means “to make good” and so in this context “to fix” or “to dress.” This refers to cleansing and trimming the lamps.
+
+### Verse 7 - Note 3
+[解説]  The point of the little golden altar of incense is normally for intercessory prayer, and then at the Day of Atonement for blood applied atonement. The instructions for making it show that God wanted his people to make a place for prayer. The instructions for its use show that God expects that the requests of his people will be pleasing to him.
+
+### Verse 10 - Note 1
+[翻訳注]  The word “atonements” (plural in Hebrew) is a genitive showing the result or product of the sacrifice made.
+
+### Verse 10 - Note 2
+[解説]  This ruling presupposes that the instruction for the Day of Atonement has been given, or at the very least, is to be given shortly. That is the one day of the year that all sin and all ritual impurity would be removed.
+
+### Verse 10 - Note 3
+[解説]  The phrase “most holy to the Lord” means that the altar cannot be used for any other purpose than what is stated here.
+
+### Verse 11 - Note 1
+[解説]  This brief section has been interpreted a number of ways by biblical scholars (for a good survey and discussion, see B. Jacob, Exodus, 829-35). In this context the danger of erecting and caring for a sanctuary may have been in view. A census would be taken to count the losses and to cover the danger of coming into such proximity with the holy place; payment was made to ransom the lives of the people numbered so that they would not die. The money collected would then be used for the care of the sanctuary. The principle was fairly straightforward: Those numbered among the redeemed of the Lord were to support the work of the Lord to maintain their fellowship with the covenant. The passage is fairly easy to outline: I. Every covenant member must give a ransom for his life to avoid death (11-12); II. The ransom is the same for all, whether rich or poor (13-15); and III. The ransom money supports the sanctuary as a memorial for the ransomed (16).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “and Yahweh spoke to Moses, saying.” This full means for introducing a quotation from the Lord is used again in 30:17, 22; 31:1; and 40:1. It appears first in 6:10. Cynthia L. Miller discusses its use in detail (The Representation of Speech in Biblical Hebrew Narrative, 373-86).
+
+### Verse 12 - Note 1
+[翻訳注]  The expression is “when you take [lift up] the sum [head] of the Israelites.”
+
+### Verse 12 - Note 2
+[翻訳注]  The form is לִפְקֻדֵיהֶם (lifqudehem, “according to those that are numbered of/by them”) from the verb פָּקַד (paqad, “to visit”). But the idea of this word seems more to be that of changing or determining the destiny, and so “appoint” and “number” become clear categories of meaning for the word. Here it simply refers to the census, but when this word is used for a census it often involves mustering an army for a military purpose. Here there is no indication of a war, but it may be laying down the principle that when they should do this, here is the price. B. Jacob (Exodus, 835) uses  as a good illustration, showing that the warrior was essentially a murderer, if he killed anyone in battle. For this reason his blood was forfeit; if he survived he must pay a כֹּפֶר (kofer) because every human life possesses value and must be atoned for. The payment during the census represented a “presumptive ransom” so that they could not be faulted for what they might do in war.
+
+### Verse 12 - Note 3
+[翻訳注]  The “ransom” is כֹּפֶר (kofer), a word related to words translated “atone” and “atonement.” Here the noun refers to what is paid for the life. The idea is that of delivering or redeeming by a substitute – here the substitute is the money. If they paid the amount, their lives would be safe (W. C. Kaiser, Jr., “Exodus,” EBC 2:473).
+
+### Verse 12 - Note 4
+[翻訳注]  The temporal clause uses a preposition, an infinitive construct, and then an accusative. The subject is supplied: “in numbering them” means “when [you] number them.” The verb could also be rendered “when you muster them.”
+
+### Verse 13 - Note 1
+[解説]  Each man was to pass in front of the counting officer and join those already counted on the other side.
+
+### Verse 13 - Note 2
+[解説]  The half shekel weight of silver would be about one-fifth of an ounce (6 grams).
+
+### Verse 13 - Note 3
+[解説]  It appears that some standard is in view for the amount of a shekel weight. The sanctuary shekel is sometimes considered to be twice the value of the ordinary shekel. The “gerah,” also of uncertain meaning, was mentioned as a reference point for the ancient reader to understand the value of the required payment. It may also be that the expression meant “a sacred shekel” and looked at the purpose more – a shekel for sanctuary dues. This would mean that the standard of the shekel weight was set because it was the traditional amount of sacred dues (S. R. Driver, Exodus, 333). “Though there is no certainty, the shekel is said to weigh about 11,5 grams…Whether an official standard is meant [by ‘sanctuary shekel’] or whether the sanctuary shekel had a different weight than the ‘ordinary’ shekel is not known” (C. Houtman, Exodus, 3:181).
+
+### Verse 13 - Note 4
+[翻訳注]  Or “contribution” (תְּרוּמָה, tÿrumah).
+
+### Verse 15 - Note 1
+[翻訳注]  Or “pay more.”
+
+### Verse 15 - Note 2
+[翻訳注]  The form is לָתֵת (latet), the Qal infinitive construct with the lamed preposition. The infinitive here is explaining the preceding verbs. They are not to increase or diminish the amount “in paying the offering.” The construction approximates a temporal clause.
+
+### Verse 15 - Note 3
+[翻訳注]  This infinitive construct (לְכַפֵּר, lÿkhapper) provides the purpose of the giving the offering – to atone.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “the silver of the atonements.” The genitive here is the result (as in “sheep of slaughter”) telling what the money will be used for (see R. J. Williams, Hebrew Syntax, 11, §44).
+
+### Verse 16 - Note 2
+[解説]  The idea of “service” is maintenance and care of the sanctuary and its service, meaning the morning and evening sacrifices and the other elements to be used.
+
+### Verse 16 - Note 3
+[解説]  S. R. Driver says this is “to keep Jehovah in continual remembrance of the ransom which had been paid for their lives” (Exodus, 334).
+
+### Verse 16 - Note 4
+[翻訳注]  The infinitive could be taken in a couple of ways here. It could be an epexegetical infinitive: “making atonement.” Or it could be the infinitive expressing result: “so that atonement will be made for your lives.”
+
+### Verse 17 - Note 1
+[解説]  Another piece of furniture is now introduced, the laver, or washing basin. It was a round (the root means to be round) basin for holding water, but it had to be up on a pedestal or base to let water run out (through taps of some kind) for the priests to wash – they could not simply dip dirty hands into the basin. This was for the priests primarily to wash their hands and feet before entering the tent. It stood in the courtyard between the altar and the tent. No dimensions are given. The passage can be divided into three sections: the instructions (17-18), the rules for washing (19-20), and the reminder that this is a perpetual statute.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “and Yahweh spoke to Moses, saying.”
+
+### Verse 18 - Note 1
+[解説]  The metal for this object was obtained from the women from their mirrors (see Exod 38:8).
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “and its stand bronze.”
+
+### Verse 18 - Note 3
+[翻訳注]  The form is the adverb “there” with the directive qamets-he ( ָה).
+
+### Verse 19 - Note 1
+[翻訳注]  That is, from water from it.
+
+### Verse 20 - Note 1
+[翻訳注]  The form is an infinitive construct with the temporal preposition bet (ב), and a suffixed subjective genitive: “in their going in,” or, whenever they enter.
+
+### Verse 20 - Note 2
+[翻訳注]  “Water” is an adverbial accusative of means, and so is translated “with water.” Gesenius classifies this with verbs of “covering with something.” But he prefers to emend the text with a preposition (see GKC 369 §117.y, n. 1).
+
+### Verse 20 - Note 3
+[翻訳注]  The verb is a Qal imperfect with a nuance of final imperfect. The purpose/result clause here is indicated only with the conjunction: “and they do not die.” But clearly from the context this is the intended result of their washing – it is in order that they not die.
+
+### Verse 20 - Note 4
+[翻訳注]  Here, too, the infinitive is used in a temporal clause construction. The verb נָגַשׁ (nagash) is the common verb used for drawing near to the altar to make offerings – the official duties of the priest.
+
+### Verse 20 - Note 5
+[翻訳注]  The text uses two infinitives construct: “to minister to burn incense”; the first is the general term and expresses the purpose of the drawing near, and the second infinitive is epexegetical, explaining the first infinitive.
+
+### Verse 20 - Note 6
+[翻訳注]  The translation “as an offering made by fire” is a standard rendering of the one word in the text that appears to refer to “fire.” Milgrom and others contend that it simply means a “gift” (Leviticus 1-16, 161).
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “and [then] they will wash.”
+
+### Verse 21 - Note 2
+[翻訳注]  The verb is “it will be.”
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “for his seed.”
+
+### Verse 21 - Note 4
+[翻訳注]  Or “for generations to come”; it literally is “to their generations.”[解説]  The symbolic meaning of washing has been taught throughout the ages. This was a practical matter of cleaning hands and feet, but it was also symbolic of purification before Yahweh. It was an outward sign of inner spiritual cleansing, or forgiveness. Jesus washed the disciples feet () to show this same teaching; he asked the disciples if they knew what he had done (so it was more than washing feet). In this passage the theological points for the outline would be these: I. God provides the means of cleansing; II. Cleansing is a prerequisite for participating in the worship, and III. (Believers) priests must regularly appropriate God’s provision of cleansing.
+
+### Verse 22 - Note 1
+[解説]  The chapter ends with these two sections. The oil (22-33) is the mark of consecration, and the incense (34-38) is a mark of pleasing service, especially in prayer. So the essence of the message of the chapter is that the servants of God must be set apart by the Spirit for ministry and must be pleasing to God in the ministry.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “and Yahweh spoke to Moses, saying.”
+
+### Verse 23 - Note 1
+[翻訳注]  The construction uses the imperative “take,” but before it is the independent pronoun to add emphasis to it. After the imperative is the ethical dative (lit. “to you”) to stress the task to Moses as a personal responsibility: “and you, take to yourself.”
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “spices head.” This must mean the chief spices, or perhaps the top spice, meaning fine spices or choice spices. See Song 4:14; Ezek 27:22.
+
+### Verse 23 - Note 3
+[翻訳注]  Or “500 shekels.” Verse 24 specifies that the sanctuary shekel was the unit for weighing the spices. The total of 1500 shekels for the four spices is estimated at between 77 and 100 pounds, or 17 to 22 kilograms, depending on how much a shekel weighed (C. Houtman, Exodus, 3:576).
+
+### Verse 23 - Note 4
+[解説]  Myrrh is an aromatic substance that flows from the bark of certain trees in Arabia and Africa and then hardens. “The hardened globules of the gum appear also to have been ground into a powder that would have been easy to store and would have been poured from a container” (J. Durham, Exodus [WBC], 3:406).
+
+### Verse 24 - Note 1
+[翻訳注]  The words “all weighed” are added for clarity in English.
+
+### Verse 24 - Note 2
+[翻訳注]  Or “a hin.” A hin of oil is estimated at around one gallon (J. Durham, Exodus [WBC], 3:406).
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “it.”
+
+### Verse 25 - Note 2
+[翻訳注]  The word “oil” is an adverbial accusative, indicating the product that results from the verb (R. J. Williams, Hebrew Syntax, §52).
+
+### Verse 25 - Note 3
+[翻訳注]  The somewhat rare words rendered “a perfumed compound” are both associated with a verbal root having to do with mixing spices and other ingredients to make fragrant ointments. They are used with the next phrase, “the work of a perfumer,” to describe the finished oil as a special mixture of aromatic spices and one requiring the knowledge and skills of an experienced maker.
+
+### Verse 29 - Note 1
+[翻訳注]  The verb is a Piel perfect with vav (ו) consecutive; in this verse it is summarizing or explaining what the anointing has accomplished. This is the effect of the anointing (see Exod 29:36).
+
+### Verse 29 - Note 2
+[翻訳注]  This is the superlative genitive again, Heb “holy of holies.”
+
+### Verse 29 - Note 3
+[翻訳注]  See Exod 29:37; as before, this could refer to anything or anyone touching the sanctified items.
+
+### Verse 30 - Note 1
+[翻訳注]  The perfect tense with vav (ו) consecutive follows the imperfect of instruction; it may be equal to the instruction, but more likely shows the purpose or result of the act.
+
+### Verse 32 - Note 1
+[翻訳注]  Without an expressed subject, the verb may be treated as a passive. Any common use, as in personal hygiene, would be a complete desecration.
+
+### Verse 33 - Note 1
+[翻訳注]  Heb “a stranger,” meaning someone not ordained a priest.
+
+### Verse 33 - Note 2
+[解説]  The rabbinic interpretation of this is that it is a penalty imposed by heaven, that the life will be cut short and the person could die childless.
+
+### Verse 34 - Note 1
+[翻訳注]  The construction is “take to you,” which could be left in that literal sense, but more likely the suffix is an ethical dative, stressing the subject of the imperative.
+
+### Verse 34 - Note 2
+[解説]  This is from a word that means “to drip”; the spice is a balsam that drips from a resinous tree.
+
+### Verse 34 - Note 3
+[解説]  This may be a plant, or it may be from a species of mollusks; it is mentioned in Ugaritic and Akkadian; it gives a pungent odor when burnt.
+
+### Verse 34 - Note 4
+[解説]  This is a gum from plants of the genus Ferula; it has an unpleasant odor, but when mixed with others is pleasant.
+
+### Verse 34 - Note 5
+[翻訳注]  The word “spice is repeated here, suggesting that the first three formed half of the ingredient and this spice the other half – but this is conjecture (U. Cassuto, Exodus, 400).
+
+### Verse 34 - Note 6
+[翻訳注]  Heb “of each part there will be an equal part.”
+
+### Verse 35 - Note 1
+[翻訳注]  This is an accusative of result or product.
+
+### Verse 35 - Note 2
+[翻訳注]  The word is in apposition to “incense,” further defining the kind of incense that is to be made.
+
+### Verse 35 - Note 3
+[翻訳注]  The word מְמֻלָּח (mÿmullakh), a passive participle, is usually taken to mean “salted.” Since there is no meaning like that for the Pual form, the word probably should be taken as “mixed,” as in Rashi and Tg. Onq. Seasoning with salt would work if it were food, but since it is not food, if it means “salted” it would be a symbol of what was sound and whole for the covenant. Some have thought that it would have helped the incense burn quickly with more smoke.
+
+### Verse 38 - Note 1
+[翻訳注]  Or to smell it, to use for the maker’s own pleasure.

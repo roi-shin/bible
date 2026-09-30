@@ -1,0 +1,378 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;When all the kings who were beyond the Jordan heard.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;foothills&#8221;; <i>Heb</i> &#8220;the Shephelah.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the coast of the Great Sea.&#8221; The &#8220;Great Sea&#8221; was the typical designation for the Mediterranean Sea.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in front of.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they gathered together to fight against Joshua and Israel [with] one mouth.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;and they went and [?].&#8221; The root and meaning of the verb form <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1460;&#1510;&#1456;&#1496;&#1463;&#1497;&#1468;&#1464;&#1512;&#1493;&#1468;</font> (<font face=\"Scholar\">yitstayyaru</font>) are uncertain. The form is most likely a corruption of <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1460;&#1510;&#1456;&#1496;&#1463;&#1497;&#1468;&#1464;&#1491;&#1493;&#1468;</font> (<font face=\"Scholar\">yitstayyadu</font>), read by some Hebrew <sc>mss</sc> and ancient versions, from the root <font face=\"Galaxie Unicode Hebrew\">&#1510;&#1493;&#1468;&#1491;</font> (<font face=\"Scholar\">tsud</font>, &#8220;take provisions,&#8221; BDB 845 s.v. II <font face=\"Galaxie Unicode Hebrew\">&#1510;&#1493;&#1491;</font>) which also occurs in v. <span class=\"bibleref\" title=\"Joshua 9:11\">11</span>. Note NRSV &#8220;they went and prepared provisions&#8221;; cf. NEB &#8220;They went and disguised themselves&#8221;; NIV &#8220;they went as a delegation.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the bread of their provisions.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;moldy.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in our midst.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;we are your servants.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;servants.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;name.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the report about him, all that he did in Egypt.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your servants.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the day we went out to come to you.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;moldy.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;took.&#8221; This probably means they tasted some of the food to make sure it was stale.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;but they did not ask the mouth of the <sc>Lord</sc>.&#8221; This refers to seeking the Lord&#8217;s will and guidance through an oracle.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;assembly.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Joshua made peace with them and made a treaty with them to let them live, and the leaders of the community swore an oath to them.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;At the end of three days, after they made the treaty with them, they heard that they were neighbors to them and in their midst they were living.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;by the <sc>Lord</sc> God of Israel.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;grumbled against.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to them by&#8230;.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;touch.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;This is what we will do to them, keeping them alive so there will not be upon us anger concerning the oath which we swore to them.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;and the leaders said to them.&#8221; The LXX omits the words &#8220;and the leaders said to them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The <i>vav</i> (<font face=\"Galaxie Unicode Hebrew\">&#1493;</font>) consecutive construction in the Hebrew text suggests that the narrative resumes at this point. The LXX reads here, &#8220;and they will be,&#8221; understanding what follows to be a continuation of the leaders&#8217; words rather than a comment by the narrator.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;as the leaders said to them.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Verses <span class=\"bibleref\" title=\"Joshua 9:22-27\">22-27</span> appear to elaborate on v. <span class=\"bibleref\" title=\"Joshua 9:21\">21</span>b.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;them.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;deceive.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;live in our midst?&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Now you are cursed and a servant will not be cut off from you, woodcutters and water carriers for the house of my God.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your servants.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;we were very afraid.&#8221;</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so now, look, we are in your hand.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;according to what is good and according to what is upright in your eyes to do us, do.&#8221;</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And he did to them so and he rescued them from the hand of the sons of Israel and they did not kill them.&#8221;</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Joshua made them in that day woodcutters and water carriers for the community, and for the altar of the <sc>Lord</sc> to this day at the place which he chooses.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "1",
+      "text": "When the news reached all the kings on the west side of the Jordan—in the hill country, the foothills, and all along the Mediterranean coast as far as Lebanon (including the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "2",
+      "text": "they formed an alliance to fight against Joshua and Israel. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "3",
+      "text": "When the residents of Gibeon heard what Joshua did to Jericho and Ai, "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "4",
+      "text": "they did something clever. They collected some provisions and put worn-out sacks on their donkeys, along with worn-out wineskins that were ripped and patched. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "5",
+      "text": "They had worn-out, patched sandals on their feet and dressed in worn-out clothes. All their bread was dry and hard. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "6",
+      "text": "They came to Joshua at the camp in Gilgal and said to him and the men of Israel, “We have come from a distant land. Make a treaty with us.”"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "7",
+      "text": "The men of Israel said to the Hivites, “Perhaps you live near us. So how can we make a treaty with you?” "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "8",
+      "text": "But they said to Joshua, “We are willing to be your subjects.” So Joshua said to them, “Who are you and where do you come from?”"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "9",
+      "text": "They told him, “Your subjects have come from a very distant land because of the reputation of the Lord your God, for we have heard the news about all he did in Egypt "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "10",
+      "text": "and all he did to the two Amorite kings on the other side of the Jordan—King Sihon of Heshbon and King Og of Bashan in Ashtaroth. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "11",
+      "text": "Our leaders and all who live in our land told us, ‘Take provisions for your journey and go meet them. Tell them, “We are willing to be your subjects. Make a treaty with us.”’"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "12",
+      "text": "This bread of ours was warm when we packed it in our homes the day we started out to meet you, but now it is dry and hard. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "13",
+      "text": "These wineskins we filled were brand new, but look how they have ripped. Our clothes and sandals have worn out because it has been a very long journey.” "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "14",
+      "text": "The men examined some of their provisions, but they failed to ask the Lord’s advice. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "15",
+      "text": "Joshua made a peace treaty with them and agreed to let them live. The leaders of the community sealed it with an oath. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "16",
+      "text": "Three days after they made the treaty with them, the Israelites found out they were from the local area and lived nearby. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "17",
+      "text": "So the Israelites set out and on the third day arrived at their cities—Gibeon, Kephirah, Beeroth, and Kiriath Jearim. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "18",
+      "text": "The Israelites did not attack them because the leaders of the community had sworn an oath to them in the name of the Lord God of Israel. The whole community criticized the leaders, "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "19",
+      "text": "but all the leaders told the whole community, “We swore an oath to them in the name of the Lord God of Israel! So now we can’t hurt them."
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "20",
+      "text": "We must let them live so we can escape the curse attached to the oath we swore to them.”"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "21",
+      "text": "The leaders then added, “Let them live.” So they became woodcutters and water carriers for the whole community, as the leaders had decided. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "22",
+      "text": " Joshua summoned the Gibeonites and said to them, “Why did you trick us by saying, ‘We live far away from you,’ when you really live nearby? "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "23",
+      "text": "Now you are condemned to perpetual servitude as woodcutters and water carriers for the house of my God.” "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "24",
+      "text": "They said to Joshua, “It was carefully reported to your subjects how the Lord your God commanded Moses his servant to assign you the whole land and to destroy all who live in the land from before you. Because of you we were terrified we would lose our lives, so we did this thing. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "25",
+      "text": "So now we are in your power. Do to us what you think is good and appropriate.” "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "26",
+      "text": "Joshua did as they said; he kept the Israelites from killing them"
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "9",
+      "verse": "27",
+      "text": "and that day made them woodcutters and water carriers for the community and for the altar of the Lord at the divinely chosen site. (They continue in that capacity to this very day.) "
+    }
+  ]
+}

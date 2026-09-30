@@ -1,0 +1,144 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Say to the sons of Israel, &#8216;Set aside for yourselves.&#8217;&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;asylum.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so that the one who kills, taking life accidentally without knowledge, may flee there.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (the one who accidentally kills another, cf. v. <span class=\"bibleref\" title=\"Joshua 20:2\">2</span>) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and speak into the ears of the elders of that city his words.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they should gather him into the city to themselves, give to him a place, and he will live with them.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for without knowledge he killed his neighbor, and he was not hating him prior to that.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;live.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;until he stands before the assembly for judgment.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;until the death of the high priest who is in those days.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;may return and enter his city and his house, the city from which he escaped.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;set apart.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;set aside.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text reads simply &#8220;the cities.&#8221; The words &#8220;for refuge&#8221; are supplied for clarification.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and not die by the hand of.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;until he stands before the assembly.&#8221; The words &#8220;at least&#8221; are supplied for clarification.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "1",
+      "text": "The Lord instructed Joshua: "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "2",
+      "text": "“Have the Israelites select the cities of refuge that I told you about through Moses. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "3",
+      "text": "Anyone who accidentally kills someone can escape there; these cities will be a place of asylum from the avenger of blood. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "4",
+      "text": "The one who committed manslaughter should escape to one of these cities, stand at the entrance of the city gate, and present his case to the leaders of that city. They should then bring him into the city, give him a place to stay, and let him live there."
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "5",
+      "text": "When the avenger of blood comes after him, they must not hand over to him the one who committed manslaughter, for he accidentally killed his fellow man without premeditation. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "6",
+      "text": "He must remain in that city until his case is decided by the assembly, and the high priest dies. Then the one who committed manslaughter may return home to the city from which he escaped.” "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "7",
+      "text": "So they selected Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "8",
+      "text": "Beyond the Jordan east of Jericho they selected Bezer in the wilderness on the plain belonging to the tribe of Reuben, Ramoth in Gilead belonging to the tribe of Gad, and Golan in Bashan belonging to the tribe of Manasseh. "
+    },
+    {
+      "bookname": "Joshua",
+      "chapter": "20",
+      "verse": "9",
+      "text": "These were the cities of refuge appointed for all the Israelites and for resident foreigners living among them. Anyone who accidentally killed someone could escape there and not be executed by the avenger of blood, at least until his case was reviewed by the assembly. "
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;molding.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;that he put&#8221; has been supplied.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This is taken as a circumstantial clause; the clause begins with the conjunction <i>vav.</i></div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he made.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from/at [the] end, from this.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The repetition of the expression indicates it has the distributive sense.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The construction is a participle in construct followed by the genitive &#8220;wings&#8221; &#8211; &#8220;spreaders of wings.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;The cherubim&#8221; has been placed here instead of in the second clause to produce a smoother translation.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and their faces a man to his brother.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to the atonement lid were the faces of the cherubim.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The suffixes on these could also indicate the indirect object (see <span class=\"bibleref\" title=\"Exodus 25:29\">Exod 25:29</span>).</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from it&#8221;; the referent (&#8220;the same piece&#8221; of wrought metal) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one branch.&#8221; But the repetition of &#8220;one&#8230;one&#8221; means here one after another, or the &#8220;first&#8221; and then the &#8220;next.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;thus for six branches&#8230;.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> As in <span class=\"bibleref\" title=\"Exodus 26:35\">Exod 26:35</span>, the translation of &#8220;first&#8221; and &#8220;next&#8221; and &#8220;third&#8221; is interpretive, because the text simply says &#8220;under two branches&#8221; in each of three places.</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;were from it.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;it&#8221;; the referent (the lampstand) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from it were its horns,&#8221; meaning that they were made from the same piece.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;roof.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;its walls around.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he made for it border gold around.&#8221;</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he made.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Since it was a small altar, it needed only two rings, one on either side, in order to be carried. The second mention of their location clarifies that they should be on the sides, the right and the left, as one approached the altar.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for houses.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "1",
+      "text": "Bezalel made the ark of acacia wood; its length was 45 inches, its width 27 inches, and its height 27 inches. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "2",
+      "text": "He overlaid it with pure gold, inside and out, and he made a surrounding border of gold for it. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "3",
+      "text": "He cast four gold rings for it that he put on its four feet, with two rings on one side and two rings on the other side. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "4",
+      "text": "He made poles of acacia wood, overlaid them with gold, "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "5",
+      "text": "and put the poles into the rings on the sides of the ark in order to carry the ark. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "6",
+      "text": "He made an atonement lid of pure gold; its length was 45 inches, and its width was 27 inches. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "7",
+      "text": "He made two cherubim of gold; he made them of hammered metal on the two ends of the atonement lid, "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "8",
+      "text": "one cherub on one end and one cherub on the other end. He made the cherubim from the atonement lid on its two ends. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "9",
+      "text": "The cherubim were spreading their wings upward, overshadowing the atonement lid with their wings. The cherubim faced each other, looking toward the atonement lid. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "10",
+      "text": "Bezalel made the table of acacia wood; its length was 36 inches, its width 18 inches, and its height 27 inches. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "11",
+      "text": "He overlaid it with pure gold, and he made a surrounding border of gold for it. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "12",
+      "text": "He made a surrounding frame for it about three inches wide, and he made a surrounding border of gold for its frame. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "13",
+      "text": "He cast four gold rings for it and attached the rings at the four corners where its four legs were."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "14",
+      "text": "The rings were close to the frame to provide places for the poles to carry the table. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "15",
+      "text": "He made the poles of acacia wood and overlaid them with gold, to carry the table. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "16",
+      "text": "He made the vessels which were on the table out of pure gold, its plates, its ladles, its pitchers, and its bowls, to be used in pouring out offerings."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "17",
+      "text": "Bezalel made the lampstand of pure gold. He made the lampstand of hammered metal; its base and its shaft, its cups, its buds, and its blossoms were from the same piece. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "18",
+      "text": "Six branches were extending from its sides, three branches of the lampstand from one side of it, and three branches of the lampstand from the other side of it."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "19",
+      "text": "Three cups shaped like almond flowers with buds and blossoms were on the first branch, and three cups shaped like almond flowers with buds and blossoms were on the next branch, and the same for the six branches that were extending from the lampstand. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "20",
+      "text": "On the lampstand there were four cups shaped like almond flowers with buds and blossoms, "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "21",
+      "text": "with a bud under the first two branches from it, and a bud under the next two branches from it, and a bud under the third two branches from it; according to the six branches that extended from it."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "22",
+      "text": "Their buds and their branches were of one piece; all of it was one hammered piece of pure gold. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "23",
+      "text": "He made its seven lamps, its trimmers, and its trays of pure gold. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "24",
+      "text": "He made the lampstand and all its accessories with seventy-five pounds of pure gold. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "25",
+      "text": "Bezalel made the incense altar of acacia wood. Its length was 18 inches and its width 18 inches—a square—and its height was 36 inches. Its horns were of one piece with it."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "26",
+      "text": "He overlaid it with pure gold—its top, its four walls, and its horns—and he made a surrounding border of gold for it. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "27",
+      "text": "He also made two gold rings for it under its border, on its two sides, on opposite sides, as places for poles to carry it with."
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "28",
+      "text": "He made the poles of acacia wood and overlaid them with gold. "
+    },
+    {
+      "bookname": "Exodus",
+      "chapter": "37",
+      "verse": "29",
+      "text": "He made the sacred anointing oil and the pure fragrant incense, the work of a perfumer. "
+    }
+  ]
+}

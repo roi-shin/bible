@@ -1,0 +1,330 @@
+{
+  "book": "Joshua",
+  "chapter": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The tribal leaders of the Levites went before Eleazar the priest and Joshua son of Nun and the Israelite tribal leaders ",
+      "ja": "レビ人の一族の長たちが、祭司エルアザル、ヌンの子ヨシュア、そしてイスラエルの部族の長たちの前に進み出て、"
+    },
+    {
+      "verse": 2,
+      "en": "in Shiloh in the land of Canaan and said, “The Lord told Moses to assign us cities in which to live along with the grazing areas for our cattle.” ",
+      "ja": "カナンの地にあるシロにおいて彼らに言った。「主は、私たちが住む町々と、家畜のための放牧地を私たちに与えるよう、モーセを通して命じられました」。"
+    },
+    {
+      "verse": 3,
+      "en": "So the Israelites assigned these cities and their grazing areas to the Levites from their own holdings, as the Lord had instructed.",
+      "ja": "そこでイスラエルの人々は、主の命令に従い、自分たちの相続地の中からこれらの町々とその放牧地をレビ人に与えた。"
+    },
+    {
+      "verse": 4,
+      "en": "The first lot belonged to the Kohathite clans. The Levites who were descendants of Aaron the priest were allotted 13 cities from the tribes of Judah, Simeon, and Benjamin. ",
+      "ja": "最初のくじはケハテ族のものとなった。祭司アロンの子孫であるレビ人には、ユダ部族、シメオン部族、ベニヤミン部族から十三の町がくじで割り当てられた。"
+    },
+    {
+      "verse": 5,
+      "en": "The rest of Kohath’s descendants were allotted 10 cities from the clans of the tribe of Ephraim, and from the tribe of Dan and the half-tribe of Manasseh. ",
+      "ja": "ケハテの残りの子孫には、エフライム部族の氏族、ダン部族、そしてマナセの半部族から十の町が割り当てられた。"
+    },
+    {
+      "verse": 6,
+      "en": "Gershon’s descendants were allotted 13 cities from the clans of the tribe of Issachar, and from the tribes of Asher and Naphtali and the half-tribe of Manasseh in Bashan. ",
+      "ja": "ゲルソンの子孫には、イッサカル部族の氏族、アシェル部族、ナフタリ部族、そしてバシャンにあるマナセの半部族から十三の町が割り当てられた。"
+    },
+    {
+      "verse": 7,
+      "en": "Merari’s descendants by their clans were allotted 12 cities from the tribes of Reuben, Gad, and Zebulun. ",
+      "ja": "メラリの子孫には、その氏族にしたがって、ルベン部族、ガド部族、ゼブルン部族から十二の町が割り当てられた。"
+    },
+    {
+      "verse": 8,
+      "en": "So the Israelites assigned to the Levites by lot these cities and their grazing areas, as the Lord had instructed Moses. ",
+      "ja": "こうしてイスラエルの人々は、主がモーセを通して命じられたとおりに、これらの町々とその放牧地をくじによってレビ人に与えた。"
+    },
+    {
+      "verse": 9,
+      "en": "They assigned from the tribes of Judah and Simeon the cities listed below.",
+      "ja": "彼らはユダ部族とシメオン部族から、以下に名を挙げる町々を与えた。"
+    },
+    {
+      "verse": 10,
+      "en": "(They were assigned to the Kohathite clans of the Levites who were descendants of Aaron, for the first lot fell to them.) ",
+      "ja": "（これらは、最初のくじが当たったレビ人のケハテ族であるアロンの子孫に割り当てられた。）"
+    },
+    {
+      "verse": 11,
+      "en": "They assigned them Kiriath Arba (Arba was the father of Anak), that is, Hebron, in the hill country of Judah, along with its surrounding grazing areas. ",
+      "ja": "彼らはユダの山地にあるキルヤテ・アルバ（アルバはアナクの父であった）、すなわちヘブロンと、その周囲の放牧地を彼らに与えた。"
+    },
+    {
+      "verse": 12,
+      "en": "(Now the city’s fields and surrounding towns they had assigned to Caleb son of Jephunneh as his property.) ",
+      "ja": "（ただし、その町の耕地と周囲の村落は、エフネの子カレブに所有地として与えられていた。）"
+    },
+    {
+      "verse": 13,
+      "en": "So to the descendants of Aaron the priest they assigned Hebron (a city of refuge for one who committed manslaughter), Libnah, ",
+      "ja": "こうして彼らは祭司アロンの子孫に、ヘブロン（人を誤って殺した者のための逃れの町）とその放牧地、リブナとその放牧地、"
+    },
+    {
+      "verse": 14,
+      "en": "Jattir, Eshtemoa, ",
+      "ja": "ヤティルとその放牧地、エシュテモアとその放牧地、"
+    },
+    {
+      "verse": 15,
+      "en": "Holon, Debir, ",
+      "ja": "ホロンとその放牧地、デビルとその放牧地、"
+    },
+    {
+      "verse": 16,
+      "en": "Ain, Juttah, and Beth Shemesh, along with the grazing areas of each—a total of nine cities taken from these two tribes. ",
+      "ja": "アインとその放牧地、ユタとその放牧地、ベテ・シェメシュとその放牧地を与えた。これら二つの部族から取られた町は合わせて九つであった。"
+    },
+    {
+      "verse": 17,
+      "en": "From the tribe of Benjamin they assigned Gibeon, Geba, ",
+      "ja": "ベニヤミン部族からは、ギブオンとその放牧地、ゲバとその放牧地、"
+    },
+    {
+      "verse": 18,
+      "en": "Anathoth, and Almon, along with the grazing areas of each—a total of four cities. ",
+      "ja": "アナトテとその放牧地、アルモンとその放牧地を与えた。町は合わせて四つであった。"
+    },
+    {
+      "verse": 19,
+      "en": "The priests descended from Aaron received 13 cities and their grazing areas. ",
+      "ja": "アロンの子孫である祭司たちに与えられた町とその放牧地は、合わせて十三であった。"
+    },
+    {
+      "verse": 20,
+      "en": "The rest of the Kohathite clans of the Levites were allotted cities from the tribe of Ephraim. ",
+      "ja": "レビ人の残りのケハテ族には、エフライム部族から町がくじで割り当てられた。"
+    },
+    {
+      "verse": 21,
+      "en": "They assigned them Shechem (a city of refuge for one who committed manslaughter) in the hill country of Ephraim, Gezer, ",
+      "ja": "彼らはエフライムの山地にあるシェケム（人を誤って殺した者のための逃れの町）とその放牧地、ゲゼルとその放牧地、"
+    },
+    {
+      "verse": 22,
+      "en": "Kibzaim, and Beth Horon, along with the grazing areas of each—a total of four cities. ",
+      "ja": "キブツァイムとその放牧地、ベテ・ホロンとその放牧地を与えた。町は合わせて四つであった。"
+    },
+    {
+      "verse": 23,
+      "en": "From the tribe of Dan they assigned Eltekeh, Gibbethon, ",
+      "ja": "ダン部族からは、エルテケとその放牧地、ギベトンとその放牧地、"
+    },
+    {
+      "verse": 24,
+      "en": "Aijalon, and Gath Rimmon, along with the grazing areas of each—a total of four cities. ",
+      "ja": "アヤロンとその放牧地、ガテ・リモテとその放牧地を与えた。町は合わせて四つであった。"
+    },
+    {
+      "verse": 25,
+      "en": "From the half-tribe of Manasseh they assigned Taanach and Gath Rimmon, along with the grazing areas of each—a total of two cities. ",
+      "ja": "マナセの半部族からは、タアナクとその放牧地、ガテ・リモテとその放牧地を与えた。町は合わせて二つであった。"
+    },
+    {
+      "verse": 26,
+      "en": "The rest of the Kohathite clans received 10 cities and their grazing areas. ",
+      "ja": "残りのケハテ族に与えられた町とその放牧地は、合わせて十であった。"
+    },
+    {
+      "verse": 27,
+      "en": "They assigned to the Gershonite clans of the Levites the following cities: from the half-tribe of Manasseh: Golan in Bashan (a city of refuge for one who committed manslaughter) and Beeshtarah, along with the grazing areas of each—a total of two cities; ",
+      "ja": "レビ人のゲルソン族には以下の町々が与えられた。マナセの半部族からは、バシャンのゴラン（人を誤って殺した者のための逃れの町）とその放牧地、ベエシュテラとその放牧地であり、合わせて二つの町であった。"
+    },
+    {
+      "verse": 28,
+      "en": "from the tribe of Issachar: Kishon, Daberath, ",
+      "ja": "イッサカル部族からは、キションとその放牧地、ダベラテとその放牧地、"
+    },
+    {
+      "verse": 29,
+      "en": "Jarmuth, and En Gannim, along with the grazing areas of each—a total of four cities; ",
+      "ja": "ヤルムテとその放牧地、エン・ガニムとその放牧地であり、合わせて四つの町であった。"
+    },
+    {
+      "verse": 30,
+      "en": "from the tribe of Asher: Mishal, Abdon, ",
+      "ja": "アシェル部族からは、ミシャルとその放牧地、アブドンとその放牧地、"
+    },
+    {
+      "verse": 31,
+      "en": "Helkath, and Rehob, along with the grazing areas of each—a total of four cities; ",
+      "ja": "ヘルカテとその放牧地、レホブとその放牧地であり、合わせて四つの町であった。"
+    },
+    {
+      "verse": 32,
+      "en": "from the tribe of Naphtali: Kedesh in Galilee (a city of refuge for one who committed manslaughter), Hammoth Dor, and Kartan, along with the grazing areas of each—a total of three cities. ",
+      "ja": "ナフタリ部族からは、ガリラヤのケデシュ（人を誤って殺した者のための逃れの町）とその放牧地、ハモテ・ドルとその放牧地、カルタンとその放牧地であり、合わせて三つの町であった。"
+    },
+    {
+      "verse": 33,
+      "en": "The Gershonite clans received 13 cities and their grazing areas. ",
+      "ja": "ゲルソン族にその氏族にしたがって与えられた町とその放牧地は、合わせて十三であった。"
+    },
+    {
+      "verse": 34,
+      "en": "They assigned to the Merarite clans (the remaining Levites) the following cities: from the tribe of Zebulun: Jokneam, Kartah, ",
+      "ja": "残りのレビ人であるメラリ族には以下の町々が与えられた。ゼブルン部族からは、ヨクネアムとその放牧地、カルタとその放牧地、"
+    },
+    {
+      "verse": 35,
+      "en": "Dimnah, and Nahalal, along with the grazing areas of each—a total of four cities; ",
+      "ja": "ディムナとその放牧地、ナハラルとその放牧地であり、合わせて四つの町であった。"
+    },
+    {
+      "verse": 36,
+      "en": " from the tribe of Reuben: Bezer, Jahaz, ",
+      "ja": "ルベン部族からは、ベツェルとその放牧地、ヤハツとその放牧地、"
+    },
+    {
+      "verse": 37,
+      "en": "Kedemoth, and Mephaath, along with the grazing areas of each—a total of four cities; ",
+      "ja": "ケデモテとその放牧地、メファアテとその放牧地であり、合わせて四つの町であった。"
+    },
+    {
+      "verse": 38,
+      "en": "from the tribe of Gad: Ramoth in Gilead (a city of refuge for one who committed manslaughter), Mahanaim, ",
+      "ja": "ガド部族からは、ギルアデのラモテ（人を誤って殺した者のための逃れの町）とその放牧地、マハナイムとその放牧地、"
+    },
+    {
+      "verse": 39,
+      "en": "Heshbon, and Jazer, along with the grazing areas of each—a total of four cities. ",
+      "ja": "ヘシュボンとその放牧地、ヤゼルとその放牧地であり、合わせて四つの町であった。"
+    },
+    {
+      "verse": 40,
+      "en": "The Merarite clans (the remaining Levites) were allotted 12 cities. ",
+      "ja": "残りのレビ人であるメラリ族にその氏族にしたがってくじで割り当てられた町は、合わせて十二であった。"
+    },
+    {
+      "verse": 41,
+      "en": "The Levites received within the land owned by the Israelites 48 cities in all and their grazing areas. ",
+      "ja": "イスラエルの人々の所有地の中でレビ人が受け取った町は、その放牧地を含めて全部で四十八であった。"
+    },
+    {
+      "verse": 42,
+      "en": "Each of these cities had grazing areas around it; they were alike in this regard. ",
+      "ja": "これらの町々はそれぞれ周囲に放牧地を持っていた。すべての町が同様であった。"
+    },
+    {
+      "verse": 43,
+      "en": "So the Lord gave Israel all the land he had solemnly promised to their ancestors, and they conquered it and lived in it.",
+      "ja": "こうして主は、先祖たちに与えると誓われたすべての地をイスラエルに与えられた。彼らはそれを占領し、そこに住んだ。"
+    },
+    {
+      "verse": 44,
+      "en": "The Lord made them secure, in fulfillment of all he had solemnly promised their ancestors. None of their enemies could resist them. The Lord handed all their enemies over to them.",
+      "ja": "主は、彼らの先祖たちに誓われたすべてのことのとおりに、周囲の者たちから彼らに安息を与えられた。敵は一人も彼らに立ち向かうことができなかった。主がすべての敵を彼らの手に引き渡されたからである。"
+    },
+    {
+      "verse": 45,
+      "en": "Not one of the Lord’s faithful promises to the family of Israel was left unfulfilled; every one was realized. ",
+      "ja": "主がイスラエルの家に語られたすべての良き約束は、一つも果たされないまま残ることはなく、すべて実現した。"
+    }
+  ],
+  "notes": {
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “came out for.”",
+        "ja": "[翻訳注] ヘブル語原文は「〜のために出た」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and it belonged to the sons of Aaron, from the Kohathite clans, from the sons of Levi.”",
+        "ja": "[翻訳注] ヘブル語原文は「そしてそれはレビの子らのうち、ケハテ族の祭司アロンの子らに属した」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “they assigned” are supplied for clarification (also in vv. 23, 25).",
+        "ja": "[翻訳注] 「彼らは〜を与えた」という言葉は、分かりやすさのために補われている（23節、25節も同様）。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The name “Gath Rimmon” is problematic here, for it appears in the preceding list of Danite cities. The LXX reads “Iebatha”; 1 Chr 6:55 HT (6:70 ET) reads “Bileam.” Most modern translations retain the name “Gath Rimmon,” however.",
+        "ja": "[翻訳注] ここでの「ガテ・リモテ」という名称には問題がある。直前のダン部族の町のリストにも登場しているからである。七十人訳聖書（LXX）は「イエバタ」とし、歴代誌上6章55節（英語聖書6:70）は「ビルアム」としている。しかし、大半の現代訳は「ガテ・リモテ」の名を保持している。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “they assigned” and “the following cities” are supplied for clarification (also in v. 34).",
+        "ja": "[翻訳注] 「彼らは〜を与えた」および「以下の町々」という言葉は、分かりやすさのために補われている（34節も同様）。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[写本注]  21:36-37 are accidentally omitted from a number of significant Hebrew mss. They are, however, found in some Hebrew mss, the LXX and Vulgate.",
+        "ja": "[写本注] 21章36–37節は、多くの重要なヘブル語写本から誤って脱落している。しかし、一部のヘブル語写本、七十人訳聖書（LXX）、ヴルガタ訳には含まれている。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in the midst of the possession of the sons of Israel.”",
+        "ja": "[翻訳注] ヘブル語原文は「イスラエルの子らの所有地の中において」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “these cities were city [by] city, and its grazing areas [were] around it; so [it was] for all these cities.”",
+        "ja": "[翻訳注] ヘブル語原文は「これらの町々は町ごとにその周囲に放牧地があった。これらのすべての町がそうであった」。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “which he had sworn to give to their fathers.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの先祖たちに与えると誓われた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “possessed.”",
+        "ja": "[翻訳注] または「占領した」。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “gave them rest all around.”",
+        "ja": "[翻訳注] ヘブル語原文は「周囲の者たちから彼らに安息を与えられた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “according to all he swore to their fathers.”",
+        "ja": "[翻訳注] ヘブル語原文は「彼らの先祖たちに誓われたすべてのことのとおりに」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “not a man stood from before them from all their enemies.”",
+        "ja": "[翻訳注] ヘブル語原文は「すべての敵の中から、彼らの前に立ち向かう者は一人もいなかった」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the house of Israel.” Cf. NCV “the Israelites”; TEV “the people of Israel”; CEV, NLT “Israel.”",
+        "ja": "[翻訳注] ヘブル語原文は「イスラエルの家」。NCV「イスラエル人」、TEV「イスラエルの民」、CEVおよびNLT「イスラエル」参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “not a word from all the good word which the Lord spoke to the house of Israel fell; the whole came to pass.”",
+        "ja": "[翻訳注] ヘブル語原文は「主がイスラエルの家に語られたすべての良き言葉から、一つの言葉も地に落ちることはなく、すべてが実現した」。"
+      }
+    ]
+  }
+}

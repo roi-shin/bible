@@ -1,0 +1,518 @@
+{
+  "book": "Exodus",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " God spoke all these words: ",
+      "ja": "神はこれらすべての言葉を語られた。"
+    },
+    {
+      "verse": 2,
+      "en": "“I, the Lord, am your God, who brought you from the land of Egypt, from the house of slavery. ",
+      "ja": "「わたしは主、あなたをエジプトの地、奴隷の家から導き出したあなたの神である。"
+    },
+    {
+      "verse": 3,
+      "en": "“You shall have no other gods before me.",
+      "ja": "「あなたには、わたしのほかに他の神々があってはならない。"
+    },
+    {
+      "verse": 4,
+      "en": "“You shall not make for yourself a carved image or any likeness of anything that is in heaven above or that is on the earth beneath or that is in the water below. ",
+      "ja": "「あなたは自分のために彫像を造ってはならない。上は天にあるもの、下は地にあるもの、地の下の水の中にあるもの、いかなるものの形も造ってはならない。"
+    },
+    {
+      "verse": 5,
+      "en": "You shall not bow down to them or serve them, for I, the Lord, your God, am a jealous God, responding to the transgression of fathers by dealing with children to the third and fourth generations of those who reject me, ",
+      "ja": "それらにひれ伏してはならず、それらに仕えてはならない。あなたの神、主であるわたしは、熱情の神であり、わたしを拒む者には父の罪を子に報いて三代、四代に及ぼし、"
+    },
+    {
+      "verse": 6,
+      "en": "and showing covenant faithfulness to a thousand generations of those who love me and keep my commandments. ",
+      "ja": "わたしを愛し、わたしの戒めを守る者には、千代にわたって契約の恵みを示すからである。"
+    },
+    {
+      "verse": 7,
+      "en": "“You shall not take the name of the Lord your God in vain, for the Lord will not hold guiltless anyone who takes his name in vain. ",
+      "ja": "「あなたの神、主の御名をみだりに口にしてはならない。主はその御名をみだりに口にする者を罰せずにはおかれないからである。"
+    },
+    {
+      "verse": 8,
+      "en": "“Remember the Sabbath day to set it apart as holy.",
+      "ja": "「安息日を覚えて、これを聖なる日として聖別しなさい。"
+    },
+    {
+      "verse": 9,
+      "en": "For six days you may labor and do all your work, ",
+      "ja": "六日の間、あなたは働いて自らのすべての仕事を行うことができる。"
+    },
+    {
+      "verse": 10,
+      "en": "but the seventh day is a Sabbath to the Lord your God; on it you shall not do any work, you, or your son, or your daughter, or your male servant, or your female servant, or your cattle, or the resident foreigner who is in your gates. ",
+      "ja": "しかし七日目は、あなたの神、主の安息日である。その日には、あなたも、息子も娘も、男奴隷も女奴隷も、家畜も、あなたの門の内にいる寄留者も、いかなる仕事もしてはならない。"
+    },
+    {
+      "verse": 11,
+      "en": "For in six days the Lord made the heavens and the earth and the sea and all that is in them, and he rested on the seventh day; therefore the Lord blessed the Sabbath day and set it apart as holy.",
+      "ja": "主が六日の間に天と地と海、またそれらの中にあるすべてのものを造り、七日目に休まれたからである。それゆえ、主は安息日を祝福し、これを聖なる日として聖別された。"
+    },
+    {
+      "verse": 12,
+      "en": "“Honor your father and your mother, that you may live a long time in the land the Lord your God is giving to you.",
+      "ja": "「あなたの父と母を敬いなさい。あなたの神、主があなたに与えられる地で、あなたの命が長くなるためである。"
+    },
+    {
+      "verse": 13,
+      "en": "“You shall not murder. ",
+      "ja": "「殺してはならない。"
+    },
+    {
+      "verse": 14,
+      "en": "“You shall not commit adultery. ",
+      "ja": "「姦淫してはならない。"
+    },
+    {
+      "verse": 15,
+      "en": "“You shall not steal. ",
+      "ja": "「盗んではならない。"
+    },
+    {
+      "verse": 16,
+      "en": "“You shall not give false testimony against your neighbor. ",
+      "ja": "「隣人に対して偽りの証言をしてはならない。"
+    },
+    {
+      "verse": 17,
+      "en": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that belongs to your neighbor.” ",
+      "ja": "「隣人の家を欲してはならない。隣人の妻、男奴隷、女奴隷、牛、ろば、すべて隣人のものを欲してはならない」。"
+    },
+    {
+      "verse": 18,
+      "en": "All the people were seeing the thundering and the lightning, and heard the sound of the horn, and saw the mountain smoking—and when the people saw it they trembled with fear and kept their distance. ",
+      "ja": "民はみな、雷と稲妻、角笛の音、煙る山を目撃した。民はこれを見て恐れおののき、遠く離れて立った。"
+    },
+    {
+      "verse": 19,
+      "en": "They said to Moses, “You speak to us and we will listen, but do not let God speak with us, lest we die.” ",
+      "ja": "彼らはモーセに言った。「あなたがわたしたちに語ってください。わたしたちは聞き従います。神がわたしたちに直接語られて、わたしたちが死ぬことのないようにしてください」。"
+    },
+    {
+      "verse": 20,
+      "en": "Moses said to the people, “Do not fear, for God has come to test you, that the fear of him may be before you so that you do not sin.” ",
+      "ja": "モーセは民に言った。「恐れてはならない。神が来られたのはあなた方を試みるためであり、神を恐れる思いがあなた方にあり、罪を犯さないようにするためである」。"
+    },
+    {
+      "verse": 21,
+      "en": "The people kept their distance, but Moses drew near the thick darkness where God was.",
+      "ja": "民は遠く離れて立っていたが、モーセは神のおられる濃い暗闇に近づいた。"
+    },
+    {
+      "verse": 22,
+      "en": " The Lord said to Moses, “Thus you will tell the Israelites: ‘You yourselves have seen that I have spoken with you from heaven. ",
+      "ja": "主はモーセに言われた。「あなたはイスラエルの人々にこのように告げなさい。『あなた方は、わたしが天からあなた方に語ったことを自ら見た。"
+    },
+    {
+      "verse": 23,
+      "en": "You must not make gods of silver alongside me, nor make gods of gold for yourselves.",
+      "ja": "あなた方はわたしのほかに銀の神々を造ってはならず、自分たちのために金の神々を造ってはならない。"
+    },
+    {
+      "verse": 24,
+      "en": "“‘You must make for me an altar made of earth, and you will sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I cause my name to be honored I will come to you and I will bless you.",
+      "ja": "「『わたしのために土の祭壇を造り、その上で全焼のささげ物と和解のいけにえ、羊や牛をささげなさい。わたしがわが名を記憶させるすべての場所で、わたしはあなたのもとに臨み、あなたを祝福する。"
+    },
+    {
+      "verse": 25,
+      "en": "If you make me an altar of stone, you must not build it of stones shaped with tools, for if you use your tool on it you have defiled it.",
+      "ja": "もしわたしのために石の祭壇を造るなら、石を道具で削って築いてはならない。道具を石に当てるなら、それを汚すことになるからである。"
+    },
+    {
+      "verse": 26,
+      "en": "And you must not go up by steps to my altar, so that your nakedness is not exposed.’ ",
+      "ja": "また、あなたの裸があらわにならないよう、階段によってわたしの祭壇に登ってはならない』」。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  This chapter is the heart of the Law of Israel, and as such is well known throughout the world. There is so much literature on it that it is almost impossible to say anything briefly and do justice to the subject. But the exposition of the book must point out that this is the charter of the new nation of Israel. These ten commands (words) form the preamble; they will be followed by the decisions (judgments). And then in chap.  the covenant will be inaugurated. So when Israel entered into covenant with God, they entered into a theocracy by expressing their willingness to submit to his authority. The Law was the binding constitution for the nation of Israel under Yahweh their God. It was specifically given to them at a certain time and in a certain place. The Law legislated how Israel was to live in order to be blessed by God and used by him as a kingdom of priests. In the process of legislating their conduct and their ritual for worship, the Law revealed God. It revealed the holiness of Yahweh as the standard for all worship and service, and in revealing that it revealed or uncovered sin. But what the Law condemned, the Law (Leviticus) also made provision for in the laws of the sacrifice and the feasts intended for atonement. The NT teaches that the Law was good, and perfect, and holy. But it also teaches that Christ was the end (goal) of the Law, that it ultimately led to him. It was a pedagogue, Paul said, to bring people to Christ. And when the fulfillment of the promise came in him, believers were not to go back under the Law. What this means for Christians is that what the Law of Israel revealed about God and his will is timeless and still authoritative over faith and conduct, but what the Law regulated for Israel in their existence as the people of God has been done away with in Christ. The Ten Commandments reveal the essence of the Law; the ten for the most part are reiterated in the NT because they reflect the holy and righteous nature of God. The NT often raises them to a higher standard, to guard the spirit of the Law as well as the letter.",
+        "ja": "[解説] この章はイスラエルの律法の核心であり、世界中で広く知られている。これに関する文献は膨大であり、簡潔に述べてその主題を十全に扱うことは困難である。しかし本書の解説において、これがイスラエルの新国家憲章であることを指摘しておく必要がある。これら十の戒め（言葉）は前文を形成し、その後に判例（裁き）が続く。そして第24章で契約が発効する。イスラエルは神と契約を結んだ際、神の主権に従う意志を表明して神権政治に入った。律法は彼らの神主（ヤハウェ）のもとにあるイスラエル民族にとって拘束力を持つ憲法であった。それは特定の時と場所において彼らに与えられた。律法は、イスラエルが神に祝福され、祭司の王国として神に用いられるためにどのように生きるべきかを規定した。行動様式と礼拝の儀礼を規定する過程で、律法は神を啓示した。すべての礼拝と奉仕の基準としての主の聖潔を明らかにし、それを明らかにすることによって罪を露わにした。しかし律法が断罪した事柄に対し、律法（レビ記）はいけにえの規定や贖罪のための祭礼によって備えをも設けていた。新約聖書は律法が善であり、完全であり、聖であると教える。同時に、キリストが律法の終わり（目標）であり、律法が究極的にキリストへ導くものであったと教えている。パウロが述べたように、それは人をキリストへと導く養育係であった。キリストにおいて約束の成就が到来した時、信者はもはや律法の下に戻るべきではない。これがキリスト者にとって意味することは、イスラエルの律法が神とその御心について啓示した事柄は時代を超えて信仰と行為に対して権威を持ち続けるが、神の民としてのイスラエルの生活規定として定めていたものはキリストにおいて廃止されたということである。十戒は律法の本質を啓示している。その大半は神の聖く義なる性質を反映しているため新約聖書でも再確認されている。新約聖書はしばしばそれらを高い基準へと引き上げ、文字通りの意味だけでなく律法の精神をも守るよう求めている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Bible makes it clear that the Law was the revelation of God at Mount Sinai. And yet study has shown that the law code’s form follows the literary pattern of covenant codes in the Late Bronze Age, notably the Hittite codes. The point of such codes is that all the covenant stipulations are appropriate because of the wonderful things that the sovereign has done for the people. God, in using a well-known literary form, was both drawing on the people’s knowledge of such to impress their duties on them, as well as putting new wine into old wineskins. The whole nature of God’s code was on a much higher level. For this general structure, see M. G. Kline, Treaty of the Great King. For the Ten Commandments specifically, see J. J. Stamm and M. E. Andrew, The Ten Commandments in Recent Research (SBT). See also some of the general articles: M. Barrett, “God’s Moral Standard: An Examination of the Decalogue,” BV 12 (1978): 34-40; C. J. H. Wright, “The Israelite Household and the Decalogue: The Social Background and Significance of Some Commandments,” TynBul 30 (1979): 101-24; J. D. Levenson, “The Theologies of Commandment in Biblical Israel,” HTR 73 (1980): 17-33; M. B. Cohen and D. B. Friedman, “The Dual Accentuation of the Ten Commandments,” Masoretic Studies 1 (1974): 7-190; D. Skinner, “Some Major Themes of Exodus,” Mid-America Theological Journal 1 (1977): 31-42; M. Tate, “The Legal Traditions of the Book of Exodus,” RevExp 74 (1977): 483-509; E. C. Smith, “The Ten Commandments in Today’s Permissive Society: A Principleist Approach,” SwJT 20 (1977): 42-58; and D. W. Buck, “Exodus 20:1-17,” Lutheran Theological Journal 16 (1982): 65-75.",
+        "ja": "[解説] 聖書は、律法がシナイ山における神の啓示であったことを明示している。研究によれば、この法典の形式は後期青銅器時代の契約文書、特にヒッタイトの条約形式の文学的類型に従っている。このような条約の要点は、君主が民のために行った恩恵ゆえに、すべての契約条項が妥当とされることにある。神は当時周知の文学的形式を用いることで、民の理解を利用して義務を銘記させるとともに、新しいぶどう酒を古い革袋に入れるような働きをなされた。神の法典の本質は高次の水準にあった。この全体構造については M. G. Kline, Treaty of the Great King を参照。十戒に関しては J. J. Stamm and M. E. Andrew, The Ten Commandments in Recent Research (SBT) を参照。また一般論文として次を参照。M. Barrett, “God’s Moral Standard: An Examination of the Decalogue,” BV 12 (1978): 34-40; C. J. H. Wright, “The Israelite Household and the Decalogue: The Social Background and Significance of Some Commandments,” TynBul 30 (1979): 101-24; J. D. Levenson, “The Theologies of Commandment in Biblical Israel,” HTR 73 (1980): 17-33; M. B. Cohen and D. B. Friedman, “The Dual Accentuation of the Ten Commandments,” Masoretic Studies 1 (1974): 7-190; D. Skinner, “Some Major Themes of Exodus,” Mid-America Theological Journal 1 (1977): 31-42; M. Tate, “The Legal Traditions of the Book of Exodus,” RevExp 74 (1977): 483-509; E. C. Smith, “The Ten Commandments in Today’s Permissive Society: A Principleist Approach,” SwJT 20 (1977): 42-58; D. W. Buck, “Exodus 20:1-17,” Lutheran Theological Journal 16 (1982): 65-75."
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  The revelation of Yahweh here begins with the personal pronoun. “I” – a person, a living personality, not an object or a mere thought. This enabled him to address “you” – Israel, and all his people, making the binding stipulations for them to conform to his will (B. Jacob, Exodus, 544).",
+        "ja": "[解説] ここでの主（ヤハウェ）の啓示は人称代名詞で始まっている。「わたし」という、客体や観念ではなく生ける人格である。これによって神は「あなた」、すなわちイスラエルやすべての神の民に語りかけ、御心に従うべき拘束力ある規定を課すことが可能となった（B. Jacob, Exodus, 544）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Most English translations have “I am Yahweh your God.” But the preceding chapters have again and again demonstrated how he made himself known to them. Now, the emphasis is on “I am your God” – and what that would mean in their lives.",
+        "ja": "[翻訳注] 多くの英語訳は「わたしはあなたの神、主である」としている。しかしこれまでの章で、神がご自身を彼らにどのように示されたかが繰り返し示されてきた。ここでの強調は「わたしはあなたの神である」という点にあり、それが彼らの人生において何を意味するかに置かれている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The suffix on the verb is second masculine singular. It is this person that will be used throughout the commandments for the whole nation. God addresses them all as his people, but he addresses them individually for their obedience. The masculine form is not, thereby, intended to exclude women.",
+        "ja": "[翻訳注] 動詞の接尾辞は二人称男性単数である。この人称が国民全体に向けた戒めを通じて一貫して用いられる。神は民全体をご自身の民として語りかけながらも、個人の従順を求めて個別に語りかけておられる。男性形が用いられているからといって女性を除外する意図はない。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “the house of slaves” meaning “the land of slavery.”[解説]  By this announcement Yahweh declared what he had done for Israel by freeing them from slavery. Now they are free to serve him. He has a claim on them for gratitude and obedience. But this will not be a covenant of cruel slavery and oppression; it is a covenant of love, as God is saying “I am yours, and you are mine.” This was the sovereign Lord of creation and of history speaking, declaring that he was their savior.",
+        "ja": "[翻訳注] ヘブライ語は「奴隷の家」であり、「奴隷の地」を意味する。[解説] この宣言によって主（ヤハウェ）は、イスラエルを奴隷状態から解放するために何を行われたかを宣言された。いまや彼らは自由に神に仕えることができる。神は彼らに対して感謝と従順を求める権利を持っておられる。しかしこれは過酷な奴隷状態や抑圧の契約ではなく、愛の契約である。神は「わたしはあなたのものであり、あなたはわたしのものである」と語っておられる。創造と歴史の主権者である主が語り、ご自身が彼らの救い主であることを宣言されたのである。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The possession is expressed here by the use of the lamed (ל) preposition and the verb “to be”: לֹא־יִהְיֶה לְךָ (lo’ yihyeh lÿkha, “there will not be to you”). The negative with the imperfect expresses the emphatic prohibition; it is best reflected with “you will not” and has the strongest expectation of obedience (see GKC 317 §107.o). As an additional way of looking at this line, U. Cassuto suggests that the verb is in the singular in order to say that they could not have even one other god, and the word “gods” is plural to include any gods (Exodus, 241).",
+        "ja": "[翻訳注] 所有の概念はここでは前置詞ラメド（ל）と存在動詞によって表現されている。לֹא־יִהְיֶה לְךָ (lo’ yihyeh lÿkha、「あなたに〜があってはならない」）。未完了形を伴う否定は強い禁止を表し、「決して〜してはならない」という意味合いを持ち、従順に対する最も強い要求を示す（GKC 317 §107.o 参照）。別の視点として、U. カッスートは、他の神を一つたりとも持ってはいけないことを示すために動詞が単数形であり、あらゆる神々を含めるために「神々」という名詞が複数形になっていると指摘している（Exodus, 241）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The expression עַל־פָּנָי (’al-panay) has several possible interpretations. S. R. Driver suggests “in front of me,” meaning obliging me to behold them, and also giving a prominence above me (Exodus, 193-94). W. F. Albright rendered it “You shall not prefer other gods to me” (From the Stone Age to Christianity, 297, n. 29). B. Jacob (Exodus, 546) illustrates it with marriage: the wife could belong to only one man while every other man was “another man.” They continued to exist but were not available to her. The point is clear from the Law, regardless of the specific way the prepositional phrase is rendered. God demands absolute allegiance, to the exclusion of all other deities. The preposition may imply some antagonism, for false gods would be opposed to Yahweh. U. Cassuto adds that God was in effect saying that anytime Israel turned to a false god they had to know that the Lord was there – it is always in his presence, or before him (Exodus, 241).",
+        "ja": "[翻訳注] 表現 עַל־פָּנָי (’al-panay) にはいくつかの解釈の可能性がある。S. R. ドライバーは「わたしの前で」とし、神にそれらを見させることを強い、また神よりも優先させることを意味すると説明する（Exodus, 193-94）。W. F. オールブライトは「わたしよりも他の神々を優先してはならない」と訳した（From the Stone Age to Christianity, 297, n. 29）。B. ヤコブ（Exodus, 546）はこれを婚姻関係に例えている。妻は一人の夫にのみ属し、他のすべての男は「他の男」となる。彼らは存在し続けるが、彼女にとって関係を持つ対象ではない。前置詞句の個別の訳出にかかわらず、律法から要点は明白である。神は他のすべての神々を排し、排他的な忠誠を要求しておられる。偽りの神々は主（ヤハウェ）に敵対するため、前置詞にはある種の対立の意味合いが含まれている可能性がある。U. カッスートは、イスラエルが偽りの神に向かうときはいつでも、主がそこにおられること、すなわち常に主の御前にあることを知らねばならないと神が述べておられると付け加えている（Exodus, 241）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  A פֶּסֶל (pesel) is an image that was carved out of wood or stone. The Law was concerned with a statue that would be made for the purpose of worship, an idol to be venerated, and not any ordinary statue.",
+        "ja": "[翻訳注] פֶּסֶל (pesel) は木や石から彫られた像を指す。律法が問題としているのは礼拝の目的で造られる像、すなわち崇拝される偶像であり、通常の彫像ではない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word תְּמוּנָה (tÿmunah) refers to the mental pattern from which the פֶּסֶל (pesel) is constructed; it is a real or imagined resemblance. If this is to stand as a second object to the verb, then the verb itself takes a slightly different nuance here. It would convey “you shall not make an image, neither shall you conceive a form” for worship (B. Jacob, Exodus, 547). Some simply make the second word qualify the first: “you shall not make an idol in the form of…” (NIV).",
+        "ja": "[翻訳注] תְּמוּנָה (tÿmunah) という語は、彫像（pesel）を造り出すもととなる観念的類型を指し、実在または想像上の類似物である。これが動詞の第二の目的語となる場合、動詞自体がわずかに異なる意味合いを帯びる。すなわち礼拝のために「彫像を造ってはならず、いかなる形も構想してはならない」という意味を表すことになる（B. Jacob, Exodus, 547）。第二の語を第一の語の修飾語として扱い、「〜の形の偶像を造ってはならない」（NIV）と訳す見解もある。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here the phrase “of anything” has been supplied.",
+        "ja": "[翻訳注] ここでは「いかなるものの」という句が補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “under the earth” (so KJV, ASV, NASB, NRSV).",
+        "ja": "[翻訳注] ヘブライ語は「地の下に」（KJV, ASV, NASB, NRSV も同様）。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The combination of these two verbs customarily refers to the worship of pagan deities (e.g., Deut 17:3: 30:17; Jer 8:2; see J. J. Stamm and M. E. Andrew, The Ten Commandments in Recent Research [SBT], 86). The first verb is לאֹ־תִשְׁתַּחֲוֶה (lo’ tishtakhaveh), now to be classified as a hishtaphel imperfect from חָוָה (khavah; BDB 1005 s.v. שׁחה), “to cause oneself to be low to the ground.” It is used of the true worship of God as well. The second verb is וְלֹא תָעָבְדֵם (vÿlo’ to’ovdem). The two could be taken as a hendiadys: “you will not prostrate yourself to serve them.” In an interesting side comment U. Cassuto (Exodus, 242) offers an explanation of the spelling of the second verb: he suggests that it was spelled with the qamets khatuf vowel to show contempt for pagan worship, as if their conduct does not even warrant a correct spelling of the word “serve.” Gesenius says that the forms like this are anomalous, but he wonders if they were pointed as if the verb was a Hophal with the meaning “you shall not allow yourself to be brought to worship them” (GKC 161 §60.b). But this is unlikely.",
+        "ja": "[翻訳注] これら二つの動詞の組み合わせは、慣習的に異教の神々の礼拝を指す（申命記 17:3; 30:17; エレミヤ 8:2 など。J. J. Stamm and M. E. Andrew, The Ten Commandments in Recent Research [SBT], 86 参照）。第一の動詞は לאֹ־תִשְׁתַּחֲוֶה (lo’ tishtakhaveh) であり、現在では חָוָה (khavah; BDB 1005 s.v. שׁחה) に由来するヒシュタフェル態未完了形「自らを地に伏させる」に分類される。これは真の神への礼拝にも用いられる。第二の動詞は וְלֹא תָעָבְדֵם (vÿlo’ to’ovdem) である。これら二つは二語一意（ヘンディアディス）として「それらに仕えるためにひれ伏してはならない」と解釈することもできる。興味深い注記として、U. カッスート（Exodus, 242）は第二の動詞の綴りについて説明を試みている。異教の礼拝への軽蔑を示すためカメツ・ハトゥフ母音で綴られており、彼らの行為は「仕える」という語の正確な綴りを与えるにも値しないかのような表現であると示唆している。ゲゼニウスは、このような形は変則的であるが、ホファル態のように母音記号が付され「それらを礼拝するよう誘惑されてはならない」という意味を持たせているのではないかと推測している（GKC 161 §60.b）。しかしその可能性は低い。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word “jealous” is the same word often translated “zeal” or “zealous.” The word describes a passionate intensity to protect or defend something that is jeopardized. The word can also have the sense of “envy,” but in that case the object is out of bounds. God’s zeal or jealousy is to protect his people or his institutions or his honor. Yahweh’s honor is bound up with the life of his people.",
+        "ja": "[解説] 「ねたむ（熱情の）」という語は、しばしば「熱心な」「熱意」と訳される語と同じである。この語は、危機に瀕しているものを保護し守るための情熱的な強さを表す。「嫉妬」の意味を持つこともあるが、その場合対象は許容範囲外のものとなる。神の熱意や熱情は、ご自身の民、制度、あるいは栄誉を守るためのものである。主（ヤハウェ）の栄誉は、神の民の命と深く結びついている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Verses 5 and 6 are very concise, and the word פָּקַד (paqad) is difficult to translate. Often rendered “visiting,” it might here be rendered “dealing with” in a negative sense or “punishing,” but it describes positive attention in 13:19. When used of God, it essentially means that God intervenes in the lives of people for blessing or for cursing. Some would simply translate the participle here as “punishing” the children for the sins of the fathers (cf. Lev 18:25; Isa 26:21; Jer 29:32; 36:31; Hos 1:4; Amos 3:2). That is workable, but may not say enough. The verse may indicate that those who hate Yahweh and do not keep his commandments will repeat the sins their fathers committed and suffer for them. Deut 24:16 says that individuals will die for their own sins and not their father’s sins (see also Deut 7:10 and ). It may have more to do with patterns of sin being repeated from generation to generation; if the sin and the guilt were not fully developed in the one generation, then left unchecked they would develop and continue in the next. But it may also indicate that the effects of the sins of the fathers will be experienced in the following generations, especially in the case of Israel as a national entity (U. Cassuto, Exodus, 243). God is showing here that his ethical character is displayed in how he deals with sin and righteousness, all of which he describes as giving strong motivation for loyalty to him and for avoiding idolatry. There is a justice at work in the dealings of God that is not present in the pagan world.",
+        "ja": "[翻訳注] 5節と6節は簡潔な表現であり、פָּקַד (paqad) という語の翻訳は難解である。しばしば「顧みる」「訪れる」と訳されるが、ここでは消極的意味で「対処する」あるいは「罰する」と訳すことができる。ただし13:19では肯定的な配慮を表している。神について用いられる場合、神が人々の人生に介入して祝福や呪いをもたらすことを意味する。ここでの分詞を、父の罪のゆえに子を「罰する」と簡潔に訳す者もいる（レビ記 18:25; イザヤ 26:21; エレミヤ 29:32; 36:31; ホセア 1:4; アモス 3:2 参照）。それは成立する訳であるが、十分ではない可能性がある。この節は、主（ヤハウェ）を拒みその戒めを守らない者が父の犯した罪を繰り返し、その報いを受けることを示している可能性がある。申命記 24:16 は、人は自らの罪のゆえに死ぬべきであり、父の罪のゆえに死ぬのではないと述べている（申命記 7:10 も参照）。これは世代を超えて繰り返される罪の型に関連している可能性がある。ある世代で罪と罪責が十分には顕在化しなかった場合、放置されれば次の世代へと発展し継続する。しかし同時に、父の罪の影響が次の世代に及ぶことを示している可能性もある。とりわけ国家的共同体としてのイスラエルの場合に当てはまる（U. Cassuto, Exodus, 243）。神は罪と義に対する自らの対処において倫理的性質が表れることを示しておられ、神への忠誠と偶像礼拝の回避に向けた動機づけを与えている。異教の世界には存在しない正義が、神の御業には働いている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hebrew word for “generations” is not found in v. 5 or 6. The numbers are short for a longer expression, which is understood as part of the description of the children already mentioned (see Deut 7:9, where “generation” [דּוֹר, dor] is present and more necessary, since “children” have not been mentioned).",
+        "ja": "[翻訳注] 5節や6節には「代」に相当するヘブライ語の名詞は見られない。数字はより長い表現の省略形であり、すでに言及された子供たちの描写の一部として理解される（申命記 7:9 を参照。「子供たち」への言及がないため、「代」[דּוֹר, dor] という語が明記されている）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  This is an important qualification to the principle. The word rendered “reject” is often translated “hate” and carries with it the idea of defiantly rejecting and opposing God and his word. Such people are doomed to carry on the sins of their ancestors and bear guilt with them.",
+        "ja": "[翻訳注] これは原則に対する重要な限定条件である。「拒む」と訳された語はしばしば「憎む」と訳され、神とその言葉に反抗して拒絶し敵対する意味を含む。そのような人々は先祖の罪を受け継ぎ、罪責を負うことになる。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Literally “doing loyal love” (עֹשֶׂה חֶסֶד, ’oseh khesed). The noun refers to God’s covenant loyalty, his faithful love to those who belong to him. These are members of the covenant, recipients of grace, the people of God, whom God will preserve and protect from evil and its effects.",
+        "ja": "[翻訳注] 直訳は「真実の愛を行う」（עֹשֶׂה חֶסֶד, ’oseh khesed）。この名詞は神の契約に対する忠実さ、ご自身に属する者への真実な愛を指す。これらは契約の民、恵みの受容者、神の民であり、神が悪とその影響から保護し守られる対象である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to thousands” or “to thousandth.” After “tenth,” Hebrew uses cardinal numbers for ordinals also. This statement is the antithesis of the preceding line. The “thousands” or “thousandth [generation]” are those who love Yahweh and keep his commands. These are descendants from the righteous, and even associates with them, who benefit from the mercy that God extends to his people. S. R. Driver (Exodus, 195) says that this passage teaches that God’s mercy transcends his wrath; in his providence the beneficial consequences of a life of goodness extend indefinitely further than the retribution that is the penalty for persisting in sin. To say that God’s loyal love extends to thousands of generations or the thousandth generation is parallel to saying that it endures forever (). See also Exod 34:7; Deut 5:10; 7:9; Ps 18:51; Jer 32:18.",
+        "ja": "[翻訳注] ヘブライ語は「千に」または「千番目に」。ヘブライ語では「十番目」以降、基数詞が序数詞としても用いられる。この記述は前行の対句となっている。「千代」または「千番目の世代」とは、主（ヤハウェ）を愛しその戒めを守る者たちである。これらは義人の子孫、さらには彼らと結びつく者たちであり、神がご自身の民に注がれる憐れみの恩恵にあずかる。S. R. ドライバー（Exodus, 195）は、この箇所が神の憐れみが御怒りを超越することを教えていると述べる。神の摂理において、善に生きることのもたらす有益な結果は、罪に固執することへの罰としての応報よりもはるか遠くまで及ぶ。神の契約の愛が千代に及ぶということは、それが永遠に続くということと同義である。出エジプト記 34:7; 申命記 5:10; 7:9; 詩編 18:51; エレミヤ 32:18 も参照。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “use” (NCV, TEV); NIV, CEV, NLT “misuse”; NRSV “make wrongful use of.”",
+        "ja": "[翻訳注] または「用いる」（NCV, TEV）。NIV, CEV, NLT は「悪用する」、NRSV は「不当に用いる」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  שָׁוְא (shav’, “vain”) describes “unreality.” The command prohibits use of the name for any idle, frivolous, or insincere purpose (S. R. Driver, Exodus, 196). This would include perjury, pagan incantations, or idle talk. The name is to be treated with reverence and respect because it is the name of the holy God.",
+        "ja": "[翻訳注] שָׁוְא (shav’、「みだりに、空しく」）は「虚偽・無価値」を表す。この戒めは、無駄な目的、軽率な目的、不誠実な目的のために神の御名を用いることを禁じている（S. R. Driver, Exodus, 196）。これには偽証、異教の呪文、無駄話が含まれる。聖なる神の御名であるゆえに、畏敬と敬意をもって扱われなければならない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “leave unpunished.”",
+        "ja": "[翻訳注] または「罰しないままにしておく」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The text uses the infinitive absolute זָכוֹר (zakhor) for the commandment for the Sabbath day, which is the sign of the Sinaitic Covenant. The infinitive absolute functions in place of the emphatic imperative here (see GKC 346 §113.bb); the absolute stresses the basic verbal idea of the root – remembering. The verb includes the mental activity of recalling and pondering as well as the consequent actions for such remembering.",
+        "ja": "[翻訳注] 本文では、シナイ契約のしるしである安息日の戒めに絶対不定詞 זָכוֹר (zakhor) が用いられている。絶対不定詞はここでは強調命令形の役割を果たしている（GKC 346 §113.bb 参照）。絶対形は語根の基本的な動詞概念である「覚えること」を強調している。この動詞には、思い起こし熟考する内的な働きと、その記憶に基づく行動の双方が含まれる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “Sabbath” is clearly connected to the verb שָׁבַת (shavat, “to cease, desist, rest”). There are all kinds of theories as to the origin of the day, most notably in the Babylonian world, but the differences are striking in so far as the pagan world had these days filled with magic. Nevertheless, the pagan world does bear witness to a tradition of a regular day set aside for special sacrifices. See, for example, H. W. Wolff, “The Day of Rest in the Old Testament,” LTQ 7 (1972): 65-76; H. Routtenberg, “The Laws of Sabbath: Biblical Sources,” Dor le Dor 6 (1977): 41-43, 99-101, 153-55, 204-6; G. Robinson, “The Idea of Rest in the OT and the Search for the Basic Character of Sabbath,” ZAW 92 (1980): 32-42; and M. Tsevat, “The Basic Meaning of the Biblical Sabbath,” ZAW 84 (1972): 447-59.",
+        "ja": "[翻訳注] 「安息日（サバト）」という語は、動詞 שָׁבַת (shavat、「やめる、休止する、休む」）と明白に関連している。この日の起源については特にバビロニア世界を中心に諸説あるが、異教世界におけるそれらの日は呪術的要素に満ちていた点で顕著な違いがある。それでも異教世界は特別な犠牲のために聖別された定期的な日の伝統を証言している。例えば H. W. Wolff, “The Day of Rest in the Old Testament,” LTQ 7 (1972): 65-76; H. Routtenberg, “The Laws of Sabbath: Biblical Sources,” Dor le Dor 6 (1977): 41-43, 99-101, 153-55, 204-6; G. Robinson, “The Idea of Rest in the OT and the Search for the Basic Character of Sabbath,” ZAW 92 (1980): 32-42; M. Tsevat, “The Basic Meaning of the Biblical Sabbath,” ZAW 84 (1972): 447-59 を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Piel infinitive construct provides the purpose of remembering the Sabbath day – to set it apart, to make it distinct from the other days. Verses 9 and 10 explain in part how this was to be done. To set this day apart as holy taught Israel the difference between the holy and the profane, that there was something higher than daily life. If an Israelite bent down to the ground laboring all week, the Sabbath called his attention to the heavens, to pattern life after the Creator (B. Jacob, Exodus, 569-70).",
+        "ja": "[翻訳注] ピエル態不定詞連語形は、安息日を覚える目的、すなわちそれを他の日から聖別して区別することを示している。9節と10節はそれがどのように行われるべきかを部分的に説明している。この日を聖なるものとして聖別することは、聖なるものと俗なるものの違い、日常の生活よりも高次なものが存在することをイスラエルに教えた。週の間ずっと地に屈んで労働していたイスラエル人に対し、安息日は天へと注意を向けさせ、創造主にならって生活を形作るよう促した（B. Jacob, Exodus, 569-70）。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The text has simply “six days,” but this is an adverbial accusative of time, answering how long they were to work (GKC 374 §118.k).",
+        "ja": "[翻訳注] 本文は単に「六日」とあるが、これは時間の副詞的対格であり、どれだけの期間働くべきかに答えている（GKC 374 §118.k）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The imperfect tense has traditionally been rendered as a commandment, “you will labor.” But the point of this commandment is the prohibition of work on the seventh day. The permission nuance of the imperfect works well here.",
+        "ja": "[翻訳注] 未完了形は伝統的に「あなたは働くべし」と命令として訳されてきた。しかしこの戒めの要点は第七日の労働の禁止にある。ここでの未完了形は許可の意味合いとして解釈するのが適している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  This is the occupation, or business of the work week.",
+        "ja": "[翻訳注] これは労働週における職業活動または業務を指す。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The phrase “on it” has been supplied for clarity.",
+        "ja": "[翻訳注] 明確さのために「その日には」という句が補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The wife is omitted in the list, not that she was considered unimportant, nor that she was excluded from the rest, but rather in reflecting her high status. She was not man’s servant, not lesser than the man, but included with the man as an equal before God. The “you” of the commandments is addressed to the Israelites individually, male and female, just as God in the Garden of Eden held both the man and the woman responsible for their individual sins (see B. Jacob, Exodus, 567-68).",
+        "ja": "[解説] この一覧に妻が含まれていないのは、重要視されていないからでも休息から除外されているからでもなく、むしろその高い地位を反映している。彼女は夫の召使いではなく、男性より劣る存在でもなく、神の前に同等な者として夫と共に含まれている。戒めの「あなた」は、エデンの園で神が男女双方に個別の罪の責任を問われたのと同様に、男女を問わずイスラエル人個々人に向けられている（B. Jacob, Exodus, 567-68 参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The Sabbath day was the sign of the Sinaitic Covenant. It required Israel to cease from ordinary labors and devote the day to God. It required Israel to enter into the life of God, to share his Sabbath. It gave them a chance to recall the work of the Creator. But in the NT the apostolic teaching for the Church does not make one day holier than another, but calls for the entire life to be sanctified to God. This teaching is an application of the meaning of entering into the Sabbath of God. The book of Hebrews declares that those who believe in Christ cease from their works and enter into his Sabbath rest. For a Christian keeping Saturday holy is not a requirement from the NT; it may be a good and valuable thing to have a day of rest and refreshment, but it is not a binding law for the Church. The principle of setting aside time to worship and serve the Lord has been carried forward, but the strict regulations have not.",
+        "ja": "[解説] 安息日はシナイ契約のしるしであった。イスラエルは通常の労働を休止し、その日を神に捧げることが求められた。イスラエルが神の命に入り、神の安息を分かち合うことが求められたのである。それは創造主の御業を想起する機会を与えた。しかし新約聖書における教会への使徒の教えは、ある特定の日を他の日より聖とするのではなく、全生涯が神のために聖別されることを求めている。この教えは、神の安息に入るという意味の適用である。ヘブライ人への手紙は、キリストを信じる者が自らの業を休んで神の安息に入ると宣言している。キリスト者にとって土曜日を聖とすることは新約聖書の義務ではない。休息と心身の回復の日を持つことは有益であるが、教会に対する拘束力ある律法ではない。主を礼拝し仕えるために時間を聖別するという原則は継承されているが、厳格な律法規定は継承されていない。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb כַּבֵּד (kabbed) is a Piel imperative; it calls for people to give their parents the respect and honor that is appropriate for them. It could be paraphrased to say, give them the weight of authority that they deserve. Next to God, parents were to be highly valued, cared for, and respected.",
+        "ja": "[翻訳注] 動詞 כַּבֵּד (kabbed) はピエル態命令形である。両親に対して相応しい敬意と誉れを払うよう求めている。彼らにふさわしい権威の重みを与えることと言い換えることもできる。神に次いで、両親は重んじられ、配慮され、敬われるべき存在であった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “that your days may be long.”",
+        "ja": "[翻訳注] ヘブライ語は「あなたの日々が長くなるために」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The promise here is national rather than individual, although it is certainly true that the blessing of life was promised for anyone who was obedient to God’s commands (Deut 4:1, 8:1, etc.). But as W. C. Kaiser (“Exodus,” EBC 2:424) summarizes, the land that was promised was the land of Canaan, and the duration of Israel in the land was to be based on morality and the fear of God as expressed in the home (Deut 4:26, 33, 40; 32:46-47). The captivity was in part caused by a breakdown in this area (Ezek 22:7, 15). Malachi would announce at the end of his book that Elijah would come at the end of the age to turn the hearts of the children and the parents toward each other again.",
+        "ja": "[解説] ここでの約束は個人というよりは民族全体に対するものである。もちろん、神の戒めに従順なすべての人に命の祝福が約束されていたことも事実である（申命記 4:1; 8:1 など）。しかし W. C. カイザー（“Exodus,” EBC 2:424）が要約するように、約束された地はカナンの地であり、イスラエルがその地に留まる期間は、家庭において表明される道徳と主への恐れに基づいていた（申命記 4:26, 33, 40; 32:46-47）。捕囚の要因の一つは、この領域における崩壊であった（エゼキエル 22:7, 15）。マラキ書の結びでは、終わりの時代にエリヤが来て子供たちの心と親の心を互いに向けさせると予告されている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb רָצַח (ratsakh) refers to the premeditated or accidental taking of the life of another human being; it includes any unauthorized killing (it is used for the punishment of a murderer, but that would not be included in the prohibition). This commandment teaches the sanctity of all human life. See J. H. Yoder, “Exodus 20,13: ‘Thou Shalt Not Kill’,” Int 34 (1980): 394-99; and A. Phillips, “Another Look at Murder,” JJS 28 (1977): 105-26.",
+        "ja": "[翻訳注] 動詞 רָצַח (ratsakh) は、計画的または過失による他者の生命の剥奪を指し、法的に認められていないあらゆる殺害を含む（殺人者に対する処罰にも用いられるが、それは禁止条項には含まれない）。この戒めは人間の命の尊厳を教えている。J. H. Yoder, “Exodus 20,13: ‘Thou Shalt Not Kill’,” Int 34 (1980): 394-99; A. Phillips, “Another Look at Murder,” JJS 28 (1977): 105-26 を参照。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  This is a sin against the marriage of a fellow citizen – it destroys the home. The Law distinguished between adultery (which had a death penalty) and sexual contact with a young woman (which carried a monetary fine and usually marriage if the father was willing). So it distinguished fornication and adultery. Both were sins, but the significance of each was different. In the ancient world this sin is often referred to as “the great sin.”",
+        "ja": "[解説] これは同胞の婚姻に対する罪であり、家庭を破壊する。律法は姦淫（死刑に処された）と、若い女性との性的関係（金銭的罰金が科され、父親が同意すれば婚姻となった）とを区別していた。すなわち不品行と姦淫を区別していたのである。双方が罪であったが、それぞれの持つ重大性は異なっていた。古代世界においてこの罪はしばしば「大いなる罪」と呼ばれた。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[解説]  This law protected the property of the Israelite citizen. See D. Little, “Exodus 20,15: ‘Thou Shalt Not Steal’,” Int 34 (1980): 399-405.",
+        "ja": "[解説] この律法はイスラエル市民の財産を保護した。D. Little, “Exodus 20,15: ‘Thou Shalt Not Steal’,” Int 34 (1980): 399-405 を参照。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “answer” as in a court of law.",
+        "ja": "[翻訳注] ヘブライ語は法廷における「答える」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The expression עֵד שָׁקֶר (’ed shaqer) means “a lying witness” (B. S. Childs, Exodus [OTL], 388). In this verse the noun is an adverbial accusative, “you will not answer as a lying witness.” The prohibition is against perjury. While the precise reference would be to legal proceedings, the law probably had a broader application to lying about other people in general (see Lev 5:1; Hos 4:2).",
+        "ja": "[翻訳注] 表現 עֵד שָׁקֶר (’ed shaqer) は「偽りの証人」を意味する（B. S. Childs, Exodus [OTL], 388）。この節において名詞は副詞的対格であり、「偽りの証人として答えてはならない」となる。この禁止は偽証に対するものである。厳密には法的手続きを指しているが、この律法は他者について嘘をつく行為全般への広範な適用を持っていたと考えられる（レビ記 5:1; ホセア 4:2 参照）。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb חָמַד (khamad) focuses not on an external act but on an internal mental activity behind the act, the motivation for it. The word can be used in a very good sense (Ps 19:10; 68:16), but it has a bad connotation in contexts where the object desired is off limits. This command is aimed at curtailing the greedy desire for something belonging to a neighbor, a desire that leads to the taking of it or the attempt to take it. It was used in the story of the Garden of Eden for the tree that was desired.",
+        "ja": "[翻訳注] 動詞 חָמַד (khamad) は外的な行為ではなく、行為の背後にある内的な思考活動、すなわちその動機に焦点を当てている。この語は肯定的な意味で用いられることもあるが（詩編 19:10; 68:16）、望まれる対象が禁じられている文脈では否定的な意味合いを持つ。この戒めは、隣人に属するものを奪うことや奪おうと試みることにつながる貪欲な欲望を抑制することを目的としている。エデンの園の物語において、慕わしい木についてこの語が用いられた。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See further G. Wittenburg, “The Tenth Commandment in the Old Testament,” Journal for Theology in South Africa 21 (1978): 3-17: and E. W. Nicholson, “The Decalogue as the Direct Address of God,” VT 27 (1977): 422-33.",
+        "ja": "[解説] 詳細は G. Wittenburg, “The Tenth Commandment in the Old Testament,” Journal for Theology in South Africa 21 (1978): 3-17; E. W. Nicholson, “The Decalogue as the Direct Address of God,” VT 27 (1977): 422-33 を参照。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The participle is used here for durative action in the past time (GKC 359 §116.o).",
+        "ja": "[翻訳注] ここでの分詞は過去における継続的動作を表すために用いられている（GKC 359 §116.o）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb “to see” (רָאָה, ra’ah) refers to seeing with all the senses, or perceiving. W. C. Kaiser suggests that this is an example of the figure of speech called zeugma because the verb “saw” yokes together two objects, one that suits the verb and the other that does not. So, the verb “heard” is inserted here to clarify (“Exodus,” EBC 2:427).",
+        "ja": "[翻訳注] 動詞「見る」（רָאָה, ra’ah）は、すべての感覚器官で知覚することを指す。W. C. カイザーは、動詞「見た」が適合する対象と適合しない対象の二つを結びつけているため、これが結合法（ズィウグマ）の修辞例であると示唆している。したがって明確化のために動詞「聞いた」が補われている（“Exodus,” EBC 2:427）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb “saw” is supplied here because it is expected in English (see the previous note on “heard”).",
+        "ja": "[翻訳注] 動詞「見た」は英語の語法上必要とされるため補われている（「聞いた」に関する直前の注を参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The preterite with vav (ו) consecutive is here subordinated as a temporal clause to the following clause, which receives the prominence.",
+        "ja": "[翻訳注] ワウ（ו）継続詞を伴う完了過去は、ここでは強意を受ける後続の節に対し、時を表す従属節として機能している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The meaning of נוּעַ (nua’) is “to shake, sway to and fro” in fear. Compare Isa 7:2 – “and his heart shook…as the trees of the forest shake with the wind.”",
+        "ja": "[翻訳注] נוּעַ (nua’) の意味は、恐怖で「震える、激しく揺れ動く」である。イザヤ 7:2「その心は…森の木々が風に揺らぐように揺らいだ」と比較。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Heb “and they stood from/at a distance.”",
+        "ja": "[翻訳注] ヘブライ語は「そして彼らは遠く離れて立った」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is a Piel imperative. In this context it has more of the sense of a request than a command. The independent personal pronoun “you” emphasizes the subject and forms the contrast with God’s speaking.",
+        "ja": "[翻訳注] 動詞はピエル態命令形である。この文脈では命令というよりも要請の意味合いを持つ。独立人称代名詞「あなた」は主語を強調し、神の語りかけとの対比を形成している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  נַסּוֹת (nassot) is the Piel infinitive construct; it forms the purpose of God’s coming with all the accompanying phenomena. The verb can mean “to try, test, prove.” The sense of “prove” fits this context best because the terrifying phenomena were intended to put the fear of God in their hearts so that they would obey. In other words, God was inspiring them to obey, not simply testing to see if they would.",
+        "ja": "[翻訳注] נַסּוֹת (nassot) はピエル態不定詞連語形であり、あらゆる自然現象を伴って神が臨在された目的を構成している。この動詞は「試みる、試す、立証する」を意味し得る。恐るべき現象が彼らの心に神への恐れを生じさせ従順に導くことを意図していたため、この文脈では「立証する（練達させる）」という意味が適している。すなわち神は従順であるかどうかを単に試すだけでなく、従順へと促しておられたのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The suffix on the noun is an objective genitive, referring to the fear that the people would have of God (GKC 439 §135.m).",
+        "ja": "[翻訳注] 名詞の接尾辞は目的語的属格であり、民が神に対して抱く恐れを指す（GKC 439 §135.m）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The negative form לְבִלְתִּי (lÿvilti) is used here with the imperfect tense (see for other examples GKC 483 §152.x). This gives the imperfect the nuance of a final imperfect: that you might not sin. Others: to keep you from sin.",
+        "ja": "[翻訳注] ここでは否定詞 לְבִלְתִּי (lÿvilti) が未完了形と共に用いられている（他の例については GKC 483 §152.x 参照）。これにより未完了形に目的（〜しないように）の意味合いが付与される。「罪を犯さないようにするため」。他の訳：「あなた方を罪から守るため」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and they stood”; the referent (the people) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「そして彼らは立った」。明確化のために指示対象（民）が訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word עֲרָפֶל (’arafel) is used in poetry in Ps 18:9 and 1 Kgs 8:12; and it is used in Deut 4:11, 5:22 [19].",
+        "ja": "[解説] עֲרָפֶל (’arafel) という語は詩文において詩編 18:9 および列王記上 8:12 で用いられ、申命記 4:11, 5:22 [19] でも用いられている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  It will not be hard to expound the passage on the Ten Commandments once their place in scripture has been determined. They, for the most part, are reiterated in the NT, in one way or another, usually with a much higher standard that requires attention to the spirit of the laws. Thus, these laws reveal God’s standard of righteousness by revealing sin. No wonder the Israelites were afraid when they saw the manifestation of God and heard his laws. When the whole covenant is considered, preamble and all, then it becomes clear that the motivation for obeying the commands is the person and the work of the covenant God – the one who redeemed his people. Obedience then becomes a response of devotion and adoration to the Redeemer who set them free. It becomes loyal service, not enslavement to laws. The point could be worded this way: God requires that his covenant people, whom he has redeemed, and to whom he has revealed himself, give their absolute allegiance and obedience to him. This means they will worship and serve him and safeguard the well-being of each other.",
+        "ja": "[解説] 聖書における十戒の位置づけが定まれば、この箇所の解き明かしは容易である。それらの大部分は何らかの形で新約聖書において再確認されており、律法の精神への注意を求める、より高次の基準となっている。このように、これらの律法は罪を明らかにすることによって神の義の基準を啓示している。イスラエル人が神の顕現を目撃し律法を聞いた際に恐れたのは当然であった。前文を含む契約全体を考察するとき、戒めに従う動機は契約の神その方と、御民を贖われたその御業にあることが明白となる。従順とは、民を解放された贖い主に対する献身と崇敬の応答となる。それは律法への隷属ではなく、忠実な奉仕となる。要点は次のように表現できる。神はご自身が贖い、ご自身を啓示された契約の民に対し、神への忠誠と従順を求めておられる。これは、彼らが神を礼拝して仕え、互いの福祉を守ることを意味している。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  Based on the revelation of the holy sovereign God, this pericope instructs Israel on the form of proper worship of such a God. It focuses on the altar, the centerpiece of worship. The point of the section is this: those who worship this holy God must preserve holiness in the way they worship – they worship where he permits, in the manner he prescribes, and with the blessings he promises. This paragraph is said to open the Book of the Covenant, which specifically rules on matters of life and worship.",
+        "ja": "[解説] 聖なる主権者なる神の啓示に基づき、この区分は神にふさわしい礼拝の形式をイスラエルに教えている。礼拝の中心である祭壇に焦点が当てられている。この区分の要点は次の通りである。聖なる神を礼拝する者は、礼拝の方法において聖潔を保たねばならず、神が許された場所で、神が定められた方法で、神が約束された祝福をもって礼拝する。この段落は、生活と礼拝に関する具体的な規定を定めた契約の書の開始部分とされる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and Yahweh said.”",
+        "ja": "[翻訳注] ヘブライ語は「そして主（ヤハウェ）は言われた」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The direct object of the verb must be “gods of silver.” The prepositional phrase modifies the whole verse to say that these gods would then be alongside the one true God.",
+        "ja": "[翻訳注] 動詞の直接目的語は「銀の神々」でなければならない。前置詞句は節全体を修飾し、これらの神々が唯一の真の神と並んで置かれることを意味している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “neither will you make for you gods of gold.”[解説]  U. Cassuto explains that by the understanding of parallelism each of the halves apply to the whole verse, so that “with me” and “for you” concern gods of silver or gods of gold (Exodus, 255).",
+        "ja": "[翻訳注] ヘブライ語は「また自分たちのために金の神々を造ってはならない」。[解説] U. カッスートは、平行句の理解によって節の前半と後半の双方が節全体に適用され、「わたしと共に」と「自分たちのために」は銀の神々にも金の神々にも関わると説明している（Exodus, 255）。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  The instructions here call for the altar to be made of natural things, not things manufactured or shaped by man. The altar was either to be made of clumps of earth or natural, unhewn rocks.",
+        "ja": "[解説] ここでの指示は、祭壇が人の手で加工されたり形作られたりしたものではなく、自然のもので造られることを求めている。祭壇は土の塊か、加工されていない自然の石で造られるべきであった。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The “burnt offering” is the offering prescribed in . Everything of this animal went up in smoke as a sweet aroma to God. It signified complete surrender by the worshiper who brought the animal, and complete acceptance by God, thereby making atonement. The “peace offering” is legislated in Lev 3 and 7. This was a communal meal offering to celebrate being at peace with God. It was made usually for thanksgiving, for payment of vows, or as a freewill offering.",
+        "ja": "[解説] 「全焼のささげ物」はレビ記1章で規定されたささげ物である。この動物のすべてが煙となって神への香ばしい香りとして立ち上った。それは動物を携えてきた礼拝者の全き自己献身と、神による受納を意味し、贖罪をなした。「和解のいけにえ（酬恩祭）」はレビ記3章および7章で規定されている。これは神との平和を祝う共同の食事のささげ物であった。通常、感謝のため、誓願を果たすため、あるいは自発的なささげ物として捧げられた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Gesenius lists this as one of the few places where the noun in construct seems to be indefinite in spite of the fact that the genitive has the article. He says בְּכָל־הַמָּקוֹם (bÿkhol-hammaqom) means “in all the place, sc. of the sanctuary, and is a dogmatic correction of “in every place” (כָּל־מָקוֹם, kol-maqom). See GKC 412 §127.e.",
+        "ja": "[翻訳注] ゲゼニウスはこれを、属格に冠詞が付いているにもかかわらず連語形の名詞が不定であるように見える数少ない箇所の一つとして挙げている。彼は בְּכָל־הַמָּקוֹם (bÿkhol-hammaqom) が「聖所のすべての場所で」を意味し、「すべての場所で」（כָּל־מָקוֹם, kol-maqom）に対する教理的修正であると述べている（GKC 412 §127.e 参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The verb is זָכַר (zakhar, “to remember”), but in the Hiphil especially it can mean more than remember or cause to remember (remind) – it has the sense of praise or honor. B. S. Childs says it has a denominative meaning, “to proclaim” (Exodus [OTL], 447). The point of the verse is that God will give Israel reason for praising and honoring him, and in every place that occurs he will make his presence known by blessing them.",
+        "ja": "[翻訳注] 動詞は זָכַר (zakhar、「覚える」）であるが、特にヒフィル態では覚えることや思い出させること以上の意味を持ち、賛美する、あるいは誉れを帰するという意味合いを持つ。B. S. チャイルズは「宣言する」という派生的意味を持つと述べる（Exodus [OTL], 447）。この節の要点は、神がイスラエルにご自身を賛美し崇める理由を与えられ、それが生じるすべての場所で祝福を通じて自らの臨在を示されるということである。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “them” referring to the stones.",
+        "ja": "[翻訳注] ヘブライ語は石を指す「それらを」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “of hewn stones.” Gesenius classifies this as an adverbial accusative – “you shall not build them (the stones of the altar) as hewn stones.” The remoter accusative is in apposition to the nearer (GKC 372 §117.kk).",
+        "ja": "[翻訳注] ヘブライ語は「切り石で」。ゲゼニウスはこれを副詞的対格に分類し、「それら（祭壇の石）を切り石として築いてはならない」とする。離れた対格が近い対格と同格になっている（GKC 372 §117.kk）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb is a preterite with vav (ו) consecutive. It forms the apodosis in a conditional clause: “if you lift up your tool on it…you have defiled it.”",
+        "ja": "[翻訳注] 動詞はワウ（ו）継続詞を伴う完了過去である。条件節における帰結節を形成している。「もし石の上に道具を当てるなら…あなたはそれを汚したことになる」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “uncovered” (so ASV, NAB).",
+        "ja": "[翻訳注] ヘブライ語は「あらわにされる」（ASV, NAB も同様）。"
+      }
+    ]
+  }
+}
