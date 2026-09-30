@@ -186,10 +186,11 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
             "gemini-3.7-flash",
             "gemini-3.5-flash",
         ]
+        api_prompt = prompt + "\n\nHere is the JSON data to translate:\n" + json_str
         for model_name in fallback_models:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={API_KEY}"
             payload = {
-                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+                "contents": [{"role": "user", "parts": [{"text": api_prompt}]}],
                 "generationConfig": {"responseMimeType": "application/json"}
             }
             max_retries_api = 3
@@ -333,10 +334,15 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
     # 翻訳結果の構築
     for i, v in enumerate(translated_data.get("verses", [])):
         verse_num_raw = v.get("verse", v.get("verse_num"))
+        verse_num = None
         if verse_num_raw is not None:
-            verse_num = int(verse_num_raw)
-        else:
-            # モデルが節番号を省略した場合、元のテキストデータの順番から推測
+            # 数字以外の文字が含まれている場合（'8, ' など）を除去して安全にキャスト
+            cleaned_num = ''.join(c for c in str(verse_num_raw) if c.isdigit())
+            if cleaned_num:
+                verse_num = int(cleaned_num)
+        
+        if verse_num is None:
+            # モデルが節番号を省略したり不正な値の場合、元のテキストデータの順番から推測
             raw_verses = raw_data.get("text_data", [])
             if i < len(raw_verses):
                 verse_num = int(raw_verses[i].get("verse_num", raw_verses[i].get("verse", 0)))
@@ -374,7 +380,7 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
         
         for i, raw_note in enumerate(notes_list):
             pos = raw_note[0]
-            en_note = raw_note[1]
+            en_note = clean_note_html(raw_note[1])
             
             # モデルの出力から対応するposのjaを探す
             ja_note = ""
