@@ -1,0 +1,752 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The antecedent of the pronoun &#8220;I&#8221; is the angel, not Daniel. The traditional chapter division at this point, and the presence of a chronological note in the verse similar to ones used elsewhere in the book to position Daniel&#8217;s activities in relation to imperial affairs, sometimes lead to confusion on this matter.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Perhaps these <i>three more kings</i> are Cambyses (ca. 530-522 <sc>B.C.</sc>), Pseudo-Smerdis (ca. 522 <sc>B.C.</sc>), and Darius I Hystaspes (ca. 522-486 <sc>B.C.</sc>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>fourth king</i> is Xerxes I (ca. 486-465 <sc>B.C.</sc>). The following reference to <i>one of his chiefs</i> apparently has in view Seleucus Nicator.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;rich with great riches.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The text is difficult. The Hebrew has here <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1514;</font> (&#8217;<font face=\"Scholar\">et</font>), the marker of a definite direct object. As it stands, this would suggest the meaning that &#8220;he will arouse everyone, that is, the kingdom of Greece.&#8221; The context, however, seems to suggest the idea that this Persian king will arouse in hostility against Greece the constituent elements of his own empire. This requires supplying the word &#8220;against,&#8221; which is not actually present in the Hebrew text.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>powerful king</i> mentioned here is Alexander the Great (ca. 336-323 <sc>B.C.</sc>).</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and when he stands.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the heavens.&#8221; The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1497;&#1460;&#1501;</font> (<font face=\"Scholar\">shamayim</font>) may be translated &#8220;heavens&#8221; or &#8220;sky&#8221; depending on the context.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>king of the south</i> is Ptolemy I Soter (ca. 323-285 <sc>B.C.</sc>). The following reference to <i>one of his subordinates</i> apparently has in view Seleucus I Nicator (ca. 311-280 <sc>B.C.</sc>). Throughout the remainder of chap.  the expressions &#8220;king of the south&#8221; and &#8220;king of the north&#8221; repeatedly occur. It is clear, however, that these terms are being used generically to describe the Ptolemaic king (i.e., &#8220;of the south&#8221;) or the Seleucid king (i.e., &#8220;of the north&#8221;) who happens to be in power at any particular time. The specific identity of these kings can be established more or less successfully by a comparison of this chapter with the available extra-biblical records that discuss the history of the intertestamental period. In the following notes the generally accepted identifications are briefly mentioned.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;princes.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he&#8221;; the referent (the subordinate prince mentioned in the previous clause) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;be strong against.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;greater than his kingdom.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Here <i>they</i> refers to Ptolemy II Philadelphus (ca. 285-246 <sc>B.C.</sc>) and Antiochus II Theos (ca. 262-246 <sc>B.C.</sc>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>daughter</i> refers to Berenice, who was given in marriage to Antiochus II Theos.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the strength of the arm.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;stand.&#8221; So also in vv. <span class=\"bibleref\" title=\"Daniel 11:7,8,11,13\">7, 8, 11, 13</span>.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and his arm.&#8221; Some understand this to refer to the descendants of the king of the north.</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The present translation reads <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1463;&#1500;&#1456;&#1491;&#1468;&#1464;&#1492;</font> (<font face=\"Scholar\">yaldah</font>, &#8220;her child&#8221;) rather than the MT <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1465;&#1500;&#1456;&#1491;&#1464;&#1492;&#1468;</font> (<font face=\"Scholar\">yol&#255;dah</font>, &#8220;the one who begot her&#8221;). Cf. Theodotion, the Syriac, and the Vulgate.</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Antiochus II eventually divorced Berenice and remarried his former wife Laodice, who then poisoned her husband, had Berenice put to death, and installed her own son, Seleucus II Callinicus (ca. 246-227 <sc>B.C.</sc>), as the Seleucid king.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The reference is to the king of Egypt.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the stock of her roots.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> The reference to <i>one from her family line</i> is probably to Berenice&#8217;s brother, Ptolemy III Euergetes (ca. 246-221 <sc>B.C.</sc>).</p></div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will deal with them and prevail.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew preposition <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1503;</font> (<font face=\"Scholar\">min</font>) is used here with the verb <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1502;&#1463;&#1491;</font> (&#8217;<font face=\"Scholar\">amad</font>, &#8220;to stand&#8221;). It probably has a sense of separation (&#8220;stand <i>away from</i>&#8221;), although it may also be understood in an adversative sense (&#8220;stand <i>against</i>&#8221;).</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (the king of the north) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>sons</i> of Seleucus II Callinicus were Seleucus III Ceraunus (ca. 227-223 <sc>B.C.</sc>) and Antiochus III the Great (ca. 223-187 <sc>B.C.</sc>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his&#8221;; the referent (the enemy of the king of the north) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he will certainly come and overflow and cross over and return and be aroused unto a fortress.&#8221; The translation has attempted to simplify the syntax of this difficult sequence.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>king of the south</i> refers to Ptolemy IV Philopator (ca. 221-204 <sc>B.C.</sc>).</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his heart will be lifted up.&#8221; The referent (the king of the south) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;cause to fall.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;of myriads.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;stand against.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This was Ptolemy V Epiphanes (ca. 203-181 <sc>B.C.</sc>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;sons of violence.&#8221; &#8220;Son(s) is sometimes used idiomatically in Hebrew to indicate that someone is characterized by a certain quality. So the expression &#8220;sons of violence&#8221; means that these individuals will be characterized by violent deeds.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to cause to stand.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>well-fortified city</i> is apparently Sidon. Its capture from the Ptolemies by Antiochus the Great was a strategic victory for the Seleucid kingdom.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;choice troops&#8221; (BDB 104 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1489;&#1456;&#1495;&#1464;&#1512;</font>), or &#8220;elite troops&#8221; (<i>HALOT</i> 542 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1489;&#1456;&#1495;&#1464;&#1512;</font>).</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hand.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he will set his face.&#8221; Cf. vv. <span class=\"bibleref\" title=\"Daniel 11:18,19\">18, 19</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The present translation reads <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1461;&#1497;&#1513;&#1473;&#1464;&#1512;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">mesharim</font>, &#8220;alliances&#8221;) for the MT <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1460;&#1497;&#1513;&#1473;&#1464;&#1512;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">viysharim</font>, &#8220;uprightness&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;him&#8221;; the referent (the king of the south) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the daughter of the women.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> The <i>daughter</i> refers to Cleopatra, the daughter of Antiochus, who was given in marriage to Ptolemy V.</p></div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his face.&#8221; See v. <span class=\"bibleref\" title=\"Daniel 11:19\">19</span> as well.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>commander</i> is probably the Roman commander, Lucius Cornelius Scipio.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew here is difficult in that the negative <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1460;&#1500;&#1456;&#1514;&#1468;&#1460;&#1497;</font> (<font face=\"Scholar\">biltiy</font>, &#8220;not&#8221;) is used in an unusual way. The sense is not entirely clear.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his shameful conduct he will return to him.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;on his place.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>one who will send out an exactor of tribute</i> was Seleucus IV Philopator (ca. 187-176 <sc>B.C.</sc>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Perhaps this <i>exactor of tribute</i> was Heliodorus (cf. 2 Maccabees 3).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;broken&#8221; or &#8220;shattered.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>despicable person to whom the royal honor has not been rightfully conferred</i> is Antiochus IV Epiphanes (ca. 175-164 <sc>B.C.</sc>).</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;arms.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The present translation reads <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1460;&#1513;&#1473;&#1468;&#1464;&#1496;&#1465;&#1507;</font> (<font face=\"Scholar\">hishatof</font>), Niphal infinitive absolute of <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1496;&#1463;&#1507;</font> (<font face=\"Scholar\">shataf</font>, &#8220;to overflow&#8221;), for the MT <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1463;&#1513;&#1473;&#1468;&#1462;&#1496;&#1462;&#1507;</font> (<font face=\"Scholar\">hashetef</font>, &#8220;flood&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;in defeat&#8221; are added in the translation for clarification.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a prince of the covenant.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;broken&#8221; or &#8220;shattered.&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The preposition <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1503;</font> (<font face=\"Scholar\">min</font>) is probably temporal here (so BDB 583 s.v. <span class=\"bibleref\" title=\"Daniel 11:7\">7</span>.c; cf. KJV, NAB, NASB, NIV, NRSV), although it could also be understood here as indicating means (so J. Goldingay, <i>Daniel</i> [WBC], 279, n. 23a; cf. TEV, NLT).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;nation.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and unto a time.&#8221;</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heart.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>king of the south</i> was Ptolemy Philometer (ca. 181-145 <sc>B.C.</sc>).</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The present translation reads <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1460;&#1513;&#1473;&#1464;&#1496;&#1461;&#1507;</font> (<font face=\"Scholar\">yishatef</font>, passive) rather than the MT <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1460;&#1513;&#1473;&#1456;&#1496;&#1493;&#1465;&#1507;</font> (<font face=\"Scholar\">yishtof</font>, active).</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heart.&#8221; So also in v. <span class=\"bibleref\" title=\"Daniel 11:28\">28</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;speak.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (the king of the north) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The name <i>Kittim</i> has various designations in extra-biblical literature. It can refer to a location on the island of Cyprus, or more generally to the island itself, or it can be an inclusive term to refer to parts of the Mediterranean world that lay west of the Middle East (e.g., Rome). For <i>ships of Kittim</i> the Greek OT (LXX) has &#8220;Romans,&#8221; an interpretation followed by a few English versions (e.g., TEV). A number of times in the Dead Sea Scrolls the word is used in reference to the Romans. Other English versions are more generic: &#8220;[ships] of the western coastlands&#8221; (NIV, NLT); &#8220;from the west&#8221; (NCV, CEV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This is apparently a reference to the Roman forces, led by Gaius Popilius Laenas, which confronted Antiochus when he came to Egypt and demanded that he withdraw or face the wrath of Rome. Antiochus wisely withdrew from Egypt, albeit in a state of bitter frustration.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;show regard for.&#8221;</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;arms.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sanctuary, the fortress.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will give.&#8221;</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;corrupt.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;acted wickedly toward.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;know.&#8221; The term &#8220;know&#8221; sometimes means &#8220;to recognize.&#8221; In relational contexts it can have the connotation &#8220;recognize the authority of, be loyal to,&#8221; as it does here.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This is an allusion to the Maccabean revolt, which struggled to bring about Jewish independence in the second century <sc>B.C</sc>.</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the many.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;stumble.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;by burning.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;days.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The identity of this king is problematic. If vv. <span class=\"bibleref\" title=\"Daniel 11:36-45\">36-45</span> continue the description of Antiochus Epiphanes, the account must be viewed as erroneous, since the details do not match what is known of Antiochus&#8217; latter days. Most modern scholars take this view, concluding that this section was written just shortly before the death of Antiochus and that the writer erred on several key points as he tried to predict what would follow the events of his own day. Conservative scholars, however, usually understand the reference to shift at this point to an eschatological figure, <i>viz</i>., the Antichrist. The chronological gap that this would presuppose to be in the narrative is not necessarily a problem, since by all accounts there are many chronological gaps throughout the chapter, as the historical figures intended by such expressions as &#8220;king of the north&#8221; and &#8220;king of the south&#8221; repeatedly shift.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;the time of&#8221; are added in the translation for clarification.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;has been done.&#8221; The Hebrew verb used here is the perfect of certitude, emphasizing the certainty of fulfillment.</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;consider.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;[the one] desired by women.&#8221; The referent has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;act against.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;with.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or perhaps &#8220;for a reward.&#8221;</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;engage in thrusting.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The referent of the pronoun is most likely the king of the south, in which case the text describes the king of the north countering the attack of the king of the south.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;many ships.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This most likely refers to the king of the north who, in response to the aggression of the king of the south, launches an invasion of the southern regions.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and will overflow and pass over.&#8221;</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>beautiful land</i> is a cryptic reference to the land of Israel.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This can be understood as &#8220;many people&#8221; (cf. NRSV) or &#8220;many countries&#8221; (cf. NASB, NIV, NLT).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;be delivered from his hand.&#8221;</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hand.&#8221;</div>"
+      ]
+    ],
+    "43": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Nubians&#8221; (NIV, NCV); <i>Heb</i> &#8220;Cushites.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Libyans and Cushites [will be] at his footsteps.&#8221;</div>"
+      ]
+    ],
+    "45": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Presumably <i>seas</i> refers to the Mediterranean Sea and the Dead Sea.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "1",
+      "text": "“And in the first year of Darius the Mede, I stood to strengthen him and to provide protection for him.)"
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "2",
+      "text": "Now I will tell you the truth.“Three more kings will arise for Persia. Then a fourth king will be unusually rich, more so than all who preceded him. When he has amassed power through his riches, he will stir up everyone against the kingdom of Greece. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "3",
+      "text": "Then a powerful king will arise, exercising great authority and doing as he pleases. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "4",
+      "text": "Shortly after his rise to power, his kingdom will be broken up and distributed toward the four winds of the sky—but not to his posterity or with the authority he exercised, for his kingdom will be uprooted and distributed to others besides these. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "5",
+      "text": "“Then the king of the south and one of his subordinates will grow strong. His subordinate will resist him and will rule a kingdom greater than his."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "6",
+      "text": "After some years have passed, they will form an alliance. Then the daughter of the king of the south will come to the king of the north to make an agreement, but she will not retain her power, nor will he continue in his strength. She, together with the one who brought her, her child, and her benefactor will all be delivered over at that time. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "7",
+      "text": "“There will arise in his place one from her family line who will come against their army and will enter the stronghold of the king of the north and will move against them successfully. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "8",
+      "text": "He will also take their gods into captivity to Egypt, along with their cast images and prized utensils of silver and gold. Then he will withdraw for some years from the king of the north. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "9",
+      "text": "Then the king of the north will advance against the empire of the king of the south, but will withdraw to his own land. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "10",
+      "text": "His sons will wage war, mustering a large army that will advance like an overflowing river and carrying the battle all the way to the enemy’s fortress. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "11",
+      "text": "“Then the king of the south will be enraged and will march out to fight against the king of the north, who will also muster a large army, but that army will be delivered into his hand. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "12",
+      "text": "When the army is taken away, the king of the south will become arrogant. He will be responsible for the death of thousands and thousands of people, but he will not continue to prevail. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "13",
+      "text": "For the king of the north will again muster an army, one larger than before. At the end of some years he will advance with a huge army and enormous supplies. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "14",
+      "text": "“In those times many will oppose the king of the south. Those who are violent among your own people will rise up in confirmation of the vision, but they will falter. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "15",
+      "text": "Then the king of the north will advance and will build siege mounds and capture a well-fortified city. The forces of the south will not prevail, not even his finest contingents. They will have no strength to prevail. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "16",
+      "text": "The one advancing against him will do as he pleases, and no one will be able to stand before him. He will prevail in the beautiful land, and its annihilation will be within his power. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "17",
+      "text": "His intention will be to come with the strength of his entire kingdom, and he will form alliances. He will give the king of the south a daughter in marriage in order to destroy the kingdom, but it will not turn out to his advantage."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "18",
+      "text": "Then he will turn his attention to the coastal regions and will capture many of them. But a commander will bring his shameful conduct to a halt; in addition, he will make him pay for his shameful conduct. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "19",
+      "text": "He will then turn his attention to the fortresses of his own land, but he will stumble and fall, not to be found again."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "20",
+      "text": "There will arise after him one who will send out an exactor of tribute to enhance the splendor of the kingdom, but after a few days he will be destroyed, though not in anger or battle. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "21",
+      "text": "“Then there will arise in his place a despicable person to whom the royal honor has not been rightfully conferred. He will come on the scene in a time of prosperity and will seize the kingdom through deceit. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "22",
+      "text": "Armies will be suddenly swept away in defeat before him; both they and a covenant leader will be destroyed."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "23",
+      "text": "After entering into an alliance with him, he will behave treacherously; he will ascend to power with only a small force. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "24",
+      "text": "In a time of prosperity for the most productive areas of the province, he will come and accomplish what neither his fathers nor their fathers accomplished. He will distribute loot, spoils, and property to his followers, and he will devise plans against fortified cities, but not for long. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "25",
+      "text": "He will rouse his strength and enthusiasm against the king of the south with a large army. The king of the south will wage war with a large and very powerful army, but he will not be able to prevail because of the plans devised against him. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "26",
+      "text": "Those who share the king’s fine food will attempt to destroy him, and his army will be swept away; many will be killed in battle."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "27",
+      "text": "These two kings, their minds filled with evil intentions, will trade lies with one another at the same table. But it will not succeed, for there is still an end at the appointed time."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "28",
+      "text": "Then the king of the north will return to his own land with much property. His mind will be set against the holy covenant. He will take action, and then return to his own land. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "29",
+      "text": "At an appointed time he will again invade the south, but this latter visit will not turn out the way the former one did."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "30",
+      "text": "The ships of Kittim will come against him, leaving him disheartened. He will turn back and direct his indignation against the holy covenant. He will return and honor those who forsake the holy covenant. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "31",
+      "text": "His forces will rise up and profane the fortified sanctuary, stopping the daily sacrifice. In its place they will set up the abomination that causes desolation. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "32",
+      "text": "Then with smooth words he will defile those who have rejected the covenant. But the people who are loyal to their God will act valiantly. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "33",
+      "text": "These who are wise among the people will teach the masses. However, they will fall by the sword and by the flame, and they will be imprisoned and plundered for some time. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "34",
+      "text": "When they stumble, they will be granted some help. But many will unite with them deceitfully. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "35",
+      "text": "Even some of the wise will stumble, resulting in their refinement, purification, and cleansing until the time of the end, for it is still for the appointed time. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "36",
+      "text": "“Then the king will do as he pleases. He will exalt and magnify himself above every deity, and he will utter presumptuous things against the God of gods. He will succeed until the time of wrath is completed, for what has been decreed must occur. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "37",
+      "text": "He will not respect the gods of his fathers—not even the god loved by women. He will not respect any god; he will elevate himself above them all. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "38",
+      "text": "What he will honor is a god of fortresses—a god his fathers did not acknowledge he will honor with gold, silver, valuable stones, and treasured commodities. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "39",
+      "text": "He will attack mighty fortresses, aided by a foreign deity. To those who recognize him he will grant considerable honor. He will place them in authority over many people, and he will parcel out land for a price. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "40",
+      "text": "“At the time of the end the king of the south will attack him. Then the king of the north will storm against him with chariots, horsemen, and a large armada of ships. He will invade lands, passing through them like an overflowing river."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "41",
+      "text": "Then he will enter the beautiful land. Many will fall, but these will escape: Edom, Moab, and the Ammonite leadership. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "42",
+      "text": "He will extend his power against other lands; the land of Egypt will not escape. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "43",
+      "text": "He will have control over the hidden stores of gold and silver, as well as all the treasures of Egypt. Libyans and Ethiopians will submit to him."
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "44",
+      "text": "But reports will trouble him from the east and north, and he will set out in a tremendous rage to destroy and wipe out many. "
+    },
+    {
+      "bookname": "Daniel",
+      "chapter": "11",
+      "verse": "45",
+      "text": "He will pitch his royal tents between the seas toward the beautiful holy mountain. But he will come to his end, with no one to help him."
+    }
+  ]
+}

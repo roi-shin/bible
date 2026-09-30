@@ -1,0 +1,308 @@
+# Proverbs 30 (English)
+
+## Text
+
+**1** The words of Agur, the son of Jakeh; an oracle: This man says to Ithiel, to Ithiel and to Ukal: 
+
+**2** Surely I am more brutish than any other human being, and I do not have human understanding; 
+
+**3** I have not learned wisdom, nor can I have knowledge of the Holy One. 
+
+**4** Who has ascended into heaven, and then descended? Who has gathered up the winds in his fists? Who has bound up the waters in his cloak? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you can know! 
+
+**5** Every word of God is purified; he is like a shield for those who take refuge in him.
+
+**6** Do not add to his words, lest he reprove you and prove you to be a liar. 
+
+**7** Two things I have asked from you; do not refuse me before I die: 
+
+**8** Remove falsehood and lies far from me; do not give me poverty or riches; feed me with my allotted portion of bread, 
+
+**9** lest I become satisfied and act deceptively and say, “Who is the Lord?” Or lest I become poor and steal and demean the name of my God. 
+
+**10** Do not slander a servant to his master, lest he curse you, and you are found guilty. 
+
+**11** There is a generation who curse their fathers and do not bless their mothers. 
+
+**12** There is a generation who are pure in their own opinion and yet are not washed from their filthiness. 
+
+**13** There is a generation whose eyes are so lofty and whose eyelids are lifted up disdainfully. 
+
+**14** There is a generation whose teeth are like swords and whose molars are like knives to devour the poor from the earth and the needy from among the human race.
+
+**15** The leech has two daughters: “Give! Give!” There are three things that will never be satisfied, four that have never said, “Enough”—
+
+**16** the grave, the barren womb; earth has not been satisfied with water; and fire has never said, “Enough!”
+
+**17** The eye that mocks at a father and despises obeying a mother— the ravens of the valley will peck it out, and the young vultures will eat it.
+
+**18** There are three things that are too wonderful for me, four that I do not understand: 
+
+**19** the way of an eagle in the sky, the way of a snake on a rock, the way of a ship in the sea, and the way of a man with a woman. 
+
+**20** This is the way of an adulterous woman: She has eaten and wiped her mouth and has said, “I have not done wrong.” 
+
+**21** Under three things the earth has trembled, and under four things it cannot bear up:
+
+**22** under a servant who becomes king, under a fool who becomes stuffed with food, 
+
+**23** under an unloved woman who becomes married, and under a female servant who dispossesses her mistress. 
+
+**24** There are four things on earth that are small, but they are exceedingly wise: 
+
+**25** Ants are creatures with little strength, but they prepare their food in the summer; 
+
+**26** rock badgers are creatures with little power, but they make their homes in the crags; 
+
+**27** locusts have no king, but they all go forward by ranks; 
+
+**28** a lizard you can catch with the hand, but it gets into the palaces of the king. 
+
+**29** There are three things that are magnificent in their step, four things that move about magnificently: 
+
+**30** a lion, mightiest of the beasts, who does not retreat from anything; 
+
+**31** a strutting rooster, a male goat, and a king with his army around him.
+
+**32** If you have done foolishly by exalting yourself or if you have planned evil, put your hand over your mouth! 
+
+**33** For as the churning of milk produces butter and as punching the nose produces blood, so stirring up anger produces strife. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  This chapter has a title (30:1), Agur’s confession and petition (30:2-9), and a series of Agur’s admonitions (30:10-33).
+
+### Verse 1 - Note 2
+[翻訳注]  The title הַמַּשָּׂא (hammasa’) means “the burden,” a frequently used title in prophetic oracles. It may be that the word is a place name, although it is more likely that it describes what follows as an important revelation.
+
+### Verse 1 - Note 3
+[翻訳注]  The definite article is used here as a demonstrative, clarifying the reference to Agur.
+
+### Verse 1 - Note 4
+[解説]  The word translated “says” (נְאֻם, nÿ’um) is a verbal noun; it is also a term that describes an oracle. It is usually followed by the subjective genitive: “the oracle of this man to Ithiel.”
+
+### Verse 1 - Note 5
+[翻訳注]  There have been numerous attempts to reinterpret the first two verses of the chapter. The Greek version translated the names “Ithiel” and “Ukal,” resulting in “I am weary, O God, I am weary and faint” (C. C. Torrey, “Proverbs Chapter ,” JBL 73 [1954]: 93-96). The LXX’s approach is followed by some English versions (e.g., NRSV, NLT). The Midrash tried through a clever etymologizing translation to attribute the works to Solomon (explained by W. G. Plaut, Proverbs, 299). It is most likely that someone other than Solomon wrote these sayings; they have a different, almost non-proverbial, tone to them. See P. Franklyn, “The Sayings of Agur in : Piety or Skepticism,” ZAW 95 (1983): 239-52.
+
+### Verse 2 - Note 1
+[翻訳注]  The particle כִּי (ki) functions in an asseverative sense, “surely; indeed; truly” (R. J. Williams, Hebrew Syntax, 73, §449).
+
+### Verse 2 - Note 2
+[翻訳注]  The noun בַּעַר (ba’ar) means “brutishness”; here it functions as a predicate adjective. It is followed by מֵאִישׁ (me’ish) expressing comparative degree: “more than a man” or “more than any man,” with “man” used in a generic sense. He is saying that he has fallen beneath the level of mankind. Cf. NRSV “I am too stupid to be human.”
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “than man.” The verse is using hyperbole; this individual feels as if he has no intelligence at all, that he is more brutish than any other human. Of course this is not true, or he would not be able to speculate on the God of the universe at all.
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “the understanding of a man,” with “man” used attributively here.
+
+### Verse 3 - Note 1
+[解説]  The construction uses repetition to make the point emphatically: “I do not know the knowledge of the Holy One.” Agur’s claim to being “brutish” is here clarified – he is not one of those who has knowledge or understanding of God. C. H. Toy thinks the speaker is being sarcastic in reference to others who may have claimed such knowledge (Proverbs [ICC], 521).
+
+### Verse 3 - Note 2
+[翻訳注]  The epithet “the Holy One” is the adjective “holy” put in the masculine plural (as in 9:10). This will harmonize with the plural of majesty used to explain the plural with titles for God. However, NRSV takes the plural as a reference to the “holy ones,” presumably referring to angelic beings.
+
+### Verse 4 - Note 1
+[解説]  To make his point Agur includes five questions. These, like –41, or Proverbs 8:24-29, focus on the divine acts to show that it is absurd for a mere mortal to think that he can explain God’s work or compare himself to God. These questions display mankind’s limitations and God’s incomparable nature. The first question could be open to include humans, but may refer to God alone (as the other questions do).
+
+### Verse 4 - Note 2
+[解説]  The questions are filled with anthropomorphic language. The questioner is asking what humans have ever done this, but the meaning is that only God has done this. “Gathering the wind in his fists” is a way of expressing absolute sovereign control over the forces of nature.
+
+### Verse 4 - Note 3
+[解説]  The question is comparing the clouds of the heavens to garments (e.g., Job 26:8). T. T. Perowne writes, “Men bind up water in skins or bottles; God binds up the rain-floods in the thin, gauzy texture of the changing clouds, which yet by his power does not rend under its burden of waters.”
+
+### Verse 4 - Note 4
+[解説]  The ends of the earth is an expression often used in scripture as a metonymy of subject referring to the people who live in the ends of the earth, the far off and remote lands and islands. While that is possible here as well, this may simply be a synecdoche saying that God created the whole world, even the most remote and distant places.
+
+### Verse 4 - Note 5
+[解説]  The reference to “son” in this passage has prompted many suggestions down through the years: It was identified as Israel in the Jewish Midrashim, the Logos or demiurge by some of the philosophers and allegorical writers, as simple poetic parallelism without a separate identity by some critical scholars, and as Jesus by Christian commentators. Parallels with Ugaritic are interesting, because Baal is referred to as a son; but that is bound up within the pantheon where there was a father god. Some of the Jewish commentators exhibit a strange logic in expressing what Christians would say is only their blindness to the full revelation: There is little cogency in this being a reference to Jesus because if there had been such a person at any time in the past he would have left some tradition about it through his descendants (J. H. Greenstone, Proverbs, 317). But Judaism has taught from the earliest times that Messiah was preexistent (especially in view of  and ); and the claims of Jesus in the Gospels bear this out. It seems best to say that there is a hint here of the nature of the Messiah as Son, a hint that will later be revealed in full through the incarnation.
+
+### Verse 5 - Note 1
+[解説]  The text here uses an implied comparison (a figure of speech known as hypocatastasis): It compares the perfection of every word from God with some precious metal that has been refined and purified (e.g., Ps 12:6). The point is that God’s word is trustworthy; it has no defects and flaws, nothing false or misleading. The second half of the verse explains the significance of this point – it is safe to trust the Lord.
+
+### Verse 5 - Note 2
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 5 - Note 3
+[解説]  The line uses two more figures of speech to declare that God can be trusted for security and salvation. “Shield” is a simple metaphor – God protects. “Take refuge” is another implied comparison (hypocatastasis) – God provides spiritual rest and security for those who put their trust in him.
+
+### Verse 6 - Note 1
+[翻訳注]  The form of the verb is a Niphal perfect tense with a vav consecutive from the root כָּזַב (kazav, “to lie”). In this stem it has the ideas of “been made deceptive,” or “shown to be false” or “proved to be a liar.” One who adds to or changes the word of the Lord will be seen as a liar.
+
+### Verse 7 - Note 1
+[解説]  Wisdom literature often groups things in twos and fours, or in other numerical arrangements (e.g., Amos 1:3–2:6; Job 5:19; Prov 6:16-19).
+
+### Verse 7 - Note 2
+[翻訳注]  Assuming that the contents of vv. 7-9 are a prayer, several English versions have supplied a vocative phrase: “O Lord” (NIV); “O God” (NLT); others have supplied a similar phrase without the vocative “O”: NCV, CEV “Lord”; TEV “God.”
+
+### Verse 8 - Note 1
+[翻訳注]  The two words might form a hendiadys: “falsehood and lies” being equivalent to “complete deception.” The word שָׁוְא means “false; empty; vain; to a false purpose.” The second word means “word of lying,” thus “a lying word.” Taken separately they might refer to false intentions and false words.
+
+### Verse 8 - Note 2
+[翻訳注]  The word חֹק (khoq) means “statute”; it is also used of a definite assignment in labor (Exod 5:14; Prov 31:15), or of a set portion of food (Gen 47:22). Here it refers to food that is the proper proportion for the speaker.
+
+### Verse 8 - Note 3
+[解説]  Agur requested an honest life (not deceitful) and a balanced life (not self-sufficient). The second request about his provision is clarified in v. 9.
+
+### Verse 9 - Note 1
+[翻訳注]  The verb כָּחַשׁ (kakhash) means “to be disappointing; to deceive; to fail; to grow lean.” In the Piel stem it means “to deceive; to act deceptively; to cringe; to disappoint.” The idea of acting deceptively is illustrated in Hos 9:2 where it has the connotation of “disowning” or “refusing to acknowledge” (a meaning very close to its meaning here).
+
+### Verse 9 - Note 2
+[翻訳注]  The Hebrew verb literally means “to take hold of; to seize”; this produces the idea of doing violence to the reputation of God.
+
+### Verse 10 - Note 1
+[翻訳注]  The form תַּלְשֵׁן (talshen) is the Hiphil jussive (with the negative אַל, ’al); it is a denominative verb from the noun “tongue” (Heb “wag the tongue”). It means “to defame; to slander,” if the accusation is untrue. Some have suggested that the word might have the force of “denouncing” a slave to his master, accusing him before authorities (e.g., Deut 23:15-16). This proverb would then be a warning against meddling in the affairs of someone else.
+
+### Verse 10 - Note 2
+[翻訳注]  If what was said were true, then there would be no culpability. But the implication here is that it was slander. And the effect of that will be a curse – the person who is the target of the slander will “curse” the person who slandered him (קָלַל [qalal] in the Piel means “to treat lightly [or, with contempt]; to curse”), and culpability will result (the verb וֹשׁם means “to be guilty; to make a guilt offering [or, reparation offering]”). This word for guilt suggests a connection to the Levitical teaching that the guilty had to make reparation for damages done (). Cf. NAB “you will have to pay the penalty”; NIV, NLT “you will pay for it.”
+
+### Verse 11 - Note 1
+[解説]  The next four verses all start with the Hebrew expression translated “There is a generation.” This is a series of denunciations of things that are dangerous in society without mentioning specific punishments or proscriptions. The word “generation” as used in this passage refers to a class or group of people.
+
+### Verse 11 - Note 2
+[解説]  The first observation is that there is a segment in society that lacks respect for parents. This uses the antonyms “curse” and [not] “bless” to make the point. To “curse” a parent could include treating them lightly, defaming them, or showing disrespect in general. To “bless” would mean to honor, respect, or enrich in some way, which is what should be done (e.g., Exod 21:17; Prov 20:20).
+
+### Verse 12 - Note 1
+[翻訳注]  The verb רָחַץ (rakhats) means “to wash; to wash off; to wash away; to bathe.” It is used of physical washing, ceremonial washings, and hence figuratively of removing sin and guilt through confession (e.g., Isa 1:16). Here the form is the Pual perfect (unless it is a rare old Qal passive, since there is no Piel and no apparent change of meaning from the Qal).[解説]  The point of the verse is that there are people who observe outer ritual and think they are pure (טָהוֹר [tahor] is the Levitical standard for entrance into the sanctuary), but who pay no attention to inner cleansing (e.g., Matt 23:27).
+
+### Verse 12 - Note 2
+[解説]  Filthiness often refers to physical uncleanness, but here it refers to moral defilement. Zech 3:3-4 uses it metaphorically as well for the sin of the nation (e.g., Isa 36:12).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “how high are its eyes!” This is a use of the interrogative pronoun in exclamatory sentences (R. J. Williams, Hebrew Syntax, 25, §127).
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “its eyelids are lifted up,” a gesture indicating arrogance and contempt or disdain for others. To make this clear, the present translation supplies the adverb “disdainfully” at the end of the verse.[解説]  The verbs “to be high” (translated “are…lofty”) and “to be lifted up” depict arrogance and disdain for others. The emphasis on the eyes and eyelids (parasynonyms in poetry) is employed because the glance, the look, is the immediate evidence of contempt for others (e.g., also 6:17 and Ps 131:1).
+
+### Verse 14 - Note 1
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 14 - Note 2
+[解説]  There are two figures used in each of these lines: teeth/great teeth and “swords/knives.” The term “teeth” is a metonymy for the process of chewing and eating. This goes with the figure of the second half of the verse that speaks about “devouring” the poor – so the whole image of eating and chewing refers to destroying the poor (an implied comparison). The figures of “swords/knives” are metaphors within this image. Comparing teeth to swords means that they are sharp and powerful. The imagery captures the rapacity of their power.
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “teeth” (so NRSV) or “jaw teeth” (so KJV, ASV, NASB) or perhaps “jawbone.” This is a different Hebrew word for “teeth” than the one in the previous line; if it refers to “jaw teeth” then a translation like “molars” would be appropriate, although this image might not fit with the metaphor (“like knives”) unless the other teeth, the incisors or front teeth, are pictured as being even longer (“like swords”).
+
+### Verse 14 - Note 4
+[翻訳注]  The Hebrew form לֶאֱכֹל (le’ekhol) is the Qal infinitive construct; it indicates the purpose of this generation’s ruthless power – it is destructive. The figure is an implied comparison (known as hypocatastasis) between “devouring” and “destroying.”
+
+### Verse 15 - Note 1
+[解説]  The next two verses describe insatiable things, things that are problematic to normal life. The meaning of v. 15a and its relationship to 15b is debated. But the “leech” seems to have been selected to begin the section because it was symbolic of greed – it sucks blood through its two suckers. This may be what the reference to two daughters calling “Give! Give!” might signify (if so, this is an implied comparison, a figure known as hypocatastasis).
+
+### Verse 15 - Note 2
+[解説]  As one might expect, there have been various attempts to identify the “two daughters.” In the Rabbinic literature some identified Alukah (the “leech”) with Sheol, and the two daughters with paradise and hell, one claiming the righteous and the other the unrighteous; others identified Alukah with Gehenna, and the two daughters with heresy and government, neither of which is ever satisfied (Midrash Tehillim quoted by Rashi, a Jewish scholar who lived a.d. 1040-1105, and in the Talmud, b. Avodah Zarah 17a). J. J. Glueck suggests that what is in view is erotic passion (and not a leech) with its two maidens of burning desire crying for more (“Proverbs 30:15a,” VT 14 [1964]: 367-70). F. S. North rightly criticizes this view as gratuitous; he argues for the view of a leech with two suckers (“The Four Insatiables,” VT 15 [1965]: 281-82).
+
+### Verse 15 - Note 3
+[翻訳注]  The two imperatives הַב הַב (hav hav, “give, give,” from יָהַב, yahav) correspond to the two daughters, and form their appeal. This would then be a personification – it is as if the leech is crying out, “Give! Give!”
+
+### Verse 15 - Note 4
+[解説]  There is a noticeable rhetorical sequence here: two daughters, three things, four (see W. M. Roth, “The Numerical Sequence x / x +1 in the Old Testament,” VT 12 [1962]: 300-311, and “Numerical Sayings in the Old Testament,” VT 13 [1965]: 86). W. McKane thinks the series builds to a climax with the four, and in the four the barren woman is the focal point, the other three being metaphors for her sexual desire (Proverbs [OTL], 656). This interpretation is a minority view, however, and has not won widespread support.
+
+### Verse 15 - Note 5
+[翻訳注]  Throughout the book of Proverbs הוֹן (hon) means “wealth”; but here it has the nuance of “sufficiency” (cf. TEV, CEV, NLT “satisfied”) or “enough” (BDB 223 s.v.).
+
+### Verse 16 - Note 1
+[翻訳注]  The term שְׁאוֹל (she’ol, “Sheol”) refers here to the realm of the dead: “the grave” (so KJV, NIV, NLT); cf. TEV, CEV “the world of the dead”; NAB “the nether world.”
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “the closing of the womb,” a situation especially troubling for one who is consumed with a desire for children (e.g., Gen 16:2; 30:1).
+
+### Verse 16 - Note 3
+[解説]  There is no clear lesson made from these observations. But one point that could be made is that greed, symbolized by the leech, is as insatiable as all these other things. If that is the case, the proverb would constitute a warning against the insatiable nature of greed.
+
+### Verse 17 - Note 1
+[解説]  The “eye” as the organ that exhibits the inner feelings most clearly, here represents a look of scorn or disdain that speaks volumes (a metonymy of cause or of adjunct). It is comparable to the “evil eye” which is stinginess (28:22).
+
+### Verse 17 - Note 2
+[翻訳注]  The Hebrew word לִיקֲּהַת (liqqahat, “obeying”) occurs only here and in Gen 49:10; it seems to mean “to receive” in the sense of “receiving instruction” or “obeying.” C. H. Toy suggests emending to “to old age” (לְזִקְנַת, lÿziqnat) of the mother (Proverbs [ICC], 530). The LXX with γῆρας (ghra", “old age”) suggests that a root lhq had something to do with “white hair.” D. W. Thomas suggests a corruption from lhyqt to lyqht; it would have read, “The eye that mocks a father and despises an aged mother” (“A Note on לִיקֲּהַת in Proverbs 30:17,” JTS 42 [1941]: 154-55); this is followed by NAB “or scorns an aged mother.”
+
+### Verse 17 - Note 3
+[解説]  The sternest punishment is for the evil eye. The punishment is talionic – eye for eye. The reference to “the valley” may indicate a place where people are not be given decent burials and the birds of prey pick the corpses clean. It is an image the prophets use in judgment passages.
+
+### Verse 18 - Note 1
+[翻訳注]  The form נִפְלְאוּ (niflÿ’u) is the Niphal perfect from פָּלָא (pala’); the verb means “to be wonderful; to be extraordinary; to be surpassing”; cf. NIV “too amazing.” The things mentioned are things that the sage finds incomprehensible (e.g., Gen 18:14; Judg 13:18; Ps 139:6; and Isa 9:6[5]). The sage can only admire these wonders – he is at a loss to explain them.
+
+### Verse 19 - Note 1
+[解説]  It is difficult to know for certain what these four things had in common for the sage. They are all linked by the word “way” (meaning “a course of action”) and by a sense of mystery in each area. Suggestions for the connections between the four include: (1) all four things are hidden from continued observation, for they are in majestic form and then gone; (2) they all have a mysterious means of propulsion or motivation; (3) they all describe the movement of one thing within the sphere or domain of another; or (4) the first three serve as illustrations of the fourth and greatest wonder, which concerns human relationships and is slightly different than the first three.
+
+### Verse 19 - Note 2
+[翻訳注]  This last item in the series is the most difficult to understand. The MT reads וְדֶּרֶךְ גֶּבֶר בְּעַלְמָה (vÿderekh gever bÿ’almah, “and the way of a man with a maid,” so KJV, NASB). The last term does not in and of itself mean “virgin” but rather describes a young woman who is sexually ready for marriage. What is probably in view here is the wonder of human sexuality, for the preposition בְּ (bet) in this sequence indicates that the “way of the man” is “with” the woman. This mystery might begin with the manner of obtaining the love of the young woman, but focuses on the most intimate part of human relationships. And all of this was amazing to the sage. All of it is part of God’s creative plan and therefore can be enjoyed and appreciated without fully comprehending it.
+
+### Verse 20 - Note 1
+[解説]  Equally amazing is the insensitivity of the adulterous woman to the sin. The use of the word “way” clearly connects this and the preceding material. Its presence here also supports the interpretation of the final clause in v. 19 as referring to sexual intimacy. While that is a wonder of God’s creation, so is the way that human nature has distorted it and ruined it.
+
+### Verse 20 - Note 2
+[解説]  The word clearly indicates that the woman is married and unchaste; but the text describes her as amoral as much as immoral – she sees nothing wrong with what she does.
+
+### Verse 20 - Note 3
+[解説]  The acts of “eating” and “wiping her mouth” are euphemistic; they employ an implied comparison between the physical act of eating and wiping one’s mouth afterward on the one hand with sexual activity on the other hand (e.g., Prov 9:17).
+
+### Verse 20 - Note 4
+[解説]  This is the amazing part of the observation. It is one thing to sin, for everyone sins, but to dismiss the act of adultery so easily, as if it were no more significant than a meal, is incredibly brazen.
+
+### Verse 21 - Note 1
+[解説]  The Hebrew verb means “to rage; to quake; to be in tumult.” The sage is using humorous and satirical hyperbole to say that the changes described in the following verses shake up the whole order of life. The sayings assume that the new, elevated status of the individuals was not accompanied by a change in nature. For example, it was not completely unknown in the ancient world for a servant to become king, and in the process begin to behave like a king.
+
+### Verse 22 - Note 1
+[解説]  A servant coming to power could become a tyrant if he is unaccustomed to the use of such power, or he might retain the attitude of a servant and be useless as a leader.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “filled with food” (so ASV); NASB “satisfied with food”; NAB, NRSV “glutted with food”; CEV “who eats too much”; NLT “who prospers.”[解説]  The expression stuffed with food probably represents prosperity in general. So the line portrays someone who suddenly comes into wealth, but continues to be boorish and irreligious.
+
+### Verse 23 - Note 1
+[翻訳注]  The Hebrew term means “hated,” from שָׂנֵא (sane’), a feminine passive participle. The text does not say why she is hated; some have speculated that she might be odious (cf. KJV, ASV, NAB) or unattractive, but perhaps she is married to someone incapable of showing love (e.g., Gen 29:31, 33; Deut 21:15; Isa 60:5). Perhaps the strange situation of Jacob was in the mind of the sage, for Leah was described as “hated” (Gen 29:31).
+
+### Verse 23 - Note 2
+[翻訳注]  The verb יָרַשׁ (yarash) means either (1) “to possess; to inherit” or (2) “to dispossess.” Often the process of possessing meant the dispossessing of those already there (e.g., Hagar and Sarah in Gen 16:5; 21:10); another example is the Israelites’ wars against the Canaanites.
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “Four are the small things of the earth.” TEV has “four animals,” though in the list of four that follows, two are insects and one is a reptile.
+
+### Verse 24 - Note 2
+[翻訳注]  The construction uses the Pual participle with the plural adjective as an intensive; these four creatures are the very embodiment of wisdom (BDB 314 s.v. חָכַם Pu).
+
+### Verse 25 - Note 1
+[解説]  The wisdom of the ants is found in their diligent preparation (כּוּן, kun) of food supplies in the summer for times in the winter when food is scarce. See S. P. Toperoff, “The Ant in the Bible and Midrash,” Dor le Dor 13 (1985): 179-83. According to this, being prepared ahead of time is a mark of true wisdom.
+
+### Verse 26 - Note 1
+[翻訳注]  Or “hyraxes.” This is the Syrian Hyrax, also known as the rock badger. KJV, ASV has “conies” (alternately spelled “coneys” by NIV), a term usually associated with the European rabbit (Oryctolagus cuniculus) but which can also refer to the pika or the hyrax. Scholars today generally agree that the Hebrew term used here refers to a type of hyrax, a small ungulate mammal of the family Procaviidae native to Africa and the Middle East which has a thick body, short legs and ears and a rudimentary tail. The simple “badger” (so NASB, NRSV, CEV) could lead to confusion with the badger, an entirely unrelated species of burrowing mammal related to weasels.[解説]  Modern scholars identify this creature with the rock badger (the Syrian hyrax), a small mammal that lives in the crevices of the rock. Its wisdom consists in its ingenuity to find a place of security.
+
+### Verse 27 - Note 1
+[解説]  The Hebrew term means “divided”; they go forward in orderly divisions, or ranks (C. H. Toy, Proverbs [ICC], 535). Joel 1:4 describes their order and uses it as a picture of a coming invasion (e.g., Joel 2:7, 8). Therefore the wisdom of the locust is in their order and cooperation.
+
+### Verse 28 - Note 1
+[翻訳注]  The KJV, agreeing with Tg. Prov 30:28, translated this term as “spider.” But almost all modern English versions and commentators, following the Greek and the Latin versions, have “lizard.”[解説]  The point of this saying is that a weak creature like a lizard, that is so easily caught, cannot be prevented from getting into the most significant places.
+
+### Verse 28 - Note 2
+[翻訳注]  Although the Hebrew noun translated “king” is singular here, it is traditionally translated as plural: “kings’ palaces” (so KJV, NASB, NIV, NRSV).
+
+### Verse 29 - Note 1
+[翻訳注]  The form מֵיטִיבֵי (metibe) is the Hiphil participle, plural construct. It has the idea of “doing good [in] their step.” They move about well, i.e., magnificently. The genitive would be a genitive of specification.
+
+### Verse 29 - Note 2
+[翻訳注]  The construction uses the Hiphil participle again (as in the previous line) followed by the infinitive construct of הָלַךְ (halakh). This forms a verbal hendiadys, the infinitive becoming the main verb and the participle before it the adverb.
+
+### Verse 30 - Note 1
+[翻訳注]  Heb “mighty among the beasts,” but referring to a superlative degree (“mightiest”).
+
+### Verse 31 - Note 1
+[翻訳注]  The Hebrew term זַרְזִיר (zarzir) means “girt”; it occurs only here with “loins” in the Bible: “that which is girt in the loins” (BDB 267 s.v.). Some have interpreted this to be the “greyhound” because it is narrow in the flanks (J. H. Greenstone, Proverbs, 327); so KJV, ASV. Others have suggested the warhorse, zebra, raven, or starling. Tg. Prov 30:31 has it as the large fighting cock that struts around among the hens. There is no clear referent that is convincing, although most modern English versions use “strutting rooster” or something similar (cf. CEV “proud roosters”).
+
+### Verse 31 - Note 2
+[写本注]  This last line has inspired many suggestions. The MT has “with his army around him” (אַלְקוּם עִמּוֹ, ’alqum ’immo); so NIV. This has been emended to read “against whom there is no rising up” (so KJV, ASV) or “standing over his people.” The LXX has “a king haranguing his people.” Tg. Prov 30:31 has, “a king who stands up before his people and addresses them.” Some have attempted to identify this with Alcimus, the high priest who aspired to kingship (1 Macc 7:5-22), but such a suggestion is quite remote. Another interpretation sees the word for “God” in the line: “a king with whom God is.” Furthermore, C. H. Toy thinks the text is corrupt and must have at one time referred to some majestic animal (Proverbs [ICC], 537). While all these suggestions are fascinating, they have not improved or corrected the Hebrew text. At least one can say the focus is on the stately appearance of the king at some auspicious moment. The word occurs only here; but if it is interpreted with its Arabic cognate in mind, then it refers to a band of soldiers (BDB 39 s.v. אַלְקוּם).
+
+### Verse 32 - Note 1
+[翻訳注]  The construction has the בְּ (bet) preposition with the Hitpael infinitive construct, forming a temporal clause. This clause explains the way in which the person has acted foolishly.
+
+### Verse 32 - Note 2
+[翻訳注]  Heb “hand to mouth.” This express means “put your hand to your mouth” (e.g., Job 40:4, 5); cf. NIV “clap your hand over.”
+
+### Verse 33 - Note 1
+[翻訳注]  This line provides the explanation for the instruction to keep silent in the previous verse. It uses two images to make the point, and in so doing repeats two words throughout. The first is the word מִיץ (mits), which is translated (in sequence) “churning,” “punching,” and “stirring up.” The form is a noun, and BDB 568 s.v. suggests translating it as “squeezing” in all three places, even in the last where it describes the pressure or the insistence on strife. This noun occurs only here. The second repeated word, the verb יוֹצִיא (yotsir), also occurs three times; it is the Hiphil imperfect, meaning “produces” (i.e., causes to go out).
+
+### Verse 33 - Note 2
+[解説]  There is a subtle wordplay here with the word for anger: It is related to the word for nose in the preceding colon.
+
+### Verse 33 - Note 3
+[解説]  The analogy indicates that continuously pressing certain things will yield results, some good, some bad. So pressing anger produces strife. The proverb advises people to strive for peace and harmony through humility and righteousness. To do that will require “letting up” on anger.

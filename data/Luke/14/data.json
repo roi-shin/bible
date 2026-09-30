@@ -1,0 +1,803 @@
+{
+  "book": "Luke",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now one Sabbath when Jesus went to dine at the house of a leader of the Pharisees, they were watching him closely. ",
+      "ja": "ある安息日のこと、イエスはあるファリサイ派の指導者の家に食事に入られたが、人々はイエスを油断なく見守っていた。"
+    },
+    {
+      "verse": 2,
+      "en": "There right in front of him was a man whose body was swollen with fluid. ",
+      "ja": "するとイエスのすぐ目の前に、水腫を患っている人がいた。"
+    },
+    {
+      "verse": 3,
+      "en": "So Jesus asked the experts in religious law and the Pharisees, “Is it lawful to heal on the Sabbath or not?” ",
+      "ja": "そこでイエスは律法の専門家たちやファリサイ派の人々に問いかけられた。「安息日に病気を治すことは律法にかなっているか、かなっていないか。」"
+    },
+    {
+      "verse": 4,
+      "en": "But they remained silent. So Jesus took hold of the man, healed him, and sent him away. ",
+      "ja": "しかし彼らは黙っていた。そこでイエスはその人を手にとって癒やし、立ち去らせた。"
+    },
+    {
+      "verse": 5,
+      "en": "Then he said to them, “Which of you, if you have a son or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?” ",
+      "ja": "そして彼らに言われた。「あなたがたのうちのだれが、自分の息子や牛が安息日に井戸に落ちたなら、すぐに引き上げないだろうか。」"
+    },
+    {
+      "verse": 6,
+      "en": "But they could not reply to this. ",
+      "ja": "彼らはこれに答えることができなかった。"
+    },
+    {
+      "verse": 7,
+      "en": "Then when Jesus noticed how the guests chose the places of honor, he told them a parable. He said to them, ",
+      "ja": "招待客たちが上座を選んでいる様子に気づかれたイエスは、彼らにたとえを語られた。"
+    },
+    {
+      "verse": 8,
+      "en": "“When you are invited by someone to a wedding feast, do not take the place of honor because a person more distinguished than you may have been invited by your host. ",
+      "ja": "「婚礼の宴に招かれたときは、上座に着いてはならない。あなたよりも身分の高い人が招かれているかもしれないからだ。"
+    },
+    {
+      "verse": 9,
+      "en": "So the host who invited both of you will come and say to you, ‘Give this man your place.’ Then, ashamed, you will begin to move to the least important place. ",
+      "ja": "そうなると、あなたと彼を招いた主人が来て、『この人に席を譲ってください』と言うだろう。そのときあなたは恥じ入りながら、末席へ移動しなければならなくなる。"
+    },
+    {
+      "verse": 10,
+      "en": "But when you are invited, go and take the least important place, so that when your host approaches he will say to you, ‘Friend, move up here to a better place.’ Then you will be honored in the presence of all who share the meal with you. ",
+      "ja": "招かれたときは、むしろ進んで末席に着きなさい。そうすれば、主人が来て『友よ、もっと上座へお進みください』と言うだろう。そのとき、同席しているすべての人々の前で、あなたは誉れを受けることになる。"
+    },
+    {
+      "verse": 11,
+      "en": "For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.” ",
+      "ja": "だれでも自分を高める者は低くされ、自分を低くする者は高められるからである。」"
+    },
+    {
+      "verse": 12,
+      "en": "He said also to the man who had invited him, “When you host a dinner or a banquet, don’t invite your friends or your brothers or your relatives or rich neighbors so you can be invited by them in return and get repaid. ",
+      "ja": "また、イエスを招いてくれた人にも言われた。「昼食や夕食の席を設けるときは、友人や兄弟、親族、裕福な近所の人たちを招いてはならない。彼らが返礼としてあなたを招き返し、お返しを受けることにならないためである。"
+    },
+    {
+      "verse": 13,
+      "en": "But when you host an elaborate meal, invite the poor, the crippled, the lame, and the blind. ",
+      "ja": "宴会を催すときは、むしろ貧しい人、体の不自由な人、足の不自由な人、目の見えない人を招きなさい。"
+    },
+    {
+      "verse": 14,
+      "en": "Then you will be blessed because they cannot repay you, for you will be repaid at the resurrection of the righteous.” ",
+      "ja": "そうすれば、その人たちはお返しができないので、あなたは幸いとなる。正しい者たちの復活のときに、あなたに報いが与えられるからである。」"
+    },
+    {
+      "verse": 15,
+      "en": "When one of those at the meal with Jesus heard this, he said to him, “Blessed is everyone who will feast in the kingdom of God!”",
+      "ja": "イエスと同席していた客のひとりがこれを聞いて、「神の国で食事をする人は幸いです」と言った。"
+    },
+    {
+      "verse": 16,
+      "en": "But Jesus said to him, “A man once gave a great banquet and invited many guests.",
+      "ja": "そこでイエスは彼に言われた。「ある人が盛大な宴会を催し、多くの客を招いた。"
+    },
+    {
+      "verse": 17,
+      "en": "At the time for the banquet he sent his slave to tell those who had been invited, ‘Come, because everything is now ready.’ ",
+      "ja": "宴会の時刻になったので、招いていた人々に『おいでください。もう準備が整いましたから』と伝えるためにしもべを送った。"
+    },
+    {
+      "verse": 18,
+      "en": "But one after another they all began to make excuses. The first said to him, ‘I have bought a field, and I must go out and see it. Please excuse me.’ ",
+      "ja": "ところが、彼らはみな一様に言い訳をし始めた。最初の人は『畑を買ったので、見に行かなければなりません。どうかご容赦ください』と言った。"
+    },
+    {
+      "verse": 19,
+      "en": "Another said, ‘I have bought five yoke of oxen, and I am going out to examine them. Please excuse me.’ ",
+      "ja": "別の人は『牛を五組買ったので、それを調べに行くところです。どうかご容赦ください』と言った。"
+    },
+    {
+      "verse": 20,
+      "en": "Another said, ‘I just got married, and I cannot come.’ ",
+      "ja": "また別の人は『結婚したばかりなので、行くことができません』と言った。"
+    },
+    {
+      "verse": 21,
+      "en": "So the slave came back and reported this to his master. Then the master of the household was furious and said to his slave, ‘Go out quickly to the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’ ",
+      "ja": "しもべは戻ってきて、このことを主人に報告した。すると家の主人は怒り、しもべに言った。『急いで町の広場や路地に出て行き、貧しい人、体の不自由な人、目の見えない人、足の不自由な人をここに連れて来なさい。』"
+    },
+    {
+      "verse": 22,
+      "en": "Then the slave said, ‘Sir, what you instructed has been done, and there is still room.’ ",
+      "ja": "しもべは言った。『ご主人様、ご命令どおりにいたしましたが、まだ席があります。』"
+    },
+    {
+      "verse": 23,
+      "en": "So the master said to his slave, ‘Go out to the highways and country roads and urge people to come in, so that my house will be filled. ",
+      "ja": "主人はしもべに言った。『大通りや小道に出て行き、人々を強く促して連れて来て、私の家を満たしなさい。"
+    },
+    {
+      "verse": 24,
+      "en": "For I tell you, not one of those individuals who were invited will taste my banquet!’” ",
+      "ja": "言っておくが、招かれていた人たちの中で、私の宴会を味わう者は一人もいないのだ。』」"
+    },
+    {
+      "verse": 25,
+      "en": "Now large crowds were accompanying Jesus, and turning to them he said, ",
+      "ja": "大勢の群衆がイエスと一緒に歩いていたが、イエスは彼らに振り向いて言われた。"
+    },
+    {
+      "verse": 26,
+      "en": "“If anyone comes to me and does not hate his own father and mother, and wife and children, and brothers and sisters, and even his own life, he cannot be my disciple. ",
+      "ja": "「だれでもわたしのもとに来て、自分の父、母、妻、子、兄弟、姉妹、さらに自分の命までも憎まないなら、わたしの弟子になることはできない。"
+    },
+    {
+      "verse": 27,
+      "en": "Whoever does not carry his own cross and follow me cannot be my disciple. ",
+      "ja": "自分の十字架を背負ってわたしに従って来ない者は、だれもわたしの弟子になることはできない。"
+    },
+    {
+      "verse": 28,
+      "en": "For which of you, wanting to build a tower, doesn’t sit down first and compute the cost to see if he has enough money to complete it?",
+      "ja": "あなたがたのうちのだれが、塔を建てようとするとき、まず座って費用を計算し、完成させるのに十分な金があるかどうかを確かめないだろうか。"
+    },
+    {
+      "verse": 29,
+      "en": "Otherwise, when he has laid a foundation and is not able to finish the tower, all who see it will begin to make fun of him. ",
+      "ja": "そうしないと、基礎を据えただけで完成させることができず、見る人はみな彼をあざ笑い始めるだろう。"
+    },
+    {
+      "verse": 30,
+      "en": "They will say, ‘This man began to build and was not able to finish!’ ",
+      "ja": "『この人は建て始めたが、完成させることができなかった』と言うのである。"
+    },
+    {
+      "verse": 31,
+      "en": "Or what king, going out to confront another king in battle, will not sit down first and determine whether he is able with 10,000 to oppose the one coming against him with 20,000? ",
+      "ja": "また、どのような王が、別の王と戦うために出陣するとき、まず座って、二万の軍勢で攻めて来る相手を一万の軍勢で迎え撃つことができるかどうかを判断しないだろうか。"
+    },
+    {
+      "verse": 32,
+      "en": "If he cannot succeed, he will send a representative while the other is still a long way off and ask for terms of peace. ",
+      "ja": "もし勝てそうになければ、相手がまだ遠くにいるうちに使節を派遣し、講和の条件を求めるだろう。"
+    },
+    {
+      "verse": 33,
+      "en": "In the same way therefore not one of you can be my disciple if he does not renounce all his own possessions. ",
+      "ja": "そのように、あなたがたのだれも、自分の持ち物のすべてを捨て去らないなら、わたしの弟子になることはできない。"
+    },
+    {
+      "verse": 34,
+      "en": "“Salt is good, but if salt loses its flavor, how can its flavor be restored? ",
+      "ja": "塩は良いものである。しかし、もし塩がその味を失ったら、何によって塩味が取り戻されるだろうか。"
+    },
+    {
+      "verse": 35,
+      "en": "It is of no value for the soil or for the manure pile; it is to be thrown out. The one who has ears to hear had better listen!” ",
+      "ja": "土にも肥料の山にも役に立たず、外へ投げ捨てられるだけである。聞く耳のある者は聞きなさい。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Now it happened that one.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] ギリシア語では「そしてある時に〜ということが起こった」。ルカ福音書で69回、使徒の働きで54回見られる導入句ἐγένετο（egeneto、「〜ということが起こった」）は、現代英語では冗長であるため訳出されていない。ここではκαί（kai）が新しい話題への移行を示す語として訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “to eat bread,” an idiom for participating in a meal.",
+        "ja": "[翻訳注] ギリシア語では「パンを食べる」。食事を共にする慣用表現である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “a ruler of the Pharisees.” He was probably a synagogue official.",
+        "ja": "[翻訳注] ギリシア語では「ファリサイ派の支配者」。おそらく会堂の役員であったと考えられる。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  See the note on Pharisees in 5:17.",
+        "ja": "[解説] 5章17節のファリサイ派に関する注を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Watching…closely is a graphic term meaning to lurk and watch; see Luke 11:53-54.",
+        "ja": "[解説] 「油断なく見守っていた」は、潜んで監視することを意味する生々しい表現である。ルカ11章53-54節を参照。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And there.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注] ギリシア語では「そして見よ」。ここではギリシア語と英語の文体の違いにより、καί（kai）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “behold.” The Greek word ἰδού (idou) at the beginning of this statement adds interest and emphasis (BDAG 468 s.v. 1). Here it has been translated as “right” in the phrase “right in front of him,” giving a similar effect of vividness in the translation.",
+        "ja": "[翻訳注] ギリシア語では「見よ」。この文の冒頭にあるギリシア語ἰδού（idou）は関心と強調を添える（BDAG 468 s.v. 1）。ここでは「イエスのすぐ目の前に」という表現において生き生きとした効果を与えるように訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The condition called dropsy involves swollen limbs resulting from the accumulation of fluid in the body’s tissues, especially the legs.",
+        "ja": "[解説] 水腫と呼ばれる病状は、体組織、特に足に体液が蓄積して四肢が腫れ上がるものである。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the sequence of events (Jesus’ question was prompted by the man’s appearance).",
+        "ja": "[翻訳注] ここでκαί（kai）は、出来事の推移を示すために「そこで」と訳されている（イエスの質問はこの男性が現れたことによって促された）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Jesus, answering, said.” This is redundant in contemporary English. In addition, since the context does not describe a previous question to Jesus (although one may well be implied), the phrase has been translated here as “Jesus asked.”",
+        "ja": "[翻訳注] ギリシア語では「イエスは答えて言われた」。これは現代英語では冗長である。また、文脈上イエスへの事前の質問が記されていないため（暗示されている可能性はあるが）、ここでは「イエスは問われた」と訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  That is, experts in the interpretation of the Mosaic law (traditionally, “lawyers”).",
+        "ja": "[翻訳注] モーセの律法の解釈の専門家（伝統的には「律法学者」）のことである。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  “Is it lawful to heal on the Sabbath or not?” Will the Pharisees and experts in religious law defend tradition and speak out against doing good on the Sabbath? Has anything at all been learned since Luke 13:10-17? Has repentance come (13:6-9)?",
+        "ja": "[解説] 「安息日に病気を治すことは律法にかなっているか、かなっていないか」。ファリサイ派や律法の専門家たちは伝統を擁護し、安息日に良い行いをすることに反対するだろうか。ルカ13章10-17節から何か学んだのだろうか。悔い改めは生じたのだろうか（13章6-9節）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the sequence of events (Jesus’ healing the man was in response to their refusal to answer).",
+        "ja": "[翻訳注] ここでκαί（kai）は、出来事の推移を示すために「そこで」と訳されている（イエスがその人を癒やされたのは、彼らが答えることを拒んだことへの対応である）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明瞭さのために指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “taking hold [of the man].” The participle ἐπιλαβόμενος (epilabomeno\") has been taken as indicating attendant circumstance.",
+        "ja": "[翻訳注] ギリシア語では「その人を手にとって」。分詞ἐπιλαβόμενος（epilabomenos）は付帯状況を示すものとして解釈されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “and let him go.”",
+        "ja": "[翻訳注] または「そして立ち去らせた」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでκαί（kai）は、物語内での出来事の順序を示すために「そして」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "33 579 892 1241 2542 al lat bo), looks like an assimilation to Luke 13:15 and Deut 22:4; Isa 32:20, and was perhaps motivated by an attempt to soften the unusual collocation of “son” and “ox.” The Western ms D differs from all others and reads “sheep.”",
+        "ja": "33 579 892 1241 2542 al lat boなどの写本における読みは、ルカ13章15節、申命記22章4節、イザヤ書32章20節への同調と見られ、「息子」と「牛」という異例の組み合わせを和らげようとした動機によるものと思われる。西方写本Dは他と異なり「羊」と読んでいる。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  καί (kai) has been translated here as “but” to indicate the contrast present in this context. The experts, who should be expected to know the law, are unable to respond to Jesus’ question.",
+        "ja": "[翻訳注] ここでκαί（kai）は、文脈上の対比を示すために「しかし」と訳されている。律法を知っているはずの専門家たちが、イエスの問いに答えることができない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  They could not reply. Twice in the scene, the experts remain silent (see v. 4). That, along with the presence of power working through Jesus, serves to indicate endorsement of his work and message.",
+        "ja": "[解説] 「彼らは答えることができなかった」。この場面で専門家たちは二度沈黙する（4節参照）。これは、イエスを通して働く力の存在とともに、イエスの働きとメッセージが認められていることを示している。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでδέ（de）は、物語内での出来事の順序を示すために「そのとき」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明瞭さのために指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “those who were invited.”",
+        "ja": "[翻訳注] ギリシア語では「招かれた者たち」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “the best places.” The “places of honor” at the meal would be those closest to the host.",
+        "ja": "[翻訳注] または「最良の席」。食事の席での「上座」とは、主人に最も近い席を指す。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “banquet.” This may not refer only to a wedding feast, because this term can have broader sense (note the usage in Esth 2:18; 9:22 LXX). However, this difference does not affect the point of the parable.",
+        "ja": "[翻訳注] または「宴会」。この語はより広い意味を持ちうるため（七十人訳エステル記2章18節、9章22節の用例を参照）、婚礼の宴だけを指すとは限らない。ただし、この違いはたとえの要点には影響しない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “do not recline in the place of honor.” 1st century middle eastern meals were not eaten while sitting at a table, but while reclining on one’s side on the floor with the head closest to the low table and the feet farthest away.",
+        "ja": "[翻訳注] ギリシア語では「上座に横たわってはならない」。1世紀の中東の食事はテーブルに座るのではなく、頭を低いテーブルに近づけ、足を遠ざけて床に横たわって取られた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “by him”; the referent (the host) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼によって」。明瞭さのために指示対象（主人）を明示している。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “host, and.” Here καί (kai) has been translated as “so” to indicate this action is a result of the situation described in the previous verse. Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.",
+        "ja": "[翻訳注] ギリシア語では「主人、そして」。ここでκαί（kai）は、この行動が前節で述べられた状況の結果であることを示すために「そうなると」と訳されている。ギリシア語の文が長く複雑であるため、翻訳ではここで新しい文を開始している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “then in disgrace”; Grk “with shame.” In this culture avoiding shame was important.",
+        "ja": "[翻訳注] または「そのとき恥のうちに」。ギリシア語では「恥をもって」。この文化では恥を避けることが重要であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “lowest place” (also in the repetition of the phrase in the next verse).",
+        "ja": "[翻訳注] ギリシア語では「最も低い席」（次節での同句の繰り返しでも同様）。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the one who invited you.”",
+        "ja": "[翻訳注] ギリシア語では「あなたを招いた者」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Go up higher.” This means to move to a more important place.",
+        "ja": "[翻訳注] ギリシア語では「もっと上へ進みなさい」。これはより重要な席へ移動することを意味する。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context, which involves the reversal of expected roles.",
+        "ja": "[翻訳注] ここでκαί（kai）は、期待された役割の逆転を伴う文脈上の対比を示すために「しかし」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The point of the statement the one who humbles himself will be exalted is humility and the reversal imagery used to underline it is common: Luke 1:52-53; 6:21; 10:15; 18:14.",
+        "ja": "[解説] 「自分を低くする者は高められる」という言葉の要点は謙遜であり、それを強調するために用いられる逆転の描写はよく見られるものである（ルカ1章52-53節、6章21節、10章15節、18章14節）。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでδέ（de）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  That is, the leader of the Pharisees (v. 1).",
+        "ja": "[解説] すなわち、ファリサイ派の指導者のことである（1節）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The meaning of the two terms for meals here, ἄριστον (ariston) and δεῖπνον (deipnon), essentially overlap (L&N 23.22). Translators usually try to find two terms for a meal to use as equivalents (e.g., lunch and dinner, dinner and supper, etc.). In this translation “dinner” and “banquet” have been used, since the expected presence of rich neighbors later in the verse suggests a rather more elaborate occasion than an ordinary meal.",
+        "ja": "[翻訳注] ここで食事を表す二つの語、ἄρισトン（ariston）とδεῖπνον（deipnon）の意味は本質的に重複している（L&N 23.22）。翻訳者は通常、同等の二つの食事表現（昼食と夕食など）を見つけようとする。本翻訳では、後の節で裕福な近隣の人が登場することから、通常の食事よりも手の込んだ場が示唆されているため、「昼食」と「夕食」が用いられている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This term, δοχή (doch), is a third term for a meal (see v. 12) that could also be translated “banquet, feast.”",
+        "ja": "[翻訳注] この語δοχή（doche）は食事を表す三つ目の語であり（12節参照）、「宴会、祝宴」とも訳しうる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Normally the term means crippled as a result of being maimed or mutilated (L&N 23.177).",
+        "ja": "[解説] 通常この語は、手足を損なわれたことによる身体障害を意味する（L&N 23.177）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here “and” has been supplied between the last two elements in the series in keeping with English style.",
+        "ja": "[翻訳注] 英語の文体に合わせて、列挙の最後の二つの要素の間に「そして」が補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This list of needy is like Luke 7:22. See Deut 14:28-29; 16:11-14; 26:11-13.",
+        "ja": "[解説] この困窮者のリストはルカ7章22節と類似している。申命記14章28-29節、16章11-14節、26章11-13節を参照。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate that this follows from the preceding action. Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.",
+        "ja": "[翻訳注] ここでκαί（kai）は、前の行動から続くことを示すために「そうすれば」と訳されている。ギリシア語の文が長く複雑であるため、翻訳ではここで新しい文を開始している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  You will be blessed. God notes and approves of such generosity.",
+        "ja": "[解説] 「あなたは幸いとなる」。神はそのような寛大さに目を留め、良しとされる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The passive verb will be repaid looks at God’s commendation.",
+        "ja": "[解説] 受動態動詞「報いが与えられる」は神による称賛に焦点を当てている。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでδέ（de）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明瞭さのために指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “whoever” (the indefinite relative pronoun). This has been translated as “everyone who” to conform to contemporary English style.",
+        "ja": "[翻訳注] ギリシア語では不定関係代名詞の「だれでも」。現代英語の文体に合わせて「すべての人」と訳されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “will dine”; Grk “eat bread.” This refers to those who enjoy the endless fellowship of God’s coming rule.",
+        "ja": "[翻訳注] または「食事をする」。ギリシア語では「パンを食べる」。これは神の来たるべき支配において永遠の交わりを楽しむ人々を指している。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The kingdom of God is a major theme of Jesus. It is a realm in which Jesus rules and to which those who trust him belong. See Luke 6:20; 11:20; 17:20-21.",
+        "ja": "[解説] 神の国はイエスの主要なテーマである。それはイエスが統治し、イエスを信頼する人々が属する領域である。ルカ6章20節、11章20節、17章20-21節を参照。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明瞭さのために指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “dinner.”",
+        "ja": "[翻訳注] または「夕食」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Presumably those invited would have sent a reply with the invitation stating their desire to attend, much like a modern R.S.V.P. Then they waited for the servant to announce the beginning of the celebration (D. L. Bock, Luke [BECNT], 2:1272).",
+        "ja": "[解説] 招かれた人々は、現代の出欠返答のように、あらかじめ出席の意向を伝えていたと考えられる。そして、祝宴の始まりを告げるしもべの知らせを待っていた（D. L. Bock, Luke [BECNT], 2:1272）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “guests” is not in the Greek text but is implied.",
+        "ja": "[翻訳注] 「客」という言葉はギリシア語本文にはないが、暗示されている。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And at.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注] ギリシア語では「そして〜の時に」。ここではギリシア語と英語の文体の違いにより、καί（kai）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “dinner.”",
+        "ja": "[翻訳注] または「夕食」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on the word “slave” in 7:2.",
+        "ja": "[翻訳注] 7章2節の「しもべ」という語に関する注を参照。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “all unanimously” (BDAG 107 s.v. ἀπό 6). \"One after another\" is suggested by L&N 61.2.",
+        "ja": "[翻訳注] または「みな一致して」（BDAG 107 s.v. ἀπό 6）。「次々に」はL&N 61.2によって示唆されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  To make excuses and cancel at this point was an insult in the culture of the time. Regardless of customs concerning responses to invitations, refusal at this point was rude.",
+        "ja": "[解説] この段階で言い訳をして断ることは、当時の文化では侮辱であった。招待への返答に関する慣習にかかわらず、この時点での辞退は無礼な行為であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  I have bought a field. An examination of newly bought land was a common practice. It was this person’s priority.",
+        "ja": "[解説] 「畑を買ったので」。新しく購入した土地を調べることは一般的な慣行であった。それはこの人にとっての優先事項であった。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The expression Please excuse me is probably a polite way of refusing, given the dynamics of the situation, although it is important to note that an initial acceptance had probably been indicated and it was now a bit late for a refusal. The semantic equivalent of the phrase may well be “please accept my apologies.”",
+        "ja": "[解説] 「どうかご容赦ください」という表現は、状況の力学を考慮すると、おそらく丁重な断りの表現である。ただし、最初の段階で出席の意思表示がなされていたと考えられ、今になって断るのは遅すぎる点に留意することが重要である。この句の意味的な対応語は「どうかお許しください」とも言える。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And another.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注] ギリシア語では「そして別の人は」。ここではギリシア語と英語の文体の違いにより、καί（kai）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Five yoke of oxen. This was a wealthy man, because the normal farmer had one or two yoke of oxen.",
+        "ja": "[解説] 「牛を五組」。通常の農民は1組か2組の牛しか持たないため、この人物は裕福であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The translation “going out” for πορεύομαι (poreuomai) is used because “going” in this context could be understood to mean “I am about to” rather than the correct nuance, “I am on my way to.”",
+        "ja": "[翻訳注] πορεύομαι（poreuomai）の翻訳として「行くところである」が用いられているのは、この文脈での「行く」が「〜しようとしている」と解釈されるのを防ぎ、「〜に向かう途中である」という正確なニュアンスを表すためである。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And another.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注] ギリシア語では「そして別の人は」。ここではギリシア語と英語の文体の違いにより、καί（kai）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  I just got married, and I cannot come. There is no request to be excused here; just a refusal. Why this disqualifies attendance is not clear. The OT freed a newly married man from certain responsibilities such as serving in the army (Deut 20:7; 24:5), but that would hardly apply to a banquet. The invitation is not respected in any of the three cases.",
+        "ja": "[解説] 「結婚したばかりなので、行くことができません」。ここには容赦を求める言葉はなく、単なる拒絶である。なぜこれが宴会への出席を妨げるのかは定かではない。旧約聖書では新婚の男性に軍務などの義務を免除する規定があるが（申命記20章7節、24章5節）、宴会には当てはまらない。三つの事例のいずれにおいても招待は尊重されていない。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the result of the preceding responses.",
+        "ja": "[翻訳注] ここでκαί（kai）は、前述の応答の結果を示すために「そこで」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “being furious, said.” The participle ὀργισθείς (orgisqei\") has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注] ギリシア語では「怒って言った」。分詞ὀργισθείς（orgistheis）は、現代英語の文体上の要請により定形動詞として訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  It was necessary to go out quickly because the banquet was already prepared. All the food would spoil if not eaten immediately.",
+        "ja": "[解説] 宴会はすでに準備されていたため、急いで出て行く必要があった。すぐに食べなければすべての料理がだめになってしまうからである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “town.”",
+        "ja": "[翻訳注] または「町」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The poor, the crippled, the blind and the lame. Note how the list matches v. 13, illustrating that point. Note also how the party goes on; it is not postponed until a later date. Instead new guests are invited.",
+        "ja": "[解説] 「貧しい人、体の不自由な人、目の見えない人、足の不自由な人」。このリストが13節と一致し、その要点を例証していることに注目。また、祝宴が中止されず、後日に延期されることもなく、代わりに新しい客が招かれていることにも注目。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “and the crippled.” Normally crippled as a result of being maimed or mutilated (L&N 23.177). Καί (kai) has not been translated here and before the following category (Grk “and the blind and the lame”) since English normally uses a coordinating conjunction only between the last two elements in a series of three or more.",
+        "ja": "[翻訳注] ギリシア語では「そして体の不自由な人」。通常、手足を損なわれたことによる身体障害を意味する（L&N 23.177）。英語では通常3つ以上の要素の列挙において最後の2つの間のみに等位接続詞を用いるため、καί（kai）はここおよび次の区分（ギリシア語では「そして目の見えない人と足の不自由な人」）の前では訳出されていない。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the order of events within the parable.",
+        "ja": "[翻訳注] ここでκαί（kai）は、たとえの中での出来事の順序を示すために「そして」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  And still there is room. This comment suggests the celebration was quite a big one, picturing the openness of God’s grace.",
+        "ja": "[解説] 「まだ席があります」。この言葉は祝宴が大規模なものであったことを示唆し、神の恵みの広大さを描いている。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the master’s response to the slave’s report.",
+        "ja": "[翻訳注] ここでκαί（kai）は、しもべの報告に対する主人の応答を示すために「そこで」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the”; in context the article is used as a possessive pronoun (ExSyn 215).",
+        "ja": "[翻訳注] ギリシア語では「その」。文脈上、冠詞は所有代名詞として用いられている（ExSyn 215）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Go out to the highways and country roads. This suggests the inclusion of people outside the town, even beyond the needy (poor, crippled, blind, and lame) in the town, and so is an allusion to the inclusion of the Gentiles.",
+        "ja": "[解説] 「大通りや小道に出て行き」。これは町の中の困窮者（貧しい人、体の不自由な人、目の見えない人、足の不自由な人）にとどまらず、町の外の人々をも含めることを示唆しており、異邦人の包含を暗示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Greek word φραγμός (fragmo\") refers to a fence, wall, or hedge surrounding a vineyard (BDAG 1064 s.v. 1). “Highways” and “country roads” probably refer not to separate places, but to the situation outside the town where the rural roads run right alongside the hedges or fences surrounding the fields (cf. J. A. Fitzmyer, Luke [AB], 1057).",
+        "ja": "[翻訳注] ギリシア語のφραγμός（fragmos）は、ブドウ畑を取り囲む垣根、壁、生け垣を指す（BDAG 1064 s.v. 1）。「大通り」と「小道」はおそらく別々の場所を指すのではなく、畑を囲む生け垣や垣根のすぐそばを通る町の外の農道の状況を指している（J. A. Fitzmyer, Luke [AB], 1057参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Traditionally “force” or “compel,” but according to BDAG 60 s.v. ἀναγκάζω 2 this is a weakened nuance: “strongly urge/invite.” The meaning in this context is more like “persuade.”",
+        "ja": "[翻訳注] 伝統的には「強制する」または「強いる」であるが、BDAG 60 s.v. ἀναγκάζω 2によれば、これは「強く促す／招く」という和らいだニュアンスを持つ。この文脈での意味は「説得する」に近い。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The word “people” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 「人々」という語はギリシア語本文にはないが、暗示されている。ギリシア語では文脈から明らかな場合、直接目的語が省略されることがよくあった。"
+      },
+      {
+        "pos": 7,
+        "en": "[解説]  So that my house will be filled. God will bless many people.",
+        "ja": "[解説] 「私の家を満たすために」。神は多くの人々を祝福される。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek word here is ἀνήρ (anhr), which frequently stresses males or husbands (in contrast to women or wives). However, the emphasis in the present context is on identifying these individuals as the ones previously invited, examples of which were given in vv. 18-20. Cf. also BDAG 79 s.v. ἀνήρ 2.",
+        "ja": "[翻訳注] ここでのギリシア語はἀνήρ（aner）であり、（女性や妻と対比して）男性や夫を強調することが多い。しかし、現在の文脈における強調は、これらの人々を以前に招かれた者（18-20節で例が挙げられている）として特定することにある。BDAG 79 s.v. ἀνήρ 2も参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  None of those individuals who were invited. This is both the point and the warning. To be a part of the original invitation does not mean one automatically has access to blessing. One must respond when the summons comes in order to participate. The summons came in the person of Jesus and his proclamation of the kingdom. The statement here refers to the fact that many in Israel will not be blessed with participation, for they have ignored the summons when it came.",
+        "ja": "[解説] 「招かれていた人たちの中で一人も〜ない」。これは要点であると同時に警告でもある。最初の招待の対象であったからといって、自動的に祝福にあずかれるわけではない。招きの声がかかったときに、応じる必要がある。その招きはイエスという人格とその御国の宣言によってもたらされた。ここでの言葉は、イスラエルの多くの人々が、招きが来たときにそれを無視したために、あずかる祝福を受けられないという事実を指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “dinner.”",
+        "ja": "[翻訳注] または「夕食」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[解説]  It is important to note that the following remarks are not just to disciples, but to the large crowds who were following Jesus.",
+        "ja": "[解説] 以下の言葉が弟子たちだけでなく、イエスに従っていた大勢の群衆に向けられたものであることに注目することが重要である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明瞭さのために指示対象（イエス）を明示している。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This figurative use operates on a relative scale. God is to be loved more than family or self.",
+        "ja": "[翻訳注] この比喩的な用法は相対的な尺度で機能している。家族や自分自身よりも神を愛するべきであることを意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “his own soul,” but ψυχή (yuch) is frequently used of one’s physical life. It clearly has that meaning in this context.",
+        "ja": "[翻訳注] ギリシア語では「彼自身の魂」。ただしψυχή（psyche）は肉体の命を指して用いられることが多く、この文脈でもその意味である。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  It was customary practice in a Roman crucifixion for the prisoner to be made to carry his own cross. Jesus is speaking figuratively here in the context of rejection. If the priority is not one’s allegiance to Jesus, then one will not follow him in the face of possible rejection; see Luke 9:23.",
+        "ja": "[解説] ローマの十字架刑では、囚人に自分の十字架を運ばせることが慣習であった。イエスはここで拒絶される文脈の中で比喩的に語られている。イエスへの忠誠が第一でないなら、拒絶される可能性に直面したときにイエスに従うことはできない。ルカ9章23節を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and come after.” In combination with the verb ἔρχομαι (ercomai) the improper preposition ὀπίσω (opisw) means “follow.”",
+        "ja": "[翻訳注] ギリシア語では「そして後ろに来る」。動詞ἔρχομαι（erchomai）と不真正前置詞ὀπίσω（opiso）の組み合わせで「従う」を意味する。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The participle καθίσας (kaqisas) has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注] 分詞καθίσας（kathisas）は、現代英語の文体上の要請により定形動詞として訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The first illustration involves checking to see if enough funds exist to build a watchtower. Both ψηφίζω (yhfizw, “compute”) and δαπάνη (dapanh, “cost”) are economic terms.",
+        "ja": "[翻訳注] 最初の例えは、見張り塔を建てるのに十分な資金があるかどうかを確認することに関するものである。ψηφίζω（psephizo、「計算する」）とδαπάνη（dapane、「費用」）はいずれも経済用語である。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “to complete it, lest.” Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation and ἵνα μήποτε ({ina mhpote, “lest”) has been translated as “Otherwise.”",
+        "ja": "[翻訳注] ギリシア語では「それを完成させるために、〜でないと」。ギリシア語の文が長く複雑であるため、翻訳ではここで新しい文を開始し、ἵνα μήποτε（hina mepote、「〜しないように」）を「そうしないと」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The participle θέντος (qentos) has been taken temporally.",
+        "ja": "[翻訳注] 分詞θέντος（thentos）は時間的な意味として解釈されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “the tower” are not in the Greek text, but are implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 「塔」という語はギリシア語本文にはないが、暗示されている。ギリシア語では文脈から明らかな場合、直接目的語が省略されることがよくあった。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “it” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 「それを」という語はギリシア語本文にはないが、暗示されている。ギリシア語では文脈から明らかな場合、直接目的語が省略されることがよくあった。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “mock,” “ridicule.” The person who did not plan ahead becomes an object of joking and ridicule.",
+        "ja": "[翻訳注] または「あざける」「嘲笑する」。事前に計画しなかった人は、からかいや嘲笑の対象となる。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “make fun of him, saying.”",
+        "ja": "[翻訳注] ギリシア語では「〜と言って彼をあざ笑う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The phrase this man is often used in Luke in a derogatory sense; see “this one” and expressions like it in Luke 5:21; 7:39; 13:32; 23:4, 14, 22, 35.",
+        "ja": "[解説] 「この人」という表現は、ルカ福音書では軽蔑的な意味で用いられることが多い。ルカ5章21節、7章39節、13章32節、23章4節、14節、22節、35節の「この者」や同様の表現を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The failure to finish the building project leads to embarrassment (in a culture where avoiding public shame was extremely important). The half completed tower testified to poor preparation and planning.",
+        "ja": "[解説] 建築計画を完了できないことは、（公の恥を避けることが重要であった文化において）当惑をもたらす。未完成の塔は、不十分な準備と計画を証明するものであった。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The participle καθίσας (kaqisa\") has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注] 分詞καθίσας（kathisas）は、現代英語の文体上の要請により定形動詞として訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  On the meaning of this verb see also L&N 55.3, “to meet in battle, to face in battle.”",
+        "ja": "[翻訳注] この動詞の意味については、L&N 55.3「戦いで交戦する、戦いで直面する」も参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And if not.” Here δέ (de) has not been translated; “succeed” is implied and has been supplied in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「そしてもしそうでなければ」。ここではδέ（de）は訳出されていない。明瞭さのために「勝てそうになければ」というニュアンスが補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “a messenger.”",
+        "ja": "[翻訳注] ギリシア語では「使者」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This image is slightly different from the former one about the tower (vv. 28-30). The first part of the illustration (sit down first and determine) deals with preparation. The second part of the illustration (ask for terms of peace) has to do with recognizing who is stronger. This could well suggest thinking about what refusing the “stronger one” (God) might mean, and thus constitutes a warning. Achieving peace with God, the more powerful king, is the point of the illustration.",
+        "ja": "[解説] この描写は塔に関する前の例え（28-30節）とは少し異なっている。例えの前半（まず座って判断する）は準備に関わる。例えの後半（講和の条件を求める）は、だれがより強いかを認識することに関わる。これは「より強い者」（神）を拒絶することが何を意味するかを考えることを示唆しており、警告を構成している。より強力な王である神との和解を達成することが、この例えの要点である。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Likewise therefore every one of you who does not renounce all his own possessions cannot be my disciple.” The complex double negation is potentially confusing to the modern reader and has been simplified in the translation. See L&N 57.70.[解説]  The application of the saying is this: Discipleship requires that God be in first place. The reference to renunciation of all his own possessions refers to all earthly attachments that have first place.",
+        "ja": "[翻訳注] ギリシア語では「同様に、それゆえ自分の持ち物のすべてを捨て去らないあなたがたのすべての者は、わたしの弟子になることはできない」。複雑な二重否定は現代の読者を混乱させる恐れがあるため、翻訳では簡潔にされている。L&N 57.70を参照。[解説] この言葉の適用は次の通りである。弟子となるためには神が第一でなければならない。自分のすべての持ち物を捨てることへの言及は、第一の座を占める地上のあらゆる執着を指している。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Now salt…”; here οὖν has not been translated.[解説]  Salt was used as seasoning or fertilizer (BDAG 41 s.v. ἅλας a), or as a preservative. If salt ceased to be useful, it was thrown away. With this illustration Jesus warned about a disciple who ceased to follow him.",
+        "ja": "[翻訳注] ギリシア語では「さて、塩は…」。ここではοὖνは訳出されていない。[解説] 塩は調味料や肥料（BDAG 41 s.v. ἅλας a）、あるいは防腐剤として用いられた。塩が役に立たなくなると、それは投げ捨てられた。この例えによってイエスは、イエスに従うことをやめてしまう弟子について警告された。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The difficulty of this saying is understanding how salt could lose its flavor since its chemical properties cannot change. It is thus often assumed that Jesus was referring to chemically impure salt, perhaps a natural salt which, when exposed to the elements, had all the genuine salt leached out, leaving only the sediment or impurities behind. Others have suggested the background of the saying is the use of salt blocks by Arab bakers to line the floor of their ovens: Under the intense heat these blocks would eventually crystallize and undergo a change in chemical composition, finally being thrown out as unserviceable. A saying in the Talmud (b. Bekhorot 8b) attributed to R. Joshua ben Chananja (ca. a.d. 90), when asked the question “When salt loses its flavor, how can it be made salty again?” is said to have replied, “By salting it with the afterbirth of a mule.” He was then asked, “Then does the mule (being sterile) bear young?” to which he replied: “Can salt lose its flavor?” The point appears to be, both are impossible. The saying, while admittedly late, suggests that culturally the loss of flavor by salt was regarded as an impossibility. Genuine salt can never lose its flavor. In this case the saying by Jesus here may be similar to Matt 19:24, where it is likewise impossible for the camel to go through the eye of a sewing needle.",
+        "ja": "[解説] この言葉の難しさは、塩の化学的性質が変化しないにもかかわらず、塩がどのように味を失うのかを理解することにある。そのため、イエスは化学的に不純な塩、おそらく風雨にさらされて真正の塩がすべて溶け出し、堆積物や不純物だけが残った天然の塩を指していたと推測されることが多い。また、アラブのパン職人が窯の床に敷くために使った塩の塊がこの言葉の背景にあるという説もある。激しい熱の下でこれらの塊は結晶化して化学組成が変化し、使い物にならなくなって最終的に廃棄された。タルムード（b. Bekhorot 8b）の伝承によると、ラビ・ヨシュア・ベン・ハナニア（紀元90年頃）は「塩が味を失ったとき、どうすれば再び塩味を取り戻すことができるか」と問われ、「ラバの後産で塩漬けにすることだ」と答えたという。「では、（不妊である）ラバが子を産むのか」と聞き返されると、彼は「塩が味を失うことがあるか」と答えた。要点は、どちらも不可能だということである。この伝承は後代のものであるが、文化的に塩が味を失うことは不可能と考えられていたことを示唆している。本物の塩は決して味を失わない。この場合、ここでのイエスの言葉は、ラクダが針の穴を通ることも同様に不可能であるマタイ19章24節と似ているのかもしれない。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “It is not useful” (L&N 65.32).",
+        "ja": "[翻訳注] または「役に立たない」（L&N 65.32）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “they throw it out.” The third person plural with unspecified subject is a circumlocution for the passive here.",
+        "ja": "[翻訳注] ギリシア語では「彼らはそれを外へ投げ捨てる」。不特定の主語を伴う三人称複数は、ここでは受動態の迂言的表現である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The translation “had better listen!” captures the force of the third person imperative more effectively than the traditional “let him hear,” which sounds more like a permissive than an imperative to the modern English reader. This was Jesus’ common expression to listen and heed carefully (cf. Matt 11:15; 13:9, 43; Mark 4:9, 23; Luke 8:8).",
+        "ja": "[翻訳注] 「聞きなさい」という翻訳は、伝統的な「聞くがよい」よりも三人称命令形の力を効果的に捉えている。これは注意深く聞いて心に留めるようにというイエスの定番の表現であった（マタイ11章15節、13章9節、43節、マルコ4章9節、23節、ルカ8章8節参照）。"
+      }
+    ]
+  }
+}

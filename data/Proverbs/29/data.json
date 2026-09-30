@@ -1,0 +1,617 @@
+{
+  "book": "Proverbs",
+  "chapter": 29,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The one who stiffens his neck after numerous rebukes will suddenly be destroyed without remedy. ",
+      "ja": "度重なる戒めを受けてもなお首を硬くする者は、突如として破滅し、もはや癒やされることはない。"
+    },
+    {
+      "verse": 2,
+      "en": "When the righteous become numerous, the people rejoice; when the wicked rule, the people groan. ",
+      "ja": "正しい者が増えれば民は喜び、悪者が支配すれば民は嘆く。"
+    },
+    {
+      "verse": 3,
+      "en": "The man who loves wisdom brings joy to his father, but whoever associates with prostitutes wastes his wealth. ",
+      "ja": "知恵を愛する者はその父を喜ばせるが、遊女に寄り添う者は自分の財産を浪費する。"
+    },
+    {
+      "verse": 4,
+      "en": "A king brings stability to a land by justice, but one who exacts tribute tears it down.",
+      "ja": "王は正義によって国を安定させるが、過大な貢ぎ物を課す者は国を破壊する。"
+    },
+    {
+      "verse": 5,
+      "en": "The one who flatters his neighbor spreads a net for his steps. ",
+      "ja": "隣人にへつらう者は、その歩みのために網を仕掛けているのである。"
+    },
+    {
+      "verse": 6,
+      "en": "In the transgression of an evil person there is a snare, but a righteous person can sing and rejoice. ",
+      "ja": "悪人の背きには罠があるが、正しい者は歌い喜び楽しむ。"
+    },
+    {
+      "verse": 7,
+      "en": "The righteous person cares for the legal rights of the poor; the wicked person does not understand such knowledge. ",
+      "ja": "正しい者は貧しい者の法的な権利を心にかけて配慮するが、悪者にはそのような知識の理解はない。"
+    },
+    {
+      "verse": 8,
+      "en": "Scornful people inflame a city, but those who are wise turn away wrath. ",
+      "ja": "傲慢な者たちは町を炎のように燃え上がらせるが、知恵ある者たちは怒りを静める。"
+    },
+    {
+      "verse": 9,
+      "en": "When a wise person goes to court with a foolish person, there is no peace whether he is angry or laughs. ",
+      "ja": "知恵ある者が愚かな者と裁判で争うとき、愚かな者が怒ろうとも笑おうとも、そこに平安はない。"
+    },
+    {
+      "verse": 10,
+      "en": "Bloodthirsty people hate someone with integrity; as for the upright, they seek his life. ",
+      "ja": "人殺しのような血に飢えた者たちは誠実な者を憎み、直ぐな者たちはその命を求めようとする。"
+    },
+    {
+      "verse": 11,
+      "en": "A fool lets fly with all his temper, but a wise person keeps it back. ",
+      "ja": "愚かな者は自分の怒りをすべて表に出すが、知恵ある者はそれをしっかりと抑えつける。"
+    },
+    {
+      "verse": 12,
+      "en": "If a ruler listens to lies, all his ministers will be wicked. ",
+      "ja": "支配者が偽りに耳を傾けるなら、その臣下はみな悪しき者となる。"
+    },
+    {
+      "verse": 13,
+      "en": "The poor person and the oppressor have this in common: The Lord gives light to the eyes of them both. ",
+      "ja": "貧しい者と虐げる者には共通点がある。主はその両者の目に光を与えられるのである。"
+    },
+    {
+      "verse": 14,
+      "en": "If a king judges the poor in truth, his throne will be established forever. ",
+      "ja": "王が真実に従って貧しい者を裁くなら、その王座は永遠に堅く立つ。"
+    },
+    {
+      "verse": 15,
+      "en": "A rod and reproof impart wisdom, but a child who is unrestrained brings shame to his mother. ",
+      "ja": "鞭と戒めは知恵を与えるが、勝手気ままに放任された子供はその母に恥をもたらす。"
+    },
+    {
+      "verse": 16,
+      "en": "When the wicked increase, transgression increases, but the righteous will see their downfall. ",
+      "ja": "悪者が増えれば背きも増えるが、正しい者たちはその没落を見る。"
+    },
+    {
+      "verse": 17,
+      "en": "Discipline your child, and he will give you rest; he will bring you happiness. ",
+      "ja": "あなたの子供を訓練せよ。そうすれば、彼はあなたに安らぎを与え、あなたの魂に喜びをもたらしてくれる。"
+    },
+    {
+      "verse": 18,
+      "en": "When there is no prophetic vision the people cast off restraint, but the one who keeps the law, blessed is he!",
+      "ja": "神からの預言的な啓示がないならば、民は自らを抑えられずに奔走する。しかし、律法を守る者は幸いである。"
+    },
+    {
+      "verse": 19,
+      "en": "A servant cannot be corrected by words, for although he understands, there is no answer. ",
+      "ja": "奴隷は言葉だけでは正しく矯正することができない。理解してはいても、答えようとしないからである。"
+    },
+    {
+      "verse": 20,
+      "en": "You have seen someone who is hasty in his words— there is more hope for a fool than for him.",
+      "ja": "あなたは言葉の軽率な者を見たことがあるか。そのような者よりも、愚かな者のほうがまだ望みがある。"
+    },
+    {
+      "verse": 21,
+      "en": "If someone pampers his servant from youth, he will be a weakling in the end. ",
+      "ja": "若い頃から奴隷を甘やかして育てるなら、彼は結局のところ虚弱な者になってしまう。"
+    },
+    {
+      "verse": 22,
+      "en": "An angry person stirs up dissension, and a wrathful person is abounding in transgression. ",
+      "ja": "怒りっぽい者は争いを引き起こし、激しい憤りに満ちた者は多くの罪を犯す。"
+    },
+    {
+      "verse": 23,
+      "en": "A person’s pride will bring him low, but one who has a lowly spirit will gain honor. ",
+      "ja": "人の高慢はその者を低くし、霊の低い者は誉れを得る。"
+    },
+    {
+      "verse": 24,
+      "en": "Whoever shares with a thief is his own enemy; he hears the oath to testify, but does not talk. ",
+      "ja": "盗人と分け合う者は自分の命を憎む者である。彼は証言を求める呪いの誓いを聞いても、何も語らない。"
+    },
+    {
+      "verse": 25,
+      "en": "The fear of people becomes a snare, but whoever trusts in the Lord will be set on high. ",
+      "ja": "人を恐れることは罠となるが、主に信頼する者は高い砦に置かれて安全である。"
+    },
+    {
+      "verse": 26,
+      "en": "Many people seek the face of a ruler, but it is from the Lord that one receives justice. ",
+      "ja": "多くの人が支配者の顔色を伺い、その恩寵を求めようとするが、人に正義をもたらすのは主からである。"
+    },
+    {
+      "verse": 27,
+      "en": "An unjust person is an abomination to the righteous, and the one who lives an upright life is an abomination to the wicked. ",
+      "ja": "不義を行う者は正しい者にとって忌むべきものであり、直ぐな歩みをする者は悪者にとって忌むべきものである。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The idiom “to harden the neck” (מַקְשֶׁה־עֹרֶף, maqsheh-’oref) is the idea of resisting the rebukes and persisting in obstinacy (e.g., Exod 32:9). The opposite of a “stiff neck” would be the bending back, i.e., submission.",
+        "ja": "「首を硬くする」（מַקְשֶׁה־עֹרֶף）というイディオムは、戒めに抵抗し、頑固さを貫き通す態度を表しています（出エジプト32:9など）。「首の硬い」ことの対義語は、首を曲げること、すなわち服従を意味します。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew construction is אִישׁ תּוֹכָחוֹת (’ish tokhakhot, “a man of rebukes”), meaning “a man who has (or receives) many rebukes.” This describes a person who is deserving of punishment and who has been given many warnings. The text says, then, “a man of rebukes hardening himself.”",
+        "ja": "ヘブル語の表現は אִישׁ תּוֹכָחוֹת（イシュ・トウカホウト、「叱責の男」）であり、「多くの戒めを受けてきた（あるいは受けるべき）人」を意味します。これは罰に値し、度重なる警告を受けてきた人物を描写しています。つまり、「多くの戒めを受けながら自らを強情にする者」という意味になります。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The stubborn person refuses to listen; he will suddenly be destroyed when the calamity strikes (e.g., Prov 6:15; 13:18; 15:10).",
+        "ja": "頑固な者は聞く耳を持たず、災いが襲うときには突如として滅ぼされます（箴言6:15; 13:18; 15:10など）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “healing” (NRSV).",
+        "ja": "あるいは「癒やし」（NRSV）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew form בִּרְבוֹת (birvot) is the Qal infinitive construct of רָבָה (ravah) with a בּ (bet) preposition, forming a temporal clause with a subjective genitive following it. It is paralleled in the second colon by the same construction, showing the antithesis: וּבִמְשֹׁל (uvimshol), “and when the wicked rule.” Some commentators wish to change the first verb to make it parallel this more closely, e.g., רָדָה (radah, “to rule”), but that would be too neat and is completely unsupported. The contrast is between when the righteous increase and when the wicked rule. It is not hard to see how this contrast works out in society.",
+        "ja": "ヘブル語の形式 בִּרְבוֹת（ビルヴォート）は רָבָה（ラヴァ）のQal不定詞連係形に前置詞 בּ（ベ）が付いたもので、主語を伴う時を表す節を形成しています。第2スタンザでも同様の構造 וּבִמְשֹׁל（ウヴィムショル、「悪者が支配するとき」）が対句をなしています。一部の注解者は最初の動詞を変更して第2スタンザとより厳密に対比させようとしますが（例：רָדָה [ラダ、「支配する」]）、それはあまりに整いすぎており、何の写本的裏付けもありません。対比されているのは、正しい者が増えるときと、悪者が支配するときの状況です。この対比が社会においてどのように表れるかを理解するのは難しくありません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Niphal verb אָנַח (’anakh) means “to sigh; to groan,” usually because of grief or physical and emotional distress. The word is a metonymy of effect; the cause is the oppression and distress due to evil rulers.",
+        "ja": "Niphalの動詞 אָנַח（アナフ）は「ため息をつく、うめく」を意味し、通常は悲しみや肉体的・精神的な苦痛が原因で起こります。この言葉は結果による換喩であり、その原因は邪悪な支配者たちによる抑圧と苦悩です。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man.” Here “man” is retained in the translation because the second colon mentions prostitutes.",
+        "ja": "ヘブル語で「ある男」。ここでは、第2スタンザで遊女に言及しているため、「男」という語が訳に残されています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “causes his father to rejoice”; NAB “makes his father glad.”",
+        "ja": "あるいは「その父を喜ばせる」；NAB「その父を嬉しくさせる」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The active participle רֹעֶה (ro’eh) is from the second root רָעָה (ra’ah), meaning “to associate with.” The verb occurs only a few times, and mostly in the book of Proverbs. It is related to רֵעֶה (re’eh, “friend; companion; fellow”). To describe someone as a “companion” or “friend” of prostitutes is somewhat euphemistic; it surely means someone who is frequently engaging the services of prostitutes.",
+        "ja": "能動分詞 רֹעֶה（ロエ）は2番目の語根 רָעָה（ラア）に由来し、「交際する」を意味します。この動詞は聖書の中でも数回しか現れず、そのほとんどが箴言の中にあります。それは רֵעֶה（レエ、「友、仲間、同輩」）に関連しています。ある人を遊女の「仲間」や「友」と描写することはある種の婉曲表現であり、確実に、頻繁に遊女のサービスを利用している人物を意味しています。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hebrew verb יְאַבֶּד (yÿ’abbed) means “destroys”; it is the Piel imperfect of the verb that means “to perish.”",
+        "ja": "ヘブル語の動詞 יְאַבֶּד（イアッベド）は「滅ぼす」を意味します。これは「滅びる」を意味する動詞のPiel未完了形です。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Wealth was seen as a sign of success and of God’s blessings, pretty much as it always has been. To be seen as honorable in the community meant one had acquired some substance and kept his reputation. It would be a disgrace to the family to have a son who squandered his money on prostitutes (e.g., Prov 5:10; 6:31).",
+        "ja": "富は、いつの時代もそうであるように、成功のしるしであり神の祝福の表れとみなされていました。地域社会で名誉ある者とみなされることは、ある程度の財産を築き、その評判を保っていることを意味していました。遊女に金を浪費するような息子を持つことは、家族にとっての恥辱でありました（例：箴言5:10; 6:31）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form is the Hiphil imperfect of the verb עָמַד (’amad, “to stand”), hence, “to cause to stand.” It means that the king makes the nation “stand firm,” with “standing firm” being a figure for strength, security, and stability. Cf. NCV “makes his country (the nation CEV) strong.”",
+        "ja": "この形は動詞 עָמַד（アマド、「立つ」）のHiphil未完了形であり、したがって「立たせる」という意味になります。それは王が国家を「しっかりと立たせる」ことを意味し、「しっかりと立つこと」は力、安全、安定の比喩となっています。NCVの「その国（国家）を強くする」を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “country.” This term functions as a metonymy of subject for the people in the land.",
+        "ja": "あるいは「国」。この言葉は、その土地に住む人々を指す主体の換喩として機能しています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew text reads אִישׁ תְּרוּמוֹת (’ish tÿrumot, “a man of offerings”), which could refer to a man who “receives gifts” or “gives gifts.” Because of its destructive nature on the country, here the phrase must mean that he receives or “exacts” the money (cf. NRSV “makes heavy exactions”). This seems to go beyond the ordinary taxation for two reasons: (1) this ruler is a “man of offerings,” indicating that it is in his nature to do this, and (2) it tears down the country. The word “offerings” has been taken to refer to gifts or bribes (cf. NASB, NIV, CEV, NLT), but the word itself suggests more the idea of tribute or taxes that are demanded; this Hebrew word was used in Leviticus for offerings given to the priests, and in Ezek 45:16 for taxes. The point seems to be that this ruler or administrator is breaking the backs of the people with heavy taxes or tribute (e.g., 1 Sam 8:11-18), and this causes division and strife.",
+        "ja": "ヘブル語テクストは אִישׁ תְּרוּמוֹת（イシュ・トルモート、「捧げ物の男」）と読んでおり、これは「贈り物を受け取る男」または「贈り物を与える男」を指す可能性があります。国に対して破壊的な影響を及ぼすという文脈から、ここでは彼が金銭を受け取る、あるいは「取り立てる（過酷な取り立てを行う）」ことを意味しているに違いありません（NRSV「重い取り立てを行う」などを参照）。これは通常の課税を越えているように思われますが、その理由は2つあります。(1) この支配者が「捧げ物の男」であることは、これを行うことが彼の本質であることを示していること、そして (2) それが国を破壊するということです。「捧げ物」という言葉は贈り物やワイロを指すものと解釈されてきましたが（NASB、NIV、CEV、NLTなどを参照）、その言葉自体はむしろ要求される貢ぎ物や税金の概念を強く含んでいます。このヘブル語はレビ記において祭司に与えられる捧げ物のために使われ、エゼキエル書45章16節では税金のために使われました。要するに、この支配者や行政官が重税や貢ぎ物によって民の背骨を折り（例：サムエル記上8:11-18）、それが分裂と争いを引き起こしているということのようです。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man,” but the context here does not suggest that the proverb refers to males only.",
+        "ja": "ヘブル語で「ひとりの男」ですが、この文脈は格言が男性のみに限定されるべきであることを示唆していません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The form is the Hiphil participle, literally “deals smoothly,” i.e., smoothing over things that should be brought to one’s attention.[解説]  The flatterer is too smooth; his words are intended to gratify. In this proverb some malice is attached to the flattery, for the words prove to be destructive.",
+        "ja": "この形はHiphil分詞であり、文字通りには「なめらかに扱う」、すなわち、本来指摘されるべき問題点をなだめてごまかすことを意味します。[解説] へつらう者は非常に調子がよく、その言葉は相手を喜ばせることを目的としています。この格言では、そのへつりには悪意が伴っており、最終的にその言葉が破壊的であることが証明されるのです。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The image of “spreading a net” for someone’s steps is an implied comparison (a figure of speech known as hypocatastasis): As one would literally spread a net, this individual’s flattery will come back to destroy him. A net would be spread to catch the prey, and so the idea is one of being caught and destroyed.",
+        "ja": "誰かの歩みのために「網を広げる」というイメージは、暗黙の比較（ヒポカタスタシスとして知られる修辞技法）です。文字通り網を広げるように、この個人のへつりは最終的に彼自身を滅ぼす結果となって返ってきます。獲物を捕らえるために網が広げられるのと同様に、人は罠にかけられて滅ぼされるという思想があります。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  There is some ambiguity concerning the referent of “his steps.” The net could be spread for the one flattered (cf. NRSV, “a net for the neighbor’s feet”; NLT, “their feet,” referring to others), or for the flatterer himself (cf. TEV “you set a trap for yourself”). The latter idea would make the verse more powerful: In flattering someone the flatterer is getting himself into a trap (e.g., 2:16; 7:5; 26:28; 28:23).",
+        "ja": "「彼の歩み」の指示対象に関してはあいまいさがあります。網はへつらわれた相手のために仕掛けられることもあり得ますが（NRSV「隣人の足のための網」、NLT「彼らの足」など、他者を指す）、へつらう者自身のために仕掛けられるとも解釈できます（TEV「あなたは自分自身のために罠を仕掛けている」など）。後者の解釈をとるほうが、詩句により強い力を与えます。すなわち、人をへつらうことによって、へつる者自身が罠に陥っているということです（例：2:16; 7:5; 26:28; 28:23）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Syriac and Tg. Prov 29:6 simplify the meaning by writing it with a passive verb: “the evil man is ensnared by his guilt.” The metaphor of the snare indicates that the evil person will be caught in his own transgression.",
+        "ja": "シリア語訳およびタルグムの箴言29章6節は、受動態の動詞を用いて意味を単純化しています。「悪人はその罪によって罠にかけられる」。網という比喩は、悪人が自身の transgressions（背き）の中で捕らえられることを示しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The two verbs create some difficulty because the book of Proverbs does not usually duplicate verbs like this and because the first verb יָרוּן (yarun) is irregular. The BHS editors prefer to emend it to יָרוּץ (yaruts, “will rush”; cf. NAB “runs on joyfully”). W. McKane emends it to “exult” to form a hendiadys: “is deliriously happy” (Proverbs [OTL], 638). G. R. Driver suggests changing the word to יָדוֹן (yadon) based on two Hebrew mss and an Arabic cognate dana, “continue.” He translates it “but the righteous remains and rejoices” (“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 193-94). None of these changes are particularly helpful. The verb is unusual for a geminate root, but Gesenius shows several places where the same pattern can be seen in other geminate verbs (GKC 180 §67.q). In light of this it is preferable to retain the reading of the MT here.",
+        "ja": "2つの動詞が使用されているためいくつかの困難が生じています。なぜなら、箴言はそのような動詞の重複をあまり好まず、最初の動詞 יָרוּן（ヤルン）が不規則だからです。BHSの編集者たちはこれを יָרוּץ（ヤルツ、「急ぐだろう」；NAB「喜びにあふれて走る」などを参照）に修正することを好みます。W.マッケーンはこれを「大喜びする」に修正してヘンディダイス（双子語法）を形成させ、「狂喜乱舞する」と訳しています（Proverbs [OTL], 638）。G.R.ドライバーは、2つのヘブル語写性とアラビア語の同根語 dana（「継続する」）に基づいて、この語を יָדוֹן（ヤドン）に変更することを提案しています。彼は「しかし正しい者はとどまって喜ぶ」と訳しています（“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 193-94）。これらの変更はいずれも特に有益ではありません。この動詞は双子語根としては異例ですが、ゲゼニウスは同様のパターンが他の双子語根動詞にも見られるいくつかの箇所を示しています（GKC 180 §67.q）。これに照らし、ここではマソラ本文（MT）の読みを保持することが望ましいと言えます。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  These two verbs express the confidence of the righteous – they have no fears and so can sing. So the proverb is saying that only the righteous can enjoy a sense of security.",
+        "ja": "これら2つの動詞は正しい者たちの確信を表しています。彼らには恐れがないため、歌うことができるのです。したがって、この格言が言っているのは、正しい者だけが真の安全感を享受できるということです。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form is an active participle, יֹדֵעַ (yodea’); it describes the righteous as “knowing, caring for, having sympathetic knowledge for, or considering favorably” the legal needs of the poor. Cf. NAB “has a care for”; NASB “is concerned for.”",
+        "ja": "この形は能動分詞 יֹדֵעַ（ヨデア）であり、正しい者が貧しい者の法的なニーズを「知っている、心にかける、共感的な知識を持っている、あるいは好意的に配慮している」姿を描写しています。NAB「気遣う」、NASB「関心を寄せる」などを参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew word used here is דִּין (din), which typically means “judgment,” but can also mean “strife” and “cause.” Here it refers to the “cause” of the poor (so KJV, ASV), their plea, their case, their legal rights. A righteous person is sympathetic to this.",
+        "ja": "ここで使用されているヘブル語の単語は דִּין（ディーン）であり、通常は「裁き、裁判」を意味しますが、「争い」や「訴えの理由、言い分」を意味することもあります。ここでは貧しい者の「言い分」（KJV, ASVなど）、その訴え、事件、法的な権利を指しています。正しい者はこれに対して同情的な態度を示します。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The term “such” is supplied in the translation for clarification. It is not simply any knowledge that the wicked do not understand, but the knowledge mentioned in the first colon. They do not understand the “sympathetic knowledge” or “concern” for the cause of the poor.",
+        "ja": "「そのような」という言葉は、明確化のために翻訳において補われているものです。悪者が理解しないのは単なるいかなる知識でもなく、前半で言及されている知識です。彼らは貧しい者の訴えに対する「共感的知識」や「配慮」を理解しないのです。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “men of scorn”; NAB “Arrogant men”; ASV, NRSV “Scoffers”; NIV, NLT “Mockers.”",
+        "ja": "ヘブル語で「あざ笑う者たち」；NAB「傲慢な者たち」；ASV, NRSV「あざ笑う者たち」；NIV, NLT「あざける者たち」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb means “to blow; to breathe” (BDB 806 s.v. פּוּחַ). In the Hiphil imperfect its meaning here is “to excite; to inflame” a city, as in blowing up a flame or kindling a fire. It is also used with “words” in 6:19 and 12:17 – they “puff out words.” Such scornful people make dangerous situations worse, whereas the wise calm things down (e.g., ).",
+        "ja": "この動詞は「吹く、息をする」を意味します（BDB 806 s.v. פּוּחַ）。Hiphil未完了形におけるここでの意味は、炎を吹き起こしたり火を燃え上がらせたりするように、町を「刺激する、燃え上がらせる」ということです。この表現は6:19や12:17の「言葉」とも一緒に使われており、彼らは「言葉を吹っかけている」のです。このようなあざ笑う者たちは危険な状況をさらに悪化させますが、知恵ある者たちは事態を鎮めます。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The term “city” is a metonymy of subject; it refers to the people in the city who can easily be set in an uproar by such scornful people.",
+        "ja": "「町」という言葉は主体の換喩であり、このようなあざ笑う者たちによって簡単に騒乱状態に陥る町の人々を指しています。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a wise man…a foolish man.”",
+        "ja": "ヘブル語で「知恵ある人……愚かな人」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb שָׁפַט (shafat) means “to judge.” In the Niphal stem it could be passive, but is more frequently reciprocal: “to enter into controversy” or “to go to court.” The word is usually used in connection with a lawsuit (so many recent English versions), but can also refer to an argument (e.g., 1 Sam 12:7; Isa 43:26); cf. NAB “disputes”; NASB “has a controversy.”",
+        "ja": "動詞 שָׁפַט（シャファト）は「裁く」を意味します。Niphal態では受動態もあり得ますが、より頻繁には相互的な意味、すなわち「論争に入る」または「裁判に赴く」を意味します。この言葉は通常、訴訟に関連して使用されますが（多くの最近の英訳がそうしているように）、口論を指すこともあります（例：サムエル記上12:7; イザヤ43:26）。NAB「論争する」、NASB「論争を持つ」などを参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The noun נָחַת (nakhat) is a derivative of נוּחַ (nuakh, “to rest”) and so means “quietness” or “rest,” i.e., “peace.”[解説]  The proverb is saying that there will be no possibility of settling the matter in a calm way, no matter what mood the fool is in (e.g., Prov 26:4). R. N. Whybray says one can only cut the losses and have no further dealings with the fool (Proverbs [CBC], 168).",
+        "ja": "名詞 נָחַת（ナハト）は נוּחַ（ヌアハ、「休む」）の派生語であり、「静けさ」や「休息」、すなわち「平安」を意味します。[解説] この格言が言っているのは、愚かな者の機嫌がどうであれ、事態を穏やかに解決できる可能性は一切ないということです（例：箴言26:4）。R.N.ワイブリーによれば、人は損失を切り捨てて、もはや愚かな者とは関わりを持たないようにするしかないと述べています（Proverbs [CBC], 168）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and he is angry and he laughs.” The construction uses the conjunctive vav to express alternate actions: “whether…or.”",
+        "ja": "ヘブル語で「そして彼は怒り、そして彼は笑う」。この構文は接続詞vavを用いて、「……であれ、……であれ」という選択的な行動を表現しています。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “men of bloods.” The Hebrew word for “blood” is written in the plural to reflect the shedding of blood. So the expression “men of bloods” means people who shed blood – murderers, bloodthirsty men, or those who would not hesitate to commit murder in order to get what they want.",
+        "ja": "ヘブル語で「血の男たち」。ヘブル語の「血」という言葉は、流された血を反映して複数形で書かれています。したがって「血の男たち」という表現は、血を流す人々――殺人者、血に飢えた者たち、あるいは自分の望むものを手に入れるためなら殺人を犯すこともためらわない者たちを意味します。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Hebrew word describes the “blameless” or “innocent” who maintain integrity. The bloodthirsty despise people who insist on decency and integrity.",
+        "ja": "[解説] ヘブル語の言葉は、正しさや誠実さを保つ「咎のない者」や「無実の者」を描写しています。血に飢えた者たちは、礼儀正しさと誠実さを主張する人々を蔑みます。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and the upright seek his life.” There are two ways this second line can be taken. (1) One can see it as a continuation of the first line, meaning that the bloodthirsty men also “seek the life of the upright” (cf. NIV, NRSV). The difficulty is that the suffix is singular but the apparent referent is plural. (2) One can take it is as a contrast: “but as for the upright, they seek his life” – a fairly straightforward rendering (cf. ASV). The difficulty here is that “seeking a life” is normally a hostile act, but it would here be positive: “seeking” a life to preserve it. The verse would then say that the bloodthirsty hate the innocent, but the righteous protect them (W. McKane, Proverbs [OTL], 637; cf. NAB, NASB, TEV).",
+        "ja": "ヘブル語で「そして直ぐな者たちは彼の命を求める」。この第2行には2つの解釈の仕方があります。(1) これを前の行の継続として捉え、血に飢えた者たちが「直ぐな者たちの命をも求める」という意味にする解釈（NIV, NRSVなど）。この場合の難点は、接尾辞が単数形であるのに対し、明らかな指示対象が複数形であるという点です。(2) これを対比として捉える解釈――「しかし直ぐな者たちは、彼の命を求める（守ろうとする）」――これはごく率直な翻訳です（ASVなど）。ここでの難点は、「命を求める」という行為が通常は敵対的な行為を意味するのに対し、ここでは肯定的、すなわち命を保護するために「求める」という意味になる点です。その場合、この詩句は、血に飢えた者たちは無実の者を憎むが、正しい者たちは彼らを保護すると語っていることになります（W. McKane, Proverbs [OTL], 637; NAB, NASB, TEVなどを参照）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “his spirit.” It has been commonly interpreted to mean “his anger” (ASV, NAB, NIV, NRSV), but it probably means more than that. The fool gives full expression to his “soul,” whether it is anger or bitterness or frustration or any other emotions. He has no self-control.",
+        "ja": "ヘブル語で「彼の霊（魂）」。これは一般的に「彼の怒り」を意味すると解釈されてきましたが（ASV, NAB, NIV, NRSV）、おそらくそれ以上の意味を含んでいます。愚かな者は、それが怒りであれ、苦々しさであれ、フラストレーションであれ、あるいはその他のどんな感情であれ、自分の「魂」を完全に表現させます。彼には自制心が全くないのです。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The line is difficult. The MT has בְּאחוֹר יְשַׁבְּחֶנָּה (bÿ’khor yÿshabbÿkhennah), which literally means “steals it back.” The verb שָׁבַח (shavakh) means “to soothe; to still,” as with a storm, or here with the temper. But because אָחוֹר (’akhor) does not fit very well with this verb, most commentators offer some suggested change. C. H. Toy reads “anger” instead of “back” and translates the verb “restrain” following the LXX, which has “self-control” (Proverbs [ICC], 510). The idea of self-control is what is intended, but the changes suggested are not entirely warranted. A number of English versions have “holds it back” (e.g., NASB, NRSV, NLT), and this fits the Hebrew as well as any.",
+        "ja": "この行は解釈が困難です。マソラ本文（MT）には בְּאחוֹר יְשַׁבְּחֶנָּה（ベホール・イシャッベヘンナ）があり、文字通りには「それを後ろに盗む（連れ戻す）」を意味します。動詞 שָׁבַח（シャバフ）は、嵐をしずめるように、あるいはここでは気性をしずめるように、「なだめる、静める」を意味します。しかし אָחוֹר（アホール、「後ろに」）はこの動詞とうまく適合しないため、ほとんどの注解者が何らかの修正案を提案しています。C.H.トイは「後ろ」の代わりに「怒り」と読み、自制心を意味するLXX（七十人訳）に従って動詞を「抑制する」と訳しています（Proverbs [ICC], 510）。意図されているのは自制心の概念ですが、提案されている変更は完全に正当化されるわけではありません。多くの英訳が「それを抑えつける」（例：NASB, NRSV, NLT）としており、これは他のどの訳よりもヘブル語によく適合しています。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hiphil participle מַקְשִׁיב (maqshiv) means “to give attention to; to regard; to heed.” Cf. NASB, NCV, TEV “pays attention to.”[解説]  Such a ruler would become known as one who could be lied to, because he paid attention to lies.",
+        "ja": "Hiphil分詞 מַקְשִׁיב（マクシヴ）は「注意を払う、顧みる、耳を傾ける」を意味します。NASB, NCV, TEVの「注意を払う」を参照してください。[解説] そのような支配者は、偽りに注意を払うがゆえに、自分には嘘をついてもよいのだと思われている人物として知られるようになります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “word of falsehood” or “lying word.” Cf. TEV “false information.”",
+        "ja": "ヘブル語で「偽りの言葉」または「嘘の言葉」。TEVの「偽りの情報」などを参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb שָׁרַת (sharat) means “to minister; to serve.” The Piel plural participle here refers to servants of the king who attend to him – courtiers and ministers (cf. NIV, NRSV, TEV, CEV “officials”; NLT “advisers”). This, his entourage, will have to resort to evil practices to gain his favor if he is swayed by such lies.",
+        "ja": "動詞 שָׁרַת（シャラト）は「仕える、奉仕する」を意味します。ここでのPiel複数分詞は、王に仕え、彼に近侍する召使い――宮廷の人々や大臣たちを指しています（NIV, NRSV, TEV, CEVの「役人たち」、NLTの「顧問たち」などを参照）。もし王がそのような偽りに動かされるなら、彼の周囲にいるこの側近たちも、王の不興を買わないために悪しき慣行に頼らざるを得なくなるのです。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The servants of the monarch adjust to their ruler; when they see that court flattery and deception are effective, they will begin to practice it and in the end become wicked (e.g., Prov 16:10; 20:8; 25:2).",
+        "ja": "[解説] 君主の臣下たちはその支配者に適応します。宮廷のへつりや欺瞞が効果的であると見るや、彼らはそれを実践し始め、最終的には悪しき者へと変貌していくのです（例：箴言16:10; 20:8; 25:2）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man of oppressions”; KJV “the deceitful man.” The noun תֹּךְ (tokh) means “injury; oppression” (BDB 1067 s.v.). Such men were usually the rich and powerful. The Greek and the Latin versions have “the debtor and creditor.”",
+        "ja": "ヘブル語で「抑圧の男」；KJV「欺く男」。名詞 תֹּךְ（トフ）は「害、抑圧」を意味します（BDB 1067 s.v.）。そのような人々は通常、富みかつ力のある者たちでした。ギリシャ語訳およびラテン語訳では「債務者と債権者」となっています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb פָּגַשׁ (pagash) means “to meet; to encounter.” In the Niphal it means “to meet each other; to meet together” (cf. KJV, ASV). The focus in this passage is on what they share in common.",
+        "ja": "動詞 פָּגַשׁ（パガシュ）は「出会う、遭遇する」を意味します。Niphal態では「互いに出会う、一緒に出会う」を意味します（KJV, ASVなど）。この聖句の焦点は、彼らが共通して持っている点にあります。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The expression gives light to the eyes means “gives them sight” (cf. NIV). The expression means that by giving them sight the Lord gives them the light of life (e.g., Job 33:30; Ps 13:3). God creates and controls them all. So in spite of their circumstances in life, all people receive their life from God.",
+        "ja": "[解説] 「目に光を与える」という表現は「彼らに視力を与える」を意味します（NIVなどを参照）。この表現は、視力を与えることによって主が彼らに命の光を与えてくださることを意味しています（例：ヨブ記33:30; 詩篇13:3）。神はそれらすべてを創造し、支配しておられます。したがって、彼らの人生の境遇がどうであれ、すべての人は神からその命を受けているのです。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The king must judge “in truth” (בֶּאֱמֶת, be’emet). Some have interpreted this to mean “faithfully” (KJV, ASV) but that is somewhat unclear. The idea is that the poor must be treated fairly and justly (cf. NIV “with fairness”; NRSV “with equity”); “truth” is that which corresponds to the standard of the law revealed by God. There must be no miscarriage of justice for these people simply because they are poor.",
+        "ja": "王は「真実に」（בֶּאֱמֶת、ベエメト）裁かなければなりません。一部の人々はこれを「忠実に」（KJV, ASV）と解釈してきましたが、それはやや不明確です。その意図は、貧しい者が公平かつ正当に扱われなければならないということです（NIV「公正に」、NRSV「公平に」などを参照）。「真実」とは、神によって啓示された律法の基準に合致するものです。貧しいというだけの理由で、彼らに司法の誤謬（裁判のゆがみ）があってはなりません。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The term “throne” is a metonymy of subject; it represents the dynasty, the reign of this particular king and his descendants. The qualification of the enduring administration is its moral character. The language of this proverb reflects the promise of the Davidic Covenant (e.g., Prov 16:12; 20:28; 25:5; 31:5).",
+        "ja": "[解説] 「王座」という言葉は主体の換喩であり、この特定の王の王朝、その治世およびその子孫を象徴しています。長続きする統治資格の条件はその道徳的性格にあります。この格言の言葉遣いは、ダビデ契約の約束を反映しています（例：箴言16:12; 20:28; 25:5; 31:5）。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “rod” is a metonymy of cause, in which the instrument being used to discipline is mentioned in place of the process of disciplining someone. So the expression refers to the process of discipline that is designed to correct someone. Some understand the words “rod and reproof” to form a hendiadys, meaning “a correcting [or, reproving] rod” (cf. NAB, NIV “the rod of correction”).",
+        "ja": "「鞭」という言葉は原因の換喩であり、しつけのために使われる道具が、人をしつけ直すプロセスそのものの代わりに言及されています。したがって、この表現は人を正すために設計された規律のプロセスを指しています。「鞭と戒め」という言葉が一つのヘンディダイス（双子語法）をなし、「矯正の鞭」を意味すると理解する人々もいます（NAB, NIV「矯正の鞭」などを参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gives” (so NAB).",
+        "ja": "ヘブル語で「与える」（NABなど）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The form is a Pual participle; the form means “to let loose” (from the meaning “to send”; cf. KJV, NIV “left to himself”), and so in this context “unrestrained.”",
+        "ja": "この形はPual分詞であり、「放たれる、解き放たれる」（「送る」という意味から；KJV, NIV「勝手にさせられた」などを参照）を意味し、この文脈においては「放任された、無軌道な」という意味になります。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The Hebrew participle translated “brings shame” is a metonymy of effect; the cause is the unruly and foolish things that an unrestrained child will do.",
+        "ja": "[解説] 「恥をもたらす」と訳されているヘブル語の分詞は、結果による換喩です。その原因は、放任された子供がしでかす乱暴で愚かな行為です。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The focus on the mother is probably a rhetorical variation for the “parent” (e.g., 17:21; 23:24-25) and is not meant to assume that only the mother will do the training and endure the shame for a case like this (e.g., 13:24; 23:13).",
+        "ja": "[解説] 母への言及はおそらく「両親」を表すための修辞的なバリエーションであり（例：17:21; 23:24-25）、母親だけが訓練を行い、このようなケースで恥に耐えなければならないと想定しているわけではありません（例：13:24; 23:13）。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb רָבָה (ravah), which is repeated twice in this line, means “to increase.” The first occurrence here is usually taken to mean that when the wicked increase they hold the power (cf. NRSV, NLT “are in authority”; TEV, CEV “are in power”). The text does not explain the details, only that when the wicked increase sin will increase in the land.",
+        "ja": "この行で2回繰り返されている動詞 רָבָה（ラヴァ）は「増える」を意味します。ここでの最初の出現は、通常、悪者が増えるときに彼らが権力を握ることを意味すると解釈されます（NRSV, NLT「権力の座にある」；TEV, CEV「権力を持っている」などを参照）。テクストはその詳細を説明しておらず、単に悪者が増えれば国の中に罪が増加するということだけを示しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Hebrew verb translated “see” in this context indicates a triumph: The righteous will gaze with satisfaction, or they will look on the downfall of the wicked triumphantly (e.g., Pss 37:4 and 112:8). The verse is teaching that no matter how widespread evil may be, the righteous will someday see its destruction.",
+        "ja": "[解説] この文脈で「見る」と訳されているヘブル語の動詞は、勝利を意味しています。正しい者たちは満足して見つめるか、あるいは悪者の没落を勝ち誇ったように見守るのです（例：詩篇37:4、112:8）。この詩句が教えているのは、悪がいかに広範囲に及んでいようとも、正しい者たちはいつの日かその滅びを目撃するということです。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb, a Hiphil imperfect with a suffix, could be subordinated to the preceding imperative to form a purpose clause (indirect volitive classification): “that he may give you rest.” The same then could apply to the second part of the verse.",
+        "ja": "接尾辞を伴うHiphil未完了形のこの動詞は、目的節を形成するために前置詞の命令形に従属させることが可能です（間接的意志表現の分類）。「彼があなたに安らぎを与えるように」。同じことがこの詩句の後半にも当てはまる可能性があります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “your soul.” The noun נַפְשֶׁךָ (nafshekha, “your soul”) is a synecdoche of part (= inner soul) for the whole person (= you); see, e.g., Isa 43:4; 51:23; BDB 600 s.v. 4.a.2.",
+        "ja": "ヘブル語で「あなたの魂」。名詞 נַפְשֶׁךָ（ナフシェカ、「あなたの魂」）は、全体（＝あなた）を表すための部分（＝内なる魂）のシネドクヒー（提喩）です。イザヤ43:4; 51:23; BDB 600 s.v. 4.a.2などを参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The parallelism of this verse is synthetic; the second half adds the idea of “delight/pleasure” to that of “rest.” So a disciplined child will both relieve anxiety (“give…rest”) and bring happiness to the parents.",
+        "ja": "[解説] この詩句の並行法は総合的であり、後半は「安らぎ」に「喜び／楽しみ」の概念を付け加えています。したがって、しつけられた子供は、不安を和らげ（「安らぎを与え」）、両親に幸福をもたらすことになります。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “no vision.” The Hebrew word “vision” (from the verb חָזָה [khazah, “to see”]) refers to divine communication to prophets (as in 1 Sam 3:1) and not to individual goals or plans. C. H. Toy sees a problem here: The most calamitous period of Israel’s history was when prophetic vision was at its height, whereas people were often more obedient when God was silent. He also notes that in the book of Proverbs there is no mention of prophetic teaching with wisdom as a guide. So he emends the word to “guidance” following the LXX (Proverbs [ICC], 512). The TEV has “guidance”; the NIV retains “revelation.” It must be stated that the prophetic ministry was usually in response to the calamitous periods, calling the people back to God. Without them the downward rush to anarchy and destruction would have been faster than with these prophetic calls from God.",
+        "ja": "ヘブル語で「ビジョン（幻）がない」。ヘブル語の「ビジョン」という言葉（動詞 חָזָה [ハザ、「見る」]に由来）は、個人的な目標や計画ではなく、預言者に対する神からのコミュニケーションを指しています（サムエル記上3:1のように）。C.H.トイはここに問題を見出しています。イスラエルの歴史の中で最も災いに満ちた時代は預言的なビジョンが最高潮に達していた時期であり、むしろ神が沈黙しておられたときの方が民はよく従順であったというのです。また彼は、箴言の書の中には知恵を導き手とする預言的教えへの言及がないことも指摘しています。そのため彼は、七十人訳（LXX）に従ってその語を「指導」に修正しています（Proverbs [ICC], 512）。TEVは「指導」を採用し、NIVは「啓示」を維持しています。言わなければならないのは、預言者の働きは通常、災いの時代に対する応答であり、民を神へと呼び戻すものであったということです。彼らの働きがなければ、アノキー（無秩序）と破壊への転落速度は、神からのこれら預言的な呼びかけがあった場合よりもさらに速かったことでしょう。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb פָּרַע (para’) means “to let go; to let alone.” It occurs here in the Niphal with the meaning of “[the people] are let loose,” meaning, they cast off restraint (e.g., Exod 32:25). Cf. NLT “run wild.”",
+        "ja": "動詞 פָּרַע（パラ）は「放す、そのままにしておく」を意味します。これはNiphal態で現れ、「[民が]解き放たれる」という意味になり、自らを抑えずに奔走することを意味します（例：出エジプト32:25）。NLTの「野放しになる」などを参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The law here refers to scripture, the concrete form of revelation. So the two halves of the verse provide the contrast: When there is no prophetic revelation there is chaos, but those who keep the revelation contained in scripture find blessing.",
+        "ja": "[解説] ここでの律法は聖書、すなわち啓示の具体的形態を指しています。したがって、この詩句の2つの部分は対比をなしています。預言的啓示がないところには混乱がありますが、聖書に含まれている啓示を守る者たちは祝福を見出すのです。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  There is a tendency among commentators and English versions to translate אַשְׁרֵהוּ (’ashrehu) as “happy is he!” (cf. KJV, ASV, NAB, NASB, TEV, NLT). But “happy” can be a misleading translation. The Hebrew word refers to a heavenly bliss, an inner joy, that comes from knowing one is right with God and experiencing his blessing. “Happiness,” on the other hand, depends on what happens.",
+        "ja": "注解者や英訳の間には、אִשְׁרֵהוּ（アシレフ）を「彼はなんと幸せなことか！」と訳す傾向があります（KJV, ASV, NAB, NASB, TEV, NLTなど）。しかし「幸せ（happy）」という訳語は誤解を招く可能性があります。ヘブル語のこの言葉は、自分が神の前に正しいと知り、神の祝福を経験していることから来る、天的な至福、内なる喜びを指しています。一方、「幸福（happiness）」は、何が起こるかという外的な状況に依存するものです。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  Servants could not be corrected by mere words; they had to be treated like children for they were frequently unresponsive. This, of course, would apply to certain kinds of servants. The Greek version translated this as “a stubborn servant.”",
+        "ja": "[解説] 奴隷は単なる言葉では矯正することができず、子供のように扱われなければなりませんでした。なぜなら彼らはしばしば無反応だったからです。もちろん、これは特定の種類の奴隷に当てはまります。ギリシャ語訳ではこれを「頑固な奴隷」と訳しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Niphal imperfect here is best rendered as a potential imperfect – “cannot be corrected.” The second line of the verse clarifies that even though the servant understands the words, he does not respond. It will take more.",
+        "ja": "ここでのNiphal未完了形は、可能の未完了形――「矯正することはできない」として訳すのが最も適切です。この詩句の第2行は、奴隷が言葉を理解してはいても、応答しないことを明確にしています。それ以上の何かが必要なのです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “for he understands, but there is no answer.” The concessive idea (“although”) is taken from the juxtaposition of the two parts.",
+        "ja": "ヘブル語で「理解してはいるが、答えがない」。譲歩の意味（「……ではあるが」）は、2つの部分の並置から導き出されています。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  To say “there is no answer” means that this servant does not obey – he has to be trained in a different way.",
+        "ja": "[解説] 「答えがない」と言うことは、この奴隷が従わないことを意味しています――彼は別の方法で訓練されなければならないのです。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man,” but there is no indication in the immediate context that this should be limited only to males.",
+        "ja": "ヘブル語で「ひとりの男」ですが、直近の文脈においてこれが男性のみに限定されるべきだという兆候はありません。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The focus of this proverb is on someone who is hasty in his words. This is the person who does not stop to think, but acts on the spur of the moment. To speak before thinking is foolishness.",
+        "ja": "[解説] この格言の焦点は、言葉が軽率な者に当てられています。それは立ち止まって考えず、その場の勢いで行動する人物です。考える前に話すことは愚かさです。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Rash speech cannot easily be remedied. The prospects for a fool are better (e.g., Prov 26:12).",
+        "ja": "[解説] 性急な発言は容易に是正することはできません。愚かな者のほうがまだ見込みがあります（例：箴言26:12）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  There is no conditional particle at the beginning of the verse; however, the relationship of the clauses, which lay down the condition first and then (with a vav) the consequences, indicates a conditional construction here. Cf. also NAB, NIV, NCV, TEV.",
+        "ja": "詩句の冒頭に条件の接続詞はありませんが、まず条件を提示し、それに続いて（vavを伴って）結果を述べるという節同士の関係が、ここでの条件文構造を示しています。NAB, NIV, NCV, TEVなども参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word מָגוֹן (magon) is a hapax legomenon; accordingly, it has been given a variety of interpretations. The LXX has “grief,” and this has been adopted by some versions (e.g., NIV, NCV). The idea would be that treating the servant too easily for so long would not train him at all, so he will be of little use, and therefore a grief. J. Reider takes the word to mean “weakling” from the Arabic root na’na (“to be weak”), with a noun/adjective form muna’ana’ (“weak; feeble”); see his “Etymological Studies in Biblical Hebrew,” VT 4 [1954]: 276-95. This would give a different emphasis to the sentence, but on the whole not very different than the first. In both cases the servant will not be trained well. Rashi, a Jewish scholar who lived a.d. 1040-1105, had the translation “a master.” The servant trained this way will assume authority in the household even as the son. This may be behind the KJV translation “son” (likewise ASV, NASB). Tg. Prov 29:21 and the Syriac have “to be uprooted,” which may reflect a different text entirely.",
+        "ja": "単語 מָגוֹן（マゴン）は聖書中で1度しか現れない語（ハパックス・レゴメノン）であり、そのため多様な解釈がなされてきました。七十人訳（LXX）は「悲しみ」としており、いくつかの訳（NIV, NCVなど）に採用されています。その意味するところは、奴隷をあまりにも長く甘やかして扱ってきたのでは一切の訓練にならないため、彼は何の役にも立たず、したがって悲しみの種になるということです。J.ライダーはこの語を、アラビア語の根語 na'na（「弱い」）に由来する「弱者」という意味であるとし、名詞／形容詞の形 muna'ana'（「弱い、ひ弱な」）から説明しています（“Etymological Studies in Biblical Hebrew,” VT 4 [1954]: 276-95）。これにより文のニュアンスは多少異なりますが、全体として最初の解釈と大差はありません。どちらの場合も、奴隷が十分に訓練されないという結果になります。西暦1040〜1105年に生きたユダヤ人学者ラシは、「主人」と訳しています。このように訓練された奴隷は、息子と同じように家庭内で権威を握るようになるというのです。これがKJVの訳「息子」（同様にASV, NASB）の背景にあるのかもしれません。タルグムの箴言29:21およびシリア語訳には「引き抜かれる、根絶やしにされる」とあり、これは全く異なるテクストを反映している可能性があります。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man of anger.” Here “anger” is an attributive (“an angry man”). This expression describes one given to or characterized by anger, not merely temporarily angry. The same is true of the next description.",
+        "ja": "ヘブル語で「怒りの男」。ここでは「怒り」が形容詞的に機能しています（「怒りっぽい男」）。この表現は、一時的に怒っているだけでなく、怒りを特徴とする、あるいは怒りに支配された人物を描写しています。次の描写についても同様です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “possessor of wrath.” Here “wrath” is an attributive (cf. ASV “a wrathful man”; KJV “a furious man”).",
+        "ja": "ヘブル語で「憤りの所有者」。ここで「憤り」は形容詞的です（ASV「憤怒の男」；KJV「激怒する男」）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “an abundance of transgression.” The phrase means “abounding in transgression” (BDB 913 s.v. רַב 1.d]). Not only does the angry person stir up dissension, but he also frequently causes sin in himself and in others (e.g., 14:17, 29; 15:18; 16:32; 22:24).",
+        "ja": "ヘブル語で「背きの満ち溢れ」。このフレーズは「背きに満ちている」を意味します（BDB 913 s.v. רַב 1.d）。怒る人は争いを引き起こすだけでなく、自分自身や他者の中にしばしば罪を引き起こします（例：14:17, 29; 15:18; 16:32; 22:24）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “pride of a man,” with “man” functioning as a possessive. There is no indication in the immediate context that this is restricted only to males.",
+        "ja": "ヘブル語で「人の高慢」。「男」が所有格として機能しています。直近の文脈において、これが男性のみに制限されるという兆候はありません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  There is a wordplay here due to the repetition of the root שָׁפֵל (shafel). In the first line the verb תִּשְׁפִּילֶנּוּ (tishpilennu) is the Hiphil imperfect of the root, rendered “will bring him low.” In the second line the word is used in the description of the “lowly of spirit,” שְׁפַל־רוּחַ (shÿfal-ruakh). The contrast works well: The proud will be brought “low,” but the one who is “lowly” will be honored. In this instance the wordplay can be preserved in the translation.",
+        "ja": "語根 שָׁפֵל（シャフェル）の繰り返しにより、ここには言葉遊び（ダジャレ）が存在します。第1行では動詞 תִּשְׁפִּילֶנּוּ（ティシュピレンヌ）がその語根のHiphil未完了形であり、「低くする」と訳されています。第2行では「霊の低い者」を説明するために שְׁפַל־רוּחַ（シュファル・ルアフ）という語が使われています。この対比は非常に効果的です。高慢な者は「低く」され、しかし「低い」者は誉れを得るのです。この事例では、翻訳においてもこの言葉遊びを維持することができます。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “low in spirit”; KJV “humble in spirit.” This refers to an attitude of humility.[解説]  The Hebrew word translated “lowly” forms an implied comparison: To be humble is like being low, base, earthbound; whereas pride is often compared to being high, lofty – at least in one’s own eyes.",
+        "ja": "ヘブル語で「霊において低い」；KJV「霊において謙虚な」。これは謙遜の態度を指しています。[解説] 「低い」と訳されているヘブル語の言葉は、暗黙の比較を形成しています。謙虚であることは低く、卑しく、地に足がついているようなものですが、高慢さは――少なくとも本人の目には――高くそびえ立っているものと比較されることが多いのです。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  The expression shares with a thief describes someone who is an “accomplice” (cf. NAB, NIV) because he is willing to share in the loot without taking part in the crime.",
+        "ja": "[解説] 「盗人と分け合う」という表現は、犯罪そのものに加わらなくても、戦利品を分け合う意思があるため「共犯者」である人物を描写しています（NAB, NIVなどを参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “hates his soul.” The accomplice is working against himself, for he will be punished along with the thief if he is caught.",
+        "ja": "ヘブル語で「自分の魂を憎む」。共犯者は自分自身に敵対する行為をしており、もし捕らえられれば盗人とともに罰せられることになります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “oath” or “imprecation”; ASV “adjuration.” This amounted to an “oath” or “curse” (cf. NAB “he hears himself put under a curse”; NRSV “one hears the victim’s curse”) either by or on behalf of the victim, that any witness to the crime must testify (cf. Lev 5:1). However, in this legal setting referring to “a victim’s curse” could be misleading (cf. also KJV “he heareth cursing”), since it could be understood to refer to profanity directed against those guilty of the crime rather than an imprecation called down on a witness who refused to testify (as in the present proverb). The present translation specifies this as an “oath to testify.”[解説]  The oath to testify was not an oath to tell the truth before a court of law in the modern sense. Instead it was a “curse” or “imprecation” expressed by the victim of the theft, or by the legal authorities, called down on any witness of the crime who kept silent or refused to testify (as here). According to Lev 5:1, if a witness does not speak up he is accountable for the crime. This person hears the adjuration, but if he speaks up he is condemned, and if he does not speak up he is guilty under the law. The proverb is an unusual one; it seems to be warning against getting mixed up in any way with the thief, for it will create a serious ethical dilemma.",
+        "ja": "ヘブル語で「誓い」または「呪いの言葉」；ASV「厳命、呪詛」。これは、被害者自身によって、あるいは被害者の代理として、犯罪の目撃者は必ず証言しなければならないという「誓い」または「呪い」に相当するものでした（レビ記5:1など）。しかし、このような法的な場面において「被害者の呪い」と表現すると誤解を招く可能性があります（KJV「彼は呪いを聞く」なども参照）。なぜなら、それは証言を拒否する証人に下される呪いの言葉ではなく、犯罪の実行犯に向けられた不敬な言葉や悪態を指していると誤解されかねないからです（本歌の格言におけるようなケースとは異なります）。今回の翻訳では、これを「証言を求める誓い」と明確にしています。[解説] 証言を求める誓いは、現代の意味における法廷で真実を語るための誓いではありませんでした。むしろそれは、盗難の被害者や法的当局によって表明された「呪い」や「厳命」であり、沈黙を守ったり証言を拒否したりする犯罪の目撃者に対して呼びかけられるものでした（ここでのように）。レビ記5:1によれば、目撃者が声を上げない場合、その人は罪に対して責任を負うことになります。この人物はその厳命を聞きますが、もし証言すれば罪に定められ、証言しなければ律法の下で有罪となります。この格言は異例なものであり、盗人とどのような形でであれ関わりを持つことに対して警告を発しているように思われます。なぜなら、それは深刻な倫理的ジレンマを生み出すからです。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fear of man.” This uses an objective genitive to describe a situation where fearing what people might do or think controls one’s life. There is no indication in the immediate context that this should be limited only to males, so the translation uses the more generic “people” here.",
+        "ja": "ヘブル語で「人の恐れ」。これは目的格の属格を使用しており、人々が何をなし得るか、あるいはどう考えるかという恐れが人の人生を支配している状況を描写しています。直近の文脈において、これが男性のみに制限されるべきだという兆候はないため、ここでは翻訳においてより一般的な「人々」という表現を使用しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gives [or yields, or produces]”; NIV “will prove to be.”",
+        "ja": "ヘブル語で「与える（あるいはもたらす、産み出す）」；NIV「結果として……となる」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  “Snare” is an implied comparison; fearing people is like being in a trap – there is no freedom of movement or sense of security.",
+        "ja": "[解説] 「罠」は暗黙の比較です。人を恐れることは罠の中にいるようなものであり、そこには移動の自由も安全感もありません。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The image of being set on high comes from the military experience of finding a defensible position, a place of safety and security, such as a high wall or a mountain. Trusting in the Lord sets people free and gives them a sense of safety and security (e.g, Prov 10:27; 12:2).",
+        "ja": "[解説] 高い砦に置かれるというイメージは、高い城壁や山のような、守りやすい陣地、安全と安心の場所を見出すという軍事的な体験に由来しています。主に信頼することは、人々を解放し、安全と安心感を与えてくれます（例：箴言10:27; 12:2）。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[解説]  The idiom seek the face means to try to obtain favor from someone. According to the proverb, many people assume that true justice depends on the disposition of some earthly ruler.",
+        "ja": "[解説] 「顔を求める」というイディオムは、誰かから好意を得ようとすることを意味します。この格言によれば、多くの人々は真の正義が地上の何らかの支配者の気まぐれにかかっていると思い込んでいます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “but from the Lord [is] justice of a man.” The last part uses the construct state followed by the genitive, which here shows the advantage – it is justice for the person. The implication of the matter is that people should seek the Lord’s favor (rather than a human ruler’s) if they want true justice.",
+        "ja": "ヘブル語で「しかし主から[は]人の正義[がある]」。最後の部分は連係形に属格が続いており、ここではそれが利益――すなわち、その人にとっての正義である事を示しています。ここからの含意は、人々が真の正義を望むなら、（人間の支配者ではなく）主の好意を求めなければならないということです。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “who is upright in the way” (so NASB; KJV and ASV are similar). Here “in the way” refers to the course of a person’s life, hence “who lives an upright life.” Cf. NAB “he who walks uprightly.”[解説]  The proverb makes a simple observation on life: The righteous detest the wicked, and the wicked detest the lifestyle of the righteous. Each is troublesome to the beliefs and the activities of the other.",
+        "ja": "ヘブル語で「道において直ぐな者」（NASBと同様；KJVおよびASVも類似）。ここで「道において」とは、人の人生の歩みを指し、したがって「直ぐな人生を送る者」となります。NAB「まっすぐに歩む者」などを参照してください。[解説] この格言は人生についての簡潔な観察を述べています。正しい者たちは悪者を忌み嫌い、悪者たちは正しい者のライフスタイルを忌み嫌います。お互いの信念や活動が相手にとって面倒なものだからです。"
+      }
+    ]
+  }
+}

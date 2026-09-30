@@ -1,0 +1,290 @@
+# John 3 (English)
+
+## Text
+
+**1** Now a certain man, a Pharisee named Nicodemus, who was a member of the Jewish ruling council, 
+
+**2** came to Jesus at night and said to him, “Rabbi, we know that you are a teacher who has come from God. For no one could perform the miraculous signs that you do unless God is with him.” 
+
+**3** Jesus replied, “I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God.”
+
+**4** Nicodemus said to him, “How can a man be born when he is old? He cannot enter his mother’s womb and be born a second time, can he?”
+
+**5** Jesus answered, “I tell you the solemn truth, unless a person is born of water and spirit, he cannot enter the kingdom of God. 
+
+**6** What is born of the flesh is flesh, and what is born of the Spirit is spirit. 
+
+**7** Do not be amazed that I said to you, ‘You must all be born from above.’ 
+
+**8** The wind blows wherever it will, and you hear the sound it makes, but do not know where it comes from and where it is going. So it is with everyone who is born of the Spirit.” 
+
+**9** Nicodemus replied, “How can these things be?” 
+
+**10** Jesus answered, “Are you the teacher of Israel and yet you don’t understand these things? 
+
+**11** I tell you the solemn truth, we speak about what we know and testify about what we have seen, but you people do not accept our testimony. 
+
+**12** If I have told you people about earthly things and you don’t believe, how will you believe if I tell you about heavenly things? 
+
+**13** No one has ascended into heaven except the one who descended from heaven—the Son of Man. 
+
+**14** Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, 
+
+**15** so that everyone who believes in him may have eternal life.” 
+
+**16** For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. 
+
+**17** For God did not send his Son into the world to condemn the world, but that the world should be saved through him. 
+
+**18** The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God. 
+
+**19** Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light because their deeds were evil. 
+
+**20** For everyone who does evil deeds hates the light and does not come to the light, so that their deeds will not be exposed. 
+
+**21** But the one who practices the truth comes to the light, so that it may be plainly evident that his deeds have been done in God.
+
+**22** After this, Jesus and his disciples came into Judean territory, and there he spent time with them and was baptizing. 
+
+**23** John was also baptizing at Aenon near Salim because water was plentiful there, and people were coming to him and being baptized. 
+
+**24** (For John had not yet been thrown into prison.) 
+
+**25** Now a dispute came about between some of John’s disciples and a certain Jew concerning ceremonial washing. 
+
+**26** So they came to John and said to him, “Rabbi, the one who was with you on the other side of the Jordan River, about whom you testified—see, he is baptizing, and everyone is flocking to him!” 
+
+**27** John replied, “No one can receive anything unless it has been given to him from heaven. 
+
+**28** You yourselves can testify that I said, ‘I am not the Christ,’ but rather, ‘I have been sent before him.’ 
+
+**29** The one who has the bride is the bridegroom. The friend of the bridegroom, who stands by and listens for him, rejoices greatly when he hears the bridegroom’s voice. This then is my joy, and it is complete. 
+
+**30** He must become more important while I become less important.” 
+
+**31** The one who comes from above is superior to all. The one who is from the earth belongs to the earth and speaks about earthly things. The one who comes from heaven is superior to all. 
+
+**32** He testifies about what he has seen and heard, but no one accepts his testimony. 
+
+**33** The one who has accepted his testimony has confirmed clearly that God is truthful. 
+
+**34** For the one whom God has sent speaks the words of God, for he does not give the Spirit sparingly. 
+
+**35** The Father loves the Son and has placed all things under his authority. 
+
+**36** The one who believes in the Son has eternal life. The one who rejects the Son will not see life, but God’s wrath remains on him. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  See the note on Pharisees in 1:24.
+
+### Verse 1 - Note 2
+[翻訳注]  Grk “a ruler of the Jews” (denoting a member of the Sanhedrin, the highest legal, legislative, and judicial body among the Jews).
+
+### Verse 2 - Note 1
+[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 2 - Note 2
+[翻訳注]  Or “during the night.”[解説]  Possibly Nicodemus came…at night because he was afraid of public association with Jesus, or he wanted a lengthy discussion without interruptions; no explanation for the timing of the interview is given by the author. But the timing is significant for John in terms of the light-darkness motif – compare John 9:4, 11:10, 13:30 (especially), 19:39, and 21:3. Out of the darkness of his life and religiosity Nicodemus came to the Light of the world. The author probably had multiple meanings or associations in mind here, as is often the case.
+
+### Verse 2 - Note 3
+[解説]  The reference to signs (σημεῖα, shmeia) forms a link with John 2:23-25. Those people in Jerusalem believed in Jesus because of the signs he had performed. Nicodemus had apparently seen them too. But for Nicodemus all the signs meant is that Jesus was a great teacher sent from God. His approach to Jesus was well-intentioned but theologically inadequate; he had failed to grasp the messianic implications of the miraculous signs.
+
+### Verse 3 - Note 1
+[翻訳注]  Grk “answered and said to him.”
+
+### Verse 3 - Note 2
+[翻訳注]  Grk “Truly, truly, I say to you.”
+
+### Verse 3 - Note 3
+[翻訳注]  The word ἄνωθεν (anwqen) has a double meaning, either “again” (in which case it is synonymous with παλίν [palin]) or “from above” (BDAG 92 s.v. ἄνωθεν). This is a favorite technique of the author of the Fourth Gospel, and it is lost in almost all translations at this point. John uses the word 5 times, in 3:3, 7; 3:31; 19:11 and 23. In the latter 3 cases the context makes clear that it means “from above.” Here (3:3, 7) it could mean either, but the primary meaning intended by Jesus is “from above.” Nicodemus apparently understood it the other way, which explains his reply, “How can a man be born when he is old? He can’t enter his mother’s womb a second time and be born, can he?” The author uses the technique of the “misunderstood question” often to bring out a particularly important point: Jesus says something which is misunderstood by the disciples or (as here) someone else, which then gives Jesus the opportunity to explain more fully and in more detail what he really meant.[解説]  Or born again. The Greek word ἄνωθεν (anwqen) can mean both “again” and “from above,” giving rise to Nicodemus’ misunderstanding about a second physical birth (v. 4).
+
+### Verse 3 - Note 4
+[解説]  What does Jesus’ statement about not being able to see the kingdom of God mean within the framework of John’s Gospel? John uses the word kingdom (βασιλεία, basileia) only 5 times (3:3, 5; 18:36 [3x]). Only here is it qualified with the phrase of God. The fact that John does not stress the concept of the kingdom of God does not mean it is absent from his theology, however. Remember the messianic implications found in , both the wedding and miracle at Cana and the cleansing of the temple. For Nicodemus, the term must surely have brought to mind the messianic kingdom which Messiah was supposed to bring. But Nicodemus had missed precisely this point about who Jesus was. It was the Messiah himself with whom Nicodemus was speaking. Whatever Nicodemus understood, it is clear that the point is this: He misunderstood Jesus’ words. He over-literalized them, and thought Jesus was talking about repeated physical birth, when he was in fact referring to new spiritual birth.
+
+### Verse 4 - Note 1
+[翻訳注]  The grammatical structure of the question in Greek presupposes a negative reply.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “Truly, truly, I say to you.”
+
+### Verse 5 - Note 2
+[翻訳注]  Or “born of water and wind” (the same Greek word, πνεύματος [pneumatos], may be translated either “spirit/Spirit” or “wind”).[解説]  Jesus’ somewhat enigmatic statement points to the necessity of being born “from above,” because water and wind/spirit/Spirit come from above. Isaiah 44:3-5 and Ezek 37:9-10 are pertinent examples of water and wind as life-giving symbols of the Spirit of God in his work among people. Both occur in contexts that deal with the future restoration of Israel as a nation prior to the establishment of the messianic kingdom. It is therefore particularly appropriate that Jesus should introduce them in a conversation about entering the kingdom of God. Note that the Greek word πνεύματος is anarthrous (has no article) in v. 5. This does not mean that spirit in the verse should be read as a direct reference to the Holy Spirit, but that both water and wind are figures (based on passages in the OT, which Nicodemus, the teacher of Israel should have known) that represent the regenerating work of the Spirit in the lives of men and women.
+
+### Verse 6 - Note 1
+[解説]  What is born of the flesh is flesh, i.e., what is born of physical heritage is physical. (It is interesting to compare this terminology with that of the dialogue in , especially 4:23, 24.) For John the “flesh” (σάρξ, sarx) emphasizes merely the weakness and mortality of the creature – a neutral term, not necessarily sinful as in Paul. This is confirmed by the reference in John 1:14 to the Logos becoming “flesh.” The author avoids associating sinfulness with the incarnate Christ.
+
+### Verse 7 - Note 1
+[翻訳注]  “All” has been supplied to indicate the plural pronoun in the Greek text.
+
+### Verse 7 - Note 2
+[翻訳注]  Or “born again.” The same Greek word with the same double meaning occurs in v. 3.
+
+### Verse 8 - Note 1
+[翻訳注]  The same Greek word, πνεύματος (pneumatos), may be translated “wind” or “spirit.”
+
+### Verse 8 - Note 2
+[解説]  Again, the physical illustrates the spiritual, although the force is heightened by the word-play here on wind-spirit (see the note on wind at the beginning of this verse). By the end of the verse, however, the final usage of πνεύματος (pneumatos) refers to the Holy Spirit.
+
+### Verse 9 - Note 1
+[翻訳注]  Grk “Nicodemus answered and said to him.”
+
+### Verse 9 - Note 2
+[解説]  “How can these things be?” is Nicodemus’ answer. It is clear that at this time he has still not grasped what Jesus is saying. Note also that this is the last appearance of Nicodemus in the dialogue. Having served the purpose of the author, at this point he disappears from the scene. As a character in the narrative, he has served to illustrate the prevailing Jewish misunderstanding of Jesus’ teaching about the necessity of a new, spiritual birth from above. Whatever parting words Nicodemus might have had with Jesus, the author does not record them.
+
+### Verse 10 - Note 1
+[翻訳注]  Grk “Jesus answered and said to him.”
+
+### Verse 10 - Note 2
+[解説]  Jesus’ question “Are you the teacher of Israel and yet you don’t understand these things?” implies that Nicodemus had enough information at his disposal from the OT scriptures to have understood Jesus’ statements about the necessity of being born from above by the regenerating work of the Spirit. Isa 44:3-5 and Ezek 37:9-10 are passages Nicodemus might have known which would have given him insight into Jesus’ words. Another significant passage which contains many of these concepts is Prov 30:4-5.
+
+### Verse 11 - Note 1
+[翻訳注]  Grk “Truly, truly, I say to you.”
+
+### Verse 11 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “but” to show the contrast present in the context.
+
+### Verse 11 - Note 3
+[翻訳注]  The word “people” is not in the Greek text, but is supplied in the translation to indicate that the verb is second person plural (referring to more than Nicodemus alone).
+
+### Verse 11 - Note 4
+[解説]  Note the remarkable similarity of Jesus’ testimony to the later testimony of the Apostle John himself in 1 John 1:2: “And we have seen and testify and report to you the eternal life which was with the Father and was revealed to us.” This is only one example of how thoroughly the author’s own thoughts were saturated with the words of Jesus (and also how difficult it is to distinguish the words of Jesus from the words of the author in the Fourth Gospel).
+
+### Verse 12 - Note 1
+[翻訳注]  The word “people” is not in the Greek text, but is supplied to indicate that the verb is second person plural (referring to more than Nicodemus alone).
+
+### Verse 12 - Note 2
+[解説]  Obviously earthly things and heavenly things are in contrast, but what is the contrast? What are earthly things which Jesus has just spoken to Nicodemus? And through him to others – this is not the first instance of the plural pronoun, see v. 7, you must all. Since Nicodemus began with a plural (we know, v. 2) Jesus continues it, and through Nicodemus addresses a broader audience. It makes most sense to take this as a reference to the things Jesus has just said (and the things he is about to say, vv. 13-15). If this is the case (and it seems the most natural explanation) then earthly things are not necessarily strictly physical things, but are so called because they take place on earth, in contrast to things like v. 16, which take place in heaven. Some have added the suggestion that the things are called earthly because physical analogies (birth, wind, water) are used to describe them. This is possible, but it seems more probable that Jesus calls these things earthly because they happen on earth (even though they are spiritual things). In the context, taking earthly things as referring to the words Jesus has just spoken fits with the fact that Nicodemus did not believe. And he would not after hearing heavenly things either, unless he first believed in the earthly things – which included the necessity of a regenerating work from above, by the Holy Spirit.
+
+### Verse 13 - Note 1
+[翻訳注]  Grk “And no one.”
+
+### Verse 13 - Note 2
+[解説]  The verb ascended is a perfect tense in Greek (ἀναβέβηκεν, anabebhken) which seems to look at a past, completed event. (This is not as much of a problem for those who take Jesus’ words to end at v. 12, and these words to be a comment by the author, looking back on Jesus’ ascension.) As a saying of Jesus, these words are a bit harder to explain. Note, however, the lexical similarities with 1:51: “ascending,” “descending,” and “son of man.” Here, though, the ascent and descent is accomplished by the Son himself, not the angels as in 1:51. There is no need to limit this saying to Jesus’ ascent following the resurrection, however; the point of the Jacob story (), which seems to be the background for 1:51, is the freedom of communication and relationship between God and men (a major theme of John’s Gospel). This communication comes through the angels in  (and John 1:51); but here (most appropriately) it comes directly through the Son of Man. Although Jesus could be referring to a prior ascent, after an appearance as the preincarnate Son of Man, more likely he is simply pointing out that no one from earth has ever gone up to heaven and come down again. The Son, who has come down from heaven, is the only one who has been ‘up’ there. In both Jewish intertestamental literature and later rabbinic accounts, Moses is portrayed as ascending to heaven to receive the Torah and descending to distribute it to men (e.g., Targum Ps 68:19.) In contrast to these Jewish legends, the Son is the only one who has ever made the ascent and descent.
+
+### Verse 13 - Note 3
+083 086 33 1241 pc co). On the one hand, if the reading ὁ ὢν ἐν τῷ οὐρανῷ is authentic it may suggest that while Jesus was speaking to Nicodemus he spoke of himself as in heaven even while he was on earth. If that is the case, one could see why variations from this hard saying arose: “who was in heaven,” “the one who is from heaven,” and omission of the clause. At the same time, such a saying could be interpreted (though with difficulty) as part of the narrator’s comments rather than Jesus’ statement to Nicodemus, alleviating the problem. And if v. 13 was viewed in early times as the evangelist’s statement, “the one who is in heaven” could have crept into the text through a marginal note. Other internal evidence suggests that this saying may be authentic. The adjectival participle, ὁ ὤν, is used in the Fourth Gospel more than any other NT book (though the Apocalypse comes in a close second), and frequently with reference to Jesus (1:18; 6:46; 8:47). It may be looking back to the LXX of Exod 3:14 (ἐγώ εἰμι ὁ ὤν). Especially since this exact construction is not necessary to communicate the location of the Son of Man, its presence in many witnesses here may suggest authenticity. Further, John uses the singular of οὐρανός (ourano", “heaven”) in all 18 instances of the word in this Gospel, and all but twice with the article (only 1:32 and 6:58 are anarthrous, and even in the latter there is significant testimony to the article). At the same time, the witnesses that lack this clause are very weighty and must not be discounted. Generally speaking, if other factors are equal, the reading of such mss should be preferred. And internally, it could be argued that ὁ ὤν is the most concise way to speak of the Son of Man in heaven at that time (without the participle the point would be more ambiguous). Further, the articular singular οὐρανός is already used twice in this verse, thus sufficiently prompting scribes to add the same in the longer reading. This combination of factors suggests that ὁ ὢν ἐν τῷ οὐρανῷ is not a genuine Johannism. Further intrinsic evidence against the longer reading relates to the evangelist’s purposes: If he intended v. 13 to be his own comments rather than Jesus’ statement, his switch back to Jesus’ words in v. 14 (for the lifting up of the Son of Man is still seen as in the future) seems inexplicable. The reading “who is in heaven” thus seems to be too hard. All things considered, as intriguing as the longer reading is, it seems almost surely to have been a marginal gloss added inadvertently to the text in the process of transmission. For an argument in favor of the longer reading, see David Alan Black, “The Text of John 3:13,” GTJ 6 (1985): 49-66.[解説]  See the note on the title Son of Man in 1:51.
+
+### Verse 14 - Note 1
+[翻訳注]  Grk “And just as.”
+
+### Verse 14 - Note 2
+[解説]  Or the snake, referring to the bronze serpent mentioned in Num 21:9.
+
+### Verse 14 - Note 3
+[解説]  An allusion to Num 21:5-9.
+
+### Verse 14 - Note 4
+[解説]  So must the Son of Man be lifted up. This is ultimately a prediction of Jesus’ crucifixion. Nicodemus could not have understood this, but John’s readers, the audience to whom the Gospel is addressed, certainly could have (compare the wording of John 12:32). In John, being lifted up refers to one continuous action of ascent, beginning with the cross but ending at the right hand of the Father. Step 1 is Jesus’ death; step 2 is his resurrection; and step 3 is the ascension back to heaven. It is the upward swing of the “pendulum” which began with the incarnation, the descent of the Word become flesh from heaven to earth (cf. Paul in Phil 2:5-11). See also the note on the title Son of Man in 1:51.
+
+### Verse 15 - Note 1
+[翻訳注]  This is the first use of the term ζωὴν αἰώνιον (zwhn aiwnion) in the Gospel, although ζωή (zwh) in chap.  is to be understood in the same way without the qualifying αἰώνιος (aiwnios).[解説]  Some interpreters extend the quotation of Jesus’ words through v. 21.
+
+### Verse 16 - Note 1
+[翻訳注]  Or “this is how much”; or “in this way.” The Greek adverb οὕτως (Joutws) can refer (1) to the degree to which God loved the world, that is, to such an extent or so much that he gave his own Son (see R. E. Brown, John [AB], 1:133-34; D. A. Carson, John, 204) or (2) simply to the manner in which God loved the world, i.e., by sending his own son (see R. H. Gundry and R. W. Howell, “The Sense and Syntax of John 3:14-17 with Special Reference to the Use of Οὕτως…ὥστε in John 3:16,” NovT 41 [1999]: 24-39). Though the term more frequently refers to the manner in which something is done (see BDAG 741-42 s.v. οὕτω/οὕτως), the following clause involving ὥστε (Jwste) plus the indicative (which stresses actual, but [usually] unexpected result) emphasizes the greatness of the gift God has given. With this in mind, then, it is likely (3) that John is emphasizing both the degree to which God loved the world as well as the manner in which He chose to express that love. This is in keeping with John’s style of using double entendre or double meaning. Thus, the focus of the Greek construction here is on the nature of God's love, addressing its mode, intensity, and extent.
+
+### Verse 16 - Note 2
+[翻訳注]  Although this word is often translated “only begotten,” such a translation is misleading, since in English it appears to express a metaphysical relationship. The word in Greek was used of an only child (a son [Luke 7:12, 9:38] or a daughter [Luke 8:42]). It was also used of something unique (only one of its kind) such as the mythological Phoenix (1 Clement 25:2). From here it passes easily to a description of Isaac (Heb 11:17 and Josephus, Ant. 1.13.1 [1.222]) who was not Abraham’s only son, but was one-of-a-kind because he was the child of the promise. Thus the word means “one-of-a-kind” and is reserved for Jesus in the Johannine literature of the NT. While all Christians are children of God (τέκνα θεοῦ, tekna qeou), Jesus is God’s Son in a unique, one-of-a-kind sense. The word is used in this way in all its uses in the Gospel of John (1:14, 1:18, 3:16, and 3:18).
+
+### Verse 16 - Note 3
+[翻訳注]  In John the word ἀπόλλυμι (apollumi) can mean either (1) to be lost (2) to perish or be destroyed, depending on the context.
+
+### Verse 16 - Note 4
+[解説]  The alternatives presented are only two (again, it is typical of Johannine thought for this to be presented in terms of polar opposites): perish or have eternal life.
+
+### Verse 17 - Note 1
+[解説]  That is, “to judge the world to be guilty and liable to punishment.”
+
+### Verse 18 - Note 1
+[翻訳注]  Grk “judged.”
+
+### Verse 18 - Note 2
+[翻訳注]  Grk “judged.”
+
+### Verse 18 - Note 3
+[翻訳注]  See the note on the term “one and only” in 3:16.
+
+### Verse 19 - Note 1
+[翻訳注]  Or “this is the reason for God judging,” or “this is how judgment works.”
+
+### Verse 19 - Note 2
+[翻訳注]  Grk “and men,” but in a generic sense, referring to people of both genders (as “everyone” in v. 20 makes clear).
+
+### Verse 21 - Note 1
+[解説]  John 3:16-21 provides an introduction to the (so-called) “realized” eschatology of the Fourth Gospel: Judgment has come; eternal life may be possessed now, in the present life, as well as in the future. The terminology “realized eschatology” was originally coined by E. Haenchen and used by J. Jeremias in discussion with C. H. Dodd, but is now characteristically used to describe Dodd’s own formulation. See L. Goppelt, Theology of the New Testament, 1:54, note 10, and R. E. Brown (John [AB], 1:cxvii-cxviii) for further discussion. Especially important to note is the element of choice portrayed in John’s Gospel. If there is a twofold reaction to Jesus in John’s Gospel, it should be emphasized that that reaction is very much dependent on a person’s choice, a choice that is influenced by his way of life, whether his deeds are wicked or are done in God (John 3:20-21). For John there is virtually no trace of determinism at the surface. Only when one looks beneath the surface does one find statements like “no one can come to me, unless the Father who sent me draws him” (John 6:44).
+
+### Verse 22 - Note 1
+[翻訳注]  This section is related loosely to the preceding by μετὰ ταῦτα (meta tauta). This constitutes an indefinite temporal reference; the intervening time is not specified.
+
+### Verse 23 - Note 1
+[解説]  John refers to John the Baptist.
+
+### Verse 23 - Note 2
+[翻訳注]  The precise locations of Αἰνών (Ainwn) and Σαλείμ (Saleim) are unknown. Three possibilities are suggested: (1) In Perea, which is in Transjordan (cf. 1:28). Perea is just across the river from Judea. (2) In the northern Jordan Valley, on the west bank some 8 miles [13 km] south of Scythopolis. But with the Jordan River so close, the reference to abundant water (3:23) seems superfluous. (3) Thus Samaria has been suggested. 4 miles (6.6 km) east of Shechem is a town called Salim, and 8 miles (13 km) northeast of Salim lies modern Ainun. In the general vicinity are many springs. Because of the meanings of the names (Αἰνών = “springs” in Aramaic and Σαλείμ = Salem, “peace”) some have attempted to allegorize here that John the Baptist is near salvation. Obviously there is no need for this. It is far more probable that the author has in mind real places, even if their locations cannot be determined with certainty.
+
+### Verse 23 - Note 3
+[翻訳注]  Or “people were continually coming.”
+
+### Verse 23 - Note 4
+[翻訳注]  The words “to him” are not in the Greek text, but are implied.
+
+### Verse 24 - Note 1
+[解説]  This is a parenthetical note by the author.
+
+### Verse 25 - Note 1
+A B L Ψ 33 1241 the majority of Byzantine minuscules and others}).[翻訳注]  Or “a certain Judean.” Here BDAG 478 s.v. ᾿Ιουδαίος 2.a states, “Judean (with respect to birth, nationality, or cult).” If the emphasis is simply on the individual’s origin, “Judean” would be preferable since it designates a nationality or place of origin. However, the mention of ceremonial washing in the context suggests the dispute was religious in nature, so “Jew” has been retained in the translation here.
+
+### Verse 25 - Note 2
+[翻訳注]  Or “ceremonial cleansing,” or “purification.”[解説]  What was the controversy concerning ceremonial washing? It is not clear. Some have suggested that it was over the relative merits of the baptism of Jesus and John. But what about the ceremonial nature of the washing? There are so many unanswered questions here that even R. E. Brown (who does not usually resort to dislocations in the text as a solution to difficulties) proposes that this dialogue originally took place immediately after 1:19-34 and before the wedding at Cana. (Why else the puzzled hostility of the disciples over the crowds coming to Jesus?) Also, the synoptics imply John was imprisoned before Jesus began his Galilean ministry. At any rate, there is no reason to rearrange the material here – it occurs in this place for a very good reason. As far as the author is concerned, it serves as a further continuation of the point made to Nicodemus, that is, the necessity of being born “from above” (3:3). Note that John the Baptist describes Jesus as “the one who comes from heaven” in 3:31 (ἄνωθεν [anwqen], the same word as in 3:3). There is another lexical tie to preceding material: The subject of the dispute, ceremonial washing (3:25), calls to mind the six stone jars of water changed to wine at the wedding feast in 2:6, put there for “Jewish ceremonial washing.” This section ultimately culminates and concludes ideas begun in chap.  and continued in chap. . Although the author does not supply details, one scenario would be this: The disciples of John, perplexed after this disagreement with an individual Jew (or with the Jewish authorities), came to John and asked about the fact that Jesus was baptizing and more and more were coming to him. John had been preaching a baptism of repentance for forgiveness of sin (see Mark 1:4, Luke 3:3). Possibly what the Jew(s) reported to John’s disciples was that Jesus was now setting aside the Jewish purification rituals as unnecessary. To John’s disciples this might also be interpreted as: (a) a falling away from Judaism, and (b) a break with John’s own teaching. That Jesus could have said this is very evident from many incidents in his ministry in all the gospels. The thrust would be that outward cleansing (that is, observance of purification rituals) was not what made a person clean. A new heart within (that is, being born from above) is what makes a person clean. So John’s disciples came to him troubled about an apparent contradiction in doctrine though the explicit problem they mentioned is that Jesus was baptizing and multitudes were coming to him. (Whether Jesus was or was not baptizing really wasn’t the issue though, and John the Baptist knew that because he didn’t mention it in his reply. In 4:2 the author says that Jesus was not baptizing, but his disciples. That reference would seem to cover this incident as well, and so the disciples of John are just reporting what they have heard, or thought they heard.) The real point at issue is the authority of Jesus to “overturn” the system of ritual purification within Judaism. John replied to this question of the authority of Jesus in 3:27-36. In 3:27-30 he reassured his disciples, reminding them that if more people were coming to Jesus, it did not threaten him at all, because “heaven” had ordained it to be so (v. 27). (After all, some of these very disciples of John had presumably heard him tell the Jewish delegation that he was not the Messiah but was sent before him, mentioned in .) Then John compared himself to the friend of the bridegroom who stands by and yet participates in the bridegroom’s joy (v. 29). John was completely content in his own position as forerunner and preparer of the way.
+
+### Verse 26 - Note 1
+[翻訳注]  “River” is not in the Greek text but is supplied for clarity.
+
+### Verse 27 - Note 1
+[翻訳注]  Grk “answered and said.”
+
+### Verse 28 - Note 1
+[翻訳注]  Or “the Messiah” (Both Greek “Christ” and Hebrew and Aramaic “Messiah” mean “one who has been anointed”).[解説]  See the note on Christ in 1:20.
+
+### Verse 29 - Note 1
+[翻訳注]  Grk “rejoices with joy” (an idiom).
+
+### Verse 29 - Note 2
+[翻訳注]  Grk “Therefore this my joy is fulfilled.”
+
+### Verse 30 - Note 1
+[解説]  Some interpreters extend the quotation of John the Baptist’s words through v. 36.
+
+### Verse 31 - Note 1
+[翻訳注]  Or “is above all.”
+
+### Verse 31 - Note 2
+[翻訳注]  Grk “speaks from the earth.”
+
+### Verse 31 - Note 3
+[解説]  The one who comes from heaven refers to Christ. As in John 1:1, the Word’s preexistence is indicated here.
+
+### Verse 31 - Note 4
+bo). On balance, the longer reading should probably be considered authentic.[翻訳注]  Or “is above all.”
+
+### Verse 33 - Note 1
+[翻訳注]  Or “is true.”
+
+### Verse 34 - Note 1
+[翻訳注]  That is, Christ.
+
+### Verse 34 - Note 2
+[翻訳注]  Grk “for not by measure does he give the Spirit” (an idiom). Leviticus Rabbah 15:2 states: “The Holy Spirit rested on the prophets by measure.” Jesus is contrasted to this. The Spirit rests upon him without measure.
+
+### Verse 35 - Note 1
+[翻訳注]  Grk “has given all things into his hand” (an idiom).
+
+### Verse 36 - Note 1
+[翻訳注]  Or “refuses to believe,” or “disobeys.”
+
+### Verse 36 - Note 2
+[翻訳注]  Or “anger because of evil,” or “punishment.”
+
+### Verse 36 - Note 3
+[翻訳注]  Or “resides.”

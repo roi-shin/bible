@@ -1,0 +1,819 @@
+{
+  "book": "Proverbs",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The intentions of the heart belong to a man, but the answer of the tongue comes from the Lord. ",
+      "ja": "心の計画は人にあるが、舌の答えは主から出る。"
+    },
+    {
+      "verse": 2,
+      "en": "All a person’s ways seem right in his own opinion, but the Lord evaluates the motives. ",
+      "ja": "人の歩みは自分の目にはみな正しく見えるが、主は動機を評価される。"
+    },
+    {
+      "verse": 3,
+      "en": "Commit your works to the Lord, and your plans will be established. ",
+      "ja": "あなたのなすことを主に委ねよ。そうすれば、あなたの計画は成し遂げられる。"
+    },
+    {
+      "verse": 4,
+      "en": "The Lord has worked everything for his own ends— even the wicked for the day of disaster. ",
+      "ja": "主はすべてのことをご自身の目的に合わせて造られた。悪者さえも、災いの日日のために。"
+    },
+    {
+      "verse": 5,
+      "en": "The Lord abhors every arrogant person; rest assured that they will not go unpunished. ",
+      "ja": "主は心に高ぶる者をすべて忌み嫌われる。断言するが、彼らは罰を免れない。"
+    },
+    {
+      "verse": 6,
+      "en": "Through loyal love and truth iniquity is appeased; through fearing the Lord one avoids evil. ",
+      "ja": "慈しみとまことによって咎のあがないがなされ、主を恐れることによって人は悪を避ける。"
+    },
+    {
+      "verse": 7,
+      "en": "When a person’s ways are pleasing to the Lord, he even reconciles his enemies to himself. ",
+      "ja": "人の歩みが主に喜ばれるとき、主はその人の敵さえただ和解させてくださる。"
+    },
+    {
+      "verse": 8,
+      "en": "Better to have a little with righteousness than to have abundant income without justice. ",
+      "ja": "正しい生き方におけるわずかな収穫は、不正による豊かな稼ぎに勝る。"
+    },
+    {
+      "verse": 9,
+      "en": "A person plans his course, but the Lord directs his steps. ",
+      "ja": "人は自分の道を計画するが、主はその歩みを導かれる。"
+    },
+    {
+      "verse": 10,
+      "en": "The divine verdict is in the words of the king; his pronouncements must not act treacherously against justice. ",
+      "ja": "王の唇には神聖な宣言があり、その裁きにおいて正義に背いてはならない。"
+    },
+    {
+      "verse": 11,
+      "en": "Honest scales and balances are from the Lord; all the weights in the bag are his handiwork. ",
+      "ja": "正しいまことの天秤と秤は主のものであり、袋の中の分銅はすべて主の御業である。"
+    },
+    {
+      "verse": 12,
+      "en": "Doing wickedness is an abomination to kings, because a throne is established in righteousness. ",
+      "ja": "悪を行うことは王たちにとって忌まわしい。王座は正義によって堅く立てられるからである。"
+    },
+    {
+      "verse": 13,
+      "en": "The delight of a king is righteous counsel, and he will love the one who speaks uprightly. ",
+      "ja": "正しい助言は王の喜びであり、王はまっすぐに語る者を愛する。"
+    },
+    {
+      "verse": 14,
+      "en": "A king’s wrath is like a messenger of death, but a wise person appeases it.",
+      "ja": "王の怒りは死の使いのようであるが、知恵ある人はそれをなだめる。"
+    },
+    {
+      "verse": 15,
+      "en": "In the light of the king’s face there is life, and his favor is like the clouds of the spring rain. ",
+      "ja": "王の顔の光の中に命があり、王の恵みは春の雨を降らせる雲のようである。"
+    },
+    {
+      "verse": 16,
+      "en": "How much better it is to acquire wisdom than gold; to acquire understanding is more desirable than silver. ",
+      "ja": "知恵を得ることは、なんと金を得るに勝ることか。悟りを得ることは、銀よりも望ましい。"
+    },
+    {
+      "verse": 17,
+      "en": "The highway of the upright is to turn away from evil; the one who guards his way safeguards his life. ",
+      "ja": "正しい者たちの大路は、悪から離れることである。自分の歩みを守る者は、自分の命を全うする。"
+    },
+    {
+      "verse": 18,
+      "en": "Pride goes before destruction and a haughty spirit before a fall. ",
+      "ja": "高ぶりは破滅に先立ち、高慢な霊は倒れの前に来る。"
+    },
+    {
+      "verse": 19,
+      "en": "It is better to be lowly in spirit with the afflicted than to share the spoils with the proud. ",
+      "ja": "へりくだった霊をもって貧しい者たちと共にいることは、高ぶる者たちと共に戦利品を分かつことよりも勝っている。"
+    },
+    {
+      "verse": 20,
+      "en": "The one who deals wisely in a matter will find success, and blessed is the one who trusts in the Lord. ",
+      "ja": "物事に対処して知恵深く行動する者は成功を見出し、主に信頼する者は幸いである。"
+    },
+    {
+      "verse": 21,
+      "en": "The one who is wise in heart is called discerning, and kind speech increases persuasiveness. ",
+      "ja": "心に知恵のある者はわきまえた者と呼ばれ、優しい言葉は説得力を増す。"
+    },
+    {
+      "verse": 22,
+      "en": "Insight is like a life-giving fountain to the one who possesses it, but folly leads to the discipline of fools. ",
+      "ja": "洞察力を持つ者にとって、それは命の泉のようであるが、愚か者の愚行はその懲らしめへと導く。"
+    },
+    {
+      "verse": 23,
+      "en": "A wise person’s heart makes his speech wise, and it adds persuasiveness to his words. ",
+      "ja": "知恵ある者の心はその言葉を知恵深いものとし、そのくちびるに説得力を添える。"
+    },
+    {
+      "verse": 24,
+      "en": "Pleasant words are like a honeycomb, sweet to the soul and healing to the bones. ",
+      "ja": "麗しい言葉は蜂の巣のようであり、魂に甘く、骨を癒やす。"
+    },
+    {
+      "verse": 25,
+      "en": "There is a way that seems right to a person, but its end is the way that leads to death. ",
+      "ja": "人には正しく見える道があるが、その終わりは死に至る道である。"
+    },
+    {
+      "verse": 26,
+      "en": "A laborer’s appetite has labored for him, for his hunger has pressed him to work.",
+      "ja": "労働者の食欲はそのために働き、その飢えが彼を働かせる。"
+    },
+    {
+      "verse": 27,
+      "en": "A wicked scoundrel digs up evil, and his slander is like a scorching fire. ",
+      "ja": "卑劣な悪人は悪を掘り起こし、その中傷は焼き尽くす炎のようである。"
+    },
+    {
+      "verse": 28,
+      "en": "A perverse person spreads dissension, and a gossip separates the closest friends. ",
+      "ja": "ねじ曲がった者は争いをまき散らし、陰口を叩く者は親しい友人たちを引き離す。"
+    },
+    {
+      "verse": 29,
+      "en": "A violent person entices his neighbor, and then leads him down a path that is terrible. ",
+      "ja": "暴虐な者は隣人を誘惑し、恐ろしい道へと引きずり込む。"
+    },
+    {
+      "verse": 30,
+      "en": "The one who winks his eyes devises perverse things, and one who compresses his lips has accomplished evil. ",
+      "ja": "目を細める者は邪悪なことを企て、唇を引き締める者はすでに悪事を成し遂げている。"
+    },
+    {
+      "verse": 31,
+      "en": "Gray hair is like a crown of glory; it is attained in the path of righteousness. ",
+      "ja": "白髪は栄えの冠であり、それは正しい歩みの中で得られる。"
+    },
+    {
+      "verse": 32,
+      "en": "Better to be slow to anger than to be a mighty warrior, and one who controls his temper is better than one who captures a city. ",
+      "ja": "怒るのをそっと控える者は勇士に勝り、自分の心を治める者は町を攻め取る者に勝る。"
+    },
+    {
+      "verse": 33,
+      "en": "The dice are thrown into the lap, but their every decision is from the Lord. ",
+      "ja": "くじはふところに投げ入れられるが、そのすべての決定は主から出る。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “plans of the heart” (so ASV, NASB, NIV). The phrase מַעַרְכֵי־לֵב (ma’arkhe-lev) means “the arrangements of the mind.”[解説]  Humans may set things in order, plan out what they are going to say, but God sovereignly enables them to put their thoughts into words.",
+        "ja": "[翻訳注] ヘブル語は「心の計画」である（ASV、NASB、NIVなど）。מַעַרְכֵי־לֵב（マアルケ・レブ）という句は「心の整えられた配列」を意味する。[解説] 人間は物事を順序立て、自分が話す内容を前もって計画することがあるが、神はご自身の主権によって、その人間が自分の思いを言葉に表すことができるようにしてくださる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “[are] to a man.”",
+        "ja": "[翻訳注] ヘブル語は「人にある」である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here “the tongue” is a metonymy of cause in which the instrument of speech is put for what is said: the answer expressed.",
+        "ja": "[翻訳注] ここで「舌」は原因の換喩であり、言語の道具が発言そのものの代わりとして用いられている。すなわち、表現された「答え」のことである。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The contrasting prepositions enhance the contrasting ideas – the ideas belong to people, but the words come from the Lord.",
+        "ja": "[解説] 対照的な前置詞が使われることで、対比のアイデアがより際立っている。すなわち、計画は人間のものであるが、言葉は主から出ると。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  There are two ways this statement can be taken: (1) what one intends to say and what one actually says are the same, or (2) what one actually says differs from what the person intended to say. The second view fits the contrast better. The proverb then is giving a glimpse of how God even confounds the wise. When someone is trying to speak [“answer” in the book seems to refer to a verbal answer] before others, the Lord directs the words according to his sovereign will.",
+        "ja": "[解説] この発言の解釈には二通りの方法がある。(1)話そうと意図したことと実際に話したことが同じであるという見方、あるいは(2)実際に話したことが本人の意図したものとは異なるという見方である。後者の見解の方が対比によりよく適合する。このとき、この格言は、神が知恵ある者さえもいかに困惑させられるかの一端を示している。誰かが人々の前で語ろう（本書における「答え」はどうやら口頭での返答を指しているようだ）とするとき、主はその言葉をご自身の主権的御心に従って導かれるのである。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “ways of a man.”",
+        "ja": "[翻訳注] ヘブル語は「人の歩み」である。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Hebrew term translated “right” (z~E) means “innocent” (NIV) or “pure” (NAB, NRSV, NLT). It is used in the Bible for pure oils or undiluted liquids; here it means unmixed actions. Therefore on the one hand people rather naively conclude that their actions are fine.",
+        "ja": "[解説] 「正しい」と訳されたヘブル語（z~E）は「とがのない」（NIV）あるいは「純粋な」（NAB、NRSV、NLT）を意味する。聖書では純粋な油や薄められていない液体のために用いられており、ここでは混じり気のない行動を意味している。したがって、人々は一方では、自分たちの行動は申し分ないとかなり素朴に結論づけてしまうのである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in his eyes.”",
+        "ja": "[翻訳注] ヘブル語は「自分の目には」である。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The figure (a hypocatastasis) of “weighing” signifies “evaluation” (e.g., Exod 5:8; 1 Sam 2:3; 16:7; Prov 21:2; 24:12). There may be an allusion to the Egyptian belief of weighing the heart after death to determine righteousness. But in Hebrew thought it is an ongoing evaluation as well, not merely an evaluation after death.",
+        "ja": "[翻訳注] 「計量する」という比喩（隠喩的表現）は「評価すること」を意味する（例：出エジプト 5:8; Ⅰサムエル 2:3; 16:7; 箴言 21:2; 24:12）。死後に義を判断するために心臓を秤にかけるというエジプトの信仰に対するほのめかしがあるかもしれない。しかし、ヘブル的思想においては、それは死後の評価だけに留まらず、継続的な評価をも意味している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “spirits” (so KJV, ASV). This is a metonymy for the motives, the intentions of the heart (e.g., 21:2 and 24:2).[解説]  Humans deceive themselves rather easily and so appear righteous in their own eyes; but the proverb says that God evaluates motives and so he alone can determine if the person’s ways are innocent.",
+        "ja": "[翻訳注] ヘブル語は「霊たち」である（KJV、ASVなど）。これは動機、すなわち心の意図に対する換喩である（例：21:2、24:2）。[解説] 人間は非常に簡単に自分自身を欺くため、自分の目には正しく見える。しかし、格言は「主が動機を評価される」と述べており、したがって、その人の歩みがとがのないかどうかを決定できるのは主のみなのである。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT reads גֹּל (gol, “commit”) from the root גָּלַל (galal, “to roll”). The LXX and Tg. Prov 16:3 have “reveal” as if the root were גָּלָה (galah, “to reveal”).[翻訳注]  Heb “roll.” The verb גֹּל (“to commit”) is from the root גָּלַל (“to roll”). The figure of rolling (an implied comparison or hypocatastasis), as in rolling one’s burdens on the Lord, is found also in Pss 22:8 [9]; 37:5; and 55:22. It portrays complete dependence on the Lord. This would be accomplished with a spirit of humility and by means of diligent prayer, but the plan must also have God’s approval.",
+        "ja": "[写本注] マソラ本文（MT）は、גָּלַל（ガラル、「転がす」）の語根から来る גֹּל（ゴル、「委ねよ」）と読んでいる。七十訳およびタルグム（箴言16:3）は、語根が גָּלָה（ガラー、「啓示する」）であるかのように「明らかにせよ」と訳している。[翻訳注] ヘブル語は「転がせ」である。「委ねる」を意味する動詞 גֹּל（ゴル）は、גָּלַל（ガラル、「転がす」）という語根に由来する。自分の重荷を主に転がし移すかのような、転がすという比喩（暗黙の比較、あるいは隠喩的表現）は、詩篇 22:8 [9]; 37:5; 55:22にも見られる。これは主に対する完全な依存を描き出している。これは謙遜な霊をもって、また熱心な祈りによって成就されるべきであるが、その計画もまた神の承認を得ていなければならない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The suffix on the plural noun would be a subjective genitive: “the works you are doing,” or here, “the works that you want to do.”",
+        "ja": "[翻訳注] 複数名詞に付く接尾辞は主格的属格となり、「あなたが今行っている業」、あるいはここでは「あなたが成し遂げたいと願っている業」という意味になる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The syntax of the second clause shows that there is subordination: The vav on וְיִכֹּנוּ (vÿyikonu) coming after the imperative of the first clause expresses that this clause is the purpose or result. People should commit their works in order that the Lord may establish them. J. H. Greenstone says, “True faith relieves much anxiety and smoothens many perplexities” (Proverbs, 172).",
+        "ja": "[翻訳注] 第二文の構文は従属関係を示している。第一文の命令形の後に来る וְיִכֹּנוּ（ヴェイコンー）のウァウ接続詞は、この節が目的または結果を表していることを示している。人々は、主に自分たちの業を立てていただくために、それを主に委ねるべきなのである。J・H・グリーンストーンは「真の信仰は多くの不安を和らげ、多くの困難を滑らかにする」（Proverbs, 172）と述べている。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Hebrew verb translated “works” (פָּעַל, pa’al) means “to work out; to bring about; to accomplish.” It is used of God’s sovereign control of life (e.g., Num 23:23; Isa 26:12).",
+        "ja": "[解説] 「働く、成し遂げる」と訳されたヘブル語の動詞（פָּעַל、パアル）は「成し遂げる、もたらす、成就する」を意味する。これは人生に対する神の主権的な支配について用いられる（例：民数記 23:23; イザヤ 26:12）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for its answer.” The term לַמַּעֲנֵהוּ (lamma’anehu) has been taken to mean either “for his purpose” or “for its answer.” The Hebrew word is מַעֲנֶה (ma’aneh, “answer”) and not לְמַעַן (lÿma’an, “purpose”). So the suffix likely refers to “everything” (כֹּל, kol). God ensures that everyone’s actions and the consequences of those actions correspond – certainly the wicked for the day of calamity. In God’s order there is just retribution for every act.",
+        "ja": "[翻訳注] ヘブル語は「その答えのために」である。לַמַּעֲנֵהוּ（ランマアネフー）という語は「彼の目的のために」または「その答えのために」のいずれとしても解釈されてきた。ヘブル語の単語は מַעֲנֶה（マアネ、 「答え」）であり、לְמַעַן（レマアン、「目的」）ではない。したがって、接尾辞はおそらく「すべてのもの」（כֹּל、コル）を指している。神は、すべての人の行動と、その行動の結果が一致するように――まさに災いの日における悪者に対しても――必ず計らわれる。神の秩序の中には、すべての行いに対する正当な報いがある。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This is an example of synthetic parallelism (“A, what’s more B”). The A-line affirms a truth, and the B-line expands on it with a specific application about the wicked – whatever disaster comes their way is an appropriate correspondent for their life.",
+        "ja": "[解説] これは同義的並行法（「A、さらにはB」）の一例である。A行は真理を断言し、B行は悪者に関する具体的な適用をもってそれを拡張している――彼らにどのような災いが臨もうとも、それは彼らの人生に対応したふさわしい報いなのである。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “an abomination of the Lord.” The term יְהוָה (yÿhvah, “the Lord”) is a subjective genitive: “the Lord abhors.”",
+        "ja": "[翻訳注] ヘブル語は「主の忌むべきもの」である。יְהוָה（イェホワ、「主」）という語は主格的属格であり、「主が忌み嫌われる」という意味になる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “every proud of heart”; NIV “all the proud of heart.” “Heart” is the genitive of specification; the phrase is talking about people who have proud hearts, whose ideas are arrogant. These are people who set themselves presumptuously against God (e.g., 2 Chr 26:16; Ps 131:1; Prov 18:12).",
+        "ja": "[翻訳注] ヘブル語は「心の高ぶるすべての者」であり、NIVは「心の高ぶる者すべて」と訳している。「心」は限定の属格であり、この句は高ぶる心を持ち、その考えが傲慢である人々について語っている。彼らは思い上がって神に逆らう人々である（例：歴代誌下 26:16; 詩篇 131:1; 箴言 18:12）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “hand to hand.” This idiom means “you can be assured” (e.g., Prov 11:21).",
+        "ja": "[翻訳注] ヘブル語は「手から手へ」である。この慣用句は「確信してよい」「必ず…である」を意味する（例：箴言 11:21）。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The LXX has inserted two couplets here: “The beginning of a good way is to do justly, // and it is more acceptable with God than to do sacrifices; // he who seeks the Lord will find knowledge with righteousness, // and they who rightly seek him will find peace.” C. H. Toy reminds the reader that there were many proverbs in existence that sounded similar to those in the book of Proverbs; these lines are in the Greek OT as well as in Sirach (Proverbs [ICC], 321-22).[翻訳注]  The B-line continues the A-line, but explains what it means that they are an abomination to the Lord – he will punish them. “Will not go unpunished” is an understatement (tapeinosis) to stress first that they will certainly be punished; those who humble themselves before God in faith will not be punished.",
+        "ja": "[写本注] 七十訳はここで二つの対句を挿入している。「正しい道を歩み始めることは公正を行うことであり、それは犠牲をささげることよりも神に受け入れられる。／主を求める者は正しさとともに知識を見出し、正しく主を求める者たちは平安を見出す。」 C・H・トイは読者に対し、箴言の書にあるものに類似した格言が多数存在していたことを思い出させる。これらの行はギリシャ語旧約聖書およびシラ書にも見出される（Proverbs [ICC], 321-22）。[翻訳注] B行はA行を継続しつつ、それらが主にとって忌むべきものであるとはどういうことかを説明している。すなわち、主が彼らを罰せられるということである。「罰を免れない」は、まず彼らが確実に罰せられることを強調するための過小表現（タペイノシス）である。それに対して、信仰をもって神の前にへりくだる者たちは罰せられない。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  These two words are often found together to form a nominal hendiadys: “faithful loyal love.” The couplet often characterize the Lord, but here in parallel to the fear of the Lord it refers to the faithfulness of the believer. Such faith and faithfulness bring atonement for sin.",
+        "ja": "[解説] これらの二つの単語はしばしば組み合わされて名詞的ヘンディアディス（一概念の二語表現）を形成する：「忠実で揺るぎない愛」。この対句はしばしば主を特徴づけるが、ここでは主を恐れることと並行して、信者の忠実さを指している。そのような信仰と忠実さが罪のあがいをもたらす。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “is atoned”; KJV “is purged”; NAB “is expiated.” The verb is from I כָּפַר (kafar, “to atone; to expiate; to pacify; to appease”; HALOT 493-94 s.v. I כפר). This root should not be confused with the identically spelled Homonym II כָּפַר (kafar, “to cover over”; HALOT 494 s.v. II *כפר). Atonement in the OT expiated sins, it did not merely cover them over (cf. NLT). C. H. Toy explains the meaning by saying it affirms that the divine anger against sin is turned away and man’s relation to God is as though he had not sinned (Proverbs [ICC], 322). Genuine repentance, demonstrated by loyalty and truthfulness, appeases the anger of God against one’s sin.",
+        "ja": "[翻訳注] ヘブル語は「あがなわれる」であり、KJVは「清められる」、NABは「償われる」と訳している。この動詞は第一語根の כָּפַר（カファル、「あがなう、償う、なだめる、宥める」; HALOT 493-94 s.v. I כפר）に由来する。この語根は、同じつづりの同音異義語である第二語根 כָּפַר（カファル、「覆い隠す」; HALOT 494 s.v. II *כפר）と混同してはならない。旧約聖書におけるあがないは罪を償うものであり、単にそれを覆い隠すだけのものではない（NLTと比較せよ）。C・H・トイは、罪に対する神の怒りがそらされ、神と人との関係が、まるで罪を犯していなかったかのような状態になることをこれが断言しているのだと説明している（Proverbs [ICC], 322）。忠実さと真実性によって示される真の悔改めは、人の罪に対する神の怒りをもなだめるのである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “fear of the Lord.” The term יְהוָה (yÿhvah, “the Lord”) functions as an objective genitive: “fearing the Lord.”",
+        "ja": "[翻訳注] ヘブル語は「主を恐れること」である。יְהוָה（イェホワ、「主」）という語は目的格的属格として機能し、「主を恐れること」という意味になる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “turns away from”; NASB “keeps away from.”",
+        "ja": "[翻訳注] ヘブル語は「…から離れる」であり、NASBは「…に近づかない」と訳している。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The Hebrew word translated “evil” (רַע, ra’) can in some contexts mean “calamity” or “disaster,” but here it seems more likely to mean “evil” in the sense of sin. Faithfulness to the Lord brings freedom from sin. The verse uses synonymous parallelism with a variant: One half speaks of atonement for sin because of the life of faith, and the other of avoidance of sin because of the fear of the Lord.",
+        "ja": "[解説] 「悪」と訳されたヘブル語（רַע、ラア）は、文脈によっては「災い」や「災害」を意味することもあるが、ここでは罪という意味での「悪」を意味しているようである。主に対する忠実は罪からの解放をもたらす。この節は変形を伴う同義的並行法を用いている。一方の半分は信仰の人生ゆえの罪のあがいについて語り、もう一方は主を恐れるゆえの罪の回避について語っている。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “ways of a man.”",
+        "ja": "[翻訳注] ヘブル語は「人の歩み」である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The first line uses an infinitive in a temporal clause, followed by its subject in the genitive case: “in the taking pleasure of the Lord” = “when the Lord is pleased with.” So the condition set down for the second colon is a lifestyle that is pleasing to God.",
+        "ja": "[翻訳注] 第一行は時を表す節の中で不定詞を用い、その後に属格の主語を伴っている。「主の喜びのうちに」＝「主が喜ばれるとき」。したがって、第二行に設定されている条件とは、神に喜ばれる生き方である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The referent of the verb in the second colon is unclear. The straightforward answer is that it refers to the person whose ways please the Lord – it is his lifestyle that disarms his enemies. W. McKane comments that the righteous have the power to mend relationships (Proverbs [OTL], 491); see, e.g., 10:13; 14:9; 15:1; 25:21-22). The life that is pleasing to God will be above reproach and find favor with others. Some would interpret this to mean that God makes his enemies to be at peace with him (cf. KJV, NAB, NASB, NIV, NLT). This is workable, but in this passage it would seem God would do this through the pleasing life of the believer (cf. NCV, TEV, CEV).",
+        "ja": "[翻訳注] 第二行における動詞の指示対象は明確ではない。最も素直な答えは、それが主の道を喜ばせる人を指しているというものである。すなわち、彼のライフスタイルこそが敵の武装を解除させるのである。W・マケインは、正しい者には人間関係を修復する力があると論じている（Proverbs [OTL], 491; 例：10:13; 14:9; 15:1; 25:21-22を参照）。神に喜ばれる人生は非難されるところがなく、他の人々からも好意を見出される。これを、神がご自身の敵にご自身の平和を与えてくださるという意味に解釈する学者もいる（KJV、NAB、NASB、NIV、NLTと比較せよ）。これも可能ではあるが、この文脈においては、神は信者の喜ばしい人生を通してこれを行われるように思われる（NCV、TEV、CEVと比較せよ）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “even his enemies he makes to be at peace with him.”",
+        "ja": "[翻訳注] ヘブル語は「主はその敵さえただ和解させてくださる」である。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[解説]  The lines contrast the modest income with the abundant income; but the real contrast is between righteousness and the lack of justice (or injustice). “Justice” is used for both legal justice and ethical conduct. It is contrasted with righteousness in 12:5 and 21:7; it describes ethical behavior in 21:3. Here the point is that unethical behavior tarnishes the great gain and will be judged by God.",
+        "ja": "[解説] これらの行は、ささやかな収入と豊かな収入を対比しているが、真の対比は正義と正義の欠如（あるいは不正）の間にある。「正義」は法的正義と倫理的行為の両方に対して用いられている。これは12:5および21:7で「不正」と対比されており、21:3では倫理的行動を描写している。ここでの要点は、非倫理的な行動は多大な利益を汚すものであり、神によって裁かれるということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is another “better” saying; between these two things, the first is better. There are other options – such as righteousness with wealth – but the proverb is not concerned with that. A similar saying appears in Amenemope 8:19-20 (ANET 422).",
+        "ja": "[解説] これはもう一つの「…に勝る」という格言である。これら二つの事柄の間では、最初のものがより優れている。富を伴う正義のような他の選択肢もあるが、この格言はそのようなことには関心がない。これに類似した格言がアメンエムオペ 8:19-20（ANET 422）に見られる。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the heart of a man.” This stresses that it is within the heart that plans are made. Only those plans that are approved by God will succeed.",
+        "ja": "[翻訳注] ヘブル語は「人の心」である。これは、計画が立てられるのはまさに心の中であるということを強調している。神に承認された計画のみが成功する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “his way” (so KJV, NASB).",
+        "ja": "[翻訳注] ヘブル語は「彼の道」である（KJV、NASBなど）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb כּוּן (kun, “to establish; to confirm”) with צַעַד (tsa’ad, “step”) means “to direct” (e.g., Ps 119:133; Jer 10:23). This contrasts what people plan and what actually happens – God determines the latter.",
+        "ja": "[翻訳注] כּוּן（クン、「確立する、確認する」）という動詞が צַעַד（ツァアド、「歩み」）と一緒に使われると、「導く」という意味になる（例：詩篇 119:133; エレミヤ 10:23）。これは、人々が計画することと実際に起こることの対比――後者を決定するのは神であるという対比を表している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  “Steps” is an implied comparison, along with “way,” to indicate the events of the plan as they work out.",
+        "ja": "[解説] 「歩み」は「道」とともに、計画がその通りに展開していく中での出来事を示すための暗黙の比較（比喩）である。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “oracle” (so NAB, NIV) or “decision”; TEV “the king speaks with divine authority.” The term קֶסֶם (qesem) is used in the sense of “oracle; decision; verdict” (HALOT 1115-16 s.v.). The pronouncements of a king form an oracular sentence, as if he speaks for God; they are divine decisions (e.g., Num 22:7; 23:23; 2 Sam 14:20).",
+        "ja": "[翻訳注] ヘブル語は「託宣」（NAB、NIVなど）あるいは「決定」である。TEVは「王は神の権威をもって語る」と訳している。קֶסֶם（ケセム）という語は「託宣、決定、判決」という意味で用いられる（HALOT 1115-16 s.v.）。王の発言はまるで神のために語っているかのような託宣的宣告を形成し、それらは神からの決定である（例：民数記 22:7; 23:23; Ⅱサムエル 14:20）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “on the lips.” The term “lips” is a metonymy of cause referring to what the king says – no doubt what he says officially.",
+        "ja": "[翻訳注] ヘブル語は「唇の上で」である。「唇」という語は原因の換喩であり、王が語る内容――間違いなく彼の公式な発言――を指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “his mouth.” The term “mouth” is a metonymy of cause for what the king says: his pronouncements and legal decisions.",
+        "ja": "[翻訳注] ヘブル語は「その口」である。「口」という語は、王が語る内容、すなわち彼の宣言や法的決定に対する原因の換喩である。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The second line gives the effect of the first: If the king delivers such oracular sayings (קֶסֶם, qesem, translated “divine verdict”), then he must be careful in the decisions he makes. The imperfect tense then requires a modal nuance to stress the obligation of the king not to act treacherously against justice. It would also be possible to translate the verb as a jussive: Let the king not act treacherously against justice. For duties of the king, e.g.,  and . For a comparison with Ezekiel 21:23-26, see E. W. Davies, “The Meaning of qesem in Prov 16:10,” Bib 61 (1980): 554-56.",
+        "ja": "[解説] 第二行は第一行の結果を示している。もし王がこのような託宣的な言葉（קֶסֶם、ケセム、「神聖な宣言」と訳される）を発するならば、彼は自分の下す決定において慎重でなければならない。したがって、未完了時制は、正義に背いて行動してはならないという王の義務を強調する法助動詞的なニュアンスを必要とする。この動詞を意欲法（jussive）として「王よ、正義に背いて行動してはならない」と訳すことも可能であろう。王の義務については、例えば、…などを参照せよ。エゼキエル 21:23-26との比較については、E. W. Davies, “The Meaning of qesem in Prov 16:10,” Bib 61 (1980): 554-56 を参照せよ。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a scale and balances of justice.” This is an attributive genitive, meaning “just scales and balances.” The law required that scales and measures be accurate and fair (Lev 19:36; Deut 25:13). Shrewd dishonest people kept light and heavy weights to make unfair transactions.",
+        "ja": "[翻訳注] ヘブル語は「正義の天秤と秤」である。これは限定的属格であり、「正しい天秤と秤」を意味する。律法は、天秤や測定基準が正確で公平であることを求めていた（レビ記 19:36; 申命記 25:13）。抜け目のない不正直な人々は、不公正な取引を行うために軽い分銅や重い分銅を使い分けていた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “stones.”",
+        "ja": "[翻訳注] ヘブル語は「石」である。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  The “wickedness” mentioned here (רֶשַׁע, resha’) might better be understood as a criminal act, for the related word “wicked” can also mean the guilty criminal. If a king is trying to have a righteous administration, he will detest any criminal acts.",
+        "ja": "[解説] ここで言及されている「悪」（רֶשַׁע、レシャ）は、犯罪行為として理解する方がより適切であるかもしれない。なぜなら、関連する「悪者」という言葉もまた、有罪の犯罪者を意味しうるからである。王が正しい政権運営を行おうと努めているのであれば、彼はあらゆる犯罪行為を激しく嫌うはずである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The “throne” represents the administration, or the decisions made from the throne by the king, and so the word is a metonymy of adjunct (cf. NLT “his rule”).",
+        "ja": "[翻訳注] 「王座」は政権運営、あるいは王座から王によって下される決定を象徴しており、したがってこの言葉は付加物の換喩である（NLTの「彼の統治」と比較せよ）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The MT has the plural, even though the verb “loves” is masculine singular. The ancient versions and two Hebrew mss read “a king.”",
+        "ja": "[翻訳注] マソラ本文（MT）は、動詞「愛する」が男性単数形であるにもかかわらず、複数形になっている。古代訳および二つのヘブル語写本は「王」と読んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “lips of righteousness”; cf. NAB, NIV “honest lips.” The genitive “righteousness” functions as an attributive adjective. The term “lips” is a metonymy of cause for what is said: “righteous speech” or “righteous counsel.”",
+        "ja": "[翻訳注] ヘブル語は「正義の唇」である（NAB、NIVの「誠実な唇」と比較せよ）。属格の「正義」は限定形容詞として機能している。「唇」という語は、語られる内容、すなわち「正しい発言」あるいは「正しい助言」に対する原因の換喩である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The MT has the singular participle followed by the plural adjective (which is here a substantive). The editors of BHS wish to follow the ancient versions in making the participle plural, “those who speak uprightly.”",
+        "ja": "[翻訳注] マソラ本文（MT）は単数の分詞の後に複数の形容詞（ここでは名詞化されている）を置いている。BHSの編集者たちは、古代訳に従って分詞を複数形「まっすぐに語る者たち」に修正したいと考えている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The verse is talking about righteous kings, of course – they love righteousness and not flattery. In this proverb “righteous” and “upright” referring to what is said means “what is right and straight,” i.e., the truth (cf. NCV).",
+        "ja": "[解説] この節が語っているのはもちろん正しい王たちのことである。彼らはへつらいではなく義を愛する。この格言において、発言に関して用いられる「正しい」および「まっすぐな」という言葉は「正しくまっすぐなこと」、すなわち真理を意味している（NCVと比較せよ）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  This proverb introduces the danger of becoming a victim of the king’s wrath (cf. CEV “if the king becomes angry, someone may die”). A wise person knows how to pacify the unexpected and irrational behavior of a king. The proverb makes the statement, and then gives the response to the subject.",
+        "ja": "[解説] この格言は、王の怒りの犠牲者になる危険性を導入している（CEVの「王が怒れば、誰かが死ぬかもしれない」と比較せよ）。知恵ある人は、王の予測不可能で不合理な振る舞いをどのようにして静めるべきかを知っている。この格言はまずその事実を述べ、次にその主題に対する対処法を示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「…のように」という語はヘブル語テキストには現れないが、隠喩によって暗示されており、明確さのために補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The expression uses an implied comparison, comparing “wrath” to a messenger because it will send a message. The qualification is “death,” an objective genitive, meaning the messenger will bring death, or the message will be about death. E.g., 1 Kgs 2:25, 29-34 and 46. Some have suggested a comparison with the two messengers of Baal to the god Mot (“Death”) in the Ugaritic tablets (H. L. Ginsberg, “Baal’s Two Messengers,” BASOR 95 [1944]: 25-30). If there is an allusion, it is a very slight one. The verse simply says that the king’s wrath threatens death.",
+        "ja": "[翻訳注] この表現は暗黙の比較を用いており、「怒り」が使いを遣わすことからそれを「使者」にたとえている。その修飾語は目的格的属格である「死」であり、使者が死をもたらすこと、あるいはそのメッセージが死に関するものであることを意味する。例：Ⅰ列王記 2:25, 29-34, 46。ウガリットの粘土板文書におけるバアルから死の神モトへの二人の使者との比較が示唆されたこともある（H. L. Ginsberg, “Baal’s Two Messengers,” BASOR 95 [1944]: 25-30）。もしほのめかしがあるとしても、それは非常にわずかなものである。この節が述べているのは単に、王の怒りが死の脅威を孕んでいるということである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The verb is כָּפַּר (kapar), which means “to pacify; to appease” and “to atone; to expiate” in Levitical passages. It would take a wise person to know how to calm or pacify the wrath of a king – especially in the ancient Near East.",
+        "ja": "[翻訳注] 用いられている動詞は כָּפַּר（カファル）であり、それはレビ記の箇所において「なだめる、和らげる」および「あがなう、償う」を意味する。王の怒りをどのようにして鎮めるあるいはなだめるべきかを知るには、知恵ある人であってこそ可能なのである――特に古代近東においては。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the light of the face of the king.” This expression is a way of describing the king’s brightened face, his delight in what is taking place. This would mean life for those around him.[解説]  The proverb is the antithesis of 16:14.",
+        "ja": "[翻訳注] ヘブル語は「王の顔の光」である。この表現は、明るく輝いた王の顔、すなわち目の前で起きていることに対する王の喜びを描写する方法である。これは、彼の周囲にいる者たちにとって命を意味する。[解説] この格言は箴言 16:14の対義語である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “cloud.”",
+        "ja": "[翻訳注] ヘブル語は「雲」である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “latter rain” (so KJV, ASV). The favor that this expression represents is now compared to the cloud of rain that comes with the “latter” rain or harvest rain. The point is that the rain cloud was necessary for the successful harvest; likewise the king’s pleasure will ensure the success and the productivity of the people under him. E.g., also Psalm 72:15-17; the prosperity of the land is portrayed as a blessing on account of the ideal king.",
+        "ja": "[翻訳注] ヘブル語は「後の雨」である（KJV、ASVなど）。この表現が表す恵みは、今や「後の雨」すなわち収穫時の雨に伴う雨雲にたとえられている。要点は、収穫を成功させるためには雨雲が不可欠であったのと同様に、王の喜びもまた、その治下にある民の成功と生産性を確実に保証するということである。例：詩篇 72:15-17も参照せよ。その土地の繁栄は、理想的な王ゆえの祝福として描写されている。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form קְנֹה (qÿnoh) is an infinitive; the Greek version apparently took it as a participle, and the Latin as an imperative – both working with an unpointed קנה, the letter ה (he) being unexpected in the form if it is an infinitive construct (the parallel clause has קְנוֹת [qÿnot] for the infinitive, but the ancient versions also translate that as either a participle or an imperative).",
+        "ja": "[翻訳注] קְנֹה（クノ）という形は不定詞である。ギリシャ語訳はこれを分詞として捉え、ラテン語訳は命令法として捉えた。もしそれが不定詞構文であれば予期されないはずの文字 ה（ヘ）を欠いた、無母音の קנה として処理された結果である（並行節では不定詞のために קְנוֹת [クノート] が使われているが、古代訳はいずれもそれを分詞または命令法として翻訳している）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The form is a Niphal participle, masculine singular. If it is modifying “understanding” it should be a feminine form. If it is to be translated, it would have to be rendered “and to acquire understanding is to be chosen more than silver” (cf. KJV, ASV, NASB). Many commentaries consider it superfluous. NIV and NCV simply have “to choose understanding rather than silver!”",
+        "ja": "[翻訳注] この形はニファル分詞の男性単数形である。もしそれが「悟り」を修飾しているのであれば、女性形であるべきである。これを翻訳するとすれば、「そして悟りを得ることは銀よりも選ばれるべきである」としなければならない（KJV、ASV、NASBと比較せよ）。多くの註解者はこれを余分なものとみなしている。NIVやNCVは単に「銀よりもむしろ悟りを選ぶこと！」としている。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[解説]  The point of righteous living is made with the image of a highway, a raised and well-graded road (a hypocatastasis, implying a comparison between a highway and the right way of living).",
+        "ja": "[解説] 正しい生き方の要点は、高く盛られ、よく整えられた道路である大路のイメージを用いて表現されている（隠喩的表現であり、大路と正しい生き方の間にある比較を暗示している）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The form סוּר (sur) is a Qal infinitive; it indicates that a purpose of the righteous life is to turn away from evil. “Evil” here has the sense of sinful living. So the first line asserts that the well-cared-for life avoids sin.",
+        "ja": "[翻訳注] סוּר（スール）という形はカル不定詞であり、正しい生き方の目的の一つが悪から離れることであることを示している。ここでの「悪」は罪深い生き方というニュアンスを持っている。したがって第一行は、よく手入れされた人生は罪を避けるのだと主張している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The second half of the verse uses two different words for “guard”; this one is נֹצֵר (notser) “the one who guards his way,” and the first is שֹׁמֵר (shomer) “the one who guards his life” (the order of the words is reversed in the translation). The second colon then explains further the first (synthetic parallelism), because to guard one’s way preserves life.",
+        "ja": "[解説] この節の後半では「守る」という言葉に二つの異なる単語が使われている。こちらは נֹצֵר（ノツェル、「自分の道を保つ者」）であり、最初のものは שֹׁמֵר（ショメル、「自分の命を守る者」）である（翻訳では言葉の順序が逆転している）。したがって第二行は第一行をさらに説明している（同義的並行法）。なぜなら、自分の道を保つことは命を安全に保つことだからである。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The LXX adds three lines after 17a and one after 17b: “The paths of life turn aside from evils, and the ways of righteousness are length of life; he who receives instruction will be prosperous, and he who regards reproofs will be made wise; he who guards his ways preserves his soul, and he who loves his life will spare his mouth.”",
+        "ja": "[写本注] 七十訳は17節aの後に三行、17節bの後に一行を追加している。「命の道は悪から離れ、正しさの道は長寿である。訓戒を受け入れる者は栄え、叱責に留意する者は知恵を得る。自分の道を保つ者はその魂を安全にし、自分の命を愛する者はその口を慎む。」"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[解説]  The two lines of this proverb are synonymous parallelism, and so there are parasynonyms. “Pride” is paired with “haughty spirit” (“spirit” being a genitive of specification); and “destruction” is matched with “a tottering, falling.”",
+        "ja": "[解説] この格言の二つの行は同義的並行法であり、したがって類義語が用いられている。「高ぶり」は「高慢な霊」とペアになっており（「霊」は限定の属格）、そして「破滅」は「つまずき、倒れること」と対置されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “[is] before destruction.”",
+        "ja": "[翻訳注] ヘブル語は「[は]破滅に先立ち」である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Many proverbs have been written in a similar way to warn against the inevitable disintegration and downfall of pride. W. McKane records an Arabic proverb: “The nose is in the heavens, the seat is in the mire” (Proverbs [OTL], 490).",
+        "ja": "[解説] 多くの格言が、高ぶりの避けられない崩壊と転落について警告するために、同様の方式で書かれてきた。W・マケインはアラビアの格言を記録している。「鼻は天にあり、尻は泥の中にある」（Proverbs [OTL], 490）。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “low of spirit”; KJV “of an humble spirit.” This expression describes the person who is humble and submissive before the Lord and therefore inoffensive. It is always necessary to have a humble spirit, whether there is wealth or not.",
+        "ja": "[翻訳注] ヘブル語は「心の低い者」であり、KJVは「へりくだった霊の者」と訳している。この表現は、主の前に謙虚で従順であり、したがって人を不快にさせない人物を描写している。富があるかどうかにかかわらず、謙虚な霊を持つことは常に不可欠である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “than to divide plunder.” The word “plunder” implies that the wealth taken by the proud was taken violently and wrongfully – spoils are usually taken in warfare. R. N. Whybray translates it with “loot” (Proverbs [CBC], 95). The proud are in rebellion against God, overbearing and oppressive. One should never share the “loot” with them.",
+        "ja": "[翻訳注] ヘブル語は「略奪品を分かつことよりも」である。「略奪品」という単語は、高ぶる者たちが奪い取った富が暴力によって不当に奪われたものであることを含意している――戦利品は通常、戦いにおいて奪われるものである。R・N・ワイブレイはこれを「戦利品（loot）」と訳している（Proverbs [CBC], 95）。高ぶる者たちは神に反逆し、横柄で強圧的である。決して彼らと「戦利品」を分け合ってはならない。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he who is prudent” or “he who deals wisely” (cf. KJV). The proverb seems to be referring to wise business concerns and the reward for the righteous. One who deals wisely in a matter will find good results. R. N. Whybray sees a contrast here: “The shrewd man of business will succeed well, but the happy man is he who trusts the Lord” (Proverbs [CBC], 92). Synonymous parallelism is more appropriate.",
+        "ja": "[翻訳注] ヘブル語は「慎み深い者」または「知恵深く行動する者」である（KJVと比較せよ）。この格言は、賢明なビジネス上の懸案事項と正しい者への報いについて言及しているように思われる。物事に対処して知恵深く行動する者は良い結果を見出す。R・N・ワイブレイはここに一つの対比を見出している。「抜け目のないビジネスマンはうまく成功するだろうが、幸いな人は主に信頼する者である」（Proverbs [CBC], 92）。しかし同義的並行法の方がより適切である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “he who gives heed to a word,” that is, “who listens to instruction” (cf. NIV, NLT).",
+        "ja": "[翻訳注] または「言葉に留意する者」、すなわち「訓戒に聞き従う者」（NIV、NLTと比較せよ）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “good” (so KJV, ASV).",
+        "ja": "[翻訳注] ヘブル語は「良い」である（KJV、ASVなど）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Although traditionally this word is translated “happy” (cf. KJV, ASV, NAB, NRSV, NLT), such a translation can be misleading because the word means far more than that. It describes the heavenly bliss that comes from knowing one is right with God and following God’s precepts. The “blessed” could be at odds with the world (Ps 1:1-3).",
+        "ja": "[翻訳注] 伝統的にこの単語は「幸福な」（KJV、ASV、NAB、NRSV、NLT）と訳されてきたが、そのような翻訳は誤解を招くおそれがある。なぜならこの単語は単なる幸福をはるかに超えた意味を持っているからである。それは、自分が神の前に正しいこと、そして神の規定に従っていることを知ることから来る天上の至福を描写している。「幸いな者」は世と敵対するかもしれない（詩篇 1:1-3）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “and the one who trusts in the Lord – blessed is he.”",
+        "ja": "[翻訳注] ヘブル語は「そして主に信頼する者――幸いなのはその人である」である。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “wise of heart” (so NRSV).",
+        "ja": "[翻訳注] ヘブル語は「心の知恵ある者」である（NRSVなど）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to the wise of heart it will be called discerning.” This means that the wise of heart, those who make wise decisions (“heart” being the metonymy), will gain a reputation of being the discerning ones.",
+        "ja": "[翻訳注] ヘブル語は「心の知恵ある者はわきまえた者と呼ばれるであろう」である。これは、知恵ある心を持つ者、すなわち賢明な決断を下す者たち（「心」は換喩）が、わきまえた者としての名声を得ることを意味している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “sweetness of lips.” The term “lips” is a metonymy of cause, meaning what is said. It is a genitive of specification. The idea of “sweetness” must be gracious and friendly words. The teaching will be well-received because it is both delightful and persuasive (cf. NIV “pleasant words promote instruction”).",
+        "ja": "[翻訳注] ヘブル語は「唇の甘さ」である。「唇」という語は原因の換喩であり、語られる内容を意味する。それは限定の属格である。「甘さ」という概念は、愛想がよく親しみやすい言葉でなければならない。その教えは、魅力的であると同時に説得力もあるため、よく受け入れられることだろう（NIVの「心地よい言葉は教えを促進する」と比較せよ）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “teaching” or “receptivity”; KJV “learning”; NIV “instruction.”",
+        "ja": "[翻訳注] ヘブル語は「教え」または「受容性」であり、KJVは「学び」、NIVは「訓戒」と訳している。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew noun שֵׂכֵל (sekhel, “prudence; insight”; cf. KJV, NASB, NIV “understanding”; NAB, CEV “good sense”) is related to the verb that means “to have insight; to give attention to; to act circumspectly [or, prudently],” as well as “to prosper; to have success.” These words all describe the kind of wise action that will be successful.",
+        "ja": "[翻訳注] ヘブル語の名詞 שֵׂכֵל（セケル、「慎み、洞察力」; KJV、NASB、NIVの「理解」、NAB、CEVの「良識」と比較せよ）は、「洞察力を持つ、注意を払う、慎重に行動する（あるいは、賢明に行動する）」、および「繁栄する、成功する」を意味する動詞に関連している。これらの単語はいずれも、成功をもたらすような知恵ある行動のあり方描写している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「…のように」という語はヘブル語テキストには現れないが、隠喩によって暗示されており、明確さのために補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “fountain of life.” The point of the metaphor is that like a fountain this wisdom will be a constant provision for living in this world.",
+        "ja": "[翻訳注] ヘブル語は「命の泉」である。この比喩の要点は、泉のように、この知恵はこの世界で生きるための絶え間ない供給源となるということである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “the discipline of fools [is] folly.” The “discipline” (מוּסָר, musar) in this proverb is essentially a requital for sin (hence “punishment,” so NIV, NCV, NRSV); discipline which is intended to correct is normally rejected and despised by fools. So the line is saying that there is very little that can be done for or with the fool (cf. NLT “discipline is wasted on fools”).",
+        "ja": "[翻訳注] ヘブル語は「愚か者たちの懲らしめ[は]愚行である」である。この格言における「懲らしめ」（מוּסָר、ムサル）は本質的に罪に対する報い（ゆえにNIV、NCV、NRSVの「罰」）である。本来は正すことを意図している懲らしめであるが、愚か者たちは通常それを拒絶し、軽蔑する。したがってこの行が言っているのは、愚か者のために、あるいは愚か者に関してできることはほとんど何もないということである（NLTの「懲らしめは愚か者には無駄である」と比較せよ）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “mind” (cf. NCV, NRSV, NLT).",
+        "ja": "[翻訳注] または「精神、理性」（NCV、NRSV、NLTと比較せよ）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “makes wise his mouth,” with “mouth” being a metonymy of cause for what is said: “speech.”",
+        "ja": "[翻訳注] ヘブル語は「彼の口を知恵深いものとする」であり、「口」は語られる内容、すなわち「スピーチ、言葉」に対する原因の換喩である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Those who are wise say wise things. The proverb uses synthetic parallelism: The first line asserts that the wise heart ensures that what is said is wise, and the second line adds that such a person increases the reception of what is said.",
+        "ja": "[解説] 知恵ある者は知恵あることを語る。この格言は合成的並行法を用いている。第一行は、知恵ある心が語られる内容を知恵深いものにすることを断言し、第二行は、そのような人は語られる内容の受容性を高めるのだと付け加えている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “to his lips.” The term “lips” functions as a metonymy of cause for what is said.",
+        "ja": "[翻訳注] ヘブル語は「彼の唇に」である。「唇」という語は語られる内容に対する原因の換喩として機能している。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「…のように」という語はヘブル語テキストには現れないが、隠喩によって暗示されており、翻訳では明確さのために補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The metaphor of honey or the honeycomb is used elsewhere in scripture, notably Ps 19:10 [11]. Honey was used in Israel as a symbol of the delightful and healthy products of the land – “a land flowing with milk and honey” (Deut 6:3).",
+        "ja": "[解説] 蜂蜜あるいは蜂の巣の比喩は、聖書の他の箇所、とりわけ詩篇 19:10 [11]でも用いられている。イスラエルにおいて蜂蜜は、その土地の心地よく健康的な産物の象徴として用いられていた――「乳と蜜の流れる土地」（申命記 6:3）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Two predicates are added to qualify the metaphor: The pleasant words are “sweet” and “healing.” “Soul” includes in it the appetites, physical and spiritual; and so sweet to the “soul” would summarize all the ways pleasant words give pleasure. “Bones” is a metonymy of subject, the boney framework representing the whole person, body and soul. Pleasant words, like honey, will enliven and encourage the whole person. One might recall, in line with the imagery here, how Jonathan’s eyes brightened when he ate from the honeycomb (1 Sam 14:27).",
+        "ja": "[解説] 比喩を修飾するために二つの叙述が加えられている。麗しい言葉は「甘く」、そして「癒やす」。「魂」には欲求や身体的・霊的欲求が含まれており、したがって「魂」にとって甘いということは、麗しい言葉が喜びを与えるすべてのあり方を要約している。「骨」は主体の換喩であり、骨組みが身体と魂の両方からなる人間全体を代表している。蜂蜜のように、麗しい言葉は人間全体、すなわち心身を活気づけ、励ますのである。ここでのイメージに沿って思い起こされるのは、ヨナタンが蜂の巣から食べたときに彼の目が輝いた様子である（Ⅰサムエル 14:27）。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “There is a way that is right before a man [to the face of a man].”",
+        "ja": "[翻訳注] ヘブル語は「人の前に正しい道がある[人の顔に向かって]」である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the ways of death” (so KJV, ASV). This construct phrase features a genitive of destiny: “ways that lead to [or, end in] death.”This proverb is identical to 14:12.",
+        "ja": "[翻訳注] ヘブル語は「死の道々」である（KJV、ASVなど）。この連辞句には目的の属格が特徴として表れている。「[そこへ]導く、あるいは[そこ で]終わる道」。この格言は14:12と同一である。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[解説]  The word for “laborer” and “labors” emphasizes the drudgery and the agony of work (עָמַל, ’amal). For such boring drudgery motivations are necessary for its continuance, and hunger is the most effective. The line is saying that the appetites are working as hard as the laborer.",
+        "ja": "[解説] 「労働者」および「労働する」のための単語は、労働の骨折りと苦悩（עָמַל、アマル）を強調している。そのような退屈な骨折り仕事にはそれを継続するための動機が必要であり、飢えはその中で最も効果的である。この行が言っているのは、食欲が労働者と同じくらい懸命に働いているということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “soul.” The term נֶפֶשׁ (nefesh) here means “appetite,” functioning as a metonymy; the “inner soul” of a person representing his appetite (BDB 660 s.v. 5a; see, e.g., Pss 63:6; 107:9; Prov 13:25; 16:24; 27:7; Isa 56:11; 58:10; Jer 50:19; Ezek 7:19). This is suggested by the parallelism with “hunger.”",
+        "ja": "[翻訳注] ヘブル語は「魂」である。ここでの נֶפֶשׁ（ネフェシュ）という語は「食欲」を意味し、換喩として機能している。人の「内なる魂」がその食欲を表現している（BDB 660 s.v. 5a; 例：詩篇 63:6; 107:9; 箴言 13:25; 16:24; 27:7; イザヤ 56:11; 58:10; エレミヤ 50:19; エゼキエル 7:19を参照）。これは「飢え」との並行法によって示唆されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “labors for him” (so NAB).",
+        "ja": "[翻訳注] ヘブル語は「彼のために働く」である（NABなど）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “his mouth” (so KJV, NAB). The term “mouth” is a metonymy for hunger or eating. The idea of the proverb is clear – the need to eat drives people to work.",
+        "ja": "[翻訳注] ヘブル語は「彼の口」である（KJV、NABなど）。「口」という語は空腹や食事に対する換喩である。この格言の要点は明確である――食べる必要性が人々を労働へと駆り立てるのである。"
+      },
+      {
+        "pos": 5,
+        "en": "[写本注]  The LXX has apparently misread פִּיהוּ (pihu) and inserted the idea of “ruin” for the laborer: “he drives away ruin.” This influenced the Syriac to some degree; however, its first clause understood “suffering” instead of “labor”: “the person who causes suffering suffers.”[解説]  This theme is taught elsewhere (e.g., Eccl 6:7; Eph 4:28; 6:7; 2 Thess 3:10-12).",
+        "ja": "[写本注] 七十訳は、明らかに פִּיהוּ（ピフー）を誤読して、労働者にとっての「破滅」という概念を挿入している。「彼は破滅を追い払う」。これはシリア語訳にもある程度影響を与えた。しかし、その第一行は「労働」の代わりに「苦しみ」を理解していた。「苦しみをもたらす者は苦しむ」。[解説] このテーマは他の箇所でも教えられている（例：伝道の書 6:7; エペソ 4:28; 6:7; Ⅱテサロニケ 3:10-12）。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man of belial.” This phrase means “wicked scoundrel.” Some translate “worthless” (so ASV, NASB, CEV), but the phrase includes deep depravity and wickedness (C. H. Toy, Proverbs [ICC], 125-26).",
+        "ja": "[翻訳注] ヘブル語は「ベリアルの人」である。この句は「卑劣な悪人」を意味する。「無価値な者」と訳す者もいるが（ASV、NASB、CEVなど）、この句には深い堕落と邪悪さが含まれている（C. H. Toy, Proverbs [ICC], 125-26）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “digs up” (so NASB). The “wicked scoundrel” finds out about evil and brings it to the surface (Prov 26:27; Jer 18:20). What he digs up he spreads by speech.",
+        "ja": "[翻訳注] ヘブル語は「掘り起こす」である（NASBなど）。この「卑劣な悪人」は悪事について探し出し、それを表面に引き上げる（箴言 26:27; エレミヤ 18:20）。彼が掘り起こしたものを、彼は言葉によって言いふらす。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “on his lips” (so NAB) The term “lips” is a metonymy of cause. To say that “evil” is on his lips means that he talks about the evil he has dug up.",
+        "ja": "[翻訳注] ヘブル語は「その唇の上に」である（NABなど）。「唇」という語は原因の換喩である。「悪」が彼の唇にあるということは、彼が自分が掘り起こした悪事について語り立てることを意味する。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The simile stresses the devastating way that slander hurts people. W. McKane says that this one “digs for scandal and…propagates it with words which are ablaze with misanthropy” (Proverbs [OTL], 494).",
+        "ja": "[解説] この直喩は、中傷が人々を傷つけるその破壊的なあり方を強調している。W・マケインは次のように述べている。この人物は「スキャンダルを掘り起こし……人間嫌いの炎で燃え盛る言葉をもってそれを広める」（Proverbs [OTL], 494）。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man of perverse things”; NAB “an intriguer.” This refers to someone who destroys lives. The parallelism suggests that he is a “slanderer” or “gossip” – one who whispers and murmurs (18:8; 26:20, 22).",
+        "ja": "[翻訳注] ヘブル語は「ねじ曲がった事柄の人」であり、NABは「陰謀家」と訳している。これは人生を破壊する者を指す。並行法は、彼が「中傷者」あるいは「陰口を叩く者」――ささやき、ぶつぶつと不平を言う者（18:8; 26:20, 22）であることを示唆している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The term אַלּוּף (’aluf) refers to a “friend” or “an intimate associate.” The word has other possible translations, including “tame” or “docile” when used of animals. Rashi, a Jewish scholar who lived a.d. 1040-1105, took it in the later sense of “prince,” saying that such speech alienates the Prince, namely God. But that is a forced interpretation of the line.",
+        "ja": "[翻訳注] אַלּוּף（アルフ）という単語は「友人」あるいは「親しい仲間」を指す。この単語には他にも、動物について使われる場合の「飼い慣らされた」や「従順な」といった翻訳の可能性もある。AD 1040-1105年生きたユダヤ人学者ラシは、これを「君主」という後代の意味で捉え、そのような言葉は君主、すなわち神を遠ざけるのだと述べた。しかしそれはその行に対する無理な解釈である。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “man of violence.” He influences his friends toward violence. The term חָמָס (khamas, “violence”) often refers to sins against society, social injustices, and crimes.",
+        "ja": "[翻訳注] ヘブル語は「暴虐な人」である。彼は自分の友人たちに暴力を振るうよう影響を与える。חָמָס（ハマス、「暴力」）という語はしばしば社会に対する罪、社会的不公正、および犯罪を指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb in the first colon is the Piel imperfect, and the form in the second is the Hiphil perfect; the first is a habitual imperfect, and the second a gnomic perfect. The first verb, “to persuade, seduce, entice,” is the metonymy of cause; the second verb, “to lead,” is the metonymy of effect, the two together forming the whole process.",
+        "ja": "[翻訳注] 第一行の動詞はピエル態未完了であり、第二行の形はヒフィル態完了である。前者は習慣的未完了であり、後者は格言的完了である。最初の動詞「説得する、そそのかす、誘惑する」は原因の換喩であり、二番目の動詞「導く」は結果の換喩であり、この二つが合わさってプロセス全体を形成している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “not good” (so KJV, NAB, NASB, NIV, NRSV); NLT “a harmful path.” The expression “a way that is not good” is an example of tapeinosis – a deliberate understatement for the sake of emphasis: It is terrible. This refers to crime and violence. The understatement is used to warn people away from villains and to remind them to follow a good path.",
+        "ja": "[翻訳注] ヘブル語は「良くない」である（KJV、NAB、NASB、NIV、NRSVなど）。NLTは「有害な道」と訳している。「良くない道」という表現はタペイノシスの一例であり、強調のために意図的に表現を抑えたものである。すなわち、それは恐ろしい道なのである。これは犯罪と暴力を指している。この控えめな表現は、人々が悪党から離れるよう警告し、良い道を歩むよう思い起こさせるために用いられている。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[解説]  The participle עֹצֶה (’otseh) describes one as shutting his eyes (cf. KJV, ASV). This could mean simply “closing the eyes,” or it could refer to “winking” (so many English versions). The proverb is saying that facial expressions often reveal if someone is plotting evil (e.g., 6:13-14).",
+        "ja": "[解説] 分詞の עֹצֶה（オツェ）は、目を閉じる者を描写している（KJV、ASVなど）。これは単に「目を閉じている」ことを意味する場合もあれば、「ウインクする」ことを指す場合もある（多くの英訳がこのようにしている）。この格言が言っているのは、顔の表情が、誰かが悪事を企んでいるかどうかをしばしば露わにするということである（例：6:13-14）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The conjunction “and” does not appear in the Hebrew but is implied by the synonymous parallelism.",
+        "ja": "[翻訳注] 接続詞「そして」はヘブル語には現れないが、同義的並行法によって暗示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The participle קֹרֵץ (qorets) indicates that the person involved is pinching, compressing, or biting his lips (cf. NIV “purses his lips”).",
+        "ja": "[翻訳注] 分詞の קֹרֵץ（コレツ）は、その人物が唇をつまんでいる、圧縮している、あるいは噛み締めていることを示している（NIVの「唇を引き締める」と比較せよ）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The verb is a Piel perfect; it means “complete, finish, bring to an end.” The two cola may form the whole process: The first line has “to devise” evil, and the second has “he completes” evil. BDB, however, classifies this use of the Piel as “to accomplish in thought” meaning “to determine” something (BDB 478 s.v. כָּלָה 1f). In that case the two lines would have synonymous ideas, i.e., using facial expressions to plan evil actions.",
+        "ja": "[翻訳注] この動詞はピエル態完了であり、「完了する、終える、終わりにもたらす」を意味する。二つの句はプロセス全体を形成しているかもしれない。第一行には悪を「企てる」があり、第二行には悪を「成し遂げる」がある。しかし、BDBはこのピエル態の用法を「思考の中で成就する」、すなわち何かを「決定する」という意味に分類している（BDB 478 s.v. כָּלָה 1f）。その場合、二つの行は同義的なアイデア、すなわち顔の表情を用いて悪事の計画を実行することを表していることになる。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「…のように」という語はヘブル語テキストには現れないが、隠喩によって暗示されており、明確さのために補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The proverb presents the ideal, for it is not concerned with old people who may be evil. The KJV tried to qualify the interpretation by making the second half of the verse a conditional clause (“if it be found in the way of righteousness”). This is acceptable but unnecessary. The book of Proverbs is simply laying out the equity of longevity for righteousness and premature death for wicked people. In this line “gray hair” is a metonymy of adjunct/effect, representing old age; and the “glorious crown” (taking the genitive as attributive) provides a fitting metaphor to compare the hair on the head with a crown.",
+        "ja": "[解説] この格言は理想を提示している。なぜなら、悪であるかもしれない高齢者のことなど念頭に置いていないからである。KJVは、この節の後半を条件節（「もしそれが正しい道に見出されるならば」）にすることによって、その解釈を限定しようとした。これは容認できるが必須ではない。箴言の書は、単に正しい者にとっての長寿の公正さと、悪人にとっての早死にを提示しているだけである。この行において「白髪」は付加物／結果の換喩であり、老年を象徴しており、「栄えの冠」（属格を限定的として捉える）は、頭の上の髪を冠にたとえるためのふさわしい比喩を提供している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “it is found” (so NASB) or “it will be found.”",
+        "ja": "[翻訳注] ヘブル語は「それは見出される」（NASBなど）または「それは見出されるであろう」である。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  While the proverb presents a general observation, there is a commendable lesson about old people who can look back on a long walk with God through life and can anticipate unbroken fellowship with him in glory.",
+        "ja": "[解説] この格言は一般的な観察を提示しているが同時に、人生を通して神とともに歩んだ長い道のりを振り返り、栄光の中で神との途切れない交わりを待ち望むことができる高齢者についての称賛すべき教訓を含んでいる。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  One who is “slow to anger” is a patient person (cf. NAB, NIV, NLT). This is explained further in the parallel line by the description of “one who rules his spirit” (וּמֹשֵׁל בְּרוּחוֹ, umoshel bÿrukho), meaning “controls his temper.” This means the person has the emotions under control and will not “fly off the handle” quickly.",
+        "ja": "[翻訳注] 「怒るのをそっと控える者」とは、忍耐強い人のことである（NAB、NIV、NLTと比較せよ）。これは並行行において「自分の心を治める者」（וּמֹשֵׁל בְּרוּחוֹ、ウモシェル・ブルホ、「自分の霊を治める者」）という描写によってさらに説明されている。これは、その人物が自分の感情をコントロールしており、すぐに「カッとなる」ことがないという意味である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “who rules his spirit” (so NASB).",
+        "ja": "[翻訳注] ヘブル語は「自分の霊を治める者」である（NASBなど）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The phrase “is better than” does not appear in this line in the Hebrew text, but is implied by the parallelism.",
+        "ja": "[翻訳注] 「…に勝る」という句はこの行のヘブル語テキストには現れないが、並行法によって暗示されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The saying would have had greater impact when military prowess was held in high regard. It is harder, and therefore better, to control one’s passions than to do some great exploit on the battlefield.",
+        "ja": "[解説] 軍事的な力量が大いに評価されていた時代において、この格言はより大きなインパクトを持っていたはずである。戦場で何らかの偉大な功績を成し遂げることよりも、自分の情熱をコントロールすることの方がより困難であり、したがってより勝っているのである。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the lot is cast.” Because the ancient practice of “casting lots” is unfamiliar to many modern readers, the imagery has been updated to “throwing dice.”[解説]  The proverb concerns the practice of seeking divine leading through casting lots. For a similar lesson, see Amenemope (18, 19:16-17, in ANET 423).",
+        "ja": "[翻訳注] ヘブル語は「くじが投げ入れられる」である。古代における「くじを引く」という慣習は現代の多くの読者には馴染みがないため、そのイメージは「サイコロを投げる」に現代風に更新されている。[解説] この格言は、くじを引くことを通して神の導きを求める慣習に関するものである。類似した教訓については、アメンエムオペ（18, 19:16-17, ANET 423）を参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all its decision.”",
+        "ja": "[翻訳注] ヘブル語は「そのすべての決定」である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The point concerns seeking God’s will through the practice. The Lord gives guidance in decisions that are submitted to him.",
+        "ja": "[解説] 要点は、この慣習を通して神の御心を求めることに関係している。主に委ねられた決定において、主は導きを与えてくださる。"
+      }
+    ]
+  }
+}

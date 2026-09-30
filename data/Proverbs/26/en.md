@@ -1,0 +1,247 @@
+# Proverbs 26 (English)
+
+## Text
+
+**1** Like snow in summer or rain in harvest, so honor is not fitting for a fool. 
+
+**2** Like a fluttering bird or like a flying swallow, so a curse without cause does not come to rest.
+
+**3** A whip for the horse and a bridle for the donkey, and a rod for the backs of fools! 
+
+**4** Do not answer a fool according to his folly, lest you yourself also be like him.
+
+**5** Answer a fool according to his folly, lest he be wise in his own opinion.
+
+**6** Like cutting off the feet or drinking violence, so is sending a message by the hand of a fool. 
+
+**7** Like legs dangle uselessly from the lame, so a proverb dangles in the mouth of fools. 
+
+**8** Like tying a stone in a sling, so is giving honor to a fool. 
+
+**9** Like a thorn has gone up into the hand of a drunkard, so a proverb has gone up into the mouth of a fool. 
+
+**10** Like an archer who wounds at random, so is the one who hires a fool or hires any passerby. 
+
+**11** Like a dog that returns to its vomit, so a fool repeats his folly. 
+
+**12** You have seen a man wise in his own opinion— there is more hope for a fool than for him.
+
+**13** The sluggard has said, “There is a lion in the road! A lion in the streets!” 
+
+**14** Like a door that turns on its hinges, so a sluggard turns on his bed. 
+
+**15** The sluggard has plunged his hand in the dish; he is too lazy to bring it back to his mouth. 
+
+**16** The sluggard is wiser in his own opinion than seven people who respond with good sense. 
+
+**17** Like one who grabs a wild dog by the ears, so is the person passing by who becomes furious over a quarrel not his own.
+
+**18** Like a madman who shoots firebrands and deadly arrows, 
+
+**19** so is a person who has deceived his neighbor, and said, “Was I not only joking?” 
+
+**20** Where there is no wood, a fire goes out, and where there is no gossip, contention ceases. 
+
+**21** Like charcoal is to burning coals, and wood to fire, so is a contentious person to kindle strife. 
+
+**22** The words of a gossip are like choice morsels; and they have gone down into a person’s innermost being. 
+
+**23** Like a coating of glaze over earthenware are fervent lips with an evil heart. 
+
+**24** The one who hates others disguises it with his lips, but he stores up deceit within him.
+
+**25** When he speaks graciously, do not believe him, for there are seven abominations within him.
+
+**26** Though his hatred may be concealed by deceit, his evil will be uncovered in the assembly. 
+
+**27** The one who digs a pit will fall into it; the one who rolls a stone—it will come back on him.
+
+**28** A lying tongue hates those crushed by it, and a flattering mouth works ruin. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  “Honor” in this passage probably means respect, external recognition of worth, accolades, advancement to high position, etc. All of these would be out of place with a fool; so the sage is warning against elevating or acclaiming those who are worthless. See also J. A. Emerton, “Notes on Some Passages in the Book of Proverbs,” VT 15 (1965): 271-79.
+
+### Verse 1 - Note 2
+[解説]  The first twelve verses of this chapter, Prov 26:1-12, are sometimes called “the Book of Fools” because they deal with the actions of fools.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “causeless curse” (KJV similar) describes an undeserved curse (cf. NIV, NRSV). The Hebrew word translated “causeless” is the adverb from ָחנַן (khanan); it means “without cause; gratuitous.”[解説]  This proverb is saying that a curse that is uttered will be powerless if that curse is undeserved. It was commonly believed in the ancient world that blessings and curses had power in themselves, that once spoken they were effectual. But scripture makes it clear that the power of a blessing or a curse depends on the power of the one behind it (e.g., Num 22:38; 23:8). A curse would only take effect if the one who declared it had the authority to do so, and he would only do that if the curse was deserved.
+
+### Verse 2 - Note 2
+[写本注]  The MT has the negative with the verb “to enter; to come” to mean “will not come” (לֹא תָבֹא, lo’ tavo’). This is interpreted to mean “will not come to rest” or “will not come home.” Some commentators have taken the Qere reading of לוֹ (lo) instead, and read it as “will come home to him.” This is also a little difficult; but it gives the idea that an undeserved curse will come [back] to him [who gave it]. Just as a bird will fly around and eventually come home, so will the undeserved curse return on the one who gave it. This is plausible; but there is no referent for the suffix, making it syntactically difficult.
+
+### Verse 3 - Note 1
+[解説]  A fool must be disciplined by force like an animal – there is no reasoning. The fool is as difficult to manage as the donkey or horse.
+
+### Verse 4 - Note 1
+[解説]  One should not answer a fool’s foolish questions in line with the fool’s mode of reasoning (J. H. Greenstone, Proverbs, 274).
+
+### Verse 4 - Note 2
+[解説]  The person who descends to the level of a fool to argue with him only looks like a fool as well.
+
+### Verse 5 - Note 1
+[解説]  The apparent contradiction with the last verse has troubled commentators for some time. The Rabbis solved it by saying that v. 4 referred to secular things, but v. 5 referred to sacred or religious controversies. While this does not resolve the issue, it does give a sound application for the two verses together – in negligible issues one should just ignore the stupid person, but in issues that matter the fool must be dealt with, lest credence be given to what he says (W. G. Plaut, Proverbs, 266). The text presents two proverbs each of which presents an aspect of the whole truth. One should not lower himself to the level of the fool, but there are times when the lesser of two evils is to do so, other than let the fool gain confidence that he is a wise person or be considered wise by others. Paul, for example, talked like a “fool” to correct the foolish ideas of the Corinthians (2 Cor 11:16-17; 12:11).
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “in his own eyes” (so NAB, NASB, NIV).
+
+### Verse 6 - Note 1
+[解説]  Sending a messenger on a mission is like having another pair of feet. But if the messenger is a fool, this proverb says, not only does the sender not have an extra pair of feet – he cuts off the pair he has. It would not be simply that the message did not get through; it would get through incorrectly and be a setback! The other simile uses “violence,” a term for violent social wrongs and injustice. The metaphorical idea of “drinking” violence means suffering violence – it is one’s portion. So sending a fool on a mission will have injurious consequences.
+
+### Verse 6 - Note 2
+[翻訳注]  The participle could be taken as the subject of the sentence: “the one who sends…cuts off…and drinks.”
+
+### Verse 6 - Note 3
+[解説]  The consequence is given in the first line and the cause in the second. It would be better not to send a message at all than to use a fool as messenger.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “like the legs which hang down from the lame” (so NASB). The is דַּלְיוּ (dalyu), from דָּלַל (dalal, “to hang; to be low; to languish”) although the spelling of the form indicates it would be from דָּלָה (dalah, “to draw” [water]). The word indicates the uselessness of the legs – they are there but cannot be used. Luther gave the verse a fanciful but memorable rendering: “Like dancing to a cripple, so is a proverb in the mouth of the fool.”
+
+### Verse 7 - Note 2
+[翻訳注]  The proverb does not begin with a כְּ (bet) preposition to indicate a simile; but the analogy within the verse makes it clear that the first line is the emblem. The conjunction vav then indicates the equation – “so.”
+
+### Verse 7 - Note 3
+[解説]  As C. H. Toy puts it, the fool is a “proverb-monger” (Proverbs [ICC], 474); he handles an aphorism about as well as a lame man can walk. The fool does not understand, has not implemented, and cannot explain the proverb. It is useless to him even though he repeats it.
+
+### Verse 8 - Note 1
+[翻訳注]  The translation “like tying a stone in a sling” seems to make the most sense, even though the word for “sling” occurs only here.[解説]  The point is that only someone who does not know how a sling works would do such a stupid thing (R. N. Whybray, Proverbs [CBC], 152). So to honor a fool would be absurd; it would be counterproductive, for he would still be a fool.
+
+### Verse 9 - Note 1
+[解説]  The picture is one of seizing a thornbush and having the thorn pierce the hand (עָלָה בְיַד־, ’alah vÿyad). A drunk does not know how to handle a thornbush because he cannot control his movements and so gets hurt (W. McKane, Proverbs [OTL], 599). C. H. Toy suggests that this rather means a half-crazy drunken man brandishing a stick (Proverbs [ICC], 475). In this regard cf. NLT “a thornbush brandished by a drunkard.”
+
+### Verse 9 - Note 2
+[解説]  A fool can read or speak a proverb but will be intellectually and spiritually unable to handle it; he will misapply it or misuse it in some way. In doing so he will reveal more of his folly. It is painful to hear fools try to use proverbs.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “who wounds everyone” (so NASB). A similar rendering is given by ASV, NAB, NIV, NRSV, and NLT; it is the only one that makes sense out of a verse that most commentators consider hopelessly corrupt. That is not to say it is the correct rendering, only that it makes sense as a required negative statement in a proverb. The first line has רַב מְחוֹלֵל־כֹּל (rav mÿkholel-col). The first word, רַב (rav), can mean “archer,” “ master,” or “much.” The verb מְחוֹלֵל (mÿkholel) can mean “to wound” or “to bring forth.” The possibilities are: “a master performs [or, produces] all,” “a master injures all,” “an archer wounds all,” or “much produces all.” The line probably should be stating something negative, so the idea of an archer injuring or wounding people [at random] is preferable. An undisciplined hireling will have the same effect as an archer shooting at anything and everything (cf. NLT “an archer who shoots recklessly”).
+
+### Verse 10 - Note 2
+[翻訳注]  The participle שֹׂכֵר (shokher) is rendered here according to its normal meaning “hires” or “pays wages to.” Other suggestions include “one who rewards a fool” (derived from the idea of wages) and “one who stops a fool” (from a similar word).
+
+### Verse 11 - Note 1
+[解説]  The simile is graphic and debasing (cf. 2 Peter 2:22).
+
+### Verse 11 - Note 2
+[解説]  The point is clear: Fools repeat their disgusting mistakes, or to put it another way, whenever we repeat our disgusting mistakes we are fools. The proverb is affirming that no matter how many times a fool is warned, he never learns.
+
+### Verse 12 - Note 1
+[翻訳注]  The verse simply uses a perfect tense. The meaning of the verse would be the same if this were interpreted as an affirmation rather than as an interrogative. The first line calls such a person to one’s attention.
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “in his own eyes” (so NAB, NASB, NIV).[解説]  The subject matter of the verse is the person who is wise in his own opinion. Self-conceit is actually part of the folly that the book of Proverbs criticizes; those who think they are wise even though they are not are impossible to help. For someone to think he is wise when he is not makes him a conceited ignoramus (W. G. Plaut, Proverbs, 268).
+
+### Verse 12 - Note 3
+[解説]  Previous passages in the book of Proverbs all but deny the possibility of hope for the fool. So this proverb is saying there is absolutely no hope for the self-conceited person, and there might be a slight hope for the fool – he may yet figure out that he really is a fool.
+
+### Verse 13 - Note 1
+[解説]  The Book of Fools covered vv. 1-12. This marks the beginning of what may be called the Book of Sluggards (vv. 13-16).
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “in the broad plazas”; NAB, NASB “in the square.” This proverb makes the same point as 22:13, namely, that the sluggard uses absurd excuses to get out of work. D. Kidner notes that in this situation the sluggard has probably convinced himself that he is a realist and not a lazy person (Proverbs [TOTC], 163).
+
+### Verse 14 - Note 1
+[翻訳注]  The comparative “like” is not in the Hebrew text, but is supplied from context in the translation.
+
+### Verse 14 - Note 2
+[解説]  The sluggard is too lazy to get out of bed – although he would probably rationalize this by saying that he is not at his best in the morning. The humor of the verse is based on an analogy with a door – it moves back and forth on its hinges but goes nowhere. Like the door to the wall, the sluggard is “hinged” to his bed (e.g., Prov 6:9-10; 24:33).
+
+### Verse 14 - Note 3
+[翻訳注]  The term “turns” is not in the Hebrew text, but is supplied in the translation from the parallelism.
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “buries” (so many English versions); KJV “hideth”; NAB “loses.”
+
+### Verse 15 - Note 2
+[解説]  The proverb is stating that the sluggard is too lazy to eat; this is essentially the same point made in 19:24 (see the note there).
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “in his eyes.” The lazy person thinks that he has life all figured out and has chosen the wise course of action – but he is simply lazy. J. H. Greenstone says, for example, “Much anti-intellectualism may be traced to such rationalization for laziness” (Proverbs, 269).
+
+### Verse 16 - Note 2
+[翻訳注]  The term means “taste; judgment.” The related verb means “to taste; to perceive,” that is, “to examine by tasting,” or examine by experiencing (e.g., Ps 34:9). Here the idea is expressed with the participle in construct, “those returners [of] good sense,” those who answer tastefully, with discretion. Cf. NIV “who (+ can NRSV) answer discreetly.”
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “grabs the ears of a dog. The word “wild” has been supplied in the translation to make clear that these were not domesticated pets. CEV, to accomplish the same point, has “a mad dog,” but there is no indication of that in context.[解説]  Someone who did this ran a serious risk of injury or harm. Dogs were not domestic pets in the ancient Near East; they were scavengers that ran in packs like jackals.
+
+### Verse 17 - Note 2
+[翻訳注]  The word מִתְעַבֵּר (mit’abber) means “to put oneself in a fury” or “become furious” (BDB 720 s.v.). The Latin version apparently assumed the verb was עָרַב (’arav), for it has the sense of “meddle” (so also NAB, NASB, NIV, NRSV). However, the MT reading could easily fit the verse, referring to anyone passing by who gets furious over a fight that is not his.
+
+### Verse 18 - Note 1
+[翻訳注]  The term כְּמִתְלַהְלֵהַּ (kÿmitlahleah) is the Hitpalpel participle of the quadriliteral verbal root לִהְלֵהַּ (lihleah), which means “to amaze; to startle” (BDB 529 s.v.). Here it functions as a substantive – the object of the preposition – and has the meaning of “madman” (cf. NRSV “maniac”). This is the only occurrence of the term.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “arrows and death” (so KJV, NASB). This expression can be understood as a nominal hendiadys: “deadly arrows” (so NAB, NIV).
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “man.”
+
+### Verse 19 - Note 2
+[解説]  The subject of this proverb is not simply a deceiver, but one who does so out of jest, or at least who claims he was joking afterward. The participle מְשַׂחֵק has the idea of “laughing, mocking”; in this context it might convey the idea of “kidding” or “joking.” The point is that such practical joking is immature and often dangerous. To the foolish deceiver it might all seem like fun, like sport; but it can destroy people. One cannot trifle with dangerous weapons, or put them in irresponsible hands; likewise one cannot trifle with human relationships. W. G. Plaut notes, “The only worthwhile humor is that which laughs with, not at others” (Proverbs, 270).
+
+### Verse 20 - Note 1
+[解説]  Gossip (that is, the one who goes around whispering and slandering) fuels contention just as wood fuels a fire. The point of the proverb is to prevent contention – if one takes away the cause, contention will cease (e.g., 18:8).
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “becomes silent.”
+
+### Verse 21 - Note 1
+[解説]  Heb “a man of contentions”; NCV, NRSV, NLT “a quarrelsome person.” The expression focuses on the person who is contentious by nature. His quarreling is like piling fuel on a fire that would otherwise go out. This kind of person not only starts strife, but keeps it going.
+
+### Verse 21 - Note 2
+[翻訳注]  The Pilpel infinitive construct לְחַרְחַר (lÿkharkhar) from חָרַר (kharar, “to be hot; to be scorched; to burn”) means “to kindle; to cause to flare up.”
+
+### Verse 22 - Note 1
+[翻訳注]  The proverb is essentially the same as 18:8; it observes how appealing gossip is.
+
+### Verse 23 - Note 1
+[翻訳注]  The traditional translation of “silver dross” (so KJV, ASV, NASB) never did make much sense because the parallel idea deals with hypocrisy – “fervent lips with an evil heart.” But silver dross would not be used over earthenware – instead it is discarded. Yet the MT clearly has “silver dross” (כֶּסֶף סִיגִים, kesef sigim). Ugaritic turned up a word spsg which means “glaze,” and this found a parallel in Hittite zapzaga[y]a. H. L. Ginsberg repointed the Hebrew text to k’sapsagim, “like glaze,” and this has been adopted by many commentators and recent English versions (e.g., NAB, NIV, NRSV, NLT). The final ם (mem) is then classified as enclitic. See, among others, K. L. Barker, “The Value of Ugaritic for Old Testament Studies,” BSac 133 (1976): 128-29.
+
+### Verse 23 - Note 2
+[翻訳注]  The word translated “fervent” actually means “burning, glowing”; the LXX has “flattering lips” (as if from חָלַק [khalaq] rather than דָּלַק [dalaq]).
+
+### Verse 23 - Note 3
+[解説]  The analogy fits the second line very well. Glaze makes a vessel look beautiful and certainly different from the clay that it actually is. So is one who has evil intent (“heart”) but covers it with glowing speech.
+
+### Verse 24 - Note 1
+[翻訳注]  The Niphal imperfect from נָכַר (nakhar) means “to act [or, treat] as a foreigner [or, stranger]; to misconstrue; to disguise.” The direct object (“it”) is not present in the Hebrew text but is implied. In this passage it means that the hater speaks what is “foreign” to his thought; in other words, he dissembles.
+
+### Verse 24 - Note 2
+[翻訳注]  Or “places; puts; lays up” (cf. KJV, ASV, NASB).
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “within him” (so KJV, ASV) or “in his midst”; NAB “in his inmost being.”[解説]  Hypocritical words may hide a wicked heart. The proverb makes an observation: One who in reality despises other people will often disguise that with what he says.
+
+### Verse 25 - Note 1
+[翻訳注]  The particle כִּי (ki) is here interpreted with a temporal nuance. It is also possible that it could be read as concessive (so NIV, NLT “Though”).
+
+### Verse 25 - Note 2
+[翻訳注]  The meaning of the rare Piel form of חָנַן (khanan) is “to make gracious; to make favorable.” The subject is קוֹלוֹ (qolo, “his voice”), a metonymy of cause for what he says. The idea is that what he says is very gracious in its content and its effect.
+
+### Verse 25 - Note 3
+[解説]  It may be that the placing of this proverb in this setting is designed to point out that the person speaking graciously is this wicked person who conceals an evil heart. Otherwise it may have in mind a person who has already proven untrustworthy but protests in order to conceal his plans. But even if that were not the connection, the proverb would still warn the disciple not to believe someone just because it sounded wonderful. It will take great discernment to know if there is sincerity behind the person’s words.
+
+### Verse 25 - Note 4
+[解説]  The number “seven” is used in scripture as the complete number. In this passage it is not intended to be literally seven; rather, the expression means that there is complete or total abomination in his heart. Cf. TEV “his heart is filled to the brim with hate.”
+
+### Verse 25 - Note 5
+[解説]  “Abomination” means something that is loathed. This is a description applied by the writer, for the hypocritical person would not refer to his plans this way.
+
+### Verse 26 - Note 1
+[翻訳注]  The referent is apparently the individual of vv. 24-25.
+
+### Verse 26 - Note 2
+[翻訳注]  The form תִּכַּסֶּה (tikkasseh) is the Hitpael imperfect (with assimilation); it is probably passive, meaning “is concealed,” although it could mean “conceals itself” (naturally). Since the proverb uses antithetical parallelism, an imperfect tense nuance of possibility (“may be concealed”) works well here (cf. NIV, NLT).
+
+### Verse 26 - Note 3
+[解説]  The Hebrew verb means “to uncover,” here in the sense of “to reveal; to make known; to expose.” The verse is promising that the evil the person has done will be exposed publicly. The common belief that righteousness will ultimately triumph informs this saying.
+
+### Verse 27 - Note 1
+[解説]  The verse is teaching talionic justice (“an eye for an eye,” etc.), and so the activities described should be interpreted as evil in their intent. “Digging a pit” would mean laying a trap for someone (the figure of speech would be a metonymy of cause for the effect of ruining someone, if an actual pit is being dug; the figure would be hypocatastasis if digging a pit is being compared to laying a trap, but no pit is being dug). Likewise, “rolling a stone” on someone means to destroy that individual.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “the tongue of deception.” The subject matter of this proverb is deceptive speech. The “tongue of deception” (using a metonymy of cause with an attributive genitive) means that what is said is false. Likewise the “smooth mouth” means that what is said is smooth, flattering.
+
+### Verse 28 - Note 2
+[解説]  The verse makes it clear that only pain and ruin can come from deception. The statement that the lying tongue “hates those crushed by it” suggests that the sentiments of hatred help the deceiver justify what he says about people. The ruin that he brings is probably on other people, but it could also be taken to include his own ruin.

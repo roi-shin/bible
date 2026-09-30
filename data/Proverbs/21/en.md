@@ -1,0 +1,361 @@
+# Proverbs 21 (English)
+
+## Text
+
+**1** The king’s heart is in the hand of the Lord like channels of water; he turns it wherever he wants. 
+
+**2** All a person’s ways seem right in his own opinion, but the Lord evaluates his thoughts.
+
+**3** To do righteousness and justice is more acceptable to the Lord than sacrifice. 
+
+**4** Haughty eyes and a proud heart— what the wicked cultivate is sin. 
+
+**5** The plans of the diligent lead only to plenty, but everyone who is hasty comes only to poverty. 
+
+**6** Making a fortune by a lying tongue is like a vapor driven back and forth; they seek death. 
+
+**7** The violence done by the wicked will drag them away because they have refused to do what is right. 
+
+**8** The way of the guilty person is devious, but as for the pure, his way is upright. 
+
+**9** It is better to live on a corner of the housetop than to share a house with a quarrelsome wife. 
+
+**10** The appetite of the wicked has desired evil; his neighbor is shown no favor in his eyes. 
+
+**11** When a scorner is punished, the naive becomes wise; when a wise person is instructed, he gains knowledge. 
+
+**12** The Righteous One considers the house of the wicked; he overthrows the wicked to their ruin. 
+
+**13** The one who shuts his ears to the cry of the poor, he too will cry out and will not be answered. 
+
+**14** A gift given in secret subdues anger, and a bribe given secretly subdues strong wrath. 
+
+**15** Doing justice brings joy to the righteous and terror to those who do evil. 
+
+**16** The one who wanders from the way of wisdom will end up in the company of the departed. 
+
+**17** The one who loves pleasure will be a poor person; whoever loves wine and anointing oil will not be rich. 
+
+**18** The wicked become a ransom for the righteous, and the treacherous are taken in the place of the upright. 
+
+**19** It is better to live in the wilderness than with a quarrelsome and easily provoked woman. 
+
+**20** There is desirable treasure and olive oil in the dwelling of the wise, but a foolish person devours all he has.
+
+**21** The one who pursues righteousness and love finds life, bounty, and honor. 
+
+**22** A wise man went up against the city of the mighty and brought down the stronghold in which they trust.
+
+**23** The one who guards his mouth and his tongue keeps his life from troubles. 
+
+**24** A proud and arrogant person, whose name is “Scoffer,” acts with overbearing pride. 
+
+**25** What the sluggard desires will kill him, for his hands have refused to work.
+
+**26** All day long he has craved greedily, but the righteous person gives and does not hold back.
+
+**27** The wicked person’s sacrifice is an abomination; how much more when he brings it with evil intent! 
+
+**28** A lying witness will perish, but the one who reports accurately speaks forever. 
+
+**29** A wicked person has put on a bold face, but as for the upright, he establishes his ways. 
+
+**30** There is no wisdom and there is no understanding, and there is no counsel against the Lord. 
+
+**31** A horse is prepared for the day of battle, but the victory is from the Lord. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  “Heart” is a metonymy of subject; it signifies the ability to make decisions, if not the decisions themselves.
+
+### Verse 1 - Note 2
+[解説]  “Hand” in this passage is a personification; the word is frequently used idiomatically for “power,” and that is the sense intended here.
+
+### Verse 1 - Note 3
+[翻訳注]  “Channels of water” (פַּלְגֵי, palge) is an adverbial accusative, functioning as a figure of comparison – “like channels of water.” Cf. NAB “Like a stream”; NIV “watercourse”; NRSV, NLT “a stream of water.”[解説]  The farmer channels irrigation ditches where he wants them, where they will do the most good; so does the Lord with the king. No king is supreme; the Lord rules.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “in his own eyes.” The term “eyes” is a metonymy for estimation, opinion, evaluation.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “weighs” (so NASB, NIV, NRSV); NLT “examines”; NCV, TEV “judges.”
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “the hearts.” The term לֵב (lev, “heart”) is used as a metonymy of association for thoughts and motives (BDB 660-61 s.v. 6-7). Even though people think they know themselves, the Lord evaluates motives as well (e.g., Prov 16:2).
+
+### Verse 3 - Note 1
+[翻訳注]  The Niphal participle בָּחַר (bakhar, “to choose”) means “choice to the Lord” or “chosen of the Lord,” meaning “acceptable to the Lord”; cf. TEV “pleases the Lord more.”
+
+### Verse 3 - Note 2
+[解説]  The Lord prefers righteousness above religious service (e.g., Prov 15:8; 21:29; 1 Sam 15:22; Ps 40:6-8; Isa 1:11-17). This is not a rejection of ritual worship; rather, religious acts are without value apart from righteous living.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “the tillage [נִר, nir] of the wicked is sin” (so NAB). The subject picks up the subjects of the first half of the verse, indicating they are equal – the tillage consists of the arrogance and pride. The word “tillage” is figurative, of course, signifying that the agricultural product (the point of the comparison) of the wicked is sin. The relationship between the ideas is then problematic. Are pride and arrogance what the wicked produce? Some (ASV, NASB, NIV, NRSV) have followed the LXX and Tg. Prov 21:4 to read “lamp” instead (נֵר, ner), but that does not solve the difficulty of the relationship between the expressions. It does, however, say that the life ( = lamp), which is arrogance and pride, is sin.
+
+### Verse 5 - Note 1
+[翻訳注]  The word “diligent” is an adjective used substantivally. The related verb means “to cut, sharpen, decide”; so the adjective describes one who is “sharp” – one who acts decisively. The word “hasty” has the idea of being pressed or pressured into quick actions. So the text contrasts calculated expeditiousness with unproductive haste. C. H. Toy does not like this contrast, and so proposes changing the latter to “lazy” (Proverbs [ICC], 399), but W. McKane rightly criticizes that as unnecessarily forming a pedestrian antithesis (Proverbs [OTL], 550).
+
+### Verse 5 - Note 2
+[翻訳注]  The term “lead” is supplied in the translation.
+
+### Verse 5 - Note 3
+[翻訳注]  The Hebrew noun translated “plenty” comes from the verb יָתַר (yatar), which means “to remain over.” So the calculated diligence will lead to abundance, prosperity.
+
+### Verse 5 - Note 4
+[翻訳注]  Heb “lack; need; thing needed”; NRSV “to want.”
+
+### Verse 6 - Note 1
+[翻訳注]  The first word of the verse is the noun meaning “doing, deed, work.” The BHS editors suggest reading with the LXX an active participle – “the one who makes” (cf. NAB “He who makes”). The second word means “treasure,” from the verb “lay up, store up.” It is an objective genitive here.
+
+### Verse 6 - Note 2
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.
+
+### Verse 6 - Note 3
+[翻訳注]  The Hebrew הֶבֶל נִדָּף (hevel nidaf) is properly “a driven vapor” (“driven” = the Niphal participle). The point of the metaphor is that the ill-gotten gains will vanish into thin air. The LXX has “pursues” (as if reading רֹדֵף, rodef); cf. NAB “chasing a bubble over deadly snares.”
+
+### Verse 6 - Note 4
+[翻訳注]  The Hebrew has “seekers of death,” meaning “[they that seek them] are seekers of death,” or that the fortune is “a fleeting vapor for those who seek death.” The sense is not readily apparent. The Greek and the Latin versions have “snares of death”; the form מוֹקְשֵׁי (moqÿshe) was read instead of מְבַקְשֵׁי (mÿvaqshe). This reading does not make a more credible metaphor, and one must explain the loss of the letter ב (bet) in the textual variant. It is, however, slightly easier to interpret in the verse, and is followed by a number of English versions (e.g., NAB, NIV, NRSV, NLT). But whether the easier reading is the correct one in this case would be difficult to prove.
+
+### Verse 7 - Note 1
+[翻訳注]  The “violence” (שֹׁד, shod) drags away the wicked, probably either to do more sin or to their punishment. “Violence” here is either personified, or it is a metonymy of cause, meaning “the outcome of their violence” drags them away.
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “violence of the wicked.” This is a subjective genitive: “violence which the wicked do.”
+
+### Verse 7 - Note 3
+[翻訳注]  The second colon of the verse is the causal clause, explaining why they are dragged away. They are not passive victims of their circumstances or their crimes. They choose to persist in their violence and so it destroys them.
+
+### Verse 7 - Note 4
+[翻訳注]  Heb “they refuse to do justice” (so ASV); NASB “refuse to act with justice.”
+
+### Verse 8 - Note 1
+[翻訳注]  The first line of the proverb is difficult. Since וָזָר (vazar) occurs only here it has been given much attention. The translation of “guilty” is drawn from an Arabic cognate meaning “to bear a burden” and so “to be sin laden” or “guilty” (cf. NASB, NIV, NCV, NRSV, NLT). G. R. Driver prefers to read the line as “a man crooked of ways is false [zar]” (“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 185). C. H. Toy adopts the meaning of “proud” (Proverbs [ICC], 400). Whatever the reading, “guilty” or “proud” or “false,” the idea is that such people are devious. Bad people are underhanded; good people are aboveboard (C. H. Toy, Proverbs [ICC], 400). Another way to analyze the line is to read it with the definition “strange, stranger”: “The way of a man and a stranger is perverse.” But this is unclear, and would form no satisfactory contrast to 8b. Another suggestion is “the way of (usual) man is changeable and strange, but the pure fellow leads a straight and even course” (J. H. Greenstone, Proverbs, 244); cf. NLT “the innocent travel a straight road.”
+
+### Verse 8 - Note 2
+[翻訳注]  The form הֲפַכְפַּךְ (hafakhfakh) is an adjective with an intensified meaning due to the duplication of the second and third radicals; it means “very devious; crooked” (from the verb “to overturn”).
+
+### Verse 8 - Note 3
+[翻訳注]  If this translation stands, then the construction is formed with an independent nominative absolute, resumed by the suffixed noun as the formal subject. It draws attention to the “pure” or “innocent” person in contrast to the previously mentioned wicked.
+
+### Verse 9 - Note 1
+[翻訳注]  English versions which translate the Hebrew term as “roof” here sometimes produce amusing images for modern readers: TEV “Better to live on the roof”; CEV “It’s better to stay outside on the roof of your house.”[解説]  The reference is probably to a small room that would be built on the flat housetop primarily for guests (e.g., 1 Kgs 17:19; 2 Kgs 4:10). It would be cramped and lonely – but peaceful in avoiding strife.
+
+### Verse 9 - Note 2
+[翻訳注]  The “house of company” has received numerous interpretations. The word “company” or “companionship” would qualify “house” as a place to be shared. The BHS editors propose “spacious house,” which would call for a transposition of letters (cf. NAB “a roomy house”; NLT “a lovely home”). Such an emendation makes good sense, but has no external support.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “a wife of contentions”; KJV “a brawling woman”; TEV, CEV “a nagging wife.” The Greek version has no reference to a quarrelsome wife, but instead mentions justice in a common house.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “soul.” The Hebrew text uses נֶפֶשׁ (nefesh, traditionally, “soul”) as the formal subject of the sentence – “the soul of a wicked man desires.” This term has at its core the idea of appetites, and so its use here underscores that the cravings are deep-seated (BDB 660 s.v. 5), and the translation “appetite” reflects this.
+
+### Verse 10 - Note 2
+[解説]  The word has the meanings of “desire, crave, long for, lust after.” It usually has “soul” as its subject. The word is used in the Ten Commandments in the prohibition against coveting a neighbor’s house (Deut 5:18).
+
+### Verse 10 - Note 3
+[翻訳注]  The form יֻחַן (yukhan) is a Hophal imperfect from חָנַן (khanan); it means “to be shown mercy” – here negated to mean “he will not be shown mercy.” The person who lives to satisfy his own craving for evil will not be interested in meeting the needs of others.
+
+### Verse 11 - Note 1
+[解説]  The contrast here is between the simple and the wise. The simple gain wisdom when they see the scorner punished; the wise gains knowledge through instruction. The scorner does not change, but should be punished for the benefit of the simple (e.g., Prov 19:25).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “in the instructing of the wise.” The construction uses the Hiphil infinitive construct הַשְׂכִּיל (haskil) with a preposition to form a temporal clause (= “when”). The word “wise” (חָכָם, khakham) after it is the subjective genitive. The preposition לְ (lamed) on the form is probably dittography from the ending of the infinitive.
+
+### Verse 12 - Note 1
+[翻訳注]  In the book of Proverbs, the Hebrew term צַּדִּיק (ysadiq) normally refers to a human being, and that is a possible translation here (cf. KJV, ASV, NAB), although it would have to refer to a righteous person who was a judge or a ruler with the right to destroy the wicked. Many commentators and English versions simply interpret this as a reference to God (cf. NIV, NRSV, TEV, NLT).
+
+### Verse 12 - Note 2
+[翻訳注]  The form מַשְׂכִּיל (maskil) is now used with the meaning “to consider; to give attention to; to ponder.” It is the careful scrutiny that is given to the household of the wicked before judgment is poured out on them.
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “house.” This term probably means “household” here – the family. One way to read the line is that the righteous judge (human or divine) takes into consideration the wicked person’s family before judging the wicked person. The other – and more plausible – interpretation is that the judge considers the household of the wicked and then on the basis of what was observed judges them.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “to evil” (i.e., catastrophe); cf. NLT “to disaster.”
+
+### Verse 13 - Note 1
+[解説]  The imagery means “pay no attention to” the cry for help or “refuse to help,” so it is a metonymy of cause for the effect.
+
+### Verse 13 - Note 2
+[解説]  “Cry” here would be a metonymy of effect for the cause, the cause being the great needs of the poor.
+
+### Verse 13 - Note 3
+[解説]  The proverb is teaching that those who show mercy will receive mercy. It involves the principle of talionic justice – those who refuse the needs of others will themselves be refused when they need help (so Luke 16:19-31).
+
+### Verse 14 - Note 1
+[解説]  The synonymous parallelism joins the more neutral term “gift” with the more specific “bribe.” D. Kidner notes that this underscores how hard it is to tell the difference between them, especially since they accomplish similar things (Proverbs [TOTC], 143).
+
+### Verse 14 - Note 2
+[翻訳注]  The word כָּפָה (kafah) occurs only here; it means “to subdue,” but in New Hebrew it means “to overturn; to compel.” The BHS editors suggest a change to כָּבָה (kavah), “to be quenched,” based on Symmachus and Tg. Prov 21:14, but there is no substantial improvement in the text’s meaning with such a change.
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “a bribe in the bosom” (so NASB). This refers to a gift hidden in the folds of the garment, i.e., given secretly (cf. NIV “a bribe concealed in the cloak”).
+
+### Verse 14 - Note 4
+[翻訳注]  The repetition of the term “subdues” in the second line is supplied in the translation.
+
+### Verse 14 - Note 5
+[写本注]  The LXX offers a moralizing translation not too closely tied to the MT: “he who withholds a gift stirs up violent wrath.”
+
+### Verse 15 - Note 1
+[翻訳注]  The Qal infinitive construct עֲשׂוֹת (’asot) functions as the subject of the sentence.
+
+### Verse 15 - Note 2
+[翻訳注]  The term “brings” is supplied in the translation; many English versions supply a simple copula (“is”).
+
+### Verse 15 - Note 3
+[解説]  The noun means “terror (NAB, NASB, NIV), destruction (KJV, ASV), ruin (cf. NCV).” Its related verb means “be shattered, dismayed.” The idea of “dismay” (NRSV) or “terror” would make the better choice to contrast with “joy” in the first line, but “ruin” is also possible. Whenever justice prevails, whether in the courts or simply in society, the people who practice iniquity may be shaken into reality by fear (cf. CEV “crooks are terrified”).
+
+### Verse 16 - Note 1
+[翻訳注]  The text uses “man” as the subject and the active participle תּוֹעֶה (to’eh) as the predicate. The image of “wandering off the path” signifies leaving a life of knowledge, prudence, and discipline.
+
+### Verse 16 - Note 2
+[翻訳注]  Or “prudence”; KJV, NASB, NIV, NRSV “understanding”; NLT “common sense.”
+
+### Verse 16 - Note 3
+[翻訳注]  Heb “will remain” or “will rest.” The Hebrew word נוּחַ (nuakh) does not here carry any of the connotations of comforting repose in death that the righteous enjoy; it simply means “to remain; to reside; to dwell.” The choice of this verb might have an ironic twist to it, reminding the wicked what might have been.
+
+### Verse 16 - Note 4
+[解説]  The departed are the Shades (the Rephaim). The literal expression “will rest among the Shades” means “will be numbered among the dead.” So once again physical death is presented as the punishment for folly.
+
+### Verse 17 - Note 1
+[解説]  The participle “loves” (אֹהֵב, ’ohev) indicates in this context that more is involved than the enjoyment of pleasure, for which there is no problem. The proverb is looking at “love” in the sense of needing and choosing, an excessive or uncontrolled indulgence in pleasure.
+
+### Verse 17 - Note 2
+[解説]  “Pleasure” is actually the Hebrew word “joy” (שִׂמְחָה, simkhah). It is a metonymy of effect, the cause being the good life that brings the joy. In the second colon, “wine” and “oil” would be metonymies of cause, the particular things in life that bring joy. Therefore the figures in the lines work together to give the complete picture.
+
+### Verse 17 - Note 3
+[翻訳注]  The phrase “will be” is supplied in the translation.
+
+### Verse 17 - Note 4
+[翻訳注]  Heb “a man of poverty”; NRSV “will suffer want.”
+
+### Verse 17 - Note 5
+[解説]  In elaborate feasts and celebrations the wine was for drinking but the oil was for anointing (cf. NAB, NCV “perfume”). Both of these characterize the luxurious life (e.g., Ps 23:5; 104:15; Amos 6:6).
+
+### Verse 18 - Note 1
+[翻訳注]  The term “become” is supplied in the translation.
+
+### Verse 18 - Note 2
+[解説]  The Hebrew word translated “ransom” (כֹּפֶר, kofer) normally refers to the price paid to free a prisoner. R. N. Whybray (Proverbs [CBC], 121) gives options for the meaning of the verse: (1) If it means that the wicked obtain good things that should go to the righteous, it is then a despairing plea for justice (which would be unusual in the book of Proverbs); but if (2) it is taken to mean that the wicked suffers the evil he has prepared for the righteous, then it harmonizes with Proverbs elsewhere (e.g., 11:8). The ideal this proverb presents – and the future reality – is that in calamity the righteous escape and the wicked suffer in their place (e.g., Haman in the book of Esther).
+
+### Verse 18 - Note 3
+[翻訳注]  Or “treacherous” (so ASV, NASB, NLT); NIV “the unfaithful.”
+
+### Verse 18 - Note 4
+[翻訳注]  The phrase “are taken” does not appear in the Hebrew but is implied by the parallelism; it is supplied in the translation for smoothness.
+
+### Verse 19 - Note 1
+[翻訳注]  The Hebrew form שֶׁבֶת (shevet) is the infinitive construct of יָשַׁב (yashav), functioning as the subject of the sentence.
+
+### Verse 19 - Note 2
+[解説]  The verse makes the same point as 21:9 and 25:24; but “desert land” is substituted. It would be a place sparsely settled and quiet.
+
+### Verse 19 - Note 3
+[翻訳注]  The Hebrew noun כַּעַס (ka’as) means “vexation; anger.” The woman is not only characterized by a quarrelsome spirit, but also anger – she is easily vexed (cf. NAB “vexatious”; NASB “vexing”; ASV, NRSV “fretful”). The translation “easily-provoked” conveys this idea well.
+
+### Verse 20 - Note 1
+[翻訳注]  The mention of “olive oil” (שֶׁמֶן, shemen) is problematic in the line – how can a fool devour it? Several attempts have been made to alleviate the problem. The NIV interprets “treasure” as “choice food,” so that food and oil would make more sense being swallowed. C. H. Toy (Proverbs [ICC], 406) suggests dropping “oil” altogether based on the reading in the LXX, but the Greek is too general for any support: It has “precious treasure will rest on the mouth of the sage.” W. McKane wants to change “oil” to an Arabic word “expensive” to read “desirable and rare wealth” (Proverbs [OTL], 552), but this idea does not match the metaphor any better. The figure of “devouring” in the second line simply means the fool uses up whatever he has.
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “a fool of a man.”
+
+### Verse 20 - Note 3
+[翻訳注]  Heb “he swallows it.” The imagery compares swallowing food with consuming one’s substance. The fool does not prepare for the future.
+
+### Verse 21 - Note 1
+[解説]  These two attributes, “righteousness” (צְדָקָה, tsÿdaqah) and “loyal love” (חֶסֶד, khesed) depict the life style of the covenant-believer who is pleasing to God and a blessing to others. The first term means that he will do what is right, and the second means that he will be faithful to the covenant community.
+
+### Verse 21 - Note 2
+[解説]  The Hebrew term translated “bounty” is צְדָקָה (tsÿdaqah) again, so there is a wordplay on the term in the verse. The first use of the word had the basic meaning of “conduct that conforms to God’s standard”; this second use may be understood as a metonymy of cause, indicating the provision or reward (“bounty”) that comes from keeping righteousness (cf. NIV “prosperity”; NCV “success”). The proverb is similar to Matt 5:6, “Blessed are those who hunger and thirst for righteousness, for they will be satisfied.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “The wise [one/man].”
+
+### Verse 22 - Note 2
+[翻訳注]  The Qal perfect tense of עָלָה (’alah) functions in a potential nuance. Wisdom can be more effectual than physical strength.
+
+### Verse 22 - Note 3
+[解説]  In a war the victory is credited not so much to the infantry as to the tactician who plans the attack. Brilliant strategy wins wars, even over apparently insuperable odds (e.g., Prov 24:5-6; Eccl 9:13-16; 2 Cor 10:4).
+
+### Verse 22 - Note 4
+[翻訳注]  Heb “and bring down the strength of its confidence.” The word “strength” is a metonymy of adjunct, referring to the place of strength, i.e., “the stronghold.” “Confidence” is a genitive of worth; the stronghold is their confidence, it is appropriate for the confidence of the city.
+
+### Verse 23 - Note 1
+[解説]  “Mouth” and “tongue” are metonymies of cause, signifying what one says (cf. NCV, TEV, CEV).
+
+### Verse 23 - Note 2
+[翻訳注]  This part could also be translated “keeps himself” (so NIV), for נֶפֶשׁ (nefesh) often simply means “the whole person.” The participle שֹׁמֵר (shomer) is repeated from the first line in the parallelism – to guard what is said is to guard against difficulty.
+
+### Verse 23 - Note 3
+[解説]  The “troubles” (צָרוֹת, tsarot) here could refer to social and legal difficulties into which careless talk might bring someone (e.g., 13:3; 18:21). The word means “a strait, a bind, difficulty.” Careless and free talking could get the person into a tight spot.
+
+### Verse 24 - Note 1
+[翻訳注]  The word זֵד (zed, “proud”) comes from the verb זִיד (zid, “to boil up; to seethe; to act proudly [or, presumptuously].” Just as water boiling up in a pot will boil over, so the presumptuous person “oversteps” the boundaries.
+
+### Verse 24 - Note 2
+[翻訳注]  The word יָהִיר (yahir) means “haughty,” that is, to be or show oneself to be presumptuous or arrogant.
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “proud haughty scorner his name” (KJV similar). There are several ways that the line could be translated: (1) “Proud, arrogant – his name is scoffer” or (2) “A proud person, an arrogant person – ‘Scoffer’ is his name.” BDB 267 s.v. זֵד suggests, “A presumptuous man, [who is] haughty, scoffer is his name.”
+
+### Verse 24 - Note 4
+[翻訳注]  Heb “does.” The Qal active participle “does” serves as the main verb, and the subject is “proud person” in the first line.
+
+### Verse 24 - Note 5
+[翻訳注]  The expression בְּעֶבְרַת זָדוֹן (be’evrat zadon) means “in the overflow of insolence.” The genitive specifies what the overflow is; the proud deal in an overflow of pride. Cf. NIV “overweening pride”; NLT “boundless arrogance.”[解説]  The portrait in this proverb is not merely of one who is self-sufficient, but one who is insolent, scornful, and arrogant.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “the desire of the sluggard” (so ASV, NASB). This phrase features a subject genitive: “what the sluggard desires.” The term תַּאֲוַת (ta’avat, “desire; craving”) is a metonymy of cause. The craving itself will not destroy the sluggard, but what will destroy him is what the craving causes him to do or not to do. The lazy come to ruin because they desire the easy way out.
+
+### Verse 25 - Note 2
+[翻訳注]  The verb תְּמִיתֶנּוּ (tÿmitennu) is the Hiphil imperfect with a suffix: “will kill him.” It is probably used hyperbolically here for coming to ruin (cf. NLT), although it could include physical death.
+
+### Verse 25 - Note 3
+[解説]  “Hands” is figurative for the whole person; but “hands” is retained in the translation because it is often the symbol to express one’s ability of action.
+
+### Verse 26 - Note 1
+[翻訳注]  The construction uses the Hitpael perfect tense הִתְאַוָּה (hit’avvah) followed by the cognate accusative תַאֲוָה (ta’avah). It describes one who is consumed with craving for more. The verse has been placed with the preceding because of the literary connection with “desire/craving.”
+
+### Verse 26 - Note 2
+[解説]  The additional clause, “and does not hold back,” emphasizes that when the righteous gives he gives freely, without fearing that his generosity will bring him to poverty. This is the contrast with the one who is self-indulgent and craves for more.
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “the sacrifice of the wicked” (so KJV, NAB, NASB, NIV, NRSV). This is a subjective genitive. The foundational clause states that ritual acts of worship brought by the wicked (thus a subjective genitive) are detestable to God. The “wicked” refers here to people who are not members of the covenant (no faith) and are not following after righteousness (no acceptable works). But often they participate in sanctuary ritual, which amounts to hypocrisy.
+
+### Verse 27 - Note 2
+[解説]  This rhetorical device shows that if the act is abomination, the wicked heart is an even greater sin. It argues from the lesser to the greater.
+
+### Verse 27 - Note 3
+[翻訳注]  The noun זִמָּה (zimmah) means “plan; device; wickedness”; here it indicates that the person is coming to the ritual with “sinful purpose.” Some commentators suggest that this would mean he comes with the sacrifice as a bribe to pacify his conscience for a crime committed, over which he has little remorse or intent to cease (cf. NLT “with ulterior motives”). In this view, people in ancient Israel came to think that sacrifices could be given for any reason without genuine submission to God.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “a witness of lies,” an attributive genitive.
+
+### Verse 28 - Note 2
+[翻訳注]  The Hebrew verb translated “will perish” (יֹאבֵד, yo’bed) could mean that the false witness will die, either by the hand of God or by the community. But it also could be taken in the sense that the false testimony will be destroyed. This would mean that “false witness” would be a metonymy of cause – what he says will perish (cf. NCV “will be forgotten”).
+
+### Verse 28 - Note 3
+[翻訳注]  Heb “but a man who listens speaks forever.” The first part of it may mean (1) a true witness, one who reports what he actually hears. But it may also refer to (2) someone who listens to the false testimony given by the false witness. The NIV follows the suggestion of a homonym for the Hebrew word with the meaning “will perish/be destroyed”: “will be destroyed forever.” This suggests a synonymous pair of ideas rather than a contrast. Others accept antithetical parallelism. C. H. Toy suggested an idea like “be established” to contrast with “will perish” (Proverbs [ICC], 411). W. McKane suggested it meant the truthful witness “will speak to the end” without being put down (Proverbs [OTL], 556). It is simpler to interpret the words that are here in the sense of a contrast. The idea of speaking forever/to the end would then be hyperbolic.
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “a wicked man.”
+
+### Verse 29 - Note 2
+[翻訳注]  Heb “he hardens his face.” To make the face firm or hard means to show boldness (BDB 738 s.v. עָזַז Hiph); cf. NRSV “put on a bold face.”
+
+### Verse 29 - Note 3
+[翻訳注]  The “upright” is an independent nominative absolute; the pronoun becomes the formal (emphatic) subject of the verb.
+
+### Verse 29 - Note 4
+[写本注]  The Kethib is the imperfect of כּוּן (kun), “he establishes.” This reading has the support of the Syriac, Latin, and Tg. Prov 21:29, and is followed by ASV. The Qere is the imperfect tense of בִּין (bin), “he understands; he discerns.” It has the support of the LXX and is followed by NIV, NCV, NRSV, NLT. The difficulty is that both make good sense in the passage and both have support. The contrast is between the wicked who shows a bold face (reflecting a hardened heart) and the upright who either gives thought to his ways (or solidifies his ways). The sense of the Qere may form a slightly better contrast, one between the outer appearance of boldness and the inner discernment of action.
+
+### Verse 30 - Note 1
+[翻訳注]  The form לְנֶגֶד (lÿneged) means “against; over against; in opposition to.” The line indicates they cannot in reality be in opposition, for human wisdom is nothing in comparison to the wisdom of God (J. H. Greenstone, Proverbs, 232).
+
+### Verse 30 - Note 2
+[解説]  The verse uses a single sentence to state that all wisdom, understanding, and advice must be in conformity to the will of God to be successful. It states it negatively – these things cannot be in defiance of God (e.g., Job 5:12-13; Isa 40:13-14).
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “of the Lord.” The victory being “of the Lord” means that it is accomplished by him. Ultimate success comes from the Lord and not from human efforts. The faithful have acknowledged this down through the ages, even though they have been responsible and have prepared for the wars. Without this belief there would have been no prayer on the eve of battle (e.g., Ps 20:7 and 33:17).

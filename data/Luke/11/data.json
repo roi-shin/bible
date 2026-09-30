@@ -1,0 +1,1231 @@
+{
+  "book": "Luke",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now Jesus was praying in a certain place. When he stopped, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.” ",
+      "ja": "イエスはある場所で祈っておられた。祈り終えられると、弟子の一人が言った。「主よ、ヨハネが弟子たちに教えたように、私たちにも祈りを教えてください。」"
+    },
+    {
+      "verse": 2,
+      "en": "So he said to them, “When you pray, say: “‘Father, may your name be honored; may your kingdom come.",
+      "ja": "イエスは彼らに言われた。「祈るときには、このように言いなさい。『父よ、あなたの御名があがめられますように。あなたの御国が来ますように。"
+    },
+    {
+      "verse": 3,
+      "en": "Give us each day our daily bread, ",
+      "ja": "私たちの毎日のパンを、日々お与えください。"
+    },
+    {
+      "verse": 4,
+      "en": "and forgive us our sins, for we also forgive everyone who sins against us. And do not lead us into temptation.’”",
+      "ja": "私たちの罪をお赦しください。私たちも自分に負い目のある者をみな赦しますから。そして私たちを試みに遭わせないでください。』」"
+    },
+    {
+      "verse": 5,
+      "en": "Then he said to them, “Suppose one of you has a friend, and you go to him at midnight and say to him, ‘Friend, lend me three loaves of bread, ",
+      "ja": "それからイエスは彼らに言われた。「あなたがたのうちのだれかに友人がいて、真夜中にその人のところへ行き、こう言ったとしよう。『友よ、パンを三つ貸してくれ。"
+    },
+    {
+      "verse": 6,
+      "en": "because a friend of mine has stopped here while on a journey, and I have nothing to set before him.’ ",
+      "ja": "友人が旅の途中で私のところに立ち寄ったのだが、出すものが何もないのだ。』"
+    },
+    {
+      "verse": 7,
+      "en": "Then he will reply from inside, ‘Do not bother me. The door is already shut, and my children and I are in bed. I cannot get up and give you anything.’",
+      "ja": "すると家の内側からその友人がこう答えるだろう。『面倒をかけないでくれ。戸はもう閉まっていて、子どもたちも私も床に就いている。起きて何かをあげることはできない。』"
+    },
+    {
+      "verse": 8,
+      "en": "I tell you, even though the man inside will not get up and give him anything because he is his friend, yet because of the first man’s sheer persistence he will get up and give him whatever he needs. ",
+      "ja": "あなたがたに言うが、友人だからといって起きて何かを与えることはないとしても、その人がしつこく頼み続けるゆえに、起きて必要なものを何でも与えるであろう。"
+    },
+    {
+      "verse": 9,
+      "en": "“So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened for you. ",
+      "ja": "だからあなたがたに言う。求めなさい、そうすれば与えられる。探しなさい、そうすれば見いだす。たたきなさい、そうすれば開かれる。"
+    },
+    {
+      "verse": 10,
+      "en": "For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. ",
+      "ja": "だれでも求める者は受け、探す者は見いだし、たたく者には開かれるからである。"
+    },
+    {
+      "verse": 11,
+      "en": "What father among you, if your son asks for a fish, will give him a snake instead of a fish? ",
+      "ja": "あなたがたの中で、息子が魚を求めているのに、魚の代わりに蛇を与える父親がいるだろうか。"
+    },
+    {
+      "verse": 12,
+      "en": "Or if he asks for an egg, will give him a scorpion? ",
+      "ja": "また、卵を求めているのに、さそりを与えるだろうか。"
+    },
+    {
+      "verse": 13,
+      "en": "If you then, although you are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!” ",
+      "ja": "このように、あなたがたは悪い者であっても、自分の子どもには良い贈り物を与えることを知っているなら、まして天の父は、ご自分に求める者たちに聖霊を与えてくださらないことがあろうか。」"
+    },
+    {
+      "verse": 14,
+      "en": "Now he was casting out a demon that was mute. When the demon had gone out, the man who had been mute began to speak, and the crowds were amazed. ",
+      "ja": "イエスは口を利けなくする悪霊を追い出しておられた。悪霊が出て行くと、口の利けなかった人が話し始めたので、群衆は驚嘆した。"
+    },
+    {
+      "verse": 15,
+      "en": "But some of them said, “By the power of Beelzebul, the ruler of demons, he casts out demons!” ",
+      "ja": "しかし彼らのうちのある者たちは言った。「あいつは悪霊の頭ベルゼブルの力によって悪霊どもを追い出しているのだ。」"
+    },
+    {
+      "verse": 16,
+      "en": "Others, to test him, began asking for a sign from heaven. ",
+      "ja": "また別の人々は、イエスを試そうとして、天からのしるしを求め始めた。"
+    },
+    {
+      "verse": 17,
+      "en": "But Jesus, realizing their thoughts, said to them, “Every kingdom divided against itself is destroyed, and a divided household falls. ",
+      "ja": "しかしイエスは彼らの考えを見抜いて言われた。「どんな国でも内輪で争えば荒れ果て、内輪で争う家は倒れる。"
+    },
+    {
+      "verse": 18,
+      "en": "So if Satan too is divided against himself, how will his kingdom stand? I ask you this because you claim that I cast out demons by Beelzebul. ",
+      "ja": "サタンも内輪で争うなら、どうしてその国が立ち行くだろうか。あなたがたは、わたしがベルゼブルによって悪霊どもを追い出していると言うからだ。"
+    },
+    {
+      "verse": 19,
+      "en": "Now if I cast out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges. ",
+      "ja": "もしわたしがベルゼブルによって悪霊どもを追い出しているなら、あなたがたの仲間はだれによって追い出しているのか。したがって、彼らがあなたがたを裁く者となるであろう。"
+    },
+    {
+      "verse": 20,
+      "en": "But if I cast out demons by the finger of God, then the kingdom of God has already overtaken you. ",
+      "ja": "しかし、もしわたしが神の指によって悪霊どもを追い出しているなら、神の国はすでにあなたがたのところに臨んでいるのだ。"
+    },
+    {
+      "verse": 21,
+      "en": "When a strong man, fully armed, guards his own palace, his possessions are safe. ",
+      "ja": "強い人が十分に武装して自分の屋敷を守っているかぎり、その財産は安全である。"
+    },
+    {
+      "verse": 22,
+      "en": "But when a stronger man attacks and conquers him, he takes away the first man’s armor on which the man relied and divides up his plunder. ",
+      "ja": "しかし、もっと強い者が襲いかかって彼に打ち勝つと、彼が頼みにしていた武具を奪い取り、その分捕り品を分配する。"
+    },
+    {
+      "verse": 23,
+      "en": "Whoever is not with me is against me, and whoever does not gather with me scatters. ",
+      "ja": "わたしにつかない者はわたしに敵対する者であり、わたしと共に集めない者は散らす者である。"
+    },
+    {
+      "verse": 24,
+      "en": "“When an unclean spirit goes out of a person, it passes through waterless places looking for rest but not finding any. Then it says, ‘I will return to the home I left.’ ",
+      "ja": "汚れた霊は人から出て行くと、休み場を求めて水のない所を通り巡るが、見つからない。そこで『出て来た自分の家に帰ろう』と言う。"
+    },
+    {
+      "verse": 25,
+      "en": "When it returns, it finds the house swept clean and put in order. ",
+      "ja": "帰ってみると、その家は掃除されて整えられていた。"
+    },
+    {
+      "verse": 26,
+      "en": "Then it goes and brings seven other spirits more evil than itself, and they go in and live there, so the last state of that person is worse than the first.” ",
+      "ja": "そこで出かけて行き、自分よりもさらに邪悪なほかの七つの霊を連れて来て、中に入って住み着く。そうなると、その人の後の状態は初めよりも悪くなるのだ。」"
+    },
+    {
+      "verse": 27,
+      "en": "As he said these things, a woman in the crowd spoke out to him, “Blessed is the womb that bore you and the breasts at which you nursed!” ",
+      "ja": "イエスがこれらのことを話しておられると、群衆の中から一人の女が声を張り上げて言った。「あなたを宿した胎、あなたが吸った乳房は幸いです。」"
+    },
+    {
+      "verse": 28,
+      "en": "But he replied, “Blessed rather are those who hear the word of God and obey it!”",
+      "ja": "しかしイエスは言われた。「むしろ幸いなのは、神の言葉を聞いてそれを守る人たちである。」"
+    },
+    {
+      "verse": 29,
+      "en": "As the crowds were increasing, Jesus began to say, “This generation is a wicked generation; it looks for a sign, but no sign will be given to it except the sign of Jonah. ",
+      "ja": "群衆が群がり集まってくると、イエスは話し始められた。「この時代は邪悪な時代である。しるしを求めるが、ヨナのしるしのほかには、何のしるしも与えられない。"
+    },
+    {
+      "verse": 30,
+      "en": "For just as Jonah became a sign to the people of Nineveh, so the Son of Man will be a sign to this generation. ",
+      "ja": "ヨナがニネベの人々に対するしるしとなったように、人の子もこの時代に対するしるしとなるからである。"
+    },
+    {
+      "verse": 31,
+      "en": "The queen of the South will rise up at the judgment with the people of this generation and condemn them, because she came from the ends of the earth to hear the wisdom of Solomon—and now, something greater than Solomon is here! ",
+      "ja": "南の女王が、裁きのときにこの時代の人々と共に立ち上がり、彼らを罪に定めるであろう。彼女はソロモンの知恵を聞くために地の果てから来たからである。見よ、ここにソロモンにまさるものがある。"
+    },
+    {
+      "verse": 32,
+      "en": "The people of Nineveh will stand up at the judgment with this generation and condemn it, because they repented when Jonah preached to them—and now, something greater than Jonah is here! ",
+      "ja": "ニネベの人々が、裁きのときにこの時代の人々と共に立ち上がり、これを罪に定めるであろう。彼らはヨナの説教を聞いて悔い改めたからである。見よ、ここにヨナにまさるものがある。"
+    },
+    {
+      "verse": 33,
+      "en": "“No one after lighting a lamp puts it in a hidden place or under a basket, but on a lampstand, so that those who come in can see the light. ",
+      "ja": "だれも明かりをともしてから、それを隠れた場所や枡の下には置かず、燭台の上に置く。入って来る者たちに光が見えるためである。"
+    },
+    {
+      "verse": 34,
+      "en": "Your eye is the lamp of your body. When your eye is healthy, your whole body is full of light, but when it is diseased, your body is full of darkness. ",
+      "ja": "あなたの目は体の明かりである。目が健やかであれば、あなたの全身も明るいが、悪ければ、体も暗くなる。"
+    },
+    {
+      "verse": 35,
+      "en": "Therefore see to it that the light in you is not darkness. ",
+      "ja": "だから、あなたの内にある光が暗闇でないか気をつけなさい。"
+    },
+    {
+      "verse": 36,
+      "en": "If then your whole body is full of light, with no part in the dark, it will be as full of light as when the light of a lamp shines on you.” ",
+      "ja": "それゆえ、あなたの全身が明るく、暗い部分が少しもなければ、まるで明かりの輝きがあなたを照らすときのように、全身が明るくなるであろう。」"
+    },
+    {
+      "verse": 37,
+      "en": "As he spoke, a Pharisee invited Jesus to have a meal with him, so he went in and took his place at the table. ",
+      "ja": "イエスが話しておられると、一人のパリサイ人が自分の家で食事を共にしてほしいと願ったので、イエスは家に入って食卓に着かれた。"
+    },
+    {
+      "verse": 38,
+      "en": "The Pharisee was astonished when he saw that Jesus did not first wash his hands before the meal. ",
+      "ja": "そのパリサイ人は、イエスが食事の前にまず手を洗われなかったのを見て驚いた。"
+    },
+    {
+      "verse": 39,
+      "en": "But the Lord said to him, “Now you Pharisees clean the outside of the cup and the plate, but inside you are full of greed and wickedness. ",
+      "ja": "しかし主は彼に言われた。「今あなたがたパリサイ人は、杯や皿の外側を清めるが、内側は強欲と邪悪で満ちている。"
+    },
+    {
+      "verse": 40,
+      "en": "You fools! Didn’t the one who made the outside make the inside as well?",
+      "ja": "愚かな者たちよ、外側を造られた方は、内側も造られたのではないか。"
+    },
+    {
+      "verse": 41,
+      "en": "But give from your heart to those in need, and then everything will be clean for you. ",
+      "ja": "むしろ、心から困っている人々に施しをしなさい。そうすれば、すべてがあなたがたにとって清くなる。"
+    },
+    {
+      "verse": 42,
+      "en": "“But woe to you Pharisees! You give a tenth of your mint, rue, and every herb, yet you neglect justice and love for God! But you should have done these things without neglecting the others.",
+      "ja": "だが、あなたがたパリサイ人は災いだ。はっかやへんルーやすべての野菜の十分の一を納めながら、公正と神への愛を軽視しているからである。これらも行うべきであったが、ほかのこともなおざりにしてはならなかったのだ。"
+    },
+    {
+      "verse": 43,
+      "en": "Woe to you Pharisees! You love the best seats in the synagogues and elaborate greetings in the marketplaces! ",
+      "ja": "あなたがたパリサイ人は災いだ。会堂の上席や、広場での丁寧な挨拶を好むからである。"
+    },
+    {
+      "verse": 44,
+      "en": "Woe to you! You are like unmarked graves, and people walk over them without realizing it!”",
+      "ja": "あなたがたは災いだ。人目につかない墓のようであり、人々はその上をそれと知らずに歩いているのだ。」"
+    },
+    {
+      "verse": 45,
+      "en": "One of the experts in religious law answered him, “Teacher, when you say these things, you insult us too.” ",
+      "ja": "律法の専門家の一人が答えて言った。「先生、そのようなことをおっしゃると、私たちをも侮辱することになります。」"
+    },
+    {
+      "verse": 46,
+      "en": "But Jesus replied, “Woe to you experts in religious law as well! You load people down with burdens difficult to bear, yet you yourselves refuse to touch the burdens with even one of your fingers! ",
+      "ja": "しかしイエスは言われた。「あなたがた律法の専門家たちも災いだ。人々に負いきれない重荷を負わせながら、自分自身はその重荷に指一本触れようとしないからである。"
+    },
+    {
+      "verse": 47,
+      "en": "Woe to you! You build the tombs of the prophets whom your ancestors killed. ",
+      "ja": "あなたがたは災いだ。あなたがたの先祖が殺した預言者たちの墓を建てているからである。"
+    },
+    {
+      "verse": 48,
+      "en": "So you testify that you approve of the deeds of your ancestors because they killed the prophets and you build their tombs!",
+      "ja": "こうしてあなたがたは、自分たちの先祖の行いを認めて証言しているのだ。先祖は預言者たちを殺し、あなたがたはその墓を建てているからである。"
+    },
+    {
+      "verse": 49,
+      "en": "For this reason also the wisdom of God said, ‘I will send them prophets and apostles, some of whom they will kill and persecute,’ ",
+      "ja": "それゆえ、神の知恵もこう言われた。『わたしは預言者たちや使徒たちを彼らに遣わすが、彼らはその一部を殺し、また迫害するであろう。』"
+    },
+    {
+      "verse": 50,
+      "en": "so that this generation may be held accountable for the blood of all the prophets that has been shed since the beginning of the world, ",
+      "ja": "それは、世界の初めから流されてきたすべての預言者の血の責任が、この時代に問われるためである。"
+    },
+    {
+      "verse": 51,
+      "en": "from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, it will be charged against this generation. ",
+      "ja": "アベルの血から、祭壇と聖所の間で殺されたゼカリヤの血に至るまでである。そうだ、あなたがたに言うが、それはこの時代に責任が問われることになる。"
+    },
+    {
+      "verse": 52,
+      "en": "Woe to you experts in religious law! You have taken away the key to knowledge! You did not go in yourselves, and you hindered those who were going in.” ",
+      "ja": "あなたがた律法の専門家たちは災いだ。知識の鍵を取り去ってしまったからである。自分が入らないだけでなく、入ろうとする者たちを妨げたのだ。」"
+    },
+    {
+      "verse": 53,
+      "en": "When he went out from there, the experts in the law and the Pharisees began to oppose him bitterly and to ask him hostile questions about many things, ",
+      "ja": "イエスがそこを出られると、律法の専門家たちとパリサイ人たちは激しく敵対し始め、多くのことについて敵意を持ってイエスを問い詰め、"
+    },
+    {
+      "verse": 54,
+      "en": "plotting against him to catch him in something he might say. ",
+      "ja": "その口から何か言質を取ろうと罠を仕掛けた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And it happened that while.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] ギリシア語では「そして～の間にあることが起こった」。ルカ（69回）や使徒の働き（54回）でよく見られる導入表現ἐγένετο（エゲネト、「起こった」）は、現代英語では冗長であるため訳出されていない。ここでは新しい話題への移行を示すため、καί（カイ）が「さて」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.",
+        "ja": "[翻訳注] ギリシア語の文の長さと複雑さのため、翻訳ではここで新しい文を開始している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  John refers to John the Baptist.",
+        "ja": "[解説] 「ヨハネ」とはバプテスマのヨハネを指す。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  It was not unusual for Jewish groups to have their own prayer as a way of expressing corporate identity. Judaism had the Eighteen Benedictions and apparently John the Baptist had a prayer for his disciples as well.",
+        "ja": "[解説] ユダヤ教の共同体が集団のアイデンティティを表明する方法として、独自の祈りを持つことは珍しいことではなかった。ユダヤ教には「十八の祝福の祈り」があり、バプテスマのヨハネも弟子たちのための祈りを持っていたようである。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  When you pray. What follows, although traditionally known as the Lord’s prayer, is really the disciples’ prayer. It represents how they are to approach God, by acknowledging his uniqueness and their need for his provision and protection.",
+        "ja": "[解説] 「祈るときには」。これに続く祈りは、伝統的に「主の祈り」として知られているが、実質的には「弟子の祈り」である。これは神の唯一無二性を認め、神の備えと保護の必要性を認めることによって、弟子たちがどのように神に近づくべきかを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "א B (L: + ἡμῶν) 1 700 pc as well as some versions and fathers. Given this more weighty external evidence, combined with the scribal tendency to harmonize Gospel parallels, the shorter reading is preferred.[解説]  God is addressed in terms of intimacy (Father). The original Semitic term here was probably Abba. The term is a little unusual in a personal prayer, especially as it lacks qualification. It is not the exact equivalent of “Daddy” (as is sometimes popularly suggested), but it does suggest a close, familial relationship.",
+        "ja": "[写本注] א、B（Lは「私たちの」を付加）、1、700、pc、およびいくつかの古代訳や教父が支持している。このより有力な外部証拠と、福音書の並行箇所を調和させようとする書写生の傾向を考慮すると、短い読みが支持される。[解説] 神は親密な言葉（「父」）で呼びかけられている。ここでの元のセム語はおそらく「アバ」であった。この言葉は、特に修飾語が付いていない形では個人の祈りにおいて少し珍しい。一般的に言われるような「お父ちゃん」と同一ではないが、親密な家族的関係を示唆している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “hallowed be your name.”",
+        "ja": "[翻訳注] ギリシア語では「あなたの御名が聖とされますように」。"
+      },
+      {
+        "pos": 4,
+        "en": "B L pc), and cannot be easily explained as arising from the longer reading.[解説]  Your kingdom come represents the hope for the full manifestation of God’s promised rule.",
+        "ja": "[写本注] （B、L、pcが支持）。長い読みから生じたとは容易に説明できない。[解説] 「あなたの御国が来ますように」は、神の約束された統治の顕現への希望を表している。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Give us bread each day for the coming day,” or “Give us each day the bread we need for today.” The term ἐπιούσιος (epiousio\") does not occur outside of early Christian literature (other occurrences are in Matt 6:11 and Didache 8:2), so its meaning is difficult to determine. Various suggestions include “daily,” “the coming day,” and “for existence.” See BDAG 376 s.v.; L&N 67:183, 206.",
+        "ja": "[翻訳注] または「来る日のパンを日々私たちにお与えください」、あるいは「今日必要なパンを日々私たちにお与えください」。ἐπιούσιος（エピウーシオス）という語は初期キリスト教文献以外には現れず（ほかの用例はマタイ6:11とディダケー8:2）、その意味を確定することは困難である。様々な提案には「毎日の」「来る日の」「生活に必要な」などがある。BDAG 376 s.v.; L&N 67:183, 206を参照。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “who is indebted to us” (an idiom). The picture of sin as debt is not unusual. As for forgiveness offered and forgiveness given, see 1 Pet 3:7.",
+        "ja": "[翻訳注] ギリシア語では「私たちに負債のある者」（慣用表現）。罪を負債として描くことは珍しくない。差し出される赦しと与えられる赦しについては、第一ペテロ3:7を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "B L 1 700 pc vg sa Or). Internally, since the mss that have the longer reading here display the same tendency throughout the Lord’s Prayer to assimilate the Lukan version to the Matthean version, the shorter reading should be regarded as authentic in Luke.[翻訳注]  Or “into a time of testing.”[解説]  The request Do not lead us into temptation is not to suggest that God causes temptation, but is a rhetorical way to ask for his protection from sin.",
+        "ja": "[写本注] （B、L、1、700、pc、vg、sa、オリゲネスが支持）。内的証拠として、ここにより長い読みを持つ写本は、主の祈り全体を通じてルカの版をマタイの版と同化させる傾向を示しているため、ルカにおいては短い読みが真正であるとみなされるべきである。[翻訳注] または「試練の時に」。[解説] 「私たちを試みに遭わせないでください」という願いは、神が試みを引き起こすことを示唆するものではなく、罪からの神の保護を求める修辞的な表現である。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでのκαί（カイ）は、物語内での出来事の暗黙の順序を示すため「それから」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Who among you will have a friend and go to him.”",
+        "ja": "[翻訳注] ギリシア語では「あなたがたのうちのだれが友人を持ち、その人のところへ行くだろうか」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “he will go to him.”",
+        "ja": "[翻訳注] ギリシア語では「彼はその人のところへ行くだろう」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The words “of bread” are not in the Greek text, but are implied by ἄρτους (artou\", “loaves”).",
+        "ja": "[翻訳注] 「パンの」という語はギリシア語テキストにはないが、ἄρτους（アルトゥース、「塊」）によって暗示されている。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “has come to me from the road.”",
+        "ja": "[翻訳注] ギリシア語では「道から私のところに来た」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The background to the statement I have nothing to set before him is that in ancient Middle Eastern culture it was a matter of cultural honor to be a good host to visitors.",
+        "ja": "[解説] 「出すものが何もない」という言葉の背景には、古代中東の文化において訪問客をもてなすことが文化的な名誉に関わる事柄であったという点がある。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Κἀκεῖνος (kakeino\") has been translated “Then he.”",
+        "ja": "[翻訳注] Κἀκεῖνος（カケイノス）は「するとその人は」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “answering, he will say.” This is redundant in contemporary English and has been simplified to “he will reply.”",
+        "ja": "[翻訳注] ギリシア語では「答えて言うだろう」。これは現代英語では冗長であるため、「答えるだろう」と簡潔に訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “my children are with me in the bed.” In Jewish homes in the time of Jesus, the beds were often all together in one room; thus the householder may be speaking of individual beds (using a collective singular) rather than a common bed.",
+        "ja": "[翻訳注] ギリシア語では「私の子どもたちは私と共に床の中にいる」。イエスの時代のユダヤ人の家庭では、寝床はしばしば一つの部屋にまとまっていた。したがって家の主人は、共通の一つのベッドではなく、個々の寝床（集合単数として使用）について述べている可能性がある。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The syntax of vv. 6-7 is complex. In the Greek text Jesus’ words in v. 6 begin as a question. Some see Jesus’ question ending at v. 6, but the reply starting in v. 8 favors extending the question through the entire illustration. The translation breaks up the long sentence at the beginning of v. 7 and translates Jesus’ words as a statement for reasons of English style.",
+        "ja": "[翻訳注] 6-7節の統語論は複雑である。ギリシア語テキストでは、6節のイエスの言葉は疑問文として始まっている。イエスの問いが6節で終わるとみる見解もあるが、8節から始まる返答は、たとえ全体にわたって問いが続いているとする見解を支持する。翻訳では7節の冒頭で長い文を分割し、文体上の理由からイエスの言葉を平叙文として訳出している。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (the man in bed in the house) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（家の中で床に就いている人）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “his”; the referent (the first man mentioned) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼の」。明確にするため、翻訳では指示対象（最初に言及された人）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The term ἀναίδεια (anaideia) is hard to translate. It refers to a combination of ideas, a boldness that persists over time, or “audacity,” which comes close. It most likely describes the one making the request, since the unit’s teaching is an exhortation about persistence in prayer. Some translate the term “shamelessness” which is the term’s normal meaning, and apply it to the neighbor as an illustration of God responding for the sake of his honor. But the original question was posed in terms of the first man who makes the request, not of the neighbor, so the teaching underscores the action of the one making the request.",
+        "ja": "[翻訳注] ἀναίδεια（アナイデイア）という語は翻訳が難しい。これは持続する大胆さ、あるいは「厚かましさ」に近い複数の概念の組み合わせを指している。この単元の教えが祈りにおける粘り強さについての勧めであることから、これは頼む側の人物を描写している可能性が最も高い。この語を本来の通常の意味である「恥知らずさ」と訳し、神がご自身の名誉のために応じられることの例証として隣人に適用する見解もある。しかし最初の問いは隣人ではなく求めている最初の人物の視点から提起されているため、この教えは求める側の行動を強調している。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai, from καγώ [kagw]) has been translated as “so” to indicate the conclusion drawn from the preceding parable.",
+        "ja": "[翻訳注] ここでのκαί（カイ、καγώ［カゴー］から）は、先行するたとえ話から引き出される結論を示すため「だから」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The three present imperatives in this verse (Ask…seek…knock) are probably intended to call for a repeated or continual approach before God.",
+        "ja": "[解説] この節にある三つの現在形命令法（求めなさい…探しなさい…たたきなさい）は、神の前に繰り返し、あるいは継続して近づくことを求める意図があると考えられる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “it”; the referent (a door) is implied by the context and has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「それ」。指示対象（戸、門）は文脈から暗示されており、明確にするため翻訳で明示されている。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[解説]  The actions of asking, seeking, and knocking are repeated here from v. 9 with the encouragement that God does respond.",
+        "ja": "[解説] 求める、探す、たたくという行動は、神が応答してくださるという励ましとともに、9節からここで繰り返されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “it”; the referent (a door) is implied by the context and has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「それ」。指示対象（戸、門）は文脈から暗示されており、明確にするため翻訳で明示されている。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the”; in context the article is used as a possessive pronoun (ExSyn 215).",
+        "ja": "[翻訳注] ギリシア語では定冠詞「その」。文脈上、冠詞は所有代名詞として用いられている（ExSyn 215）。"
+      },
+      {
+        "pos": 2,
+        "en": "sa.",
+        "ja": "[写本注] saなどが支持する。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The snake probably refers to a water snake.",
+        "ja": "[解説] 蛇はおそらくミズヘビ（ウミヘビ類）を指していると考えられる。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  The two questions of vv. 11-12 expect the answer, “No father would do this!”",
+        "ja": "[解説] 11-12節の二つの問いは、「そんなことをする父親などいない」という答えを予期している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The participle ὑπάρχοντες (Juparconte\") has been translated as a concessive participle.",
+        "ja": "[翻訳注] 分詞ὑπάρχοντες（ヒュパルコンテス）は譲歩の分詞（「悪い者であっても」）として訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The provision of the Holy Spirit is probably a reference to the wisdom and guidance supplied in response to repeated requests. Some apply it to the general provision of the Spirit, but this would seem to look only at one request in a context that speaks of repeated asking. The teaching as a whole stresses not that God gives everything his children want, but that God gives the good that they need. The parallel account in Matthew (7:11) refers to good things where Luke mentions the Holy Spirit.",
+        "ja": "[解説] 聖霊の備えは、繰り返しの求めに応じて与えられる知恵と導きを指していると考えられる。一般的な聖霊の付与に適用する見解もあるが、それは繰り返しの求めを語る文脈において一度の求めだけを見ることになってしまう。教え全体は、神が子どもたちの望むものを何でも与えるということではなく、子どもたちが必要とする良いものを与えてくださることを強調している。マタイの並行記事（7:11）では、ルカが聖霊と記している箇所で「良いもの」と言及している。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] ここでのκαί（カイ）は新しい話題への移行を示すため「さて」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The phrase “a demon that was mute” should probably be understood to mean that the demon caused muteness or speechlessness in its victim, although it is sometimes taken to refer to the demon’s own inability to speak (cf. TEV, “a demon that could not talk”).",
+        "ja": "[翻訳注] 「口を利けなくする悪霊」という表現は、悪霊が取りついた人に口の利けない状態をもたらしたことを意味すると理解すべきであるが、悪霊自身が話せないことを指すと解釈されることもある（TEV「話すことのできない悪霊」参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “And it happened that when.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Here δέ (de) has not been translated either.",
+        "ja": "[翻訳注] ギリシア語では「そして～のときにあることが起こった」。ルカ（69回）と使徒の働き（54回）でよく見られる導入表現ἐγένεト（エゲネト、「起こった」）は、現代英語では冗長であるため訳出されていない。ここでのδέ（デ）も訳出されていない。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This miracle is different from others in Luke. The miracle is told entirely in one verse and with minimum detail, while the response covers several verses. The emphasis is on explaining what Jesus’ work means.",
+        "ja": "[解説] この奇跡はルカにある他の奇跡とは異なっている。奇跡そのものは最小限の詳細とともにわずか1節で語られるのに対し、それに対する反応には数節が費やされている。強調点はイエスの働きが何を意味しているかを説明することにある。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “By Beelzebul.”[解説]  Beelzebul is another name for Satan. So some people recognized Jesus’ work as supernatural, but called it diabolical.",
+        "ja": "[翻訳注] ギリシア語では「ベルゼブルによって」。[解説] ベルゼブルはサタンの別名である。したがって一部の人々はイエスの働きを超自然的なものと認めつつも、それを悪魔的なものと呼んだ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “prince.”",
+        "ja": "[翻訳注] または「君主」。「支配者」とも訳せる。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “testing”; the participle is taken as indicating the purpose of the demand.",
+        "ja": "[翻訳注] ギリシア語では「試みながら」。この分詞は要求の目的を示していると解釈される。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The pronoun “him” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 代名詞「彼を」はギリシア語テキストにはないが、文脈上暗示されている。文脈から明らかな場合、ギリシア語では直接目的語が省略されることがよくあった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “seeking from him.” The imperfect ἐζήτουν (ezhtoun) is taken ingressively. It is also possible to regard it as iterative (“kept on asking”).",
+        "ja": "[翻訳注] ギリシア語では「彼から求めていた」。未完了過去ἐζήτουν（エゼートウン）は起動相（「求め始めた」）として取られている。反復相（「求め続けた」）とみなすことも可能である。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  What exactly this sign would have been, given what Jesus was already doing, is not clear. But here is where the fence-sitters reside, refusing to commit to him.",
+        "ja": "[解説] イエスがすでに行っておられたことを考慮すると、このしるしが具体的に何であったのかは定かではない。しかし、彼らはイエスに従うことを拒絶する立場をとっていた。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus here demonstrated the absurdity of the thinking of those who maintained that he was in league with Satan and that he actually derived his power from the devil. He first teaches (vv. 17-20) that if he casts out demons by the ruler of the demons, then in reality Satan is fighting against himself, with the result that his kingdom has come to an end. He then teaches (v. 21-22) about defeating the strong man to prove that he does not need to align himself with the devil because he is more powerful. Jesus defeated Satan at his temptation (4:1-13) and by his exorcisms he clearly demonstrated himself to be stronger than the devil. The passage reveals the desperate condition of the religious leaders, who in their hatred for Jesus end up attributing the work of the Holy Spirit to Satan.",
+        "ja": "[解説] イエスはここで、自分がサタンと結託しており、悪魔から力を得ていると主張する者たちの考えの不条理さを論証された。まずイエスは、もし自分が悪霊の頭によって悪霊を追い出しているなら、実際にはサタンが自らと戦っていることになり、その結果サタンの国は終わりを迎えることになると教えられる（17-20節）。次に、自分が悪魔よりも強大であるため悪魔と同盟を結ぶ必要がないことを証明するために、強い者を打ち負かすことについて教えられる（21-22節）。イエスは誘惑の際にサタンを打ち負かされ（4:1-13）、悪霊追い出しによってご自身が悪魔よりも強いことを明確に示された。この箇所は、イエスへの憎しみゆえに聖霊の働きをサタンに帰するまでに至った宗教指導者たちの危機的状態を明らかにしている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “is left in ruins.”",
+        "ja": "[翻訳注] または「荒廃したままにされる」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “and house falls on house.” This phrase pictures one house collapsing on another, what is called today a “house of cards.”",
+        "ja": "[翻訳注] ギリシア語では「そして家が家の上に倒れる」。この表現は、一つの家が別の家の上に崩れ落ちる様子を描写している。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate that the clause that follows is a logical conclusion based on the preceding examples.",
+        "ja": "[翻訳注] ここでのδέ（デ）は、続く節が先行する例に基づく論理的結論であることを示すため「そこで」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This first class condition, the first of three “if” clauses in the following verses, presents the example vividly as if it were so. In fact, all three conditions in these verses are first class. The examples are made totally parallel. The expected answer is that Satan’s kingdom will not stand, so the suggestion makes no sense. Satan would not seek to heal.",
+        "ja": "[翻訳注] この第一種条件文（続く節にある三つの「もし」の節の最初）は、あたかもそうであるかのように例を生き生きと提示している。実際、これらの節にある三つの条件文はすべて第一種条件文である。例は並行関係になっている。予期される答えは「サタンの国は立ち行かない」というものであり、したがってその主張は成り立たない。サタンが癒やしを求めるはずがないからである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “because.” “I ask you this” is supplied for the sake of English.",
+        "ja": "[翻訳注] ギリシア語では「なぜなら」。「あなたがたにこう尋ねるのは」という言葉は英語の文脈を整えるために補われている。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  Most read your sons as a reference to Jewish exorcists (cf. “your followers,” L&N 9.4; for various views see D. L. Bock, Luke [BECNT], 2:1077-78), but more likely this is a reference to the disciples of Jesus themselves, who are also Jewish and have been healing as well (R. J. Shirock, “Whose Exorcists are they? The Referents of οἱ υἱοὶ ὑμῶν at Matthew 12:27/Luke 11:19,” JSNT 46 [1992]: 41-51). If this is a reference to the disciples, then Jesus’ point is that it is not only him, but those associated with him whose power the hearers must assess. The following reference to judging also favors this reading.",
+        "ja": "[解説] 大部分の学者は「あなたがたの仲間（息子たち）」をユダヤ人の祈祷師・悪霊追い出し人への言及と読んでいるが（L&N 9.4「あなたがたの追随者たち」参照。様々な見解についてはD. L. Bock, Luke [BECNT], 2:1077-78参照）、これは同じくユダヤ人であり癒やしを行ってきたイエスの弟子たち自身を指している可能性が高い（R. J. Shirock, “Whose Exorcists are they? The Referents of οἱ υἱοὶ ὑμῶν at Matthew 12:27/Luke 11:19,” JSNT 46 [1992]: 41-51）。もしこれが弟子たちを指しているなら、イエスの論点は、聞き手たちがその力の源を判断しなければならないのは自分だけでなく、自分と結びついた者たちも同様であるということになる。続く裁きについての言及もこの解釈を支持している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The pronoun “them” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 代名詞「それらを」はギリシア語テキストにはないが、暗示されている。文脈から明らかな場合、ギリシア語では直接目的語が省略されることがよくあった。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[解説]  The finger of God is a figurative reference to God’s power (L&N 76.3). This phrase was used of God’s activity during the Exodus (Exod 8:19).",
+        "ja": "[解説] 「神の指」は神の力を表す表現である（L&N 76.3）。この表現は出エジプトの際の神の活動について用いられていた（出エジプト8:19）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The kingdom of God is a major theme of Jesus. It is a realm in which Jesus rules and to which those who trust him belong. See Luke 6:20; 11:20; 17:20-21.",
+        "ja": "[解説] 「神の国」はイエスの主要なテーマである。それはイエスが統治され、イエスに信頼を寄せる者たちが属する領域である。ルカ6:20、11:20、17:20-21を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The phrase ἔφθασεν ἐφ᾿ ὑμᾶς (efqasen ef’ Juma\") is important. Does it mean merely “approach” (which would be reflected in a translation like “has come near to you”) or actually “come upon” (as in the translation given above, “has already overtaken you,” which has the added connotation of suddenness)? The issue here is like the one in 10:9 (see note there on the phrase “come on”). Is the arrival of the kingdom merely anticipated or already in process? Two factors favor arrival over anticipation here. First, the prepositional phrase “upon you” suggests arrival (Dan 4:24, 28 Theodotion). Second, the following illustration in vv. 21-23 looks at the healing as portraying Satan being overrun. So the presence of God’s authority has arrived. See also L&N 13.123 for the translation of φθάνω (fqanw) as “to happen to already, to come upon, to come upon already.”",
+        "ja": "[翻訳注] ἔφθασεν ἐφ᾿ ὑμᾶς（エフタセン・エフ・ヒュマース）という句は重要である。これは単に「近づいた」（「あなたがたの近くに来た」のような訳に反映される）を意味するのか、それとも現実に「臨んだ・襲いかかった」（上記で「すでにあなたがたのところに臨んだ」と訳され、唐突さの含意を持つ）を意味するのか。ここでの問題は10:9におけるものと同様である（「臨む」という句に関する注を参照）。神の国の到来は予期されているだけなのか、それとも進行中なのか。ここでは二つの要因が予期よりも到来を支持している。第一に、「あなたがたの上に」という前置詞句が到来を示唆している（ダニエル4:24、28［テオドティオン訳］）。第二に、21-23節の続く例証は、癒やしをサタンが制圧される様として捉えている。したがって神の権威の臨在は到来している。φθάνω（フタノー）の「すでに起こる、臨む、すでに襲いかかる」という訳についてはL&N 13.123も参照。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The referent of the expression “a strong man” is Satan.",
+        "ja": "[翻訳注] 「強い人」という表現の指示対象はサタンである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word αὐλή (aulh) describes any building large and elaborate enough to have an interior courtyard, thus “dwelling, palace, mansion” (L&N 7.6).",
+        "ja": "[翻訳注] αὐλή（アウレー）という語は、中庭を持つほどに大きく精巧な建物を指し、「住居、屋敷、邸宅」を意味する（L&N 7.6）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “his goods are in peace.”",
+        "ja": "[翻訳注] ギリシア語では「彼の財産は平和のうちにある」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.",
+        "ja": "[翻訳注] ギリシア語の文の長さと複雑さのため、翻訳ではここで新しい文を開始している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The referent of the expression “a stronger man” is Jesus.",
+        "ja": "[翻訳注] 「もっと強い者」という表現の指示対象はイエスである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “stronger man than he attacks.”",
+        "ja": "[翻訳注] ギリシア語では「彼よりも強い者が襲いかかる」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “his”; the referent (the first man mentioned) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼の」。明確にするため、翻訳では指示対象（最初に言及された人）を明示している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “on which he relied.”",
+        "ja": "[翻訳注] ギリシア語では「彼が頼りにしていた」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Or “and distributes.”",
+        "ja": "[翻訳注] または「そして分配する」。"
+      },
+      {
+        "pos": 7,
+        "en": "[解説]  Some see the imagery here as similar to Eph 4:7-10, although no opponents are explicitly named in that passage. Jesus has the victory over Satan. Jesus’ acts of healing mean that the war is being won and the kingdom is coming.",
+        "ja": "[解説] エペソ4:7-10の描写と類似していると見る見解もある（ただしその箇所では敵対者が明示されていない）。イエスはサタンに対して勝利をおさめておられる。イエスの癒やしの業は、戦いに勝利しつつあり、御国が到来していることを意味している。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  Whoever is not with me is against me. The call here is to join the victor. Failure to do so means that one is being destructive. Responding to Jesus is the issue.",
+        "ja": "[解説] 「わたしにつかない者はわたしに敵対する者である」。ここでの呼びかけは、勝者に加われということである。そうしないことは破壊的であることを意味する。イエスに応答するかどうかが問題なのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  For the image of scattering, see Pss. Sol. 17:18.",
+        "ja": "[解説] 散らすという描写については、ソロモンの詩篇17:18を参照。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  This is a reference to an evil spirit. See Luke 4:33.",
+        "ja": "[解説] これは悪霊を指している。ルカ4:33を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “man.” This is a generic use of ἄνθρωπος (anqrwpo\"), referring to both males and females.",
+        "ja": "[翻訳注] ギリシア語では「人（人間）」。これは男女両方を指すἄνθρωπος（アントローポス）の総称的用法である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The background for the reference to waterless places is not entirely clear, though some Jewish texts suggest spirits must have a place to dwell, but not with water (Luke 8:29-31; Tob 8:3). Some suggest that the image of the desert or deserted cities as the places demons dwell is where this idea started (Isa 13:21; 34:14).",
+        "ja": "[解説] 「水のない所」への言及の背景は詳らかではないが、いくつかのユダヤ教文献は、霊は住む場所を必要とするが水のある場所ではないことを示唆している（ルカ8:29-31、トビト8:3）。荒野や廃墟となった町が悪霊の住む場所であるという描写からこの考えが生じたとする見解もある（イザヤ13:21、34:14）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ここでのκαί（カイ）は、文脈における対比を示すため「しかし」と訳出されている。"
+      },
+      {
+        "pos": 5,
+        "en": "has τότε in brackets indicating doubts as to its authenticity.",
+        "ja": "[写本注] τότε（トテ、「そのとき」）を角括弧に入れてその真正性に疑義を示している写本もある。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “I will return to my house from which I came.”",
+        "ja": "[翻訳注] ギリシア語では「わたしが出て来た自分の家に帰ろう」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “comes.”",
+        "ja": "[翻訳注] ギリシア語では「来ると」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “the house” are not in Greek but are implied.",
+        "ja": "[翻訳注] 「その家」という言葉はギリシア語にはないが、暗示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The image of the house swept clean and put in order refers to the life of the person from whom the demon departed. The key to the example appears to be that no one else has been invited in to dwell. If an exorcism occurs and there is no response to God, then the way is free for the demon to return. Some see the reference to exorcism as more symbolic; thus the story’s only point is about responding to Jesus. This is possible and certainly is an application of the passage.",
+        "ja": "[解説] 掃除されて整えられた家の描写は、悪霊が去った人の生活を指している。この例の鍵は、ほかにだれも住まうよう招かれていないという点にあるようである。悪霊の追い出しが起こっても神への応答がなければ、悪霊が戻って来る道が開かれたままになる。悪霊追い出しへの言及を象徴的なものと見なし、この物語の論点はイエスに応答することにあるとする見解もある。これは可能であり、確かにこの箇所の適用の一つである。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the concluding point of the story.",
+        "ja": "[翻訳注] ここでのκαί（カイ）は物語の結論の要点を示すため「そうなると」と訳出されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “man.” This is a generic use of ἄνθρωπος (anqrwpo\"), referring to both males and females.",
+        "ja": "[翻訳注] ギリシア語では「人（人間）」。これは男女両方を指すἄνθρωπος（アントローポス）の総称的用法である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The point of the story is that to fail to respond is to risk a worse fate than when one started.",
+        "ja": "[解説] この物語の論点は、応答しないことは初めの状態よりも悪い結果を招く危険を冒すことになる、ということである。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And it happened that as.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ギリシア語では「そして～の間にあることが起こった」。ルカ（69回）と使徒の働き（54回）でよく見られる導入表現ἐγένεト（エゲネト、「起こった」）は、現代英語では冗長であるため訳出されていない。ここでのδέ（デ）も訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “lifted up her voice and said.” This idiom is somewhat redundant in contemporary English and has been simplified to “spoke out.”",
+        "ja": "[翻訳注] ギリシア語では「声を張り上げて言った」。この慣用句は現代英語では幾分冗長であるため、「叫んだ」「大声で言った」と簡潔に表現されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  For this term see L&N 8.69.",
+        "ja": "[翻訳注] この語についてはL&N 8.69を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Both the reference to the womb and the breasts form a figure of speech called metonymy. In this case the parts are mentioned instead of the whole; the meaning is “Blessed is your mother!” The warnings seem to have sparked a little nervousness that brought forth this response. In the culture a mother was valued for the accomplishments of her son. So this amounts to a compliment to Jesus.",
+        "ja": "[解説] 胎と乳房への言及はともに換喩と呼ばれる修辞技法を形成している。この場合、全体（母）の代わりに部分が言及されており、意味は「あなたの母は幸いです」ということである。一連の警告が不安を引き起こし、この反応を生じさせたようである。当時の文化において、母親は息子の業績によって評価されていた。したがってこれはイエスに対する賛辞に相当する。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “said.”",
+        "ja": "[翻訳注] ギリシア語では「言った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is another reference to hearing and doing the word of God, which here describes Jesus’ teaching; see Luke 8:21.",
+        "ja": "[解説] これは神の言葉を聞いて行うことへの言及であり、ここではイエスの教えを守ることを表している。ルカ8:21を参照。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでのδέ（デ）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The mention of a sign alludes back to Luke 11:16. Given what Jesus had done, nothing would be good enough. This leads to the rebuke that follows.",
+        "ja": "[解説] しるしへの言及はルカ11:16を想起させる。イエスがすでになさったことを考えれば、どんなしるしであっても彼らにとっては不十分であっただろう。これが続く叱責へとつながっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  As the following comparisons to Solomon and Jonah show, in the present context the sign of Jonah is not an allusion to Jonah being three days in the belly of the fish, but to Jesus’ teaching about wisdom and repentance.",
+        "ja": "[解説] ソロモンとヨナに対する以下の比較が示すように、現在の文脈において「ヨナのしるし」とは、ヨナが巨大な魚の腹の中に三日三晩いたことへの言及ではなく、知恵と悔い改めに関するイエスの教えを指している。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “to the Ninevites.” What the Ninevites experienced was Jonah’s message (Jonah 3:4, 10; 4:1).",
+        "ja": "[翻訳注] ギリシア語では「ニネベの人々に」。ニネベの人々が経験したのはヨナのメッセージであった（ヨナ3:4、10、4:1）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The repetition of the words “a sign” are not in the Greek text, but are implied and are supplied here for clarity.",
+        "ja": "[翻訳注] 「しるし」という言葉の反復はギリシア語テキストにはないが、暗示されており、明確にするため補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  Only the Western ms D and a few Itala mss add here a long reference to Jonah being in the belly of the fish for three days and nights and the Son of Man being three days in the earth, apparently harmonizing the text to the parallel in Matt 12:40.",
+        "ja": "[写本注] 西方写本Dといくつかの古ラテン語写本のみが、ここでヨナが三日三晩魚の腹の中にいたこと、および人の子が三日間地の中にいることへの長い言及を付け加えているが、これはマタイ12:40の並行箇所にテキストを調和させたものと思われる。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[解説]  On the queen of the South see 1 Kgs 10:1-3 and 2 Chr 9:1-12, as well as Josephus, Ant. 8.6.5-6 (8.165-175). The South most likely refers to modern southwest Arabia, possibly the eastern part of modern Yemen, although there is an ancient tradition reflected in Josephus which identifies this geo-political entity as Ethiopia.",
+        "ja": "[解説] 「南の女王」については列王記上10:1-3、歴代誌下9:1-12、およびヨセフス『ユダヤ古代誌』8.6.5-6（8.165-175）を参照。「南」はおそらく現代のアラビア南西部、ことによると現代のイエメン東部を指している可能性が高いが、ヨセフスに反映されている古代の伝承ではこの地理的実体をエチオピアと同定している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  For the imagery of judgment, see Luke 10:13-15 and 11:19. The warnings are coming consistently now.",
+        "ja": "[解説] 裁きの描写についてはルカ10:13-15および11:19を参照。警告が一貫してなされている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “men”; the word here (ἀνήρ, anhr) usually indicates males or husbands, but occasionally is used in a generic sense of people in general, as is the case here (cf. BDAG 79 s.v. 1, 2). The same term, translated the same way, occurs in v. 32.",
+        "ja": "[翻訳注] ギリシア語では「男たち」。ここでの語（ἀνήρ、アネール）は通常、成人男性または夫を指すが、ここでは一般的な人々という総称的な意味で用いられている（BDAG 79 s.v. 1, 2参照）。同様に訳出された同じ語が32節にも現れる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “behold.”",
+        "ja": "[翻訳注] ギリシア語では「見よ」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The message of Jesus was something greater than what Solomon offered. On Jesus and wisdom, see Luke 7:35; 10:21-22; 1 Cor 1:24, 30.",
+        "ja": "[解説] イエスのメッセージはソロモンが提供したものよりも大いなるものであった。イエスと知恵については、ルカ7:35、10:21-22、第一コリント1:24、30を参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on the word “people” in v. 31.",
+        "ja": "[翻訳注] 31節の「人々」という語に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “at the preaching of Jonah.”[解説]  The phrase repented when Jonah preached to them confirms that in this context the sign of Jonah (v. 30) is his message.",
+        "ja": "[翻訳注] ギリシア語では「ヨナの宣教において」。[解説] 「ヨナが説教したときに悔い改めた」という句は、この文脈においてヨナのしるし（30節）が彼のメッセージであることを裏付けている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “behold.”",
+        "ja": "[翻訳注] ギリシア語では「見よ」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or perhaps “in a cellar” (L&N 28.78). The point is that the light of Jesus’ teaching has been put in public view.",
+        "ja": "[翻訳注] または「地下室に」（L&N 28.78）。論点は、イエスの教えの光が公の場に置かれたということである。"
+      },
+      {
+        "pos": 2,
+        "en": "Ï latt). The parallel passage in Luke 8:16 does not include “under a basket.” If the phrase “under a basket” were added as a harmonization with Mark 4:21 and Matt 5:15, it is perhaps surprising that scribes did not add the phrase at Luke 8:16 as well. It seems somewhat more likely that a scribe copying Luke would be inclined to harmonize 11:33 with 8:16 by omitting the phrase here. Thus, the words “or under a basket” seem to have the marks of authenticity.[翻訳注]  Or “a bowl”; this refers to any container for dry material of about eight liters (two gallons) capacity. It could be translated “basket, box, bowl” (L&N 6.151).",
+        "ja": "[写本注] （𝔐、lattが支持）。ルカ8:16の並行箇所には「枡の下に」は含まれていない。もし「枡の下に」という句がマルコ4:21やマタイ5:15との調和として付け加えられたのであれば、書写生がルカ8:16にもその句を付加しなかったのは不自然である。ルカを筆写する書写生は、ここを省略することによって11:33を8:16に調和させようとした可能性のほうが高い。したがって、「あるいは枡の下に」という言葉は真正性を持つと考えられる。[翻訳注] または「器（ボウル）」。これは約8リットル（2ガロン）の容量を持つ乾物用の容器を指す。「かご、箱、鉢」とも訳せる（L&N 6.151）。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “sound” (so L&N 23.132 and most scholars). A few scholars take this word to mean something like “generous” here (L&N 57.107), partly due to the immediate context of this saying in Matt 6:22 which concerns money, in which case the “eye” is a metonymy for the entire person (“if you are generous”).",
+        "ja": "[翻訳注] または「健全な」（L&N 23.132および多くの学者）。金銭に関するマタイ6:22の直接の文脈から、少数の学者はこの語を「寛大な」の意味と解釈している（L&N 57.107）。その場合、「目」は全人格の換喩（「あなたが寛大であるなら」）となる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “when it is sick” (L&N 23.149).[解説]  There may be a slight wordplay here, as this term can also mean “evil,” so the figure uses a term that points to the real meaning of being careful as to what one pays attention to or looks at.",
+        "ja": "[翻訳注] または「病んでいるとき」（L&N 23.149）。[解説] この語は「邪悪な」をも意味し得るため、何に注意を払い何を見るかに気をつけるという真の意味を指し示す言葉を用いた言葉遊びが含まれている可能性がある。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This is a present imperative, calling for a constant watch (L&N 24.32; ExSyn 721).",
+        "ja": "[翻訳注] これは現在形命令法であり、不断の警戒を求めている（L&N 24.32; ExSyn 721）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Here you is a singular pronoun, individualizing the application.",
+        "ja": "[解説] ここでの「あなた」は単数代名詞であり、適用を個々人に当てはめている。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This is a first class condition in the Greek text, so the example ends on a hopeful, positive note.",
+        "ja": "[翻訳注] これはギリシア語テキストにおいて第一種条件文であり、例は前向きな結論で結ばれている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Therefore”; the same conjunction as at the beginning of v. 35, but since it indicates a further inference or conclusion, it has been translated “then” here.",
+        "ja": "[翻訳注] ギリシア語では「それゆえ」。35節の冒頭と同じ接続詞であるが、さらなる推論または結論を示すため、ここでは「それゆえ」「そこで」と訳出されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “not having any part dark.”",
+        "ja": "[翻訳注] ギリシア語では「暗い部分を少しも持たず」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “it will be completely illumined as when a lamp illumines you with its rays.”",
+        "ja": "[翻訳注] ギリシア語では「明かりがその光線であなたを照らすときのように、明るく照らされるであろう」。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The use of the aorist infinitive here should probably be translated “as he spoke” rather than “while he was speaking” (see ExSyn 595). The Pharisee did not necessarily interrupt Jesus to issue the invitation.",
+        "ja": "[翻訳注] ここでのアオリスト不定詞の用法は、「話しておられる間に」というよりは「話されたとき」と訳すべきであろう（ExSyn 595参照）。パリサイ人は必ずしもイエスの話を遮って食事に招いたわけではない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on Pharisees in 5:17.",
+        "ja": "[解説] パリサイ人については5:17の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “and reclined at table,” as 1st century middle eastern meals were not eaten while sitting at a table, but while reclining on one’s side on the floor with the head closest to the low table and the feet farthest away.",
+        "ja": "[翻訳注] ギリシア語では「そして食卓に横たわった」。1世紀の中東の食事は椅子に座って食べるのではなく、低い食卓に頭を最も近づけ、足を最も遠くにして床に横たわって取られたためである。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでのδέ（デ）は訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “his hands” are not in the Greek text, but have been supplied for clarity.[解説]  Washing before meals was a cultural practice that was described in the OT, but not prescribed there (Gen 18:4; Judg 19:21). It was apparently related to concern about contracting ceremonial uncleanness (Lev 11:31-38; t. Demai 2.11-12).",
+        "ja": "[翻訳注] 「手を」という言葉はギリシア語テキストにはないが、明確にするため補われている。[解説] 食事前の手洗いは旧約聖書に記述されているものの、規定されていたわけではない文化的慣習であった（創世記18:4、士師記19:21）。これは儀式的な汚れを被ることへの懸念に関連していたようである（レビ記11:31-38、トセフタ・デマイ2.11-12）。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[解説]  The allusion to washing (clean the outside of the cup) shows Jesus knew what they were thinking and deliberately set up a contrast that charged them with hypocrisy and majoring on minors.",
+        "ja": "[解説] 洗うことへの言及（杯の外側を清める）は、イエスが彼らの考えていることを見抜いており、彼らの偽善と本質的でない細部への偏重を告発する対比を意図的に設定されたことを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “and evil.”",
+        "ja": "[翻訳注] または「悪意で」。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[解説]  You fools is a rebuke which in the OT refers to someone who is blind to God (Ps 14:1, 53:1; 92:6; Prov 6:12).",
+        "ja": "[解説] 「愚かな者たち」という叱責は、旧約聖書において神に対して盲目である者を指す（詩篇14:1、53:1、92:6、箴言6:12）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The question includes a Greek particle, οὐ (ou), that expects a positive reply. God, the maker of both, is concerned for what is both inside and outside.",
+        "ja": "[翻訳注] この問いには肯定の答えを期待するギリシア語の不変化詞οὐ（ウー）が含まれている。内外の両方を造られた神は、内側と外側の両方に心を配られる。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Give the things inside as alms.” Three different approaches have been taken to the syntax and meaning of this phrase: (1) τὰ ἐνόντα (ta enonta, “the things inside”) is an accusative of respect (“give alms with respect to the things inside”); (2) τὰ ἐνόντα is an adverbial accusative (“give alms inwardly,” i.e., from the heart); (3) the word translated “alms” represents a mistranslation of the original Aramaic term “cleanse,” so the statement urges the hearers to “cleanse the things inside.” According to D. L. Bock (Luke [BECNT], 2:1115) the latter meaning is unlikely because the present verse is independent of Matt 23:26, not parallel to it, and makes good sense as it stands.[解説]  In Jewish culture giving alms to the poor was a very important religious observance; it was meant to be an act of mercy, kindness, and love (D. L. Bock, Luke [BECNT], 2:1114). The implication from the text is that the Pharisees gave alms, but without any of the spiritual concern which should have motivated those generous actions. Here Jesus commands the Pharisees to give from within themselves to those in need instead of just giving of their possessions. In so doing they would show true inner purity acceptable to God. This is in keeping with the author’s social concerns elsewhere in the Gospel (cf., e.g., 1:52-53, 4:18-19, 6:20-21, 14:13).",
+        "ja": "[翻訳注] ギリシア語では「内にあるものを施しとして与えよ」。この句の統語論と意味については三つの異なるアプローチが取られてきた。(1) τὰ ἐνόνタ（タ・エノンタ、「内にあるもの」）は関係の対格である（「内にあるものに関して施しをせよ」）。(2) τὰ ἐνόνタは副詞的対格である（「内面的に施しをせよ」、すなわち心から）。(3) 「施し」と訳されている語は元のアラム語の「清めよ」という言葉の誤訳を表しており、したがってこの文は聞き手たちに「内にあるものを清めよ」と促している。D. L. Bock（Luke [BECNT], 2:1115）によれば、本節はマタイ23:26の並行ではなく独立しており、原文のままで十分に意味が通るため、後者の解釈は可能性が低い。[解説] ユダヤ文化において貧しい人々への施しは重要な宗教的実践であり、それはあわれみ、親切、愛の行為であるはずであった（D. L. Bock, Luke [BECNT], 2:1114）。テキストが暗示しているのは、パリサイ人たちが施しを行っていたものの、そのような寛大な行動を動機づけるべき霊的な配慮を欠いていたということである。ここでイエスはパリサイ人に対し、単に自分の財産を与えるのではなく、自分の内面から困っている人々に施しをするよう命じておられる。そうすることによって、彼らは神に受け入れられる真の内面的な清さを示すことになる。これは福音書の他の箇所に見られる著者の社会的関心と一致している（例: 1:52-53、4:18-19、6:20-21、14:13）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and behold.” The Greek word ἰδού (idou) at the beginning of this clause has not been translated because it has no exact English equivalent here, but adds interest and emphasis (BDAG 468 s.v. 1).",
+        "ja": "[翻訳注] ギリシア語では「そして見よ」。この節の冒頭にあるギリシア語のἰδού（イドゥー）は、正確な英語の相当語句がないため訳出されていないが、関心と強調を添えている（BDAG 468 s.v. 1）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The expression everything will be clean for you refers to the agreement that should exist between the overt practice of one’s religious duties, such as almsgiving, and the inner condition of one’s heart, including true love for God and the poor; one is not only to wash the outside of the cup and plate, but the inside as well, since as Jesus said, God created the inside too. Religious duties are not to be performed hypocritically, i.e., for the applause and esteem of people, but rather they are to be done out of a deep love for God and a sensitivity to and concern for the needs of others. Then, everything will be clean, both hearts and lives.",
+        "ja": "[解説] 「すべてがあなたがたにとって清くなる」という表現は、施しのような宗教的義務の外面的な実践と、神や貧しい人々への真実の愛を含む心の内面的な状態との間に存在すべき一致を指している。イエスが言われたように神は内側をも造られたのであるから、杯や皿の外側を洗うだけでなく内側も洗わなければならない。宗教的義務は偽善的に、すなわち人々の称賛や尊敬を得るために行われるべきではなく、神への深い愛と他者の必要への配慮から行われるべきである。そうすれば、心も生活もすべてが清くなる。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Woe to you…because you…” The causal particle ὅτι (Joti) has not been translated here for rhetorical effect (and so to the end of this chapter).",
+        "ja": "[翻訳注] ギリシア語では「あなたがたは災いだ…なぜならあなたがたは…」。理由を示す不変化詞ὅτι（ホティ）は、修辞的効果のためにここでは訳出されていない（この章の終わりまで同様）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “you tithe mint.”",
+        "ja": "[翻訳注] または「はっかの十分の一を納めている」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  These small herbs were tithed with great care (Mishnah, m. Demai 2:1).",
+        "ja": "[解説] これらの小さな香草は細心の注意を払って十分の一が納められていた（ミシュナ・デマイ2:1）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “and rue.” Καί (kai) has not been translated since English normally uses a coordinating conjunction only between the last two elements in a series of three or more.[解説]  Rue was an evergreen herb used for seasoning.",
+        "ja": "[翻訳注] ギリシア語では「そしてへんルー」。英語では通常3つ以上の要素の最後の間でのみ等位接続詞を用いるため、καί（カイ）は訳出されていない。[解説] へんルー（ヘンルーダ）は調味料として用いられた常緑の香草であった。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Justice was a major theme of OT ethics (Mic 6:8; Zech 7:8-10).",
+        "ja": "[解説] 公正（正義）は旧約聖書の倫理における主要なテーマであった（ミカ6:8、ゼカリヤ7:8-10）。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “those”; but this has been translated as “the others” to clarify which are meant.",
+        "ja": "[翻訳注] ギリシア語では「それらのこと」。しかしどれを指しているかを明確にするため「ほかのこと」と訳出されている。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “seats of honor.” The term here is plural and is not a reference only to the lead “seat of Moses” in the synagogue, but includes the front seats near the ark.",
+        "ja": "[翻訳注] または「名誉ある席」。ここでの用語は複数形であり、会堂における首席の「モーセの座」のみを指すのではなく、契約の箱の近くの前席をも含んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on synagogues in 4:15.",
+        "ja": "[解説] 会堂については4:15の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and the greetings.”[解説]  The later Jewish summary of oral tradition, the Talmud, notes elaborate greetings for rabbis. The rebuke here is for pride.",
+        "ja": "[翻訳注] ギリシア語では「そして挨拶を」。[解説] 口伝律法をまとめた後代のユダヤ教文書『タルムード』には、ラビに対する手の込んだ丁重な挨拶についての記述がある。ここでの叱責は傲慢さに向けられている。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "33 1241 2542 lat sa).",
+        "ja": "[写本注] （33、1241、2542、lat、saなどが支持）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “men.” This is a generic use of ἄνθρωπος (anqrwpo\"), referring to both males and females.",
+        "ja": "[翻訳注] ギリシア語では「人々（人間）」。これは男女両方を指すἄνθρωπος（アントローポス）の総称的用法である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  In Judaism to come into contact with the dead or what is associated with them, even without knowing it, makes one unclean (Num 19:11-22; Lev 21:1-3; Mishnah, m. Demai 2:3). To Pharisees, who would have been so sensitive about contracting ceremonial uncleanness, it would have been quite a stinging rebuke to be told they caused it.",
+        "ja": "[解説] ユダヤ教において、死者や死者に関連するものにそれと知らずに触れることさえも人を汚れた者とする（民数記19:11-22、レビ記21:1-3、ミシュナ・デマイ2:3）。儀式的な汚れを被ることに敏感であったパリサイ人にとって、自分たちが汚れの原因となっていると告げられることは非常に痛烈な叱責であった。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[解説]  That is, an expert in the interpretation of the Mosaic law. They worked closely with the Pharisees.",
+        "ja": "[解説] すなわち、モーセの律法の解釈の専門家である。彼らはパリサイ人と密接に協力していた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  For this term, see Matt 22;6; Luke 18:32; Acts 14:5; 1 Thess 2:2.",
+        "ja": "[翻訳注] この用語についてはマタイ22:6、ルカ18:32、使徒14:5、第一テサロニケ2:2を参照。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼」。明確にするため、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “said.”",
+        "ja": "[翻訳注] ギリシア語では「言った」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here “as well” is used to translate καί (kai) at the beginning of the statement.",
+        "ja": "[翻訳注] ここでは文頭のκαί（カイ）を訳すために「～もまた」が用いられている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “men.” This is a generic use of ἄνθρωπος (anqrwpo\"), referring to both males and females.",
+        "ja": "[翻訳注] ギリシア語では「人々（人間）」。これは男女両方を指すἄνθρωπος（アントローポス）の総称的用法である。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “you yourselves do not touch.” This could mean one of two things: (1) Either they make others do what they themselves do not (through various technical exceptions) or (2) they make no effort to help the others fulfill what they are required to do. Considering the care these religious figures are said to have given to the law, the second option is more likely (see L&N 18.11).",
+        "ja": "[翻訳注] ギリシア語では「あなたがた自身は触れない」。これは次の二つのうちの一つを意味し得る。(1) 彼ら自身が（様々な専門的例外規定を通じて）行わないことを他人に課しているか、あるいは(2) 他人が要求されていることを果たすのを助けようと少しも努力しないかである。これらの宗教指導者たちが律法に払っていたとされる細心の注意を考慮すると、第二の選択肢のほうが可能性が高い（L&N 18.11参照）。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[解説]  The effect of what the experts in the law were doing was to deny the message of the prophets and thus honor their death by supporting those who had sought their removal. The charge that this is what previous generations did shows the problem is chronic. As T. W. Manson said, the charge here is “The only prophet you honor is a dead prophet!” (The Sayings of Jesus, 101).",
+        "ja": "[解説] 律法の専門家たちが行っていたことの結果は、預言者たちのメッセージを否定し、預言者たちの排除を求めた者たちを支持することによって、預言者たちの死を賛美することであった。これが過去の世代が行ったことであるという告発は、問題が根深いものであることを示している。T・W・マンソンが述べたように、ここでの告発は「あなたがたが敬う唯一の預言者は、死んだ預言者だけだ！」というものである（The Sayings of Jesus, 101）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “forefathers”; Grk “fathers.”",
+        "ja": "[翻訳注] または「父祖たち」。ギリシア語では「父たち」。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “you are witnesses and approve of.”",
+        "ja": "[翻訳注] ギリシア語では「あなたがたは証人であり、認めている」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “forefathers”; Grk “fathers.”",
+        "ja": "[翻訳注] または「父祖たち」。ギリシア語では「父たち」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “them”; the referent (the prophets) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼らを」。明確にするため、翻訳では指示対象（預言者たち）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  “Their,” i.e., the prophets.",
+        "ja": "[翻訳注] 「彼らの」、すなわち預言者たちの。"
+      },
+      {
+        "pos": 5,
+        "en": "א B D L 579 1241 it sa), it is likely that they were not part of the original text of Luke. Nevertheless, the words “their tombs” are inserted in the translation because of requirements of English style.",
+        "ja": "[写本注] （א、B、D、L、579、1241、it、saが支持）。これらはルカの原文の一部ではなかった可能性が高い。それにもかかわらず、「彼らの墓を」という言葉は英語の文体上の要請から翻訳に挿入されている。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[解説]  The expression the wisdom of God is a personification of an attribute of God that refers to his wise will.",
+        "ja": "[解説] 「神の知恵」という表現は、神の賢明な御旨を指す神の属性の擬人化である。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “that this generation may be charged with”; or “the blood of all the prophets… may be required from this generation.” This is a warning of judgment. These people are responsible for the shedding of prophetic blood.",
+        "ja": "[翻訳注] または「この時代がその責任を問われるために」、あるいは「すべての預言者の血が…この時代から要求されるために」。これは裁きの警告である。これらの人々は預言者の血を流した責任を負っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “foundation.” However, this does not suggest a time to the modern reader.",
+        "ja": "[翻訳注] または「礎（基礎）」。しかしこれは現代の読者には時代を示唆しない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The order of the clauses in this complicated sentence has been rearranged to simplify it for the modern reader.",
+        "ja": "[翻訳注] 現代の読者にとってわかりやすくするため、この複雑な文の節の順序が並べ替えられている。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[解説]  Gen 4:10 indicates that Abel’s blood cried out for justice.",
+        "ja": "[解説] 創世記4:10は、アベルの血が正義を求めて叫んだことを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  It is not clear which Zechariah is meant here. It is probably the person mentioned in 2 Chr 24:20-25.",
+        "ja": "[解説] ここでどのゼカリヤが意図されているかは明らかではない。おそらく歴代誌下24:20-25で言及されている人物であろう。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “who perished.”",
+        "ja": "[翻訳注] または「滅びた」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “and the temple”; Grk “and the house,” but in this context a reference to the house of God as a place of sanctuary.",
+        "ja": "[翻訳注] または「神殿」。ギリシア語では「家」であるが、この文脈では聖所としての神の家を指している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “required from.”",
+        "ja": "[翻訳注] または「～から要求される」。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[解説]  You have taken away the key to knowledge is another stinging rebuke. They had done the opposite of what they were trying to do.",
+        "ja": "[解説] 「知識の鍵を取り去ってしまった」は、もう一つの痛烈な叱責である。彼らは自分たちがしようとしていたことと正反対のことを行っていた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “you tried to prevent.”",
+        "ja": "[翻訳注] または「入ろうとするのを妨げようとした」。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注] または「律法学者たち」。5:21の「律法の専門家たち」という句に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “terribly.”",
+        "ja": "[翻訳注] または「甚だしく」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  For this term see L&N 33.183.",
+        "ja": "[翻訳注] この用語についてはL&N 33.183を参照。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “lying in ambush against,” but this is a figurative extension of that meaning.",
+        "ja": "[翻訳注] ギリシア語では「彼に対して待ち伏せをして」。しかしこれはその意味の比喩的拡張である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This term was often used in a hunting context (BDAG 455 s.v. θηρεύω; L&N 27.30). Later examples of this appear in .",
+        "ja": "[翻訳注] この用語は狩猟の文脈でよく用いられた（BDAG 455 s.v. θηρεύω; L&N 27.30）。後代の用例はこれに見られる。"
+      }
+    ]
+  }
+}

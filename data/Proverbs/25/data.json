@@ -1,0 +1,500 @@
+{
+  "book": "Proverbs",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "These also are proverbs of Solomon, which the men of King Hezekiah of Judah copied: ",
+      "ja": "これらもまたソロモンの格言であり、ユダの王ヒゼキヤの家臣たちが書き写したものである。"
+    },
+    {
+      "verse": 2,
+      "en": "It is the glory of God to conceal a matter, and it is the glory of a king to search out a matter. ",
+      "ja": "事を隠すのは神の栄光であり、事を究めるのは王たちの栄光である。"
+    },
+    {
+      "verse": 3,
+      "en": "As the heaven is high and the earth is deep so the hearts of kings are unsearchable. ",
+      "ja": "天が高く、地が深いように、王たちの心は探り出し難い。"
+    },
+    {
+      "verse": 4,
+      "en": "Remove the dross from the silver, and material for the silversmith will emerge; ",
+      "ja": "銀から滓を取り除けば、銀細工師のための素材が現れ出る。"
+    },
+    {
+      "verse": 5,
+      "en": "remove the wicked from before the king, and his throne will be established in righteousness. ",
+      "ja": "王の前から悪しき者を取り除けば、その王座は正義によって堅く立つ。"
+    },
+    {
+      "verse": 6,
+      "en": "Do not honor yourself before the king, and do not stand in the place of great men;",
+      "ja": "王の前で自分を高ぶらせてはならない。偉人たちの場所に立ってはならない。"
+    },
+    {
+      "verse": 7,
+      "en": "for it is better for him to say to you, “Come up here,” than to put you lower before a prince, whom your eyes have seen. ",
+      "ja": "「ここに上って来なさい」と王があなたに言う方が、あなたの目が見た高官の前で低く扱われるよりも優れているからである。"
+    },
+    {
+      "verse": 8,
+      "en": "Do not go out hastily to litigation, or what will you do afterward when your neighbor puts you to shame? ",
+      "ja": "訴訟に性急に出て行ってはならない。さもないと、隣人があなたに恥をかかせたとき、あとであなたはどうするのか。"
+    },
+    {
+      "verse": 9,
+      "en": "When you argue a case with your neighbor, do not reveal the secret of another person,",
+      "ja": "隣人と争うときは、別の人の秘密を明かしてはならない。"
+    },
+    {
+      "verse": 10,
+      "en": "lest the one who hears it put you to shame and your infamy will never go away. ",
+      "ja": "それを聞いた者があなたに恥をかかせ、あなたの悪名は決して消え去らなくなるかもしれないからである。"
+    },
+    {
+      "verse": 11,
+      "en": "Like apples of gold in settings of silver, so is a word skillfully spoken. ",
+      "ja": "銀の彫り物に嵌め込まれた金のりんごのように、適切に語られた言葉はふさわしい。"
+    },
+    {
+      "verse": 12,
+      "en": "Like an earring of gold and an ornament of fine gold, so is a wise reprover to the ear of the one who listens. ",
+      "ja": "金の耳飾り、あるいは上質な金の飾りのように、聞き従う耳に対する知恵ある叱責は価値がある。"
+    },
+    {
+      "verse": 13,
+      "en": "Like the cold of snow in the time of harvest, so is a faithful messenger to those who send him, for he refreshes the heart of his masters. ",
+      "ja": "刈り入れの時の雪の冷たさのように、忠実な使者はこれを遣わす者にとって心地よい。彼はその主人の心を蘇らせるからである。"
+    },
+    {
+      "verse": 14,
+      "en": "Like cloudy skies and wind that produce no rain, so is the one who boasts of a gift not given. ",
+      "ja": "雨を降らせない雲と風のように、与えてもいない贈り物について誇る者はそのようである。"
+    },
+    {
+      "verse": 15,
+      "en": "Through patience a ruler can be persuaded, and a soft tongue can break a bone. ",
+      "ja": "忍耐によって支配者を説得することができ、柔らかな舌は骨をも砕く。"
+    },
+    {
+      "verse": 16,
+      "en": "You have found honey—eat only what is sufficient for you, lest you become stuffed with it and vomit it up.",
+      "ja": "あなたは蜂蜜を見つけたか。自分に十分な分だけを食べよ。さもないと、食べ過ぎてそれを吐き出すことになりかねない。"
+    },
+    {
+      "verse": 17,
+      "en": "Don’t set foot too frequently in your neighbor’s house, lest he become weary of you and hate you.",
+      "ja": "隣人の家にあまり頻繁に足を踏み入れてはならない。さもないと、彼はあなたにうんざりし、あなたを憎むようになる。"
+    },
+    {
+      "verse": 18,
+      "en": "Like a club or a sword or a sharp arrow, so is the one who testifies against his neighbor as a false witness. ",
+      "ja": "こん棒、剣、あるいは鋭い矢のように、隣人に対して偽りの証言をする者はそのようである。"
+    },
+    {
+      "verse": 19,
+      "en": "Like a bad tooth or a foot out of joint, so is confidence in an unfaithful person at the time of trouble. ",
+      "ja": "悪い歯や、関節の外れた足のように、苦難の時に不信実な者に頼るのはそのようである。"
+    },
+    {
+      "verse": 20,
+      "en": "Like one who takes off a garment on a cold day or like vinegar poured on soda, so is one who sings songs to a heavy heart. ",
+      "ja": "寒い日に上着を脱ぐ者のように、あるいは炭酸塩に注がれた酢のように、重い心に歌を歌う者はそのようである。"
+    },
+    {
+      "verse": 21,
+      "en": "If your enemy is hungry, give him food to eat, and if he is thirsty, give him water to drink, ",
+      "ja": "もしあなたの敵が飢えているなら、彼に食べ物を与えて食べさせ、もし渇いているなら、水を与えて飲ませよ。"
+    },
+    {
+      "verse": 22,
+      "en": "for you will heap coals of fire on his head, and the Lord will reward you. ",
+      "ja": "なぜなら、あなたは彼の頭に燃え盛る炭を積むことになり、主があなたに報いてくださるからである。"
+    },
+    {
+      "verse": 23,
+      "en": "The north wind brings forth rain, and a gossiping tongue brings forth an angry look.",
+      "ja": "北風は雨をもたらし、陰口を叩く舌は怒りの顔立ちをもたらす。"
+    },
+    {
+      "verse": 24,
+      "en": "It is better to live on a corner of the housetop than in a house in company with a quarrelsome wife. ",
+      "ja": "争い好きな妻と同じ家で暮らすよりは、屋根の隅に住む方がよい。"
+    },
+    {
+      "verse": 25,
+      "en": "Like cold water to a weary person, so is good news from a distant land. ",
+      "ja": "疲れ果てた者にとっての冷たい水のように、遠い国からの良い知らせはそのようである。"
+    },
+    {
+      "verse": 26,
+      "en": "Like a muddied spring and a polluted well, so is a righteous person who gives way before the wicked. ",
+      "ja": "濁った泉や汚された井戸のように、悪しき者の前で屈してしまう正しい者はそのようである。"
+    },
+    {
+      "verse": 27,
+      "en": "It is not good to eat too much honey, nor is it honorable for people to seek their own glory. ",
+      "ja": "蜂蜜を過剰に食べるのは良くなく、人々が自分の栄光を求めることは名誉にならない。"
+    },
+    {
+      "verse": 28,
+      "en": "Like a city that is broken down and without a wall, so is a person who cannot control his temper. ",
+      "ja": "城壁がなく、打ち破られた町のように、自分の気性を制御できない人はそのようである。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  This section of the book of Proverbs contains proverbs attributed to Solomon but copied by Hezekiah’s sages (between 715 b.c. and 687 b.c.). Some scholars conclude that this has no historical value other than to report the later disposition that people thought they came from Solomon’s time, but if that were the only consideration, then that in itself would have to be considered as a piece of historical information. But if the reference is an earlier note in the collection, then it becomes more valuable for consideration. The proverbs in these lines differ from the earlier ones in that these are multiple line sayings using more similes; chapters 28-29 are similar to 10-16, but chapters 25-27 differ in having few references to God.",
+        "ja": "プロフェン（箴言）のこのセクションには、ソロモンに帰せられつつも、ヒゼキヤの賢人たち（紀元前715年から687年の間）によって書き写された箴言が含まれている。一部の学者たちは、これがソロモンの時代に由来するという当時の人々の見解を伝える以外の歴史的価値はないと結論づけているが、もしそれが唯一の考慮事項であるならば、それ自体が一種の歴史的情報とみなされなければならないであろう。しかし、この言及がコレクション内のより古い注記であるならば、考察の価値はさらに高まる。これらの行にある箴言は、より多くの直喩を用いた複数行の言い回しである点において、それ以前のものとは異なっている。28〜29章は10〜16章に似ているが、25〜27章は神への言及が少ない点で異なっている。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  The proverb provides a contrast between God and the king, and therein is the clue to the range of application involved. The interest of the king is ruling or administering his government; and so the subject matter is a contrast to the way God rules his kingdom.",
+        "ja": "この箴言は神と王の間の対比を示しており、そこにこそ関与する適用の範囲の手がかりがある。王の関心事はその統治または政府の運営であり、したがってその主題は、神がご自身の王国を統治される方法との対比となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The two infinitives form the heart of the contrast – “to conceal a matter” and “to search out a matter.” God’s government of the universe is beyond human understanding – humans cannot begin to fathom the intentions and operations of it. But it is the glory of kings to search out matters and make them intelligible to the people. Human government cannot claim divine secrecy; kings have to study and investigate everything before making a decision, even divine government as far as possible. But kings who rule as God’s representatives must also try to represent his will in human affairs – they must even inquire after God to find his will. This is their glorious nature and responsibility. For more general information on vv. 2-27, see G. E. Bryce, “Another Wisdom ‘Book’ in Proverbs,” JBL 91 (1972): 145-57.",
+        "ja": "2つの不定詞が対比の核心を形作っている。「事を隠すこと」と「事を究めること」である。宇宙に対する神の統治は人間の理解を超えており、人間は神の意図やその働きを推し量ることは決してできない。しかし、事を究め、それを人々に分かりやすく説明することが王たちの栄光である。人間政府は神のような秘密性を主張することはできず、王たちは決定を下す前に、可能な限り神の統治を含めてあらゆることを研究し調査しなければならない。しかし、神の代理人として統治する王たちはまた、人間の事柄において神の御心を表そうと努めなければならず、神の御心を見出すために神に求めさえしなければならない。これが彼らの栄光ある本質と責任である。vv. 2-27に関するより一般的な情報については、G. E. Bryce, “Another Wisdom ‘Book’ in Proverbs,” JBL 91 (1972): 145-57 を参照せよ。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “heavens for height and earth for depth.” The proverb is clearly intending the first line to be an illustration of the second – it is almost emblematic parallelism.",
+        "ja": "ヘブル語では「高さのための天と、深さのための地」。この箴言は、第一行目を第二行目のイラスト（例え）にしようとしていることが明かであり、ほとんど象徴的なパラレリズム（並行法）となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The proverb is affirming a simple fact: The king’s plans and decisions are beyond the comprehension of the common people. While the king would make many things clear to the people, there are other things that are “above their heads” or “too deep for them.” They are unsearchable because of his superior wisdom, his caprice, or his need for secrecy. Inscrutability is sometimes necessary to keep a firm grip on power.",
+        "ja": "この箴言は一つの単純な事実を肯定している。王の計画や決定は一般の人々の理解を超えているということである。王は多くのことを人々に明らかにすることもあれば、「彼らの頭の上を越えている」あるいは「彼らにとって深すぎる」事柄もある。王の心が探り出し難いのは、彼の優れた知恵、気まぐれ、あるいは秘密保持の必要性ゆえである。権力をしっかりと握り続けるためには、不可解さが時には必要なのである。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew כֶּלִי (keli) means “vessel; utensil” (cf. KJV, ASV, NASB). But purging dross from silver does not produce a “vessel” for the silversmith. Some versions therefore render it “material” (e.g., NIV, NRSV). The LXX says “that it will be entirely pure.” So D. W. Thomas reads כָּלִיל (kalil) and translates it “purified completely” (“Notes on Some Passages in the Book of Proverbs,” VT 15 [1965]: 271-79; cf. NAB). W. McKane simply rearranges the line to say that the smith can produce a work of art (Proverbs [OTL], 580; cf. TEV “a thing of beauty”). The easiest explanation is that “vessel” is a metonymy of effect, “vessel” put for the material that goes into making it (such metonymies occur fairly often in Psalms and Proverbs).",
+        "ja": "ヘブル語のכֶּלִי (keli) は「器、道具」を意味する（KJV, ASV, NASB等を参照）。しかし、銀から滓を精錬しても、銀細工師のための「器」ができるわけではない。そのため、一部の訳 versión は「素材」と訳している（例：NIV, NRSV）。LXX（七十人訳）は「完全に純粋になる」としている。そこでD. W. Thomasは כָּלִיל (kalil) と読み替えて「完全に精錬された」と訳している（“Notes on Some Passages in the Book of Proverbs,” VT 15 [1965]: 271-79; NABを参照）。W. McKaneは単にその行を並べ替えて、細工師が芸術作品を作り出すことができると言い換えている（Proverbs [OTL], 580; TEVの“a thing of beauty”を参照）。最も簡単な説明は、「器」が結果の換喩であり、それを作るために使われる素材の代わりに「器」が置かれているというものである（こうした換喩は詩篇や箴言においてかなり頻繁に見られる）。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  These two verses present first an illustration and then the point (so it is emblematic parallelism). The passage uses imperatives to teach that the wicked must be purged from the kingdom.",
+        "ja": "これらの2つの詩節は、最初にイラスト（例え）を提示し、次にその要点を述べている（したがって、これは象徴的なパラレリズムである）。この箇所では、悪しき者が王国から取り除かれなければならないことを教えるために命令法が用いられている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  “Throne” is a metonymy of subject (or adjunct); it is the symbol of the government over which the king presides (cf. NCV, TEV).",
+        "ja": "「王座」は主体（または付属物）の換喩であり、王が統治する政府の象徴である（NCV, TEVを参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  When the king purges the wicked from his court he will be left with righteous counselors and his government therefore will be “established in righteousness” – it will endure through righteousness (cf. NLT “made secure by justice”). But as J. H. Greenstone says, “The king may have perfect ideals and his conduct may be irreproachable, but he may be misled by unscrupulous courtiers” (Proverbs, 264).",
+        "ja": "王が自分の宮廷から悪しき者を取り除くとき、そこには正しい助言者たちが残り、したがって彼の政府は「正義によって堅く立つ」ことになり、正義によって存続し続けることになる（NLTの“made secure by justice”を参照）。しかし、J. H. Greenstoneが言うように、「王は完璧な理想を持ち、その行いが非の打ちどころのないものであったとしても、彼は悪徳な取り巻きたちによって道を誤らされるかもしれない」（Proverbs, 264）。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The phrase “for him” is supplied in the translation for clarity.",
+        "ja": "明瞭さを期すために、翻訳では「彼にとって（for him）」という句が補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This proverb, covering the two verses, is teaching that it is wiser to be promoted than to risk demotion by self-promotion. The point is clear: Trying to promote oneself could bring on public humiliation; but it would be an honor to have everyone in court hear the promotion by the king.",
+        "ja": "2つの節にわたるこの箴言は、自己推薦によって地位降格のリスクを冒すよりも、昇進させられる方が賢明であると教えている。要点は明快である。自分を誇示しようとすることは公衆の面前での屈辱を招きかねないが、王から昇進を告げられるのを宮廷の全員が聞くことは名誉であるということだ。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The two infinitives construct form the contrast in this “better” sayings; each serves as the subject of its respective clause.",
+        "ja": "2つの不定詞構文が、この「〜の方がよい」という格言における対比を形作っており、それぞれがそれぞれの節の主語として機能している。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  Most modern commentators either omit this last line or attach it to the next verse. But it is in the text of the MT as well as the LXX, Syriac, Vulgate, and most modern English versions (although some of them do connect it to the following verse, e.g., NAB, NIV, NRSV, NLT).",
+        "ja": "ほとんどの現代の注解者は、この最後の行を省略するか、次の節に結びつけている。しかし、これはマソラ本文（MT）だけでなく、LXX、シリア語訳、ウルガタ訳、およびほとんどの現代英語訳のテキストにも含まれている（ただし、いくつかの翻訳では次の節に接続されている、例：NAB, NIV, NRSV, NLT）。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “do not go out hastily to strive”; the verb “to strive” means dispute in the legal context. The last clause of v. 7, “what your eyes have seen,” does fit very well with the initial clause of v. 8. It would then say: What you see, do not take hastily to court, but if the case was not valid, he would end up in disgrace.[解説]  The Hebrew verb רִיב (riv) is often used in legal contexts; here the warning is not to go to court hastily lest it turn out badly.",
+        "ja": "ヘブル語では「争うために性急に出て行ってはならない」。「争う」という動詞は法的な文脈における論争を意味する。第7節の最後の句「あなたの目が見た」は、第8節の最初の句と非常にうまく適合する。そうであれば、それは次のように読むことができる。あなたが見たものを、性急に法廷に持ち込んではならない。もし訴えに根拠がなければ、彼は結局不名誉に終わることになるからである。[解説] ヘブル語の動詞 רִיב (riv) は法的な文脈でしばしば用いられる。ここでの警告は、事態が悪化しないよう、性急に裁判所に訴え出てはならないということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The clause begins with פֶּן (pen, “lest”) which seems a bit out of place in this line. C. H. Toy suggests changing it to כִּי (ki, “for”) to make a better connection, instead of supplying an ellipsis: “lest it be said what…” (Proverbs [ICC], 461).",
+        "ja": "この節は פֶּן (pen, 「〜しないように、 lest」) で始まっており、この行には少し場違いなように思われる。C. H. Toyは、省略された表現を補う代わりに、より良い繋がりを作るためにこれを כִּי (ki, 「なぜなら、 for」) に変更することを提案している。「…と言われないように、lest it be said what…」とするのではなく（Proverbs [ICC], 461）。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verse begins with the direct object רִיבְךָ (ribkha, “your case”) followed by the imperative from the same root, רִיב (riv, “argue”). It is paralleled by the negated Piel jussive. The construction of the clauses indicates that the first colon is foundational to the second: “Argue…but do not reveal,” or better, “When you argue…do not reveal.”",
+        "ja": "この節は直接目的語の רִיבְךָ (ribkha, 「あなたの訴え」) で始まり、その後に同じ語根を持つ命令形の רִיב (riv, 「争え」) が続く。これに否定されたピエル態（強調態）のジュッシヴ（希求法）が並行している。諸節の構造は、第一のコロンス（前半句）が第二のコロンスの基礎であることを示している。「争え…しかし明かすな」、あるいはさらに良く「あなたが争うときには…明かすな」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The concern is that in arguing with one person a secret about another might be divulged, perhaps deliberately in an attempt to clear oneself. The point then is about damaging a friendship by involving the friend without necessity or warrant in someone else’s quarrel.",
+        "ja": "懸念されているのは、ある人と言い争ううちに、別の人の秘密がうっかり漏らされてしまうかもしれないということであり、それはおそらく自分自身の潔白を証明しようとする試みの中で故意に行われるのかもしれない。したがって、要点は、誰か他の人の口論に、必要もなく正当な理由もなく友人を巻き込むことによって、友情を損なうことについてである。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The noun דִּבָּה (dibbah, “infamy; defamation; evil report; whispering”) is used of an evil report here (e.g., Gen 37:2), namely a true report of evil doing. So if a person betrays another person’s confidence, he will never be able to live down the bad reputation he made as one who betrays secrets (cf. NIV).",
+        "ja": "名詞 דִּבָּה (dibbah, 「悪名、中傷、悪い報告、ひそひそ話」) は、ここでは悪い報告（例：創世記 37:2）、すなわち悪事についての真実の報告のために用いられている。したがって、ある人が他の人の信頼を裏切るなら、彼は秘密を裏切る者として自分が作ってしまった悪評を挽回することは決してできない（NIVを参照）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[解説]  The verse uses emblematic parallelism, stating the simile in the first part and the point in the second. The meaning of the simile is not entirely clear, but it does speak of beauty, value, and artistry. The “apples of gold” (possibly citrons, quinces, oranges, or apricots) may refer to carvings of fruit in gold on columns.",
+        "ja": "この節は象徴的なパラレリズムを用いており、前半で比喩を述べ、後半でその要点を述べている。比喩の意味は完全には明らかではないが、美、価値、そして芸術性について語っている。「金のりんご」（おそらくシトロン、マルメロ、オレンジ、またはアンズ）は、柱の上にある金で作られた果物の彫刻を指している可能性がある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “on its wheels.” This expression means “aptly, fittingly.” The point is obviously about the immense value and memorable beauty of words used skillfully (R. N. Whybray, Proverbs [CBC], 148). Noting the meaning of the term and the dual form of the word, W. McKane suggests that the expression is metaphorical for the balancing halves of a Hebrew parallel wisdom saying: “The stichos is a wheel, and the sentence consisting of two wheels is a ‘well-turned’ expression” (Proverbs [OTL], 584). The line then would be describing a balanced, well-turned saying, a proverb; it is skillfully constructed, beautifully written, and of lasting value.",
+        "ja": "ヘブル語では「その車輪の上に」。この表現は「適切に、ふさわしく」を意味する。要点は、巧みに用いられた言葉の計り知れない価値と記憶に残る美しさについてである（R. N. Whybray, Proverbs [CBC], 148）。W. McKaneはその語の意味と双数形の形式に注目し、この表現がヘブル語の並行する知恵の格言のバランスの取れた半分を指す比喩であると示唆している。「詩句（スティコス）は車輪であり、2つの車輪からなる文章は『巧みに作られた（well-turned）』表現である」（Proverbs [OTL], 584）。その場合、この行は、バランスが取れ、巧みに言い表された格言、すなわちプロフェン（箴言）を描写していることになる。それは巧みに構築され、美しく書かれ、永続的な価値を持つものである。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  This saying is another example of emblematic parallelism; the first half is the simile, and the second half makes the point from it: A wise rebuke that is properly received is of lasting value. The rebuke in the ear of an obedient student is like ornaments of fine jewelry.",
+        "ja": "この格言は象徴的なパラレリズムのもう一つの例である。前半は比喩であり、後半はその比喩から要点を引き出している。適切に受け入れられた知恵ある叱責は永続的な価値を持つということである。従順な生徒の耳にある叱責は、上質な宝石の装飾品のようである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The “ear of the listener” refers to the obedient disciple, the one who complies with the reproof he hears. Cf. KJV, ASV, NAB “an obedient ear.”",
+        "ja": "「聞き手の耳」とは、従順な弟子、すなわち自分が聞いた叱責に従う者を指す。KJV, ASV, NABの「従順な耳（an obedient ear）」を参照。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[解説]  The emblem in the parallelism of this verse is the simile of the first line. Because snow at the time of harvest would be rare, and probably unwelcome, various commentators have sought to explain this expression. R. N. Whybray suggests it may refer to snow brought down from the mountains and kept cool in an ice hole (Proverbs [CBC], 148); this seems rather forced. J. H. Greenstone following Rashi, a Jewish scholar who lived a.d. 1040-1105, suggests it might refer to the refreshing breeze that comes from snow-capped mountains (Proverbs, 260). C. H. Toy suggests a snow-cooled drink (Proverbs [ICC], 464), and W. McKane an application of ice water to the forehead (Proverbs [OTL], 585). Some English versions replace “snow” with “water” (cf. TEV “cold water”; CEV “cool water”). These all attempt to explain the simile; but the point is clear enough, a faithful servant is refreshing to his master. The analogy could be hypothetical – as refreshing as the coolness of snow would be in harvest time.",
+        "ja": "この節のパラレリズムにおける象徴は、第一行目の比喩である。刈り入れの時の雪は稀であり、おそらく歓迎されないものであるため、さまざまな注解者たちがこの表現を説明しようと試みてきた。R. N. Whybrayは、山から下ろされて氷の穴で冷たく保たれた雪を指しているのではないかと示唆しているが（Proverbs [CBC], 148）、これはかなりこじつけのようである。西暦1040年から1105年に生きたユダヤ人学者ラシに従うJ. H. Greenstoneは、雪をかぶった山々から吹いてくる爽やかなそよ風を指しているのかもしれないと示唆している（Proverbs, 260）。C. H. Toyは雪で冷やした飲み物を提案し（Proverbs [ICC], 464）、W. McKaneは額に氷水を当てることではないかと提案している（Proverbs [OTL], 585）。一部の英語訳では「雪」を「水」に置き換えている（TEVの「冷たい水」、CEVの「涼しい水」などを参照）。これらはすべて比喩を説明しようとする試みであるが、要点は十分に明確である。忠実な僕（しもべ）はその主人にとって心地よい存在であるということだ。この類推は仮のものである可能性もある――刈り入れ時に雪の冷たさが心地よいのと同じように、ということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he restores the life [or, soul] of his masters.” The idea suggests that someone who sends the messenger either entrusts his life to him or relies on the messenger to resolve some concern. A faithful messenger restores his master’s spirit and so is “refreshing.”",
+        "ja": "ヘブル語では「彼は自分の主人たちの命［あるいは、魂］を回復させる」。この表現は、使者を遣わす者が自分の命を使者に委ねているか、あるいは何らかの懸念を解決することを使者に頼っていることを示唆している。忠実な使者は主人の精神を回復させ、それゆえに「心地よい（refreshing）」のである。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  The emblem now is one of clouds and winds that would be expected to produce rain; they gain attention and raise people’s expectations but prove to be disappointing when no rain is forthcoming, and hence could be thought of as deceitful.",
+        "ja": "現在の象徴は、雨を降らせることが期待される雲と風のものである。それらは人々の注目を集め、期待を高めるが、雨が降らない時には期待を裏切るものであることが判明するため、偽りのものとみなすことができる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The form מִתְהַלֵּל (mithallel) is the Hitpael participle of the well-known word for “praise”; but in this stem it means “to praise oneself” or “to boast.” The description of “windbag” seems appropriate in this context.",
+        "ja": "מִתְהַלֵּל (mithallel) という形は、「賛美する」というよく知られた言葉のヒットパエル態（再帰・強意）の分詞である。しかしこの語幹において、それは「自分を賛美する」あるいは「誇る」を意味する。「大言壮語する者（windbag）」という描写はこの文脈において適切であるように思われる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “a gift of falsehood.” This would mean that the individual brags about giving a gift, when there is no gift.",
+        "ja": "ヘブル語では「偽りの贈り物」。これは、贈り物など存在しないのに、自分が贈り物を与えたと個人が大言壮語して自慢することを意味する。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “long of anger” or “forbearance” (so NASB).",
+        "ja": "ヘブル語では「怒りにおいて長い」あるいは「寛容（forbearance）」（NASB等による）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The two imperfect verbs in this line may be nuanced as potential imperfects because what is described could happen, but does not do so as a rule.",
+        "ja": "この行の2つの未完了動詞は、描写されていることが起こり得はするものの、原則として常にそうなるわけではないため、潜在的な未完了としてニュアンスを汲み取ることができる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The “tongue” is a metonymy of cause; and so the expression here refers to soft or gentle speech. This fits well with the parallel idea of patience (“long of anger”) – through a calm patient persuasion much can be accomplished. Some English versions relate this figure directly to the persuasion of a ruler in the previous line (cf. TEV “can even convince rulers”).",
+        "ja": "「舌」は原因の換喩であり、したがってここでの表現は柔らかい、あるいは優しい言葉を指している。これは、「怒りにおいて長い（忍耐）」という並行する概念によく適合している。穏やかな忍耐強い説得を通して、多くのことを成し遂げることができる。一部の英語訳は、この比喩を前の行の支配者の説得に直接結びつけている（TEVの「支配者でさえ説得することができる（can even convince rulers）」を参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The idea of breaking a bone uses the hardest and most firm part of the body in contrast to the “softness of the tongue.” Both are figurative, forming a comparison. A gentle speech can break down any stiff opposition.",
+        "ja": "骨を砕くという概念は、「舌の柔らかさ」とは対照的に、身体の中で最も硬くしっかりした部分を用いて比喩的に表現している。どちらも比喩的であり、比較を形作っている。優しい言葉は、いかなる頑なな反対をも打ち砕くことができる。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verse simply begins “you have found honey.” Some turn this into an interrogative clause for the condition laid down (cf. KJV, ASV, NASB, NLT); most make the form in some way subordinate to the following instruction: “when you find…eat.”",
+        "ja": "この節は単に「あなたは蜂蜜を見つけた」と始まっている。これを条件を定めた疑問文に変える者もいれば（KJV, ASV, NASB, NLTを参照）、ほとんどの翻訳では、その形式を次の指示に従属させている。「見つけたときには…食べよ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb means “to be satisfied; to be sated; to be filled.” Here it means more than satisfied, since it describes one who overindulges and becomes sick. The English verb “stuffed” conveys this idea well.",
+        "ja": "この動詞は「満ち足りる、飽かされる、満たされる」を意味する。ここでは単に満足している以上の意味があり、過剰に摂取して気分が悪くなった状態を描写している。英語の動詞「stuffed（詰め込まれた、食べ過ぎた）」はこの概念をよく伝えている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The proverb warns that anything overindulged in can become sickening. The verse uses formal parallelism to express first the condition and then its consequences. It teaches that moderation is wise in the pleasures of life.",
+        "ja": "この箴言は、何であれ過剰に耽溺すると気分が悪くなるほど有害になり得ることを警告している。この節は形式的なパラレリズムを用いて、最初に条件を表現し、次にその結果を表現している。それは人生の喜びにおいて節度が賢明であると教えている。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “make your foot rare.” The verb is הֹקַר (hoqar), the Hiphil imperative of יָקַר (yaqar, “to be rare; to be precious”). To “make one’s foot rare” would mean to keep the visits to a minimum as well as making them valuable – things increase in value, according to the nuances of this word, when they are rare.",
+        "ja": "ヘブル語では「あなたの足を稀にせよ」。この動詞は הֹקַר (hoqar) であり、יָקַר (yaqar, 「稀である、貴重である」) のヒフィル態命令形である。足を「稀にする」とは、訪問を最小限に抑えるとともに、それらを貴重なものにすることを意味する。この言葉のニュアンスによれば、物事は稀であるときに価値が増すのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gets full.” This verb means “to be sated; to be satisfied; to be filled.” It is often used with reference to food, but here it refers to frequent visits that wear out one’s welcome (cf. NLT).",
+        "ja": "ヘブル語では「満たされる」。この動詞は「飽かされる、満足する、満たされる」を意味する。食べ物に関してよく使われるが、ここでは歓迎されなくなるほど頻繁な訪問を指している（NLTを参照）。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[解説]  The first line identifies the emblem of the proverb: False witnesses are here compared to deadly weapons because they can cause the death of innocent people (e.g., Exod 20:16; Deut 5:20; and Prov 14:5).",
+        "ja": "最初の行は箴言の象徴を特定している。偽りの証人たちは、罪のない人々の死をもたらす可能性があるため、ここでは致命的な武器にたとえられている（例：出エジプト記 20:16、申命記 5:20、箴言 14:5）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb עָנָה (’anah) followed by the preposition בְּ (bet) with its object means “to testify against” (answer against someone). With the preposition לְ (lamed) it would mean “to testify for” someone. Here the false witness is an adversary, hence the comparison with deadly weapons.",
+        "ja": "動詞 עָנָה (’anah) の後に前置詞 בְּ (bet) とその目的語が続く場合、「〜に対して証言する（誰かに対して答える）」を意味する。前置詞 לְ (lamed) が伴う場合は、誰かのために「証言する」を意味する。ここでの偽りの証人は敵対者であり、したがって致命的な武器と比較されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  While עֵד (’ed) could be interpreted as “evidence” (a meaning that came from a metonymy – what the witness gives in court), its normal meaning is “witness.” Here it would function as an adverbial accusative, specifying how he would answer in court.",
+        "ja": "עֵד (’ed) は「証拠」（法廷で証人が提出するものという換喩から生じた意味）として解釈することもできるが、その通常の意味は「証人」である。ここでは副詞的な対格として機能し、彼が法廷でどのように答えるかを指定している。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  The similes in this emblematic parallelism focus on things that are incapable of performing certain activities – they are either too painful to use or are ineffective.",
+        "ja": "この象徴的なパラレリズムにおける比喩は、特定の活動を行うことができないもの、すなわち使用するには痛すぎるか、効果がないもののいずれかに焦点を当てている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Since there is no preposition to clarify the construction, there are two ways to take the term מִבְטָח (mivtakh, “confidence”) in the context. It can either refer (1) to reliance on an unfaithful person, or it can refer (2) to that on which the unfaithful person relies. C. H. Toy argues for the second, that what the faithless person relies on will fail him in the time of trouble (Proverbs [ICC], 466). This view requires a slight change in the MT to make “confidence” a construct noun (i.e., the confidence of the faithless); the first view, which fits better the MT as it stands, says that “confidence [in] a faithless person” is like relying on a decaying tooth or a lame foot. This is the view preferred in most English versions, including the present one.",
+        "ja": "構造を明確にする前置詞がないため、文脈における מִבְטָח (mivtakh, 「信頼」) という用語の捉え方には2つの方法がある。(1) 不信実な者への信頼を指すか、あるいは (2) 不信実な者が信頼している対象を指すかである。C. H. Toyは2つ目の見解を主張し、信仰のない者が信頼しているものは、困難の時に彼を裏切ることになると論じている（Proverbs [ICC], 466）。この見解は、「信頼」を連辞名詞（すなわち、不信実な者の信頼）にするためにMT（マソラ本文）にわずかな変更を加える必要がある。現状のMTによれば、よりよく適合する1つ目の見解は、「不信実な者[への]信頼」は、朽ち果てた歯や足の不自由な足に頼るようなものであるとするものである。これが、本訳を含むほとんどの英語訳で好まれている見解である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in the day of trouble”; KJV, NASB “in time of trouble.”",
+        "ja": "ヘブル語では「苦難の日に」；KJV, NASBでは「苦難の時に（in time of trouble）」。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The consonants of the Hebrew text of this verse are similar to the consonants in v. 19. The LXX has a much longer reading: “Like vinegar is bad for a wound, so a pain that afflicts the body afflicts the heart. Like a moth in a garment, and a worm in wood, so the pain of a man wounds the heart” (NRSV follows much of the LXX reading; NAB follows only the second sentence of the LXX reading). The idea that v. 20 is a dittogram is not very convincing; and the Greek version is too far removed to be of help in the matter.",
+        "ja": "この節のヘブル語テキストの子音は、第19節の子音に類似している。LXX（七十人訳）には、はるかに長い読み方がある。「傷にとって悪い酢のように、体に苦しみをもたらす痛みは心を苦しめる。衣の中の蛾や木の中の虫のように、人の痛みは心を傷つける」（NRSVはこのLXXの読み方の多くに従っており、NABはLXXの読み方の後半の文のみに従っている）。第20節が畳語（ディットグラフィー）であるという考えはあまり説得力がなく、ギリシャ語訳はこの問題において助けとなるにはあまりにもかけ離れている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The second simile mentions pouring vinegar on soda. The LXX has “scab,” but that does not fit as a sensitive thing. The reference is to sodium carbonate (natural in Egypt) which can be neutralized with vinegar.",
+        "ja": "2つ目の比喩では、炭酸塩に酢を注ぐことが言及されている。LXXは「かさぶた（scab）」としているが、それは敏感なものには適合しない。言及されているのは炭酸ナトリウム（エジプトでは自然に産出される）であり、これは酢で中和することができる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  It is inappropriate and counterproductive to sing songs to a heavy heart. One needs to be sensitive to others (e.g., 1 Sam 19:9).",
+        "ja": "重い心に歌を歌うことは不適切であり、逆効果である。他者に対して敏感である必要がある（例：サムエル記上 19:9）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  The imagery of the “burning coals” represents pangs of conscience, more readily effected by kindness than by violence. These coals produce the sharp pain of contrition through regret (e.g., 18:19; 20:22; 24:17; Gen 42-45; 1 Sam 24:18-20; Rom 12:20). The coals then would be an implied comparison with a searing conscience.",
+        "ja": "「燃え盛る炭」という比喩は良心の痛みを表しており、暴力によってよりも親切によって容易にもたらされる。これらの炭は、後悔を通じて鋭い痛切な痛みを生じさせる（例：18:19; 20:22; 24:17; 創世記 42-45; サムエル記上 24:18-20; ローマ書 12:20）。したがって、この炭は、焼き焦がされるような良心との暗黙の比較となる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The second consequence of treating enemies with kindness is that the Lord will reward the act. The fact that this is promised shows that the instruction here belongs to the religious traditions of Israel.",
+        "ja": "敵に親切に接することの2番目の結果は、主がその行為に報いてくださるということである。これが約束されているという事実は、ここでの指示がイスラエルの宗教的伝統に属していることを示している。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  One difficulty here is that it is the west wind that brings rain to Israel (e.g., 1 Kgs 18:41-44). C. H. Toy suggests that the expression is general, referring to a northwest wind – unless it is an error (Proverbs [ICC], 468). J. P. M. van der Ploeg suggests that the saying originated outside the land, perhaps in Egypt (“Prov 25:23,” VT 3 [1953]: 189-92). But this would imply it was current in a place where it made no sense. R. N. Whybray suggests that the solution lies with the verb “brings forth” (תְּחוֹלֵל, tÿkholel); he suggests redefining it to mean “repels, holds back” (cf. KJV “driveth away”). Thus, the point would be that the north wind holds back the rain just as an angry look holds back slander (Proverbs [CBC], 149). But the support for this definition is not convincing. Seeing this as a general reference to northerly winds is the preferred solution.",
+        "ja": "ここでの一つの難しさは、イスラエルに雨をもたらすのは西風であるという点である（例：列王記上 18:41-44）。C. H. Toyは、これがエラーでない限り、北西風を指す一般的な表現であると示唆している（Proverbs [ICC], 468）。J. P. M. van der Ploegは、この格言が地内ではなく、おそらくエジプトなどの国外で生まれたのではないかと示唆している（“Prov 25:23,” VT 3 [1953]: 189-92）。しかし、これはそれが何の意味もなさない場所で通用していたことを意味することになる。R. N. Whybrayは、その解決策は動詞「もたらす（תְּחוֹלֵל, tÿkholel）」にあると示唆しており、それを「撃退する、押し留める」という意味に再定義することを提案している（KJVの「追い払う（driveth away）」を参照）。したがって、要点は、北風が雨を押し留めるのとちょうど同じように、怒った顔立ちが中傷を押し留めるということである（Proverbs [CBC], 149）。しかし、この定義を裏付ける証拠は納得のいくものではない。これを北風全般への一般的な言及とみなすことが好ましい解決策である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a tongue of secret” or “a hidden tongue,” referring to someone who goes around whispering about people behind their backs (cf. KJV, NAB, NASB, NRSV “a backbiting tongue”).",
+        "ja": "ヘブル語では「秘密の舌」あるいは「隠された舌」であり、人々の背後でひそひそと噂話をして回る者を指している（KJV, NAB, NASB, NRSVの「陰口を叩く舌（a backbiting tongue）」を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The phrase “brings forth” does not appear in Hebrew in this line but is implied by the parallelism with the previous line; it is supplied here in the translation for clarity.",
+        "ja": "「もたらす」という句はこの行のヘブル語には現れないが、前の行とのパラレリズムによって暗示されており、明瞭さを期すためにここで翻訳に補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The verse implies a comparison between the two parts to make the point that certain things automatically bring certain results. Gossiping words will infuriate people as easily as the northerly winds bring the cold rain.",
+        "ja": "この節は、特定の事柄が自動的に特定の結果をもたらすという要点を明確にするために、2つの部分の間の比較を暗示している。ゴシップの言葉は、北風が冷たい雨を連れてくるのと同じくらい簡単に人々を激怒させるのである。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This proverb is identical with 21:9; see the notes there.",
+        "ja": "この箴言は21章9節と同一である。そこの注記を参照せよ。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a weary [or, faint] soul” (so NASB, NIV); KJV, ASV, NRSV “a thirsty soul,” but “soul” here refers to the whole person.",
+        "ja": "ヘブル語では「疲れ果てた［あるいは、気絶した］魂」（NASB, NIV同様）；KJV, ASV, NRSVでは「渇いた魂」、しかしここでの「魂」は人間全体を指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The difficulty of getting news of any kind from a distant land made its reception all the more delightful when it was good (e.g., Gen 45:27; Prov 15:30).",
+        "ja": "遠い国からどのようなものであれ知らせを受け取ることの難しさは、それが良い知らせであったとき、その受け入れをいいっそう喜ばしいものにした（例：創世記 45:27、箴言 15:30）。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Niphal participle is from רָפַס (rafas), which means “to stamp; to tread; to foul by treading [or, by stamping].” BDB 952 s.v. defines it here as a “fountain befouled.” The picture is one of a spring of water where men and beasts gather and muddy it by their trampling in and out of it.",
+        "ja": "ニフエル態（受動・再帰）の分詞は רָפַס (rafas) に由来し、「踏みつける、足踏みする、［足踏みによって／踏みつけることによって］濁らせる」を意味する。BDB 952頁では、これをここでは「汚された泉」と定義している。その情景は、人間や獣が集まり、出入りしながら踏みつけることによって水を泥だらけにする水の泉のものである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hophal participle from שָׁחַת (shakhat, “to ruin; to destroy; to corrupt”) provides a general description – the well has been “ruined” or “corrupted” (so ASV) and is therefore unusable.",
+        "ja": "שָׁחַת (shakhat, 「台無しにする、破壊する、腐敗させる」) に由来するホフエル態（使役受動）の分詞は、一般的な描写を提供している。その井戸は「台無しにされた」あるいは「汚染された」（ASV同様）ため、使用不可能になっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb מָט (mat) means “to give way; to move.” This probably refers to the integrity of the righteous being lost – comparing it to moving [off course]. T. T. Perowne writes, “To see a righteous man moved from his steadfastness through fear or favour in the presence of the wicked is as disheartening as to find the stream turbid and defiled at which you were longing to quench your thirst” (Proverbs, 161). But the line may refer to the loss of social standing and position by the righteous due to the plots of the wicked – just as someone muddied the water, someone made the righteous slip from his place.",
+        "ja": "動詞 מָט (mat) は「道を譲る、動く」を意味する。これはおそらく、正しい者の誠実さが失われることを指しており、［コースから］外れることになぞらえている。T. T. Perowneは次のように書いている。「悪しき者の面前で、恐れや引き立てによって正しい者がその揺るぎなさから動かされるのを見るのは、自分の渇きを癒したいと切望していた流れが濁り、汚されているのを見出すのと同じくらい気を落とさせることである」（Proverbs, 161）。しかしこの行は、悪しき者たちの陰謀のために正しい者が社会的地位や立場を失うことを指しているのかもしれない。誰かが水を濁らせたように、誰かが正しい者をその場所から滑り落ちさせたのである。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  This is a figure of speech known as tapeinosis – a deliberate understatement to emphasize a worst-case scenario: “it is bad!”",
+        "ja": "これはタペイノシス（tapeinosis）として知られる修辞技法であり、最悪のシナリオを強調するための意図的な過小表現である。「それはひどいことだ！」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and the investigation of their glory is not glory.” This line is difficult to understand but it forms an analogy to honey – glory, like honey, is good, but not to excess. The LXX rendered this, “it is proper to honor notable sayings.” A. A. MacIntosh suggests, “He who searches for glory will be distressed” (“A Note on Prov 25:27,” VT 20 [1970]: 112-14). G. E. Bryce has “to search out difficult things is glorious” (“Another Wisdom ‘Book’ in Proverbs,” JBL 91 (1972): 145-47). R. C. Van Leeuwen suggests, “to seek difficult things is as glory” (“Proverbs 25:27 Once Again,” VT 36 [1986]: 105-14). The Hebrew is cryptic, but not unintelligible: “seeking their glory [is not] glory.” It is saying that seeking one’s own glory is dishonorable.",
+        "ja": "ヘブル語では「そして彼らの栄光の探究は栄光ではない」。この行は理解するのが難しいが、蜂蜜への類推を形作っている。栄光は蜂蜜のように良いものであるが、過剰であってはならない。LXXはこれを「有名な言葉を称えるのはふさわしい」と訳した。A. A. MacIntoshは「栄光を求める者は苦悩するであろう」と示唆している（“A Note on Prov 25:27,” VT 20 [1970]: 112-14）。G. E. Bryceは「難しい事を究めることは栄光である」とし（“Another Wisdom ‘Book’ in Proverbs,” JBL 91 (1972): 145-47）、R. C. Van Leeuwenは「難しい事を求めることは栄光のようである」と示唆している（“Proverbs 25:27 Once Again,” VT 36 [1986]: 105-14）。ヘブル語は難解ではあるが、理解不能ではない。「自分たちの栄光を求めること[は]栄光[ではない]」。それは、自分自身の栄光を求めることは不名誉であると述べているのである。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “whose spirit lacks restraint” (ASV similar). A person whose spirit (רוּחַ, ruakh) “lacks restraint” is one who is given to outbursts of passion, who lacks self-control (cf. NIV, NRSV, CEV, NLT). This person has no natural defenses but reveals his true nature all the time. The proverb is stating that without self-control a person is vulnerable, like a city without defenses.",
+        "ja": "ヘブル語では「その精神が自制を欠いている者」（ASVも同様）。精神（רוּחַ, ruakh）に「自制がない」人とは、情動の爆発を起こしやすい人、自己制御を欠いている人である（NIV, NRSV, CEV, NLTを参照）。この人は自然な防御を持たず、常に自分の本性を露呈している。この箴言は、自制心がなければ人は防備のない町のように脆弱であると述べている。"
+      }
+    ]
+  }
+}

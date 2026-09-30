@@ -1,0 +1,629 @@
+{
+  "book": "Proverbs",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The one who loves discipline loves knowledge, but the one who hates reproof is stupid.",
+      "ja": "訓育を愛する者は知識を愛し、戒めを憎む者は愚かである。"
+    },
+    {
+      "verse": 2,
+      "en": "A good person obtains favor from the Lord, but the Lord condemns a person with wicked schemes. ",
+      "ja": "善人は主から恵みを得るが、主は悪しき計略を巡らす者を罪に定める。"
+    },
+    {
+      "verse": 3,
+      "en": "No one can be established through wickedness, but a righteous root cannot be moved. ",
+      "ja": "人は悪によって堅く立つことはできないが、正しい者の根は動かされることがない。"
+    },
+    {
+      "verse": 4,
+      "en": "A noble wife is the crown of her husband, but the wife who acts shamefully is like rottenness in his bones. ",
+      "ja": "優れた妻はその夫の冠であるが、恥ずべき振る舞いをする妻は夫の骨を朽ちさせる。"
+    },
+    {
+      "verse": 5,
+      "en": "The plans of the righteous are just; the counsels of the wicked are deceitful. ",
+      "ja": "正しい者の計画は正しく、悪しき者の助言は欺きに満ちている。"
+    },
+    {
+      "verse": 6,
+      "en": "The words of the wicked lie in wait to shed innocent blood, but the words of the upright will deliver them.",
+      "ja": "悪しき者の言葉は無実の人の血を流そうと待ち伏せするが、正しい者の言葉は彼らを救い出す。"
+    },
+    {
+      "verse": 7,
+      "en": "The wicked are overthrown and perish, but the righteous household will stand. ",
+      "ja": "悪しき者は倒されて滅び去るが、正しい者の家系は存続する。"
+    },
+    {
+      "verse": 8,
+      "en": "A person will be praised in accordance with his wisdom, but the one with a bewildered mind will be despised. ",
+      "ja": "人はその知恵に応じて称賛されるが、ねじれた心の持ち主は蔑まれる。"
+    },
+    {
+      "verse": 9,
+      "en": "Better is a person of humble standing who works for himself, than one who pretends to be somebody important yet has no food. ",
+      "ja": "身分の低い者が自分の手で働いて仕えるのは、自分を大きく見せながらも食べる物がない者よりもまさっている。"
+    },
+    {
+      "verse": 10,
+      "en": "A righteous person cares for the life of his animal, but even the most compassionate acts of the wicked are cruel. ",
+      "ja": "正しい者は自分の家畜の命を気遣うが、悪しき者の最も慈悲深い行為でさえ残酷である。"
+    },
+    {
+      "verse": 11,
+      "en": "The one who works his field will have plenty of food, but whoever chases daydreams lacks sense.",
+      "ja": "自分の畑を耕す者は食物に満ち足りるが、空虚な夢を追い求める者は知恵がない。"
+    },
+    {
+      "verse": 12,
+      "en": "The wicked person has desired the stronghold of the wicked, but the root of the righteous will yield fruit.",
+      "ja": "悪しき者は悪人の砦を慕うが、正しい者の根は実を結び続ける。"
+    },
+    {
+      "verse": 13,
+      "en": "The evil person is ensnared by the transgression of his speech, but the righteous person escapes out of trouble. ",
+      "ja": "悪人はその言葉の過ちによって罠にかかるが、正しい者は災いから逃れ出る。"
+    },
+    {
+      "verse": 14,
+      "en": "A person will be satisfied with good from the fruit of his words, and the work of his hands will be rendered to him.",
+      "ja": "人は自分の言葉の結実によって良いもので満たされ、その手の働きがそのまま自分に報いられる。"
+    },
+    {
+      "verse": 15,
+      "en": "The way of a fool is right in his own opinion, but the one who listens to advice is wise. ",
+      "ja": "愚か者は自分の歩みが自分の目に正しいと信じ込むが、助言に聞き従う者は知恵がある。"
+    },
+    {
+      "verse": 16,
+      "en": "A fool’s annoyance is known at once, but the prudent conceals dishonor.",
+      "ja": "愚か者のいら立ちはすぐに表に出るが、思慮深い者は侮辱を隠し通す。"
+    },
+    {
+      "verse": 17,
+      "en": "The faithful witness tells what is right, but a false witness speaks deceit. ",
+      "ja": "誠実な証人は真実を語り、偽りの証人は欺きを語る。"
+    },
+    {
+      "verse": 18,
+      "en": "Speaking recklessly is like the thrusts of a sword, but the words of the wise bring healing. ",
+      "ja": "無謀な言葉は剣で突き刺すようだが、知恵ある者の言葉は癒しをもたらす。"
+    },
+    {
+      "verse": 19,
+      "en": "The one who tells the truth will endure forever, but the one who lies will last only for a moment. ",
+      "ja": "真実を語る者は永遠に保ち続けられるが、嘘をつく者はわずか一瞬しか続かない。"
+    },
+    {
+      "verse": 20,
+      "en": "Deceit is in the heart of those who plot evil, but those who promote peace have joy. ",
+      "ja": "悪を企む者の心には欺きがあるが、平安をもたらす者たちには喜びがある。"
+    },
+    {
+      "verse": 21,
+      "en": "No harm will be directed at the righteous, but the wicked are filled with calamity. ",
+      "ja": "正しい者にはいかなる害も及ばず、悪しき者は災いで満たされる。"
+    },
+    {
+      "verse": 22,
+      "en": "The Lord abhors a person who lies, but those who deal truthfully are his delight. ",
+      "ja": "主は偽りを言う者を憎み、真実をもって行動する者を喜びとされる。"
+    },
+    {
+      "verse": 23,
+      "en": "The shrewd person conceals knowledge, but foolish people proclaim folly. ",
+      "ja": "思慮深い者は知識を隠し、愚かな者たちは自らの愚かさを触れ回る。"
+    },
+    {
+      "verse": 24,
+      "en": "The diligent person will rule, but the slothful will be put to forced labor.",
+      "ja": "勤勉な者は治める者となるが、怠惰な者は強制労働に服することになる。"
+    },
+    {
+      "verse": 25,
+      "en": "Anxiety in a person’s heart weighs him down, but an encouraging word brings him joy. ",
+      "ja": "人の心にある不安はその人を重く沈ませるが、励ましの言葉はその人に喜びをもたらす。"
+    },
+    {
+      "verse": 26,
+      "en": "The righteous person is cautious in his friendship, but the way of the wicked leads them astray. ",
+      "ja": "正しい者はその交わりにおいて慎重であるが、悪しき者の歩みは彼らを迷わせる。"
+    },
+    {
+      "verse": 27,
+      "en": "The lazy person does not roast his prey, but personal possessions are precious to the diligent. ",
+      "ja": "怠惰な者は獲物を焼くこともしないが、勤勉な人は所有物を大切にする。"
+    },
+    {
+      "verse": 28,
+      "en": "In the path of righteousness there is life, but another path leads to death. ",
+      "ja": "義の道には命があるが、もう一つの道は死に至る。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  Those who wish to improve themselves must learn to accept correction; the fool hates/rejects any correction.",
+        "ja": "[解説] 自己を向上させたいと願う者は修正を受け入れることを学ばなければならない。一方、愚か者はあらゆる修正を憎み、退ける。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word בָּעַר (ba’ar, “brutish; stupid”) normally describes dumb animals that lack intellectual sense. Here, it describes the moral fool who is not willing to learn from correction. He is like a dumb animal (so the term here functions as a hypocatastasis: implied comparison).",
+        "ja": "[解説] 聖書ヘブライ語のבָּעַר (バアル、「獣のような、愚かな」)という言葉は通常、知性的な分別を持たない愚鈍な動物を描写するために用いられる。ここでは、矯正から学ぼうとしない道徳的な愚か者を表現している。彼は物言わぬ獣のようである（したがって、この表現はヒポカタスタシス［暗黙の比喩］として機能している）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “but he condemns”; the referent (the Lord) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文ヘブライ語では「しかし彼は罪に定める」となっている。明確さを期すため、翻訳ではその指示対象（主）を明示した。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a man of wicked plans.” The noun מְזִמּוֹת (mÿzimmot, “evil plans”) functions as an attributive genitive: “an evil-scheming man.” Cf. NASB “a man who devises evil”; NAB “the schemer.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「悪しき計画の人」となっている。名詞מְזִמּוֹת (メジムモット、「悪しき計画」)は限定の属格として働き、「悪を企む人」の意味になる。新アメリカ標準訳（NASB）の「悪を考案する人」、新米国聖書（NAB）の「陰謀家」などを参照。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man cannot be.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「人は…できない」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Niphal imperfect of כּוּן (cun, “to be established”) refers to finding permanent “security” (so NRSV, TEV, CEV) before God. Only righteousness can do that.",
+        "ja": "[翻訳注] כּוּן (クーン、「堅く立たせられる」) のニファル態未完了形は、神の御前における永続的な「安全」（NRSV、TEV、CEVを参照）を得ることを指す。義のみがそれをなし得る。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “a root of righteousness.” The genitive צַדִּיקִים (tsadiqim, “righteousness”) functions as an attributive adjective. The figure “root” (שֹׁרֶשׁ, shoresh) stresses the security of the righteous; they are firmly planted and cannot be uprooted (cf. NLT “the godly have deep roots”). The righteous are often compared to a tree (e.g., 11:30; Ps 1:3; 92:13).",
+        "ja": "[翻訳注] 原文ヘブライ語では「義の根」となっている。属格であるצַדִּיקִים (ツァディキム、「義」)は限定形容詞として機能している。「根」（שֹׁרֶשׁ、ショレシュ）という比喩は正しい者たちの安全を強調している。彼らはしっかりと植えられており、引き抜かれることはない（NLTの「神を畏れる者たちは深い根を持つ」を参照）。正しい者はしばしば木にたとえられる（例：11:30、詩篇1:3、92:13）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a wife of virtue”; NAB, NLT “a worthy wife.” This noble woman (אֵשֶׁת־חַיִל, ’shet-khayil) is the subject of . She is a “virtuous woman” (cf. KJV), a capable woman of noble character. She is contrasted with the woman who is disgraceful (מְבִישָׁה, mÿvishah; “one who causes shame”) or who lowers his standing in the community.",
+        "ja": "[翻訳注] 原文ヘブライ語では「徳のある妻」であり、NABやNLTでは「価値ある妻」と訳されている。この高潔な女性（אֵשֶׁת־חַיִל、エシェト・ハイイル）が本節の主語である。彼女は「徳の高い女性」（KJV参照）、気高い人格を持つ有能な女性である。彼女は、恥をもたらす女性（מְבִישָׁה、メヴィシャ；「恥を引き起こす者」）や、共同体における夫の地位を低下させる女性とは対比されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The metaphor of the “crown” emphasizes that such a wife is a symbol of honor and glory.",
+        "ja": "[解説] 「冠」という比喩は、そのような妻が名誉と栄光の象徴であることを強調している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “she”; the referent (the wife) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文ヘブライ語では代名詞の「彼女」となっているが、明確さを期すため翻訳では指示対象（妻）を明示した。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The simile means that the shameful acts of such a woman will eat away her husband’s strength and influence and destroy his happiness.",
+        "ja": "[解説] この比喩が意味するのは、そのような女性の恥ずべき行いが夫の強さと影響力をすり減らし、彼の幸福を破壊するということである。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “thoughts.” This term refers not just to random thoughts, however, but to what is planned or devised.",
+        "ja": "[翻訳注] 原文ヘブライ語では「思考」となっている。この言葉は単なる無作為な思いを指すのではなく、計画され、考案された事柄を指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The plans of good people are directed toward what is right. Advice from the wicked, however, is deceitful and can only lead to trouble.",
+        "ja": "[解説] 良い人々の計画は正しいことに向けられている。しかし、悪しき者の助言は欺きであり、災いをもたらすことしかできない。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The infinitive construct אֱרָב (’erav, “to lie in wait”) expresses the purpose of their conversations. The idea of “lying in wait for blood” is an implied comparison (hypocatastasis): Their words are like an ambush intended to destroy (cf. NAB, NRSV “are a deadly ambush”). The words of the wicked are here personified.",
+        "ja": "[翻訳注] 不定詞構文אֱרָב (エラヴ、「待ち伏せする」)は、彼らの会話の目的を表している。「血のために待ち伏せする」という表現は暗黙の比喩（ヒポカタスタシス）である。すなわち、彼らの言葉は破壊を意図した待ち伏せ攻撃のようなものである（NABやNRSVの「致命的な待ち伏せである」を参照）。悪しき者の言葉はここで擬人化されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for blood.” The term “blood” is a metonymy of effect, the cause being the person that they will attack and whose blood they will shed. After the construct “blood” is also an objective genitive.",
+        "ja": "[翻訳注] 原文ヘブライ語では「血のために」となっている。「血」という用語は結果の換喩であり、その原因とは彼らが攻撃し、その血を流すことになる人物である。連語関係にある「血」の後には目的格的属格も含まれている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “mouth.” The term פֶּה (peh, “mouth”) is a metonymy of cause, signifying what the righteous say. The righteous can make a skillful defense against false accusations that are intended to destroy. The righteous, who have gained wisdom, can escape the traps set by the words of the wicked.",
+        "ja": "[翻訳注] 原文ヘブライ語では「口」となっている。פֶּה (ペー、「口」)という用語は原因の換喩であり、正しい者たちが語る内容を意味している。正しい者は、破壊を意図した偽りの告発に対して巧みな弁護を行うことができる。知恵を得た正しい者は、悪しき者の言葉によって仕掛けられた罠から逃れることができる。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[解説]  This proverb is about the stability of the righteous in times of trouble. The term “overthrown” might allude to Gen 19:21.",
+        "ja": "[解説] この格言は、困難な時にあっての正しい者の安定性について述べている。「倒されて」という言葉は創世記19:21を暗示しているかもしれない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and they are not.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「そして彼らはいない」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the house of the righteous.” The genitive צַדִּיקִים (tsadiqim) functions as an attributive adjective: “righteous house.” The noun בֵּית (bet, “house”) functions as a synecdoche of container (= house) for the contents (= family, household; perhaps household possessions). Cf. NCV “a good person’s family”; NLT “the children of the godly.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「正しい者の家」となっている。属格のצַדִּיקִים (ツァディキム)は限定形容詞として機能し、「正しい家」という意味になる。名詞בֵּית (ベト、「家」)は、内容物（＝家族、世帯、あるいは家財道具）を表すための容器の提喩（シネドキー）として機能している。NCVの「善人の家族」、NLTの「神を畏れる者たちの子供たち」を参照。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「人」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to the mouth of.” This idiom means “according to” (BDB 805 s.v. פֶּה 6.b.(b); cf. KJV, NAB, NIV). The point is that praise is proportionate to wisdom.",
+        "ja": "[翻訳注] 原文ヘブライ語では「〜の口に対して」となっている。この慣用句は「〜に従って」を意味する（BDB 805 s.v. פֶּה 6.b.(b)；KJV, NAB, NIV参照）。要点は、称賛は知恵に比例するということである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “crooked of heart”; cf. NAB, NLT “a warped mind” (NIV similar). The noun לֵב (lev, “heart”) is an attributive genitive. It functions as a metonymy of association for “mind; thoughts” (BDB 524 s.v. 3) and “will; volition” (BDB 524 s.v. 4). He does not perceive things as they are, so he makes all the wrong choices. His thinking is all wrong.",
+        "ja": "[翻訳注] 原文ヘブライ語では「心の曲がった者」となっている。NAB、NLTの「ねじれた心」（NIVも同様）を参照。名詞לֵב (レブ、「心」)は限定的属格である。これは「心、思考」（BDB 524 s.v. 3）および「意志、意欲」（BDB 524 s.v. 4）を表す関連の換喩として機能している。彼は物事をあるがままに認識しないため、すべての誤った選択をしてしまう。彼の思考は完全に誤っている。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “one who is lightly regarded.” The verb קָלָה (qalah) means “to be lightly esteemed; to be dishonored; to be degraded” (BDB 885 s.v.).",
+        "ja": "[翻訳注] 原文ヘブライ語では「軽く見なされる者」となっている。動詞קָלָה (カラ、qalah)は「低く評価される、不名誉を受ける、貶められる」を意味する（BDB 885 s.v.）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The meaning of the phrase וְעֶבֶד לוֹ (vÿ’eved lo) is ambiguous; the preposition is either possessive (“has a servant”) or a reflexive indirect object (“is a servant for himself”; cf. NAB, TEV). Several versions (LXX, Vulgate, Syriac) read “and yet has a servant.”",
+        "ja": "[翻訳注] וְעֶבֶד לוֹ (ヴェエヴェド・ロ)という句の意味は曖昧である。前置詞は所有（「奴隷／使用人を持つ」）を表すか、あるいは再帰的な間接目的語（「自分自身の召使である」、NAB、TEV参照）を表す。いくつかの訳本（七十訳、ウルガタ訳、シリア語訳）は「それにもかかわらず召使を持っている」と読んでいる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “who feigns importance.” The term מְתַכַּבֵּד (mÿtakkabed, from כָּבֵד, caved, “to be weighty; to be honored; to be important”) is an example of the so-called “Hollywood” Hitpael which describes a person putting on an act (BDB 458 s.v. כָּבֵד Hitp.2).[解説]  This individual lives beyond his financial means in a vain show to impress other people and thus cannot afford to put food on the table.",
+        "ja": "[翻訳注] 原文ヘブライ語では「重要であると装う者」となっている。用語מְתַכַּבֵּד (メタカベド、כָּבֵד [カヴェド、「重い、尊い、重要である」]に由来)は、人が演技をしている様子を描写するいわゆる「ハリウッド」ヒトパエル態の例である（BDB 458 s.v. כָּבֵד Hitp.2）。[解説] この個人は他の人々に印象を与えるという虚栄心のために、自分の財政能力を超えた生活を送っており、その結果食卓に食べ物を並べる余裕がない。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “knows”; NLT “concerned for the welfare of.” The righteous take care of animals, not just people.",
+        "ja": "[翻訳注] 原文ヘブライ語では「知っている」となっている。NLTの「動物の福祉を気遣う」を参照。正しい者は人間だけでなく、動物の世話もする。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “but the mercies.” The additional words appear in the translation for the sake of clarification. The line can be interpreted in two ways: (1) when the wicked exhibit a kind act, they do it in a cruel way, or (2) even the kindest of their acts is cruel by all assessments, e.g., stuffing animals with food to fatten them for market – their “kindness” is driven by ulterior motives (J. H. Greenstone, Proverbs, 129).",
+        "ja": "[翻訳注] 原文ヘブライ語では「しかしあわれみは」となっている。説明を分かりやすくするために追加の語句が翻訳に補われている。この行は二つの方法で解釈できる。(1)悪しき者が親切な行為を示すとき、彼らはそれを残酷な方法で行う。あるいは、(2)彼らの行為のうち最も親切なものでさえ、あらゆる評価において残酷である。例えば、市場で太らせるために動物に無理やりエサを詰め込むことなどであり、彼らの「親切」は裏の動機に駆り立てられている（J.H. Greenstone, Proverbs, 129）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[解説]  In the biblical period agriculture was the most common occupation for the people; so “working a field” describes a substantial occupation, but also represents working in general. Diligent work, not get-rich-quick schemes, is the key to ensuring income.",
+        "ja": "[解説] 聖書時代の農業は人々にとって最も一般的な職業であった。したがって「畑を耕すこと」は主たる生業を描写しているだけでなく、労働一般を代表している。一攫千金のエセ計画ではなく、勤勉な労働こそが収入を確保するための鍵である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “will have his fill of” or “will be satisfied with.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「〜で満ち足りるだろう」または「〜で満足するだろう」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “empty things” or “vain things.” The term רֵיקִים (reqim) refers to worthless pursuits in an effort to make money. The fact that the participle used is “chase after” shows how elusive these are. Cf. NIV “fantasies”; NCV “empty dreams”; TEV “useless projects.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「空虚なもの」または「虚しいもの」となっている。用語רֵיקִים (レキム)は、金儲けのための価値のない追求を指す。使用されている分詞が「追い求める」であるという事実は、これがいかに捕らえどころのないものであるかを示している。NIVの「ファンタジー」、NCVの「空虚な夢」、TEVの「役に立たないプロジェクト」を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “heart.” The term לֵב (lev, “heart”) functions as a metonymy of association for wisdom (BDB 524 s.v. 3).",
+        "ja": "[翻訳注] 原文ヘブライ語では「心」となっている。לֵב (レブ、「心」)という用語は、知恵を表す関連の換喩として機能している（BDB 524 s.v. 3）。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This line is difficult to interpret. BDB connects the term מְצוֹד (mÿtsod) to II מָצוֹד which means (1) “snare; hunting-net” and (2) what is caught: “prey” (BDB 844-45 s.v. II מָצוֹד). This would function as a metonymy of cause for what the net catches: the prey. Or it may be saying that the wicked get caught in their own net, that is, reap the consequences of their own sins. On the other hand, HALOT 622 connects מְצוֹד (mÿtsod) to II מְצוּדָה (mÿtsudah, “mountain stronghold”; cf. NAB “the stronghold of evil men will be demolished”). The LXX translated it as: “The desires of the wicked are evil.” The Syriac has: “The wicked desire to do evil.” The Latin expands it: “The desire of the wicked is a defense of the worst [things, or persons].” C. H. Toy suggests emending the text to read “wickedness is the net of bad men” (Proverbs [ICC], 250).",
+        "ja": "[翻訳注] この行の解釈は困難である。BDBは用語מְצוֹד (メツォド)を第2マツォድに関連付けており、それは(1)「わな、猟網」、(2)捕らえられたもの：「獲物」（BDB 844-45 s.v. II מָצוֹד）を意味する。これは網が捕らえるものに対する原因の換喩として機能する。あるいは、悪しき者は自分自身の網にかかる、すなわち自らの罪の報いを受けるという意味かもしれない。一方で、HALOT 622はמְצוֹד (メツォド)を第2メツダ（מְצוּדָה、メツダ、「山のとりで」；NABの「悪人のとりでが破壊される」を参照）に関連付けている。七十訳はこれを「悪しき者の欲望は悪である」と訳した。シリア語訳は「悪しき者は悪を行うことを望む」としている。ラテン語訳はこれを拡張して「悪しき者の欲望は最悪のもの［あるいは人々］の防御である」としている。C.H.トイはテキストを「悪は悪人の網である」と修正することを提案している（Proverbs [ICC], 250）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the root of righteousness.” The genitive צַדִּיקִים (tsadiqim, “righteousness”) functions as an attributive adjective. The wicked want what belongs to others, but the righteous continue to flourish.",
+        "ja": "[翻訳注] 原文ヘブライ語では「義の根」となっている。属格のצַדִּיקִים (ツァディキム、「義」)は限定形容詞として機能する。悪しき者は他人のものを欲しがるが、正しい者は繁栄し続ける。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  The MT reads יִתֵּן (yitten, “gives,” from נָתַן [natan, “to give”]), and yields an awkward meaning: “the root of the righteous gives.” The LXX reads “the root of the righteous endures” (cf. NAB). This suggests a Hebrew Vorlage of אֵיתָן (’etan, “constant; continual”; HALOT 44-45 s.v. I אֵיתָן 2) which would involve the omission of א (alef) in the MT. The metaphor “root” (שֹׁרֶשׁ, shoresh) is often used in Proverbs for that which endures; so internal evidence supports the alternate tradition.",
+        "ja": "[写本注] マソラ本文（MT）はיִתֵּן (イッテン、「与える」、נָתַן [ナタン、「与える」]に由来)と読んでおり、「正しい者の根が与える」という不自然な意味を生み出している。七十訳は「正しい者の根は永続する」（NAB参照）と読んでいる。これはヘブライ語の原典資料（ヴォルラーゲ）としてאֵיתָן (エイタン、「堅固な、継続的な」；HALOT 44-45 s.v. I אֵיתָן 2)があったことを示唆しており、これはMTにおけるא (アレフ)の脱落を伴うものである。「根」（שֹׁרֶשׁ、ショレシュ）という比喩は、箴言において永続するものを表すためによく用いられる。したがって、内証的証拠は代わりの伝統を支持している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[写本注]  MT reads the noun מוֹקֵשׁ (moqesh, “bait; lure”). The LXX, Syriac and Tg. Prov 12:13 took it as a passive participle (“is ensnared”). The MT is the more difficult reading and so is preferred. The versions appear to be trying to clarify a difficult reading.[翻訳注]  Heb “snare of a man.” The word “snare” is the figurative meaning of the noun מוֹקֵשׁ (“bait; lure” from יָקַשׁ [yaqash, “to lay a bait, or lure”]).",
+        "ja": "[写本注] MTは名詞מוֹקֵשׁ (モケシュ、「餌、おとり」)と読んでいる。七十訳、シリア語訳、およびタルグム箴言12:13は、これを受動分詞（「罠にかかる」）として捉えた。MTの方がより難解な読みであるため、こちらが好まれる。諸訳本は難解な読みを明確にしようとしているように見える。[翻訳注] 原文ヘブライ語では「人の罠」となっている。「罠」という言葉は、名詞מוֹקֵשׁ（「餌、おとり」；יָקַשׁ [ヤカシュ、「餌を仕掛ける、おびき寄せる」]に由来）の比喩的な意味である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “transgression of the lips.” The noun “lips” is a genitive of specification and it functions as a metonymy of cause for speech: sinful talk or sinning by talking. J. H. Greenstone suggests that this refers to litigation; the wicked attempt to involve the innocent (Proverbs, 131).",
+        "ja": "[翻訳注] 原文ヘブライ語では「唇の transgressions（過ち、そむき）」となっている。「唇」という名詞は限定の属格であり、言葉に対する原因の換喩、すなわち罪深い発言や言葉による罪を意味している。J.H.グリーンストーンは、これが訴訟を指しているのではないかと提案している。すなわち、悪しき者は無実の者を巻き込もうとするのである（Proverbs, 131）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  J. H. Greenstone suggests that when the wicked become involved in contradictions of testimony, the innocent is freed from the trouble. Another meaning would be that the wicked get themselves trapped by what they say, but the righteous avoid that (Proverbs, 131).",
+        "ja": "[解説] J.H.グリーンストーンは、悪しき者が証言の矛盾に巻き込まれるとき、無実の者が災いから解放されるのだと示唆している。もう一つの意味は、悪しき者が自分たちの語ったことによって自ら罠にかかるが、正しい者はそれを避けるということである（Proverbs, 131）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “fruit of the lips.” The term “fruit” is the implied comparison, meaning what is produced; and “lips” is the metonymy of cause, referring to speech. Proper speech will result in good things.",
+        "ja": "[翻訳注] 原文ヘブライ語では「唇の果実」となっている。「果実」という言葉は暗黙の比喩であり、生み出されるものを意味する。「唇」は原因の換喩であり、言葉を指している。正しい言葉は良い結果をもたらす。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the work of the hands of a man.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「人の手の働き」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  The Kethib has the Qal imperfect, “will return” to him (cf. NASB); the Qere preserves a Hiphil imperfect, “he/one will restore/render” to him (cf. KJV, ASV). The Qere seems to suggest that someone (God or people) will reward him in kind. Since there is no expressed subject, it may be translated as a passive voice.",
+        "ja": "[写本注] ケティブ（書かれている読み）にはQal態未完了形があり、「彼に帰る」（NASB参照）を意味する。ケレ（読まれている読み）はHiphil態未完了形を保持しており、「彼に回復させる／報いる」（KJV, ASV参照）を意味する。ケレは、誰か（神あるいは人々）が彼に同じように報い返すことを示唆しているように思われる。表現された主語がないため、受動態として翻訳されることもある。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[解説]  The way of a fool describes a headlong course of actions (“way” is an idiom for conduct) that is not abandoned even when wise advice is offered.",
+        "ja": "[解説] 愚か者の道は、賢明な助言が与えられたときでさえ放棄されない、向こう見ずな一連の行動（「道」は生き方の慣用句）を描写している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The fool believes that his own plans and ideas are perfect or “right” (יָשָׁר, yashar); he is satisfied with his own opinion.",
+        "ja": "[解説] 愚か者は自分自身の計画やアイデアが完璧である、あるいは「正しい」（יָשָׁר、ヤシャール）と信じ込んでいる。彼は自分の意見に満足している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in his own eyes.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「自分の目のなかに」となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “a wise person listens to advice” (cf. NIV, NRSV, TEV, CEV, NLT).",
+        "ja": "[翻訳注] あるいは「知恵ある人は助言に聞き従う」（NIV, NRSV, TEV, CEV, NLT参照）。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “The fool, at once his vexation is known.” This rhetorically emphatic construction uses an independent nominative absolute, which is then followed by the formal subject with a suffix. The construction focuses attention on “the fool,” then states what is to be said about him.",
+        "ja": "[翻訳注] 原文ヘブライ語では「愚か者、すぐにそのいら立ちが知られる」となっている。この修辞的に強調された構文は、独立した主格の絶対形を用いており、その後に接尾辞を伴う形式上の主語が続く。この構文は「愚か者」に注意を集中させ、その後に彼について言われるべきことを述べている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “on the day” or “the same day.”[解説]  The fool is impatient and unwise, and so flares up immediately when anything bothers him. W. McKane says that the fool’s reaction is “like an injured animal and so his opponent knows that he has been wounded” (Proverbs [OTL], 442).",
+        "ja": "[翻訳注] 原文ヘブライ語では「その日に」あるいは「同じ日に」となっている。[解説] 愚か者は短気で不省察であるため、何か問題が起きるとすぐにカッとなる。W.マッケインによれば、愚か者の反応は「傷ついた動物のようであり、それゆえ相手は自分が傷つけられたことを知る」のだという（Proverbs [OTL], 442）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “shrewd.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「抜け目のない、思慮深い」となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “covers.” The verb כָּסָה (casah) means “covers” in the sense of ignores or bides his time. The point is not that he does not respond at all, but that he is shrewd enough to handle the criticism or insult in the best way – not instinctively and irrationally.",
+        "ja": "[翻訳注] 原文ヘブライ語では「覆う」となっている。動詞כָּסָה (カサ)は、無視する、あるいは好機を待つという意味で「覆う」を意味する。要点は、彼がまったく反応しないということではなく、批判や侮辱に対して本能的・非理性的ではなく、最善の方法で対処できるほど抜け目がなく賢いということである。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The text has “he pours out faithfully”; the word rendered “faithfully” or “reliably” (אֱמוּנָה, ’emunah) is used frequently for giving testimony in court, and so here the subject matter is the reliable witness.",
+        "ja": "[翻訳注] テキストには「彼は誠実に注ぎ出す」とある。「誠実に」あるいは「信頼に足るように」と訳された言葉（אֱמוּנָה、エムナ）は、法廷での証言に関して頻繁に使用されるため、ここでは主題は信頼できる証人である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “righteousness.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「義」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “witness of falsehoods.” The genitive noun functions attributively, and the plural form depicts habitual action or moral characteristic. This describes a person who habitually lies. A false witness cannot be counted on to help the cause of justice.",
+        "ja": "[翻訳注] 原文ヘブライ語では「虚偽の証人」となっている。属格名詞は形容詞的に機能し、複数形は習慣的な行動や道徳的特徴を描写している。これは常習的に嘘をつく人を描写している。偽りの証人は正義の大義を助けるものとして当てにすることはできない。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The term “speaks” does not appear in this line but is implied by the parallelism; it is supplied in the translation for clarity and smoothness.",
+        "ja": "[翻訳注] 「語る」という言葉はこの行には現れないが、並行法から暗示されており、明確さと滑らかさのために翻訳に補われている。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The term בּוֹטֶה (boteh) means “to speak rashly [or, thoughtlessly]” (e.g., Lev 5:4; Num 30:7).",
+        "ja": "[翻訳注] 用語בּוֹטֶה (ボテ)は「軽率に［あるいは、思慮なく］話す」を意味する（例：レビ記5:4、民数記30:7）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the tongue” (so NAB, NIV, NRSV). The term לָשׁוֹן (lashon, “tongue”) functions as a metonymy of cause for what is said.",
+        "ja": "[翻訳注] 原文ヘブライ語では「舌」（NAB, NIV, NRSV参照）となっている。לָשׁוֹן (ラション、「舌」)という用語は、語られたことに対する原因の換喩として機能している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The term “brings” does not appear in the Hebrew but is supplied in the translation for the sake of clarity and smoothness.",
+        "ja": "[翻訳注] 「もたらす」という用語はヘブライ語には現れないが、明確さと滑らかさのために翻訳に補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Healing is a metonymy of effect. Healing words are the opposite of the cutting, irresponsible words. What the wise say is faithful and true, gentle and kind, uplifting and encouraging; so their words bring healing.",
+        "ja": "[解説] 癒しは結果の換喩である。癒しの言葉は、突き刺すような無責任な言葉とは対極にある。知恵ある者が語ることは、誠実で真実であり、優しく親切であり、高揚させ励ますものである。それゆえ、彼らの言葉は癒しをもたらすのである。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a lip of truth.” The genitive אֱמֶת (’emet, “truth”) functions as an attributive adjective: “truthful lip.” The term שְׂפַת (sÿfat, “lip”) functions as a synecdoche of part (= lip) for the whole (= person): “truthful person.” The contrast is between “the lip of truth” and the “tongue of lying.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「真実の唇」となっている。属格のאֱמֶת (エメト、「真実」)は限定形容詞「真実の唇」として機能する。שְׂפַת (スファト、「唇」)という用語は、全体（＝人、すなわち「真実の人」）を表す部分（＝唇）の提喩（シネドキー）として機能している。「真実の唇」と「偽りの舌」が対比されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a tongue of deceit.” The genitive שָׁקֶר (shaqer, “deceit”) functions as an attributive genitive. The noun לָשׁוֹן (lashon, “tongue”) functions as a synecdoche of part (= tongue) for the whole (= person): “lying person.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「欺きの舌」となっている。属格のשָׁקֶר (シャケル、「欺き」)は限定的属格として機能する。名詞לָשׁוֹן (ラション、「舌」)は、全体（＝人、すなわち「嘘をつく人」）を表す部分（＝舌）の提喩（シネドキー）として機能している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “while I would twinkle.” This expression is an idiom meaning “only for a moment.” The twinkling of the eye, the slightest movement, signals the brevity of the life of a lie (hyperbole). But truth will be established (תִּכּוֹן, tikon), that is, be made firm and endure.",
+        "ja": "[翻訳注] 原文ヘブライ語では「私がまばたきをする間に」となっている。この表現は「わずか一瞬しか」を意味する慣用句である。まばたき、すなわちごくわずかな動きは、嘘の命の短さを信号として伝えている（過大表現）。しかし真実は堅く据えられ（תִּכּוֹן、ティコン）、すなわち確固たるものとされ、永続する。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[解説]  The contrast here is between “evil” (= pain and calamity) and “peace” (= social wholeness and well-being); see, e.g., Pss 34:14 and 37:37.",
+        "ja": "[解説] ここでの対比は、「悪」紙（＝痛みと災い）と「平安」紙（＝社会的な全き健全さと幸福）の間にある（例：詩篇34:14および37:37を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “those who are counselors of peace.” The term שָׁלוֹם (shalom, “peace”) is an objective genitive, so the genitive-construct “counselors of peace” means those who advise, advocate or promote peace (cf. NAB, NIV).",
+        "ja": "[翻訳注] 原文ヘブライ語では「平安のカウンセラーたち」となっている。用語שָׁלוֹם (シャローム、「平安」)は目的格的属格であり、したがって属格・連語関係にある「平安のカウンセラーたち」とは、平安を助言し、提唱し、あるいは促進する者たちを意味する（NAB、NIV参照）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “is not allowed to meet to the righteous.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「正しい者に（災いが）出会うことは許されない」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all calamity.” The proper nuance of אָוֶן (’aven) is debated. It is normally understood metonymically (effect) as “harm; trouble,” that is, the result/effect of wickedness (e.g., Gen 50:20). Rashi, a Jewish scholar who lived a.d. 1040-1105, took it as “wickedness,” its primary meaning; “the righteous will not be caught up in wickedness.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「すべての災い」となっている。אָוֶן (アヴェン)の適切なニュアンスについては議論がある。これは通常、悪事の結果・影響として「害、トラブル」という換喩的な意味で理解されている（例：創世記50:20）。1040〜1105年に生きたユダヤ人学者ラシは、これをその本来の意味である「悪」として捉えた。すなわち、「正しい者は悪に巻き込まれることはない」ということである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The expression רָע מָלְאוּ (malÿ’u ra’, “to be full of evil”) means (1) the wicked do much evil or (2) the wicked experience much calamity (cf. NAB, NIV, NRSV, NLT).",
+        "ja": "[翻訳注] 表現רָע מָלְאוּ (マルユ・ラ、「悪で満たされている」)は、(1)悪しき者が多くの悪を行う、あるいは(2)悪しき者が多くの災いを経験する、を意味する（NAB、NIV、NRSV、NLT参照）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “an abomination of the Lord.” The term יְהוָה (yÿhvah, “the Lord”) is a subjective genitive.",
+        "ja": "[翻訳注] 原文ヘブライ語では「主の忌むべきもの」となっている。用語יְהוָה (ヤハウェ、「主」)は主格的属格である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “lips of lying.” The genitive שָׁקֶר (shaqer, “lying”) functions as an attributive genitive: “lying lips.” The term “lips” functions as a synecdoche of part (= lips) for the whole (= person): “a liar.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「嘘の唇」となっている。属格のשָׁקֶר (シャケル、「嘘の」)は限定的属格として機能し、「嘘の唇」という意味になる。「唇」という用語は、全体（＝人、すなわち「嘘つき」）を表す部分（＝唇）の提喩（シネドキー）として機能している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “but doers of truthfulness.” The term “truthfulness” is an objective genitive, meaning: “those who practice truth” or “those who act in good faith.” Their words and works are reliable.",
+        "ja": "[翻訳注] 原文ヘブライ語では「しかし真実さを行なう者たち」となっている。「真実さ」という用語は目的格的属格であり、「真実を行なう者」あるいは「誠実に活動する者」を意味する。彼らの言葉と働きは信頼に足るものである。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The contrast between “delight/pleasure” and “abomination” is emphatic. What pleases the Lord is acting truthfully or faithfully.",
+        "ja": "[解説] 「喜び／楽しみ」と「忌むべきもの」の対比は強烈である。主を喜ばせるのは、真実を尽くして、あるいは誠実に行動することである。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a shrewd man” (so NAB); KJV, NIV “a prudent man”; NRSV “One who is clever.”[解説]  A shrewd person knows how to use knowledge wisely, and restrains himself from revealing all he knows.",
+        "ja": "[翻訳注] 原文ヘブライ語では「抜け目のない人」（NAB参照）；KJV、NIVでは「慎み深い人」；NRSVでは「賢い人」となっている。[解説] 思慮深い人は知識を賢く使う方法を知っており、自分が知っていることのすべてを明かすことを自制する。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The term כֹּסֶה (koseh, “covers; hides”) does not mean that he never shares his knowledge, but discerns when it is and is not appropriate to speak.",
+        "ja": "[解説] 用語כֹּסֶה (コセ、コセフ「覆う、隠す」)は、彼が決して自分の知識を分かち合わないという意味ではなく、いつ語ることが適切であり、いつがそうでないかを識別するという意味である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the heart of fools.” The term לֵב (lev, “heart”) functions as a synecdoche of part (= heart) for the whole (= person): “foolish people.” This type of fool despises correction and instruction. His intent is to proclaim all that he does – which is folly. W. McKane says that the more one speaks, the less likely he is able to speak effectively (Proverbs [OTL], 422). Cf. TEV “stupid people advertise their ignorance”; NLT “fools broadcast their folly.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「愚か者たちの心」となっている。לֵב (レブ、「心」)という用語は、全体（＝人、すなわち「愚かな人々」）を表す部分（＝心）の提喩（シネドキー）として機能している。このタイプの愚か者は矯正と教えを軽蔑する。彼の意図は、自分の行うことのすべて──それは愚行である──を触れ回ることである。W.マッケインによれば、多く語れば語るほど、効果的に語る能力が失われていくという（Proverbs [OTL], 422）。TEVの「愚かな人々は自分たちの無知を宣伝する」、NLTの「愚か者は自分の愚かさを放送する」を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The noun אִוֶּלֶת (’ivvelet, “foolishness; folly”) is the antithesis of perception and understanding. It is related to the noun אֱוִּיל (’evvil, “fool”), one who is morally bad because he despises wisdom and discipline, mocks at guilt, is licentious and quarrelsome, and is almost impossible to rebuke.",
+        "ja": "[解説] 名詞אִוֶּלֶת (イッヴェレト、「愚かさ、愚行」)は知覚と理解の対極にある。これは名詞אֱוִּיל (エヴィル、「愚か者」)に関連している。エヴィルとは、知恵と訓育を軽蔑し、罪をあざけり、放縦で喧嘩腰であり、叱責することがほとんど不可能であるがゆえに道徳的に悪い者のことである。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The term חָרַץ (kharats, “diligent”) means (1) literally: “to cut; to sharpen,” (2) figurative: “to decide” and “to be diligent. It is used figuratively in Proverbs for diligence. The semantic development of the figure may be understood thus: “cut, sharpen” leads to “act decisively” which leads to “be diligent.” By their diligent work they succeed to management. The diligent rise to the top, while the lazy sink to the bottom.",
+        "ja": "[翻訳注] 用語חָרַץ (ハラツ、「勤勉な」)は、(1)文字通りには「切る、鋭くする」、(2)比喩的には「決定する」「勤勉である」を意味する。これは箴言において勤勉さの比喩として使用されている。この比喩の意味的発展は次のように理解できる。「切る、鋭くする」から「決然と行動する」につながり、それが「勤勉である」へと至る。彼らは勤勉な働きによって経営の立場へと出世する。勤勉な者はトップに昇り詰め、怠け者は底に沈む。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the hand of the diligent.” The term “hand” is a synecdoche of part (= hand) for the whole (= person): diligent person. The hand is emphasized because it is the instrument of physical labor; it signifies the actions and the industry of a diligent person – what his hand does.",
+        "ja": "[翻訳注] 原文ヘブライ語では「勤勉な者の手」となっている。「手」という用語は、全体（＝勤勉な人）を表す部分（＝手）の提喩（シネドキー）である。手が強調されるのは、それが肉体労働の道具だからである。手は勤勉な人の行動と勤勉さを象徴している──すなわち、彼の手が何を行うかである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “deceitful.” The term refers to one who is not diligent; this person tries to deceive his master about his work, which he has neglected.",
+        "ja": "[翻訳注] 原文ヘブライ語では「欺瞞的な」となっている。この用語は勤勉ではない者を指している。この人物は、自分が怠ってきた仕事について主人を欺こうとする。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “will be for slave labor.” The term מַס (mas, “slave labor”) refers to a person forced into labor from slavery.",
+        "ja": "[翻訳注] 原文ヘブライ語では「奴隷労働のためである」となっている。用語מַס (マス、「奴隷労働、賦役」)は、奴隷状態から強制的に労働させられた人を指す。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “anxiety” (דְּאָגָה, dÿ’agah) combines anxiety and fear – anxious fear (e.g., Jer 49:23; Ezek 4:16); and for the verb (e.g., Ps 38:18; Jer 17:8).",
+        "ja": "[翻訳注] 「不安」（דְּאָגָה、デアガ）という言葉は、心配と恐れ──不安な恐れ──を組み合わせたものである（例：エレミヤ49:23、エゼキエル4:16；動詞についても同様、例：詩篇38:18、エレミヤ17:8）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the heart of a man.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「人の心」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “bows it [= his heart] down.” Anxiety weighs heavily on the heart, causing depression. The spirit is brought low.",
+        "ja": "[翻訳注] 原文ヘブライ語では「それ［＝彼の心］を屈服させる、重くする」となっている。不安が心に重くのしかかり、憂鬱を引き起こす。精神が低く引き下げられる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “good.” The Hebrew word “good” (טוֹב, tov) refers to what is beneficial for life, promotes life, creates life or protects life. The “good word” here would include encouragement, kindness, and insight – the person needs to regain the proper perspective on life and renew his confidence.",
+        "ja": "[翻訳注] 原文ヘブライ語では「良い」となっている。ヘブライ語の「良い」（טוֹב、トヴ）という言葉は、人生にとって有益であり、人生を促進し、人生を創造し、あるいは人生を守るものを指す。ここでの「良い言葉」には、励まし、優しさ、洞察が含まれる──その人は人生に対する適切な視野を取り戻し、自信を新たにする必要がある。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “makes it [= his heart] glad.” The similarly sounding terms יַשְׁחֶנָּה (yashkhennah, “weighs it down”) and יְשַׂמְּחֶנָּה (yÿsammÿkhennah, “makes it glad”) create a wordplay (paronomasia) that dramatically emphasizes the polar opposite emotional states: depression versus joy.",
+        "ja": "[翻訳注] 原文ヘブライ語では「それ［＝彼の心］を喜ばせる」となっている。類似した響きを持つ用語יַשְׁחֶנָּה (ヤシュヘンナ、「重くする」)とיְשַׂמְּחֶנָּה (イサムケンナ、「喜ばせる」)が言葉遊び（ダジャレ、パラノマジア）を生み出し、憂鬱対喜びという正反対の感情状態を劇的に強調している。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The line has several possible translations: (1) The verb יָתֵר (yater) can mean “to spy out; to examine,” which makes a good contrast to “lead astray” in the parallel colon. (2) יָתֵר could be the Hophal of נָתַר (natar, Hiphil “to set free”; Hophal “to be set free”): “the righteous is delivered from harm” [reading mera`ah] (J. A. Emerton, “A Note on Proverbs 12:26,” ZAW 76 [1964]: 191-93). (3) Another option is, “the righteous guides his friend aright” (cf. NRSV, NLT).",
+        "ja": "[翻訳注] この行にはいくつかの可能な翻訳がある。(1)動詞יָתֵר (ヤテル)は「見張りをする、調査する」を意味することができ、これは並行行における「迷わせる」と良好な対比をなす。(2)יָתֵרはנָתַר (ナタル、Hiphil態「解放する」；Hophal態「解放される」)のHophal態である可能性もある：「正しい者は害から救い出される」［mera`ahと読む］（J. A. Emerton, “A Note on Proverbs 12:26,” ZAW 76 [1964]: 191-93）。(3)もう一つの選択肢は「正しい者はその友を正しく導く」（NRSV, NLT参照）である。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT reads יַחֲרֹךְ (yakharokh) from II חָרַךְ (kharakh, “to roast”?). On the other hand, several versions (LXX, Syriac, Vulgate) reflect a Hebrew Vorlage of יַדְרִיךְ (yadrikh) from דָרַךְ (darakh, “to gain”), meaning: “a lazy person cannot catch his prey” (suggested by Gemser; cf. NAB). The MT is the more difficult reading, being a hapax legomenon, and therefore should be retained; the versions are trying to make sense out of a rare expression.[翻訳注]  The verb II חָרַךְ (kharakh) is a hapax legomenon, appearing in the OT only here. BDB suggests that it means “to start; to set in motion” (BDB 355 s.v.). The related Aramaic and Syriac verb means “to scorch; to parch,” and the related Arabic verb means “to roast; to scorch by burning”; so it may mean “to roast; to fry” (HALOT 353 s.v. I חרך). The lazy person can’t be bothered cooking what he has hunted. The Midrash sees an allusion to Jacob and Esau in . M. Dahood translates it: “the languid man will roast no game for himself, but the diligent will come on the wealth of the steppe” (“The Hapax harak in Proverbs 12:27,” Bib 63 [1982]: 60-62). This hyperbole means that the lazy person does not complete a project.",
+        "ja": "[写本注] MTは第2חָרַךְ (ハラク、「焼く？」)に由来するיַחֲרֹךְ (ヤハロク)と読んでいる。他方、いくつかの諸訳本（七十訳、シリア語訳、ウルガタ訳）はדָרַךְ (ダラフ、「獲得する」)に由来するיַדְרִיךְ (ヤドリク)というヘブライ語原典資料を反映しており、「怠惰な者は自分の獲物を捕らえることができない」という意味になる（ゲムセルが提案；NAB参照）。MTは、ハパックス・レゴメノン（一回限りの語）であるため、より難解な読みであり、したがって保持されるべきである。諸訳本は稀な表現から意味を引き出そうとしている。[翻訳注] 動詞第2חָרַךְ (ハラク)は旧約聖書においてここにしか現れないハパックス・レゴメノンである。BDBはこれが「始める、動き出させる」を意味すると示唆している（BDB 355 s.v.）。関連するアラム語およびシリア語の動詞は「焦がす、干からびさせる」を意味し、関連するアラビア語の動詞は「焼く、火で焦がす」を意味する。したがって「焼く、揚げる」という意味かもしれない（HALOT 353 s.v. I חרך）。怠惰な者は自分が狩ったものを料理する面倒さえかけようとしない。ミドラシュはこの節にヤコブとエサウの暗示を見出している。M.ダフードはこれを次のように翻訳している：「無気力な者は自分のために獲物をローストしないが、勤勉な者は荒野の富に出くわすだろう」（“The Hapax harak in Proverbs 12:27,” Bib 63 [1982]: 60-62）。この過大表現は、怠惰な者がプロジェクトを完遂しないことを意味している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the wealth of a man.”",
+        "ja": "[翻訳注] 原文ヘブライ語では「人の富」となっている。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The consonants אל־מות (’l-mvt) are vocalized by the MT as אַל־מָוֶת (’al-mavet, “no death”), meaning: “the journey of her path is no-death” = immortality. However, many medieval Hebrew mss and all the versions vocalize it as אֶל־מָוֶת (’el-mavet, “to death”), meaning: “but another path leads to death” (cf. NAB, NCV). W. McKane adopts this reading, and suggests that MT is a scribal change toward eternal life (Proverbs [OTL], 451-52). Others adopt this reading because they do not find the term “life” used in Proverbs for eternal life, nor do they find references to immortality elsewhere in Proverbs.[翻訳注]  Heb “no death.” This phrase may mean “immortality.” Those who enter the path of righteousness by faith and seek to live righteously are on their way to eternal life. However, M. Dahood suggests that it means permanence (“Immortality in Proverbs 12:28,” Bib 41 [1960]: 176-81).",
+        "ja": "[写本注] 子音 אל־מות ('l-mvt) は、MTによって אַל־מָוֶת (アル・マヴェト、「死なし」)として母音付けされており、「その道の歩みは死なしである」＝不滅性、を意味する。しかしながら、中世の多くのヘブライ語写本およびすべての諸訳本はこれを אֶל־מָוֶת (エル・マヴェト、「死へ」)と母音付けしており、「しかしもう一つの道を歩めば死に至る」を意味する（NAB、NCV参照）。W.マッケインはこの読みを採用し、MTは永遠の命に向けた書記の変更であると示唆している（Proverbs [OTL], 451-52）。他の人々がこの読みを採用するのは、箴言において「命」という用語が永遠の命のために使用されているのを見出さないからであり、また箴言の他の箇所に不滅性への言及を見出さないからでもある。[翻訳注] 原文ヘブライ語では「死なし」となっている。このフレーズは「不滅性」を意味しているかもしれない。信仰によって義の道に入り、正しく生きようと求める者たちは、永遠の命へと向かう途上にある。しかしM.ダフードは、これが「永続性」を意味すると示唆している（“Immortality in Proverbs 12:28,” Bib 41 [1960]: 176-81）。"
+      }
+    ]
+  }
+}

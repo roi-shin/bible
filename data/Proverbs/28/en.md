@@ -1,0 +1,313 @@
+# Proverbs 28 (English)
+
+## Text
+
+**1** The wicked person fled, though no one was pursuing, but the righteous person can be as confident as a lion. 
+
+**2** When a country is rebellious it has many princes, but by someone who is discerning and knowledgeable order is maintained. 
+
+**3** A poor person who oppresses the weak is like a driving rain without food. 
+
+**4** Those who forsake the law praise the wicked, but those who keep the law contend with them.
+
+**5** Evil people do not understand justice, but those who seek the Lord understand it all. 
+
+**6** A poor person who walks in his integrity is better than one who is perverse in his ways even though he is rich. 
+
+**7** The one who keeps the law is a discerning child, but a companion of gluttons brings shame to his parents. 
+
+**8** The one who increases his wealth by increasing interest gathers it for someone who is gracious to the needy. 
+
+**9** The one who turns away his ear from hearing the law, even his prayer is an abomination. 
+
+**10** The one who leads the upright astray in an evil way will himself fall into his own pit, but the blameless will inherit what is good. 
+
+**11** A rich person is wise in his own opinion, but a discerning poor person can evaluate him properly. 
+
+**12** When the righteous rejoice, great is the glory, but when the wicked rise to power, people are sought out. 
+
+**13** The one who covers his transgressions will not prosper, but whoever confesses them and forsakes them will find mercy. 
+
+**14** Blessed is the one who is always cautious, but whoever hardens his heart will fall into evil. 
+
+**15** Like a roaring lion or a roving bear, so is a wicked ruler over a poor people. 
+
+**16** The prince who is a great oppressor lacks wisdom, but the one who hates unjust gain will prolong his days. 
+
+**17** The one who is tormented by the murder of another will flee to the pit; let no one support him.
+
+**18** The one who walks blamelessly will be delivered, but whoever is perverse in his ways will fall at once. 
+
+**19** The one who works his land will be satisfied with food, but whoever chases daydreams will have his fill of poverty. 
+
+**20** A faithful person will have an abundance of blessings, but the one who hastens to gain riches will not go unpunished. 
+
+**21** To show partiality is terrible, for a person will transgress over the smallest piece of bread. 
+
+**22** The stingy person hastens after riches and does not know that poverty will overtake him.
+
+**23** The one who reproves another will in the end find more favor than the one who flatters with the tongue. 
+
+**24** The one who robs his father and mother and says, “There is no transgression,” is a companion to the one who destroys. 
+
+**25** The greedy person stirs up dissension, but the one who trusts in the Lord will prosper. 
+
+**26** The one who trusts in his own heart is a fool, but the one who walks in wisdom will escape. 
+
+**27** The one who gives to the poor will not lack, but whoever shuts his eyes to them will receive many curses. 
+
+**28** When the wicked gain control, people hide themselves, but when they perish, the righteous increase. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The line portrays the insecurity of a guilty person – he flees because he has a guilty conscience, or because he is suspicious of others around him, or because he fears judgment.
+
+### Verse 1 - Note 2
+[翻訳注]  The verb בָּטַח (batakh) means “to trust; to be secure; to be confident.” Cf. KJV, NASB, NIV, NRSV, NLT “bold.”[解説]  The righteous, who seek to find favor with God and man, have a clear conscience and do not need to look over their shoulders for avengers or law enforcers. Their position is one of confidence, so that they do not flee.
+
+### Verse 2 - Note 1
+[解説]  The Hebrew word translated “rebellious” has rebellion as its basic meaning, and that is the idea here. The proverb is describing a time when sinfulness brings about social and political unrest.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “many are its princes” (so NASB).[解説]  In such a chaotic time there will be many rulers, either simultaneously or in a rapid sequence. The times of the judges or the days of the northern kings of Israel provide examples.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “a man who understands [and] knows”; NRSV “an intelligent ruler”; NLT “wise and knowledgeable leaders.”
+
+### Verse 2 - Note 4
+[写本注]  The LXX reads (probably from a different underlying Hebrew text): “It is the fault of a violent man that quarrels start, but they are settled by a man of discernment.” For a survey of suggestions, see C. H. Toy, Proverbs (ICC), 495, and W. McKane, Proverbs (OTL), 630.[翻訳注]  This last line is difficult. The MT has כֵּן יַאֲרִיךְ (ken ya’arikh). The verb means “to prolong,” but כֵּן (ken) is open to several possibilities for meaning. J. H. Greenstone’s interpretation of it as a noun from the Hollow root כּוּן (kun) with a meaning of “established order” is what is expected here (Proverbs, 293).[解説]  For a study of the verses in chapters 28 and 29 concerning kings and governments, see B. V. Malchow, “A Manual for Future Monarchs,” CBQ 47 (1985): 238-45.
+
+### Verse 3 - Note 1
+[写本注]  The MT reads “a poor man,” גֶּבֶר רָשׁ (gever rash); cf. KJV, NASB, NLT. The problem is that the poor in the book of Proverbs is not an oppressor and does not have the power to be such. So commentators assume the word is incorrect. By a slight change to רָשָׁע (rasha’) the reading becomes “a wicked ruler” [Heb “a wicked mighty man”]. There is no textual support for this change. The LXX, however, reads, “A courageous man oppresses the poor with impieties.” If “a poor man” is retained, then the oppression would include betrayal – one would expect a poor man to have sympathy for others who are impoverished, but in fact that is not the case. It is a sad commentary on human nature that the truly oppressed people can also be oppressed by other poor people.
+
+### Verse 3 - Note 2
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 3 - Note 3
+[解説]  “Food” is a metonymy of effect here. The picture is of the driving rain that should cause crops to grow so that food can be produced – but does not (some English versions assume the crops are destroyed instead, e.g., NCV, TEV, CEV, NLT). The point the proverb is making is that a show of strength may not produce anything except ruin.
+
+### Verse 4 - Note 1
+[解説]  Some commentators do not think that the word refers to the Mosaic law, but to “instruction” or “teaching” in general (cf. NCV “who disobey what they have been taught”). However, the expression “keep the law” in the second line indicates that it is binding, which would not be true of teaching in general (J. Bright, “The Apodictic Prohibition: Some Observations,” JBL 92 [1973]: 185-204). Moreover, Proverbs 28:9 and 29:18 refer to the law, and this chapter has a stress on piety.
+
+### Verse 4 - Note 2
+[解説]  The proverb gives the outcome and the evidence of those who forsake the law – they “praise the wicked.” This may mean (1) calling the wicked good or (2) justifying what the wicked do, for such people are no longer sensitive to evil.
+
+### Verse 4 - Note 3
+[翻訳注]  The verb is the Hitpael imperfect of גָּרָה (garah), which means “to stir up strife” but in this stem means “to engage in strife” (cf. NIV “resist them”). Tg. Prov 28:4 adds an explanatory expansion, “so as to induce them to repent.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “men of evil”; the context does not limit this to males only, however.
+
+### Verse 5 - Note 2
+[翻訳注]  The term translated “justice” is מִשְׁפָּט (mishpat); it refers to the legal rights of people, decisions that are equitable in the community. W. G. Plaut observes that there are always those who think that “justice” is that which benefits them, otherwise it is not justice (Proverbs, 282).
+
+### Verse 5 - Note 3
+[解説]  The contrast (and the difference) is between the wicked and those who seek the Lord. Originally the idea of seeking the Lord meant to obtain an oracle (2 Sam 21:1), but then it came to mean devotion to God – seeking to learn and do his will. Only people who are interested in doing the Lord’s will can fully understand justice. Without that standard, legal activity can become self-serving.
+
+### Verse 6 - Note 1
+[解説]  This chapter gives a lot of attention to the contrast between the poor and the rich, assuming an integrity for the poor that is not present with the rich; the subject is addressed in vv. 6, 8, 11, 20, 22, 25, and 27 (G. A. Chutter, “Riches and Poverty in the Book of Proverbs,” Crux 18 [1982]: 23-28).
+
+### Verse 6 - Note 2
+[翻訳注]  The Hebrew term translated “ways” is in the dual, suggesting that the person has double ways, i.e., he is hypocritical. C. H. Toy does not like this idea and changes the form to the plural (Proverbs [ICC], 497), but his emendation is gratuitous and should be rejected.
+
+### Verse 6 - Note 3
+[翻訳注]  Heb “and he is rich.” Many English versions treat this as a concessive clause (cf. KJV “though he be rich”).
+
+### Verse 6 - Note 4
+[解説]  This is another “better” saying, contrasting a poor person who has integrity with a rich person who is perverse. Of course there are rich people with integrity and perverse poor people, but that is not of interest here. If it came to the choices described here, honest poverty is better than corrupt wealth.
+
+### Verse 7 - Note 1
+[翻訳注]  The Hebrew word could refer (1) to “instruction” by the father (cf. NCV) or (2) the Mosaic law (so most English versions). The chapter seems to be stressing religious obedience, so the referent is probably the law. Besides, the father’s teaching will be what the law demands, and the one who associates with gluttons is not abiding by the law.
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “son,” but the immediate context does not suggest limiting this only to male children.
+
+### Verse 7 - Note 3
+[解説]  The companion of gluttons shames his father and his family because such a life style as he now embraces is both unruly and antisocial.
+
+### Verse 7 - Note 4
+[翻訳注]  Heb “father,” but the immediate context does not suggest limiting this only to the male parent.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “by interest and increase” (so ASV; NASB “by interest and usury”; NAB “by interest and overcharge.” The two words seem to be synonyms; they probably form a nominal hendiadys, meaning “by increasing [exorbitant] interest.” The law prohibited making a commission or charging interest (Exod 22:25; Lev 25:36-37; Deut 23:20; Ps 15:5). If the poor needed help, the rich were to help them – but not charge them interest.
+
+### Verse 8 - Note 2
+[翻訳注]  The term חוֹנֵן (khonen, “someone who shows favor”) is the active participle.[解説]  The verse is saying that in God’s justice wealth amassed unjustly will eventually go to the poor. God will take the wealth away from them and give it to people who will distribute it better to the poor.
+
+### Verse 9 - Note 1
+[解説]  The expression “turn away the ear from hearing” uses a metonymy to mean that this individual will not listen – it indicates a deliberate refusal to follow the instruction of the law.
+
+### Verse 9 - Note 2
+[解説]  It is hard to imagine how someone who willfully refuses to obey the law of God would pray according to the will of God. Such a person is more apt to pray for some physical thing or make demands on God. (Of course a prayer of repentance would be an exception and would not be an abomination to the Lord.)
+
+### Verse 9 - Note 3
+[解説]  C. H. Toy says, “If a man, on his part, is deaf to instruction, then God, on his part, is deaf to prayer” (Proverbs [ICC], 499). And W. McKane observes that one who fails to attend to God’s law is a wicked person, even if he is a man of prayer (Proverbs [OTL], 623).
+
+### Verse 10 - Note 1
+[解説]  The image of falling into a pit (a figure of speech known as hypocatastasis, involving implied comparison) is meant to say that the evil to which he guides people will ultimately destroy him.
+
+### Verse 10 - Note 2
+[解説]  This proverb is teaching that those who corrupt others will be destroyed, usually by their own devices, but those who manage to avoid being corrupted will be rewarded. According to this proverb the righteous can be led astray (e.g., 26:27).
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “a rich man,” although the context does not indicate that this is limited only to males.
+
+### Verse 11 - Note 2
+[解説]  The idiom “in his own eyes” means “in his own opinion,” that is, his self conceit. The rich person thinks he is wise because he is rich, that he has made all the right choices.
+
+### Verse 11 - Note 3
+[翻訳注]  The form יַחְקְרֶנּוּ (yakhqÿrennu) means “he searches him” (cf. KJV, ASV) or “he examines him”; a potential imperfect nuance fits well here to indicate that a discerning person, even though poor, can search the flaws of the rich and see through the pretension and the false assumptions (cf. NAB, NASB, NIV “sees through him”). Several commentators have connected the word to the Arabic root hqr, which means “despise” (D. W. Thomas, “Notes on Some Passages in the Book of Proverbs,” JTS 38 [1937]: 400-403), but that would be both predictable and flat.
+
+### Verse 12 - Note 1
+[翻訳注]  The form בַּעֲלֹץ (ba’alots) is the infinitive construct with the preposition indicating a temporal clause (“when…”); the “righteous” are the subject of this clause (subjective genitive). The word may be taken as a metonymy of adjunct – the righteous exult or rejoice because they are prosperous (cf. NLT “succeed”).
+
+### Verse 12 - Note 2
+[解説]  “Glory” here may have the sense of elation and praise.
+
+### Verse 12 - Note 3
+[翻訳注]  The meaning of “sought out” (יְחֻפַּשׂ, yÿkhuppas) indicates that people have gone into hiding. So the development of the ideas for this proverb require in the first line that “rejoice” be connected with “triumph” that means they have come to power; and in the second line that “are sought out” means people have gone into hiding (cf. ASV, NIV, NRSV, NLT). C. H. Toy thinks this is too strained; he offers this rendering: “When the righteous are exalted there is great confidence, but when the wicked come into power men hide themselves” (Proverbs [ICC], 500). For the verb G. R. Driver posits an Arabic cognate hafasa, “prostrated; trampled on” (“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 192-93), which gives a clearer result of wicked rule, but is perhaps unnecessary (e.g., Prov 28:28; 29:2). See J. A. Emerton, “Notes on Some Passages in the Book of Proverbs,” JTS 20 (1969): 202-20.
+
+### Verse 13 - Note 1
+[翻訳注]  The Hebrew participles provide the subject matter in this contrast. On the one hand is the person who covers over (מְכַסֶּה, mÿkhasseh) his sins. This means refusing to acknowledge them in confession, and perhaps rationalizing them away. On the other hand there is the one who both “confesses” (מוֹדֶה, modeh) and “forsakes” (עֹזֵב, ’ozev) the sin. To “confess” sins means to acknowledge them, to say the same thing about them that God does.
+
+### Verse 13 - Note 2
+[解説]  The verse contrasts the consequences of each. The person who refuses to confess will not prosper. This is an understatement (a figure of speech known as tapeinosis); the opposite is the truth, that eventually such a person will be undone and ruined. On the other hand, the penitent will find mercy. This expression is a metonymy of cause for the effect – although “mercy” is mentioned, what mercy provides is intended, i.e., forgiveness. In other passages the verb “conceal” is used of God’s forgiveness – he covers over the iniquity (Ps 32:1). Whoever acknowledges sin, God will cover it; whoever covers it, God will lay it open.
+
+### Verse 13 - Note 3
+[解説]  This verse is unique in the book of Proverbs; it captures the theology of forgiveness (e.g., Pss 32 and 51). Every part of the passage is essential to the point: Confession of sins as opposed to concealing them, coupled with a turning away from them, results in mercy.
+
+### Verse 14 - Note 1
+[翻訳注]  Most commentators (and some English versions, e.g., NIV) assume that the participle מְפַחֵד (mÿfakhed, “fears”) means “fears the Lord,” even though “the Lord” is not present in the text. Such an assumption would be more convincing if the word יִרְאַת (yir’at) had been used. It is possible that the verse refers to fearing sin or its consequences. In other words, the one who is always apprehensive about the nature and consequences of sin will avoid sin and find God’s blessing. Of course the assumption that the phrase means “fear the Lord” could be correct as well. There would be little difference in the outcome; in either case sin would be avoided.
+
+### Verse 14 - Note 2
+[解説]  The one who “hardens his heart” in this context is the person who refuses to fear sin and its consequences. The image of the “hard heart” is one of a stubborn will, unyielding and unbending (cf. NCV, TEV, NLT). This individual will fall into sin.
+
+### Verse 15 - Note 1
+[翻訳注]  The term “like” is not in the Hebrew text, but is supplied in the translation for clarity and smoothness.
+
+### Verse 15 - Note 2
+[解説]  The comparison uses animals that are powerful, terrifying, insensitive, and in search of prey. Because political tyrants are like this, animal imagery of this sort is also used in Dan 7:1-8 for the series of ruthless world powers.
+
+### Verse 15 - Note 3
+[解説]  A poor nation under the control of political tyrants who are dangerous and destructive is helpless. The people of that nation will crumble under them because they cannot meet their demands and are of no use to them.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “A prince lacking of understanding [is] also a great oppressor” (both KJV, ASV similar) The last clause, “and a great oppressor,” appears to modify “the prince.” There is little difference in meaning, only in emphasis. The LXX has “lacks income” (reading תְּבוּאוֹת [tÿvu’ot] instead of תְּבוּנוֹת [tÿvunot]). C. H. Toy (Proverbs [ICC], 501) suggests deleting the word for “prince” altogether, but this emendation is gratuitous.
+
+### Verse 16 - Note 2
+[写本注]  This follows the Qere reading of the participle which is singular (as opposed to the plural). The implication is that this one is also a ruler, paralleling the first half. But since he “hates” (= rejects) unjust gain he will extend [his] days, meaning he will enjoy a long and happy life (cf. NIV, NRSV, CEV).
+
+### Verse 17 - Note 1
+[翻訳注]  The form is the Qal passive participle. The verb means “to oppress; to wrong; to extort”; here the idea of being “oppressed” would refer to the burden of a guilty conscience (hence “tormented”; cf. NAB, NRSV “burdened”). Some commentators have wanted to emend the text to read “suspected,” or “charged with,” or “given to,” etc., but if the motive is religious and not legal, then “oppressed” or “tormented” is preferred.
+
+### Verse 17 - Note 2
+[解説]  The text has “the blood of a life”; blood will be the metonymy of effect for the murder, the shedding of blood.
+
+### Verse 17 - Note 3
+[翻訳注]  The verse is cryptic; it simply says that he will “flee to the pit.” Some have taken the “pit” to refer to the place of detention for prisoners, but why would he flee to that place? It seems rather to refer to death. This could mean that (1) since there is no place for him to go outside of the grave, he should flee to the pit (cf. TEV, NLT), or (2) he will be a fugitive until he goes to the grave (cf. NASB, NIV, NCV, NRSV, CEV). Neither one of these options is easily derived from the text. The verse seems to be saying that the one who is guilty of murder will flee, and no one should assist him. The meaning of “the pit” is unresolved.
+
+### Verse 18 - Note 1
+[翻訳注]  The form is the Niphal imperfect of יָשַׁע (yasha’, “will be saved”). In all probability this refers to deliverance from misfortune. Some render it “kept safe” (NIV) or “will be safe” (NRSV, TEV). It must be interpreted in contrast to the corrupt person who will fall.
+
+### Verse 18 - Note 2
+[翻訳注]  The Qal imperfect יִפּוֹל (yipol) is given a future translation in this context, as is the previous verb (“will be delivered”) because the working out of divine retribution appears to be coming suddenly in the future. The idea of “falling” could be a metonymy of adjunct (with the falling accompanying the ruin that comes to the person), or it may simply be a comparison between falling and being destroyed. Cf. NCV “will suddenly be ruined”; NLT “will be destroyed.”
+
+### Verse 18 - Note 3
+[翻訳注]  The last word in the verse, בְּאֶחָת (bÿ’ekhat), means “in one [= at once (?)].” This may indicate a sudden fall, for falling “in one” (the literal meaning) makes no sense. W. McKane wishes to emend the text to read “into a pit” based on v. 10b (Proverbs [OTL], 622); this emendation is followed by NAB, NRSV.
+
+### Verse 19 - Note 1
+[翻訳注]  Or “will have plenty of food” (Heb “bread”); so NAB, NASB, NCV.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “empty things” or “vain things”; NRSV “follows worthless pursuits.”[解説]  Prosperity depends on diligent work and not on chasing empty dreams. The proverb is essentially the same as Prov 12:11 except for the last expression.
+
+### Verse 19 - Note 3
+[翻訳注]  The repetition of the verb strengthens the contrast. Both halves of the verse use the verb יִשְׂבַּע (yisba’, “will be satisfied; will be filled with; will have enough”). It is positive in the first colon, but negative in the second – with an ironic twist to say one is “satisfied” with poverty.
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “a man of faithfulness,” although the context does not indicate this should be limited only to males.[解説]  The text does not qualify the nature of the faithfulness. While this would certainly have implications for the person’s righteous acts, its primary meaning may be his diligence and reliability in his work. His faithful work will bring the returns.
+
+### Verse 20 - Note 2
+[解説]  The proverb is not rebuking diligent labor. One who is eager to get rich quickly is the opposite of the faithful person. The first person is faithful to God and to the covenant community; the second is trying to get rich as quickly as possible, at the least without doing an honest day’s work and at the worst dishonestly. In a hurry to gain wealth, he falls into various schemes and will pay for it. Tg. Prov 28:20 interprets this to say he hastens through deceit and wrongdoing.
+
+### Verse 21 - Note 1
+[翻訳注]  The construction uses the Hiphil infinitive הַכֵּר (hakken) as the subject of the sentence: “to have respect for [or, recognize] persons is not good” (e.g., 24:23; 18:5; Deut 1:17; Lev 19:15). Such favoritism is “not good”; instead, it is a miscarriage of justice and is to be avoided.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “not good.” This is a figure of speech known as tapeinosis – a deliberate understatement to emphasize a worst-case scenario: “it is terrible!”
+
+### Verse 21 - Note 3
+[翻訳注]  The meaning and connection of the line is not readily clear. It could be taken in one of two ways: (1) a person can steal even a small piece of bread if hungry, and so the court should show some compassion, or it should show no partiality even in such a pathetic case; (2) a person could be bribed for a very small price (a small piece of bread being the figure representing this). This second view harmonizes best with the law.
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “a man with an evil eye” (as opposed to the generous man who has a “good” eye). This individual is selfish, unkind, unsympathetic to others. He looks only to his own gain. Cf. NAB “The avaricious man”; NLT “A greedy person.”
+
+### Verse 22 - Note 2
+[解説]  The one who is hasty to gain wealth is involved in sin in some way, for which he will be punished by poverty. The idea of “hastening” after riches suggests a dishonest approach to acquiring wealth.
+
+### Verse 23 - Note 1
+[翻訳注]  Or “rebukes” (NAB, NASB, NIV, NRSV).
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “a man,” but the context does not indicate this should be limited only to males.
+
+### Verse 23 - Note 3
+[翻訳注]  There is a problem with אַחֲרַי (’akharay), which in the MT reads “after me.” This could be taken to mean “after my instructions,” but that is forced. C. H. Toy suggests simply changing it to “after” or “afterward,” i.e., “in the end” (Proverbs [ICC], 504), a solution most English versions adopt. G. R. Driver suggested an Akkadian cognate ahurru, “common man,” reading “as a rebuker an ordinary man” (“Hebrew Notes,” ZAW 52 [1934]: 147).
+
+### Verse 23 - Note 4
+[翻訳注]  The construction uses the Hiphil participle מַחֲלִיק (makhaliq, “makes smooth”) followed by the adverbial accusative of means, the metonymy “tongue” – he makes what he says smooth. This will be pleasing for the moment, but it will offer no constructive help like the rebuke would.
+
+### Verse 24 - Note 1
+[解説]  While the expression is general enough to cover any kind of robbery, the point seems to be that because it can be rationalized it may refer to prematurely trying to gain control of the family property through some form of pressure and in the process reducing the parents’ possessions and standing in the community. The culprit could claim what he does is not wrong because the estate would be his anyway.
+
+### Verse 24 - Note 2
+[解説]  The metaphor of “companion” here means that a person who would do this is just like the criminally destructive person. It is as if they were working together, for the results are the same.
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “man who destroys” (so NASB); TEV “no better than a common thief.”
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “wide of soul.” This is an idiom meaning “a greedy person.” The term נֶפֶשׁ (nefesh, traditionally, “soul”) has here its more basic meaning of appetites (a person is a soul, a bundle of appetites; BDB 660 s.v. 5.a). It would mean “wide of appetite” (רְהַב־נֶפֶשׁ), thus “greedy.”
+
+### Verse 25 - Note 2
+[解説]  Greed “stirs up” the strife. This individual’s attitude and actions stir up dissension because people do not long tolerate him.
+
+### Verse 25 - Note 3
+[翻訳注]  The construction uses the participle בּוֹטֵחַ (boteakh) followed by עַל־יְהוָה (’al-yÿhvah), which gives the sense of “relying confidently on the Lord.” This is the antithesis of the greedy person who pushes to get what he desires.
+
+### Verse 25 - Note 4
+[翻訳注]  The verb דָּשֵׁן (dashen) means “to be fat,” and in the Piel/Pual stems “to make fat/to be made fat” (cf. KJV, ASV). The idea of being “fat” was symbolic of health and prosperity – the one who trusts in the Lord will be abundantly prosperous and fully gratified (cf. NRSV “will be enriched”).
+
+### Verse 26 - Note 1
+[解説]  The idea of “trusting in one’s own heart” is a way of describing one who is self-reliant. C. H. Toy says it means to follow the untrained suggestions of the mind or to rely on one’s own mental resources (Proverbs [ICC], 505). It is arrogant to take no counsel but to rely only on one’s own intelligence.
+
+### Verse 26 - Note 2
+[解説]  The idiom of “walking in wisdom” means to live life according to the acquired skill and knowledge passed on from the sages. It is the wisdom from above that the book of Proverbs presents, not the undisciplined and uninformed wit and wisdom from below.
+
+### Verse 26 - Note 3
+[翻訳注]  The verb form יִמָּלֵט (yimmalet) is the Niphal imperfect; the form means “to escape.” In this context one would conclude that it means “to escape from trouble,” because the one who lives in this life by wisdom will escape trouble, and the one who trusts in himself will not.
+
+### Verse 27 - Note 1
+[解説]  The generous individual will be rewarded. He will not lack nor miss what he has given away to the poor.
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “hides his eyes”; “to them” is supplied in the translation to indicate the link with the poor in the preceding line. Hiding or closing the eyes is a metonymy of cause or of adjunct, indicating a decision not to look on and thereby help the poor. It could also be taken as an implied comparison, i.e., not helping the poor is like closing the eyes to them.
+
+### Verse 27 - Note 3
+[翻訳注]  The term “receives” is not in the Hebrew text but is implied, and is supplied in the translation.
+
+### Verse 27 - Note 4
+[解説]  The text does not specify the nature or the source of the curses. It is natural to think that they would be given by the poor who are being mistreated and ignored. Far from being praised for their contributions to society, selfish, stingy people will be reviled for their heartless indifference.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “the wicked rise,” referring to an accession to power, as in a government. Cf. TEV “come to power”; NLT “take charge.”[解説]  The proverb is essentially the same as 28:12 (e.g., Prov 11:10; 29:2, 16). It refers to the wicked “rising to power” in government.
+
+### Verse 28 - Note 2
+[翻訳注]  Heb “a man” or “mankind” in a generic sense.
+
+### Verse 28 - Note 3
+[翻訳注]  The form is the Niphal imperfect of סָתַר (satar, “to hide”); in this stem it can mean “to hide themselves” or “to go into hiding.” In either case the expression would be a hyperbole; the populace would not go into hiding, but they would tread softly and move about cautiously. G. R. Driver suggests the Akkadian sataru instead, which means “to demolish,” and is cognate to the Aramaic “to destroy.” This would produce the idea that people are “destroyed” when the wicked come to power (“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 192-93). That meaning certainly fits the idea, but there is no reason for the change because the MT is perfectly readable as it is and makes good sense.
+
+### Verse 28 - Note 4
+[翻訳注]  The two clauses have parallel constructions: They both begin with infinitives construct with prepositions functioning as temporal clauses, followed by subjective genitives (first the wicked, and then the pronoun referring to them). This heightens the antithesis: “when the wicked rise…when they perish.”

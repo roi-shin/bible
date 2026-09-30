@@ -1,0 +1,620 @@
+{
+  "book": "Proverbs",
+  "chapter": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The words of King Lemuel, an oracle that his mother taught him:",
+      "ja": "レムエル王の言葉。その母が彼に教えた託宣。"
+    },
+    {
+      "verse": 2,
+      "en": "O my son, O son of my womb, O son of my vows, ",
+      "ja": "わが子よ、わが胎の子よ、わが誓願の子よ。"
+    },
+    {
+      "verse": 3,
+      "en": "do not give your strength to women, nor your ways to that which ruins kings. ",
+      "ja": "お前の力を女たちに費やしてはならない。王たちを滅ぼす道にお前の歩みをゆだねてはならない。"
+    },
+    {
+      "verse": 4,
+      "en": "It is not for kings, O Lemuel, it is not for kings to drink wine or for rulers to crave strong drink, ",
+      "ja": "レムエルよ、酒を飲むことは王にふさわしくない。王が酒を飲むことも、支配者が強い酒を渇望することもふさわしくない。"
+    },
+    {
+      "verse": 5,
+      "en": "lest they drink and forget what is decreed and remove from all the poor their legal rights. ",
+      "ja": "飲んで定められた掟を忘れ、すべての苦しむ者の権利を曲げることがないためである。"
+    },
+    {
+      "verse": 6,
+      "en": "Give strong drink to the one who is perishing and wine to those who are bitterly distressed; ",
+      "ja": "強い酒は滅びゆく者に、ぶどう酒は心の痛む者に与えよ。"
+    },
+    {
+      "verse": 7,
+      "en": "let them drink and forget their poverty, and remember their misery no more. ",
+      "ja": "飲んで己の貧しさを忘れ、その苦難をもはや思い出さないようにさせよ。"
+    },
+    {
+      "verse": 8,
+      "en": "Open your mouth on behalf of those unable to speak, for the legal rights of all the dying. ",
+      "ja": "口の利けない者のために口を開き、滅びゆくすべての者の権利のために弁護せよ。"
+    },
+    {
+      "verse": 9,
+      "en": "Open your mouth, judge in righteousness, and plead the cause of the poor and needy. ",
+      "ja": "口を開いて義をもって裁き、貧しい者と乏しい者の訴えを擁護せよ。"
+    },
+    {
+      "verse": 10,
+      "en": "Who can find a wife of noble character? For her value is far more than rubies. ",
+      "ja": "有能で徳の高い妻をだれが見つけられるだろうか。その価値は紅玉をはるかに超える。"
+    },
+    {
+      "verse": 11,
+      "en": "Her husband’s heart has trusted her, and he does not lack the dividends.",
+      "ja": "夫の心は彼女を信頼し、利益に事欠くことはない。"
+    },
+    {
+      "verse": 12,
+      "en": "She has rewarded him with good and not harm all the days of her life. ",
+      "ja": "彼女は生涯の日々、夫に害ではなく善をもたらす。"
+    },
+    {
+      "verse": 13,
+      "en": "She sought out wool and flax, then worked happily with her hands. ",
+      "ja": "彼女は羊毛と麻を求め、喜んで自らの手で働く。"
+    },
+    {
+      "verse": 14,
+      "en": "She was like the merchant ships; she would bring in her food from afar. ",
+      "ja": "彼女は商船のようであり、遠くから食糧を運んでくる。"
+    },
+    {
+      "verse": 15,
+      "en": "Then she rose while it was still night, and provided food for her household and a portion to her female servants.",
+      "ja": "彼女はまだ夜のうちに起き、家族に食物を供え、女中たちに割り当てを与える。"
+    },
+    {
+      "verse": 16,
+      "en": "She considered a field and bought it; from her own income she planted a vineyard. ",
+      "ja": "彼女は畑をよく考えて買い、自らの手で得た収入をもってぶどう畑を設ける。"
+    },
+    {
+      "verse": 17,
+      "en": "She clothed herself in might, and she strengthened her arms. ",
+      "ja": "彼女は力強く腰を帯で締め、腕に力を込める。"
+    },
+    {
+      "verse": 18,
+      "en": "She perceived that her merchandise was good. Her lamp would not go out in the night. ",
+      "ja": "彼女は自分の商いが良好であることを知り、夜もそのともし火を消さない。"
+    },
+    {
+      "verse": 19,
+      "en": "She extended her hands to the spool, and her hands grasped the spindle.",
+      "ja": "彼女は糸巻き棒に手を伸ばし、その手で紡ぎ車を握る。"
+    },
+    {
+      "verse": 20,
+      "en": "She opened her hand to the poor, and extended her hands to the needy. ",
+      "ja": "彼女は貧しい者に手を差し伸べ、乏しい者に救いの手を伸ばす。"
+    },
+    {
+      "verse": 21,
+      "en": "She would not fear for her household in winter, because all her household were clothed with scarlet, ",
+      "ja": "家族のために冬の雪を恐れることはない。家族全員が緋色の衣を着ているからである。"
+    },
+    {
+      "verse": 22,
+      "en": "because she had made coverings for herself; and because her clothing was fine linen and purple. ",
+      "ja": "彼女は自分のために敷物を作り、その衣は亜麻布と紫色の布である。"
+    },
+    {
+      "verse": 23,
+      "en": "Her husband is well known in the city gate when he sits with the elders of the land. ",
+      "ja": "夫はその地の長老たちと共に座し、町の門で名を知られている。"
+    },
+    {
+      "verse": 24,
+      "en": "She made linen garments then sold them and traded belts to the merchants; ",
+      "ja": "彼女は亜麻の着物を作って売り、帯を商人に引き渡す。"
+    },
+    {
+      "verse": 25,
+      "en": "her clothing was strong and splendid; and she laughed at the time to come.",
+      "ja": "力と尊厳が彼女の衣であり、彼女は来たるべき日を微笑みをもって迎える。"
+    },
+    {
+      "verse": 26,
+      "en": "She has opened her mouth with wisdom, with loving instruction on her tongue. ",
+      "ja": "彼女は知恵をもって口を開き、その舌には慈愛の教えがある。"
+    },
+    {
+      "verse": 27,
+      "en": "Watching over the ways of her household, she would not eat the bread of idleness. ",
+      "ja": "家族の様子をよく見張り、怠惰のパンを食べることはない。"
+    },
+    {
+      "verse": 28,
+      "en": "Her children have risen and called her blessed; her husband also has praised her:",
+      "ja": "子らは立ち上がって彼女を祝福し、夫もまた彼女をたたえる。"
+    },
+    {
+      "verse": 29,
+      "en": "“Many daughters have done valiantly, but you have surpassed them all!” ",
+      "ja": "多くの娘たちが立派に行動したが、あなたはそのすべてにまさっている。"
+    },
+    {
+      "verse": 30,
+      "en": "Charm is deceitful and beauty is fleeting. A woman who fears the Lord—she makes herself praiseworthy.",
+      "ja": "麗しさは偽りであり、美しさは移ろいやすい。しかし主を恐れる女は称賛を受ける。"
+    },
+    {
+      "verse": 31,
+      "en": "Give her credit for what she has accomplished, and let her works praise her in the city gates. ",
+      "ja": "彼女の手の成果を認めよ。その行いが町の門で彼女をたたえるようにせよ。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  Nothing else is known about King Lemuel aside from this mention in the book of Proverbs. Jewish legend identifies him as Solomon, making this advice from his mother Bathsheba; but there is no evidence for that. The passage is the only direct address to a king in the book of Proverbs – something that was the norm in wisdom literature of the ancient world (Leah L. Brunner, “King and Commoner in Proverbs and Near Eastern Sources,” Dor le Dor 10 [1982]: 210-19; Brunner argues that the advice is religious and not secular).",
+        "ja": "[解説] レムエル王については、箴言のこの言及を除いて他には何も知られていない。ユダヤの伝承では彼をソロモンとし、この助言を母バテ・シェバからのものとしているが、それを裏付ける証拠はない。この箇所は箴言の中で王に直接語りかける唯一の箇所であり、古代世界の知恵文学においては通例であった（Leah L. Brunner, “King and Commoner in Proverbs and Near Eastern Sources,” Dor le Dor 10 [1982]: 210-19; Brunnerはこの助言が世俗的なものではなく宗教的なものであると論じている）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Some English versions take the Hebrew noun translated “oracle” here as a place name specifying the kingdom of King Lemuel; cf. NAB “king of Massa”; CEV “King Lemuel of Massa.”",
+        "ja": "[翻訳注] 一部の英語訳では、ここで託宣と訳されているヘブライ語の名詞を、レムエル王の王国を示す地名（マサ）と解釈している（NAB「マサの王」、CEV「マサのレムエル王」参照）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form מַה (mah), normally the interrogative “what?” (so KJV, ASV, NAB, NASB) is best interpreted here as an exclamation. Tg. Prov 31:2 has “Woe!”",
+        "ja": "[翻訳注] מַה（mah）という形は、通常は疑問詞「何」を表すが（KJV、ASV、NAB、NASBなど）、ここでは感嘆詞として解釈するのが最も適切である。タルグム・箴言31章2節には「ああ」とある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  In all three occurrences in this verse the word “son” has the Aramaic spelling, ַַבּר (bar), rather than the Hebrew בֵּן (ben). The repetition of the word “son” shows the seriousness of the warning; and the expression “son of my womb” and “son of my vows” are endearing epithets to show the great investment she has made in his religious place in God’s program. For a view that “son of my womb” should be “my own son,” see F. Deist, “Proverbs 31:1, A Case of Constant Mistranslation,” JNSL 6 (1978): 1-3; cf. TEV “my own dear son.”",
+        "ja": "[翻訳注] この節の3つの「子」という語はすべて、ヘブライ語のבֵּן（ben）ではなく、アラム語の綴りであるבַּר（bar）が用いられている。言葉の繰り返しは警告の重大さを示しており、「わが胎の子」「わが誓願の子」という表現は、神の経綸における息子の宗教的立場に対して母親が払った多大な献身を示す親愛の呼びかけである。「わが胎の子」を「わが実の子」とすべきとする見解については、F. Deist, “Proverbs 31:1, A Case of Constant Mistranslation,” JNSL 6 (1978): 1-3; TEV「わが愛する実の子」を参照。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[解説]  The word translated “strength” refers to physical powers here, i.e., “vigor” (so NAB) or “stamina.” It is therefore a metonymy of cause; the effect would be what spending this strength meant – sexual involvement with women. It would be easy for a king to spend his energy enjoying women, but that would be unwise.",
+        "ja": "[解説] 力と訳された言葉は、ここでは肉体的な力、すなわち活力（NABなど）や精力を指す。したがって、これは原因による換喩であり、その結果はこの力を費やすこと、すなわち女性との性的関係を意味する。王が女性を楽しむことに精力を費やすのは容易であるが、それは賢明ではない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word “ways” may in general refer to the heart’s affection for or attention to, or it may more specifically refer to sexual intercourse. While in the book of Proverbs the term is an idiom for the course of life, in this context it must refer to the energy spent in this activity.",
+        "ja": "[解説] 歩み（道）という言葉は、一般には心への執着や関心を指すこともあれば、より具体的には性交を指すこともある。箴言においては人生の歩みを表す慣用句であるが、この文脈ではこの行為に費やされるエネルギーを指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The construction uses Qal infinitive construct לַמְחוֹת (lamkhot, “to wipe out; to blot out; to destroy”). The construction is somewhat strange, and so some interpreters suggest changing it to מֹחוֹת (mokhot, “destroyers of kings”); cf. BDB 562 s.v. מָחָה Qal.3. Commentators note that the form is close to an Aramaic word that means “concubine,” and an Arabic word that is an indelicate description for women.",
+        "ja": "[翻訳注] この構文には、カル語幹不定詞連体形לַמְחוֹת（lamkhot、「消し去る、ぬぐい去る、滅ぼす」）が用いられている。この構文はやや不自然であるため、一部の解釈者はこれをמֹחוֹת（mokhot、「王たちを滅ぼすもの」）に変更することを提案している（BDB 562 s.v. מָחָה Qal.3参照）。注釈者たちは、この形が側室を意味するアラム語や、女性に対する不快な描写であるアラビア語の単語に近いことを指摘している。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “[It is] not for kings.”",
+        "ja": "[翻訳注] ヘブライ語では「王たちのものではない」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This second warning for kings concerns the use of alcohol. If this passage is meant to prohibit any use of alcohol by kings, it would be unheard of in any ancient royal court. What is probably meant is an excessive and unwarranted use of alcohol, or a troubling need for it, so that the meaning is “to drink wine in excess” (cf. NLT “to guzzle wine”; CEV “should not get drunk”). The danger, of course, would be that excessive use of alcohol would cloud the mind and deprive a king of true administrative ability and justice.",
+        "ja": "[解説] 王に対するこの第2の警告は、アルコールの摂取に関するものである。もしこの箇所が王によるあらゆるアルコール摂取を禁止することを意図しているとすれば、古代の宮廷では前代未聞のことである。意図されているのは、アルコールの過度で不当な摂取、あるいはそれに対する問題のある渇望であり、「過度に酒を飲むこと」を意味する（NLT「酒をがぶ飲みすること」、CEV「酔ってはならない」参照）。危険なのは、過度の飲酒が思考を曇らせ、王から統治能力と公正な裁きを奪うことである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The MT has אֵו (’ev), a Kethib/Qere reading. The Kethib is אוֹ (’o) but the Qere is אֵי (’ey). Some follow the Qere and take the word as a shortened form of וַֹיֵּה, “where?” This would mean the ruler would be always asking for drink (cf. ASV). Others reconstruct to אַוֵּה (’avveh, “to desire; to crave”). In either case, the verse would be saying that a king is not to be wanting/seeking alcohol.[翻訳注]  Here “strong drink” probably refers to barley beer (cf. NIV, NCV “beer”).",
+        "ja": "[翻訳注] マソラ本文にはケティブ・ケレの読みであるאֵו（’ev）がある。ケティブはאוֹ（’o）であるが、ケレはאֵי（’ey）である。一部の学者はケレに従い、この語を「どこ」を意味するוַֹיֵּהの短縮形と見なす。これは支配者が常に酒を求めていることを意味する（ASV参照）。他の学者はאַוֵּה（’avveh、「望む、渇望する」）と再構成する。いずれにしても、この節は王がアルコールを求めたり欲したりすべきではないと述べている。[翻訳注] ここで強い酒はおそらく大麦ビールを指している（NIV、NCV「ビール」参照）。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb means “change,” perhaps expressed in reversing decisions or removing rights.",
+        "ja": "[翻訳注] この動詞は「変える」を意味し、決定を覆すことや権利を奪うことを表している可能性がある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all the children of poverty.” This expression refers to the poor by nature. Cf. KJV, NASB, NRSV “the afflicted”; NIV “oppressed.”",
+        "ja": "[翻訳注] ヘブライ語では「すべての貧困の子ら」。この表現は生まれつき貧しい人々を指す（KJV、NASB、NRSV「苦しむ者」、NIV「虐げられた者」参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The word is דִּין (din, “judgment”; so KJV). In this passage it refers to the cause or the plea for justice, i.e., the “legal rights.”",
+        "ja": "[解説] この語はדִּין（din、「裁き」、KJVなど）である。この箇所では、正義を求める訴えや権利、すなわち法的権利を指す。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  Wine and beer should be given to those distressed and dying in order to ease their suffering and help them forget.",
+        "ja": "[解説] 苦しんでいる者や死に瀕している者の苦痛を和らげ、忘れさせるために、酒やビールが与えられるべきである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to the bitter of soul.” The phrase לְמָרֵי נָפֶשׁ (lÿmare nafesh) has been translated “of heavy hearts” (KJV); “in anguish” (NIV); “in misery” (TEV); “in bitter distress” (NRSV); “sorely depressed” (NAB); “in deep depression (NLT); “have lost all hope” (CEV). The word “bitter” (מַר, mar) describes the physical and mental/spiritual suffering as a result of affliction, grief, or suffering – these people are in emotional pain. So the idea of “bitterly distressed” works as well as any other translation.",
+        "ja": "[翻訳注] ヘブライ語では「心の苦い者に」。לְמָרֵイ נָפֶשׁ（lÿmare nafesh）という表現は、「心が沈んでいる者」（KJV）、「苦悩のうちにある者」（NIV）、「悲惨の中にある者」（TEV）、「苦痛の中にある者」（NRSV）、「深く落胆している者」（NAB）、「深い絶望の中にある者」（NLT）、「すべての希望を失った者」（CEV）などと訳されてきた。苦い（מַר, mar）という言葉は、苦難や悲哀、苦痛の結果としての肉体的および精神的・霊的な苦しみを表しており、これらの人々は感情的な苦痛の中にある。したがって、「心の痛む者」という解釈は適切である。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The subjects and suffixes are singular (cf. KJV, ASV, NASB). Most other English versions render this as plural for stylistic reasons, in light of the preceding context.",
+        "ja": "[翻訳注] 主語と接尾辞は単数形である（KJV、ASV、NASB参照）。他の英語訳の多くは、文脈を考慮して文体上の理由から複数形で訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The king was not to “drink and forget”; the suffering are to “drink and forget.”",
+        "ja": "[翻訳注] 王は飲んで忘れるべきではないが、苦しむ者は飲んで忘れるべきである。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[解説]  The instruction to “open your mouth” is a metonymy of cause; it means “speak up for” (so NIV, TEV, NLT) or in this context “serve as an advocate in judgment” (cf. CEV “you must defend”).",
+        "ja": "[解説] 口を開くという指示は原因の換喩であり、「代弁する」（NIV、TEV、NLTなど）、あるいはこの文脈では「裁判において弁護人を務める」（CEV「弁護しなければならない」参照）を意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The instruction compares people who cannot defend themselves in court with those who are physically unable to speak (this is a figure of speech known as hypocatastasis, an implied comparison). The former can physically speak; but because they are the poor, the uneducated, the oppressed, they are unable to conduct a legal defense. They may as well be speechless.",
+        "ja": "[解説] この指示は、法廷で自らを弁護できない人々を、肉体的に口が利けない人々に例えている（暗示的比較である隠喩的表現の一種）。前者は肉体的に話すことはできるが、貧しく、教育を受けておらず、虐げられているため、法的な弁護を行うことができない。彼らは実質的に言葉を発せないのと同様である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “of all the defenseless.” The noun חֲלוֹף (khalof) means “passing away; vanishing” (properly an infinitive); in this construction “the sons of the passing away” means people who by nature are transitory, people who are dying – mortals. But in this context it would indicate people who are “defenseless” as opposed to those who are healthy and powerful.",
+        "ja": "[翻訳注] または「すべての無力な者の」。名詞חֲלוֹף（khalof）は「消え去ること、消滅すること」を意味し（本来は不定詞）、「消え去る子ら」という構文は、本質的に移ろいやすい人々、すなわち死にゆく者、死すべき運命にある人間を意味する。しかしこの文脈では、健康で力ある者とは対照的な無力な人々を指す。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The noun צֶדֶק (tsedeq) serves here as an adverbial accusative of manner. The decisions reached (שְׁפָט, shÿfat) in this advocacy must conform to the standard of the law. So it is a little stronger than “judging fairly” (cf. NIV, NCV), although it will be fair if it is done righteously for all.",
+        "ja": "[翻訳注] 名詞צֶדֶק（tsedeq）は、ここでは様態の副詞的対格として機能している。この弁護において下される決定（שְׁפָט, shÿfat）は、律法の基準に合致していなければならない。したがって、「公正に裁く」（NIV、NCV参照）よりも強い意味を持つが、すべての人のために義をもって行われるならば公正なものとなる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Previously the noun דִּין (din, judgment”) was used, signifying the legal rights or the pleas of the people. Now the imperative דִּין is used. It could be translated “judge,” but in this context “judge the poor” could be misunderstood to mean “condemn.” Here advocacy is in view, and so “plead the cause” is a better translation (cf. NASB, NIV, NRSV “defend the rights”). It was – and is – the responsibility of the king (ruler) to champion the rights of the poor and needy, who otherwise would be ignored and oppressed. They are the ones left destitute by the cruelties and inequalities of life (e.g., 2 Sam 14:4-11; 1 Kgs 3:16-28; Pss 45:3-5, 72:4; Isa 9:6-7).",
+        "ja": "[解説] 先ほどは名詞דִּין（din、「裁き」）が用いられ、人々の法的権利や訴えを表していた。ここでは命令形דִּיןが用いられている。これは「裁く」とも訳せるが、この文脈で「貧しい者を裁く」とすると「罪に定める」と誤解される恐れがある。ここでは弁護が念頭に置かれているため、「訴えを弁護する」と訳すのが適切である（NASB、NIV、NRSV「権利を守る」参照）。放置されれば無視され虐げられる貧しい者や困窮している者の権利を擁護することは、王（統治者）の責任であった（例：サムエル記下14:4-11、列王記上3:16-28、詩篇45:3-5、72:4、イザヤ書9:6-7）。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[解説]  The book of Proverbs comes to a close with this poem about the noble wife. A careful reading of the poem will show that it is extolling godly wisdom that is beneficial to the family and the society. Traditionally it has been interpreted as a paradigm for godly women. And while that is valid in part, there is much more here. The poem captures all the themes of wisdom that have been presented in the book and arranges them in this portrait of the ideal woman (Claudia V. Camp, Wisdom and the Feminine in the Book of Proverbs, 92-93). Any careful reading of the passage would have to conclude that if it were merely a paradigm for women what it portrays may well be out of reach – she is a wealthy aristocrat who runs an estate with servants and conducts business affairs of real estate, vineyards, and merchandising, and also takes care of domestic matters and is involved with charity. Moreover, it says nothing about the woman’s personal relationship with her husband, her intellectual and emotional strengths, or her religious activities (E. Jacob, “Sagesse et Alphabet: Pr. 31:10-31,” Hommages à A. Dont-Sommer, 287-95). In general, it appears that the “woman” of  is a symbol of all that wisdom represents. The poem, then, plays an important part in the personification of wisdom so common in the ancient Near East. But rather than deify Wisdom as the other ANE cultures did, Proverbs simply describes wisdom as a woman. Several features will stand out in the study of this passage. First, it is an alphabetic arrangement of the virtues of wisdom (an acrostic poem). Such an acrostic was a way of organizing the thoughts and making them more memorable (M. H. Lichtenstein, “Chiasm and Symmetry in ,” CBQ 44 [1982]: 202-11). Second, the passage is similar to hymns, but this one extols wisdom. A comparison with  will illustrate the similarities. Third, the passage has similarities with heroic literature. The vocabulary and the expressions often sound more like an ode to a champion than to a domestic scene. Putting these features together, one would conclude that Proverbs 31:10-31 is a hymn to Lady Wisdom, written in the heroic mode. Using this arrangement allows the sage to make all the lessons of wisdom in the book concrete and practical, it provides a polemic against the culture that saw women as merely decorative, and it depicts the greater heroism as moral and domestic rather than only exploits on the battlefield. The poem certainly presents a pattern for women to follow. But it also presents a pattern for men to follow as well, for this is the message of the book of Proverbs in summary.",
+        "ja": "[解説] 箴言は、この高潔な妻についての詩で幕を閉じる。この詩を注意深く読むと、家族と社会に益をもたらす神の知恵をたたえていることがわかる。伝統的には敬虔な女性の模範として解釈されてきた。それは部分的には妥当であるが、ここにはそれ以上の意味がある。この詩は本書で提示されてきた知恵のすべてのテーマを捉え、それらを理想的な女性の描写の中に整理している（Claudia V. Camp, Wisdom and the Feminine in the Book of Proverbs, 92-93）。この箇所を精読すれば、これが単なる女性の模範であるとすれば、描かれている内容は到底及びもつかないものであると結論付けざるを得ない。彼女は召使いを抱えて屋敷を切り盛りし、不動産やぶどう畑、商業の事業を営み、家事を取り仕切り、慈善活動にも携わる裕福な貴族である。さらに、夫との個人的な関係や、知性や感情の強さ、宗教活動については何も語られていない（E. Jacob, “Sagesse et Alphabet: Pr. 31:10-31,” Hommages à A. Dont-Sommer, 287-95）。総じて、31章の女性は知恵が表すすべての象徴であると考えられる。したがって、この詩は古代近東で一般的であった知恵の擬人化において重要な役割を果たしている。しかし、他の古代近東文化のように知恵を神格化するのではなく、箴言は知恵を一人の女性として描写している。この箇所を学ぶにあたり、いくつかの特徴が際立っている。第1に、知恵の徳をアルファベット順に配置した踏み出し詩（折句）であること。このような折句は、思考を整理し、覚えやすくするための方法であった（M. H. Lichtenstein, “Chiasm and Symmetry in Prov 31,” CBQ 44 [1982]: 202-11）。第2に、賛歌に類似しているが、ここでは知恵が称えられている点である。詩篇111篇との比較によって類似点が明らかになる。第3に、英雄文学との類似性である。語彙や表現は、家庭的な情景というよりも勝者をたたえる頌歌に似ていることが多い。これらの特徴を総合すると、箴言31:10-31は英雄叙事詩の形式で書かれた知恵の貴婦人への賛歌であると結論付けられる。この形式を用いることで、賢者は本書における知恵の教訓を具体的かつ実践的なものとし、女性を単なる装飾品と見なす文化に対する反論を提供し、戦場での手柄だけでなく道徳的・家庭的な営みこそがより大いなる英雄的行為であることを示している。この詩は女性が従うべき規範を提示しているが、同時に男性が従うべき規範も提示している。これこそが箴言の要約されたメッセージだからである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The poem begins with a rhetorical question (a figure of speech known as erotesis). This is intended to establish the point that such a noble wife is rare. As with wisdom in the book of Proverbs, she has to be found.",
+        "ja": "[解説] この詩は修辞的疑問（反語）で始まる。これは、そのような高潔な妻が稀であることを示す意図がある。箴言における知恵と同様に、彼女は見出されなければならない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The first word in the Hebrew text (אֵשֶׁת, ’eshet) begins with א (alef), the first letter in the Hebrew alphabet.",
+        "ja": "[翻訳注] ヘブライ語本文の最初の単語（אֵשֶׁת, ’eshet）は、ヘブライ語アルファベットの第1文字であるא（アレフ）で始まる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “a woman of valor.” This is the same expression used to describe Ruth (e.g., Ruth 3:11). The term חַיִל (khayil) here means “moral worth” (BDB 298 s.v.); cf. KJV “a virtuous woman.” Elsewhere the term is used of physical valor in battle, e.g., “mighty man of valor,” the land-owning aristocrat who could champion the needs of his people in times of peace or war (e.g., Judg 6:12). Here the title indicates that the woman possesses all the virtues, honor, and strength to do the things that the poem will set forth.",
+        "ja": "[翻訳注] ヘブライ語では「力ある女」。これはルツを描写するのに用いられたのと同じ表現である（ルツ記3:11など）。ここでのחַיִל（khayil）という語は道徳的価値を意味する（BDB 298 s.v.、KJV「徳の高い女」参照）。他の箇所では、この語は戦いにおける肉体的な武勇、例えば平和時や戦時に民の必要のために戦うことができた土地所有貴族である「力ある勇士」に対して用いられている（士師記6:12など）。ここでは、この女性が詩に示される事柄を行うためのすべての徳、名誉、力を備えていることを示している。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  This line expresses that her value (Heb “her price”), like wisdom, is worth more than rubies (e.g., 3:15; 8:11).",
+        "ja": "[解説] この行は、彼女の価値（ヘブライ語では「彼女の代価」）が知恵と同様に紅玉よりもはるかに価値があることを表している（3:15、8:11など）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the second line begins with בּ (bet), the second letter in the Hebrew alphabet. The verb בָּטַח (batakh) means “to trust; to have confidence in.” With the subject of the verb being “the heart of her husband,” the idea is strengthened – he truly trusts her. Cf. NCV “trusts her completely”; NIV “has full confidence in her.”",
+        "ja": "[翻訳注] 第2行の最初の単語は、ヘブライ語アルファベットの第2文字であるבּ（ベート）で始まる。動詞בָּטַח（batakh）は「信頼する、確信する」を意味する。動詞の主語が「彼女の夫の心」であることにより、夫が彼女を心から信頼しているという概念が強調される（NCV「彼女を完全に信頼する」、NIV「彼女に全幅の信頼を置く」参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Hebrew word used here for “gain” (שָׁלָל, shalal) is unusual; it means “plunder; spoil” of war primarily (e.g., Isa 8:1-4 and the name Maher-Shalal-Hash-Baz). The point is that the gain will be as rich and bountiful as the spoils of war. The wife’s capabilities in business and domestic matters guarantee a rich profit and inspire the confidence of her husband.",
+        "ja": "[解説] ここで利益に用いられているヘブライ語（שָׁלָל, shalal）は珍しく、本来は戦争の略奪品や分捕り物を意味する（イザヤ書8:1-4およびマヘル・シャラル・ハシュ・バズという名前を参照）。要点は、利益が戦利品のように豊かで潤沢であるということである。事業や家庭の事柄における妻の能力は豊かな利益を保証し、夫の信頼を奮い立たせる。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the third line begins with ג (gimel), the third letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第3行の最初の単語は、ヘブライ語アルファベットの第3文字であるג（ギメル）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The joining of these two words, “good” and “evil,” is frequent in the Bible; they contrast the prosperity and well-being of her contribution with what would be devastating and painful. The way of wisdom is always characterized by “good”; the way of folly is associated with “evil.”",
+        "ja": "[解説] 善と悪というこれら2つの言葉の組み合わせは聖書で頻繁に見られる。それらは、彼女の貢献による繁栄と幸福を、壊滅的で苦痛に満ちたものと対比させている。知恵の道は常に善によって特徴づけられ、愚行の道は悪と結びついている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the fourth line begins with דּ (dalet) the fourth letter of the Hebrew alphabet. The verb דָרַשׁ (darash) means “to seek; to inquire; to investigate.” The idea is that she looks for the wool and flax to do her work, but the whole verse assumes she has obtained it. This verb also occurs in the hymn of , which says in v. 2 that “the works of the Lord are searched.” One word used in another passage is not that significant; but the cumulative effect of words and ideas suggest that the composition of this poem is influenced by hymnology.",
+        "ja": "[翻訳注] 第4行の最初の単語は、ヘブライ語アルファベットの第4文字であるדּ（ダレット）で始まる。動詞דָרַשׁ（darash）は「求める、尋ねる、調べる」を意味する。彼女が仕事をするために羊毛と麻を探すことを意味しているが、節全体としては彼女がそれを手に入れたことを前提としている。この動詞は詩篇111篇の賛歌にも現れ、2節で「主の御業は調べられる」とある。他の箇所で用いられている1つの単語自体は重要ではないが、言葉や概念の累積的な効果は、この詩の構成が賛歌の影響を受けていることを示唆している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and she works in the pleasure of her hands.” The noun חֵפֶץ (khefets) means “delight; pleasure.” BDB suggests it means here “that in which one takes pleasure,” i.e., a business, and translates the line “in the business of her hands” (BDB 343 s.v. 4). But that translation reduces the emphasis on pleasure and could have easily been expressed in other ways. Here it is part of the construct relationship. The “hands” are the metonymy of cause, representing all her skills and activities in making things. It is also a genitive of specification, making “pleasure” the modifier of “her hands/her working.” She does her work with pleasure. Tg. Prov 31:13 has, “she works with her hands in accordance with her pleasure.”",
+        "ja": "[翻訳注] ヘブライ語では「そして彼女は自分の手の喜びのうちに働く」。名詞חֵפֶץ（khefets）は「喜び、楽しみ」を意味する。BDBはこれが「人が喜びを見出すもの」、すなわち事業を意味すると示唆し、この行を「彼女の手の事業において」と訳している（BDB 343 s.v. 4）。しかしその訳は喜びへの強調を弱めてしまう。ここでは連語関係の一部となっている。手は原因の換喩であり、物を作る際における彼女の技術と活動を表す。また限定の属格でもあり、「喜び」が「彼女の手／彼女の働き」を修飾している。彼女は喜びをもって仕事を行う。タルグム・箴言31章13節には「彼女は自分の喜びにかなって自らの手で働く」とある。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the fifth line begins with ה (he), the fifth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第5行の最初の単語は、ヘブライ語アルファベットの第5文字であるה（ヘー）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The point of the simile is that she goes wherever she needs to go, near and far, to gather in all the food for the needs and the likes of the family. The line captures the vision and the industry of this woman.",
+        "ja": "[解説] この直喩の要点は、家族の必要と好みのためにすべての食糧を集めるため、彼女が近くであれ遠くであれ必要な場所ならどこへでも赴くことである。この行はこの女性の先見の明と勤勉さを表している。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the sixth line begins with ו (vav), the sixth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第6行の最初の単語は、ヘブライ語アルファベットの第6文字であるו（ヴァヴ）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word for “food” is טֶרֶף (teref, “prey”; KJV “meat”), another word that does not normally fit the domestic scene. This word also is used in a similar way in Ps 111:5, which says the Lord gives food. Here it is the noble woman who gives food to her family and servants.",
+        "ja": "[解説] 食物を表す言葉はטֶרֶף（teref、「獲物」、KJV「肉」）であり、通常は家庭の情景に合わないもうひとつの言葉である。この語は詩篇111:5でも同様に用いられており、主が食物を与えられると述べられている。ここでは、家族と召使いに食物を与えるのは高潔な女性である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The word חֹק (khoq) probably means “allotted portion of food” as before, but some suggest it means the task that is allotted to the servants, meaning that the wise woman gets up early enough to give out the work assignments (Tg. Prov 31:15, RSV, NRSV, TEV, NLT). That is possible, but seems an unnecessary direction for the line to take. Others, however, simply wish to delete this last colon, leaving two cola and not three, but that is unwarranted.",
+        "ja": "[解説] חֹק（khoq）という語は、おそらく前述のように割り当てられた食物を意味するが、召使いに割り当てられる日課を意味し、賢い女性が早く起きて仕事の割り当てを与えることを意味すると示唆する者もいる（タルグム・箴言31:15、RSV、NRSV、TEV、NLT）。それは可能であるが、この行が取るべき不必要な方向性のように思われる。また、この最後の行を削除して3行ではなく2行にしようとする者もいるが、根拠がない。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the seventh line begins with ז (zayin), the seventh letter of the Hebrew alphabet.[解説]  The word “considers” means “to plan carefully” in accordance with her purposes. The word is often used in the book of Proverbs for devising evil; but here it is used positively of the woman’s wise investment.",
+        "ja": "[翻訳注] 第7行の最初の単語は、ヘブライ語アルファベットの第7文字であるז（ザイン）で始まる。[解説] よく考えるという言葉は、自分の目的に従って注意深く計画することを意味する。この言葉は箴言において悪を企むことによく使われるが、ここでは女性の賢明な投資に対して肯定的に使われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from the fruit of her hands.” The expression employs two figures. “Hands” is a metonymy of cause, indicating the work she does. “Fruit” is a hypocatastasis, an implied comparison meaning what she produces, the income she earns. She is able to plant a vineyard from her income.",
+        "ja": "[翻訳注] ヘブライ語では「彼女の手の実から」。この表現には2つの修辞技法が用いられている。手は原因の換喩であり、彼女が行う労働を示す。実は暗示的比較であり、彼女が生み出すもの、すなわち彼女が得る収入を意味する。彼女は自分の収入からぶどう畑を植えることができる。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the eighth line begins with ח (khet), the eighth letter of the Hebrew alphabet.[翻訳注]  Heb “she girds her loins with strength.” The idea is that of gathering up the long robes with a sash or belt so that they do not get in the way of the work. The point of the figure is readiness for work. But to say she girds herself with “strength” means that she begins vigorously. “Strength” here would be a comparison with the sash.",
+        "ja": "[翻訳注] 第8行の最初の単語は、ヘブライ語アルファベットの第8文字であるח（ヘット）で始まる。[翻訳注] ヘブライ語では「彼女は力で腰を帯留めする」。この概念は、仕事の邪魔にならないように丈の長い衣を飾り帯や帯でたくし上げることを指す。この比喩の要点は、仕事への備えができていることである。しかし彼女が力を帯びると言うことは、彼女が力強く仕事を始めることを意味する。ここでの力は帯との比較である。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The expression “she makes her arm strong” parallels the first half of the verse and indicates that she gets down to her work with vigor and strength. There may be some indication here of “rolling up the sleeves” to ready the arms for the task, but that is not clear.",
+        "ja": "[解説] 腕を強くするという表現は節の前半と対になっており、彼女が力と活気をもって仕事に取り掛かることを示している。ここで仕事を始めるために腕まくりをすることを示唆している可能性もあるが、明確ではない。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the ninth line begins with ט (tet), the ninth letter of the Hebrew alphabet.[解説]  This is the word for “taste.” It means her opinion or perception, what she has learned by experience and therefore seems right.",
+        "ja": "[翻訳注] 第9行の最初の単語は、ヘブライ語アルファベットの第9文字であるט（テット）で始まる。[解説] これは味わうを意味する言葉である。彼女の見解や認識、すなわち経験によって学んだ結果、正しいと思われることを意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The line may be taken literally to mean that she is industrious throughout the night (“burning the midnight oil”) when she must in order to follow through a business deal (W. McKane, Proverbs [OTL], 668); cf. TEV. But the line could also be taken figuratively, comparing “her light” to the prosperity of her household – her whole life – which continues night and day.",
+        "ja": "[解説] この行は、取引を完遂するために必要なときには夜通し勤勉に働くことを意味すると文字通りに解釈できる（W. McKane, Proverbs [OTL], 668、TEV参照）。しかし、この行は彼女のともし火を家族の繁栄、すなわち昼夜を問わず続く彼女の全生涯に例えた比喩的表現としても解釈できる。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the tenth line begins with י (yod) the tenth letter of the Hebrew alphabet.[解説]  The words for “hands” are often paired in poetry; the first (יָד, yad) means the hand and the forearm and usually indicates strength, and the second (כַּף, kaf) means the palm of the hand and usually indicates the more intricate activity.",
+        "ja": "[翻訳注] 第10行の最初の単語は、ヘブライ語アルファベットの第10文字であるי（ヨッド）で始まる。[解説] 手を表す言葉は詩の中でしばしば対になって用いられる。第1の語（יָד, yad）は手と前腕を意味し通常は力を示し、第2の語（כַּף, kaf）は手のひらを意味し通常はより繊細な活動を示す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb שִׁלַּח (shilakh), the Piel perfect of the verb “to send,” means in this stem “to thrust out; to stretch out.” It is a stronger word than is perhaps necessary. It is a word that is also used in military settings to describe the firmness and forthrightness of the activity (Judg 5:26).",
+        "ja": "[翻訳注] 動詞שִׁלַּח（shilakh）は、「送る」を意味する動詞のピエル語幹完了形であり、この語幹では「突き出す、伸ばす」を意味する。必要以上に強い言葉である。軍事的な文脈でも行動の確固たる力強さを表すために用いられる言葉である（士師記5:26）。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[解説]  The parallel expressions here underscore her care for the needy. The first part uses “she spreads her palm” and the second “she thrusts out her hand,” repeating some of the vocabulary introduced in the last verse.",
+        "ja": "[解説] ここでの並行表現は、困窮している者に対する彼女の配慮を強調している。第1の部分では「手のひらを広げる」が使われ、第2の部分では「手を伸ばす」が使われており、前節で導入された語彙の一部が繰り返されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The first word of the eleventh line begins with כּ (kaf), the eleventh letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第11行の最初の単語は、ヘブライ語アルファベットの第11文字であるכּ（カフ）で始まる。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the twelfth line begins with ל (lamed), the twelfth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第12行の最初の単語は、ヘブライ語アルファベットの第12文字であるל（ラメッド）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  “Snow” is a metonymy of adjunct; it refers to the cold weather when snow comes. The verse is saying that this time is not a concern for the wise woman because the family is well prepared.",
+        "ja": "[解説] 雪は隣接物の換喩であり、雪が降る寒い気候を指す。この節は、家族への備えが整っているため、賢い女性にとってこの季節が心配事にならないことを述べている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  For the MT’s “scarlet” the LXX and the Latin have “two” or “double” – the difference being essentially the vocalization of a plural as opposed to a dual. The word is taken in the versions with the word that follows (“covers”) to means “double garments.” The question to be asked is whether scarlet would keep one warm in winter or double garments. The latter is the easier reading and therefore suspect.",
+        "ja": "[翻訳注] マソラ本文の「緋色」に対して、七十人訳聖書とラテン語訳は「2つ」または「二重」としている。この相違は本質的に、複数形と双数形の母音符の違いによるものである。諸訳ではこの語が後続の語（「覆い」）と共に「二重の衣」を意味すると解釈されている。問われるべきは、冬に人を暖かく保つのは緋色か二重の衣かということである。後者はより理解しやすい読みであるため、本文批判上は疑わしい。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the thirteenth line begins with מ (mem), the thirteenth letter of the Hebrew alphabet. The word rendered “coverlets” appears in 7:16, where it has the idea of “covered.” K&D 17:335 suggests “pillows” or “mattresses” here. The Greek version has “lined overcoats” or “garments,” but brings over the last word of the previous verse to form this line and parallel the second half, which has clothing in view.",
+        "ja": "[翻訳注] 第13行の最初の単語は、ヘブライ語アルファベットの第13文字であるמ（メム）で始まる。敷物と訳された言葉は7:16にも現れ、「覆われた」という意味を持つ。K&D 17:335はここで「枕」や「マットレス」を示唆している。ギリシャ語訳では「裏地付きの外套」または「衣」としているが、前節の最後の語をこの行に繰り越して、衣が念頭に置かれている後半と並行させている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The “fine linen” refers to expensive clothing (e.g., Gen 41:42), as does the “purple” (e.g., Exod 26:7; 27:9, 18). Garments dyed with purple indicated wealth and high rank (e.g., Song 3:5). The rich man in Luke 16:19 was clothed in fine linen and purple as well. The difference is that the wise woman is charitable, but he is not.",
+        "ja": "[解説] 高級亜麻布は高価な衣服を指し（創世記41:42など）、紫色の布も同様である（出エジプト記26:7、27:9, 18など）。紫色に染められた衣服は富と高い身分を示していた（雅歌3:5など）。ルカの福音書16:19の金持ちもまた、高級亜麻布と紫の衣を着ていた。違いは、賢い女性は慈悲深いのに、金持ちはそうではなかったという点である。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the fourteenth line begins with נ (nun), the fourteenth letter of the Hebrew alphabet. The form is the Niphal participle of יָדַע (yada’); it means that her husband is “known.” The point is that he is a prominent person, respected in the community.",
+        "ja": "[翻訳注] 第14行の最初の単語は、ヘブライ語アルファベットの第14文字であるנ（ヌン）で始まる。この形はיָדַע（yada’）のニファル語幹分詞であり、夫が「知られている」ことを意味する。要点は、彼が地域社会で尊敬される著名な人物であるということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gate”; the term “city” has been supplied in the translation for clarity.[解説]  The “gate” was the area inside the entrance to the city, usually made with rooms at each side of the main street where there would be seats for the elders. This was the place of assembly for the elders who had judicial responsibilities.",
+        "ja": "[翻訳注] ヘブライ語では「門」。明確にするため、訳出にあたって「町」が補われている。[解説] 門は町の入り口の内側の区域であり、通常は大通りの両側に長老たちの座席となる部屋が設けられていた。ここは司法の責務を負う長老たちの集会の場所であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The construction uses the infinitive construct with the preposition and a pronominal suffix that serves as the subject (subjective genitive) to form a temporal clause. The fact that he “sits with the elders” means he is one of the elders; he sits as a judge among the people.",
+        "ja": "[翻訳注] 構文は、前置詞を伴う不定詞連体形と、主語として機能する代名詞接尾辞（主格的属格）を用いて時を表す節を形成している。彼が「長老たちと共に座す」という事実は、彼が長老の一人であり、民の間で裁判官として座していることを意味する。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the fifteenth line begins with ס (samek), the fifteenth letter of the Hebrew alphabet.[解説]  The poet did not think it strange or unworthy for a woman of this stature to be a businesswoman engaged in an honest trade. In fact, weaving of fine linens was a common trade for women in the ancient world.",
+        "ja": "[翻訳注] 第15行の最初の単語は、ヘブライ語アルファベットの第15文字であるס（サメフ）で始まる。[解説] 詩人は、このような地位にある女性が誠実な商取引に従事する実業家であることを奇異とも不名誉とも考えなかった。実際、高級亜麻布を織ることは古代世界の女性にとって一般的な職業であった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to the Canaanites.” These are the Phoenician traders that survived the wars and continued to do business down to the exile.",
+        "ja": "[翻訳注] ヘブライ語では「カナン人に」。これらは戦争を生き延び、捕囚期に至るまで商取引を続けたフェニキア人の商人を指す。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[解説]  The idea of clothing and being clothed is a favorite figure in Hebrew. It makes a comparison between wearing clothes and having strength and honor. Just as clothes immediately indicate something of the nature and circumstances of the person, so do these virtues.",
+        "ja": "[解説] 衣を着る、あるいは装うという概念はヘブライ語において好まれる比喩表現である。服を着ることと、力や尊厳を備えることとの間に比較がなされている。衣服がその人の性質や境遇を示すのと同様に、これらの徳もまたそれを示す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The first word of the sixteenth line begins with ע (ayin), the sixteenth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第16行の最初の単語は、ヘブライ語アルファベットの第16文字であるע（アイン）で始まる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This word appears in Ps 111:3 which says that the Lord’s work is honorable, and here the woman is clothed with strength and honor.",
+        "ja": "[解説] この言葉は詩篇111:3に現れ、主の御業は尊厳に満ちていると述べられており、ここでは女性が力と尊厳を身にまとっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Here “laugh” is either a metonymy of adjunct or effect. The point is that she is confident for the future because of all her industry and planning.",
+        "ja": "[解説] ここで笑うは隣接物または結果の換喩である。要点は、彼女がその勤勉さと計画性ゆえに将来に対して確信を持っていることである。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “day.” This word is a metonymy of subject meaning any events that take place on the day or in the time to come.",
+        "ja": "[翻訳注] ヘブライ語では「日」。この言葉は主体の換喩であり、その日や来たるべき時に起こるあらゆる出来事を意味する。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the seventeenth line begins with פּ (pe), the seventeenth letter of the Hebrew alphabet.[解説]  The words “mouth” (“opens her mouth”) and “tongue” (“on her tongue”) here are also metonymies of cause, referring to her speaking.",
+        "ja": "[翻訳注] 第17行の最初の単語は、ヘブライ語アルファベットの第17文字であるפּ（ペー）で始まる。[解説] ここで「口」（「口を開く」）と「舌」（「舌の上に」）という言葉も原因の換喩であり、彼女の話すことを指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew phrase תּוֹרַת־חֶסֶד (torat-khesed) is open to different interpretations. (1) The word “law” could here refer to “teaching” as it does frequently in the book of Proverbs, and the word “love,” which means “loyal, covenant love,” could have the emphasis on faithfulness, yielding the idea of “faithful teaching” to parallel “wisdom” (cf. NIV). (2) The word “love” should probably have more of the emphasis on its basic meaning of “loyal love, lovingkindness.” It also would be an attributive genitive, but its force would be that of “loving instruction” or “teaching with kindness.”",
+        "ja": "[翻訳注] ヘブライ語の句תּוֹרַת־חֶסֶד（torat-khesed）は複数の解釈が可能である。(1)「律法」という語が箴言でしばしばそうであるように「教え」を指し、「愛」という語（忠実な契約の愛を意味する）が誠実さに重点を置き、「知恵」と並行して「忠実な教え」という概念をもたらす（NIV参照）。(2)「愛」という語はおそらく「不変の愛、慈愛」という本来の意味により重点を置くべきである。これも限定の属格となるが、その力点は「慈愛に満ちた教え」または「優しさをもって教えること」となる。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the eighteenth line begins with צ (tsade), the eighteenth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第18行の最初の単語は、ヘブライ語アルファベットの第18文字であるצ（ツァデー）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The expression bread of idleness refers to food that is gained through idleness, perhaps given or provided for her. In the description of the passage one could conclude that this woman did not have to do everything she did; and this line affirms that even though she is well off, she will eat the bread of her industrious activity.",
+        "ja": "[解説] 怠惰のパンという表現は、怠惰によって得られる食物、おそらく誰かから与えられたり提供されたりした食物を指す。この箇所の描写から、この女性は自分が行ったすべてのことを必ずしも行う必要はなかったと結論付けることができる。そしてこの行は、彼女が裕福であるにもかかわらず、自らの勤勉な活動のパンを食べることを肯定している。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the nineteenth line begins with ק (qof), the nineteenth letter of the Hebrew alphabet.[解説]  The deliberate action of “rising up” to call her blessed is the Hebrew way of indicating something important is about to be done that has to be prepared for.",
+        "ja": "[翻訳注] 第19行の最初の単語は、ヘブライ語アルファベットの第19文字であるק（コフ）で始まる。[解説] 彼女を祝福するために意図的に立ち上がる行為は、備えをしなければならない重要な事柄がこれから行われようとしていることを示すヘブライ的表現である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The text uses an independent nominative absolute to draw attention to her husband: “her husband, and he praises her.” Prominent as he is, her husband speaks in glowing terms of his noble wife.",
+        "ja": "[翻訳注] 本文は彼女の夫に注意を引くために独立主格絶対形を用いている。「彼女の夫、そして彼は彼女をたたえる」。著名な人物である夫は、高潔な妻を惜しみなくたたえる。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the twentieth line begins with ר (resh), the twentieth letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第20行の最初の単語は、ヘブライ語アルファベットの第20文字であるר（レーシュ）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “women” (NAB, NIV, NRSV, NLT).",
+        "ja": "[翻訳注] または「女たち」（NAB、NIV、NRSV、NLT）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The word is the same as in v. 10, “noble, valiant.”",
+        "ja": "[翻訳注] この語は10節の高潔な、力あると同じ語である。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the twenty-first line begins with שׁ (shin), the twenty-first letter of the Hebrew alphabet. The graphic distinction between שׁ (shin) and שׂ (sin) had not been made at the time the book of Proverbs was written; that graphic distinction was introduced by the Masoretes, ca. a.d. 1000.",
+        "ja": "[翻訳注] 第21行の最初の単語は、ヘブライ語アルファベットの第21文字であるשׁ（シン）で始まる。箴言が書かれた当時、שׁ（シン）とשׂ（シン/スィン）の文字上の区別はなされていなかった。その文字上の区別は紀元1000年頃にマソラ学者によって導入された。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The verse shows that “charm” and “beauty” do not endure as do those qualities that the fear of the Lord produces. Charm is deceitful: One may be disappointed in the character of the one with beauty. Beauty is vain (fleeting as a vapor): Physical appearance will not last. The writer is not saying these are worthless; he is saying there is something infinitely more valuable.",
+        "ja": "[解説] この節は、麗しさと美しさが主を恐れることによって生み出される性質のように永続しないことを示している。麗しさは偽りである。美しさを持つ人の品性に失望することがある。美しさは空虚（息のように儚い）である。外見の美しさは長続きしない。記者はこれらに価値がないと言っているのではない。これらよりもはるかに価値のあるものがあると言っているのである。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This chapter describes the wise woman as fearing the Lord. It is the fear of the Lord that is the beginning of wisdom – that was the motto of the book (1:7). Psalm 111:10 also repeats that the fear of the Lord is the beginning of wisdom.",
+        "ja": "[解説] この章は、賢い女性が主を恐れる者であると描写している。主を恐れることこそ知恵の初めである。それは本書の標語であった（1:7）。詩篇111:10もまた、主を恐れることが知恵の初めであると繰り返している。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The first word of the twenty-second line begins with ת (tav), the last letter of the Hebrew alphabet.",
+        "ja": "[翻訳注] 第22行の最初の単語は、ヘブライ語アルファベットの最後の文字であるת（タヴ）で始まる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Give her from the fruit of her hands.” The expression “the fruit of her hands” employs two figures. The word “fruit” is a figure known as hypocatastasis, an implied comparison, meaning “what she produces.” The word “hand” is a metonymy of cause, meaning her efforts to produce things. So the line is saying essentially “give her her due.” This would either mean give her credit for what she has done (the option followed by the present translation; cf. TEV) or reward her for what she has done (cf. NAB, NIV, NLT).",
+        "ja": "[翻訳注] ヘブライ語では「彼女の手の実から彼女に与えよ」。「彼女の手の実」という表現には2つの修辞技法が用いられている。「実」という語は暗示的比較であり、「彼女が生み出すもの」を意味する。「手」という語は原因の換喩であり、物を生み出すための彼女の努力を意味する。したがって、この行は本質的に「彼女にふさわしい正当な評価を与えよ」と述べている。これは、彼女が成し遂げたことに対して功績を認めること（本訳が採用した選択肢、TEV参照）、あるいは彼女が成し遂げたことに対して報いること（NAB、NIV、NLT参照）のいずれかを意味する。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]   began with the imperative יָה הָלְלוּ (halÿlu yah, “praise the Lord”), and this poem ends with the jussive וִיהָלְלוּהָּ (vihalÿluha, “and let [her works] praise her”). Psalm 111:2 speaks of God’s works, and this verse of the woman’s (or wisdom’s) works that deserve praise.",
+        "ja": "[解説] 詩篇111篇は命令形יָה הָלְלוּ（halÿlu yah、「主を賛美せよ」）で始まり、この詩は接続法指示形וִיהָלְלוּהָּ（vihalÿluha、「そして〔彼女の業が〕彼女をたたえるようにせよ」）で終わる。詩篇111:2は神の御業について語り、この節は称賛に値する女性（または知恵）の働きについて語っている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  “Gates” is a metonymy of subject. It refers to the people and the activity that occurs in the gates – business dealings, legal transactions, and social meetings. The term “city” is supplied in the translation for clarity. One is reminded of the acclaim given to Ruth by Boaz: “for all the gate of my people knows that you are a noble woman [אֵשֶׁת חַיִל, ’eshet khayil]” (Ruth 3:11).",
+        "ja": "[翻訳注] 門は主体の換喩である。これは門において行われる人々や活動、すなわち商取引、法的手続き、社会的な集会を指す。明確にするため、訳出にあたって「町」が補われている。ボアズがルツに与えた称賛が想起される。「わが民の門にいる者はみな、あなたが徳の高い女［אֵשֶׁת חַיִל, ’eshet khayil］であることを知っている」（ルツ記3:11）。"
+      }
+    ]
+  }
+}

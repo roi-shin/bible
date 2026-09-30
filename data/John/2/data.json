@@ -1,0 +1,463 @@
+{
+  "book": "John",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now on the third day there was a wedding at Cana in Galilee. Jesus’ mother was there, ",
+      "ja": "さて三日目に、ガリラヤのカナで婚礼があった。イエスの母がそこにいた。"
+    },
+    {
+      "verse": 2,
+      "en": "and Jesus and his disciples were also invited to the wedding. ",
+      "ja": "イエスも、その弟子たちも婚礼に招かれていた。"
+    },
+    {
+      "verse": 3,
+      "en": "When the wine ran out, Jesus’ mother said to him, “They have no wine left.”",
+      "ja": "ぶどう酒が切れたとき、イエスの母がイエスに言った。「ぶどう酒がなくなりました。」"
+    },
+    {
+      "verse": 4,
+      "en": "Jesus replied, “Woman, why are you saying this to me? My time has not yet come.” ",
+      "ja": "イエスは母に言われた。「婦人よ、私にどうしろと言われるのですか。私の時はまだ来ていません。」"
+    },
+    {
+      "verse": 5,
+      "en": "His mother told the servants, “Whatever he tells you, do it.”",
+      "ja": "母は召使いたちに言った。「あの人が言うことは何でもそのとおりにしなさい。」"
+    },
+    {
+      "verse": 6,
+      "en": "Now there were six stone water jars there for Jewish ceremonial washing, each holding 20 or 30 gallons. ",
+      "ja": "そこには、ユダヤ人の清めの礼式のために、石の水がめが六つ置いてあった。どれも二、三十ガロン入るものだった。"
+    },
+    {
+      "verse": 7,
+      "en": "Jesus told the servants, “Fill the water jars with water.” So they filled them up to the very top. ",
+      "ja": "イエスが召使いたちに、「水がめに水を一杯入れなさい」と言われたので、彼らは一番上まで満たした。"
+    },
+    {
+      "verse": 8,
+      "en": "Then he told them, “Now draw some out and take it to the head steward,” and they did. ",
+      "ja": "それからイエスは、「さあ、それを酌んで宴会の世話役のところに持って行きなさい」と言われたので、彼らはそうした。"
+    },
+    {
+      "verse": 9,
+      "en": "When the head steward tasted the water that had been turned to wine, not knowing where it came from (though the servants who had drawn the water knew), he called the bridegroom ",
+      "ja": "世話役は、ぶどう酒に変わった水を味見した。それがどこから来たのか知らなかった（しかし、水を酌んだ召使いたちは知っていた）。世話役は新郎を呼んで、"
+    },
+    {
+      "verse": 10,
+      "en": "and said to him, “Everyone serves the good wine first, and then the cheaper wine when the guests are drunk. You have kept the good wine until now!” ",
+      "ja": "こう言った。「だれでも初めに良いぶどう酒を出し、酔いが回ったころに劣ったものを出すものですが、あなたは良いぶ今まで取っておかれました。」"
+    },
+    {
+      "verse": 11,
+      "en": "Jesus did this as the first of his miraculous signs, in Cana of Galilee. In this way he revealed his glory, and his disciples believed in him. ",
+      "ja": "イエスはこれを最初のしるしとしてガリラヤのカナで行い、ご自分の栄現を現された。それで、弟子たちはイエスを信じた。"
+    },
+    {
+      "verse": 12,
+      "en": "After this he went down to Capernaum with his mother and brothers and his disciples, and they stayed there a few days. ",
+      "ja": "この後、イエスは母、兄弟たち、弟子たちと共にカペナウムに下り、そこに数日間滞在された。"
+    },
+    {
+      "verse": 13,
+      "en": "Now the Jewish Feast of Passover was near, so Jesus went up to Jerusalem. ",
+      "ja": "さて、ユダヤ人の過越の祭りの時期が近づいたので、イエスはエルサレムに上られた。"
+    },
+    {
+      "verse": 14,
+      "en": " He found in the temple courts those who were selling oxen and sheep and doves, and the money changers sitting at tables. ",
+      "ja": "そして、宮の境内で、牛や羊や鳩を売っている者たちや、両替商が座っているのをご覧になった。"
+    },
+    {
+      "verse": 15,
+      "en": "So he made a whip of cords and drove them all out of the temple courts, with the sheep and the oxen. He scattered the coins of the money changers and overturned their tables. ",
+      "ja": "イエスは綱で鞭を作ると、羊や牛と一緒に彼らを皆、宮の境内から追い出し、両替商の銭を散らし、その机をひっくり返された。"
+    },
+    {
+      "verse": 16,
+      "en": "To those who sold the doves he said, “Take these things away from here! Do not make my Father’s house a marketplace!” ",
+      "ja": "また、鳩を売る者たちに言われた。「これらの物をここから持って行きなさい。私の父の家を商売の家にしてはならない。」"
+    },
+    {
+      "verse": 17,
+      "en": "His disciples remembered that it was written, “<b>Zeal</b> <b>for your house will devour me</b>.” ",
+      "ja": "弟子たちは、「あなたの家を思う熱心が私を食い尽くす」と書かれているのを思い出した。"
+    },
+    {
+      "verse": 18,
+      "en": "So then the Jewish leaders responded, “What sign can you show us, since you are doing these things?” ",
+      "ja": "そこでユダヤ人の指導者たちがイエスに答えて言った。「こんなことをするからには、どんなしるしを私たちに見せるというのか。」"
+    },
+    {
+      "verse": 19,
+      "en": "Jesus replied, “Destroy this temple and in three days I will raise it up again.”",
+      "ja": "イエスは彼らに答えられた。「この神殿を壊してみなさい。三日で私はそれを建て直す。」"
+    },
+    {
+      "verse": 20,
+      "en": "Then the Jewish leaders said to him, “This temple has been under construction for 46 years, and are you going to raise it up in three days?” ",
+      "ja": "そこでユダヤ人の指導者たちは言った。「この神殿は建て替えるのに四十六年もかかったのに、あなたは三日でそれを建て直すというのか。」"
+    },
+    {
+      "verse": 21,
+      "en": "But Jesus was speaking about the temple of his body. ",
+      "ja": "しかし、イエスが言われたのはご自分の体の神殿のことであった。"
+    },
+    {
+      "verse": 22,
+      "en": "So after he was raised from the dead, his disciples remembered that he had said this, and they believed the scripture and the saying that Jesus had spoken. ",
+      "ja": "それゆえ、イエスが死人の中からよみがえられたとき、弟子たちは、イエスがこう言われたことを思い出し、聖書とイエスの語られた言葉を信じた。"
+    },
+    {
+      "verse": 23,
+      "en": "Now while Jesus was in Jerusalem at the Feast of the Passover, many people believed in his name because they saw the miraculous signs he was doing. ",
+      "ja": "イエスが過越の祭りの期間中エルサレムにおられたとき、多くの人々が、イエスが行われたしるしを見て、その名を信じた。"
+    },
+    {
+      "verse": 24,
+      "en": "But Jesus would not entrust himself to them because he knew all people. ",
+      "ja": "しかし、イエスご自身は彼らにご自分を委ねられなかった。すべての人を知っておられたからである。"
+    },
+    {
+      "verse": 25,
+      "en": "He did not need anyone to testify about man, for he knew what was in man. ",
+      "ja": "イエスは、人間についてだれからの証言も必要とされなかった。人間の中にあるものを自ら知っておられたからである。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map1-C3; Map2-D2; Map3-C5.",
+        "ja": "[地図] 場所についてはマップ1-C3、マップ2-D2、マップ3-C5を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Cana in Galilee was not a very well-known place. It is mentioned only here, in 4:46, and 21:2, and nowhere else in the NT. Josephus (Life 16 [86]) says he once had his quarters there. The probable location is present day Khirbet Cana, 8 mi (14 km) north of Nazareth, or Khirbet Kenna, 4 mi (7 km) northeast of Nazareth.",
+        "ja": "[解説] ガリラヤのカナはそれほどよく知られた場所ではありませんでした。新約聖書では、ここ、4章46節、21章2節にのみ言及されており、他には登場しません。ヨセフス（『ユダヤ古代誌』第16巻16[86]）によると、彼はかつてそこに駐屯地を置いていたと述べています。おそらく現在のキルベット・カナ（ナザレの北8マイル[14キロ]）か、キルベット・ケンナ（ナザレの北東4マイル[7キロ]）の位置に比定されます。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in Galilee, and Jesus’ mother.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「ガリラヤにおいて、そしてイエスの母が」となっている。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  There is no clue to the identity of the bride and groom, but in all probability either relatives or friends of Jesus’ family were involved, since Jesus’ mother and both Jesus and his disciples were invited to the celebration. The attitude of Mary in approaching Jesus and asking him to do something when the wine ran out also suggests that familial obligations were involved.",
+        "ja": "[解説] 新郎新婦の身元についての手がかりはありませんが、イエスの母、イエス自身、そして弟子たちが祝宴に招かれていることから、おそらくイエスの家族の親族か友人が関係していたと考えられます。ぶどう酒が切れた際に、マリアがイエスに近づき何かをするよう求めた態度も、家族としての義務や関わりがあったことを示唆しています。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “left” is not in the Greek text but is implied.[解説]  They have no wine left. On the backgrounds of this miracle J. D. M. Derrett pointed out among other things the strong element of reciprocity about weddings in the Ancient Near East. It was possible in certain circumstances to take legal action against the man who failed to provide an appropriate wedding gift. The bridegroom and family here might have been involved in a financial liability for failing to provide adequately for their guests (“Water into Wine,” BZ 7 [1963]: 80-97). Was Mary asking for a miracle? There is no evidence that Jesus had worked any miracles prior to this (although this is an argument from silence). Some think Mary was only reporting the situation, or (as Calvin thought) asking Jesus to give some godly exhortations to the guests and thus relieve the bridegroom’s embarrassment. But the words, and the reply of Jesus in v. 4, seem to imply more. It is not inconceivable that Mary, who had probably been witness to the events of the preceding days, or at least was aware of them, knew that her son’s public career was beginning. She also knew the supernatural events surrounding his birth, and the prophetic words of the angel, and of Simeon and Anna in the temple at Jesus’ dedication. In short, she had good reason to believe Jesus to be the Messiah, and now his public ministry had begun. In this kind of context, her request does seem more significant.",
+        "ja": "[翻訳注] 「残っていない（left）」という言葉はギリシャ語のテキストにはありませんが、文脈から含意されています。[解説] 「彼らにはぶどう酒が残っていない」。この奇跡の背景について、J・D・M・デレットは、古代近東の婚礼における強い互酬性の要素を指摘しています。状況によっては、適切な婚礼の贈り物を用意しなかった男性に対して法的措置をとることが可能でした。ここでの新郎とその家族は、招待客に十分なもてなしを提供できなかったことで、法的・金銭的責任を問われる可能性がありました（「水からぶどう酒へ」BZ 7 [1963]: 80-97）。マリアは奇跡を求めていたのでしょうか？ これ以前にイエスが奇跡を行ったという証拠はありません（もっともこれは沈黙からの議論に過ぎませんが）。マリアは単に状況を報告していただけだとか、（カルヴァンが考えたように）客たちに神的な勧告を与えて新郎の恥を和らげるようイエスに求めただけだと言う人々もいます。しかし、その言葉と、第4節におけるイエスの返答は、それ以上の意味合いを含んでいるようです。それまでの数日間の出来事の目撃者であったか、少なくともそれを知っていたマリアが、息子の公生涯が始まっていることを知っていたとしても不自然ではありません。彼女はまた、彼の誕生を取り巻く超自然的な出来事や、天使の預言的言葉、そしてイエスの宮での奉献の際におけるシメオンとアンナの預言も知っていました。一言で言えば、彼女にはイエスをメシアと信じる十分な理由があり、今や公の宣教が始まったのです。このような文脈において、彼女の願いはより重大な意味を持つように思われます。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and Jesus said to her.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「そしてイエスは彼女に言われた」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The term Woman is Jesus’ normal, polite way of addressing women (Matt 15:28, Luke 13:12; John 4:21; 8:10; 19:26; 20:15). But it is unusual for a son to address his mother with this term. The custom in both Hebrew (or Aramaic) and Greek would be for a son to use a qualifying adjective or title. Is there significance in Jesus’ use here? It probably indicates that a new relationship existed between Jesus and his mother once he had embarked on his public ministry. He was no longer or primarily only her son, but the “Son of Man.” This is also suggested by the use of the same term in 19:26 in the scene at the cross, where the beloved disciple is “given” to Mary as her “new” son.",
+        "ja": "[解説] 「婦人よ（Woman）」という表現は、女性に対するイエスの通常かつ礼儀正しい呼びかけ方です（マタイ15:28、ルカ13:12、ヨハネ4:21; 8:10; 19:26; 20:15）。しかし、息子が母親に対してこの用語を使うのは異例です。ヘブル語（またはアラム語）およびギリシャ語の習慣では、息子は修飾する形容詞や称号を用いるのが普通でした。ここでのイエスのこの言葉の使用には何か意味があるのでしょうか？ おそらくそれは、公生涯に踏み出したイエスと彼の母との間に新しい関係が存在するようになったことを示しています。彼はもはや、あるいは第一義的に彼女の息子ではなく、「人の子」でした。これは、十字架の場面における19:26での同じ用語の使用によっても示唆されており、そこでは愛する弟子がマリアの「新しい」息子として「与えられています」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Woman, what to me and to you?” (an idiom). The phrase τί ἐμοὶ καὶ σοί, γύναι (ti emoi kai soi, gunai) is Semitic in origin. The equivalent Hebrew expression in the Old Testament had two basic meanings: (1) When one person was unjustly bothering another, the injured party could say “What to me and to you?” meaning, “What have I done to you that you should do this to me?” (Judg 11:12, 2 Chr 35:21, 1 Kgs 17:18). (2) When someone was asked to get involved in a matter he felt was no business of his, he could say to the one asking him, “What to me and to you?” meaning, “That is your business, how am I involved?” (2 Kgs 3:13, Hos 14:8). Option (1) implies hostility, while option (2) implies merely disengagement. Mere disengagement is almost certainly to be understood here as better fitting the context (although some of the Greek Fathers took the remark as a rebuke to Mary, such a rebuke is unlikely).",
+        "ja": "[翻訳注] 原文のギリシャ語では「婦人よ、私とあなたに何があるというのか（What to me and to you?）」となっており、これはイディオムである。フレーズ「τί ἐμοὶ καὶ σοί, γύναι (ti emoi kai soi, gunai)」はセム語に起源を持つ。旧約聖書における同等のヘブル語表現には主に2つの意味があった。(1) ある人が不当に別の人の邪魔をしている時、被害を受けた側が「私とあなたに何があるか（私に何の関わりがあるか）」と言って、「あなたが私にこのようなことをするよう、私はあなたに何をしたというのか」という意味を表す場合（士師記11:12、歴代志下35:21、列王紀上17:18）。(2) 自分には関係のないことに巻き込まれるよう求められた人が、求めてきた相手に対して「私とあなたに何があるか」と言う場合で、「それはあなたの問題であって、どうして私が関わらなければならないのか」という意味を表す場合（列王紀上3:13、ホセア14:8）。(1)は敵対心を含意し、(2)は単に関与の拒否を含意する。文脈によりよく適合するものとして、ここでの意味はほぼ間違いなく単に関与の拒否（切り離し）と理解されるべきである（一部のギリシャ教父はこの発言をマリアへの非難と解釈したが、そのような非難であるとは考えにくい）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “my hour” (referring to the time of Jesus’ crucifixion and return to the Father).[解説]  The Greek word translated time (ὥρα, Jwra) occurs in John 2:4; 4:21, 23; 5:25, 28, 29; 7:30; 8:20; 12:23, 27; 13:1; 16:25; and 17:1. It is a reference to the special period in Jesus’ life when he was to leave this world and return to the Father (13:1); the hour when the Son of man is glorified (17:1). This is accomplished through his suffering, death, resurrection (and ascension – though this last is not emphasized by John). John 7:30 and 8:20 imply that Jesus’ arrest and death are included. John 12:23 and 17:1, referring to the glorification of the Son, imply that the resurrection and ascension are included as part of the “hour.” In John 2:4 Jesus’ remark to his mother indicates that the time for this self-manifestation has not yet arrived; his identity as Messiah is not yet to be publicly revealed.",
+        "ja": "[翻訳注] 原文のギリシャ語では「私の時（my hour）」となっており、イエスの十字架刑と御父のもとへの帰還の時を指している。[解説] 「時」と訳されたギリシャ語（ὥρα, hōra）は、ヨハネ2:4; 4:21, 23; 5:25, 28, 29; 7:30; 8:20; 12:23, 27; 13:1; 16:25; 17:1に現れる。これは、イエスがこの世を去り、御父のもとへ戻るべき彼の生涯における特別な期間を指す（13:1）。それは人の子が栄光を受ける時である（17:1）。これは彼の苦難、死、復活（および昇天――ただし最後のものはヨハネでは強調されていない）を通して成し遂げられる。ヨハネ7:30および8:20は、イエスの逮捕と死が含まれていることを暗示している。ヨハネ12:23および17:1は、御子の栄光化に言及しており、復活と昇天が「時」の一部として含まれていることを暗示している。ヨハネ2:4における母に対するイエスの発言は、この自己顕示の時がまだ到来していないこと、すなわち彼のメシアとしてのアイデンティティがまだ公に明らかにされるべきではないことを示している。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The pronoun “it” is not in the Greek text, but has been supplied. Direct objects in Greek were often omitted when clear from the context.",
+        "ja": "[翻訳注] 代名詞「それ（it）」はギリシャ語のテキストにはないが、補われている。ギリシャ語では、文脈から明らかな場合、直接目的語がしばしば省略された。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “for the purification of the Jews.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「ユダヤ人の清めのために」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “holding two or three metretes” (about 75 to 115 liters). Each of the pots held 2 or 3 μετρηταί (metrhtai). A μετρητῆς (metrhths) was about 9 gallons (40 liters); thus each jar held 18-27 gallons (80-120 liters) and the total volume of liquid involved was 108-162 gallons (480-720 liters).[解説]  Significantly, these jars held water for Jewish ceremonial washing (purification rituals). The water of Jewish ritual purification has become the wine of the new messianic age. The wine may also be, after the fashion of Johannine double meanings, a reference to the wine of the Lord’s Supper. A number have suggested this, but there does not seem to be anything in the immediate context which compels this; it seems more related to how frequently a given interpreter sees references to the sacraments in John’s Gospel as a whole.",
+        "ja": "[翻訳注] 原文のギリシャ語では「メトレテス2つまたは3つを収める（holding two or three metretes）」（約75〜115リットル）とある。めったなことではないが、各壺には2つまたは3つのメトレテス（μετρηταί）が入っていた。1メトレテス（μετρητής）は約9ガロン（40リットル）であり、したがって各壺には18〜27ガロン（80〜120リットル）が入っており、液体全体の総量は108〜162ガロン（480〜720リットル）であった。[解説] 重要なことに、これらの壺にはユダヤ人の清めの礼式（浄化の儀式）のための水が入っていた。ユダヤ人の儀式上の清めの水が、新しいメシア的時代のぶどう酒となったのである。このぶこう酒はまた、ヨハネ特有の二重の意味のスタイルにならって、主の晩餐のぶどう酒を指している可能性もある。多くの学者がこれをほのめかしているが、直接の文脈の中にこれを強制するものはないようである。むしろ、ヨハネの福音書全体におけるサクラメント（秘跡）への言及を、ある解釈者がどれほど頻繁に見出すかに深く関わっているように思われる。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “them” (it is clear from the context that the servants are addressed).",
+        "ja": "[翻訳注] 原文のギリシャ語では「それらを（them）」となっているが、文脈から召使いたちに語りかけていることは明らかである。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the master of ceremonies.”",
+        "ja": "[翻訳注] または「宴会の司会者（the master of ceremonies）」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And when.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, δέ (de) has not been translated here.",
+        "ja": "[翻訳注] 原文のギリシャ語では「そして、～の時（And when）」となっている。文や節の始まりに「そして（and）」を頻繁に置くギリシャ語のスタイルと、一般的にそうしない英語のスタイルの違いにより、ここでのデ（δέ）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and he did not know where it came from.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「そして彼はそれがどこから来たのか知らなかった」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “the head steward”; here the repetition of the phrase is somewhat redundant in English and the pronoun (“he”) is substituted in the translation.",
+        "ja": "[翻訳注] 原文のギリシャ語では「世話役」となっているが、英語ではこのフレーズの繰り返しがやや冗長になるため、翻訳では代名詞（「彼」）に置き換えられている。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “every man” (in a generic sense).",
+        "ja": "[翻訳注] 原文のギリシャ語では「すべての人（every man）」（総称的な意味で）となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “poorer.”",
+        "ja": "[翻訳注] または「より劣った（poorer）」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “when they”; the referent (the guests) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文のギリシャ語では「彼らが…のとき（when they）」となっているが、明確にするために翻訳では指示対象（招待客）が明示されている。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This sentence in Greek involves an object-complement construction. The force can be either “Jesus did this as,” or possibly “Jesus made this to be.” The latter translation accents not only Jesus’ power but his sovereignty too. Cf. also 4:54 where the same construction occurs.",
+        "ja": "[翻訳注] ギリシャ語のこの文は目的補語構文を含んでいる。そのニュアンスは「イエスはこれを…として行った」または「イエスはこれを…になるようにされた」のいずれかでありうる。後者の翻訳は、イエスの力だけでなく彼の主権をも強調するものである。同じ構文が現れる4章54節も参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map1-C3; Map2-D2; Map3-C5.",
+        "ja": "[地図] 場所についてはマップ1-C3、マップ2-D2、マップ3-C5を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in Cana of Galilee, and he revealed.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「ガリラヤのカナで、そして彼は現された」となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “his disciples trusted in him,” or “his disciples put their faith in him.”",
+        "ja": "[翻訳注] または「彼の弟子たちは彼を信頼した」、あるいは「彼の弟子たちは彼に信仰を置いた」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  Verse 12 is merely a transitional note in the narrative (although Capernaum does not lie on the direct route to Jerusalem from Cana). Nothing is mentioned in John’s Gospel at this point about anything Jesus said or did there (although later his teaching is mentioned, see 6:59). From the synoptics it is clear that Capernaum was a center of Jesus’ Galilean ministry and might even be called “his own town” (Matt 9:1). The royal official whose son Jesus healed (John 4:46-54) was from Capernaum. He may have heard Jesus speak there, or picked up the story about the miracle at Cana from one of Jesus’ disciples.[地図]  For location see Map1-D2; Map2-C3; Map3-B2.",
+        "ja": ""
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  With respect to Jesus’ brothers, the so-called Helvidian view is to be preferred (named after Helvidius, a 4th-century theologian). This view holds that the most natural way to understand the phrase is as a reference to children of Joseph and Mary after the birth of Jesus. Other views are that of Epiphanius (they were children of Joseph by a former marriage) or Jerome (they were cousins). The tradition of Mary’s perpetual virginity appeared in the 2nd century and is difficult to explain (as J. H. Bernard, St. John [ICC], 1:85, points out) if some of her other children were prominent members of the early church (e.g., James of Jerusalem). But this is outweighed by the natural sense of the words.",
+        "ja": ""
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the Passover of the Jews.” This is first of at least three (and possibly four) Passovers mentioned in John’s Gospel. If it is assumed that the Passovers appear in the Gospel in their chronological order (and following a date of a.d. 33 for the crucifixion), this would be the Passover of the spring of a.d. 30, the first of Jesus’ public ministry. There is a clear reference to another Passover in 6:4, and another still in 11:55, 12:1, 13:1, 18:28, 39, and 19:14. The latter would be the Passover of a.d. 33. There is a possibility that 5:1 also refers to a Passover, in which case it would be the second of Jesus’ public ministry (a.d. 31), while 6:4 would refer to the third (a.d. 32) and the remaining references would refer to the final Passover at the time of the crucifixion. It is entirely possible, however, that the Passovers occurring in the Fourth Gospel are not intended to be understood as listed in chronological sequence. If the material of the Fourth Gospel originally existed in the form of homilies or sermons by the Apostle John on the life and ministry of Jesus, the present arrangement would not have to be in strict chronological order (it does not explicitly claim to be). In this case the Passover mentioned in 2:13, for example, might actually be later in Jesus’ public ministry than it might at first glance appear. This leads, however, to a discussion of an even greater problem in the passage, the relationship of the temple cleansing in John’s Gospel to the similar account in the synoptic gospels.",
+        "ja": "[翻訳注] 原文のギリシャ語では「ユダヤ人の過越の祭り」となっている。これはヨハネの福音書に言及されている少なくとも3つ（おそらく4つ）の過越の祭りのうちの最初のものである。もし過越の祭りが福音書の中でその年代表順に現れていると仮定し（そして十字架刑の年を西暦33年とするならば）、これは西暦30年春の過越の祭りであり、イエスの公生涯の最初のものとなる。6:4には別の過越の祭りへの明確な言及があり、11:55、12:1、13:1、18:28、39、19:14にもさらに言及がある。後者は西暦33年の過越の祭りとなるであろう。5:1も過越の祭りを指している可能性があり、その場合それはイエスの公生涯の2番目（西暦31年）となり、6:4は3番目（西暦32年）を指し、残りの言及は十字架刑の時の最後の過越の祭りを指すことになる。しかし、第四福音書に現れる過越の祭りが必ずしも年代表順にリストされているものとして理解されるよう意図されているわけではない可能性も十分にある。もし第四福音書の素材が元々、イエスの生涯と宣教に関する使徒ヨハネによる説教やメッセージの形で存在していたのであれば、現在の配列が厳密な年代表順である必要はない（そうであると明示的に主張されているわけではない）。この場合、例えば2:13に言及されている過越の祭りは、一見して思われるよりも実際にはイエスの公生涯の後期のものであるかもしれない。しかしこれは、この箇所におけるさらに大きな問題、すなわちヨハネの福音書における宮清めの記事と共観福音書の類似した記述との関係についての議論へとつながっていく。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 場所についてはマップ5-B1、マップ6-F3、マップ7-E2、マップ8-F2、マップ10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4を参照してください。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  John 2:14-22. Does John’s account of the temple cleansing describe the same event as the synoptic gospels describe, or a separate event? The other accounts of the cleansing of the temple are Matt 21:12-13; Mark 11:15-17; and Luke 19:45-46. None are as long as the Johannine account. The fullest of the synoptic accounts is Mark’s. John’s account differs from Mark’s in the mention of sheep and oxen, the mention of the whip of cords, the Greek word κερματιστῆς (kermatisths) for money changer (the synoptics use κολλυβιστῆς [kollubisths], which John mentions in 2:15), the scattering of the coins (2:15), and the command by Jesus, “Take these things away from here!” The word for overturned in John is ἀναστρεφω (anastrefw), while Matthew and Mark use καταστρεφω (katastrefw; Luke does not mention the moneychangers at all). The synoptics all mention that Jesus quoted Isa 56:7 followed by Jer 7:11. John mentions no citation of scripture at all, but says that later the disciples remembered Ps 69:9. John does not mention, as does Mark, Jesus’ prohibition on carrying things through the temple (i.e., using it for a shortcut). But the most important difference is one of time: In John the cleansing appears as the first great public act of Jesus’ ministry, while in the synoptics it is virtually the last. The most common solution of the problem, which has been endlessly discussed among NT scholars, is to say there was only one cleansing, and that it took place, as the synoptics record it, at the end of Jesus’ ministry. In the synoptics it appears to be the event that finalized the opposition of the high priest, and precipitated the arrest of Jesus. According to this view, John’s placing of the event at the opening of Jesus’ ministry is due to his general approach; it was fitting ‘theologically’ for Jesus to open his ministry this way, so this is the way John records it. Some have overstated the case for one cleansing and John’s placing of it at the opening of Jesus’ public ministry, however. For example W. Barclay stated: “John, as someone has said, is more interested in the truth than in the facts. He was not interested to tell men when Jesus cleansed the Temple; he was supremely interested in telling men that Jesus did cleanse the Temple” (John [DSBS], 94). But this is not the impression one gets by a reading of John’s Gospel: The evangelist seems to go out of his way to give details and facts, including notes of time and place. To argue as Barclay does that John is interested in truth apart from the facts is to set up a false dichotomy. Why should one have to assume, in any case, that there could have been only one cleansing of the temple? This account in John is found in a large section of nonsynoptic material. Apart from the work of John the Baptist – and even this is markedly different from the references in the synoptics – nothing else in the first five chapters of John’s Gospel is found in any of the synoptics. It is certainly not impossible that John took one isolated episode from the conclusion of Jesus’ earthly ministry and inserted it into his own narrative in a place which seemed appropriate according to his purposes. But in view of the differences between John and the synoptics, in both wording and content, as well as setting and time, it is at least possible that the event in question actually occurred twice (unless one begins with the presupposition that the Fourth Gospel is nonhistorical anyway). In support of two separate cleansings of the temple, it has been suggested that Jesus’ actions on this occasion were not permanent in their result, and after (probably) 3 years the status quo in the temple courts had returned to normal. And at this time early in Jesus’ ministry, he was virtually unknown. Such an action as he took on this occasion would have created a stir, and evoked the response John records in 2:18-22, but that is probably about all, especially if Jesus’ actions met with approval among part of the populace. But later in Jesus’ ministry, when he was well-known, and vigorously opposed by the high-priestly party in Jerusalem, his actions might have brought forth another, harsher response. It thus appears possible to argue for two separate cleansings of the temple as well as a single one relocated by John to suit his own purposes. Which then is more probable? On the whole, more has been made of the differences between John’s account and the synoptic accounts than perhaps should have been. After all, the synoptic accounts also differ considerably from one another, yet few scholars would be willing to posit four cleansings of the temple as an explanation for this. While it is certainly possible that the author did not intend by his positioning of the temple cleansing to correct the synoptics’ timing of the event, but to highlight its significance for the course of Jesus’ ministry, it still appears somewhat more probable that John has placed the event he records in the approximate period of Jesus’ public ministry in which it did occur, that is, within the first year or so of Jesus’ public ministry. The statement of the Jewish authorities recorded by the author (this temple has been under construction for forty-six years) would tend to support an earlier rather than a later date for the temple cleansing described by John, since 46 years from the beginning of construction on Herod’s temple in ca. 19 b.c. (the date varies somewhat in different sources) would be around a.d. 27. This is not conclusive proof, however.",
+        "ja": ""
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “in the temple.”[解説]  The merchants (those who were selling) would have been located in the Court of the Gentiles.",
+        "ja": "[翻訳注] 原文のギリシャ語では「神殿の中で」となっている。[解説] 商人たち（売っている者たち）は異邦人の庭に位置していたと考えられる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “the money changers sitting”; the words “at tables” are not in the Greek text, but are implied.",
+        "ja": "[翻訳注] 原文のギリシャ語では「両替商が座っている」となっている。「机に」という言葉はギリシャ語のテキストにはないが、含意されている。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "Ï co). Internal evidence, though, leans toward the shorter reading. Scribes tended to add to the text, and the addition of ὡς here clearly softens the assertion of the evangelist: Instead of making a whip of cords, Jesus made “[something] like a whip of cords.”",
+        "ja": "[解説] 写字生たちはテキストに書き加える傾向があり、ここでのホス（ὡς）の付加は明らかに福音書記者の主張を和らげている。すなわち、「綱で鞭を作り」の代わりに、イエスは「綱で鞭のようなものを作った」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the temple.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「神殿」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Because of the imperial Roman portraits they carried, Roman denarii and Attic drachmas were not permitted to be used in paying the half-shekel temple-tax (the Jews considered the portraits idolatrous). The money changers exchanged these coins for legal Tyrian coinage at a small profit.",
+        "ja": "[解説] ローマ皇帝の肖像画が刻まれていたため、ローマのデナリオン貨やアッティカのドラクマ銀貨は、半シェケルの神殿税の支払いには使用することが許されなかった（ユダヤ人たちは肖像画を偶像崇拝とみなした）。両替商たちは、これらの硬貨を、少しの利益を上乗せして合法的はテュロス製の通貨に両替していた。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or (perhaps) “Stop making.”",
+        "ja": "[翻訳注] または（おそらく）「…するのをやめなさい（Stop making）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “a house of merchants” (an allusion to Zech 14:21).[解説]  A marketplace. Zech 14:20-21, in context, is clearly a picture of the messianic kingdom. The Hebrew word translated “Canaanite” may also be translated “merchant” or “trader.” Read in this light, Zech 14:21 states that there will be no merchant in the house of the Lord in that day (the day of the Lord, at the establishment of the messianic kingdom). And what would Jesus’ words (and actions) in cleansing the temple have suggested to the observers? That Jesus was fulfilling messianic expectations would have been obvious – especially to the disciples, who had just seen the miracle at Cana with all its messianic implications.",
+        "ja": "[翻訳注] または「商人の家」（ゼカリヤ14:21への暗示）。[解説] 「商売の家」。文脈におけるゼカリヤ14:20-21は、明らかにメシア的王国の描写である。「カナン人」と訳されたヘブル語は、「商人」または「貿易商」と訳されることもありうる。この光に照らして読むと、ゼカリヤ14:21は、その日（主の日、メシア的王国の樹立の時）には主の宮に商人はもはやいなくなるであろうと述べている。そして、宮を清める際のイエスの言葉（および行動）は、目撃者たちに何を示唆したのだろうか？ イエスがメシア的期待を成就しつつあるということは、明白であったはずである――すべてのメシア的含意を伴うカナでの奇跡を目撃したばかりの弟子たちにとっては特にそうであった。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Fervent devotion to your house.”",
+        "ja": "[翻訳注] または「あなたの家に対する熱烈な献身」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  A quotation from Ps 69:9.",
+        "ja": "[解説] 詩篇69:9からの引用。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” In NT usage the term ᾿Ιουδαῖοι (Ioudaioi) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. Here the author refers to the authorities or leaders in Jerusalem. (For further information see R. G. Bratcher, “‘The Jews’ in the Gospel of John,” BT 26 [1975]: 401-9.)",
+        "ja": "[翻訳注] または「ユダヤ人の指導者たち」；原文のギリシャ語では「ユダヤ人たち（the Jews）」。新約聖書の用法において、用語イウダイオン（Ἰουδαῖοι）は、ユダヤ民族全体、エルサレムおよびその周辺地域の住民、エルサレムの指導者たち、あるいは単にイエスに敵対する者たちを指す場合がある。ここでは著者はエルサレムの当局者または指導者たちを指している。（詳細については、R・G・ブラッチャー「ヨハネの福音書における『ユダヤ人』」BT 26 [1975]: 401-9を参照。）"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “answered and said to him.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「答えて彼に言った」となっている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The request “What sign can you show us” by Jesus’ adversaries was a request for a defense of his actions – a mark of divine authentication. Whether this was a request for a miracle is not entirely clear. Jesus never obliged such a request. Yet, ironically, the only sign the Jewish leadership will get is that predicted by Jesus in 2:19 – his crucifixion and resurrection. Cf. the “sign of Jonah” in the synoptics (Matt 12:39, 40; Luke 11:29-32).",
+        "ja": "[解説] イエスの敵対者たちによる「どんなしるしを私たちに見せるというのか」という要求は、彼の行動の正当化、すなわち神的な裏付けの証拠を求めるものであった。これが奇跡を求める要求であったかどうかは必ずしも明確ではない。イエスはそのような要求に応じたことは一度もなかった。しかし皮肉なことに、ユダヤ人の指導者たちが得る唯一のしるしは、イエスが2:19で予告されたもの、すなわち彼の十字架刑と復活である。共観福音書の「ヨナのしるし」と比較せよ（マタイ12:39, 40; ルカ11:29-32）。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “answered and said to them.”",
+        "ja": "[翻訳注] 原文のギリシャ語では「答えて彼らに言った」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The imperative here is really more than a simple conditional imperative (= “if you destroy”); its semantic force here is more like the ironical imperative found in the prophets (Amos 4:4, Isa 8:9) = “Go ahead and do this and see what happens.”",
+        "ja": "[翻訳注] ここでの命令法は、単なる条件法的な命令（＝「もしあなたが壊すなら」）以上の意味を持っている。ここでの意味論的な力は、預言者たちに見出される皮肉な命令（アモス4:4、イザヤ8:9）により近い、すなわち「さあ、これをやってみて、どうなるか見なさい」という意味である。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on this phrase in v. 18.",
+        "ja": "[翻訳注] v.18のこのフレーズに関する注記を参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  A close parallel to the aorist οἰκοδομήθη (oikodomhqh) can be found in Ezra 5:16 (LXX), where it is clear from the following verb that the construction had not yet been completed. Thus the phrase has been translated “This temple has been under construction for forty-six years.” Some, however, see the term ναός (naos) here as referring only to the sanctuary and the aorist verb as consummative, so that the meaning would be “this temple was built forty-six years ago” (so ExSyn 560-61). Ultimately in context the logic of the authorities’ reply appears to fit more naturally if it compares length of time for original construction with length of time to reconstruct it.",
+        "ja": "[翻訳注] アオリスト形のアエコドメテー（οἰκοδομήθη）の密接な並行語句がエズラ記5:16（七十人訳）に見出され、そこでは続く動詞からその建造物がまだ完了していなかったことが明らかである。したがって、このフレーズは「この神殿は建て替えるのに四十六年もかかった」と訳されている。しかしながら、ここでのナオス（ναός）という用語を聖所のみを指すとみなし、アオリストの動詞を完成相とみなして、「この神殿は四十六年前に建てられた」という意味であると解釈する者もいる（ExSyn 560-61）。最終的には文脈の中で、指導者たちの返答の論理は、当初の建設にかかった期間とそれを再建するのにかかる期間を比較している場合により自然に適合するように思われる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  According to Josephus (Ant. 15.11.1 [15.380]), work on this temple was begun in the 18th year of Herod the Great’s reign, which would have been ca. 19 b.c. (The reference in the Ant. is probably more accurate than the date given in J. W. 1.21.1 [1.401]). Forty-six years later would be around the Passover of a.d. 27/28.",
+        "ja": ""
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “that one”; the referent (Jesus) has been specified in the translation for clarity. This Greek term is frequently used as a way of referring to Jesus in the Johannine letters (cf. 1 John 2:6; 3:3, 5, 7, 16; 4:17).",
+        "ja": "[翻訳注] 原文のギリシャ語では「あの人（that one）」となっているが、明確にするために翻訳では指示対象（イエス）が明示されている。このギリシャ語の用語は、ヨハネの手紙の中でイエスを指す方法として頻繁に使用されている（1ヨハネ2:6; 3:3, 5, 7, 16; 4:17参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The genitive “of his body” (τοῦ σώματος αὐτοῦ, tou swmato\" autou) is a genitive of apposition, clarifying which temple Jesus was referring to. Thus, Jesus not only was referring to his physical resurrection, but also to his participation in the resurrection process. The New Testament thus records the Father, Son, and Holy Spirit as all performing the miracle of Christ's resurrection.[解説]  Jesus was speaking about the temple of his body. For the author, the temple is not just the building, it is Jesus’ resurrected body. Compare the nonlocalized worship mentioned in John 4:21-23, and also Rev 21:22 (there is to be no temple in the New Jerusalem; the Lord and the Lamb are its temple). John points to the fact that, as the place where men go in order to meet God, the temple has been supplanted and replaced by Jesus himself, in whose resurrected person people may now encounter God (see John 1:18, 14:6).",
+        "ja": "[翻訳注] 属格「彼の体の（τοῦ σώματος αὐτοῦ, tou sōmatos autou）」は同格の属格であり、イエスがどの神殿のことを指していたのかを明確にしている。したがって、イエスはご自身の身体的な復活だけでなく、復活のプロセスへのご自身の関与についても言及しておられるのであった。このように新式聖書は、父、子、聖霊のすべてがキリストの復活の奇跡を成し遂げたと記録している。[解説] イエスが言われたのはご自身の体の神殿のことであった。著者にとって、神殿は単なる建物ではなく、イエスの復活された体である。ヨハネ4:21-23に言及されている場所にとらわれない礼拝や、黙示録21:22（新しいエルサレムには神殿がない。主と小羊がその神殿である）と比較せよ。ヨハネは、人々が神に出会うために赴く場所としての神殿が、イエスご自身に取って代わられ、そのお方の復活された人格において人々が今や神と出会うことができるという事実を指し示している（ヨハネ1:18, 14:6参照）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  They believed the scripture is probably an anaphoric reference to Ps 69:9 (69:10 LXX), quoted in John 2:17 above. Presumably the disciples did not remember Ps 69:9 on the spot, but it was a later insight.",
+        "ja": ""
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “statement”; Grk “word.”",
+        "ja": "[翻訳注] または「発言（statement）」；原文のギリシャ語では「言葉（word）」となっている。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文のギリシャ語では「彼は（he）」となっているが、明確にするために翻訳では指示対象（イエス）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 場所についてはマップ5-B1、マップ6-F3、マップ7-E2、マップ8-F2、マップ10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Because they saw the miraculous signs he was doing. The issue here is not whether their faith was genuine or not, but what its object was. These individuals, after seeing the miracles, believed Jesus to be the Messiah. They most likely saw in him a political-eschatological figure of some sort. That does not, however, mean that their concept of “Messiah” was the same as Jesus’ own, or the author’s.",
+        "ja": ""
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “all.” The word “people” has been supplied for clarity, since the Greek word πάντας (pantas) is masculine plural (thus indicating people rather than things).",
+        "ja": "[翻訳注] 原文のギリシャ語では「すべて（all）」となっている。ギリシャ語のパнтас（pantas）が男性複数形であるため（事物ではなく人々を指している）、明確にするために「人々（people）」という言葉が補われている。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The masculine form has been retained here in the translation to maintain the connection with “a man of the Pharisees” in 3:1, with the understanding that the reference is to people of both genders.",
+        "ja": "[翻訳注] 3章1節の「パリサイ人の一人の人」とのつながりを維持するため、ここでは翻訳において男性形が保持されているが、言及されているのは両性の人々であると理解されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  See previous note on “man” in this verse.",
+        "ja": "[翻訳注] この節における「人間（man）」についての前の注記を参照せよ。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "book": "Proverbs",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "A wise son accepts his father’s discipline, but a scoffer has never listened to rebuke. ",
+      "ja": "知恵ある子は父の訓戒を受け入れるが、あざける者は叱責に決して耳を傾けない。"
+    },
+    {
+      "verse": 2,
+      "en": "From the fruit of his speech a person eats good things, but the treacherous desire the fruit of violence. ",
+      "ja": "人はその口の結実によって良いものを味わうが、裏切り者の欲望は暴力を望む。"
+    },
+    {
+      "verse": 3,
+      "en": "The one who guards his words guards his life; whoever is talkative will come to ruin. ",
+      "ja": "自分の言葉を守る者は自分の命を守り、軽率に口をきく者は滅びを招く。"
+    },
+    {
+      "verse": 4,
+      "en": "The appetite of the sluggard craves but gets nothing, but the desire of the diligent will be abundantly satisfied. ",
+      "ja": "怠け者の欲求は切望しても何も得られず、勤勉な者の欲望は豊かに満たされる。"
+    },
+    {
+      "verse": 5,
+      "en": "The righteous person will reject anything false, but the wicked person will act in shameful disgrace. ",
+      "ja": "正しい者は偽りの言葉を退け、悪しき者は恥ずべき不名誉な振る舞いをする。"
+    },
+    {
+      "verse": 6,
+      "en": "Righteousness guards the one who lives with integrity, but wickedness overthrows the sinner. ",
+      "ja": "義は歩みの完全な者を守り、悪は罪人を滅ぼす。"
+    },
+    {
+      "verse": 7,
+      "en": "There is one who pretends to be rich and yet has nothing; another pretends to be poor and yet possesses great wealth. ",
+      "ja": "富んでいるふりをしながら何も持たない者がおり、貧しいふりをしながら多大な財産を持つ者がいる。"
+    },
+    {
+      "verse": 8,
+      "en": "The ransom of a person’s life is his wealth, thus the poor person has never heard a threat. ",
+      "ja": "人の命の身代金はその富であり、ゆえに貧しい者は脅しを聞いたことがない。"
+    },
+    {
+      "verse": 9,
+      "en": "The light of the righteous shines brightly, but the lamp of the wicked goes out.",
+      "ja": "正しい者の光は明るく輝き、悪しき者のともしびは消え失せる。"
+    },
+    {
+      "verse": 10,
+      "en": "With pride comes only contention, but wisdom is with the well-advised. ",
+      "ja": "高慢からは争いのみが生じるが、助言を受ける者には知恵がある。"
+    },
+    {
+      "verse": 11,
+      "en": "Wealth gained quickly will dwindle away, but the one who gathers it little by little will become rich. ",
+      "ja": "虚偽から得た富は減り行くが、少しずつ集める者はそれを増し加える。"
+    },
+    {
+      "verse": 12,
+      "en": "Hope deferred makes the heart sick, but a longing fulfilled is like a tree of life. ",
+      "ja": "引き延ばされた希望は心を病ませ、かなえられた願いは命の木のようである。"
+    },
+    {
+      "verse": 13,
+      "en": "The one who despises instruction will pay the penalty, but whoever esteems direction will be rewarded. ",
+      "ja": "教えを軽蔑する者はその報いを支払い、戒めを重んじる者は報いられる。"
+    },
+    {
+      "verse": 14,
+      "en": "Instruction from the wise is like a life-giving fountain, to turn a person from deadly snares. ",
+      "ja": "知恵ある者の教えは命の泉であり、人を死のわなから遠ざけさせる。"
+    },
+    {
+      "verse": 15,
+      "en": "Keen insight wins favor, but the conduct of the treacherous ends in destruction.",
+      "ja": "優れた洞察力は恵みを得させ、裏切り者の行いは滅びに行き着く。"
+    },
+    {
+      "verse": 16,
+      "en": "Every shrewd person acts with knowledge, but a fool displays his folly. ",
+      "ja": "思慮深い者は皆知識をもって行動し、愚か者は自分の愚かさを露わにする。"
+    },
+    {
+      "verse": 17,
+      "en": "An unreliable messenger falls into trouble, but a faithful envoy brings healing. ",
+      "ja": "信頼できない使者は災いに陥り、忠実な使者は癒やしをもたらす。"
+    },
+    {
+      "verse": 18,
+      "en": "The one who neglects discipline ends up in poverty and shame, but the one who accepts reproof is honored. ",
+      "ja": "訓戒を軽んじる者は貧困と恥に行き着き、叱責を受け入れる者は尊ばれる。"
+    },
+    {
+      "verse": 19,
+      "en": "A desire fulfilled will be sweet to the soul, but fools abhor turning away from evil. ",
+      "ja": "かなえられた願いは魂に甘いが、愚か者どもは悪から離れ去ることを激しく嫌う。"
+    },
+    {
+      "verse": 20,
+      "en": "The one who associates with the wise grows wise, but a companion of fools suffers harm. ",
+      "ja": "知恵ある者と共に歩む者は知恵を得、愚か者の伴侶となる者は害を受ける。"
+    },
+    {
+      "verse": 21,
+      "en": "Calamity pursues sinners, but prosperity rewards the righteous. ",
+      "ja": "災いは罪人を追いかけ、繁栄は正しい者に報いる。"
+    },
+    {
+      "verse": 22,
+      "en": "A good person leaves an inheritance for his grandchildren, but the wealth of a sinner is stored up for the righteous. ",
+      "ja": "良い人は自分の孫にまで嗣業を残すが、罪人の富は正しい者のために蓄えられる。"
+    },
+    {
+      "verse": 23,
+      "en": "Abundant food may come from the field of the poor, but it is swept away by injustice.",
+      "ja": "貧しい者の耕地からは豊富な食物が得られることもあるが、不正によってそれは掃き清められてしまう。"
+    },
+    {
+      "verse": 24,
+      "en": "The one who spares his rod hates his child, but the one who loves his child is diligent in disciplining him.",
+      "ja": "杖を惜しむ者はその子を憎んでいるのであり、子を愛する者は熱心にこれを訓練する。"
+    },
+    {
+      "verse": 25,
+      "en": "The righteous has enough food to satisfy his appetite, but the belly of the wicked will be empty.",
+      "ja": "正しい者は食欲を満たすだけの食物を持っているが、悪しき者の腹は飢え乏しい。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The term “accepts” does not appear in the Hebrew but is supplied in the translation for the sake of smoothness and clarity.",
+        "ja": "[翻訳注] 「受け入れる」という語はヘブライ語には存在しないが、文章の滑らかさと明確さのために訳出にあたって補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  G. R. Driver suggested reading this word as מְיֻסַּר (mÿyussar, “allows himself to be disciplined”); see his “Hebrew Notes on Prophets and Proverbs,” JTS 41 (1940): 174. But this is not necessary at all; the MT makes good sense as it stands. Similarly, the LXX has “a wise son listens to his father.”[翻訳注]  Heb “discipline of a father.”",
+        "ja": "[写本注] G. R. Driverは、この語をמְיֻסַּר（mÿyussar、「自らを訓練させしめる」）と読むことを提案した（G. R. Driver, “Hebrew Notes on Prophets and Proverbs,” JTS 41 [1940]: 174参照）。しかしこれは全く必要ではなく、マソラ本文（MT）はそのままで十分な意味をなしている。同様に、七十受胎訳（LXX）も「知恵ある子は父に聞き従う」としている。[翻訳注] ヘブライ語では「父の訓戒」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The “scoffer” is the worst kind of fool. He has no respect for authority, reviles worship of God, and is unteachable because he thinks he knows it all. The change to a stronger word in the second colon – “rebuke” (גָּעַר, ga’ar) – shows that he does not respond to instruction on any level. Cf. NLT “a young mocker,” taking this to refer to the opposite of the “wise son” in the first colon.",
+        "ja": "[解説] 「あざける者」は最悪の種類の愚か者である。彼は権威を敬わず、神への礼拝をののしり、自分がすべてを知っていると思い込んでいるために教えを受けることができない。第二句でより強い言葉――「叱責」（גָּעַר, ga'ar）――へ変化していることは、彼がいかなるレベルの教えにも応じないことを示している。新改訳等の「あざける者は叱責を聞かない」も参照。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “lips” (so NIV); KJV “mouth.” The term “lips” is a metonymy of cause for what the lips produce: speech.",
+        "ja": "[翻訳注] ヘブライ語では「くちびる」（NIV等も同様）。口語訳やKJVなどは「口」としている。「くちびる」は、くちびるが生み出すもの、すなわち「言葉・発言」を表す原因の換喩である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he eats [what is] good.”",
+        "ja": "[翻訳注] ヘブライ語では「彼は良いものを食べる」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the desire of the faithless.” The noun “faithless” is a subjective genitive: “the faithless desire….”",
+        "ja": "[翻訳注] ヘブライ語では「不実な者の欲望」。「不実な」という名詞は主格属格であり、「不実な者が欲する……」の意となる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The noun נֶפֶשׁ (nefesh, traditionally “soul”) has a broad range of meanings, and here denotes “appetite” (e.g., Ps 17:9; Prov 23:3; Eccl 2:24; Isa 5:14; Hab 2:5; BDB 660 s.v. 5.c) or (2) “desire” (e.g., Deut 12:20; Prov 13:4; 19:8; 21:10; BDB 660 s.v. 6.a).",
+        "ja": "[翻訳注] 名詞ネフェシュ（נֶפֶשׁ, 伝統的には「魂」）は幅広い意味の範囲を持っており、ここでは「食欲」（例：詩17:9、格23:3、伝2:24、イザ5:14、ハバ2:5、BDB 660 s.v. 5.c）、あるいは「欲望」（例：申12:20、格13:4; 19:8; 21:10、BDB 660 s.v. 6.a）を意味している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “violence.” The phrase “the fruit of” does not appear in the Hebrew but is implied by the parallelism. The term “violence” is probably a metonymy of cause: “violence” represents what violence gains – ill-gotten gains resulting from violent crime. The wicked desire what does not belong to them.[写本注]  The LXX reads “the souls of the wicked perish untimely.” The MT makes sense as it stands.",
+        "ja": "[翻訳注] ヘブライ語では「暴力」。「〜の果実（結実）」という句はヘブライ語には存在しないが、パラレリズム（対句法）によって暗示されている。「暴力」はおそらく原因の換喩であり、「暴力」がもたらすもの――暴力犯罪から生じる不当な利益を表している。悪しき者は自分のものではないものを欲する。[写本注] 七十受胎訳（LXX）は「悪しき者の魂は時ならぬ死を迎える」と読み替えているが、マソラ本文（MT）はそのままで意味が通じる。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “mouth” (so KJV, NAB). The term פֶּה (peh, “mouth”) functions as a metonymy of cause for speech.",
+        "ja": "[翻訳注] ヘブライ語では「口」（KJV, NAB等と同様）。ペヘ（פֶּה, 「口」）という語は、言葉に対する原因の換喩として機能している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The term “but” does not appear in the Hebrew but is supplied in the translation for the sake of clarity and smoothness.",
+        "ja": "[翻訳注] 「しかし」という接続詞はヘブライ語には存在しないが、明確さと滑らかさのために翻訳において補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “opens wide his lips.” This is an idiom meaning “to be talkative” (BDB 832 s.v. פָּשַׂק Qal). Cf. NIV “speaks rashly”; TEV “a careless talker”; CEV “talk too much.”",
+        "ja": "[翻訳注] ヘブライ語では「くちびるを大きく開く」。これは「多弁である、軽率にものを言う」ことを意味するイディオムである（BDB 832 s.v. פָּשַׂק Qal）。NIVの「軽率に語る」、TEVの「不注意な話し手」、CEVの「あまりに多くを語る」等も参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Tight control over what one says prevents trouble (e.g., Prov 10:10; 17:28; Jas 3:1-12; Sir 28:25). Amenemope advises to “sleep a night before speaking” (5:15; ANET 422, n. 10). The old Arab proverb is appropriate: “Take heed that your tongue does not cut your throat” (O. Zockler, Proverbs, 134).",
+        "ja": "[解説] 自分の語る言葉を厳しく管理することは、トラブルを防ぐ（例：格10:10; 17:28、ヤコ3:1-12、シラ書28:25）。アメネモペの教訓には「話す前に一晩眠れ」と助言されている（5:15; ANET 422, n. 10）。古アラブの格言も適切である。「自分の舌が自分の喉を切らぬよう用心せよ」（O. Zockler, Proverbs, 134）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The noun נֶפֶשׁ (nefesh, traditionally “soul”) has a broad range of meanings, and here denotes “appetite” (e.g., Ps 17:9; Prov 23:3; Eccl 2:24; Isa 5:14; Hab 2:5; BDB 660 s.v. 5.c) or (2) “desire” (e.g., Deut 12:20; Prov 19:8; 21:10; BDB 660 s.v. 6.a).",
+        "ja": "[翻訳注] 名詞ネフェシュ（נֶפֶשׁ, 伝統的には「魂」）は幅広い意味の範囲を持ち、ここでは「食欲」（例：詩17:9、格23:3、伝2:24、イザ5:14、ハバ2:5、BDB 660 s.v. 5.c）、あるいは（2）「欲望」（例：申12:20、格19:8; 21:10、BDB 660 s.v. 6.a）を意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The contrast is between the “soul (= appetite) of the sluggard” (נַפְשׁוֹ עָצֵל, nafsho ’atsel) and the “soul (= desire) of the diligent” (נֶפֶשׁ חָרֻצִים, nefesh kharutsim) – what they each long for.",
+        "ja": "[解説] ここでの対比は、「怠け者の魂（＝食欲）」（נַפְשׁוֹ עָצֵל, nafsho 'atsel）と「勤勉な者の魂（＝欲望）」（נֶפֶשׁ חָרֻצִים, nefesh kharutsim）の間のものであり、彼らがそれぞれ切望しているものを指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hitpael verb means “to lust after; to crave.” A related verb is used in the Decalogue’s prohibition against coveting (Exod 20:17; Deut 5:21).",
+        "ja": "[翻訳注] ヒトパエル態の動詞は「強く欲する、切望する」を意味する。関連する動詞が、十戒におけるむさぼりに対する禁止規定で使用されている（出20:17、申5:21）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “will be made fat” (cf. KJV, NASB); NRSV “is richly supplied.”",
+        "ja": "[翻訳注] ヘブライ語では「豊かにされる（肥やされる）」（KJV, NASB等参照）。NRSVは「豊かに満たされる」としている。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a word of falsehood.” The genitive “falsehood” functions as an attributive genitive. The construct noun דְּבַר (dÿvar) means either “word” or “thing.” Hence, the phrase means “a false word” or “a false thing.”",
+        "ja": "[翻訳注] ヘブライ語では「偽りの言葉」。「偽り」という属格は形容詞的属格として機能している。 construct（連辞形）の名詞ダヴァル（דְּבַר, dÿvar）は「言葉」または「事柄」のいずれをも意味する。したがって、この句は「偽りの言葉」または「偽りの事柄」を意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The versions render this phrase variously: “is ashamed and without confidence” (LXX); “is ashamed and put to the blush” (Tg. Prov 13:5); “confounds and will be confounded” (Vulgate). The variety is due in part to confusion of בָּאַשׁ (ba’sh, “to stink”) and בּוֹשׁ (bosh, “to be ashamed”). Cf. NASB “acts disgustingly and shamefully.”[翻訳注]  Heb “acts shamefully and disgracefully.” The verb בָּאַשׁ (ba’ash) literally means “to cause a stink; to emit a stinking odor” (e.g., Exod 5:21; Eccl 10:1) and figuratively means “to act shamefully” (BDB 92 s.v.). The verb וְיַחְפִּיר (vÿyakhppir) means “to display shame.” Together, they can be treated as a verbal hendiadys: “to act in disgraceful shame,” or more colorfully “to make a shameful smell,” or as W. McKane has it, “spread the smell of scandal” (Proverbs [OTL], 460). W. G. Plaut says, “Unhappily, the bad odor adheres not only to the liar but also to the one about whom he lies – especially when the lie is a big one” (Proverbs, 152).",
+        "ja": "[写本注] 諸翻訳はこれを多様に訳出している。「恥じ入り、確信がない」（LXX）、「恥じ入り、赤面する」（タルグム）、「混乱し、混乱させられる」（ウルガタ）。この多様性は、バアシュ（בָּאַשׁ, 「悪臭を放つ」）とボシュ（בּוֹשׁ, 「恥じる」）の混同に一部起因している。NASBの「忌むべき、恥ずべき振る舞いをする」も参照。[翻訳注] ヘブライ語では「恥ずべき、不名誉な振る舞いをする」。動詞バアシュ（בָּאַשׁ）は文字通りには「悪臭を放つ、臭い匂いを出す」（例：出5:21、伝10:1）を意味し、比喩的に「恥ずべき振る舞いをする」を意味する（BDB 92 s.v.）。動詞ヴァヤフピール（וְיַחְפִּיר, vÿyakhppir）は「恥をさらす」を意味する。これらは合せて動詞のヘンディヤディス（一概念の二語表現）として扱うことができ、「不名誉な恥辱のなかで振る舞う」、あるいはより色彩豊かに「恥ずべき臭いを放つ」、あるいはW.マッケインの言うように「スキャンダルの臭いを撒き散らす」となる（Proverbs [OTL], 460）。W.G.プラウトは言う。「不運にも、その悪臭は嘘つき本人だけでなく、彼が嘘をついた対象者にも――特にその嘘が大いなるものである場合には――まとわりつくのである」（Proverbs, 152）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  Righteousness refers to that which conforms to law and order. One who behaves with integrity will be safe from consequences of sin.",
+        "ja": "[解説] 義とは、律法と秩序に適合するものを指す。誠実に振る舞う者は、罪の結果から守られる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “blameless of way.” The term דָּרֶךְ (darekh) is a genitive of specification: “blameless in respect to his way.” This means living above reproach in their course of life. Cf. NASB “whose way is blameless”; NAB “who walks honestly.”",
+        "ja": "[翻訳注] ヘブライ語では「その歩みにおいて咎のない者」。ダレク（דָּרֶךְ, darekh）という語は規定の属格である：「彼の歩みに関して咎のない」。これは、彼らの人生の歩みにおいて非難されるところなく生きることを意味する。NASBの「その歩みが咎のない者」、NABの「正直に歩む者」等を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Righteousness and wickedness are personified in this proverb to make the point of security and insecurity for the two courses of life.",
+        "ja": "[解説] 人生の二つの道の安全性と不安定さを指摘するため、この格言では義と悪が人格化されている。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hitpael of עָשַׁר (’ashar, “to be rich”) means “to pretend to be rich” (BDB 799 s.v. עָשַׁר Hithp); this is the so-called “Hollywood Hitpael” function which involves “acting” or pretending to be something one is not.",
+        "ja": "[翻訳注] アシャル（עָשַׁר, 「豊かである」）のヒトパエル態は「富んでいるふりをする」を意味する（BDB 799 s.v. עָשַׁר Hithp）。これは、実際にはそうではない何かを「演じる」または「ふりをする」ことに関係する、いわゆる「ハリウッド・ヒトパエル」の機能である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hitpolel of רוּשׁ (rush, “to be poor”) means “to pretend to be poor” (BDB 930 s.v. Hithpolel); this is another example of the “Hollywood Hitpael” – the Hitpolel forms of hollow root verbs are the equivalent of Hitpael stem forms.",
+        "ja": "[翻訳注] ルーシュ（רוּשׁ, 「貧しい」）のヒットポレル態は「貧しいふりをする」を意味する（BDB 930 s.v. Hithpolel）。これも「ハリウッド・ヒトパエル」の別の例であり、中弱動詞のヒットポレル態はヒトパエル態と同等の働きをする。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The proverb seems to be a general observation on certain people in life, but it is saying more. Although there are times when such pretending may not be wrong, the proverb is instructing people to be honest. An empty pretentious display or a concealing of wealth can come to no good.",
+        "ja": "[解説] この格言は人生における特定の人間に対する一般的な観察のように見えるが、それ以上のことを言っている。そのようなふりをすることが間違っていない時もあるとはいえ、この格言は人々に正直であれと教えている。空虚な見栄の誇示や富の隠蔽は、決して良い結果を生まない。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[解説]  As the word “ransom” (כֹּפֶר, cofer) indicates, the rich are susceptible to kidnapping and robbery. But the poor man pays no attention to blackmail – he does not have money to buy off oppressors. So the rich person is exposed to legal attacks and threats of physical violence and must use his wealth as ransom.",
+        "ja": "[解説] 「身代金」（כֹּפֶר, cofer）という言葉が示すように、富める者は誘拐や強盗の標的になりやすい。しかし、貧しい者は脅迫に注意を払わない――彼には強圧的な者を買収する金がないからである。したがって、富める者は法的攻撃や身体的暴力の脅威にさらされており、自分の財産を身代金として使わなければならない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the life of a man.”",
+        "ja": "[翻訳注] ヘブライ語では「人の命」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The term גְּעָרָה (gÿ’arah) may mean (1) “rebuke” (so KJV, NASB) or (2) “threat” (so NIV; cf. ASV, NRSV, NLT ). If “rebuke” is the sense here, it means that the burdens of society fall on the rich as well as the dangers. But the sense of “threat” better fits the context: The rich are threatened with extortion, but the poor are not (cf. CEV “the poor don’t have that problem”).",
+        "ja": "[翻訳注] ゲアラ（גְּעָרָה, gÿ'arah）という語は、（1）「叱責」（KJV, NASB等）、あるいは（2）「脅し・脅威」（NIV；ASV, NRSV, NLT等も参照）を意味しうる。ここでの意味が「叱責」であるならば、社会の重荷は危険だけでなく富める者にも降りかかることを意味する。しかし「脅し」というニュアンスの方が文脈によく適合している：富める者は恐喝の脅しを受けるが、貧しい者はそうではない（CEVの「貧しい者にはその問題がない」を参照）。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[解説]  The images of “light” and “darkness” are used frequently in scripture. Here “light” is an implied comparison: “light” represents life, joy, and prosperity; “darkness” signifies adversity and death. So the “light of the righteous” represents the prosperous life of the righteous.",
+        "ja": "[解説] 「光」と「闇」のイメージは聖書中で頻繁に使用されている。ここで「光」は暗黙の比較である：「光」は命、喜び、繁栄を象徴し、「闇」は逆境と死を意味する。したがって「正しい者の光」は、正しい者の繁栄する人生を表している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb יִשְׂמָח (yismah) is normally translated “to make glad; to rejoice.” But with “light” as the subject, it has the connotation “to shine brightly” (see G. R. Driver, “Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 180).",
+        "ja": "[翻訳注] 動詞イスマハ（יִשְׂמָח, yismah）は通常「喜ばせる、歓喜する」と翻訳される。しかし「光」が主語である場合、「明るく輝く」という含意を持つ（G. R. Driver, “Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 180参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The lamp is an implied comparison as well, comparing the life of the wicked to a lamp that is going to be extinguished.",
+        "ja": "[解説] ともしびも同様に暗黙の比較であり、悪しき者の人生を、やがて消されるともしびになぞらえている。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The LXX adds, “Deceitful souls go astray in sins, but the righteous are pitiful and merciful.”[翻訳注]  The verb דָּעַךְ (da’akh) means “to go out [in reference to a fire or lamp]; to be extinguished.” The idea is that of being made extinct, snuffed out (cf. NIV, NLT). The imagery may have been drawn from the sanctuary where the flame was to be kept burning perpetually. Not so with the wicked.",
+        "ja": "[写本注] 七十受胎訳（LXX）は次のように付け加えている。「欺きに満ちた魂は罪の中で迷い出るが、正しい者はあわれみ深く慈愛に満ちている。」[翻訳注] 動詞ダーアク（דָּעַךְ, da'akh）は「（火やともしびに関して）消える、消し止められる」を意味する。その概念は絶滅させられること、灯火を消されることである（NIV, NLT等参照）。この比喩は、炎が絶えず燃やされ続けなければならなかった神殿の聖所から引き出されたものであるかもしれない。悪しき者についてはそうではない。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[解説]  The parallelism suggests pride here means contempt for the opinions of others. The wise listen to advice rather than argue out of stubborn pride.",
+        "ja": "[解説] 対句法は、ここでの高慢が他者の意見に対する軽蔑を意味していることを示唆している。知恵ある者は、頑なな高慢から議論し合うのではなく、助言に耳を傾ける。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The particle רַק (raq, “only”) modifies the noun “contention” – only contention can come from such a person.",
+        "ja": "[翻訳注] 不定詞ラクル（רַק, raq, 「ただ〜のみ」）は「争い」という名詞を修飾している――そのような人からは争いしか生じ得ない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Niphal of יָעַץ (ya’ats, “to advise; to counsel”) means “to consult together; to take counsel.” It means being well-advised, receiving advice or consultation (cf. NCV “those who take advice are wise”).",
+        "ja": "[翻訳注] ヤーアツ（יָעַץ, 「助言する、勧告する」）のニファル態は「共に協議する、相談する」を意味する。それは、助言や協議を受ける、よく導かれている状態を意味する（NCVの「助言を受ける者は知恵がある」を参照）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT reads מֵהֵבֶל (mehevel, “from vanity”). The Greek and Latin versions (followed by RSV) reflect מְבֹהָל (mÿvohal, “in haste”) which exhibits metathesis. MT is the more difficult reading and therefore preferred. The alternate reading fits the parallelism better, but is therefore a less difficult reading.[翻訳注]  Heb “wealth from vanity” (cf. KJV, ASV). The term הֶבֶל (hevel) literally means “vapor” and figuratively refers to that which is unsubstantial, fleeting, or amount to nothing (BDB 210 s.v.). Used in antithesis with the expression “little by little,” it means either “without working for it” or “quickly.” Some English versions assume dishonest gain (cf. NASB, NIV, CEV).",
+        "ja": "[写本注] マソラ本文（MT）はメヘヴェル（מֵהֵבֶל, 「虚偽から」）と読む。ギリシャ語およびラテン語訳（RSVが従う）はメタテーシス（音位転換）を示しているメヴォハル（מְבֹהָל, 「急いで」）を反映している。MTはより難解な読み方であり、それ故に好ましい。代わりの読み方は対句法によりよく適合するが、それゆえに難解さが少ない読み方である。[翻訳注] ヘブライ語では「虚無からの富」（KJV, ASV等参照）。ヘヴェル（הֶבֶל）という語は文字通り「蒸気」を意味し、比喩的に実体のない、はかない、あるいは何の意味もなさないものを指す（BDB 210 s.v.）。「少しずつ」という表現と対比して使われる場合、「働かずに」または「手っ取り早く」のいずれかを意味する。一部の英語翻訳は不正な利益を想定している（NASB, NIV, CEV等参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “will become small.” The verb מָעָט (ma’at) means “to become small; to become diminished; to become few.” Money gained without work will diminish quickly, because it was come by too easily. The verb forms a precise contrast with רָבָה (ravah), “to become much; to become many,” but in the Hiphil, “to multiply; to make much many; to cause increase.”",
+        "ja": "[翻訳注] ヘブライ語では「小さくなる」。動詞マアート（מָעָט）は「小さくなる、減少する、少なくなる」を意味する。労働なしで得られた金銭は、あまりにも容易に手に入ったゆえに急速に減少する。この動詞は、ラーヴァ（רָבָה, 「多くなる、多数になる」、ヒフィル態では「増やす、多くする、増加させる」）と正確な対比をなしている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “by hand”; cf. KJV, ASV, NASB “by labor.”",
+        "ja": "[翻訳注] ヘブライ語では「手によって」。KJV, ASV, NASBの「労働によって」等を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “will increase.”",
+        "ja": "[翻訳注] ヘブライ語では「増し加わる」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  The word “hope” (תּוֹחֶלֶת [tokhelet] from יָחַל [yakhal]) also has the implication of a tense if not anxious wait.",
+        "ja": "[解説] 「希望」（ヤーハル [yakhal] に由来するトゥオヘレト [תּוֹחֶלֶת]）という語には、緊張した、あるいは不安を伴う待ち焦がれの含意もある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb is the Pual participle from מָשַׁךְ (mashakh,“to draw; to drag”).",
+        "ja": "[翻訳注] 動詞はマシャク（מָשַׁךְ, 「引く、引っ張る」）のプアール分詞である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Failure in realizing one’s hopes can be depressing or discouraging. People can bear frustration only so long (W. G. Plaut, Proverbs, 153).",
+        "ja": "[解説] 自分の希望が実現しないことは、人を憂鬱にさせ、落胆させることがある。人々が耐えられるフラストレーションには限度がある（W. G. Plaut, Proverbs, 153）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “a desire that comes”; cf. CEV “a wish that comes true.”",
+        "ja": "[翻訳注] ヘブライ語では「もたらされる欲望」。CEVの「現実となる願い」等を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「〜のようだ」という語はヘブライ語本文には存在しないが、比喩によって暗示されており、明確さのために補われている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the word.” The term “word” means teaching in general; its parallel “command” indicates that it is the more forceful instruction that is meant. Both of these terms are used for scripture.",
+        "ja": "[翻訳注] ヘブライ語では「言葉」。ここで「言葉」という語は一般的な教えを意味し、その平行語である「命令」は、より力強い指示が意図されていることを示している。これらの用語はいずれも聖書のために使用される。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT reads יֵחָבֶל (yekhavel, “he will pay [for it]”; cf. NAB, NIV) but the BHS editors suggest revocalizing the text to יְחֻבָּל (yÿkhubal, “he will be broken [for it]”; cf. NRSV “bring destruction on themselves”).[翻訳注]  Heb “will be pledged to it.” The Niphal of I חָבַל (khaval) “to pledge” means “to be under pledge to pay the penalty” (BDB 286 s.v. Niph). Whoever despises teaching will be treated as a debtor – he will pay for it if he offends against the law.",
+        "ja": "[写本注] マソラ本文（MT）はイェハーヴェル（יֵחָבֶל, 「彼は（そのために）支払う」；NAB, NIV等参照）と読むが、BHS（ビブリア・ヘブライカ・シュトゥットガルトエンシア）の編集者らは、テキストの発声を変更してイフッバール（יְחֻבָּל, 「彼は（そのために）打ち砕かれる」；NRSVの「自分自身に滅びをもたらす」等参照）とすることを提案している。[翻訳注] ヘブライ語では「それに質入れされる」。第1種ハーヴァル（חָבַל）のニファル態「質入れする」は、「罰金を支払う担保に入っている状態にある」を意味する（BDB 286 s.v. Niph）。教えを軽蔑する者は債務者として扱われ、律法に逆らえばその代償を支払うことになる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “fears a commandment”; NIV “respects a command.”",
+        "ja": "[翻訳注] ヘブライ語では「命令を恐れる（畏怖する）」。NIVの「命令を敬う」も参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “he” or “that one” [will be rewarded].",
+        "ja": "[翻訳注] ヘブライ語では「彼」または「その者」［が報いられる］。"
+      },
+      {
+        "pos": 5,
+        "en": "[写本注]  The LXX adds: “A crafty son will have no good thing, but the affairs of a wise servant will be prosperous; and his path will be directed rightly.”",
+        "ja": "[写本注] 七十受胎訳（LXX）は次のように追加している。「ずる賢い子には良いことが何もないが、知恵ある僕の事業は栄え、その道は正しく導かれる。」"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The term תוֹרָה (torah) in legal literature means “law,” but in wisdom literature often means “instruction; teaching” (BDB 435 s.v.); cf. NAV, NIV, NRSV “teaching”; NLT “advice.”",
+        "ja": "[翻訳注] 法的文書におけるトーラー（תוֹרָה）という語は「律法」を意味するが、知恵文学においてはしばしば「教え、指導」を意味する（BDB 435 s.v.）。NAV, NIV, NRSVの「指導・教え」、NLTの「助言」等を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “instruction of the wise.” The term חָכָם (khakham, “the wise”) is a genitive of source.",
+        "ja": "[翻訳注] ヘブライ語では「知恵ある者の指導」。ハカム（חָכָם, 「知恵ある者」）という語は出所の属格である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied for the sake of clarity.",
+        "ja": "[翻訳注] 比較を表す「〜のようだ」という語はヘブライ語本文には存在しないが、比喩によって暗示されており、明確さのために補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “fountain of life” (so KJV, NAB, NIV, NRSV). The genitive חַיִּים (khayyim) functions as a genitive of material, similar to the expression “fountain of water.” The metaphor means that the teaching of the wise is life-giving. The second colon is the consequence of the first, explaining this metaphor.",
+        "ja": "[翻訳注] ヘブライ語では「命の泉」（KJV, NAB, NIV, NRSV等と同様）。ハイイーム（חַיִּים, 「命」）という属格は、「水の泉」という表現に似た、素材の属格として機能している。この比喩は、知恵ある者の教えが命を与えるものであることを意味する。第二句は第一句の結果であり、この比喩を説明している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The infinitive construct with preposition לְ (lamed) gives the result (or, purpose) of the first statement. It could also be taken epexegetically, “by turning.”",
+        "ja": "[翻訳注] 前置詞ロ（לְ）を伴う不定詞連辞形は、最初の記述の結果（あるいは目的）を示している。それはまた、「〜することによって」という付帯的意味としても捉えることができる。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The term “person” does not appear in the Hebrew text, but is supplied in the translation for the sake of clarity and smoothness.",
+        "ja": "[翻訳注] 「人」という語はヘブライ語本文には存在しないが、翻訳の明確さと滑らかさのために補われている。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  Heb “snares of death” (so KJV, NAB, NASB, NIV, NRSV, NLT). The genitive מָוֶת (mavet) functions as an attributive adjective. The term “snares” makes an implied comparison with hunting; death is like a hunter. W. McKane compares the idea to the Ugaritic god Mot, the god of death, carrying people off to the realm of the departed (Proverbs [OTL], 455). The expression could also mean that the snares lead to death.",
+        "ja": "[翻訳注] ヘブライ語では「死のわな」（KJV, NAB, NASB, NIV, NRSV, NLT等と同様）。マーヴェト（מָוֶת, 「死」）という属格は形容詞的属格として機能している。「わな」という語は狩猟との暗黙の比較を生み出しており、死は狩人のようである。W.マッケインはこの概念を、人々を死者の領域へと連れ去るウガリットの死の神モトになぞらえている（Proverbs [OTL], 455）。この表現はまた、そのわなが死へと導くことを意味している可能性もある。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “good insight.” The expression שֵׂכֶל־טוֹב (sekhel-tov) describes a person who has good sense, sound judgment, or wise opinions (BDB 968 s.v. שֵׂכֶל).",
+        "ja": "[翻訳注] ヘブライ語では「良い洞察力」。シェケル・トヴ（שֵׂכֶל־טוֹב, sekhel-tov）という表現は、良い常識、健全な判断力、あるいは知恵ある見解を持つ人物を描写している（BDB 968 s.v. שֵׂכֶל）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “gives”; NASB “produces.”",
+        "ja": "[翻訳注] ヘブライ語では「与える」。NASBでは「生み出す」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “way,” frequently for conduct, behavior, or lifestyle.",
+        "ja": "[翻訳注] ヘブライ語では「道」。行為、振る舞い、あるいはライフスタイルを意味することが頻繁にある。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The MT reads אֵיתָן (’etan, “enduring; permanent; perennial”; BDB 450 s.v. יתן 1). Several scholars suggest that the text here is corrupt and the reading should be “harsh; hard; firm; rugged” (BDB 450 s.v. 2). G. R. Driver suggested that לֹא (lo’, “not”) was dropped before the word by haplography and so the meaning would have been not “enduring” but “passing away” (“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 181). The LXX, Syriac, and Tg. Prov 13:15 reflect a Hebrew Vorlage of תֹאבֵד (to’ved) “are destroyed.” The BHS editors suggest emending the text to אֵידָם (’edam) “their calamity” from אֵיד (’ed, “calamity, distress”; BDB 15 s.v.): “the way of the faithless [leads to] their calamity.” The idea of “harsh” or “hard” could also be drawn from a meaning of the word in the MT meaning “firm,” that is, enduring.",
+        "ja": "[写本注] マソラ本文（MT）はエイターン（אֵיתָן, 「持続する、永続的な、年毎の」；BDB 450 s.v. יתן 1）と読む。数人の学者は、ここでのテキストは破損しており、「過酷な、厳しい、堅固な、険しい」と読むべきであると示唆している（BDB 450 s.v. 2）。G.R.ドライバーは、ロッ（לֹא, 「〜ない」）という語がハプログラフィー（同譜省略）によりその語の前に脱落したため、意味は「持続する」ではなく「過ぎ去る・消え失せる」であったろうと提案した（“Problems in the Hebrew Text of Proverbs,” Bib 32 [1951]: 181）。七十受胎訳、シリア語訳、およびタルグム（格13:15）は、ヘブライ語の原典としてトーヴェド（תֹאבֵד, 「滅びる」）を反映している。BHSの編集者らは、エイド（אֵיד, 「災難、苦難」；BDB 15 s.v.）に由来するエイダーム（אֵידָם, 「彼らの災い」）へとテキストを修正することを提案している：「不実な者の道は[彼らの]災いに至る」。また「過酷な」あるいは「厳しい」という概念は、「堅固な（すなわち持続する）」というMTにおけるその単語の意味からも導き出されうる。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[解説]  The shrewd person knows the circumstances, dangers and pitfalls that lie ahead. So he deals with them wisely. This makes him cautious.",
+        "ja": "[解説] 思慮深い者は、前方に横たわる状況、危険、落とし穴をわきまえている。したがって彼はそれらに知恵をもって対処する。これが彼を慎重な者にする。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “spreads open” [his folly]. W. McKane suggests that this is a figure of a peddler displaying his wares (Proverbs [OTL], 456; cf. NAB “the fool peddles folly”). If given a chance, a fool will reveal his foolishness in public. But the wise study the facts and make decisions accordingly.",
+        "ja": "[翻訳注] ヘブライ語では［自分の愚かさを］「広げ開く」。W.マッケインは、これが自分の商品を陳列する行商人の姿を示していると示唆している（Proverbs [OTL], 456; NABの「愚か者は愚行を売り歩く」等も参照）。機会を与えられれば、愚か者は公の場で自分の愚かさを露わにする。しかし知恵ある者は事実を調べ、それに応じて決断を下す。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “bad.”",
+        "ja": "[翻訳注] ヘブライ語では「悪い」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The RSV changes this to a Hiphil to read, “plunges [men] into trouble.” But the text simply says the wicked messenger “falls into trouble,” perhaps referring to punishment for his bad service.",
+        "ja": "[翻訳注] RSVはこれをヒフィル態に変更し、「［人々を］災いに陥れる」と読んでいる。しかし本文は単に、悪しき使者が「災いに陥る」と述べており、おそらく彼の悪い奉仕に対する処罰を指しているのだろう。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “evil.”",
+        "ja": "[翻訳注] または「悪」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “an envoy of faithfulness.” The genitive אֱמוּנִים (’emunim, “faithfulness”) functions as an attributive adjective: “faithful envoy.” The plural form אמונים (literally, “faithfulnesses”) is characteristic of abstract nouns. The term “envoy” (צִיר, tsir) suggests that the person is in some kind of government service (e.g., Isa 18:2; Jer 49:14; cf. KJV, ASV “ambassador”). This individual can be trusted to “bring healing” – be successful in the mission. The wisdom literature of the ancient Neat East has much to say about messengers.",
+        "ja": "[翻訳注] ヘブライ語では「忠実さの使者」。エムーニーム（אֱמוּנִים, 「忠実さ」）という属格は、「忠実な使者」という形容詞的属格として機能している。複数形のエムーニーム（文字通りには「複数の忠実さ」）は抽象名詞の特徴である。「使者」（צִיר, tsir）という語は、その人物が何らかの政府の任務についていることを示唆している（例：イザ18:2、受49:14；KJV, ASVの「大使」等参照）。この個人は「癒やしをもたらす」――すなわち使命に成功することを信頼されうる。古代近東の知恵文学には、使者について多く語られているところがある。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The verb “brings” does not appear in the Hebrew text, but is implied by the parallelism; it is supplied in the translation for the sake of smoothness.",
+        "ja": "[翻訳注] 「もたらす」という動詞はヘブライ語本文には存在しないが、対句法によって暗示されており、文章の滑らかさのために翻訳において補われている。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb III פָּרַע (para’) normally means “to let go; to let alone” and here “to neglect; to avoid; to reject” (BDB 828 s.v.).",
+        "ja": "[翻訳注] 第3種パーラ（פָּרַע, para'）という動詞は通常「放っておく、かまわないでおく」を意味し、ここでは「軽んじる、避ける、拒絶する」を意味する（BDB 828 s.v.）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The phrase “ends up in” does not appear in the Hebrew text, but is implied by the parallelism; it is supplied in the translation for the sake of smoothness.",
+        "ja": "[翻訳注] 「〜に行き着く」という句はヘブライ語本文には存在しないが、対句法によって暗示されており、文章の滑らかさのために翻訳において補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Honor and success are contrasted with poverty and shame; the key to enjoying the one and escaping the other is discipline and correction. W. McKane, Proverbs (OTL), 456, notes that it is a difference between a man of weight (power and wealth, from the idea of “heavy” for “honor”) and the man of straw (lowly esteemed and poor).",
+        "ja": "[解説] 栄誉と成功が貧困と恥に対比されており、一方を享受し他方を免れるための鍵は、訓戒と矯正である。W.マッケイン（Proverbs [OTL], 456）は、それは重みのある者（「栄誉」を表す「重い」という概念に由来する、権力と富を持つ者）と藁の男（低く評価され貧しい者）との違いであると指摘している。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “an abomination of fools.” The noun כְּסִילִים (kÿsilim, “fools”) functions as a subjective genitive: “fools hate to turn away from evil” (cf. NAB, TEV, CEV). T. T. Perowne says: “In spite of the sweetness of good desires accomplished, fools will not forsake evil to attain it” (Proverbs, 103). Cf. Prov 13:12; 29:27.",
+        "ja": "[翻訳注] ヘブライ語では「愚か者にとっての忌まわしきもの」。クジリーム（כְּסִילִים, 「愚か者」）という名詞は主格属格として機能している：「愚か者は悪から離れ去ることを嫌う」（NAB, TEV, CEV等参照）。T.T.ペロウネは言う。「成し遂げられた良い願いの甘さにもかかわらず、愚か者はそれを手に入れるために悪を捨てようとはしない」（Proverbs, 103）。格13:12; 29:27も参照。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “walks.” When used with the preposition אֶת (’et, “with”), the verb הָלַךְ (halakh, “to walk”) means “to associate with” someone (BDB 234 s.v. הָלַךְ II.3.b; e.g., Mic 6:8; Job 34:8). The active participle of הָלַךְ (“to walk”) stresses continual, durative action. One should stay in close association with the wise, and move in the same direction they do.",
+        "ja": "[翻訳注] ヘブライ語では「歩む」。ハラフ（הָלַךְ, 「歩む」）という動詞は、前置詞エト（אֶת, 「〜と共に」）と一緒に使われる場合、誰かと「交際する、連れ添う」を意味する（BDB 234 s.v. הָלַךְ II.3.b; 例：ミカ6:8、ヨブ34:8）。ハラフの現在分詞（「歩む者」）は、継続的で持続的な行動を強調している。人は知恵ある者と密接な交わりを保ち、彼らが進むのと同じ方向へ進むべきである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb form יֵרוֹעַ (yeroa’) is the Niphal imperfect of רָעַע (ra’a’), meaning “to suffer hurt.” Several have attempted to parallel the repetition in the wordplay of the first colon. A. Guillaume has “he who associates with fools will be left a fool” (“A Note on the Roots רִיע, יָרַע, and רָעַע in Hebrew,” JTS 15 [1964]: 294). Knox translated the Vulgate thus: “Fool he ends that fool befriends” (cited by D. Kidner, Proverbs [TOTC], 104).",
+        "ja": "[翻訳注] 動詞形イェローア（יֵרוֹעַ, yeroa'）はラーア（רָעַע, ra'a'）のニファル未完了形であり、「害を受ける」を意味する。多くの学者が、第一句の言葉遊びにおける反復を並行させようと試みてきた。A.ギヨームは「愚か者と交わる者は、愚か者のまま取り残される」としている（“A Note on the Roots רִיע, יָרַע, and רָעַע in Hebrew,” JTS 15 [1964]: 294）。ノックスはウルガタ訳を次のように翻訳した。「愚か者の友となる者は、最後には愚か者となる」（D. Kidner, Proverbs [TOTC], 104により引用）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “evil.” The term רָעָה (ra’ah, “evil”) here functions in a metonymical sense meaning “calamity.” “Good” is the general idea of good fortune or prosperity; the opposite, “evil,” is likewise “misfortune” (cf. NAB, NIV, NRSV) or calamity.",
+        "ja": "[翻訳注] ヘブライ語では「悪」。ララー（רָעָה, ra'ah, 「悪」）という語は、ここでは「災い」を意味する換喩的な意味で機能している。「善」は幸運や繁栄という一般的な概念であり、その反対である「悪」も同様に「不運」（NAB, NIV, NRSV）あるいは「災い」である。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This statement deals with recompense in absolute terms. It is this principle, without allowing for any of the exceptions that Proverbs itself acknowledges, that Job’s friends applied (incorrectly) to his suffering.",
+        "ja": "[解説] この記述は絶対的な観点からの報いについて扱っている。箴言自身が認めている例外のどれをも考慮に入れることなく、ヨブの友人たちが彼の苦難に対して（誤って）適用したのは、まさにこの原則であった。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “good.”",
+        "ja": "[翻訳注] ヘブライ語では「良い」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  In ancient Israel the idea of leaving an inheritance was a sign of God’s blessing; blessings extended to the righteous and not the sinners.",
+        "ja": "[解説] 古代イスラエルにおいて嗣業を残すという概念は神の祝福のしるしであり、祝福は罪人ではなく正しい者へと及んでいた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the children of children.”",
+        "ja": "[翻訳注] ヘブライ語では「子どもの子どもたち」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  In the ultimate justice of God, the wealth of the wicked goes to the righteous after death (e.g., Ps 49:10, 17).",
+        "ja": "[解説] 神の究極的な正義において、悪しき者の富は死後に正しい者のものとなる（例：詩49:10, 17）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “fallow ground” (so NASB). The word נִיר (nir) means “the tillable [or untilled; or fallow] ground.” BDB 644 s.v. says this line could be rendered: “abundant food [yields] the fallow ground of poor men” (i.e., with the Lord’s blessing).",
+        "ja": "[翻訳注] ヘブライ語では「休耕地」（NASB等と同様）。ニール（נִיר, nir）という語は「耕作可能な（あるいは未耕作の、休耕の）土地」を意味する。BDB 644 s.v.によれば、この行は次のように訳すこともできる：「豊かな食物は貧しい者たちの休耕地［をもたらす］」（すなわち、主の祝福によって）。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT reads “there is what is swept away because [there is] no justice” (וְיֵשׁ נִסְפֶּה בְּלֹא מִשְׁפָּט, vÿyesh nispeh bÿlo’ mishpat). The LXX reads “the great enjoy wealth many years, but some men perish little by little.” The Syriac reads “those who have no habitation waste wealth many years, and some waste it completely.” Tg. Prov 13:23 reads “the great man devours the land of the poor, and some men are taken away unjustly.” The Vulgate has “there is much food in the fresh land of the fathers, and for others it is collected without judgment.” C. H. Toy says that the text is corrupt (Proverbs [ICC], 277). Nevertheless, the MT makes sense: The ground could produce enough food for people if there were no injustice in the land. Poverty is unnecessary as long as there is justice and not injustice.",
+        "ja": "[写本注] マソラ本文（MT）は「不正がないために掃き清められるものがある」（וְיֵשׁ נִסְפֶּה בְּלֹא מִשְׁפָּט, vÿyesh nispeh bÿlo’ mishpat）と読む。七十受胎訳（LXX）は「偉大な者たちは長年富を享受するが、ある者たちは少しずつ滅びる」と読む。シリア語訳は「住む所のない者たちは長年富を浪費し、ある者たちは完全にそれを浪費する」と読む。タルグム（格13:23）は「偉大な人は貧しい者の地を食らい、ある者たちは不当に連れ去られる」と読む。ウルガタは「父たちの新しい土地には多くの食物があり、他の者たちのためにそれは裁きなしに集められる」としている。C.H.トイはテキストが破損していると述べている（Proverbs [ICC], 277）。それにもかかわらず、MTは意味をなしている：もし国に不正がなければ、土地は人々のために十分な食物を産出することができたはずである。国に不正ではなく正義がある限り、貧困は不必要なものである。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  R. N. Whybray cites an Egyptian proverb that says that “boys have their ears on their backsides; they listen when they are beaten” (Proverbs [CBC], 80). Cf. Prov 4:3-4, 10-11; Eph 6:4; Heb 12:5-11.",
+        "ja": "[解説] R.N.ワイブリーは、次のようなエジプトの格言を引用している。「少年たちの耳はその尻にある。彼らは叩かれるときに耳を傾ける」（Proverbs [CBC], 80）。格4:3-4, 10-11、エペ6:4、ヘブ12:5-11等も参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The importance of parental disciplining is stressed by the verbs “hate” and “love.” “Hating” a child in this sense means in essence abandoning or rejecting him; “loving” a child means embracing and caring for him. Failure to discipline a child is tantamount to hating him – not caring about his character.",
+        "ja": "[解説] 親の訓練の重要性は、「憎む」と「愛する」という動詞によって強調されている。この文脈における子を「憎む」とは、本質的に彼を見捨てるか拒絶することを意味し、子を「愛する」とは、彼を抱きしめ大切にすることを意味する。子供を訓練しないことは、彼を憎むこと、すなわち彼の性格を気にかけないことと同等である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “his son.”",
+        "ja": "[翻訳注] ヘブライ語では「その子」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “him”; the referent (his child) is specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語では「彼」；指示対象（彼の子供）は明確さのために翻訳において明示されている。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “seeks him.” The verb שָׁחַר (shahar, “to be diligent; to do something early”; BDB 1007 s.v.) could mean “to be diligent to discipline,” or “to be early or prompt in disciplining.” See G. R. Driver, “Hebrew Notes on Prophets and Proverbs,” JTS 41 (1940): 170.",
+        "ja": "[翻訳注] 動詞シャハル（שָׁחַר, 「勤勉である、早くに何かをする」；BDB 1007 s.v.）は、「訓練することに勤勉である」、あるいは「熱心かつ迅速に訓練する」を意味しうる。G.R.ドライバーの論文を参照（“Hebrew Notes on Prophets and Proverbs,” JTS 41 [1940]: 170）。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The noun מוּסָר (musar, “discipline”) functions as an adverbial accusative of reference: “he is diligent in reference to discipline.”",
+        "ja": "[翻訳注] 名詞ムサール（מוּסָר, 「訓練」）は言及の副詞的対格として機能している：「彼は訓練に関して勤勉である」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The noun נֶפֶשׁ (traditionally “soul”; cf. KJV, ASV) here means “appetite” (BDB 660 s.v. 5.a).",
+        "ja": "[翻訳注] 名詞ネフェシュ（伝統的には「魂」；KJV, ASV等参照）はここで「食欲」を意味する（BDB 660 s.v. 5.a）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he will lack.” The term “food” is supplied in the translation as a clarification. The wicked may go hungry, or lack all they desire, just as the first colon may mean that what the righteous acquire proves satisfying to them.",
+        "ja": "[翻訳注] ヘブライ語では「彼は欠乏する」。明確化のために「食物」という語が翻訳において補われている。悪しき者は空腹に苦しむか、あるいは彼らが望むすべてを欠くことになるのであり、それは第一句において正しい者が手に入れるものが彼らにとって満ち足りたものであることを意味するのと同様である。"
+      }
+    ]
+  }
+}

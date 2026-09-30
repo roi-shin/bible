@@ -1,0 +1,106 @@
+# Jonah 3 (English)
+
+## Text
+
+**1** The Lord’s message came to Jonah a second time,
+
+**2** “Go immediately to Nineveh, that large city, and proclaim to it the message that I tell you.”
+
+**3** So Jonah went immediately to Nineveh, in keeping with the Lord’s message. Now Nineveh was an enormous city—it required three days to walk through it!
+
+**4** Jonah began to enter the city by going one day’s walk, announcing, “At the end of 40 days, Nineveh will be overthrown!” 
+
+**5** The people of Nineveh believed in God, and they declared a fast and put on sackcloth, from the greatest to the least of them.
+
+**6** When the news reached the king of Nineveh, he got up from his throne, took off his royal robe, put on sackcloth, and sat on ashes. 
+
+**7** He issued a proclamation and said, “In Nineveh, by the decree of the king and his nobles: No human or animal, cattle or sheep, is to taste anything; they must not eat and they must not drink water. 
+
+**8** Every person and animal must put on sackcloth and must cry earnestly to God, and everyone must turn from their evil way of living and from the violence that they do.
+
+**9** Who knows? Perhaps God might be willing to change his mind and relent and turn from his fierce anger so that we might not die.” 
+
+**6** When the news reached the king of Nineveh, he got up from his throne, took off his royal robe, put on sackcloth, and sat on ashes. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “The word of the Lord [was] to Jonah.” See the note on 1:1.
+
+### Verse 2 - Note 1
+[解説]  The commands of 1:2 are repeated here. See the note there on the combination of “arise” and “go.”
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “Nineveh, the great city.”
+
+### Verse 2 - Note 3
+[翻訳注]  The verb קָרָא (qara’, “proclaim”) is repeated from 1:2 but with a significant variation. The phrase in 1:2 was the adversative קְרָא עָל (qÿra’ ’al, “proclaim against”), which often designates an announcement of threatened judgment (1 Kgs 13:4, 32; Jer 49:29; Lam 1:15). However, here the phrase is the more positive קְרָא אֶל (qÿra’ ’el, “proclaim to”) which often designates an oracle of deliverance or a call to repentance, with an accompanying offer of deliverance that is either explicit or implied (Deut 20:10; Isa 40:2; Zech 1:4; HALOT 1129 s.v. קרא 8; BDB 895 s.v. קָרָא 3.a). This shift from the adversative preposition עַל (“against”) to the more positive preposition אֶל (“to”) might signal a shift in God’s intentions or perhaps it simply makes his original intention more clear. While God threatened to judge Nineveh, he was very willing to relent and forgive when the people repented from their sins (3:8-10). Jonah later complains that he knew that God was likely to relent from the threatened judgment all along (4:2).
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “was a great city to God/gods.” The greatness of Nineveh has been mentioned already in 1:2 and 3:2. What is being added now? Does the term לֵאלֹהִים (le’lohim, “to God/gods”) (1) refer to the Lord’s personal estimate of the city, (2) does it speak of the city as “belonging to” God, (3) does it refer to Nineveh as a city with many shrines and gods, or (4) is it simply an idiomatic reinforcement of the city’s size? Interpreters do not agree on the answer. To introduce the idea either of God’s ownership or of dedication to idolatry (though not impossible) is unexpected here, being without parallel or follow-up elsewhere in the book. The alternatives “great/large/important in God’s estimation” (consider Ps 89:41b) or the merely idiomatic “exceptionally great/large/important” could both be amplified by focus on physical size in the following phrase and are both consistent with emphases elsewhere in the book (Jonah 4:11 again puts attention on size – of population). If “great” is best understood as a reference primarily to size here, in view of the following phrase and v. 4a (Jonah went “one day’s walk”), rather than to importance, this might weigh slightly in favor of an idiomatic “very great/large,” though no example with “God” used idiomatically to indicate superlative (Gen 23:6; 30:8; Exod 9:28; 1 Sam 14:15; Pss 36:6; 80:10) has exactly the same construction as the wording in Jonah 3:3.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “a three-day walk.” The term “required” is supplied in the translation for the sake of smoothness and clarity.[解説]  Required three days to walk through it. Although this phrase is one of the several indications in the book of Jonah of Nineveh’s impressive size, interpreters are not precisely sure what “a three-day walk” means. In light of the existing archaeological remains, the phrase does not describe the length of time it would have taken a person to walk around the walls of the city or to walk from one end of the walled city to the other. Other suggestions are that it may indicate the time required to walk from one edge of Nineveh’s environs to the other (in other words, including outlying regions) or that it indicates the time required to arrive, do business, and leave. More information might also show that the phrase involved an idiomatic description (consider Gen 30:36; Exod 3:18; a three-day-journey would be different for families than for soldiers, for example), rather than a precise measurement of distance, for which terms were available (Ezek 45:1-6; 48:8-35). With twenty miles as quite a full day’s walk, it seems possible and simplest, however, to take the phrase as including an outlying region associated with Nineveh, about sixty miles in length.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “Yet forty days and Nineveh will be overthrown!” The adverbial use of עוֹד (’od, “yet”) denotes limited temporal continuation (BDB 728 s.v. עוֹד 1.a; Gen 29:7; Isa 10:32). Tg. Jonah 3:4 rendered it as “at the end of [forty days, Nineveh will be overthrown].”
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “be overturned.” The Niphal נֶהְפָּכֶת (nehpakhet, “be overturned”) refers to a city being overthrown and destroyed (BDB 246 s.v. הָפַךְ 2.d). The related Qal form refers to the destruction of a city by military conquest (Judg 7:3; 2 Sam 10:3; 2 Kgs 21:13; Amos 4:11) or divine intervention as in the case of Sodom and Gomorrah (Gen 19:21, 25, 29; Deut 29:22; Jer 20:16; Lam 4:6; BDB 245 s.v. 1.b). The participle form used here depicts an imminent future action (see IBHS 627-28 §37.6f) which is specified as only “forty days” away.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “men.” The term is used generically here for “people” (so KJV, ASV, and many other English versions); cf. NIV “the Ninevites.”
+
+### Verse 5 - Note 2
+[解説]  The people of Nineveh believed in God…. Verse 5 provides a summary of the response in Nineveh; the people of all ranks believed and gave evidence of contrition by fasting and wearing sackcloth (2 Sam 12:16, 19-23; 1 Kgs 21:27-29; Neh 9:1-2). Then vv. 6-9 provide specific details, focusing on the king’s reaction. The Ninevites’ response parallels the response of the pagan sailors in 1:6 and 13-16.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “from the greatest of them to the least of them.”
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “word” or “matter.”
+
+### Verse 7 - Note 1
+[翻訳注]  Contrary to many modern English versions, the present translation understands the king’s proclamation to begin after the phrase “and he said” (rather than after “in Nineveh”), as do quotations in 1:14; 2:2, 4; 4:2, 8, 9. In Jonah where the quotation does not begin immediately after “said” (אָמַר, ’amar), it is only the speaker or addressee or both that come between “said” and the start of the quotation (1:6, 7, 8, 9, 10, 11, 12; 4:4, 9, 10; cf. 1:1; 3:1).
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “with strength”; KJV, NRSV “mightily”; NAB, NCV “loudly”; NIV “urgently.”
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “let them turn, a man from his evil way.” The alternation between the plural verb וְיָשֻׁבוּ (vÿyashuvu, “and let them turn”) and the singular noun אִישׁ (’ish, “a man, each one”) and the singular suffix on מִדַּרְכּוֹ (middarko, “from his way”) emphasizes that each and every person in the collective unity is called to repent.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “his.” See the preceding note on “one.”
+
+### Verse 8 - Note 4
+[翻訳注]  Heb “evil way.” For other examples of “way” as “way of living,” see Judg 2:17; Ps 107:17-22; Prov 4:25-27; 5:21.
+
+### Verse 8 - Note 5
+[翻訳注]  Heb “that is in their hands.” By speaking of the harm they did as “in their hands,” the king recognized the Ninevites’ personal awareness and immediate responsibility. The term “hands” is either a synecdoche of instrument (e.g., “Is not the hand of Joab in all this?” 2 Sam 14:19) or a synecdoche of part for the whole. The king's descriptive figure of speech reinforces their guilt.
+
+### Verse 9 - Note 1
+[解説]  The king expresses his uncertainty whether Jonah’s message constituted a conditional announcement or an unconditional decree.  emphasizes that God sometimes gives people an opportunity to repent when they hear an announcement of judgment. However, as Amos and Isaiah learned, if a people refused to repent over a period of time, the patience of God could be exhausted. The offer of repentance in a conditional announcement of judgment can be withdrawn and in its place an unconditional decree of judgment issued. In many cases it is difficult to determine on the front end whether or not a prophetic message of coming judgment is conditional or unconditional, thus explaining the king’s uncertainty.
+
+### Verse 9 - Note 2
+[翻訳注]  “he might turn and relent.” The two verbs יָשׁוּב וְנִחַם (yashub vÿnikham) may function independently (“turn and repent”) or form a verbal hendiadys (“be willing to turn”; see IBHS 540 §32.3b). The imperfect יָשׁוּב and the perfect with prefixed vav וְנִחַם form a future-time narrative sequence. Both verbs function in a modal sense, denoting possibility, as the introductory interrogative suggests (“Who knows…?”). When used in reference to past actions, שׁוּב (shub) can mean “to be sorry” or “to regret” that someone did something in the past, and when used in reference to future planned actions, it can mean “to change one’s mind” about doing something or “to relent” from sending judgment (BDB 997 s.v. שׁוּב 6). The verb נִחַם (nikham) can mean “to be sorry” about past actions (e.g., Gen 6:6, 7; 1 Sam 15:11, 35) and “to change one’s mind” about future actions (BDB 637 s.v. נחם 2). These two verbs are used together elsewhere in passages that consider the question of whether or not God will change his mind and relent from judgment he has threatened (e.g., Jer 4:28). The verbal root שׁוּב is used four times in vv. 8-10, twice of the Ninevites “repenting” from their moral evil and twice of God “relenting” from his threatened calamity. This repetition creates a wordplay that emphasizes the appropriateness of God’s response: if the people repent, God might relent.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “from the burning of his nose/face.” See Exod 4:14; 22:24; 32:12; Num 25:4; 32:14; Deut 9:19.
+
+### Verse 9 - Note 4
+[翻訳注]  The imperfect verb נֹאבֵד (no’ved, “we might not die”) functions in a modal sense, denoting possibility. The king’s hope parallels that of the ship’s captain in 1:6. See also Exod 32:7-14; 2 Sam 12:14-22; 1 Kgs 8:33-43; 21:17-29; Jer 18:6-8; Joel 2:11-15.
+
+### Verse 10 - Note 1
+[翻訳注]  This clause is introduced by כִּי (ki, “that”) and functions as an epexegetical, explanatory clause.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “from their evil way” (so KJV, ASV, NAB); NASB “wicked way.”
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “calamity” or “disaster.” The noun רָעָה (ra’ah, “calamity, disaster”) functions as a metonymy of result – the cause being the threatened judgment (e.g., Exod 32:12, 14; 2 Sam 24:16; Jer 18:8; 26:13, 19; 42:10; Joel 2:13; Jonah 4:2; HALOT 1263 s.v. רָעָה 6). The root רָעָה is repeated three times in vv. 8 and 10. Twice it refers to the Ninevites’ moral “evil” (vv. 8 and 10a) and here it refers to the “calamity” or “disaster” that the Lord had threatened (v. 10b). This repetition of the root forms a polysemantic wordplay that exploits this broad range of meanings of the noun. The wordplay emphasizes that God’s response was appropriate: because the Ninevites repented from their moral “evil” God relented from the “calamity” he had threatened.
+
+### Verse 10 - Note 4
+[翻訳注]  Heb “the disaster that he had spoken to do to them.”
+
+### Verse 10 - Note 5
+[翻訳注]  Heb “and he did not do it.” See notes on 3:8-9.
