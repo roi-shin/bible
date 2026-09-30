@@ -70,6 +70,75 @@ JA_BOOK_NAMES = {
     "3 John": "ヨハネの手紙三", "Jude": "ユダの手紙", "Revelation": "ヨハネの黙示録"
 }
 
+BOOK_REVIEWS = {
+    "Genesis": {"rank": "S", "comment": "天地創造、ノアの箱舟、バベルの塔などファンタジーやSFの元ネタの宝庫。後半のヨセフのサクセスストーリーも必読。"},
+    "Exodus": {"rank": "A", "comment": "海が真っ二つに割れる「十戒」のハイライトまで読めばOK。後半の「幕屋（テント）の作り方」はスルー推奨。"},
+    "Leviticus": {"rank": "C", "comment": "延々と続く生贄や生活のルール。「レビ記の壁」と呼ばれる最大の挫折ポイント。"},
+    "Numbers": {"rank": "C", "comment": "部族の人口調査と荒野の放浪の記録。通読にはかなりの忍耐が必要。"},
+    "Deuteronomy": {"rank": "C", "comment": "モーセの長い遺言と律法の再確認。"},
+    "Joshua": {"rank": "B", "comment": "エリコの城壁崩壊など、約束の地カナン征服の血生臭い戦記。"},
+    "Judges": {"rank": "A", "comment": "怪力サムソンなど、野性的でバイオレンスな英雄たちの物語。士師（リーダー）たちの活躍。"},
+    "Ruth": {"rank": "A", "comment": "士師時代の殺伐とした空気を和ませる、心温まる嫁姑の美しい物語。"},
+    "1 Samuel": {"rank": "S", "comment": "羊飼いダビデの台頭、ゴリアテ討伐、サウル王との愛憎劇。海外ドラマ顔負けの大河ドラマの傑作。"},
+    "2 Samuel": {"rank": "S", "comment": "ダビデ王の栄華と、不倫・殺人に端を発する息子たちとの骨肉の争い。"},
+    "1 Kings": {"rank": "A", "comment": "ソロモン王の栄華から王国の分裂へ。預言者エリヤの奇跡バトルなど見どころが多い。"},
+    "2 Kings": {"rank": "B", "comment": "分裂した王国が次々と悪王によって腐敗し、ついに滅亡するまでの歴史。"},
+    "1 Chronicles": {"rank": "C", "comment": "サムエル記のダイジェスト版。ひたすら家系図が続くためスルー推奨。"},
+    "2 Chronicles": {"rank": "C", "comment": "列王記のダイジェスト版（南ユダ王国視点）。"},
+    "Ezra": {"rank": "B", "comment": "バビロン捕囚からエルサレムへの帰還と、神殿の再建ドラマ。"},
+    "Nehemiah": {"rank": "B", "comment": "廃墟となったエルサレムの城壁を再建する、熱いリーダーシップの物語。"},
+    "Esther": {"rank": "A", "comment": "神の名が一度も出てこない、ペルシャ王宮を舞台にしたユダヤ人女性のシンデレラ＆逆転劇。"},
+    "Job": {"rank": "A", "comment": "「なぜ善人に理不尽な不幸が起きるのか？」に挑んだ哲学的で美しい長編詩。"},
+    "Psalms": {"rank": "B", "comment": "古代イスラエルの賛美歌集。気が向いた時に文学としてつまみ食い推奨。"},
+    "Proverbs": {"rank": "B", "comment": "「知恵」をテーマにした格言集。ビジネスや日常に生きる教えも。"},
+    "Ecclesiastes": {"rank": "S", "comment": "「空の空、すべては空」。数千年前の虚無主義的で鋭い人間観察の傑作。現代人にも刺さる。"},
+    "Song of Solomon": {"rank": "B", "comment": "神と人の愛を男女の官能的な恋愛詩に託した異色の書。"},
+    "Isaiah": {"rank": "B", "comment": "メシア（救い主）到来の預言。文学的価値は高いが、背景知識がないと難しい。"},
+    "Jeremiah": {"rank": "C", "comment": "滅びゆく国を前に涙する預言者エレミヤの警告。長い。"},
+    "Lamentations": {"rank": "C", "comment": "エルサレム滅亡の悲惨さを嘆く詩。"},
+    "Ezekiel": {"rank": "C", "comment": "幻（ビジョン）や象徴的な行動が多い、ちょっとサイケデリックな預言書。"},
+    "Daniel": {"rank": "A", "comment": "ライオンの穴、燃える炉など奇跡の連続。後半は黙示録的なビジョン。"},
+    "Hosea": {"rank": "C", "comment": "不貞の妻を愛し続ける預言者の姿を通して神の愛を描く。"},
+    "Joel": {"rank": "C", "comment": "いなごの大群による災害と「主の日」の預言。"},
+    "Amos": {"rank": "C", "comment": "社会の不正義を厳しく糾弾した預言。"},
+    "Obadiah": {"rank": "C", "comment": "エドムに対する裁きの預言（全1章）。"},
+    "Jonah": {"rank": "A", "comment": "巨大な魚に飲み込まれるおじさんのコミカルな逃亡劇。唯一物語として面白い預言書。"},
+    "Micah": {"rank": "C", "comment": "メシアがベツレヘムで生まれるという預言が含まれる。"},
+    "Nahum": {"rank": "C", "comment": "アッシリアの首都ニネベの滅亡を預言。"},
+    "Habakkuk": {"rank": "C", "comment": "なぜ悪人が栄えるのかと神に問い詰める対話。"},
+    "Zephaniah": {"rank": "C", "comment": "全世界への裁きと回復の預言。"},
+    "Haggai": {"rank": "C", "comment": "神殿再建を励ます預言。"},
+    "Zechariah": {"rank": "C", "comment": "幻視的で難解。メシアがろばに乗って来る預言など。"},
+    "Malachi": {"rank": "C", "comment": "旧約聖書最後の書。人々の堕落を叱責。"},
+    "Matthew": {"rank": "S", "comment": "山上の垂訓などイエスの教えが豊富。「最後の晩餐」や十字架の物語の基本。"},
+    "Mark": {"rank": "A", "comment": "一番短く、スピーディに行動を描く。"},
+    "Luke": {"rank": "S", "comment": "異邦人向けで分かりやすく、放蕩息子の例え話やクリスマスのエピソードが豊富。"},
+    "John": {"rank": "A", "comment": "哲学的なアプローチでイエスを描く。「初めにことばがあった」。"},
+    "Acts": {"rank": "B", "comment": "ペテロやパウロが大暴れしてキリスト教を世界に広める胸熱ドキュメンタリー。"},
+    "Romans": {"rank": "C", "comment": "パウロの神学の集大成。キリスト教徒以外には退屈。"},
+    "1 Corinthians": {"rank": "C", "comment": "教会の問題解決に向けたパウロの手紙。「愛の賛歌」が有名。"},
+    "2 Corinthians": {"rank": "C", "comment": "パウロの個人的な苦難と使徒としての権威の弁明。"},
+    "Galatians": {"rank": "C", "comment": "「信仰による義認」を熱く語る手紙。"},
+    "Ephesians": {"rank": "C", "comment": "教会とキリストの神秘的な関係。"},
+    "Philippians": {"rank": "C", "comment": "獄中から書かれた喜びの手紙。"},
+    "Colossians": {"rank": "C", "comment": "キリストの優位性を説く。"},
+    "1 Thessalonians": {"rank": "C", "comment": "キリストの再臨についての励まし。"},
+    "2 Thessalonians": {"rank": "C", "comment": "再臨の前の「不法の者」についての警告。"},
+    "1 Timothy": {"rank": "C", "comment": "牧会（教会の指導）についてのマニュアル。"},
+    "2 Timothy": {"rank": "C", "comment": "パウロの遺言とも言える最後の手紙。"},
+    "Titus": {"rank": "C", "comment": "教会の秩序についての指示。"},
+    "Philemon": {"rank": "C", "comment": "逃亡奴隷の許しを願う非常に短い手紙。"},
+    "Hebrews": {"rank": "C", "comment": "キリストが旧約のいけにえや祭司より優れていることを論証。"},
+    "James": {"rank": "C", "comment": "「行いのない信仰は死んだもの」という実践的な手紙。"},
+    "1 Peter": {"rank": "C", "comment": "迫害の中にある信者への励まし。"},
+    "2 Peter": {"rank": "C", "comment": "偽教師への警告と再臨の確実性。"},
+    "1 John": {"rank": "C", "comment": "「神は愛である」ことを強調。"},
+    "2 John": {"rank": "C", "comment": "真理と愛のうちに歩むこと（全1章）。"},
+    "3 John": {"rank": "C", "comment": "教会内の対立への対処（全1章）。"},
+    "Jude": {"rank": "C", "comment": "偽教師への厳しい警告（全1章）。"},
+    "Revelation": {"rank": "A", "comment": "「ハルマゲドン」「666」など、中二病・ファンタジー・SFの元ネタの宝庫。"}
+}
+
 
 def fetch_chapter_text(book: str, chapter: int) -> list[dict]:
     """labs.bible.org/api から章の本文をJSON取得"""
@@ -913,6 +982,28 @@ header {
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.book-section h2 .toggle-icon {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  transition: transform 0.2s;
+}
+
+.book-section h2.open .toggle-icon {
+  transform: rotate(-180deg);
+}
+
+.section-content {
+  overflow: hidden;
+}
+
+.section-content.collapsed {
+  display: none;
 }
 
 .book-item { margin-bottom: 0.5rem; }
@@ -938,6 +1029,44 @@ header {
 }
 .book-title.open .toggle-icon {
   transform: rotate(-180deg);
+}
+
+.title-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.book-en {
+  font-size: 0.85em;
+  color: var(--text-muted);
+}
+
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: white;
+}
+.rank-s { background-color: #ef4444; }
+.rank-a { background-color: #f59e0b; }
+.rank-b { background-color: #3b82f6; }
+.rank-c { background-color: #9ca3af; }
+.rank-none { background-color: transparent; color: transparent; }
+
+.book-comment {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  padding: 0 1rem 0.8rem;
+  line-height: 1.5;
+  background-color: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 0.5rem;
 }
 
 .chapter-grid {
@@ -1191,6 +1320,15 @@ def generate_index_html(available_chapters: dict) -> str:
 
     def make_book_section(book_name, total_chapters):
         ja_book = JA_BOOK_NAMES.get(book_name, book_name)
+        review = BOOK_REVIEWS.get(book_name, {"rank": "-", "comment": ""})
+        rank = review["rank"]
+        comment = review["comment"]
+        rank_class = f"rank-{rank.lower()}" if rank in ["S", "A", "B", "C"] else "rank-none"
+
+        title_class = "book-title open" if rank != "C" else "book-title"
+        comment_style = "" if rank != "C" else ' style="display:none;"'
+        grid_class = "chapter-grid" if rank != "C" else "chapter-grid collapsed"
+
         links = ""
         for ch in range(1, total_chapters + 1):
             fname = f"{book_name.replace(' ', '_')}_{ch}.html"
@@ -1198,7 +1336,19 @@ def generate_index_html(available_chapters: dict) -> str:
             cls = "chapter-link available" if is_available else "chapter-link unavailable"
             href = fname if is_available else "#"
             links += f'<a href="{href}" class="{cls}">{ch}</a>\n'
-        return f"""<div class="book-item"><h3 class="book-title open">{ja_book} ({book_name})<span class="toggle-icon">▼</span></h3><div class="chapter-grid">{links}</div></div>"""
+            
+        return f"""
+        <div class="book-item">
+            <h3 class="{title_class}">
+                <div class="title-left">
+                    <span class="rank-badge {rank_class}">{rank}</span>
+                    {ja_book} <span class="book-en">({book_name})</span>
+                </div>
+                <span class="toggle-icon">▼</span>
+            </h3>
+            <div class="book-comment"{comment_style}>{comment}</div>
+            <div class="{grid_class}">{links}</div>
+        </div>"""
 
     ot_html = "\n".join(make_book_section(b, BOOKS[b]) for b in ot_books)
     nt_html = "\n".join(make_book_section(b, BOOKS[b]) for b in nt_books)
@@ -1216,32 +1366,197 @@ def generate_index_html(available_chapters: dict) -> str:
     <nav class="top-nav">
       <a href="index.html" class="nav-home">NET Bible 対訳</a>
       <span class="nav-title">目次</span>
+      <div class="nav-controls">
+        <a href="guide.html" class="nav-btn" style="text-decoration:none;">📖 聖書ガイド</a>
+      </div>
     </nav>
   </header>
 
   <div class="index-container">
     <h1>NET Bible 日本語対訳</h1>
-    <p class="index-subtitle">NET Bible (New English Translation) の本文と翻訳者注を日本語翻訳で閲覧</p>
+    <p class="index-subtitle">NET Bible (New English Translation) の本文と翻訳者注を日本語翻訳で閲覧<br>
+    <a href="guide.html" style="color:var(--accent-gold); font-weight:bold; margin-top:10px; display:inline-block;">👉 聖書の構造・年表・人物辞典を見る（聖書コンプリートガイド）</a></p>
 
     <div class="book-section">
-      <h2>旧約聖書 (Old Testament)</h2>
-      {ot_html}
+      <h2 class="section-title open">旧約聖書 (Old Testament) <span class="toggle-icon">▼</span></h2>
+      <div class="section-content">
+        {ot_html}
+      </div>
     </div>
 
     <div class="book-section">
-      <h2>新約聖書 (New Testament)</h2>
-      {nt_html}
+      <h2 class="section-title open">新約聖書 (New Testament) <span class="toggle-icon">▼</span></h2>
+      <div class="section-content">
+        {nt_html}
+      </div>
     </div>
   </div>
   <script>
+    // セクション（旧約・新約）の折りたたみ
+    document.querySelectorAll('.section-title').forEach(title => {{
+      title.addEventListener('click', () => {{
+        title.classList.toggle('open');
+        const content = title.nextElementSibling;
+        if (content) content.classList.toggle('collapsed');
+      }});
+    }});
+
+    // 各書物の折りたたみ
     document.querySelectorAll('.book-title').forEach(title => {{
       title.addEventListener('click', () => {{
         title.classList.toggle('open');
-        const grid = title.nextElementSibling;
+        const grid = title.nextElementSibling.nextElementSibling;
+        const comment = title.nextElementSibling;
         if (grid) grid.classList.toggle('collapsed');
+        if (title.classList.contains('open')) {{
+            comment.style.display = 'block';
+        }} else {{
+            comment.style.display = 'none';
+        }}
       }});
     }});
   </script>
+</body>
+</html>"""
+
+
+def generate_guide_html() -> str:
+    """聖書コンプリートガイドのHTMLを生成"""
+    return """<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>聖書コンプリートガイド - NET Bible</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .guide-container { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; line-height: 1.8; color: var(--text-primary); }
+    .guide-container h1 { color: var(--accent-gold); border-bottom: 2px solid var(--accent-gold-dim); padding-bottom: 0.5rem; }
+    .guide-container h2 { color: var(--accent-gold); margin-top: 2.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem; }
+    .guide-container h3 { color: var(--text-secondary); margin-top: 1.5rem; }
+    .guide-container table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
+    .guide-container th, .guide-container td { border: 1px solid var(--border-color); padding: 0.8rem; text-align: left; }
+    .guide-container th { background-color: var(--bg-card-hover); color: var(--text-secondary); }
+    .guide-container ul { padding-left: 1.5rem; }
+    .guide-container li { margin-bottom: 0.5rem; }
+    .guide-container strong { color: var(--text-secondary); }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="top-nav">
+      <a href="index.html" class="nav-home">NET Bible 対訳</a>
+      <span class="nav-title">聖書コンプリートガイド</span>
+      <div class="nav-controls">
+        <a href="index.html" class="nav-btn" style="text-decoration:none;">◀ 目次へ戻る</a>
+      </div>
+    </nav>
+  </header>
+  <div class="guide-container">
+    <h1>📖 聖書コンプリートガイド：構造・年表・人物・用語リファレンス</h1>
+    <p>聖書（The Bible）は、単一の「本」ではなく、数千年の歴史の中で約40人の著者によって書かれた<strong>「66巻の書物のライブラリ（図書室）」</strong>です。</p>
+    <p>このページは、聖書を読んでいる途中で「今はどの時代の話だっけ？」「この人誰だっけ？」と迷子になった時に戻ってくるための<strong>リファレンス（地図）</strong>としてご利用ください。</p>
+    
+    <h2>1. 全体構造とNET Bibleの特徴</h2>
+    <p>聖書は大きく分けて「旧約聖書（Old Testament）」と「新約聖書（New Testament）」の2つのセクションで構成されています。「約」とは「神との契約（Covenant）」を意味します。</p>
+    <ul>
+      <li><strong>tn (Translator's Note):</strong> なぜこの英単語を選んだのか、原文（ヘブライ語/ギリシャ語）の文法的なニュアンスは何か。</li>
+      <li><strong>sn (Study Note):</strong> 歴史的背景、神学的な意味、地理的な解説。</li>
+      <li><strong>tc (Text-critical Note):</strong> 古代の写本同士の微妙な違いと、採用した理由。</li>
+    </ul>
+
+    <h2>2. 旧約聖書（Old Testament）の世界</h2>
+    <p>キリスト誕生以前に書かれた、古代イスラエル民族と神との「古い契約」の記録。主にヘブライ語で書かれています。</p>
+    
+    <h3>📅 旧約聖書 略年表</h3>
+    <table>
+      <tr><th>時代</th><th>出来事</th><th>主な該当書簡</th></tr>
+      <tr><td><strong>太古〜族長時代</strong><br>(〜前2000年頃)</td><td>天地創造、ノアの洪水。アブラハムが神から約束を受け、イサク、ヤコブ、ヨセフへと一族がエジプトへ移住。</td><td>創世記</td></tr>
+      <tr><td><strong>出エジプトと荒野</strong><br>(前1400年頃)</td><td>モーセに率いられエジプトの奴隷状態から脱出。シナイ山で「十戒」を与えられ、40年間荒野をさまよう。</td><td>出エジプト記〜申命記</td></tr>
+      <tr><td><strong>カナン定着と士師</strong><br>(前1300〜1050年頃)</td><td>ヨシュアの指揮で約束の地カナンを征服。その後、王がおらず「士師（リーダー）」たちが民族を救う時代。</td><td>ヨシュア記、士師記</td></tr>
+      <tr><td><strong>統一王国時代</strong><br>(前1050〜930年頃)</td><td>最初の王サウル、偉大な王ダビデ、栄華を極めたソロモンによる繁栄の時代。エルサレムに神殿建設。</td><td>サムエル記、列王記前半</td></tr>
+      <tr><td><strong>分裂王国時代</strong><br>(前930〜586年頃)</td><td>北イスラエル王国と南ユダ王国に分裂。多くの「預言者」が現れ、神への反逆を警告する。</td><td>列王記後半、多くの預言書</td></tr>
+      <tr><td><strong>捕囚と帰還</strong><br>(前586〜400年頃)</td><td>他国に滅ぼされ、強制連行（捕囚）される。数十年後に帰還し、神殿と城壁を再建する。</td><td>エズラ記、ネヘミヤ記など</td></tr>
+    </table>
+
+    <h3>👤 旧約聖書の主要登場人物</h3>
+    <ul>
+      <li><strong>アブラハム:</strong> 信仰の父。神の命令で故郷を離れ、「あなたの子孫を星のように増やす」という契約を受ける。</li>
+      <li><strong>ヤコブ（イスラエル）:</strong> アブラハムの孫。彼から12人の息子が生まれ、これがイスラエル12部族となる。</li>
+      <li><strong>ヨセフ:</strong> ヤコブの息子。兄弟の嫉妬で奴隷に売られるが、夢解きの才能でエジプトの総理大臣まで出世する。</li>
+      <li><strong>モーセ:</strong> 奴隷となっていた民族を脱出させた偉大なリーダー。海を割り、シナイ山で「十戒」を受け取る。</li>
+      <li><strong>ダビデ:</strong> 羊飼いから身を起こし巨人ゴリアテを倒した2代目の王。イスラエルの全盛期を築き、多くの「詩篇」を書いた。</li>
+      <li><strong>ソロモン:</strong> ダビデの息子。並外れた「知恵」で国を治め巨大な神殿を建設したが、晩年は偶像礼拝に陥る。</li>
+    </ul>
+
+    <h2>3. 新約聖書（New Testament）の世界</h2>
+    <p>キリスト誕生以後に書かれた、イエス・キリストと初代教会の「新しい契約」の記録。主にギリシャ語で書かれています。</p>
+    
+    <h3>📅 新約聖書 略年表</h3>
+    <table>
+      <tr><th>時代</th><th>出来事</th><th>主な該当書簡</th></tr>
+      <tr><td><strong>イエスの生涯</strong><br>(前4年頃〜後30年頃)</td><td>処女マリヤから誕生。30歳頃からガリラヤを中心に奇跡や教えを行い、十字架で処刑されるが3日目に復活。</td><td>4つの福音書</td></tr>
+      <tr><td><strong>教会の誕生と発展</strong><br>(後30〜60年頃)</td><td>ペンテコステに聖霊が下り初代教会が誕生。ペテロらを中心に伝道し、パウロがローマ帝国全土へ伝道旅行を行う。</td><td>使徒の働き、パウロ書簡</td></tr>
+      <tr><td><strong>迫害と終末の預言</strong><br>(後60〜90年頃)</td><td>ローマ帝国による激しい迫害が始まる。使徒ヨハネがパトモス島に流され、世界の終わりの幻を見る。</td><td>公同書簡、黙示録</td></tr>
+    </table>
+
+    <h3>👤 新約聖書の主要登場人物</h3>
+    <ul>
+      <li><strong>イエス・キリスト:</strong> 旧約聖書で約束されたメシア（救い主）。人類の罪を背負って十字架で死に、復活した。</li>
+      <li><strong>ペテロ（シモン）:</strong> イエスの12使徒のリーダー格。漁師出身で血の気が多いが、初代教会の中心的な指導者となる。</li>
+      <li><strong>パウロ（サウロ）:</strong> 元々はキリスト教徒を激しく迫害していたが、復活のイエスと出会って回心。「異邦人のための使徒」として新約聖書の半分を執筆した。</li>
+    </ul>
+
+    <h2>4. 聖書理解の鍵となる重要用語</h2>
+    <ul>
+      <li><strong>契約（Covenant）:</strong> 神と人との間の絶対的な約束。旧約は「律法（掟）を守るなら祝福する」、新約は「キリストを信じるなら無条件で罪を赦す」という恵みの契約。</li>
+      <li><strong>メシア / キリスト:</strong> 「油注がれた者」の意味。世界を救う究極の王。メシアはヘブライ語、キリストはギリシャ語。</li>
+      <li><strong>罪（Sin）:</strong> 単なる犯罪ではなく、本来の神の目的から逸れること、神との関係の断絶を指す。</li>
+      <li><strong>贖い（Redemption）:</strong> 代価を払って買い戻すこと。キリストの十字架の死が「究極のいけにえ」となり、永遠の贖いが完成した。</li>
+    </ul>
+    
+    <h2>5. 【一般教養・エンタメ向け】全66巻 読むべき度＆おすすめの順番</h2>
+    <p>宗教的な目的ではなく、「西洋文学の土台」「歴史大河ドラマ」「純粋な物語」として聖書を楽しみたい方向けのガイドです。</p>
+    
+    <h3>📊 面白さ・教養としての評価基準</h3>
+    <ul>
+      <li><strong>【S】必読の傑作。</strong> 映画化されがちな有名エピソードの宝庫。西洋文化の基礎。</li>
+      <li><strong>【A】かなり面白い。</strong> 人間のドロドロした愛憎劇、劇的な展開、現代に通じる名言が多い。</li>
+      <li><strong>【B】拾い読み推奨。</strong> 有名な箇所だけ読むか、歴史のあらすじを追うためにサラッと読む。</li>
+      <li><strong>【C】完全にスルーでOK。</strong> 延々と続く生贄のルール、誰かの家系図、説教など。</li>
+    </ul>
+
+    <h3>🗺️ おすすめの読む順番（新旧問わず）</h3>
+    <h4>STEP 1: 「超メジャー級」の物語を押さえる（ここだけ読めば教養は完璧）</h4>
+    <ol>
+      <li><strong>創世記【S】:</strong> 天地創造、アダムとエバ、ノアの箱舟、バベルの塔など、ファンタジーやSFの元ネタの宝庫。後半のヨセフのサクセスストーリーも必読。</li>
+      <li><strong>出エジプト記【A】（※前半のみ）:</strong> 海が真っ二つに割れる「十戒」のハイライトまで読めばOK。後半の「幕屋（テント）の作り方」は【C】なので容赦なく飛ばす。</li>
+      <li><strong>マタイの福音書 または ルカの福音書【S】:</strong> 新約からどれか1つ読むならこのどちらか。「最後の晩餐」「ユダの裏切り」「ゴルゴタの丘」など、レオナルド・ダ・ヴィンチの名画などの背景が全てわかる。</li>
+    </ol>
+    
+    <h4>STEP 2: 「大河ドラマ」としての中東戦記を楽しむ</h4>
+    <ol start="4">
+      <li><strong>ヨシュア記【B】〜 士師記【A】:</strong> エリコ（城壁）の陥落や、怪力サムソンの暴れっぷりなど、血生臭い古代の英雄譚。</li>
+      <li><strong>Ⅰ・Ⅱサムエル記【S】:</strong> 羊飼いの少年ダビデが巨人ゴリアテを倒し、やがて王になり、不倫して部下を殺し、息子に反逆される…という、海外ドラマ顔負けの愛憎劇。聖書の中で最も面白い歴史書。</li>
+      <li><strong>Ⅰ列王記【A】（※前半のみ）:</strong> ソロモン王の栄華と堕落。</li>
+      <li><strong>使徒の働き【B】:</strong> 初期キリスト教徒たちが、ローマ帝国の中でどうやって勢力を拡大していったかの熱いドキュメンタリー。</li>
+    </ol>
+
+    <h4>STEP 3: 「文学・哲学」としての傑作をつまみ食い</h4>
+    <ol start="8">
+      <li><strong>伝道者の書（コヘレトの言葉）【S】:</strong> 「空の空、すべては空である」。数千年前に書かれたとは思えないほどの虚無主義的で鋭い人間観察。現代人にもグサグサ刺さる文学的傑作。</li>
+      <li><strong>ヨブ記【A】:</strong> 「なぜ善人に理不尽な不幸が降りかかるのか？」という哲学的なテーマに挑んだ長編詩。</li>
+      <li><strong>ヨハネの黙示録【A】:</strong> 「ハルマゲドン」「666の獣」「四騎士」など、中二病心をくすぐる象徴表現のオンパレード。ファンタジー作品の元ネタ探しとして非常に面白い。</li>
+    </ol>
+
+    <h4>⚠️ 容赦なく飛ばしていい【C】の書物たち</h4>
+    <ul>
+      <li><strong>レビ記、民数記、申命記:</strong> 「カビが生えた服の洗い方」や「羊の焼き方」のルールが延々と続くため、通読の最大の挫折ポイント。スルー推奨。</li>
+      <li><strong>歴代誌:</strong> サムエル記や列王記の「総集編・美化バージョン」なので、読まなくていい。</li>
+      <li><strong>預言書（イザヤ書など）の大半:</strong> 歴史的背景を知らないとポエムにしか聞こえないため退屈。ただし<strong>『ヨナ書』【A】</strong>だけは、巨大な魚に飲み込まれるおじさんのコミカルなショートストーリーなのでおすすめ。</li>
+      <li><strong>パウロの書簡（ローマ人への手紙など）:</strong> 教義（神学）の論文や説教なので、キリスト教徒以外には退屈。スルーでOK。</li>
+    </ul>
+  </div>
 </body>
 </html>"""
 
@@ -1339,6 +1654,13 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
     print(f"\n目次出力: index.html")
+    
+    # ガイド生成
+    guide_html = generate_guide_html()
+    with open(os.path.join(OUTPUT_DIR, "guide.html"), "w", encoding="utf-8") as f:
+        f.write(guide_html)
+    print("ガイド出力: guide.html")
+    
     print("完了!")
 
 

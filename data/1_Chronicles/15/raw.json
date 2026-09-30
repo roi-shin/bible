@@ -1,0 +1,266 @@
+{
+  "notes": {
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Gershom</i> is a variant spelling of the name Gershon.</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;because for what was at first [i.e., formerly] you [were] not, the <sc>Lord</sc> our God broke out against us, because we did not seek him concerning the procedure.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;causing to be heard to lift up with a voice of joy.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text adds, &#8220;their brothers.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text adds <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1462;&#1503;</font> (<font face=\"Scholar\">ben</font>, &#8220;son&#8221;) here; the word is omitted in three Hebrew <sc>mss</sc> and most LXX <sc>mss</sc>. If the word is original, perhaps the name of Zechariah&#8217;s father was accidentally omitted. Some English versions treat the word as an additional name in the list (&#8220;Ben&#8221;; e.g., KJV, ASV, NASB).</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The meaning of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1458;&#1500;&#1464;&#1502;&#1493;&#1465;&#1514;</font> (&#8217;<font face=\"Scholar\">alamot</font>) is uncertain; perhaps it refers to a particular style of music. See <i>HALOT</i> 835-36 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1463;&#1500;&#1456;&#1502;&#1464;&#1492;</font>.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The meaning of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1456;&#1502;&#1460;&#1497;&#1504;&#1460;&#1497;&#1514;</font> (<font face=\"Scholar\">sh&#255;minit</font>) is uncertain; perhaps it refers to a particular style of music. See <i>HALOT</i> 1562 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1456;&#1502;&#1460;&#1497;&#1504;&#1465;&#1497;</font>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for&#8221; or &#8220;according to.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Kenaniah, the leader of the Levites, with lifting up, supervising with lifting up, for he was well-informed.&#8221; The precise nuance of <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1463;&#1513;&#1474;&#1468;&#1464;&#1488;</font> (<font face=\"Scholar\">masa</font>&#8217;, &#8220;lifting up&#8221;) is unclear. Some understand it as a reference to supervising the singing and music (e.g., NIV: &#8220;Kenaniah&#8230;was in charge of the singing&#8221;; NEB: &#8220;Kenaniah&#8230;was precentor in charge of the music&#8221;).</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;gatekeepers.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;gatekeepers.&#8221;</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the leader, the lifting up, the musicians.&#8221; See also the note on the word &#8220;matter&#8221; in v. <span class=\"bibleref\" title=\"1 Chronicles 15:22\">22</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> An <i>ephod</i> was a priestly garment worn over the robe.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text adds &#8220;in her heart.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "1",
+      "text": "David constructed buildings in the City of David; he then prepared a place for the ark of God and pitched a tent for it."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "2",
+      "text": "Then David said, “Only the Levites may carry the ark of God, for the Lord chose them to carry the ark of the Lord and to serve before him perpetually.” "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "3",
+      "text": "David assembled all Israel at Jerusalem to bring the ark of the Lord up to the place he had prepared for it."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "4",
+      "text": "David gathered together the descendants of Aaron and the Levites: "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "5",
+      "text": "From the descendants of Kohath: Uriel the leader and 120 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "6",
+      "text": "From the descendants of Merari: Asaiah the leader and 220 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "7",
+      "text": "From the descendants of Gershom: Joel the leader and 130 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "8",
+      "text": "From the descendants of Elizaphan: Shemaiah the leader and 200 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "9",
+      "text": "From the descendants of Hebron: Eliel the leader and 80 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "10",
+      "text": "From the descendants of Uzziel: Amminadab the leader and 112 of his relatives. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "11",
+      "text": "David summoned the priests Zadok and Abiathar, along with the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "12",
+      "text": "He told them: “You are the leaders of the Levites’ families. You and your relatives must consecrate yourselves and bring the ark of the Lord God of Israel up to the place I have prepared for it."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "13",
+      "text": "The first time you did not carry it; that is why the Lord God attacked us, because we did not ask him about the proper way to carry it.”"
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "14",
+      "text": "The priests and Levites consecrated themselves so they could bring up the ark of the Lord God of Israel. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "15",
+      "text": "The descendants of Levi carried the ark of God on their shoulders with poles, just as Moses had commanded in keeping with the Lord’s instruction."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "16",
+      "text": "David told the leaders of the Levites to appoint some of their relatives as musicians; they were to play various instruments, including stringed instruments and cymbals, and to sing loudly and joyfully. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "17",
+      "text": "So the Levites appointed Heman son of Joel; one of his relatives, Asaph son of Berechiah; one of the descendants of Merari, Ethan son of Kushaiah; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "18",
+      "text": "along with some of their relatives who were second in rank, including Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the gatekeepers. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "19",
+      "text": "The musicians Heman, Asaph, and Ethan were to sound the bronze cymbals; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "20",
+      "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play the harps according to the alamoth style;"
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "21",
+      "text": "Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah were to play the lyres according to the sheminith style, as led by the director; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "22",
+      "text": "Kenaniah, the leader of the Levites, was in charge of transport, for he was well-informed on this matter;"
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "23",
+      "text": "Berechiah and Elkanah were guardians of the ark; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "24",
+      "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests were to blow the trumpets before the ark of God; Obed-Edom and Jehiel were also guardians of the ark. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "25",
+      "text": "So David, the leaders of Israel, and the commanders of units of a thousand went to bring up the ark of the Lord’s covenant from the house of Obed-Edom with celebration. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "26",
+      "text": "When God helped the Levites who were carrying the ark of the Lord’s covenant, they sacrificed seven bulls and seven rams. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "27",
+      "text": "David was wrapped in a linen robe, as were all the Levites carrying the ark, the musicians, and Kenaniah the supervisor of transport and the musicians; David also wore a linen ephod. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "28",
+      "text": "All Israel brought up the ark of the Lord’s covenant; they were shouting, blowing trumpets, sounding cymbals, and playing stringed instruments. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "15",
+      "verse": "29",
+      "text": "As the ark of the Lord’s covenant entered the City of David, Michal, Saul’s daughter, looked out the window. When she saw King David jumping and celebrating, she despised him."
+    }
+  ]
+}

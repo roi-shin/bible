@@ -1,0 +1,124 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to drink&#8221;; NASB &#8220;to drink wine.&#8221; The expression is a metaphor for lavish feasting, cf. NRSV &#8220;to feast&#8221;; KJV &#8220;to banquet.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;If I have found grace in your eyes&#8221; (so also in <span class=\"bibleref\" title=\"Esther 8:5\">8:5</span>); TEV &#8220;If it please Your Majesty.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The passive verb (&#8220;have been sold&#8221;) is noncommittal and nonaccusatory with regard to the king&#8217;s role in the decision to annihilate the Jews.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The second occurrence of the Hebrew verb <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1463;&#1497;&#1468;&#1488;&#1502;&#1462;&#1512;</font> (<font face=\"Scholar\">vayyo</font>&#8217;<font face=\"Scholar\">mer</font>, &#8220;and he said&#8221;) in the MT should probably be disregarded. The repetition is unnecessary in the context and may be the result of dittography in the MT.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;has so filled his heart&#8221;; NAB &#8220;who has dared to do this.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> There is great irony here in that the man who set out to destroy all the Jews now finds himself begging for his own life from a Jew.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for he saw that calamity was determined for him from the king&#8221;; NAB &#8220;the king had decided on his doom&#8221;; NRSV &#8220;the king had determined to destroy him.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;falling&#8221;; NAB, NRSV &#8220;had (+ just TEV) thrown himself (+ down TEV).&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;where Esther was&#8221; (so KJV, NASB). The term &#8220;lying&#8221; has been supplied in the translation for stylistic reasons; cf. NAB, NIV, NRSV, NLT &#8220;was reclining.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Esther 1:10\">1:10</span>, where Harbona is one of the seven eunuchs sent by the king to summon Queen Vashti to his banquet.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fifty cubits.&#8221; See the note on this expression in <span class=\"bibleref\" title=\"Esther 5:14\">Esth 5:14</span>.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "1",
+      "text": "So the king and Haman came to dine with Queen Esther. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "2",
+      "text": "On the second day of the banquet of wine the king asked Esther, “What is your request, Queen Esther? It shall be granted to you. And what is your petition? Ask for up to half the kingdom, and it shall be done.” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "3",
+      "text": "Queen Esther replied, “If I have met with your approval, O king, and if the king is so inclined, grant me my life as my request, and my people as my petition. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "4",
+      "text": "For we have been sold—both I and my people—to destruction and to slaughter and to annihilation. If we had simply been sold as male and female slaves, I would have remained silent, for such distress would not have been sufficient for troubling the king.” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "5",
+      "text": "Then King Ahasuerus responded to Queen Esther, “Who is this individual? Where is this person to be found who is presumptuous enough to act in this way?” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "6",
+      "text": "Esther replied, “The oppressor and enemy is this evil Haman!”Then Haman became terrified in the presence of the king and queen. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "7",
+      "text": "In rage the king arose from the banquet of wine and withdrew to the palace garden. Meanwhile, Haman stood to beg Queen Esther for his life, for he realized that the king had now determined a catastrophic end for him. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "8",
+      "text": "When the king returned from the palace garden to the banquet of wine, Haman was throwing himself down on the couch where Esther was lying. The king exclaimed, “Will he also attempt to rape the queen while I am still in the building?”As these words left the king’s mouth, they covered Haman’s face. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "9",
+      "text": "Harbona, one of the king’s eunuchs, said, “Indeed, there is the gallows that Haman made for Mordecai, who spoke out on the king’s behalf. It stands near Haman’s home and is 75 feet high.”The king said, “Hang him on it!”"
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "7",
+      "verse": "10",
+      "text": "So they hanged Haman on the very gallows that he had prepared for Mordecai. The king’s rage then abated. "
+    }
+  ]
+}

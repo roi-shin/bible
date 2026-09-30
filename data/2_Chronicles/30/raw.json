@@ -1,0 +1,366 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;at that time.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the thing was proper in the eyes of.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they caused to stand a word to cause a voice to pass through.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;summoning the people&#8221; are supplied in the translation for stylistic reasons.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;because not for abundance had they done as written.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the runners.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and according to the command of the king, saying.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The jussive with <i>vav</i> conjunctive indicates purpose/result after the preceding imperative.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to the survivors who are left to you from the palm of the kings of Assyria.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fathers&#8221; (also in vv. <span class=\"bibleref\" title=\"2 Chronicles 30:19,22\">19, 22</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he made them a devastation&#8221; (or, perhaps, &#8220;an object of horror&#8221;).</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;don&#8217;t stiffen your neck&#8221; (a Hebrew idiom for being stubborn).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;give a hand.&#8221; On the meaning of the idiom here, see <i>HALOT</i> 387 s.v. I <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1464;&#1491;</font> 2.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so that the rage of his anger might turn from you.&#8221; The jussive with <i>vav</i> conjunctive indicates purpose/result after the preceding imperative.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;turn [his] face from you.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they were mocking them and ridiculing them.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;also in Judah the hand of God was to give to them one heart to do the command of the king and the officials by the word of the <sc>Lord</sc>.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text adds here, &#8220;a very large assembly.&#8221; This has not been translated to avoid redundancy with the expression &#8220;a huge crowd&#8221; at the beginning of the verse.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they arose and removed the altars which were in Jerusalem, and all the incense altars they removed and threw into the Kidron Valley.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from the hand of the Levites.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;were over the slaughter of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;of everyone not pure to consecrate to the <sc>Lord</sc>.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;without what is written.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;make atonement for.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;everyone [who] has prepared his heart to seek God.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and not according to the purification of the holy place.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;listened.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;healed.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they were praising the <sc>Lord</sc> day by day, the Levites and the priests with instruments of strength to the <sc>Lord</sc>.&#8221; The phrase <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1460;&#1499;&#1456;&#1500;&#1461;&#1497;&#1470;&#1506;&#1465;&#1494;</font> (<font face=\"Scholar\">bikhley-</font>&#8217;<font face=\"Scholar\">oz</font>, &#8220;with instruments of strength&#8221;) might refer to loud sounding musical instruments (NASB &#8220;with loud instruments&#8221;; NEB &#8220;with unrestrained fervour&#8221;). The present translation assumes an emendation to <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1499;&#1464;&#1500;&#1470;&#1506;&#1465;&#1494;</font> (<font face=\"Scholar\">b&#255;khol-</font>&#8217;<font face=\"Scholar\">oz</font>, &#8220;with all strength&#8221;); see <span class=\"bibleref\" title=\"1 Chronicles 13:8\">1 Chr 13:8</span>, as well as <i>HALOT</i> 805 s.v. I <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1465;&#1494;</font> and BDB 739 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1465;&#1494;</font>).</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Hezekiah spoke to the heart of all the Levites.&#8221; On the meaning of the idiom &#8220;speak to the heart of&#8221; here, see <i>HALOT</i> 210 s.v. II <font face=\"Galaxie Unicode Hebrew\">&#1491;&#1489;&#1512;</font> 8.d.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who demonstrated skill [with] good skill for the <sc>Lord</sc>.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they ate [during] the appointed time [for] seven days.&#8221; <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1493;&#1465;&#1506;&#1461;&#1491;</font> (<font face=\"Scholar\">mo</font>&#8217;<font face=\"Scholar\">ed</font>, &#8220;appointed time&#8221;) is probably an adverbial accusative of time referring to the festival. However, some understand it as metonymically referring to the food eaten during the festival. See BDB 417 s.v.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1510;&#1465;&#1488;&#1503;</font> (<font face=\"Scholar\">ts</font>&#8217;<font face=\"Scholar\">on</font>, translated &#8220;sheep&#8221; twice in this verse) denotes smaller livestock in general; depending on context it can refer to sheep only or goats only, but their is nothing in the immediate context here to specify one or the other.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the assembly.&#8221; The pronoun &#8220;them&#8221; has been used in the translation for stylistic reasons, to avoid redundancy.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they rejoiced.&#8221;</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and there was great joy in Jerusalem, for from the days of Solomon son of David, king of Israel, there was nothing like this in Jerusalem.&#8221;</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and it was heard with their voice.&#8221; BDB 1034 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1506;</font> Niph.4 interprets this to mean &#8220;hearing was granted to their voice.&#8221; It is possible that the name <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1456;&#1492;&#1493;&#1464;&#1492;</font> (<font face=\"Scholar\">y&#255;hvah</font>, &#8220;the <sc>Lord</sc>&#8221;) has been accidentally omitted.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "1",
+      "text": "Hezekiah sent messages throughout Israel and Judah; he even wrote letters to Ephraim and Manasseh, summoning them to come to the Lord’s temple in Jerusalem and observe a Passover celebration for the Lord God of Israel. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "2",
+      "text": "The king, his officials, and the entire assembly in Jerusalem decided to observe the Passover in the second month. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "3",
+      "text": "They were unable to observe it at the regular time because not enough priests had consecrated themselves and the people had not assembled in Jerusalem. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "4",
+      "text": "The proposal seemed appropriate to the king and the entire assembly. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "5",
+      "text": "So they sent an edict throughout Israel from Beer Sheba to Dan, summoning the people to come and observe a Passover for the Lord God of Israel in Jerusalem, for they had not observed it on a nationwide scale as prescribed in the law."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "6",
+      "text": "Messengers delivered the letters from the king and his officials throughout Israel and Judah. This royal edict read: “O Israelites, return to the Lord God of Abraham, Isaac, and Israel, so he may return to you who have been spared from the kings of Assyria. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "7",
+      "text": "Don’t be like your fathers and brothers who were unfaithful to the Lord God of their ancestors, provoking him to destroy them, as you can see. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "8",
+      "text": "Now, don’t be stubborn like your fathers. Submit to the Lord and come to his sanctuary which he has permanently consecrated. Serve the Lord your God so that he might relent from his raging anger. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "9",
+      "text": "For if you return to the Lord, your brothers and sons will be shown mercy by their captors and return to this land. The Lord your God is merciful and compassionate; he will not reject you if you return to him.” "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "10",
+      "text": "The messengers journeyed from city to city through the land of Ephraim and Manasseh as far as Zebulun, but people mocked and ridiculed them."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "11",
+      "text": "But some men from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "12",
+      "text": "In Judah God moved the people to unite and carry out the edict of the king and the officers in keeping with the Lord’s message."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "13",
+      "text": "A huge crowd assembled in Jerusalem to observe the Feast of Unleavened Bread in the second month. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "14",
+      "text": "They removed the altars in Jerusalem; they also removed all the incense altars and threw them into the Kidron Valley. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "15",
+      "text": "They slaughtered the Passover lamb on the fourteenth day of the second month. The priests and Levites were ashamed, so they consecrated themselves and brought burnt sacrifices to the Lord’s temple. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "16",
+      "text": "They stood at their posts according to the regulations outlined in the law of Moses, the man of God. The priests were splashing the blood as the Levites handed it to them."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "17",
+      "text": "Because many in the assembly had not consecrated themselves, the Levites slaughtered the Passover lambs of all who were ceremonially unclean and could not consecrate their sacrifice to the Lord. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "18",
+      "text": "The majority of the many people from Ephraim, Manasseh, Issachar, and Zebulun were ceremonially unclean, yet they ate the Passover in violation of what is prescribed in the law. For Hezekiah prayed for them, saying: “May the Lord, who is good, forgive "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "19",
+      "text": "everyone who has determined to follow God, the Lord God of his ancestors, even if he is not ceremonially clean according to the standards of the temple.” "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "20",
+      "text": "The Lord responded favorably to Hezekiah and forgave the people. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "21",
+      "text": "The Israelites who were in Jerusalem observed the Feast of Unleavened Bread for seven days with great joy. The Levites and priests were praising the Lord every day with all their might. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "22",
+      "text": "Hezekiah expressed his appreciation to all the Levites, who demonstrated great skill in serving the Lord. They feasted for the seven days of the festival and were making peace offerings and giving thanks to the Lord God of their ancestors. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "23",
+      "text": "The entire assembly then decided to celebrate for seven more days; so they joyfully celebrated for seven more days. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "24",
+      "text": "King Hezekiah of Judah supplied 1,000 bulls and 7,000 sheep for the assembly, while the officials supplied them with 1,000 bulls and 10,000 sheep. Many priests consecrated themselves."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "25",
+      "text": "The celebration included the entire assembly of Judah, the priests, the Levites, the entire assembly of those who came from Israel, the resident foreigners who came from the land of Israel, and those who were residents of Judah. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "26",
+      "text": "There was a great celebration in Jerusalem, unlike anything that had occurred in Jerusalem since the time of King Solomon son of David of Israel. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "30",
+      "verse": "27",
+      "text": "The priests and Levites got up and pronounced blessings on the people. The Lord responded favorably to them as their prayers reached his holy dwelling place in heaven. "
+    }
+  ]
+}

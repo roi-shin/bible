@@ -1,0 +1,158 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the sleep of the king fled.&#8221; In place of the rather innocuous comment of the Hebrew text, the LXX reads here, &#8220;And the Lord removed the sleep from the king.&#8221; The Greek text thus understands the statement in a more overtly theological way than does the Hebrew text, although even in the Hebrew text there may be a hint of God&#8217;s providence at work in this matter. After all, this event is crucial to the later reversal of Haman&#8217;s plot to destroy the Jewish people, and a sympathetic reader is likely to look beyond the apparent coincidence.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the book of the remembrances of the accounts of the days&#8221;; NAB &#8220;the chronicle of notable events.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they&#8221;; the referent (the records) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This individual is referred to as &#8220;Bigthan,&#8221; a variant spelling of the name, in <span class=\"bibleref\" title=\"Esther 2:21\">Esth 2:21</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to send a hand against&#8221;; NASB &#8220;had sought to lay hands on.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;honor and greatness.&#8221; The expression is a hendiadys (see the note on <span class=\"bibleref\" title=\"Esther 5:10\">5:10</span> for an explanation of this figure).</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;said in his heart&#8221; (so ASV); NASB, NRSV &#8220;said to himself.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The final comment (&#8220;one on whose head the royal crown has been&#8221;) is not included in the LXX.<p class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a royal crown on his head.&#8221; The reference is to an official decoration or headdress for horses in royal service. See <i>HALOT</i> 506 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1462;&#1514;&#1462;&#1512;</font>; <i>DCH</i> 4:477 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1462;&#1514;&#1462;&#1512;</font>. Cf. TEV &#8220;a royal ornament&#8221;; CEV &#8220;a fancy headdress.&#8221;</p></div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The present translation reads with the LXX <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1492;&#1460;&#1500;&#1456;&#1489;&#1468;&#1460;&#1497;&#1513;&#1473;&#1493;&#1465;</font> (<font face=\"Scholar\">v&#255;hilbisho</font>, &#8220;and he will clothe him&#8221;) rather than the reading of the MT <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1492;&#1460;&#1500;&#1456;&#1489;&#1468;&#1460;&#1497;&#1513;&#1473;&#1493;&#1468;</font> (<font face=\"Scholar\">v&#255;hilbishu</font>, &#8220;and they will clothe&#8221;). The reading of the LXX is also followed by NAB, NRSV, TEV, CEV, and NLT. Likewise, the later verbs in this verse (&#8220;cause him to ride&#8221; and &#8220;call&#8221;) are better taken as singulars rather than plurals.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and let them call&#8221; (see the previous note).</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;do not let fall&#8221;; NASB &#8220;do not fall short.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Part of the Greek tradition and the Syriac Peshitta understand this word as &#8220;friends,&#8221; probably reading the Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1512;&#1458;&#1499;&#1464;&#1502;&#1464;&#1497;&#1493;</font> (<i>rakhamayv</i>, &#8220;his friends&#8221;) rather than the reading of the MT <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1458;&#1499;&#1464;&#1502;&#1464;&#1497;&#1493;</font> (<i>hakhamayv</i>, &#8220;his wise men&#8221;). Cf. NLT &#8220;all his friends&#8221;; the two readings appear to be conflated by TEV as &#8220;those wise friends of his.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from the seed of the Jews&#8221;; KJV, ASV similar.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "1",
+      "text": "Throughout that night the king was unable to sleep, so he asked for the book containing the historical records to be brought. As the records were being read in the king’s presence, "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "2",
+      "text": "it was found written that Mordecai had disclosed that Bigthana and Teresh, two of the king’s eunuchs who guarded the entrance, had plotted to assassinate King Ahasuerus. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "3",
+      "text": "The king asked, “What great honor was bestowed on Mordecai because of this?” The king’s attendants who served him responded, “Not a thing was done for him.” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "4",
+      "text": "Then the king said, “Who is that in the courtyard?” Now Haman had come to the outer courtyard of the palace to suggest that the king hang Mordecai on the gallows that he had constructed for him."
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "5",
+      "text": "The king’s attendants said to him, “It is Haman who is standing in the courtyard.” The king said, “Let him enter.” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "6",
+      "text": "So Haman came in, and the king said to him, “What should be done for the man whom the king wishes to honor?” Haman thought to himself, “Who is it that the king would want to honor more than me?”"
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "7",
+      "text": "So Haman said to the king, “For the man whom the king wishes to honor, "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "8",
+      "text": "let them bring royal attire which the king himself has worn and a horse on which the king himself has ridden—one bearing the royal insignia. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "9",
+      "text": "Then let this clothing and this horse be given to one of the king’s noble officials. Let him then clothe the man whom the king wishes to honor, and let him lead him about through the plaza of the city on the horse, calling before him, ‘So shall it be done to the man whom the king wishes to honor!’” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "10",
+      "text": "The king then said to Haman, “Go quickly! Take the clothing and the horse, just as you have described, and do as you just indicated to Mordecai the Jew, who sits at the king’s gate. Don’t neglect a single thing of all that you have said.” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "11",
+      "text": "So Haman took the clothing and the horse, and he clothed Mordecai. He led him about on the horse throughout the plaza of the city, calling before him, “So shall it be done to the man whom the king wishes to honor!” "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "12",
+      "text": "Then Mordecai again sat at the king’s gate, while Haman hurried away to his home, mournful and with a veil over his head. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "13",
+      "text": "Haman then related to his wife Zeresh and to all his friends everything that had happened to him. These wise men, along with his wife Zeresh, said to him, “If indeed this Mordecai before whom you have begun to fall is Jewish, you will not prevail against him. No, you will surely fall before him!”"
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "6",
+      "verse": "14",
+      "text": "While they were still speaking with him, the king’s eunuchs arrived. They quickly brought Haman to the banquet that Esther had prepared. "
+    }
+  ]
+}

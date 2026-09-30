@@ -1,0 +1,518 @@
+# Proverbs 1 (English)
+
+## Text
+
+**1** The proverbs of Solomon, son of David, king of Israel: 
+
+**2** To learn wisdom and moral instruction, to discern wise counsel.
+
+**3** To receive moral instruction in skillful living, with righteousness, justice, and equity. 
+
+**4** To impart shrewdness to the morally naive, a discerning plan to the young person. 
+
+**5** (Let the wise also hear and gain instruction, and let the discerning acquire guidance!) 
+
+**6** To discern the meaning of a proverb and a parable, the sayings of the wise and their riddles. 
+
+**7** Fearing the Lord is the beginning of discernment, but fools have despised wisdom and moral instruction.
+
+**8** Listen, my child, to the instruction from your father, and do not forsake the teaching from your mother. 
+
+**9** For they will be like an elegant garland on your head, and like pendants around your neck. 
+
+**10** My child, if sinners try to entice you, do not consent! 
+
+**11** If they say, “Come with us! We will lie in wait to shed blood; we will ambush an innocent person capriciously. 
+
+**12** We will swallow them alive like Sheol, those full of vigor like those going down to the Pit. 
+
+**13** We will seize all kinds of precious wealth; we will fill our houses with plunder. 
+
+**14** Join with us! We will all share equally in what we steal.”
+
+**15** My child, do not go down their way, withhold yourself from their path; 
+
+**16** for they are eager to inflict harm, and they hasten to shed blood. 
+
+**17** Surely it is futile to spread a net in plain sight of any bird, 
+
+**18** but these men lie in wait for their own blood; they ambush their own lives! 
+
+**19** Such are the ways of all who gain profit unjustly; it takes away the life of those who obtain it!
+
+**20** Wisdom calls out in the street, she shouts loudly in the plazas; 
+
+**21** at the head of the noisy streets she calls, in the entrances of the gates in the city she utters her words: 
+
+**22** “How long will you simpletons love naiveté? How long have mockers delighted in mockery? And how long will fools hate knowledge? 
+
+**23** You should respond to my rebuke. Then I would pour out my thoughts to you; I would make my words known to you.
+
+**24** However, because I called but you refused to listen, because I stretched out my hand but no one was paying attention, 
+
+**25** and you neglected all my advice, and did not comply with my rebuke, 
+
+**26** so I myself will laugh when disaster strikes you; I will mock when what you dread comes, 
+
+**27** when what you dread comes like a whirlwind, and disaster strikes you like a devastating storm, when distressing trouble comes on you.
+
+**28** Then they will call to me, but I will not answer; they will diligently seek me, but they will not find me.
+
+**29** Because they hated moral knowledge and did not choose to fear the Lord, 
+
+**30** they did not comply with my advice; they spurned all my rebuke. 
+
+**31** Therefore they will eat from the fruit of their way, and they will be stuffed full of their own counsel. 
+
+**32** For the waywardness of the simpletons will kill them, and the careless ease of fools will destroy them.
+
+**33** But the one who listens to me will live in security and will be at ease from the dread of harm.” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The Hebrew noun translated “proverb” is derived from the root מָשַׁל (mashal) which means “likeness.” The related Niphal verb means “to be like, be comparable with,” e.g., “he is like [נִמְשַׁל, nimshal] the beasts that perish” (Ps 49:12). The noun can mean an object lesson based on or using a comparison or analogy. It may be a short pithy statement (Ezek 16:44), object lesson drawn from experience (Ps 78:2-6), saying or by-word (Deut 28:37) or an oracle of future blessing (Ezek 21:1-5). Here it means an object lesson setting out courses of action. It helps one choose the course of action to follow or avoid.
+
+### Verse 1 - Note 2
+[翻訳注]  The name שְׁלֹמֹה (shÿlomoh, “of Solomon”) is a genitive of authorship or source. While Solomon wrote a majority of the proverbial sayings in the book, some proverbial sayings were written by others (e.g., 22:17-24:34; 30:1-33; 31:1-9) and perhaps collected by Solomon. The name also forms a phonetic wordplay on the similarly sounding word מִשְׁלֵי (mishley, “proverbs”), as if to say the name is almost synonymous with proverbs.
+
+### Verse 1 - Note 3
+[解説]  The phrase “The Proverbs of Solomon” is a title for the entire book. The title does not imply that Solomon authored all the proverbs in this collection; some sections are collections from different authors: the sayings of the wise (22:17-24:22), more sayings of the wise (24:23-34), the words of Agur (Prov 30:1-33) and Lemuel (Prov 31:1-9). The title does not imply that the book was in its final canonical form in the days of Solomon; the men of Hezekiah added a collection of Solomonic proverbs to the existing form of the book (25:1-29:27). The original collection of Solomonic proverbs appears to be the collection of short pithy sayings in 10:1-22:16, and the title might have originally introduced only these. There is question whether chapters 1-9 were part of the original form of the book in the days of Solomon because they do not fit under the title; they are not “proverbs” per se (sentence sayings) but introductory admonitions (longer wisdom speeches). Chapters 1-9 could have been written by Solomon and perhaps added later by someone else. Or they could have been written by someone else and added later in the days of Hezekiah.
+
+### Verse 1 - Note 4
+[翻訳注]  The designation “son of David” is in apposition to the name Solomon, as are the following nouns, further explaining the name.
+
+### Verse 1 - Note 5
+[翻訳注]  The phrase “the king of Israel” is in apposition to the name Solomon.
+
+### Verse 2 - Note 1
+[翻訳注]  The infinitive construct + ל (lamed) here designates purpose. This is the first of five purpose clauses in the opening section (1:2a, 2b, 3a, 4a, 6a). This clause reveals the purpose of the collection of proverbs in general. The three purpose clauses that follow qualify this general purpose.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “to know.” The verb יָדַע (yada’) here means “to gain knowledge of” or “to become wise in” (BDB 394 s.v. 5). This term refers to experiential knowledge, not just cognitive knowledge; it includes the intellectual assimilation and practical use of what is acquired.
+
+### Verse 2 - Note 3
+[解説]  The noun “wisdom” (חָכְמָה, khokhmah) could be nuanced “moral skill.” It refers to “skill” that produces something of value. It is used in reference to the skill of seamen (Ps 107:27), abilities of weavers (Exod 35:26), capabilities of administrators (1 Kgs 3:28), or skill of craftsmen (Exod 31:6). In the realm of moral living, it refers to skill in living – one lives life with moral skill so that something of lasting value is produced from one’s life.
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “instruction.” The noun מוּסָר (musar) has a three-fold range of meanings: (1) physical or parental: “discipline; chastisement” (2) verbal: “warning; exhortation” and (3) moral: “training; instruction” (BDB 416 s.v. מוּסָר; HALOT 557 s.v. מוּסָר). Its parallelism with חָכְמָה (khokhmah, “wisdom, moral skill”) suggests that it refers to moral training or instruction that the Book of Proverbs offers to its readers. This instruction consists of wisdom acquired by observing the consequences of foolish actions in others and developing the ability to control the natural inclination to folly. This sometimes comes through experiencing chastisement from God. Sensing something of this nuance, the LXX translated this term with the Greek word for “child-training.”
+
+### Verse 2 - Note 5
+[翻訳注]  The infinitive construct + ל (lamed) here designates a second purpose of the book: to compare and to make proper evaluation of the sayings of the wise. The term בִין (bin, “to discern”) refers to the ability to make distinctions between things. This is illustrated by its derivatives: The related preposition means “between” and the related noun means “space between.” So the verb refers to the ability to discern between moral options.
+
+### Verse 2 - Note 6
+[翻訳注]  Heb “words of discernment.” The noun בִינָה (binah, “discernment”) functions as an attributive genitive: “discerning words” or “wise sayings” (so NLT). This noun is a cognate accusative of the infinitive of the same root לְהָבִין (lÿhavin, “to discern”). The phrase “to discern words of discernment” refers to the ability (1) to distinguish truth from falsehood or (2) to understand wise sayings, such as in Proverbs.
+
+### Verse 3 - Note 1
+[翻訳注]  The infinitive construct + ל (lamed) here designates a further purpose of the book: This focuses on the purpose of the book from the perspective of the student/disciple. The verb לָקַח (laqakh, “receive”) means to acquire something worth having. It is parallel to the verb “treasure up” in 2:1.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “instruction.” See note on the same term in 1:2.
+
+### Verse 3 - Note 3
+[写本注]  MT reads the genitive-construct phrase מוּסַר הַשְׂכֵּל (musar haskel, “discipline of prudence”). Syriac adds vav (ו) and reads מוּסַר וְהַשְׂכֵּל (musar wÿhaskel, “discipline and prudence”). MT is the more difficult reading in terms of syntax, so is preferred as the original reading.[翻訳注]  Heb “discipline of prudence.” The term הַשְׂכֵּל (haskel, “of prudence”) is a Hiphil infinitive absolute, functioning as an emphatic genitive of result, describing the results of a self-disciplined life. The basic meaning of שָׂכַל is “to be prudent, circumspect,” and the Hiphil stem means “to give attention to, consider, ponder; have insight, understanding” (BDB 968 s.v. I שָׂכַל). It is a synonym of חָכְמָה (khokhmah, “wisdom”), but while חָכְמָה focuses on living skillfully, שָׂכַל (sakhal) focuses on acting prudently. The word can also focus on the results of acting prudently: to have success (e.g., Isa 52:12). Elsewhere, the term describes the prudent actions of Abigail in contrast to her foolish husband Nabal ().
+
+### Verse 3 - Note 4
+[翻訳注]  Heb “righteousness and justice and equity.” The three nouns that follow “self-discipline of prudence” are adverbial accusatives of manner, describing the ways in which the disciplined prudent activity will be manifested: “in righteousness, justice, and equity.” The term “in” does not appear in the Hebrew text, but is implied by the syntax; it is inserted in the translation for clarity.
+
+### Verse 3 - Note 5
+[解説]  The word “righteousness” (צֶדֶק, tsedeq) describes conduct that conforms to a standard. Elsewhere it is used in a concrete sense to refer to commercial weights and measures that conform to a standard (Deut 25:15). In the moral realm it refers to “righteous” conduct that conforms to God’s law.
+
+### Verse 3 - Note 6
+[翻訳注]  Heb “and justice.” The conjunction “and” appears in the Hebrew text, but is omitted in the translation for the sake of English style and smoothness.[解説]  The noun מִשְׁפָּט (mishpat, “justice, judgment”) refers to the ability to make a decision that is just (e.g., Deut 16:18; 1 Kgs 3:28). From this legal background, the term came to mean one’s right or precedent. The person with prudence will make decisions that are just and right.
+
+### Verse 3 - Note 7
+[解説]  The Hebrew noun translated “equity” comes from the root יָשָׁר (yashar) which has the basic idea of “upright, straight, right.” It refers to activity that is morally upright and straight, that is, on the proper moral path. Elsewhere it is used in a concrete sense to describe cows walking straight down a path without turning right or left (1 Sam 6:12). Wisdom literature often uses the motif of the straight path to describe a morally “straight” life.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “to give.” The infinitive construct + ל (lamed) here introduces the fourth purpose of the book: It reveals the purpose from the perspective of the teacher. It is what the wise instructor/sage wants to impart to the naive youths.
+
+### Verse 4 - Note 2
+[翻訳注]  The noun עָרְמָה (’arÿmah) “prudence, shrewdness, craftiness” (BDB 791 s.v.) or “cleverness” (HALOT 886 s.v. 1) refers to a shrewd plan of action, viewed positively or negatively. It is used negatively of planned deception (Josh 9:4) and premeditated murder (Exod 21:14). The related adjective described the serpent as “shrewd, crafty, cunning” (Gen 3:1); it describes cunning plans (Job 5:12) and deception (Job 15:5). The related verb describes a wicked concocted plan (Ps 83:4). The term is used positively of a morally prudent lifestyle (Prov 8:5, 12; 15:5; 19:25). There is no virtue for simpletons to be unaware in this world; they need to be wise as serpents. Proverbs provide a morally shrewd plan for life.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “the naive” or “simpleton.” The substantival adjective פֶּתִי (peti) means “simple; open-minded” in the sense of being open and easily influenced by either wisdom or folly (BDB 834 s.v.; HALOT 989 s.v. I פֶּתִי). The simpleton is easily enticed and misled (Prov 1:32; 7:7; 9:6; 22:3; 27:12); believes everything, including bad counsel (Prov 14:15); lacks moral prudence (Prov 8:5; 19:25); needs discernment (Prov 21:11); but is capable of learning (Prov 9:4, 16). The related verb means “to be wide open; open-minded; enticed, deceived” (BDB 834). The term describes one easily persuaded and gullible, open to any influence, good or bad (cf. NLT “the simpleminded”). This is the “wide-eyed youth” who is headed for trouble unless he listens to the counsel of wisdom.
+
+### Verse 4 - Note 4
+[翻訳注]  The conjunction “and” does not appear in the Hebrew text but is implied; it is supplied in the translation for the sake of smoothness and style.
+
+### Verse 4 - Note 5
+[翻訳注]  Heb “knowledge and purpose.” The noun דַּעַת (da’at, “knowledge”) may be nuanced “discernment” here (HALOT 229 s.v. I דַּעַת 4). The nouns וּמְזִמָּה דַּעַת (da’at umÿzimmah, “discernment and purpose”) form a hendiadys (two nouns joined with vav to describe the same thing): The first noun functions adjectivally and the second functions as a noun: “discerning plan.” This parallels “a shrewd plan for the morally naive” or “a discerning plan for the young person.”
+
+### Verse 4 - Note 6
+[翻訳注]  The noun מְזִמָּה (mÿzimmah) may mean (1) “plan” or (2) “discretion” (BDB 273 s.v.; HALOT 566 s.v.). It describes the ability to make plans or formulate the best course of action for gaining a goal (C. H. Toy, Proverbs [ICC], 7). The related verb זָמַם (zamam) means “to plan; to devise” (BDB 273 s.v.; HALOT 272 s.v. I זמם; e.g., Gen 11:6). Here the nouns “knowledge and plan” (וּמְזִמָּה דַּעַת, da’at umÿzimmah) form a hendiadys: knowledge of how to form and carry out a morally wise plan for life.
+
+### Verse 4 - Note 7
+[翻訳注]  Heb “young man” or “youth.”
+
+### Verse 5 - Note 1
+[翻訳注]  The term “also” does not appear in the Hebrew text, but is supplied in the translation for the sake of clarity and smoothness.[解説]  Verse 5 functions as a parenthesis in the purpose statements of 1:1-7. There are two purpose statements in 1:2 (“to know wisdom” and “to discern sayings”). The first is stated in detail in 1:3-4, first from the perspective of the student then the teacher. 1:6 will state the second purpose of 1:2. But between the two the writer notes that even the wise can become wiser. The book is not just for neophytes; it is for all who want to grow in wisdom.
+
+### Verse 5 - Note 2
+[翻訳注]  The verb יִשְׁמַע (yishma’) functions as a jussive of advice or counsel (“Let him hear!”) rather than a customary imperfect (“he will hear”). The jussive is supported by the parallelism with the following Hiphil jussive וְיוֹסֶף (vÿyosef, “Let him add!”).
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “add.”
+
+### Verse 5 - Note 4
+[翻訳注]  The Niphal substantival participle נָבוֹן (navon, “discerning”), rather than the noun, is used to describe a person who is habitually characterized by discernment. 1:5 forms a striking contrast to 1:4 – there was the simpleton and the youth, here the wise and discerning. Both need this book.
+
+### Verse 5 - Note 5
+[翻訳注]  The Hiphil verb וְיוֹסֶף (vÿyosef) is a jussive rather than an imperfect as the final short vowel (segol) and accent on the first syllable shows (BDB 415 s.v. יָסַף Hiph).
+
+### Verse 5 - Note 6
+[翻訳注]  The noun תַּחְבֻּלָה (takhbulah, “direction; counsel”) refers to moral guidance (BDB 287 s.v.). It is related to חֹבֵל (khovel, “sailor”), חִבֵּל (khibel, “mast”) and חֶבֶל (khevel, “rope; cord”), so BDB suggests it originally meant directing a ship by pulling ropes on the mast. It is used in a concrete sense of God directing the path of clouds (Job 37:12) and in a figurative sense of moral guidance (Prov 11:14; 20:18; 24:6). Here it refers to the ability to steer a right course through life (A. Cohen, Proverbs, 2).
+
+### Verse 6 - Note 1
+[翻訳注]  The infinitive construct + ל (lamed) means “to discern” and introduces the fifth purpose of the book. It focuses on the benefits of proverbs from the perspective of the reader. By studying proverbs the reader will discern the hermeneutical key to understanding more and more proverbs.
+
+### Verse 6 - Note 2
+[翻訳注]  The phrase “the meaning of” does not appear in the Hebrew text, but is implied; it is supplied in the translation for the sake of clarity.
+
+### Verse 6 - Note 3
+[翻訳注]  The noun מְלִיצָה (mÿlitsah) means “allusive expression; enigma” in general, and “proverb, parable” in particular (BDB 539 s.v.; HALOT 590 s.v.). The related noun מֵלִיץ means “interpreter” (Gen 42:23). The related Arabic root means “to turn aside,” so this Hebrew term might refer to a saying that has a “hidden meaning” to its words; see H. N. Richardson, “Some Notes on לִיץ and Its Derivatives,” VT 5 (1955): 163-79.
+
+### Verse 6 - Note 4
+[翻訳注]  This line functions in apposition to the preceding, further explaining the phrase “a proverb and a parable.”
+
+### Verse 6 - Note 5
+[翻訳注]  The term “their” does not appear in the Hebrew text, but seems to be implied; it is supplied in the translation for the sake of clarity and smoothness.
+
+### Verse 6 - Note 6
+[翻訳注]  The noun חִידָה (khidah, “riddle”) designates enigmatic sayings whose meaning is obscure or hidden, such as a riddle (Num 12:8; Judg 14:12, 19), allegory (Ezek 17:2), perplexing moral problem (Pss 49:5; 78:2), perplexing question (1 Kgs 10:1 = 2 Chr 9:1) or ambiguous saying (Dan 8:23); see BDB 295 s.v. and HALOT 309 s.v. If this is related to Arabic hada (“to turn aside, avoid”), it refers to sayings whose meanings are obscure. The sayings of the wise often take the form of riddles that must be discerned.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “fear of the Lord.” The expression יְהוָה יִרְאַת (yir’at yÿhvah, “fear of Yahweh”) is a genitive-construct in which יְהוָה (“the Lord”) functions as an objective genitive: He is the object of fear. The term יָרַא (yara’) is the common word for fear in the OT and has a basic three-fold range of meanings: (1) “dread; terror” (Deut 1:29; Jonah 1:10), (2) “to stand in awe” (1 Kgs 3:28), (3) “to revere; to respect” (Lev 19:3). With the Lord as the object, it captures the polar opposites of shrinking back in fear and drawing close in awe and adoration. Both categories of meaning appear in Exod 20:20 (where the Lord descended upon Sinai amidst geophysical convulsions); Moses encouraged the Israelites to not be afraid of God arbitrarily striking them dead for no reason (“Do not fear!”) but informed the people that the Lord revealed himself in such a terrifying manner to scare them from sinning (“God has come only to test you and to put the fear of him in you so that you do not sin”). The fear of the Lord is expressed in reverential submission to his will – the characteristic of true worship. The fear of the Lord is the foundation for wisdom (9:10) and the discipline leading to wisdom (15:33). It is expressed in hatred of evil (8:13) and avoidance of sin (16:6), and so results in prolonged life (10:27; 19:23).
+
+### Verse 7 - Note 2
+[翻訳注]  The noun רֵאשִׁית (re’shit) has a two-fold range of meaning (BDB 912 s.v.): (1) “beginning” = first step in a course of action (e.g., Ps 111:10; Prov 17:14; Mic 1:13) or (2) “chief thing” as the principal aspect of something (e.g., Prov 4:7). So fearing the Lord is either (1) the first step in acquiring moral knowledge or (2) the most important aspect of moral knowledge. The first option is preferred because 1:2-6 focuses on the acquisition of wisdom.
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “knowledge.” The noun דָּעַת (da’at, “knowledge”) refers to experiential knowledge, not just cognitive knowledge, including the intellectual assimilation and practical application (BDB 394 s.v.). It is used in parallelism to מוּסָר (musar, “instruction, discipline”) and חָכְמָה (khokhmah, “wisdom, moral skill”).
+
+### Verse 7 - Note 4
+[翻訳注]  The conjunction “but” does not appear in the Hebrew text, but is implied by the antithetical parallelism. It is supplied in the translation for clarity.
+
+### Verse 7 - Note 5
+[翻訳注]  The term אֱוִיל (’evil, “fool”) refers to a person characterized by moral folly (BDB 17 s.v.). Fools lack understanding (10:21), do not store up knowledge (10:14), fail to attain wisdom (24:7), and refuse correction (15:5; 27:22). They are arrogant (26:5), talk loosely (14:3) and are contentious (20:3). They might have mental intelligence but they are morally foolish. In sum, they are stubborn and “thick-brained” (J. H. Greenstone, Proverbs, 6).
+
+### Verse 7 - Note 6
+[翻訳注]  The verb of בָּזָה (bazah, “despise”) means to treat things of value with contempt, as if they were worthless (BDB 102 s.v.). The classic example is Esau who despised his birthright and sold it for lentil stew (Gen 25:34). The perfect tense of this verb may be classified as characteristic perfect (what they have done and currently do) or gnomic perfect (what they always do in past, present and future). The latter is preferred; this describes a trait of fools, and elsewhere the book says that fools do not change.
+
+### Verse 7 - Note 7
+[解説]  Hebrew word order is emphatic here. Normal word order is: verb + subject + direct object. Here it is: direct object + subject + verb (“wisdom and instruction fools despise”).
+
+### Verse 8 - Note 1
+[翻訳注]  The imperative שְׁמַע (shÿma’, “Listen!”) forms an urgent exhortation which expects immediate compliance with parental instruction.
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “my son.” It is likely that collections of proverbs grew up in the royal courts and were designed for the training of the youthful prince. But once the collection was included in the canon, the term “son” would be expanded to mean a disciple, for all the people were to learn wisdom when young. It would not be limited to sons alone but would include daughters – as the expression “the children of (בְּנֵי, bÿne) Israel” (including males and females) clearly shows. Several passages in the Mishnah and Talmud record instructions to teach daughters the Mosaic law so that they will be righteous and avoid sin as well. The translation “my child,” although not entirely satisfactory, will be used here.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “training” or “discipline.” See note on 1:2.
+
+### Verse 8 - Note 4
+[翻訳注]  Heb “of.” The noun אָבִיךָ (’avikha, “of your father”) may be classified as a genitive of source.
+
+### Verse 8 - Note 5
+[翻訳注]  Heb “instruction.” In Proverbs the noun תּוֹרַה (torah) often means “instruction” or “moral direction” rather than “law” (BDB 435 s.v. 1.a). It is related to יָרָה (yarah, “to point [or, show] the way” in the Hiphil (BDB 435). Instruction attempts to point a person in the right direction (e.g., Gen 46:28).
+
+### Verse 8 - Note 6
+[翻訳注]  Heb “of.” The noun אִמֶּךָ (’immekha, “of your mother”) may be classified as a genitive of source.
+
+### Verse 9 - Note 1
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “a garland of grace.” The word חֵן (khen, “grace”) refers to qualities that make a person pleasant and agreeable, e.g., a gracious and charming person (BDB 336 s.v.). The metaphor compares the teachings that produce these qualities to an attractive wreath.
+
+### Verse 9 - Note 3
+[翻訳注]  The noun לִוְיַה (livyah, “wreath; garland”) refers to a headdress and appears only twice in the OT (Prov 1:9; 4:9; BDB 531 s.v.; HALOT 524 s.v.).
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “for.”
+
+### Verse 9 - Note 5
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 9 - Note 6
+[翻訳注]  Cf. KJV, ASV “chains”; NIV “a chain”; but this English term could suggest a prisoner’s chain to the modern reader rather than adornment.
+
+### Verse 9 - Note 7
+[翻訳注]  Heb “for.”
+
+### Verse 10 - Note 1
+[翻訳注]  The term חַטָּא (khatta’) is the common word for “sinner” in the OT. Because the related verb is used once of sling-shot throwers who miss the mark (Judg 20:16), the idea of sin is often explained as “missing the moral mark” (BDB 306-8 s.v.). But the term should not be restricted to the idea of a sin of ignorance or simply falling short of the moral ideal. Its meaning is more likely seen in the related Akkadian term “to revolt, rebel.” It is active rebellion against authority. It is used here in reference to a gang of robbers.
+
+### Verse 10 - Note 2
+[翻訳注]  The imperfect tense verb יְפַתּוּךָ (yÿftukha) may be nuanced in a connotative sense: “(If) they attempt to  persuade you.” The verb פָּתָה (patah) means “to persuade, entice” a person to sin (BDB 834 s.v. פָּתָה 1; see, e.g., Judg 14:15; 16:5; Prov 16:29; Hos 2:16).
+
+### Verse 10 - Note 3
+[写本注]  The MT reads the root אָבָה (’avah, “to be willing; to consent”). Some medieval Hebrew mss read the root בּוֹא (bo’, “to go”): “do not go with them.” The majority of Hebrew mss and the versions support the MT reading, which is the less common word and so the more likely original reading.
+
+### Verse 11 - Note 1
+[翻訳注]  This cohortative נֶאֶרְבָה (ne’ervah) could denote resolve (“We will lie in wait!”) or exhortation (“Let us lie in wait!”). These sinners are either expressing their determination to carry out a violent plan or they are trying to entice the lad to participate with them.
+
+### Verse 11 - Note 2
+[翻訳注]  The verb אָרַב (’arav, “to lie in wait”) it is used for planning murder (Deut 19:11), kidnapping (Judg 21:20), or seduction (Prov 23:28).
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “for blood.” The term דָּם (dam, “blood”) functions as a metonymy of effect for “blood shed violently” through murder (HALOT 224 s.v. 4).
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “lie in hiding.”
+
+### Verse 11 - Note 5
+[翻訳注]  The term “innocent” (נָקִי, naqi) intimates that the person to be attacked is harmless.
+
+### Verse 11 - Note 6
+[翻訳注]  Heb “without cause” (so KJV, NASB); NCV “just for fun.” The term חִנָּם (khinnam, “without cause”) emphasizes that the planned attack is completely unwarranted.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “lives.” The noun חַיִּים (khayyim, “lives”) functions as an adverbial accusative of manner: “alive.” The form is a plural of state, used to describe a condition of life which encompasses a long period of time – in this case a person’s entire life. Murder cuts short a person’s life.
+
+### Verse 12 - Note 2
+[翻訳注]  The noun שְׁאוֹל (shÿ’ol) can mean (1) “death,” cf. NCV; (2) “the grave,” cf. KJV, NIV, NLT (3) “Sheol” as the realm of departed spirits, cf. NAB “the nether world,” and (4) “extreme danger.” Here it is parallel to the noun בוֹר (vor, “the Pit”) so it is the grave or more likely “Sheol” (cf. ASV, NRSV). Elsewhere Sheol is personified as having an insatiable appetite and swallowing people alive as they descend to their death (e.g., Num 16:30, 33; Isa 5:14; Hab 2:5). In ancient Near Eastern literature, the grave is often personified in similar manner, e.g., in Ugaritic mythological texts Mot (= “death”) is referred to as “the great swallower.”
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “and whole.” The vav (ו) is asseverative or appositional (“even”); it is omitted in the translation for the sake of style and smoothness. The substantival adjective תָּמִים (tamim, “whole; perfect; blameless”) is an adverbial accusative describing the condition and state of the object. Used in parallel to חַיִּים (khayyim, “alive”), it must mean “full of health” (BDB 1071 s.v. תָּמִים 2). These cutthroats want to murder a person who is full of vigor.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “find.” The use of the verb מָצָא (matsa’, “to find”) is deliberate understatement to rhetorically down-play the heinous act of thievery.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “all wealth of preciousness.”
+
+### Verse 13 - Note 3
+[翻訳注]  The noun שָׁלָל (shalal, “plunder”) functions as an adverbial accusative of material: “with plunder.” This term is normally used for the spoils of war (e.g., Deut 20:14; Josh 7:21; Judg 8:24, 25; 1 Sam 30:20) but here refers to “stolen goods” (so NCV, CEV; e.g., Isa 10:2; Prov 16:19; BDB 1022 s.v. 3). The enticement was to join a criminal gang and adopt a life of crime to enjoy ill-gotten gain (A. Cohen, Proverbs, 4). Cf. NAB, NRSV “booty”; TEV “loot.”
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “Throw in your lot with us.” This is a figurative expression (hypocatastasis) urging the naive to join their life of crime and divide their loot equally. The noun גּוֹרָל (goral, “lot”) can refer to (1) lot thrown for decision-making processes, e.g., choosing the scapegoat (Lev 16:8), discovering a guilty party (Jonah 1:7) or allocating property (Josh 18:6); (2) allotted portion (Josh 15:1) and (3) allotted fate or future destiny (Prov 1:14; Dan 12:13; see BDB 174 s.v.). Here the criminals urged the lad to share their life. The verb תַּפִּיל (tappil) is an imperfect of injunction: “Throw in…!” but might also be an imperfect of permission: “you may throw.” It functions metonymically as an invitation to join their life of crime: “share with us” (BDB 658 s.v. 3).
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “there will be to all of us.”
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “one purse” (so KJV, NAB, NRSV). The term כִּיס (kis, “purse; bag”) is a synecdoche of container (= purse) for contents (= stolen goods). The adjective אֶחָד (’ekhad, “one”) indicates that the thieves promised to share equally in what they had stolen.
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “do not walk.”
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “in the way with them.”
+
+### Verse 15 - Note 3
+[翻訳注]  Heb “your foot.” The term “foot” (רֶגֶל, regel) is a synecdoche of part (= your foot) for the whole person (= yourself).
+
+### Verse 15 - Note 4
+[解説]  The word “path” (נְתִיבָה, nÿtivah) like the word “way” (דֶּרֶךְ, derekh) is used as an idiom (developed from a hypocatastasis), meaning “conduct, course of life.”
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “their feet.” The term “feet” is a synecdoche of the part (= their feet) for the whole person (= they), stressing the eagerness of the robbers.
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “run.” The verb רוּץ (ruts, “run”) functions here as a metonymy of association, meaning “to be eager” to do something (BDB 930 s.v.).
+
+### Verse 16 - Note 3
+[翻訳注]  Heb “to harm.” The noun רַע (ra’) has a four-fold range of meanings: (1) “pain, harm” (Prov 3:30), (2) “calamity, disaster” (13:21), (3) “distress, misery” (14:32) and (4) “moral evil” (8:13; see BDB 948-49 s.v.). The parallelism with “swift to shed blood” suggests it means “to inflict harm, injury.”
+
+### Verse 16 - Note 4
+[翻訳注]  The imperfect tense verbs may be classified as habitual or progressive imperfects describing their ongoing continual activity.
+
+### Verse 16 - Note 5
+[写本注]  The BHS editors suggest deleting this entire verse from MT because it does not appear in several versions (Codex B of the LXX, Coptic, Arabic) and is similar to Isa 59:7a. It is possible that it was a scribal gloss (intentional addition) copied into the margin from Isaiah. But this does not adequately explain the differences. It does fit the context well enough to be original.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “for the net to be spread out.” The Pual participle of זָרָה (zarah) means “to be spread” (HALOT 280 s.v. I זרה pu.1). The subject of this verbal use of the participle is the noun הָרָשֶׁת (harashet, “the net”). It is futile for the net to be spread out in plain view of birds.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “in the eyes of.”[解説]  This means either: (1) Spreading a net in view of birds is futile because birds will avoid the trap; but the wicked are so blind that they fail to see danger; or (2) it does not matter if a net is spread because birds are so hungry they will eat anyway and be trapped; the wicked act in a similar way.
+
+### Verse 17 - Note 3
+[翻訳注]  Heb “all of the possessors of wings.”
+
+### Verse 18 - Note 1
+[解説]  They think that they are going to shed innocent blood, but in their blindness they do not realize that it is their own blood they shed. Their greed will lead to their destruction. This is an example of ironic poetic justice. They do not intend to destroy themselves; but this is what they accomplish.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “their own souls.” The term נֶפֶשׁ (nefesh, “soul”) is used as a metonymy (= soul) of association (= life). The noun נֶפֶשׁ often refers to physical “life” (Exod 21:23; Num 17:3; Judg 5:18; Prov 12:10; BDB 659 s.v. 3.c).
+
+### Verse 19 - Note 1
+[翻訳注]  The exclamation כֵּן (ken, “so; thus; such”) marks a conclusion (BDB 485 s.v.). It draws a comparison between the destruction of the wicked in v. 18 and the concluding statement in v. 19.
+
+### Verse 19 - Note 2
+[写本注]  The MT reads אָרְחוֹת (’orkhot, “paths; ways” as figure for mode of life): “so are the ways [or, paths] of all who gain profit unjustly.” The BHS editors suggest emending the text to אַחֲרִית (’akharit, “end” as figure for their fate) by simple metathesis between ח (khet) and ר (resh) and by orthographic confusion between י (yod) and ו (vav), both common scribal errors: “so is the fate of all who gain profit unjustly.” The external evidence supports MT, which is also the more difficult reading. It adequately fits the context which uses “way” and “path” imagery throughout 1:10-19.
+
+### Verse 19 - Note 3
+[翻訳注]  Heb “those who unjustly gain unjust gain.” The participle בֹּצֵעַ (boysea’, “those who unjustly gain”) is followed by the cognate accusative of the same root בָּצַע (batsa’, “unjust gain”) to underscore the idea that they gained their wealth through heinous criminal activity.[解説]  The verb followed by the cognate noun usually means seeking gain in an unjust way (1 Sam 8:3), or for selfish purposes (Gen 37:26), or gaining by violence. The word may have the sense of covetousness.
+
+### Verse 19 - Note 4
+[翻訳注]  The subject of the verb is the noun בָּצַע (“unjust gain”), which is also the referent of the 3rd person masculine singular suffix on בְּעָלָיו (bÿ’alav, “its owners”). Greed takes away the life of those who live by greed (e.g., 15:27; 26:27). See G. R. Driver, “Problems in the Hebrew Text of Proverbs,” Bib 32 (1951): 173-74.
+
+### Verse 19 - Note 5
+[翻訳注]  The term נֶפֶשׁ (nefesh, “soul”) is used as a metonymy (= soul) of association (= life). The noun נֶפֶשׁ often refers to physical “life” (Exod 21:23; Num 17:3; Judg 5:18; Prov 12:10; BDB 659 s.v. 3.c).
+
+### Verse 19 - Note 6
+[翻訳注]  Heb “its owners.”
+
+### Verse 20 - Note 1
+[翻訳注]  The noun חָכְמָה (khokhmah, “wisdom”) is the abstract feminine plural form. It probably functions as a plural of intensity, stressing the all-embracing, elevated wisdom (W. McKane, Proverbs [OTL], 272). As in 8:1-9:11, Wisdom is personified as a righteous woman in 1:20-33.
+
+### Verse 20 - Note 2
+[解説]  The verb רָנַן (ranan, “to cry out, give a ringing cry”) always expresses excitement, whether of joyful praise or lamentable sorrow (BDB 943 s.v.). Here it is an excited summons.
+
+### Verse 20 - Note 3
+[翻訳注]  Heb “she gives her voice.” The expression means to shout loudly (BDB 679 s.v. נָתַן Qal.x).
+
+### Verse 20 - Note 4
+[解説]  The word רְחֹבוֹת (rÿkhovot, “plazas”) refers to the wide plazas or broad open spaces near the gate where all the people assembled. The personification of wisdom as a woman crying out in this place would be a vivid picture of the public appeal to all who pass by.
+
+### Verse 21 - Note 1
+[写本注]  MT reads הֹמִיּוֹת (homyyot, “noisy streets”; Qal participle feminine plural from הָמָה [hamah], “to murmur; to roar”), referring to the busy, bustling place where the street branches off from the gate complex. The LXX reads τειχέων (teicewn) which reflects חֹמוֹת (khomot), “walls” (feminine plural noun from חוֹמָה [khomah], “wall”): “She proclaims on the summits of the walls.” MT is preferred because it is the more difficult form. The LXX textual error was caused by simple omission of yod (י). In addition, the LXX expands the verse to read, “she sits at the gates of the princes, at the gates of the city she boldly says.” The shorter MT reading is preferred.
+
+### Verse 21 - Note 2
+[解説]  The phrase “in the city” further defines the area of the entrance just inside the gate complex, the business area. In an ancient Near Eastern city, business dealings and judicial proceedings would both take place in this area.
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “she speaks her words.”
+
+### Verse 22 - Note 1
+[翻訳注]  Wisdom addresses three types of people: simpletons (פְּתָיִם, pÿtayim), scoffers (לֵצִים, letsim) and fools (כְּסִילִים, kÿsilim). For the term “simpleton” see note on 1:4. Each of these three types of people is satisfied with the life being led and will not listen to reason. See J. A. Emerton, “A Note on the Hebrew Text of Proverbs 1:22-23,” JTS 19 (1968): 609-14.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “simplicity” (so KJV, NASB); NAB “inanity.” The noun פֶּתִי (peti) means “simplicity; lack of wisdom” (BDB 834 s.v.; HALOT 989 s.v. II פֶּתִי). It is related to the term פְּתָיִם (pÿtayim) “simpletons” and so forms a striking wordplay. This lack of wisdom and moral simplicity is inherent in the character of the naive person.
+
+### Verse 22 - Note 3
+[翻訳注]  The second instance of “How long?” does not appear in the Hebrew text; it is supplied in the translation for smoothness and style.
+
+### Verse 22 - Note 4
+[解説]  The term לֵצִים (leysim, “scoffers; mockers”) comes from the root לִיץ (lits, “to scorn; to mock; to speak indirectly” (BDB 539 s.v. לִיץ). They are cynical and defiant freethinkers who ridicule the righteous and all for which they stand (e.g., Ps 1:1).
+
+### Verse 22 - Note 5
+[翻訳注]  Heb “delight.” The verb (חָמַד, khamad) is often translated “to take pleasure; to delight” but frequently has the meaning of a selfish desire, a coveting of something. It is the term, for example, used for coveting in the Decalogue (Exod 20:17; Deut 5:21) and for the covetous desire of Eve (Gen 3:6) and Achan (Josh 7:21). It is tempting to nuance it here as “illicit desire” for mockery.
+
+### Verse 22 - Note 6
+[翻訳注]  Heb “for themselves.” The ethical dative לָהֶם (lahem, “for themselves”) is normally untranslated. It is a rhetorical device emphasizing that they take delight in mockery for their own self-interests.
+
+### Verse 22 - Note 7
+[解説]  The term “fool” (כְּסִיל, kÿsil) refers to the morally insensitive dullard (BDB 493 s.v.).
+
+### Verse 23 - Note 1
+[翻訳注]  The imperfect tense is in the conditional protasis without the conditional particle, followed by the clause beginning with הִנֵּה (hinneh, “then”). The phrase “If only…” does not appear in the Hebrew but is implied by the syntax; it is supplied in the translation for the sake of clarity.
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “turn.” The verb is from שׁוּב (shuv, “to return; to respond; to repent”).
+
+### Verse 23 - Note 3
+[解説]  The noun תּוֹכַחַת (tokhakhat, “rebuke”) is used in all kinds of disputes including rebuking, arguing, reasoning, admonishing, and chiding. The term is broad enough to include here warning and rebuke. Cf. KJV, NAB, NRSV “reproof”; TEV “when I reprimand you”; CEV “correct you.”
+
+### Verse 23 - Note 4
+[翻訳注]  Heb “Behold!”
+
+### Verse 23 - Note 5
+[翻訳注]  The Hiphil cohortative of נָבַע (nava’, “to pour out”) describes the speaker’s resolution to pour out wisdom on those who respond.
+
+### Verse 23 - Note 6
+[翻訳注]  Heb “my spirit.” The term “spirit” (רוּחַ, ruakh) functions as a metonymy (= spirit) of association (= thoughts), as indicated by the parallelism with “my words” (דְּבָרַי, dÿbaray). The noun רוּחַ (ruakh, “spirit”) can have a cognitive nuance, e.g., “spirit of wisdom” (Exod 28:3; Deut 34:9). It is used metonymically for “words” (Job 20:3) and “mind” (Isa 40:13; Ezek 11:5; 20:32; 1 Chr 28:12; see BDB 925 s.v. רוּחַ 6). The “spirit of wisdom” produces skill and capacity necessary for success (Isa 11:2; John 7:37-39).
+
+### Verse 23 - Note 7
+[翻訳注]  The conjunction “and” does not appear in the Hebrew text, but is supplied in the translation for the sake of smoothness.
+
+### Verse 23 - Note 8
+[翻訳注]  Here too the form is the cohortative, stressing the resolution of wisdom to reveal herself to the one who responds.
+
+### Verse 24 - Note 1
+[翻訳注]  The term “however” does not appear in the Hebrew text, but is implied by the contrast between the offer in 1:23 and the accusation in 1:24-25. It is supplied in the translation for the sake of clarity.
+
+### Verse 24 - Note 2
+[翻訳注]  The particle יַעַן (ya’an, “because”) introduces a causal clause which forms part of an extended protasis; the apodosis is 1:26.
+
+### Verse 24 - Note 3
+[翻訳注]  The phrase “to listen” does not appear in the Hebrew but is supplied in the translation for the sake of clarity.
+
+### Verse 24 - Note 4
+[翻訳注]  The term “because” does not appear in this line but is implied by the parallelism; it is supplied in the translation for clarity and smoothness.
+
+### Verse 24 - Note 5
+[解説]  This expression is a metonymy of adjunct; it is a gesture that goes with the appeal for some to approach.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “and.”
+
+### Verse 25 - Note 2
+[翻訳注]  The verb III פָּרַע means “to let go; to let alone” (BDB 828 s.v.). It can refer to unkempt hair of the head (Lev 10:6) or lack of moral restraint: “to let things run free” (Exod 32:25; Prov 28:19). Here it means “to avoid, neglect” the offer of wisdom (BDB 829 s.v. 2).
+
+### Verse 25 - Note 3
+[翻訳注]  The verbs are characteristic perfects or indefinite pasts. For the word “comply, consent,” see 1:20.
+
+### Verse 26 - Note 1
+[翻訳注]  The conclusion or apodosis is now introduced.
+
+### Verse 26 - Note 2
+[解説]  Laughing at the consequences of the fool’s rejection of wisdom does convey hardness against the fool; it reveals the folly of rejecting wisdom (e.g., Ps 2:4). It vindicates wisdom and the appropriateness of the disaster (D. Kidner, Proverbs [TOTC], 60).
+
+### Verse 26 - Note 3
+[翻訳注]  Heb “at your disaster.” The 2nd person masculine singular suffix is either (1) a genitive of worth: “the disaster due you” or (2) an objective genitive: “disaster strikes you.” The term “disaster” (אֵיד, ’ed) often refers to final life-ending calamity (Prov 6:15; 24:22; BDB 15 s.v. 3). The preposition ב (bet) focuses upon time here.
+
+### Verse 26 - Note 4
+[翻訳注]  Heb “your dread” (so NASB); KJV “your fear”; NRSV “panic.” The 2nd person masculine singular suffix is a subjective genitive: “that which you dread.”
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “your dread.” See note on 1:31.
+
+### Verse 27 - Note 2
+[解説]  The term “whirlwind” (NAB, NIV, NRSV; cf. TEV, NLT “storm”) refers to a devastating storm and is related to the verb שׁוֹא (sho’, “to crash into ruins”; see BDB 996 s.v. שׁוֹאָה). Disaster will come swiftly and crush them like a devastating whirlwind.
+
+### Verse 27 - Note 3
+[翻訳注]  Heb “your disaster.” The 2nd person masculine singular suffix is an objective genitive: “disaster strikes you.”
+
+### Verse 27 - Note 4
+[翻訳注]  Heb “like a storm.” The noun סוּפָה (sufah, “storm”) is often used in similes to describe sudden devastation (Isa 5:28; Hos 8:7; Amos 1:14).
+
+### Verse 27 - Note 5
+[翻訳注]  Heb “distress and trouble.” The nouns “distress and trouble” mean almost the same thing so they may form a hendiadys. The two similar sounding terms צוּקָה (tsuqah) and צָרָה (tsarah) also form a wordplay (paronomasia) which also links them together.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “look to.” The verb שָׁחַר (shakhar, “to look”) is used figuratively of intensely looking (=seeking) for deliverance out of trouble (W. L. Holladay, Concise Hebrew and Aramaic Lexicon, 366); cf. NLT “anxiously search for.” It is used elsewhere in parallelism with בָּקַשׁ (baqash, “to seek rescue”; Hos 5:15). It does not mean “to seek early” (cf. KJV) as is popularly taught due to etymological connections with the noun שַׁחַר (shakhar, “dawn”; so BDB 1007 s.v. שָׁחַר).
+
+### Verse 29 - Note 1
+[翻訳注]  The causal particle תַּחַת כִּי (takhat ki, “for the reason that”) introduces a second accusation of sin and reason for punishment.
+
+### Verse 29 - Note 2
+[翻訳注]  Heb “knowledge.” The noun דָעַת (da’at, “knowledge”) refers to moral knowledge. See note on 1:7.
+
+### Verse 29 - Note 3
+[翻訳注]  Heb “the fear of the Lord.” The noun is an objective genitive; the Lord is to be the object of fear. See note on 1:7.
+
+### Verse 30 - Note 1
+[翻訳注]  The verb “spurned” (נָאַץ, na’ats) is parallel to “comply, accede to, be willing” (e.g., 1:10). This is how the morally stubborn fool acts (e.g., 15:5).
+
+### Verse 31 - Note 1
+[翻訳注]  The vav (ו) prefixed to the verb וְיֹאכְלוּ (vÿyo’khÿlu) functions in a consecutive logical sense: “therefore.”
+
+### Verse 31 - Note 2
+[解説]  The expression “eat the fruit of” is a figurative expression (hypocatastasis) that compares the consequences of sin to agricultural growth that culminates in produce. They will suffer the consequences of their sinful actions, that is, they will “reap” what they “sow.”
+
+### Verse 31 - Note 3
+[解説]  The words “way” (דֶּרֶךְ, derekh) and “counsel” (מוֹעֵצָה, mo’etsah) stand in strong contrast to the instruction of wisdom which gave counsel and rebuke to encourage a better way. They will bear the consequences of the course they follow and the advice they take (for that wrong advice, e.g., Ps 1:1).
+
+### Verse 31 - Note 4
+[翻訳注]  Heb “to eat to one’s fill.” The verb שָׂבֵעַ (savea’) means (1) positive: “to eat one’s fill” so that one’s appetite is satisfied and (2) negative: “to eat in excess” as a glutton to the point of sickness and revulsion (BDB 959 s.v.). Fools will not only “eat” the fruit of their own way (v. 31a), they will be force-fed this revolting “menu” which will make them want to vomit (v. 31b) and eventually kill them (v. 32).
+
+### Verse 32 - Note 1
+[翻訳注]  Heb “turning away” (so KJV). The term מְשׁוּבַת (mÿshuvat, “turning away”) refers to moral defection and apostasy (BDB 1000 s.v.; cf. ASV “backsliding”). The noun מְשׁוּבַת (“turning away”) which appears at the end of Wisdom’s speech in 1:32 is from the same root as the verb תָּשׁוּבוּ (tashuvu, “turn!”) which appears at the beginning of this speech in 1:23. This repetition of the root שׁוּב (shuv, “to turn”) creates a wordplay: Because fools refuse to “turn to” wisdom (1:23), they will be destroyed by their “turning away” from wisdom (1:32). The wordplay highlights the poetic justice of their judgment. But here they have never embraced the teaching in the first place; so it means turning from the advice as opposed to turning to it.
+
+### Verse 32 - Note 2
+[解説]  The Hebrew verb “to kill” (הָרַג, harag) is the end of the naive who refuse to change. The word is broad enough to include murder, massacre, killing in battle, and execution. Here it is judicial execution by God, using their own foolish choices as the means to ruin.
+
+### Verse 32 - Note 3
+[翻訳注]  Heb “complacency” (so NASB, NIV, NRSV, NLT); NAB “smugness.” The noun שַׁלְוַה (shalvah) means (1) positively: “quietness; peace; ease” and (2) negatively: “self-sufficiency; complacency; careless security” (BDB 1017 s.v.), which is the sense here. It is “repose gained by ignoring or neglecting the serious responsibilities of life” (C. H. Toy, Proverbs [ICC], 29).
+
+### Verse 33 - Note 1
+[翻訳注]  The participle is used substantivally here: “whoever listens” will enjoy the benefits of the instruction.
+
+### Verse 33 - Note 2
+[翻訳注]  The noun בֶּטַח (betakh, “security”) functions as an adverbial accusative of manner: “in security.” The phrase refers to living in a permanent settled condition without fear of danger (e.g., Deut 33:12; Ps 16:9). It is the antithesis of the dread of disaster facing the fool and the simple.
+
+### Verse 33 - Note 3
+[翻訳注]  The verb שַׁאֲנַן (sha’anan) is a Palel perfect of שָׁאַן (sha’an) which means “to be at ease; to rest securely” (BDB 983 s.v. שָׁאַן). Elsewhere it parallels the verb “to be undisturbed” (Jer 30:10), so it means “to rest undisturbed and quiet.” The reduplicated Palel stem stresses the intensity of the idea. The perfect tense functions in the so-called “prophetic perfect” sense, emphasizing the certainty of this blessing for the wise.

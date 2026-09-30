@@ -1,0 +1,595 @@
+{
+  "book": "Job",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " There was a man in the land of Uz whose name was Job. And that man was blameless and upright, one who feared God and turned away from evil. ",
+      "ja": "ウツの地にヨブという名の人がいた。その人は無垢で正しく、神を恐れ、悪を避ける者であった。"
+    },
+    {
+      "verse": 2,
+      "en": "Seven sons and three daughters were born to him.",
+      "ja": "彼には七人の息子と三人の娘が生まれた。"
+    },
+    {
+      "verse": 3,
+      "en": "His possessions included 7,000 sheep, 3,000 camels, 500 yoke of oxen, and 500 female donkeys; in addition he had a very great household. Thus he was the greatest of all the people in the east. ",
+      "ja": "その財産は羊七千頭、らくだ三千頭、牛五百対、雌ろば五百頭に及び、使用人も非常に多かった。こうして彼は東洋の人々の中で最も偉大な者となった。"
+    },
+    {
+      "verse": 4,
+      "en": "Now his sons used to go and hold a feast in the house of each one in turn, and they would send and invite their three sisters to eat and to drink with them.",
+      "ja": "彼の息子たちは順繰りにそれぞれの家で宴会を開き、三人の姉妹をも招いて共に飲食するのが常であった。"
+    },
+    {
+      "verse": 5,
+      "en": "When the days of their feasting were finished, Job would send for them and sanctify them; he would get up early in the morning and offer burnt offerings according to the number of them all. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s customary practice. ",
+      "ja": "宴会の日々が一巡すると、ヨブは彼らを呼び寄せて聖別し、朝早く起きて彼ら全員の数に従って全焼のいけにえをささげた。ヨブが「子供たちが罪を犯し、心の中で神を呪ったかもしれない」と考えたからである。ヨブは常にこのように行っていた。"
+    },
+    {
+      "verse": 6,
+      "en": "Now the day came when the sons of God came to present themselves before the Lord—and Satan also arrived among them.",
+      "ja": "ある日、神の子らが主の御前に進み出て立つとき、サタンもまた彼らの中に混じって来た。"
+    },
+    {
+      "verse": 7,
+      "en": "The Lord said to Satan, “Where have you come from?” And Satan answered the Lord, “From roving about on the earth, and from walking back and forth across it.”",
+      "ja": "主はサタンに「どこから来たのか」と言われた。サタンは主に答えて「地を行き巡り、あちらこちらを歩き回って来ました」と言った。"
+    },
+    {
+      "verse": 8,
+      "en": "So the Lord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil.” ",
+      "ja": "主はサタンに言われた。「わたしの僕ヨブに心を留めたか。地上には彼のような者はいない。無垢で正しく、神を恐れ、悪を避ける者である。」"
+    },
+    {
+      "verse": 9,
+      "en": "Then Satan answered the Lord, “Is it for nothing that Job fears God? ",
+      "ja": "するとサタンは主に答えた。「ヨブは理由もなく神を恐れているでしょうか。"
+    },
+    {
+      "verse": 10,
+      "en": "Have you not made a hedge around him and his household and all that he has on every side? You have blessed the work of his hands, and his livestock have increased in the land. ",
+      "ja": "あなたは彼とその家族、また彼が持つすべてのものの周りに垣を巡らされたではありませんか。その手の業を祝福されたため、彼の家畜は地に増え広がっています。"
+    },
+    {
+      "verse": 11,
+      "en": "But extend your hand and strike everything he has, and he will no doubt curse you to your face!” ",
+      "ja": "しかし、手を伸ばして彼の財産すべてを打ってみてください。彼は面と向かってあなたを呪うに違いありません。」"
+    },
+    {
+      "verse": 12,
+      "en": "So the Lord said to Satan, “All right then, everything he has is in your power. Only do not extend your hand against the man himself!” So Satan went out from the presence of the Lord. ",
+      "ja": "主はサタンに言われた。「よいだろう。彼の持つすべてのものをあなたの手に任せる。ただ、彼自身の体には手を伸ばしてはならない。」そこでサタンは主の御前から退出した。"
+    },
+    {
+      "verse": 13,
+      "en": "Now the day came when Job’s sons and daughters were eating and drinking wine in their oldest brother’s house, ",
+      "ja": "ある日、ヨブの息子たちと娘たちが長兄の家で食事をし、ぶどう酒を飲んでいたとき、"
+    },
+    {
+      "verse": 14,
+      "en": "and a messenger came to Job, saying, “The oxen were plowing and the donkeys were grazing beside them, ",
+      "ja": "使者がヨブのもとに来て言った。「牛が耕作をし、ろばがその傍らで草を食べていたところ、"
+    },
+    {
+      "verse": 15,
+      "en": "and the Sabeans swooped down and carried them all away, and they killed the servants with the sword! And I—only I alone—escaped to tell you!”",
+      "ja": "シェバ人が襲いかかって家畜を奪い去り、剣の刃で使用人たちを殺害しました。私一人だけが逃げ延びて、あなたにご報告に上がりました。」"
+    },
+    {
+      "verse": 16,
+      "en": "While this one was still speaking, another messenger arrived and said, “The fire of God has fallen from heaven and has burned up the sheep and the servants—it has consumed them! And I—only I alone—escaped to tell you!”",
+      "ja": "この者がまだ話しているうちに、別の使者が来て言った。「神の火が天から降って羊と使用人を焼き払い、焼き尽くしました。私一人だけが逃げ延びて、あなたにご報告に上がりました。」"
+    },
+    {
+      "verse": 17,
+      "en": "While this one was still speaking another messenger arrived and said, “The Chaldeans formed three bands and made a raid on the camels and carried them all away, and they killed the servants with the sword! And I—only I alone—escaped to tell you!”",
+      "ja": "この者がまだ話しているうちに、別の使者が来て言った。「カルデア人が三つの組を作ってらくだを襲撃し、すべて奪い去り、剣の刃で使用人たちを殺害しました。私一人だけが逃げ延びて、あなたにご報告に上がりました。」"
+    },
+    {
+      "verse": 18,
+      "en": "While this one was still speaking another messenger arrived and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, ",
+      "ja": "この者がまだ話しているうちに、別の使者が来て言った。「あなたのご子息とご令嬢たちが、長兄の家で食事をし、ぶどう酒を飲んでおられたとき、"
+    },
+    {
+      "verse": 19,
+      "en": "and suddenly a great wind swept across the wilderness and struck the four corners of the house, and it fell on the young people, and they died! And I—only I alone—escaped to tell you!”",
+      "ja": "大風が荒野の向こうから吹きつけ、家の四隅を直撃しました。家は若い方々の上に倒壊し、皆様亡くなられました。私一人だけが逃げ延びて、あなたにご報告に上がりました。」"
+    },
+    {
+      "verse": 20,
+      "en": "Then Job got up and tore his robe. He shaved his head, and then he threw himself down with his face to the ground. ",
+      "ja": "するとヨブは立ち上がり、上着を裂いた。頭の毛を剃り、地にひれ伏して拝した。"
+    },
+    {
+      "verse": 21,
+      "en": "He said, “Naked I came from my mother’s womb, and naked I will return there. The Lord gives, and the Lord takes away. May the name of the Lord be blessed!” ",
+      "ja": "彼は言った。「私は裸で母の胎から出た。また裸でかしこに帰る。主は与え、主は奪われる。主の御名がほめたたえられますように。」"
+    },
+    {
+      "verse": 22,
+      "en": "In all this Job did not sin, nor did he charge God with moral impropriety. ",
+      "ja": "これらすべてのことにおいて、ヨブは罪を犯さず、神に対して不当な非難を浴びせることもしなかった。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  See N. C. Habel, “The Narrative Art of Job,” JSOT 27 (1983): 101-11; J. J. Owens, “Prologue and Epilogue,” RevExp 68 (1971): 457-67; and R. Polzin, “The Framework of the Book of Job,” Int 31 (1974): 182-200.",
+        "ja": "[解説]  N. C. Habel, “The Narrative Art of Job,” JSOT 27 (1983): 101-11; J. J. Owens, “Prologue and Epilogue,” RevExp 68 (1971): 457-67; R. Polzin, “The Framework of the Book of Job,” Int 31 (1974): 182-200 を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Book of Job is one of the major books of wisdom literature in the Bible. But it is a different kind of wisdom. Whereas the Book of Proverbs is a collection of the short wisdom sayings, Job is a thorough analysis of the relationship between suffering and divine justice put in a dramatic poetic form. There are a number of treatises on this subject in the ancient Near East, but none of them are as thorough and masterful as Job. See J. Gray, “The Book of Job in the Context of Near Eastern Literature,” ZAW 82 (1970): 251-69; S. N. Kramer, “Man and His God, A Sumerian Variation on the ‘Job’ Motif,” VTSup 3 (1953): 170-82. While the book has fascinated readers for ages, it is a difficult book, difficult to translate and difficult to study. Most of it is written in poetic parallelism. But it is often very cryptic, it is written with unusual grammatical constructions, and it makes use of a large number of very rare words. All this has led some scholars to question if it was originally written in Hebrew or some other related Semitic dialect or language first. There is no indication of who the author was. It is even possible that the work may have been refined over the years; but there is no evidence for this either. The book uses a variety of genres (laments, hymns, proverbs, and oracles) in the various speeches of the participants. This all adds to the richness of the material. And while it is a poetic drama using cycles of speeches, there is no reason to doubt that the events represented here do not go back to a real situation and preserve the various arguments. Several indications in the book would place Job’s dates in the time of the patriarchs. But the composition of the book, or at least its final form, may very well come from the first millennium, maybe in the time of the flowering of wisdom literature with Solomon. We have no way of knowing when the book was written, or when its revision was completed. But dating it late in the intertestamental period is ruled out by the appearance of translations and copies of it, notably bits of a Targum of Job in the Dead Sea Scrolls. Among the general works and commentaries, see A. Hurvitz, “The Date of the Prose Tale of Job Linguistically Reconsidered,” HTR 67 (1974): 17-34; R. H. Pfeiffer, “The Priority of Job over Isaiah 40-55,” JBL 46 (1927): 202ff. The book presents many valuable ideas on the subject of the suffering of the righteous. Ultimately it teaches that one must submit to the wisdom of the Creator. But it also indicates that the shallow answers of Job’s friends do not do justice to the issue. Their arguments that suffering is due to sin are true to a point, but they did not apply to Job. His protests sound angry and belligerent, but he held tenaciously to his integrity. His experience shows that it is possible to live a pure life and yet still suffer. He finally turns his plea to God, demanding a hearing. This he receives, of course, only to hear that God is sovereignly ruling the universe. Job can only submit to him. In the end God does not abandon his sufferer. For additional material, see G. L. Archer, The Book of Job; H. H. Rowley, “The Book of Job and Its Meaning,” BJRL 41 (1958/59): 167-207; J. A. Baker, The Book of Job; C. L. Feinberg, “The Book of Job,” BSac 91 (1934): 78-86; R. Polzin and D. Robertson, “Studies in the Book of Job,” Semeia 7 (Missoula: Scholars Press, 1977).",
+        "ja": "[解説]  ヨブ記は聖書における知恵文学の主要な書物の一つである。しかし、それは異なる種類の知恵である。箴言が短い知恵の格言集であるのに対し、ヨブ記は苦難と神の正義との関係を劇的な詩の形式で徹底的に分析したものである。古代近東にはこの主題に関する論述がいくつか存在するが、ヨブ記ほど徹底的で見事なものはない。J. Gray, “The Book of Job in the Context of Near Eastern Literature,” ZAW 82 (1970): 251-69; S. N. Kramer, “Man and His God, A Sumerian Variation on the ‘Job’ Motif,” VTSup 3 (1953): 170-82 を参照。本書は長年にわたり読者を魅了してきたが、翻訳も研究も困難な書物である。大部分が詩的平行法で書かれているが、極めて難解な箇所が多く、異例の文法構造で書かれ、多数の稀少語が用いられている。このことから、一部の学者は元々ヘブル語で書かれたのか、あるいは関連する他のセム語方言や言語で書かれたのかを疑問視している。著者が誰であったかを示す記述はない。何年にもわたって推敲された可能性もあるが、その証拠もない。本書は登場人物たちの様々な発言の中で、哀歌、賛歌、箴言、神託といった多様なジャンルを用いている。これらすべてが資料の豊かさを深めている。詩的な対話劇の形式をとってはいるが、ここで描かれている出来事が実際の状況に由来し、様々な議論を保存していることを疑う理由はない。本書のいくつかの記述は、ヨブの時代を族長時代に位置づけるものである。しかし本書の成立、あるいは最終形態は、ソロモンの時代に知恵文学が開花した紀元前1千年紀に遡る可能性がある。本書がいつ書かれ、いつ改訂が完了したかを知るすべはない。しかし死海文書の中にヨブ記のタルグムの断片が存在することなどから、中間時代後半の執筆説は除外される。一般的な文献および注解書としては、A. Hurvitz, “The Date of the Prose Tale of Job Linguistically Reconsidered,” HTR 67 (1974): 17-34; R. H. Pfeiffer, “The Priority of Job over Isaiah 40-55,” JBL 46 (1927): 202ff を参照。本書は義人の苦難という主題に関して多くの貴重な知見を提示している。最終的には創造主の知恵に服従すべきであることを教えているが、ヨブの友人たちの皮相な回答が問題の本質を捉えていないことも示している。苦難は罪に起因するという彼らの主張はある程度まで真理であるが、ヨブには当てはまらなかった。ヨブの抗議は怒りと反発に満ちているように聞こえるが、彼は自らの誠実さを固く保持した。彼の体験は、純潔な生活を送りながらも苦難に遭うことがあり得ることを示している。ヨブは最後に神への訴えを起こし、弁明の機会を求める。神が宇宙を主権的に統治しておられることを聞くことになるが、彼はそれを受け取る。ヨブは神に服従するほかない。最終的に神は苦難にある者を完全に見捨てることはない。さらなる資料としては、G. L. Archer, The Book of Job; H. H. Rowley, “The Book of Job and Its Meaning,” BJRL 41 (1958/59): 167-207; J. A. Baker, The Book of Job; C. L. Feinberg, “The Book of Job,” BSac 91 (1934): 78-86; R. Polzin and D. Robertson, “Studies in the Book of Job,” Semeia 7 (Missoula: Scholars Press, 1977) を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew construction is literally “a man was,” using אִישׁ הָיָה (’ish hayah) rather than a preterite first. This simply begins the narrative.",
+        "ja": "[翻訳注]  ヘブル語の構文は文字通りには「一人の人がいた」であり、最初に完了形（過去形）を置くのではなく אִישׁ הָיָה（'ish hayah）を用いている。これは単に物語を開始する表現である。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The term Uz occurs several times in the Bible: a son of Aram (Gen 10:23), a son of Nahor (Gen 22:21), and a descendant of Seir (Gen 36:28). If these are the clues to follow, the location would be north of Syria or south near Edom. The book tells how Job’s flocks were exposed to Chaldeans, the tribes between Syria and the Euphrates (1:17), and in another direction to attacks from the Sabeans (1:15). The most prominent man among his friends was from Teman, which was in Edom (2:11). Uz is also connected with Edom in Lamentations 4:21. The most plausible location, then, would be east of Israel and northeast of Edom, in what is now North Arabia. The LXX has “on the borders of Edom and Arabia.” An early Christian tradition placed his home in an area about 40 miles south of Damascus, in Baashan at the southeast foot of Hermon.",
+        "ja": "[解説]  ウツという地名は聖書中に数回登場する。アラムの子（創世記 10:23）、ナホルの子（創世記 22:21）、セイルの子孫（創世記 36:28）である。これらを手がかりとするなら、その位置はシリア北部か、あるいは南のエドム付近となる。本書はヨブの家畜群がシリアとユーフラテス川の間の部族であるカルデア人（1:17）にさらされ、また別の方角からはシェバ人（1:15）の襲撃にさらされたことを語っている。友人たちの中で最も著名な人物はエドム領内にあるテマンの出身であった（2:11）。ウツは哀歌 4:21 でもエドムと関連づけられている。したがって最も有力な位置は、イスラエルの東、エドムの北東にあたる現在の北アラビア地域である。七十人訳聖書（LXX）は「エドムとアラビアの境界」としている。初期キリスト教の伝統では、ダマスコの南約40マイル、ヘルモン山南東麓のバシャン地方に彼の住まいがあったとされている。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  In Hebrew the defining relative clause (“whose name was Job”) is actually an asyndetic verbless noun-clause placed in apposition to the substantive (“a man”); see GKC 486 §155.e.",
+        "ja": "[翻訳注]  ヘブル語において限定関係節（「その名はヨブであった」）は、実名詞（「一人の人」）と同格に置かれた接続詞のない無動詞名詞節である。GKC 486 §155.e を参照。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  The name “Job” is mentioned by Ezekiel as one of the greats in the past – Noah, Job, and Daniel (14:14). The suffering of Job was probably well known in the ancient world, and this name was clearly part of that tradition. There is little reason to try to determine the etymology and meaning of the name, since it may not be Hebrew. If it were Hebrew, it might mean something like “persecuted,” although some suggest “aggressor.” If Arabic it might have the significance of “the one who always returns to God.”",
+        "ja": "[解説]  「ヨブ」という名はエゼキエル書において過去の偉人の一人（ノア、ヨブ、ダニエル）として挙げられている（14:14）。ヨブの苦難は古代世界において広く知られていたと見られ、この名はその伝承の一部であった。この名がヘブル語起源ではない可能性があるため、語源や意味を断定しようとする根拠は乏しい。仮にヘブル語であるとすれば「迫害された者」といった意味になる可能性があり、「攻撃者」を示唆する見解もある。アラビア語であれば「常に神のもとに立ち帰る者」という意味合いを持つ可能性がある。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  The word תָּם (tam) has been translated “perfect” (so KJV, ASV). The verbal root תָּמַם (tamam) means “to be blameless, complete.” The word is found in Gen 25:27 where it describes Jacob as “even-tempered.” It also occurs in Ps 64:5 (64:4 ET) and Prov 29:10. The meaning is that a person or a thing is complete, perfect, flawless. It does not mean that he was sinless, but that he was wholeheartedly trying to please God, that he had integrity and was blameless before God.",
+        "ja": "[翻訳注]  単語 תָּם（tam）は「完全な」と翻訳されてきた（KJV、ASVなど）。動詞語根 תָּמַם（tamam）は「非の打ち所がない、完全である」を意味する。この語は創世記 25:27 に現れ、ヤコブを「穏やかな人」と描写している。詩篇 64:5（英語訳 64:4）や箴言 29:10 にも見られる。その意味は人や物が完全で欠点がないことである。これは彼に罪がなかったという意味ではなく、心を尽くして神を喜ばせようとし、誠実さを保ち、神の御前に責められるところがなかったことを意味する。"
+      },
+      {
+        "pos": 8,
+        "en": "[翻訳注]  The word יָשָׁר (yashar, “upright”) is complementary to “blameless.” The idea is “upright, just,” and applies to his relationships with others (Ps 37:37 and 25:21).",
+        "ja": "[翻訳注]  単語 יָשָׁר（yashar、「正しい、廉直な」）は「無垢な」を補完する語である。「廉直な、公正な」という意味合いであり、他者との関係性に適用される（詩篇 37:37、25:21）。"
+      },
+      {
+        "pos": 9,
+        "en": "[解説]  These two expressions indicate the outcome of Job’s character. “Fearing God” and “turning from evil” also express two correlative ideas in scripture; they signify his true piety – he had reverential fear of the Lord, meaning he was a truly devoted worshiper who shunned evil.",
+        "ja": "[解説]  これら二つの表現はヨブの人格の表れを示している。「神を恐れること」と「悪から離れること」は聖書において相関する二つの概念を表しており、彼の真の敬虔さを示している。すなわち主に対する畏敬の念を持ち、悪を遠ざける真に献身的な礼拝者であったことを意味する。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  The numbers used in the chapter, seven, three, and five, carry the symbolism in the Bible of perfection and completeness (see J. J. Davis, Biblical Numerology). Job’s “seven sons” are listed first because in the East sons were considered more valuable than daughters (recall Ruth, who is “better than seven sons” [Ruth 4:15]).",
+        "ja": "[解説]  この章で用いられている七、三、五という数字は、聖書において完全性と充実の象徴性を帯びている（J. J. Davis, Biblical Numerology を参照）。ヨブの「七人の息子」が最初に挙げられているのは、東洋では息子が娘よりも重んじられていたためである（ルツ記 4:15 の「七人の息子にもまさる」という描写を想起されたい）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb begins the sentence: “and there were born.” This use of the preterite with vav (ו) consecutive, especially after the verb הָיָה (hayah, “to be”), is explanatory: there was a man…and there was born to him…” (IBHS 551-52 §33.2.2b).",
+        "ja": "[翻訳注]  動詞が文頭に置かれており「そして生まれた」となっている。特に動詞 הָיָה（hayah、「〜である、存在する」）の後に続く vav（ו）連続態を伴う完了形（過去形）のこの用法は説明的である（「一人の人がいた……そして彼に生まれた……」、IBHS 551-52 §33.2.2b）。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word means “cattle, livestock, possessions” (see also Gen 26:14). Here it includes the livestock, but also the entire substance of his household.",
+        "ja": "[翻訳注]  この語は「家畜、財産」を意味する（創世記 26:14 も参照）。ここでは家畜だけでなく、彼の家計の資産全体を含んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “amounted to,” “totaled.” The preterite of הָיָה (hayah, “to be”) is sometimes employed to introduce a total amount or an inventory (see Exod 1:5; Num 3:43).",
+        "ja": "[翻訳注]  あるいは「〜に達した」「合計〜であった」。動詞 הָיָה（hayah、「〜である」）の完了形（過去形）は、総数や目録を導入するために用いられることがある（出エジプト記 1:5、民数記 3:43 を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The word עֲבֻדָּה (’avuddah, “service of household servants”) indicates that he had a very large body of servants, meaning a very large household.",
+        "ja": "[翻訳注]  単語 עֲבֻדָּה（'avuddah、「使用人の集団、奉仕」）は、彼が非常に多くの使用人を抱えていたこと、すなわち大規模な世帯を持っていたことを示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and that man.”",
+        "ja": "[翻訳注]  ヘブル語では「そしてその人は」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The expression is literally “sons of the east.” The use of the genitive after “sons” in this construction may emphasize their nature (like “sons of belial”); it would refer to them as easterners (like “sons of the south” in contemporary American English). BDB 869 s.v. קֶדֶם says “dwellers in the east.”",
+        "ja": "[翻訳注]  この表現は文字通りには「東の子ら」である。この構文で「子ら」の後に属格を用いることで、その性質を強調している可能性がある（「ベルヤルの子ら」と同様）。これは彼らを東洋人として指している（現代アメリカ英語の「南部の息子たち」と同様）。BDB 869 s.v. קֶדֶם には「東の住人」とある。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The perfect verb with the ו (vav), וְהָלְכוּ (vÿhalÿkhu, “they went”) indicates their characteristic action, actions that were frequently repeated (GKC 335-36 §112.dd).",
+        "ja": "[翻訳注]  ו（vav）を伴う完了形動詞 וְהָלְכוּ（vÿhalÿkhu、「彼らは行った」）は、彼らの習慣的な行為、すなわち頻繁に繰り返された行為を示している（GKC 335-36 §112.dd）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “make a feast.”",
+        "ja": "[翻訳注]  ヘブル語では「宴会を開く」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The sense is cryptic; it literally says “house – a man – his day.” The word “house” is an adverbial accusative of place: “in the house.” “Man” is the genitive; it also has a distributive sense: “in the house of each man.” And “his day” is an adverbial accusative: “on his day.” The point is that they feasted every day of the week in rotation.",
+        "ja": "[翻訳注]  意味は簡潔で凝縮されている。文字通りには「家 — 人 — その日」とある。「家」は場所の副詞的対格で「家で」を意味する。「人」は属格であり、「それぞれの人の家で」という配分的な意味も持つ。そして「その日」は副詞的対格で「その日に」を意味する。要点は、彼らが交代で週の毎日宴会を開いていたということである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The use of קָרָא (qara’, “to call, invite”) followed by the ל (lamed) usually has the force of “to summon.” Here the meaning would not be so commanding, but would refer to an invitation (see also 1 Kgs 1:19, 25, 26).",
+        "ja": "[翻訳注]  קָרָא（qara'、「呼ぶ、招く」）の後に ל（lamed）が続く用法は、通常「召喚する」という強い意味を持つ。ここではそれほど命令的な意味ではなく、招待を指している（列王記上 1:19, 25, 26 も参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Normally cardinal numerals tend to disagree in gender with the numbered noun. In v. 2 “three daughters” consists of the masculine numeral followed by the feminine noun. However, here “three sisters” consists of the feminine numeral followed by the feminine noun. The distinction appears to be that the normal disagreement between numeral and noun when the intent is merely to fix the number (3 daughters as opposed to 2 or 4 daughters). However, when a particular, previously known group is indicated, the numeral tends to agree with the noun in gender. A similar case occurs in Gen 3:13 (“three wives” of Noah’s sons).",
+        "ja": "[翻訳注]  通常、基数は修飾される名詞と性が一致しない傾向がある。2節の「三人の娘」は男性形の数詞の後に女性形名詞が続いている。しかし、ここでの「三人の姉妹」は女性形の数詞の後に女性形名詞が続いている。単に数を確定すること（2人や4人ではなく3人の娘）が目的である場合には数詞と名詞の性が不一致となるのが通例であるが、以前から知られている特定の集団を指す場合には、数詞が名詞と性の一致を示す傾向があるという違いが見られる。同様の例は創世記 3:13（ノアの息子たちの「三人の妻」）にも見られる。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verse begins with the temporal indicator “and it happened” or “and it came to pass,” which need not be translated. The particle כִּי (ki, “when”) with the initial verbal form indicates it is a temporal clause.",
+        "ja": "[翻訳注]  この節は「そして〜のことが起こった」という時を示す表現で始まるが、翻訳する必要はない。文頭の動詞形に伴う不変化詞 כִּי（ki、「〜のとき」）は、これが時を表す節であることを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb is the Hiphil perfect of נָקַף (naqaf, “go around”), here it means “to make the round” or “complete the circuit” (BDB 668-69 s.v. II נָקַף Hiph). It indicates that when the feasting had made its circuit of the seven sons, then Job would sanctify them.",
+        "ja": "[翻訳注]  動詞は נָקַף（naqaf、「巡る」）のヒフィル態完了形であり、ここでは「一巡する」または「巡回を完了する」を意味する（BDB 668-69 s.v. II נָקַף Hiph）。これは宴会が七人の息子を一巡したとき、ヨブが彼らを聖別したことを示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The form is a preterite with vav (ו) consecutive. The same emphasis on repeated or frequent action continues here in this verse. The idea here is that Job would send for them, because the sanctification of them would have consisted of washings and changes of garments as well as the sacrifices (see Gen 35:2; 1 Sam 16:5).",
+        "ja": "[翻訳注]  この形は vav（ו）連続態を伴う完了形（過去形）である。この節でも反復的・習慣的な行為への同様の強調が続いている。ここでの意図は、ヨブが彼らを呼び寄せたということである。なぜなら彼らの聖別はいけにえだけでなく、身を清めることや衣服を改めることを含んでいたからである（創世記 35:2、サムエル記上 16:5 を参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “purify.”",
+        "ja": "[翻訳注]  あるいは「清める」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The first verb could also be joined with the next to form a verbal hendiadys: “he would rise early and he would sacrifice” would then simply be “he would sacrifice early in the morning” (see M. Delcor, “Quelques cas de survivances du vocabulaire nomade en hébreu biblique,” VT 25 [1975]: 307-22). This section serves to explain in more detail how Job sanctified his children.[解説]  In the patriarchal society it was normal for the father to act as priest for the family, making the sacrifices as needed. Job here is exceptional in his devotion to the duty. The passage shows the balance between the greatest earthly rejoicing by the family, and the deepest piety and affection of the father.",
+        "ja": "[翻訳注]  最初の動詞は次の動詞と結合して動詞的二語一意（ヘンディアディス）を形成している可能性もある。「彼は朝早く起き、そしていけにえをささげた」は、単に「彼は朝早くにいけにえをささげた」となる（M. Delcor, “Quelques cas de survivances du vocabulaire nomade en hébreu biblique,” VT 25 [1975]: 307-22 を参照）。この部分はヨブがどのように子供たちを聖別したかをより詳細に説明する役割を果たしている。[解説] 家父長制社会においては、父親が家族の祭司として行動し、必要に応じていけにえをささげることが一般的であった。ここでのヨブはその義務への献身において際立っている。この箇所は家族による地上の最大の喜びと、父親の最も深い敬虔と愛情との間の均衡を示している。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The text does not have “according to”; the noun “number” is an accusative that defines the extent of his actions (GKC 373-74 §118.e, h).",
+        "ja": "[翻訳注]  本文には「〜に従って」という語はなく、名詞「数」は彼の行為の範囲を規定する対格である（GKC 373-74 §118.e, h）。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  The clause stands as an accusative to the verb, here as the direct object introduced with “perhaps” (IBHS 645-46 §38.8d).",
+        "ja": "[翻訳注]  この節は動詞の対格として位置づけられており、ここでは「おそらく」によって導入される直接目的語となっている（IBHS 645-46 §38.8d）。"
+      },
+      {
+        "pos": 8,
+        "en": "[翻訳注]  Heb “sons,” but since the three daughters are specifically mentioned in v. 4, “children” has been used in the translation. In this patriarchal culture, however, it is possible that only the sons are in view.",
+        "ja": "[翻訳注]  ヘブル語では「息子たち」であるが、4節で三人の娘が明記されているため、翻訳では「子供たち」を用いている。ただし、この家父長制文化においては息子たちのみが念頭に置かれていた可能性もある。"
+      },
+      {
+        "pos": 9,
+        "en": "[翻訳注]  The Hebrew verb is בָּרַךְ (barakh), which means “to bless.” Here is a case where the writer or a scribe has substituted the word “curse” with the word “bless” to avoid having the expression “curse God.” For similar euphemisms in the ancient world, see K. A. Kitchen, Ancient Orient and Old Testament, 166. It is therefore difficult to know exactly what Job feared they might have done. The opposite of “bless” would be “curse,” which normally would convey disowning or removing from blessing. Some commentators try to offer a definition of “curse” from the root in the text, and noting that “curse” is too strong, come to something like “renounce.” The idea of blaspheming is probably not meant; rather, in their festivities they may have said things that renounced God or their interest in him. Job feared this momentary turning away from God in their festivities, perhaps as they thought their good life was more important than their religion.",
+        "ja": "[翻訳注]  ヘブル語の動詞は「祝福する」を意味する בָּרַךְ（barakh）である。これは著者または書記が「神を呪う」という表現を避けるために「呪う」という語を「祝福する」に置き換えた事例である。古代世界における同様の婉曲表現については、K. A. Kitchen, Ancient Orient and Old Testament, 166 を参照。したがって、ヨブが子供たちのどのような行為を恐れていたのかを正確に知ることは困難である。「祝福する」の反対は「呪う」であり、通常は関係を断つことや祝福から排除することを意味する。一部の注解者は本文の語根から「呪う」の定義を試み、「呪う」では強すぎるとして「棄絶する」のような意味に至っている。冒涜の意味はおそらく意図されておらず、むしろ祝宴の中で彼らが神や神への関心を放棄するような発言をした可能性を指している。ヨブは、祝宴において子供たちが信仰よりも恵まれた生活を重要視し、一時的に神から心を離してしまうことを懸念したのである。"
+      },
+      {
+        "pos": 10,
+        "en": "[翻訳注]  The imperfect expresses continual action in past time, i.e., a customary imperfect (GKC 315 §107.e).",
+        "ja": "[翻訳注]  未完了形は過去における継続的な行為、すなわち習慣的未完了形を表している（GKC 315 §107.e）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  The text draws the curtain of heaven aside for the reader to understand the background of this drama. God extols the virtue of Job, but Satan challenges the reasons for it. He receives permission to try to dislodge Job from his integrity. In short, God is using Job to prove Satan’s theory wrong.",
+        "ja": "[解説]  本文は天の幕を開き、読者にこの劇の背景を理解させる。神はヨブの徳を称賛するが、サタンはその動機に異議を唱える。サタンはヨブを誠実さから引き離す試みの許可を得る。要約すれば、神はサタンの主張の誤りを証明するためにヨブを用いているのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The beginning Hebrew expression “and there was – the day” indicates that “there came a day when” or more simply “the day came when.” It emphasizes the particular day. The succeeding clause is then introduced with a preterite with the with vav (ו) consecutive (see E. Dhorme, Job, 5).",
+        "ja": "[翻訳注]  冒頭のヘブル語表現「そしてその日があった」は「〜という日が来た」あるいは単に「ある日」を意味する。これは特定の日を強調している。続く節は vav（ו）連続態を伴う完了形（過去形）によって導かれる（E. Dhorme, Job, 5 を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The “sons of God” in the OT is generally taken to refer to angels. They are not actually “sons” of Elohim; the idiom is a poetic way of describing their nature and relationship to God. The phrase indicates their supernatural nature, and their submission to God as the sovereign Lord. It may be classified as a genitive that expresses how individuals belong to a certain class or type, i.e., the supernatural (GKC 418 §128.v). In the pagan literature, especially of Ugarit, “the sons of God” refers to the lesser gods or deities of the pantheon. See H. W. Robinson, “The Council of Yahweh,” JTS 45 (1943): 151-57; G. Cooke, “The Sons of (the) God(s),” ZAW 76 (1964): 22-47; M. Tsevat, “God and the Gods in the Assembly,” HUCA 40-41 (1969/70): 123-37.",
+        "ja": "[解説]  旧約聖書における「神の子ら」は一般に御使いたち（天使たち）を指すと解釈される。彼らはエロヒムの実際の「息子」ではなく、この慣用句はその性質や神との関係を描写する詩的表現である。この句は彼らの超自然的な性質と、主権者である神への服従を示している。特定の類や型（超自然的存在）に属することを表す属格に分類できる（GKC 418 §128.v）。異教文学、特にウガリットの文献では「神の子ら」はパンテオンの下位の神々を指す。H. W. Robinson, “The Council of Yahweh,” JTS 45 (1943): 151-57; G. Cooke, “The Sons of (the) God(s),” ZAW 76 (1964): 22-47; M. Tsevat, “God and the Gods in the Assembly,” HUCA 40-41 (1969/70): 123-37 を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The preposition עַל (’al) in this construction after a verb of standing or going means “before” (GKC 383 §119.cc).",
+        "ja": "[翻訳注]  立つ、または行く動詞の後に続くこの構文の前置詞 עַל（'al）は「〜の前に」を意味する（GKC 383 §119.cc）。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The word means “adversary” or with the article “the adversary” – here the superhuman adversary or Satan. The word with the article means that the meaning of the word should receive prominence. A denominative verb meaning “to act as adversary” occurs. Satan is the great accuser of the saints (see  where “Satan was standing there to ‘satanize’ Joshua the priest”; and see  which identifies him with the Serpent in Genesis). He came among the angels at this time because he is one of them and has access among them. Even though fallen, Satan has yet to be cast down completely (see ).",
+        "ja": "[解説]  この語は「敵対者」、冠詞付きでは「その敵対者」を意味し、ここでは超人的な敵対者すなわちサタンを指す。冠詞が付くことは、この語の意味が際立たされるべきであることを示している。「敵対者として行動する」を意味する派生動詞も存在する。サタンは聖徒たちの大いなる告発者である（大祭司ヨシュアを告発するためにサタンが立っていたゼカリヤ書や、創世記の蛇と同一視する箇所を参照）。彼がこのとき御使いたちの中に混じって来たのは、彼自身が彼らの一員であり、彼らの中に出入りする権利を持っていたからである。堕落しているとはいえ、サタンはまだ最終的に投げ落とされてはいない。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The imperfect may be classified as progressive imperfect; it indicates action that although just completed is regarded as still lasting into the present (GKC 316 §107.h).",
+        "ja": "[翻訳注]  この未完了形は進行的未完了形に分類され、完了したばかりであるものの現在にまで影響が続いているとみなされる行為を示している（GKC 316 §107.h）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “answered the Lord and said” (also in v. 9). The words “and said” here and in v. 9 have not been included in the translation for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語では「主に答えて言った」（9節も同様）。文体上の理由から、ここおよび9節の「言った」に相当する重複表現は翻訳において整理されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb שׁוּט (shut) means “to go or rove about” (BDB 1001-2 s.v.). Here the infinitive construct serves as the object of the preposition.",
+        "ja": "[翻訳注]  動詞 שׁוּט（shut）は「行き巡る、歩き回る」を意味する（BDB 1001-2 s.v.）。ここでは不定詞連語形が前置詞の目的語として機能している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hitpael (here also an infinitive construct after the preposition) of the verb הָלַךְ (halakh) means “to walk to and fro, back and forth, with the sense of investigating or reconnoitering (see e.g. Gen 13:17).[解説]  As the words are spoken by Satan, there is no self-condemnation in them. What they signify is the swiftness and thoroughness of his investigation of humans. The good angels are said to go to and fro in the earth on behalf of the suffering righteous (Zech 1:10, 11; 6:7), but Satan goes seeking whom he may devour (1 Pet 5:8).",
+        "ja": "[翻訳注]  動詞 הָלַךְ（halakh）のヒットパエル態（ここでも前置詞の後の不定詞連語形）は、調査や偵察の意味合いを込めて「あちらこちらを行き来する、歩き回る」ことを意味する（創世記 13:17 など参照）。[解説] サタンによって語られたこれらの言葉には自己批判のニュアンスはない。それが意味しているのは、人間に対する彼の調査の迅速さと徹底ぶりである。善き御使いたちは苦難にある義人のために地を行き巡ると言われているが（ゼカリヤ 1:10, 11、6:7）、サタンは食い尽くすべき者を探し求めて歩き回っている（ペテロの手紙一 5:8）。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew has “have you placed your heart on Job?” This means “direct your mind to” (cf. BDB 963 s.v. I שׂוּם 2.b).[解説]  The question is undoubtedly rhetorical, for it is designed to make Satan aware of Job as God extols his fine qualities.",
+        "ja": "[翻訳注]  ヘブル語では「ヨブに心を留めたか（心を置いたか）」となっている。これは「〜に心を向ける、配慮する」を意味する（BDB 963 s.v. I שׂוּם 2.b を参照）。[解説] この問いは修辞的なものであり、神がヨブの優れた資質を称賛し、サタンにヨブを意識させることを意図している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew conjunction כִּי (ki) need not be translated in this case or it might be taken as emphatic (cf. IBHS 665 §39.3.4e): “Certainly there is no one like him.”",
+        "ja": "[翻訳注]  ヘブル語の接続詞 כִּי（ki）はこの場合翻訳する必要がないか、あるいは「確かに彼のような者はいない」という強調として捉えることができる（IBHS 665 §39.3.4e を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The same expressions that appeared at the beginning of the chapter appear here in the words of God. In contrast to that narrative report about Job, the emphasis here is on Job’s present character, and so the participle form is translated here asa gnomic or characteristic present (“turns”). It modifies “man” as one who is turning from evil.",
+        "ja": "[翻訳注]  この章の冒頭に現れたものと同じ表現が、ここでの神の言葉にも現れている。ヨブに関する物語の記述とは対照的に、ここではヨブの現在の性格に重点が置かれているため、分詞形は格言的・特徴的現在形（「避ける」）として翻訳されている。これは悪を避けている者として「人」を修飾している。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew form has the interrogative ה (he) on the adverb חִנָּם (khinnam, “gratis”), a derivative either of the verb חָנַן (khanan, “to be gracious, show favor”), or its related noun חֵן (khen, “grace, favor”). The adverb has the sense of “free; gratis; gratuitously; for nothing; for no reason” (see BDB 336 s.v. חִנָּם). The idea is that Satan does not disagree that Job is pious, but that Job is loyal to God because of what he receives from God. He will test the sincerity of Job.",
+        "ja": "[翻訳注]  ヘブル語の形は、動詞 חָנַן（khanan、「恵みを示す、好意を寄せる」）またはその関連名詞 חֵן（khen、「恵み、好意」）の派生語である副詞 חִנָּם（khinnam、「無償で」）に疑問詞 ה（he）が付いたものである。この副詞には「無償で、理由もなく、何の報酬もなしに」という意味がある（BDB 336 s.v. חִנָּם を参照）。サタンはヨブが敬虔であることを否定しているのではなく、ヨブが神から恩恵を受けているがゆえに神に忠実であると主張しているのである。彼はヨブの誠実さを試そうとしている。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The use of the independent personal pronoun here emphasizes the subject of the verb: “Have you not put up a hedge.”",
+        "ja": "[翻訳注]  ここで独立人称代名詞が用いられていることは、動詞の主語を強調している（「あなたご自身が垣を巡らされたではないか」）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb שׂוּךְ (sukh) means “to hedge or fence up, about” something (BDB 962 s.v. I שׂוּךְ). The original idea seems to have been to surround with a wall of thorns for the purpose of protection (E. Dhorme, Job, 7). The verb is an implied comparison between making a hedge and protecting someone.",
+        "ja": "[翻訳注]  動詞 שׂוּךְ（sukh）は「垣根や柵で囲む」を意味する（BDB 962 s.v. I שׂוּךְ）。本来の概念は保護のために茨の壁で囲むことであったと考えられる（E. Dhorme, Job, 7）。この動詞は、垣根を作ることと誰かを保護することとの間の暗黙の比較である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Here the verb “bless” is used in one of its very common meanings. The verb means “to enrich,” often with the sense of enabling or empowering things for growth or fruitfulness. See further C. Westermann, Blessing in the Bible and the Life of the Church (OBT).",
+        "ja": "[解説]  ここで動詞「祝福する」は極めて一般的な意味の一つで用いられている。この動詞は「豊かにする」を意味し、多くの場合、成長や結実を可能にする力を与えるという意味合いを持つ。詳細は C. Westermann, Blessing in the Bible and the Life of the Church (OBT) を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “substance.” The herds of livestock may be taken by metonymy of part for whole to represent possessions or prosperity in general.",
+        "ja": "[翻訳注]  あるいは「資産」。家畜の群れは、財産や繁栄全般を表す換喩（一部をもって全体を表す）として解釈できる。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The verb פָּרַץ (parats) means “to break through.” It has the sense of abundant increase, as in breaking out, overflowing (see also Gen 30:30 and Exod 1:12).",
+        "ja": "[翻訳注]  動詞 פָּרץ（parats）は「突破する、打ち破る」を意味する。溢れ出る、急増するという意味で豊かに増えることを表す（創世記 30:30、出エジプト記 1:12 も参照）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The particle אוּלָם (’ulam, “but”) serves to restrict the clause in relation to the preceding clause (IBHS 671-73 §39.3.5e, n. 107).",
+        "ja": "[翻訳注]  不変化詞 אוּלָם（'ulam、「しかし」）は、先行する節との関係においてその節を限定する役割を果たす（IBHS 671-73 §39.3.5e, n. 107）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The force of the imperatives in this sentence are almost conditional – if God were to do this, then surely Job would respond differently.[解説]  The two imperatives (“stretch out” and “strike”) and the word “hand” all form a bold anthropomorphic sentence. It is as if God would deliver a blow to Job with his fist. But the intended meaning is that God would intervene to destroy Job’s material and physical prosperity.",
+        "ja": "[翻訳注]  この文における命令形のニュアンスは条件文に近く、仮に神がこうされるなら、ヨブは必ず違った反応を示すだろうという意味を持つ。[解説] 二つの命令形（「手を伸ばせ」「打て」）と「手」という語は、大胆な擬人観的表現を形成している。まるで神が拳でヨブに一撃を加えるかのようである。しかし意図された意味は、神が介入してヨブの物質的・肉体的な繁栄を滅ぼすことである。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The formula used in the expression is the oath formula: “if not to your face he will curse you” meaning “he will surely curse you to your face.” Satan is so sure that the piety is insincere that he can use an oath formula.",
+        "ja": "[解説]  この表現で用いられている定型句は誓いの定型句であり、「もし面と向かってあなたを呪わないならば（私は罰を受けてもよい）」、すなわち「彼は必ず面と向かってあなたを呪う」を意味する。サタンはヨブの敬虔が不誠実なものであると確信しているため、誓いの形式を用いることができている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  See the comments on Job 1:5. Here too the idea of “renounce” may fit well enough; but the idea of actually cursing God may not be out of the picture if everything Job has is removed. Satan thinks he will denounce God.",
+        "ja": "[翻訳注]  ヨブ記 1:5 の解説を参照。ここでも「棄絶する」という概念が当てはまる可能性があるが、ヨブの持つすべてのものが奪われた場合、実際に神を呪うという意図も排除されない。サタンはヨブが神を公然と非難するだろうと考えている。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The particle הִנֵּה (hinneh, “behold”) introduces a foundational clause upon which the following volitional clause is based.",
+        "ja": "[翻訳注]  不変化詞 הִנֵּה（hinneh、「見よ」）は、後続の意志節の基礎となる節を導入している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The versions add a verb here: “delivered to” or “abandoned to” the hand of Satan.",
+        "ja": "[翻訳注]  諸古代訳はここに動詞を補い、サタンの手に「引き渡された」あるいは「委ねられた」としている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in your hand.” The idiom means that it is now Satan’s to do with as he pleases.",
+        "ja": "[翻訳注]  ヘブル語では「あなたの手の中に」。この慣用句は、サタンが思い通りに処分できる状態にあることを意味する。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hebrew word order emphatically holds out Job’s person as the exception: “only upon him do not stretch forth your hand.”",
+        "ja": "[翻訳注]  ヘブル語の語順は、ヨブ自身を例外として強調して提示している（「ただ彼自身の上には、手を伸ばしてはならない」）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The Targum to Job adds “with permission” to show that he was granted leave from God’s presence.",
+        "ja": "[翻訳注]  ヨブ記のタルグム（アラム語訳）は、神の御前から去る許可が与えられたことを示すために「許可を得て」と加筆している。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  So Satan, having received his permission to test Job’s sincerity, goes out from the Lord’s presence. But Satan is bound by the will of the Most High not to touch Job himself. The sentence gives the impression that Satan’s departure is with a certain eagerness and confidence.",
+        "ja": "[解説]  こうしてサタンはヨブの誠実さを試す許可を得て、主の御前から退出する。しかしサタンはヨブ自身に触れてはならないといういと高き方の意志に拘束されている。この文は、サタンがある種の熱意と自信を持って立ち去ったという印象を与えている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[解説]  The series of catastrophes and the piety of Job is displayed now in comprehensive terms. Everything that can go wrong goes wrong, and yet Job, the pious servant of Yahweh, continues to worship him in the midst of the rubble. This section, and the next, will lay the foundation for the great dialogues in the book.",
+        "ja": "[解説]  一連の災難とヨブの敬虔さが包括的に描かれる。起こりうる最悪の事態が次々と発生するが、主の敬虔な僕であるヨブは廃墟の中でも主を礼拝し続ける。この区分と次の区分は、本書における偉大な対話の基礎を据えることになる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Targum to Job clarifies that it was the first day of the week. The fact that it was in the house of the firstborn is the reason.",
+        "ja": "[翻訳注]  ヨブ記のタルグムは、それが週の第一日であったと説明している。長男の家であったことがその根拠である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “his”; the referent (Job) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ヘブル語では「彼の」。明確にするため、指示対象（ヨブ）が翻訳で明記されている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The use of the verb “to be” with the participle gives emphasis to the continuing of the action in the past (GKC 360 §116.r).",
+        "ja": "[翻訳注]  分詞に伴う動詞「〜である（存在動詞）」の用法は、過去における行為の継続を強調している（GKC 360 §116.r）。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The LXX has “the spoilers spoiled them” instead of “the Sabeans swooped down.” The translators might have connected the word to שְָׁבָה (shavah, “to take captive”) rather than שְׁבָא (shÿva’, “Sabeans”), or they may have understood the name as general reference to all types of Bedouin invaders from southern Arabia (HALOT 1381 s.v. שְׁבָא 2.c).[解説]  The name “Sheba” is used to represent its inhabitants, or some of them. The verb is feminine because the name is a place name. The Sabeans were a tribe from the Arabian peninsula. They were traders mostly (6:19). The raid came from the south, suggesting that this band of Sabeans were near Edom. The time of the attack seems to be winter since the oxen were plowing.",
+        "ja": "[翻訳注]  七十人訳聖書（LXX）は「シェバ人が襲撃した」ではなく「略奪者たちがそれらを略奪した」としている。翻訳者たちはこの語を שְׁבָא（shÿva'、「シェバ人」）ではなく שָׁבָה（shavah、「捕虜にする」）に結びつけたか、あるいはこの名を南アラビアからの遊牧民侵略者全般を指すものとして理解した可能性がある（HALOT 1381 s.v. שְׁבָא 2.c）。[解説] 「シェバ」という名は、その住民あるいはその一部を表すために用いられている。地名であるため動詞は女性形となっている。シェバ人はアラビア半島の部族であり、主として商人であった（6:19）。襲撃が南から行われたことは、このシェバ人の一団がエドムの近くにいたことを示唆している。牛が耕作していたことから、襲撃の時期は冬であったと見られる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew is simply “fell” (from נָפַל, nafal). To “fall upon” something in war means to attack quickly and suddenly.",
+        "ja": "[翻訳注]  ヘブル語では単に「落ちた」（נָפַל, nafal から）。戦いにおいて何かに「落ちかかる（襲いかかる）」ことは、迅速かつ急襲することを意味する。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Job’s servants were probably armed and gave resistance, which would be the normal case in that time. This was probably why they were “killed with the sword.”",
+        "ja": "[解説]  当時の通例として、ヨブの使用人たちは武装して抵抗したと考えられる。彼らが「剣の刃で殺害された」のはそのためであろう。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “the edge/mouth of the sword”; see T. J. Meek, “Archaeology and a Point of Hebrew Syntax,” BASOR 122 (1951): 31-33.",
+        "ja": "[翻訳注]  ヘブル語では「剣の刃／口によって」。T. J. Meek, “Archaeology and a Point of Hebrew Syntax,” BASOR 122 (1951): 31-33 を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The pleonasms in the verse emphasize the emotional excitement of the messenger.",
+        "ja": "[翻訳注]  この節における重複表現は、使者の感情的な興奮を強調している。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The particle עוֹד (’od, “still”) is used with the participle to express the past circumstances when something else happened (IBHS 625-26 §37.6d).",
+        "ja": "[翻訳注]  不変化詞 עוֹד（'od、「まだ」）は、別の出来事が発生した際の過去の状況を表すために分詞とともに用いられている（IBHS 625-26 §37.6d）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew expression is literally “yet/this/speaking/and this/ arrived.” The sentence uses the two demonstratives as a contrasting pair. It means “this one was still speaking when that one arrived” (IBHS 308-9 §17.3c). The word “messenger” has been supplied in the translation in vv. 16, 17, and 18 for clarity and for stylistic reasons.",
+        "ja": "[翻訳注]  ヘブル語の表現は文字通りには「まだ／これが／話している／そしてこれが／到着した」である。この文は対比的な対として二つの指示詞を用いている。「この者がまだ話しているうちに、あの者が到着した」という意味である（IBHS 308-9 §17.3c）。明瞭さと文体上の配慮から、16、17、18節の翻訳では「使者」という語が補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The “fire of God” would refer to lightning (1 Kgs 18:38; 2 Kgs 1:12; cf. NAB, NCV, TEV). The LXX simply has “fire.” The first blow came from enemies; the second from heaven, which might have confused Job more as to the cause of his troubles. The use of the divine epithet could also be an indication of the superlative degree; see D. W. Thomas, “A Consideration of Some Unusual Ways of Expressing the Superlative in Hebrew,” VT 3 (1953): 209-24.",
+        "ja": "[解説]  「神の火」は雷を指すと考えられる（列王記上 18:38、列王記下 1:12、NAB、NCV、TEV 等を参照）。七十人訳聖書（LXX）は単に「火」としている。第一の打撃は敵から来たが、第二の打撃は天から下ったものであり、ヨブにとって苦難の原因についてさらに困惑を深めた可能性がある。また、神の称号の使用は最上級を示す表現である可能性もある。D. W. Thomas, “A Consideration of Some Unusual Ways of Expressing the Superlative in Hebrew,” VT 3 (1953): 209-24 を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “from the sky.” The Hebrew word שָׁמַיִם (shamayim) may be translated “heaven[s]” or “sky” depending on the context.",
+        "ja": "[翻訳注]  あるいは「空から」。ヘブル語の単語 שָׁמַיִם（shamayim）は文脈に応じて「天」または「空」と翻訳できる。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[解説]  The name may have been given to the tribes that roamed between the Euphrates and the lands east of the Jordan. These are possibly the nomadic Kaldu who are part of the ethnic Aramaeans. The LXX simply has “horsemen.”",
+        "ja": "[解説]  この名称は、ユーフラテス川とヨルダン東方の地の間を移動していた部族に与えられた可能性がある。これらはアラム系民族の一部である遊牧民カルドゥ（Kaldu）である可能性がある。七十人訳聖書（LXX）は単に「騎兵」としている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb פָּשַׁט (pashat) means “to hurl themselves” upon something (see Judg 9:33, 41). It was a quick, plundering raid to carry off the camels.",
+        "ja": "[翻訳注]  動詞 פָּשַׁט（pashat）は「〜に突進する、襲いかかる」を意味する（士師記 9:33, 41 を参照）。これはらくだを略奪して連れ去るための迅速な襲撃であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “with the edge/mouth of the sword.”",
+        "ja": "[翻訳注]  ヘブル語では「剣の刃／口によって」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The use of the particle הִנֵּה (hinneh, “behold”) in this sentence is deictic, pointing out with excitement the events that happened as if the listener was there.",
+        "ja": "[翻訳注]  この文における不変化詞 הִנֵּה（hinneh、「見よ」）の用法は直示的であり、まるで聞き手がその場に居合わせたかのように、起きた出来事を臨場感をもって指し示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Both wind and lightning (v. 16) were employed by Satan as his tools. God can permit him such control over factors of the weather when it suits the divine purpose, but God retains ultimate control (see 28:23-27; Prov 3:4; Luke 8:24-25).",
+        "ja": "[解説]  風も雷（16節）もサタンによって道具として用いられた。神の目的に適うとき、神はサタンに気象現象を操る一定の権限を許可されることがあるが、究極的な統治権は神が保持しておられる（28:23-27、箴言 3:4、ルカによる福音書 8:24-25 を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The word מֵעֵבֶר (me’ever) is simply “from the direction of”; the word עֵבֶר (’ever) indicates the area the whirlwind came across.",
+        "ja": "[翻訳注]  単語 מֵעֵבֶר（me'ever）は単に「〜の方向から」であり、語 עֵבֶר（'ever）はつむじ風が通過してきた地域を示している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb וַיָּקָם (vayyaqom, “and he arose”) indicates the intentionality and the rapidity of the actions to follow. It signals the beginning of his response to the terrible news. Therefore, the sentence could be translated, “Then Job immediately began to tear his robe.”",
+        "ja": "[翻訳注]  動詞 וַיָּקָם（vayyaqom、「そして彼は立ち上がった」）は、それに続く行動の意図性と迅速さを示している。それは恐ろしい知らせに対する彼の反応の始まりを告げている。したがって、この文は「ヨブは立ち上がり、上着を裂き始めた」と翻訳することもできる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  It was the custom to tear the robe in a time of mourning, to indicate that the heart was torn (Joel 2:13). The “garment, mantel” here is the outer garment frequently worn over the basic tunic. See further D. R. Ap-Thomas, “Notes on Some Terms Relating to Prayer,” VT 6 (1956): 220-24.",
+        "ja": "[解説]  喪に服する際に上着を裂く習慣は、心が引き裂かれたことを表すものであった（ヨエル書 2:13）。ここでの「上着、マント」は、通常のチュニックの上に着用される外衣を指す。詳細は D. R. Ap-Thomas, “Notes on Some Terms Relating to Prayer,” VT 6 (1956): 220-24 を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  In mourning one normally put off every adornment that enhanced or embellished the person, including that which nature provided (Jer 7:29; Mic 1:16).",
+        "ja": "[解説]  哀悼の際には、自然に備わったものを含め、身を飾るあらゆる装飾を取り去るのが通常であった（エレミヤ書 7:29、ミカ書 1:16）。"
+      },
+      {
+        "pos": 4,
+        "en": "wah,” OTS (1977): 41-55.",
+        "ja": "wah,” OTS (1977): 41-55."
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The adjective “naked” is functioning here as an adverbial accusative of state, explicative of the state of the subject. While it does include the literal sense of nakedness at birth, Job is also using it symbolically to mean “without possessions.”",
+        "ja": "[翻訳注]  形容詞「裸で」はここでは状態を表す副詞的対格として機能し、主語の状態を説明している。出生時の文字通りの裸の意味も含んでいるが、ヨブはこれを「財産を持たない」という象徴的な意味でも用いている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  While the first half of the couplet is to be taken literally as referring to his coming into this life, this second part must be interpreted only generally to refer to his departure from this life. It is parallel to 1 Tim 6:7, “For we have brought nothing into this world and so we cannot take a single thing out either.”",
+        "ja": "[解説]  対句の前半はこの世に生まれてきたことを指す文字通りの意味として解釈されるのに対し、後半はこの世を去ることを指す一般的な表現として解釈されるべきである。これは「私たちは何も持たずに世に入って来たのであり、何かを持って出ることもできない」（テモテへの手紙一 6:7）と平行している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The two verbs are simple perfects. (1) They can be given the nuance of gnomic imperfect, expressing what the sovereign God always does. This is the approach taken in the present translation. Alternatively (2) they could be referring specifically to Job’s own experience: “Yahweh gave [definite past, referring to his coming into this good life] and Yahweh has taken away” [present perfect, referring to his great losses]. Many English versions follow the second alternative.",
+        "ja": "[翻訳注]  二つの動詞は単純完了形である。(1) 主権者たる神が常に行われることを表す格言的未完了形のニュアンスを与えることができる。本翻訳はこの見解に基づいている。あるいは (2) ヨブ自身の具体的な体験を指していると解釈することもできる（「主は与え［恵まれた人生への進入を指す明確な過去］、主は奪われた［甚大な喪失を指す現在完了］」）。多くの英語訳は第二の見解に従っている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Some commentators are troubled by the appearance of the word “Yahweh” on the lips of Job, assuming that the narrator inserted his own name for God into the story-telling. Such thinking is based on the assumption that Yahweh was only a national god of Israel, unknown to anyone else in the ancient world. But here is a clear indication that a non-Israelite, Job, knew and believed in Yahweh.",
+        "ja": "[解説]  一部の注解者は、ヨブの口から「主（ヤハウェ）」という御名が出ることに難色を示し、語り手が物語の中に神の名を挿入したと仮定している。そのような考えは、ヤハウェがイスラエル民族固有の神にすぎず古代世界の他の人々には知られていなかったという前提に基づいている。しかしこれは、イスラエル人ではないヨブが主（ヤハウェ）を知り、信じていたことを示す明確な証左である。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The last clause is difficult to translate. It simply reads, “and he did not give unseemliness to God.” The word תִּפְלָה (tiflah) means “unsavoriness” or “unseemliness” in a moral sense. The sense is that Job did not charge God with any moral impropriety in his dealings with him. God did nothing worthless or tasteless. The ancient versions saw the word connected with “foolishness” or “stupidity” (תָּפֵל, tafel, “to be tasteless”). It is possible that “folly” would capture some of what Job meant here. See also M. Dahood, “Hebrew-Ugaritic Lexicography XII,” Bib 55 (1974): 381-93.",
+        "ja": "[翻訳注]  最後の節は翻訳が困難である。文字通りには「彼は神に見苦しいことを帰さなかった」とある。単語 תִּפְלָה（tiflah）は道徳的な意味での「不快さ」や「不当さ」を意味する。その意図は、ヨブが神の扱いに対して道徳的な不当さを非難しなかったということである。神は無価値なことや不当なことは何もされなかった。古代訳はこの語を「愚かさ」（תָּפֵל, tafel、「味気ない」）と関連づけて捉えた。「愚行」という訳語も、ここでヨブが意図したことの一部を捉えている可能性がある。M. Dahood, “Hebrew-Ugaritic Lexicography XII,” Bib 55 (1974): 381-93 も参照。"
+      }
+    ]
+  }
+}

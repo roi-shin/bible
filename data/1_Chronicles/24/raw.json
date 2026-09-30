@@ -1,0 +1,272 @@
+{
+  "notes": {
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for their assignment in their service.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the sons of Eleazar were found to be more, with respect to the heads of men, than the sons of Ithamar, and they divided them. To the sons of Eleazar there were sixteen heads, according to the house of the fathers; and to the sons of Ithamar there were eight, according to the house of their fathers.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they divided them by lots, these with these, for the officials of the holy place and the officials of God were from the sons of Eleazar and among the sons of Ithamar.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;one house of a father was drawn by lot for Eleazar, and one [this assumes an emendation of <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1464;&#1495;&#1467;&#1494;</font> (&#8217;<font face=\"Scholar\">akhuz</font>) to <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1495;&#1464;&#1491;</font> (&#8217;<font face=\"Scholar\">ekhad</font>, &#8220;one&#8221;)] was drawn by lot for Ithamar.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;father.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;these were their responsibilities for their service to enter the house of the <sc>Lord</sc> according to their manner [given] by the hand of Aaron their father, as the <sc>Lord</sc> God of Israel commanded him.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Belonging to the rest of the sons of Levi.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This appears to be a variant of the name Shebuel (cf. <span class=\"bibleref\" title=\"1 Chronicles 23:16;26:24\">1 Chr 23:16 and 26:24</span>).</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Most Hebrew <sc>mss</sc> omit &#8220;Hebron&#8221; here, but see <span class=\"bibleref\" title=\"1 Chronicles 23:19\">1 Chr 23:19</span>. The name is included in two Hebrew <sc>mss</sc> and some LXX <sc>mss</sc>.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text has the plural &#8220;sons,&#8221; but only one name appears after this.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of Jaaziah, Beno.&#8221; Apparently <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1456;&#1504;&#1493;&#1465;</font> (<font face=\"Scholar\">v&#255;no</font>), which could be translated &#8220;his son,&#8221; is a proper name here. The text, however, may be corrupt at this point; a list of Jaaziah&#8217;s sons may have been accidentally omitted. See v. <span class=\"bibleref\" title=\"1 Chronicles 24:27\">27</span>.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;from Jaaziah his son.&#8221; See the note on &#8220;Beno&#8221; in v. <span class=\"bibleref\" title=\"1 Chronicles 24:26\">26</span>.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text has, &#8220;Belonging to [i.e., from] Kish, the sons of Kish, Jerahmeel.&#8221; There appears to be a conflation of headings.</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the fathers [i.e., families] of the head [i.e., oldest] just like his youngest brother.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "1",
+      "text": "The divisions of Aaron’s descendants were as follows:The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "2",
+      "text": "Nadab and Abihu died before their father did; they had no sons. Eleazar and Ithamar served as priests."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "3",
+      "text": "David, Zadok (a descendant of Eleazar), and Ahimelech (a descendant of Ithamar) divided them into groups to carry out their assigned responsibilities. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "4",
+      "text": "The descendants of Eleazar had more leaders than the descendants of Ithamar, so they divided them up accordingly; the descendants of Eleazar had sixteen leaders, while the descendants of Ithamar had eight. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "5",
+      "text": "They divided them by lots, for there were officials of the Holy Place and officials designated by God among the descendants of both Eleazar and Ithamar. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "6",
+      "text": "The scribe Shemaiah son of Nethanel, a Levite, wrote down their names before the king, the officials, Zadok the priest, Ahimelech son of Abiathar, and the leaders of the priestly and Levite families. One family was drawn by lot from Eleazar, and then the next from Ithamar. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "7",
+      "text": "The first lot went to Jehoiarib,the second to Jedaiah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "8",
+      "text": "the third to Harim,the fourth to Seorim, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "9",
+      "text": "the fifth to Malkijah,the sixth to Mijamin, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "10",
+      "text": "the seventh to Hakkoz,the eighth to Abijah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "11",
+      "text": "the ninth to Jeshua,the tenth to Shecaniah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "12",
+      "text": "the eleventh to Eliashib,the twelfth to Jakim, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "13",
+      "text": "the thirteenth to Huppah,the fourteenth to Jeshebeab, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "14",
+      "text": "the fifteenth to Bilgah,the sixteenth to Immer, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "15",
+      "text": "the seventeenth to Hezir,the eighteenth to Happizzez, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "16",
+      "text": "the nineteenth to Pethahiah,the twentieth to Jehezkel, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "17",
+      "text": "the twenty-first to Jakin,the twenty-second to Gamul, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "18",
+      "text": "the twenty-third to Delaiah,the twenty-fourth to Maaziah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "19",
+      "text": "This was the order in which they carried out their assigned responsibilities when they entered the Lord’s temple, according to the regulations given them by their ancestor Aaron, just as the Lord God of Israel had instructed him."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "20",
+      "text": "The rest of the Levites included: Shubael from the sons of Amram,Jehdeiah from the sons of Shubael, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "21",
+      "text": "the firstborn Isshiah from Rehabiah and the sons of Rehabiah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "22",
+      "text": "Shelomoth from the Izharites,Jahath from the sons of Shelomoth. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "23",
+      "text": "The sons of Hebron: Jeriah, Amariah the second, Jahaziel the third, and Jekameam the fourth. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "24",
+      "text": "The son of Uzziel: Micah;Shamir from the sons of Micah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "25",
+      "text": "The brother of Micah: Isshiah.Zechariah from the sons of Isshiah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "26",
+      "text": "The sons of Merari: Mahli and Mushi.The son of Jaaziah: Beno. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "27",
+      "text": "The sons of Merari, from Jaaziah: Beno, Shoham, Zaccur, and Ibri. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "28",
+      "text": "From Mahli: Eleazar, who had no sons. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "29",
+      "text": "From Kish: Jerahmeel. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "30",
+      "text": "The sons of Mushi: Mahli, Eder, and Jerimoth.These were the Levites, listed by their families. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "24",
+      "verse": "31",
+      "text": "Like their relatives, the descendants of Aaron, they also cast lots before King David, Zadok, Ahimelech, the leaders of families, the priests, and the Levites. The families of the oldest son cast lots along with those of the youngest. "
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "book": "Esther",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " The following events happened in the days of Ahasuerus. (I am referring to that Ahasuerus who used to rule over 127 provinces extending all the way from India to Ethiopia.) ",
+      "ja": "これらはアハシュエロスの時代に起きた出来事である。このアハシュエロスは、インドからエチオピアに至る百二十七の州を治めていた。"
+    },
+    {
+      "verse": 2,
+      "en": "In those days, as King Ahasuerus sat on his royal throne in Susa the citadel, ",
+      "ja": "当時、アハシュエロス王は城塞スサにある王座に着いていた。"
+    },
+    {
+      "verse": 3,
+      "en": "in the third year of his reign he provided a banquet for all his officials and his servants. The army of Persia and Media was present, as well as the nobles and the officials of the provinces. ",
+      "ja": "その治世の第三年に、王はすべての高官としもべたちのために祝宴を催した。そこにはペルシアとメディアの軍隊、ならびに諸州の貴族や高官たちも列席していた。"
+    },
+    {
+      "verse": 4,
+      "en": "He displayed the riches of his royal glory and the splendor of his majestic greatness for a lengthy period of time—180 days, to be exact!",
+      "ja": "王はみずからの王国の栄光の富と、その威厳に満ちた偉大さの輝きを長期間、実に百八十日間にわたって誇示した。"
+    },
+    {
+      "verse": 5,
+      "en": "When those days were completed, the king then provided a seven-day banquet for all the people who were present in Susa the citadel, for those of highest standing to the most lowly. It was held in the court located in the garden of the royal palace. ",
+      "ja": "それらの日数が過ぎると、王は城塞スサにいた身分の高い者から低い者に至るすべての民のために、王宮の庭にある中庭で七日間の祝宴を催した。"
+    },
+    {
+      "verse": 6,
+      "en": "The furnishings included white linen and blue curtains hung by cords of the finest linen and purple wool on silver rings, alabaster columns, gold and silver couches displayed on a floor made of valuable stones of alabaster, mother-of-pearl, and mineral stone. ",
+      "ja": "そこには白麻と青色の幕が、上等の亜麻糸と紫色の毛糸の紐で銀の輪と大理石の柱に結びつけられていた。大理石、真珠母、斑岩、黒石を敷き詰めた床の上には、金と銀の寝台が置かれていた。"
+    },
+    {
+      "verse": 7,
+      "en": "Drinks were served in golden containers, all of which differed from one another. Royal wine was available in abundance at the king’s expense. ",
+      "ja": "飲み物はそれぞれ形の異なる金の器で供され、王の気前のよさにふさわしく、宮廷の葡萄酒が豊富に振る舞われた。"
+    },
+    {
+      "verse": 8,
+      "en": "There were no restrictions on the drinking, for the king had instructed all his supervisors that they should do as everyone so desired. ",
+      "ja": "飲むことに関して強制はなく、王は宮殿のすべての監督官に対し、各自が望むとおりにするよう命じていた。"
+    },
+    {
+      "verse": 9,
+      "en": "Queen Vashti also gave a banquet for the women in King Ahasuerus’ royal palace. ",
+      "ja": "王妃ワシュティもまた、アハシュエロス王の王宮で女性たちのための祝宴を催した。"
+    },
+    {
+      "verse": 10,
+      "en": "On the seventh day, as King Ahasuerus was feeling the effects of the wine, he ordered Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, the seven eunuchs who attended him,",
+      "ja": "七日目に、葡萄酒によって陽気になったアハシュエロス王は、自分に仕える七人の宦官、メフマン、ビズタ、ハルボナ、ビグタ、アバグタ、ゼタル、カルカスに命じた。"
+    },
+    {
+      "verse": 11,
+      "en": "to bring Queen Vashti into the king’s presence wearing her royal high turban. He wanted to show the people and the officials her beauty, for she was very attractive. ",
+      "ja": "王冠をいただいた王妃ワシュティを王の前に連れて来るよう命じたのである。彼女の容姿が美しかったため、王は民や高官たちにその美しさを見せようとした。"
+    },
+    {
+      "verse": 12,
+      "en": "But Queen Vashti refused to come at the king’s bidding conveyed through the eunuchs. Then the king became extremely angry, and his rage consumed him.",
+      "ja": "しかし王妃ワシュティは、宦官を通じて伝えられた王の命令に従って来ることを拒んだ。王は激しく怒り、その怒りが心のうちで燃え上がった。"
+    },
+    {
+      "verse": 13,
+      "en": "The king then inquired of the wise men who were discerners of the times—for it was the royal custom to confer with all those who were proficient in laws and legalities. ",
+      "ja": "そこで王は、時をわきまえる賢人たちに諮った。法と慣例に通じたすべての人々に意見を求めることが王の習わしであったからである。"
+    },
+    {
+      "verse": 14,
+      "en": "Those who were closest to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan. These men were the seven officials of Persia and Media who saw the king on a regular basis and had the most prominent offices in the kingdom. ",
+      "ja": "王に最も近い側近は、カルシェナ、シェタル、アドラマタ、タルシシュ、メレス、マルセナ、メムカンの七人であった。彼らは王に親しく拝謁し、王国で最高の地位を占めるペルシアとメディアの七人の高官であった。"
+    },
+    {
+      "verse": 15,
+      "en": "The king asked, “By law, what should be done to Queen Vashti in light of the fact that she has not obeyed the instructions of King Ahasuerus conveyed through the eunuchs?” ",
+      "ja": "王は問うた。「王妃ワシュティが宦官を通じて伝えられたアハシュエロス王の命に従わなかったことに対し、法によれば何をなすべきか」。"
+    },
+    {
+      "verse": 16,
+      "en": "Memucan then replied to the king and the officials, “The wrong of Queen Vashti is not against the king alone, but against all the officials and all the people who are throughout all the provinces of King Ahasuerus. ",
+      "ja": "メムカンは王と高官たちの前で答えた。「王妃ワシュティの過ちは王ひとりに留まらず、アハシュエロス王の全州にいるすべての高官やすべての民に及ぶものである。"
+    },
+    {
+      "verse": 17,
+      "en": "For the matter concerning the queen will spread to all the women, leading them to treat their husbands with contempt, saying, ‘When King Ahasuerus gave orders to bring Queen Vashti into his presence, she would not come.’ ",
+      "ja": "王妃のこの振る舞いはすべての女性に知れ渡り、彼女たちが『アハシュエロス王が王妃ワシュティを王の前に連れて来るよう命じたのに、彼女は来なかった』と言って、自分の夫を侮るようになるからである。"
+    },
+    {
+      "verse": 18,
+      "en": "And this very day the noble ladies of Persia and Media who have heard the matter concerning the queen will respond in the same way to all the royal officials, and there will be more than enough contempt and anger. ",
+      "ja": "今日にも、王妃の事柄を聞いたペルシアとメディアの貴婦人たちは、王のすべての高官に対して同じように言い返すようになり、侮りと怒りが満ちることになる。"
+    },
+    {
+      "verse": 19,
+      "en": "If the king is so inclined, let a royal edict go forth from him, and let it be written in the laws of Persia and Media that cannot be repealed that Vashti may not come into the presence of King Ahasuerus, and let the king convey her royalty to another who is more deserving than she.",
+      "ja": "もし王のお心にかなうなら、王の名による勅令を出し、取り消すことのできないペルシアとメディアの法律に書き記していただきたい。すなわち、ワシュティが二度とアハシュエロス王の前に出てはならないこと、そして王が彼女の王妃の地位を彼女よりもふさわしい別の女性に与えることである。"
+    },
+    {
+      "verse": 20,
+      "en": "And let the king’s decision that he will enact be disseminated throughout all his kingdom, vast though it is. Then all the women will give honor to their husbands, from the most prominent to the lowly.” ",
+      "ja": "王が下す決定が広大な王国全体に行き渡るなら、身分の高い者から低い者に至るまで、すべての女性は自分の夫を敬うようになるであろう」。"
+    },
+    {
+      "verse": 21,
+      "en": "The matter seemed appropriate to the king and the officials. So the king acted on the advice of Memucan. ",
+      "ja": "この提案は王と高官たちにとって妥当に思われた。そこで王はメムカンの助言に従って行動した。"
+    },
+    {
+      "verse": 22,
+      "en": "He sent letters throughout all the royal provinces, to each province according to its own script and to each people according to their own language, that every man should be ruling his family and should be speaking the language of his own people. ",
+      "ja": "王は王国のすべての州に書簡を送り、州ごとの文字と民族ごとの言語に従って、すべての男子がみずからの家庭を治め、みずからの民族の言語を話すべきであると布告した。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  In the English Bible Esther appears adjacent to Ezra-Nehemiah and with the historical books, but in the Hebrew Bible it is one of five short books (the so-called Megillot) that appear toward the end of the biblical writings. The canonicity of the book was questioned by some in ancient Judaism and early Christianity. It is one of five OT books that were at one time regarded as antilegomena (i.e., books “spoken against”). The problem with Esther was the absence of any direct mention of God. Some questioned whether a book that did not mention God could be considered sacred scripture. Attempts to resolve this by discovering the tetragrammaton (YHWH) encoded in the Hebrew text (e.g., in the initial letters of four consecutive words in the Hebrew text of Esth 5:4) are unconvincing, although they do illustrate how keenly the problem was felt by some. Martin Luther also questioned the canonicity of this book, objecting to certain parts of its content. Although no copy of Esther was found among the Dead Sea Scrolls, this does not necessarily mean that the Qumran community did not regard it as canonical. It is possible that the absence of Esther from what has survived at Qumran is merely a coincidence. Although the book does not directly mention God, it would be difficult to read it without sensing the providence of God working in powerful, though at times subtle, ways to rescue his people from danger and possible extermination. The absence of mention of the name of God may be a deliberate part of the literary strategy of the writer.",
+        "ja": "[解説] 英語の聖書においてエステル記はエズラ記やネヘミヤ記と並び歴史書の中に配置されているが、ヘブライ語聖書では聖書文書の後半に位置する5つの短い書物（いわゆるメギロット）の1つである。古代ユダヤ教や初期キリスト教において、この書の正典性には疑義が呈されることがあった。かつてアンティレゴメナ（異論のある書）と見なされた旧約聖書の5書のうちの1つである。エステル記における問題は、神に対する直接の言及が一切存在しない点にあった。神についての言及がない書物を聖なる文書と見なせるのかという疑問を抱く者もいた。ヘブライ語本文にテトラグラマトン（YHWH）が暗号化されているという発見によってこの問題を解決しようとする試み（例えばエステル記5章4節のヘブライ語本文における4つの連続する単語の頭文字など）は説得力に乏しいが、この問題がいかに深刻に受け止められていたかを示している。マルティン・ルターもまた、内容の一部に反対してこの書の正典性を疑問視した。死海文書の中にエステル記の写本は見つかっていないが、これは必ずしもクムラン共同体がこの書を正典と見なしていなかったことを意味しない。クムランで残存した文書の中にエステル記が存在しないのは単なる偶然である可能性がある。この書は神に直接言及してはいないものの、神の民を危機や絶滅の可能性から救うために力強く、時には繊細な形で働く神の摂理を感じ取らずに読み進めることは難しい。神の御名への言及の欠如は、著者の意図的な文学的戦略の一部である可能性がある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “it came about”; KJV, ASV “Now it came to pass.”",
+        "ja": "[翻訳注] ヘブライ語では「そして起きた」。KJV、ASVでは「さて、起きた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Where the Hebrew text has “Ahasuerus” (so KJV, NAB, NASB, NRSV) in this book the LXX has “Artaxerxes.” The ruler mentioned in the Hebrew text is Xerxes I (ca. 486-465 B.C.), and a number of modern English versions use “Xerxes” (e.g., NIV, NCV, CEV, NLT).",
+        "ja": "[翻訳注] ヘブライ語本文が「アハシュエロス」（KJV、NAB、NASB、NRSV等）としている箇所で、七十人訳聖書（LXX）は「アルタクセルクセス」としている。ヘブライ語本文に登場する統治者はクセルクセス1世（紀元前486-465年頃）であり、多くの現代英語訳は「クセルクセス」（NIV、NCV、CEV、NLT等）を用いている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “in the days of Ahasuerus, that Ahasuerus who used to rule…” The phrase “I am referring to” has been supplied to clarify the force of the third person masculine singular pronoun, which is functioning like a demonstrative pronoun.",
+        "ja": "[翻訳注] ヘブライ語では「アハシュエロスの時代に、そのアハシュエロスは統治していた……」。指示代名詞のように機能している三人称男性単数代名詞の働きを明確にするため、「この」という語を補っている。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The geographical extent of the Persian empire was vast. The division of Xerxes’ empire into 127 smaller provinces was apparently done for purposes of administrative efficiency.",
+        "ja": "[解説] ペルシア帝国の地理的領域は広大であった。クセルクセスの帝国が127の小さな州に分割されたのは、行政上の効率を高める目的であったと考えられる。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Heb “Cush” (so NIV, NCV; KJV “Ethiopia”) referring to the region of the upper Nile in Africa. India and Cush (i.e., Ethiopia) are both mentioned in a tablet taken from the foundation of Xerxes’ palace in Persepolis that describes the extent of this empire. See ANET 316-17.",
+        "ja": "[翻訳注] ヘブライ語の「クシュ」（NIV、NCV。KJVでは「エチオピア」）は、アフリカの上ナイル地域を指す。インドとクシュ（すなわちエチオピア）は、この帝国の範囲を記述したペルセポリスのクセルクセス宮殿の礎石文書の双方に言及されている。ANET 316-17を参照。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Shushan” (so KJV, ASV). Most recent English versions render this as “Susa.”[解説]  The city of Susa served as one of several capitals of Persia during this time; the other locations were Ecbatana, Babylon, and Persepolis. Partly due to the extreme heat of its summers, Susa was a place where Persian kings stayed mainly in the winter months. Strabo indicates that reptiles attempting to cross roads at midday died from the extreme heat (Geography 15.3.10-11).",
+        "ja": "[翻訳注] ヘブライ語では「シュシャン」（KJV、ASV等）。多くの最新の英語訳はこれを「スサ」と訳している。[解説] スサの町はこの時代におけるペルシアのいくつかの首都の1つとして機能していた。他の首都はエクバタナ、バビロン、ペルセポリスであった。夏の厳しい暑さも理由の一因となり、スサはペルシア王が主に冬期を過ごす場所であった。ストラボンは、真昼に道を渡ろうとする爬虫類が極度の熱によって死んだと記している（『地理誌』15.3.10-11）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew word בִּירָה (birah) can refer to a castle or palace or temple. Here it seems to have in mind that fortified part of the city that might be called an acropolis or citadel. Cf. KJV “palace”; NAB “stronghold”; NASB “capital”; NLT “fortress.”",
+        "ja": "[翻訳注] ヘブライ語の名詞ビラー（בִּירָה, birah）は城郭、宮殿、または神殿を指すことがある。ここではアクロポリスや城塞と呼びうる町の要塞化された部分を念頭に置いていると考えられる。KJV「宮殿」、NAB「拠点」、NASB「首都」、NLT「要塞」を参照。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[解説]  The third year of Xerxes’ reign would be ca. 483 b.c.",
+        "ja": "[解説] クセルクセスの治世の第3年は紀元前483年頃に当たる。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Due to the large numbers of people implied, some scholars suggest that the original text may have read “leaders of the army” (cf. NAB “Persian and Median aristocracy”; NASB “the army officers”; NIV “the military leaders”). However, there is no textual evidence for this emendation, and the large numbers are not necessarily improbable.",
+        "ja": "[写本注] 示唆されている人数の多さから、元の本文には「軍の指導者たち」（NAB「ペルシアとメディアの貴族」、NASB「軍の将校」、NIV「軍の指導者たち」を参照）とあったのではないかと推測する学者もいる。しかし、この修正を支持する写本上の根拠はなく、その人数の多さも不自然とは限らない。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Unlike the Book of Daniel, the usual order for this expression in Esther is “Persia and Media” (cf. vv. 14, 18, 19). In Daniel the order is “Media and Persia,” indicating a time in their history when Media was in the ascendancy.",
+        "ja": "[解説] ダニエル書とは異なり、エステル記におけるこの表現の通常の順序は「ペルシアとメディア」である（14、18、19節参照）。ダニエル書では「メディアとペルシア」という順序になっており、メディアが優勢であった歴史的時期を示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The size of the banquet described here, the number of its invited guests, and the length of its duration, although certainly immense by any standard, are not without precedent in the ancient world. C. A. Moore documents a Persian banquet for 15,000 people and an Assyrian celebration with 69,574 guests (Esther [AB], 6).",
+        "ja": "[解説] ここに描写されている祝宴の規模、招待された客の数、その期間の長さは、どのような基準に照らしても壮大であるが、古代世界において前例がないわけではない。C・A・ムーアは15,000人を対象としたペルシアの祝宴や、69,574人の客を迎えたアッシリアの祝宴を報告している（Esther [AB], 6）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “many days” (so KJV, ASV); NASB, NRSV “for many days.”",
+        "ja": "[翻訳注] ヘブライ語では「多くの日」（KJV、ASV等）。NASB、NRSVでは「多くの日の間」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “to be exact!” are not in the Hebrew text but have been supplied in the translation to bring out the clarifying nuance of the time period mentioned. Cf. KJV “even an hundred and fourscore days.”",
+        "ja": "[翻訳注] 「実に（to be exact!）」に相当する語はヘブライ語本文にはないが、言及されている期間を明確にするニュアンスを出すために訳出で補われている。KJV「実に百八十日」を参照。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The Hebrew text of Esther does not indicate why this elaborate show of wealth and power was undertaken. According to the LXX these were “the days of the wedding” (αἱ ἡμέραι τοῦ γάμου, Jai Jhmerai tou gamou), presumably the king’s wedding. However, a number of scholars have called attention to the fact that this celebration takes place just shortly before Xerxes’ invasion of Greece. It is possible that the banquet was a rallying for the up-coming military effort. See Herodotus, Histories 7.8. There is no reason to adopt the longer reading of the LXX here.",
+        "ja": "[写本注] エステル記のヘブライ語本文は、なぜこのような富と権力の入念な誇示が行われたのかを明記していない。七十人訳（LXX）によれば、これらは「婚礼の日々」（αἱ ἡμέραι τοῦ γάμου）であり、王の婚礼のことであったと考えられる。しかし多くの学者は、この祝宴がクセルクセスのギリシア遠征の直前に行われたという事実に注意を促している。この祝宴は、目前に迫った軍事作戦への結束を高めるためのものであった可能性がある。ヘロドトス『歴史』7.8を参照。ここでLXXの長い読みを採用する理由はない。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The LXX has ἕξ ({ex, “six”) instead of “seven.” Virtually all English versions follow the reading of the MT here, “seven.”",
+        "ja": "[写本注] 七十人訳（LXX）は「7」ではなく「6」（ἕξ）としている。ほぼすべての英語訳はここでマソラ本文（MT）の読みである「7」に従っている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “were found.”",
+        "ja": "[翻訳注] ヘブライ語では「見出された」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “from the great and unto the small.”",
+        "ja": "[翻訳注] ヘブライ語では「大いなる者から小さき者に至るまで」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  The finest linen was byssus, a fine, costly, white fabric made in Egypt, Palestine, and Edom, and imported into Persia (BDB 101 s.v. בּוּץ; HALOT 115-16 s.v. בּוּץ).",
+        "ja": "[解説] 最高級の亜麻布はブッスス（byssus）であり、エジプト、パレスチナ、エドムで生産されペルシアに輸入された高価で上質な白い織物であった（BDB 101 s.v. בּוּץ; HALOT 115-16 s.v. בּוּץ）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew noun מִטָּה (mittah) refers to a reclining couch (cf. KJV “beds”) spread with covers, cloth and pillow for feasting and carousing (Ezek 23:41; Amos 3:12; 6:4; Esth 1:6; 7:8). See BDB 641-42 s.v.; HALOT 573 s.v.",
+        "ja": "[翻訳注] ヘブライ語の名詞ミッター（מִטָּה, mittah）は、宴会や歓談のために覆いや布、枕が敷かれた長椅子・寝台を指す（エゼキエル23:41、アモス3:12、6:4、エステル1:6、7:8）。BDB 641-42 s.v.、HALOT 573 s.v.を参照。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to cause to drink” (Hiphil infinitive construct of שָׁקָה, shaqah). As the etymology of the Hebrew word for “banquet” (מִשְׁתֶּה, mishteh, from שָׁתָה, shatah, “to drink”) hints, drinking was a prominent feature of ancient Near Eastern banquets.",
+        "ja": "[翻訳注] ヘブライ語では「飲ませる」（シャーカー［שָׁקָה, shaqah］のヒフィル不定詞構文）。「祝宴」を意味するヘブライ語（ミシュテ［מִשְׁתֶּה, mishteh］、語源はシャーター［שָׁתָה, shatah、「飲む」］）の語源が示すように、飲酒は古代近東の祝宴における際立った特徴であった。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the drinking was according to law; there was no one compelling.”",
+        "ja": "[翻訳注] ヘブライ語では「飲むことは法に従っており、強制する者はいなかった」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “every chief of his house”; KJV “all the officers of his house”; NLT “his staff.”",
+        "ja": "[翻訳注] ヘブライ語では「その家のすべての長」。KJV「宮殿のすべての役人」、NLT「彼の側近たち」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “according to the desire of man and man.”",
+        "ja": "[翻訳注] ヘブライ語では「一人ひとりの望みに従って」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[解説]  Vashti is the name of Xerxes’ queen according to the Book of Esther. But in the Greek histories of this period the queen’s name is given as Amestris (e.g., Herodotus, Histories 9.108-13). The name Vashti does not seem to occur in the nonbiblical records from this period. Apparently the two women are not to be confused, but not enough is known about this period to reconcile completely the biblical and extrabiblical accounts.",
+        "ja": "[解説] エステル記によるとワシュティはクセルクセスの王妃の名である。しかしこの時代のギリシアの歴史記述では王妃の名はアメストリスとされている（例えばヘロドトス『歴史』9.108-13など）。ワシュティという名は当時の聖書外の記録には見当たらない。この二人の女性は混同されるべきではないようだが、聖書の記述と聖書外の記録を一致させるのに十分な情報は知られていない。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “as the heart of the king was good with the wine.” Here the proper name (King Ahasuerus) has been substituted for the title in the translation for stylistic reasons.",
+        "ja": "[翻訳注] ヘブライ語では「王の心が葡萄酒によって良くなったとき」。ここでは文体上の理由から、称号の代わりに固有名詞（アハシュエロス王）が訳文に用いられている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “King Ahasuerus”; here the proper name has been replaced by the pronoun “him” in the translation for stylistic reasons. Cf. similarly NIV, NCV, CEV, NLT “King Xerxes.”",
+        "ja": "[翻訳注] ヘブライ語では「アハシュエロス王」。ここでは文体上の理由から、固有名詞が代名詞「自分」に置き換えられている。NIV、NCV、CEV、NLTの「クセルクセス王」も同様である。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “was good of appearance”; KJV “was fair to look on”; NAB “was lovely to behold.”",
+        "ja": "[翻訳注] ヘブライ語では「容姿が良かった」。KJV「見るに美しかった」、NAB「見て愛らしかった」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  Refusal to obey the king was risky even for a queen in the ancient world. It is not clear why Vashti behaved so rashly and put herself in such danger. Apparently she anticipated humiliation of some kind and was unwilling to subject herself to it, in spite of the obvious dangers. There is no justification in the biblical text for an ancient Jewish targumic tradition that the king told her to appear before his guests dressed in nothing but her royal high turban, that is, essentially naked.",
+        "ja": "[解説] 古代世界において王に従うことを拒絶することは、王妃にとっても危険なことであった。ワシュティがなぜそのように無謀に振る舞い、自らをそのような危険にさらしたのかは明確ではない。彼女は何らかの屈辱を予期し、明白な危険にもかかわらず、それに甘んじることを拒んだと考えられる。王が彼女に対して客たちの前に王冠だけを身に着けて現れるよう命じた、すなわち裸で現れるよう命じたという古代ユダヤ教のタルグムの伝承には、聖書本文上の根拠はない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “at the word of the king”; NASB “at the king’s command.”",
+        "ja": "[翻訳注] ヘブライ語では「王の言葉によって」。NASB「王の命令によって」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “burned in him” (so KJV).",
+        "ja": "[翻訳注] ヘブライ語では「彼の内で燃えた」（KJVも同様）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “judgment” (so KJV); NASB, NIV “justice”; NRSV “custom.”",
+        "ja": "[翻訳注] ヘブライ語では「裁き」（KJV等）。NASB、NIV「正義」、NRSV「慣例」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “seers of the face of the king”; NASB “who had access to the king’s presence.”",
+        "ja": "[翻訳注] ヘブライ語では「王の顔を見る者たち」。NASB「王の前に出ることができた者たち」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “were sitting first”; NAB “held first rank in the realm.”",
+        "ja": "[翻訳注] ヘブライ語では「最初に座っていた」。NAB「王国内で第一の地位を占めていた」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  These words are not present in the Hebrew text, but have been supplied in the translation for clarity (cf. NIV, NCV, CEV, NLT, all of which supply similar phrases).",
+        "ja": "[翻訳注] これらの言葉はヘブライ語本文にはないが、明確さのために訳文で補われている（同様の句を補っているNIV、NCV、CEV、NLT等を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The location of the prepositional phrase “according to law” is somewhat unusual in the Hebrew text, but not so much so as to require emendation. Some scholars suggest deleting the phrase as an instance of dittography from the final part of the immediately preceding word in v. 14. Others suggest taking the phrase with the end of v. 14 rather than with v. 15. Both proposals, however, lack adequate justification.",
+        "ja": "[写本注] 「法に従って」という前置詞句の位置はヘブライ語本文においてやや異例であるが、本文修正を要するほどではない。学者の中には、14節の直前の単語の末尾からの重複筆写（ディトグラフィー）としてこの句を削除することを提案する者もいる。また、この句を15節ではなく14節の末尾に結びつけることを提案する者もいる。しかし、いずれの提案も十分な根拠を欠いている。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  Heb “If upon the king it is good”; KJV “If it please the king.” Deferential language was common in ancient Near Eastern court language addressing a despot; it occurs often in Esther.",
+        "ja": "[解説] ヘブライ語では「もし王にとって良ければ」。KJV「もし王のお心にかなうなら」。専制君主に語りかける古代近東の宮廷言語において敬譲表現は一般的であり、エステル記にも頻繁に登場する。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Laws…that cannot be repealed. On the permanence of the laws of Media and Persia see also Esth 8:8 and Dan 6:8, 12, 15.",
+        "ja": "[解説] 「取り消すことのできない……法律」。メディアとペルシアの法律の永続性については、エステル記8章8節、ダニエル書6章8節、12節、15節も参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Previously in this chapter the word “queen” accompanies Vashti’s name (cf. vv. 9, 11, 12, 15, 16, 17). But here, in anticipation of her demotion, the title is dropped.",
+        "ja": "[解説] 本章においてこれまではワシュティの名に「王妃」という語が付されていたが（9、11、12、15、16、17節参照）、ここでは彼女の失脚を予期してその称号が外されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “her neighbor”; NIV “someone else.”",
+        "ja": "[翻訳注] ヘブライ語では「彼女の隣人」。NIV「ほかの誰か」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “who is better than she.” The reference is apparently to worthiness of the royal position as demonstrated by compliance with the king’s wishes, although the word טוֹב (tob, “good”) can also be used of physical beauty. Cf. NAB, NASB, NLT “more worthy than she.”",
+        "ja": "[翻訳注] ヘブライ語では「彼女よりも優れている者」。この言及は、王の意向に従うことによって示される王妃の地位へのふさわしさを指していると考えられるが、トーブ（טוֹב, tob、「良い」）という語は肉体的な美しさにも用いられることがある。NAB、NASB、NLT「彼女よりもふさわしい者」を参照。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “heard”; KJV, NAB, NLT “published”; NIV, NRSV “proclaimed.”",
+        "ja": "[翻訳注] ヘブライ語では「聞かれた」。KJV、NAB、NLT「公布された」、NIV、NRSV「宣言された」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The phrase “vast though it is” is not included in the LXX, although it is retained by almost all English versions.",
+        "ja": "[写本注] 「広大ではあるが」という句は七十人訳（LXX）には含まれていないが、ほぼすべての英語訳で保持されている。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  For purposes of diplomacy and governmental communication throughout the far-flung regions of the Persian empire the Aramaic language was normally used. Educated people throughout the kingdom could be expected to have competence in this language. But in the situation described in v. 22 a variety of local languages are to be used, and not just Aramaic, so as to make the king’s edict understandable to the largest possible number of people.",
+        "ja": "[解説] ペルシア帝国の広大な地域にわたる外交および統治上の伝達のためには、通常アラム語が用いられていた。王国内の教育を受けた人々はこの言語の能力を有していると期待できた。しかし22節に記された状況では、王の勅令をできるだけ多くの人々に理解させるため、アラム語だけでなく多様な現地の言語が用いられることになった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in his house”; NIV “over his own household.”",
+        "ja": "[翻訳注] ヘブライ語では「彼の家において」。NIV「みずからの家族の上に」。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  The final prepositional phrase is not included in the LXX, and this shorter reading is followed by a number of English versions (e.g., NAB, NRSV, NLT). Some scholars suggest the phrase may be the result of dittography from the earlier phrase “to each people according to its language,” but this is not a necessary conclusion. The edict was apparently intended to reassert male prerogative with regard to two things (and not just one): sovereign and unquestioned leadership within the family unit, and the right of deciding which language was to be used in the home when a bilingual situation existed.",
+        "ja": "[写本注] 最後の前置詞句は七十人訳（LXX）には含まれておらず、多くの英語訳（NAB、NRSV、NLT等）はこの短い読みに従っている。学者の中には、この句が先行する「それぞれの民族の言語に従って」からの重複筆写（ディトグラフィー）の結果である可能性を示唆する者もいるが、これは必然的な結論ではない。この勅令は、単に一つだけでなく二つの事柄、すなわち家族内における絶対的で疑う余地のない主導権と、二言語が話される状況において家庭でどの言語を用いるかを決定する権利について、男性の特権を再確認することを意図していたと考えられる。"
+      }
+    ]
+  }
+}

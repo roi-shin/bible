@@ -1,0 +1,96 @@
+# Nehemiah 1 (English)
+
+## Text
+
+**1**  These are the words of Nehemiah son of Hacaliah:It so happened that in the month of Kislev, in the twentieth year, I was in Susa the citadel. 
+
+**2** Hanani, who was one of my relatives, along with some of the men from Judah, came to me, and I asked them about the Jews who had escaped and had survived the exile, and about Jerusalem. 
+
+**3** They said to me, “The remnant that remains from the exile there in the province are experiencing considerable adversity and reproach. The wall of Jerusalem lies breached, and its gates have been burned down!”
+
+**4** When I heard these things I sat down abruptly, crying and mourning for several days. I continued fasting and praying before the God of heaven. 
+
+**5** Then I said, “Please, O Lord God of heaven, great and awesome God, who keeps his loving covenant with those who love him and obey his commandments, 
+
+**6** may your ear be attentive and your eyes be open to hear the prayer of your servant that I am praying to you today throughout both day and night on behalf of your servants the Israelites. I am confessing the sins of the Israelites that we have committed against you—both I myself and my family have sinned. 
+
+**7** We have behaved corruptly against you, not obeying the commandments, the statutes, and the judgments that you commanded your servant Moses. 
+
+**8** Please recall the word you commanded your servant Moses: ‘If you act unfaithfully, I will scatter you among the nations. 
+
+**9** But if you repent and obey my commandments and do them, then even if your dispersed people are in the most remote location, I will gather them from there and bring them to the place I have chosen for my name to reside.’ 
+
+**10** They are your servants and your people, whom you have redeemed by your mighty strength and by your powerful hand. 
+
+**11** Please, Lord, listen attentively to the prayer of your servant and to the prayer of your servants who take pleasure in showing respect to your name. Grant your servant success today and show compassion to me in the presence of this man.” Now I was cupbearer for the king. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  In ancient Judaism Ezra and Nehemiah were regarded as a single book with dual authorship. According to the Talmud, “Ezra wrote his book” (b. Bava Batra 15a). The Gemara then asks and answers, “And who finished it? Nehemiah the son of Hacaliah.” Accordingly, the two are joined in the Leningrad Codex (ca. A.D. 1008), the manuscript upon which modern printed editions of the Hebrew Bible (e.g., BHK and BHS) are based.
+
+### Verse 1 - Note 2
+[解説]  The name Nehemiah in Hebrew (נְחֶמְיָה, nÿkhemyah) means “the LORD comforts.”
+
+### Verse 1 - Note 3
+[翻訳注]  That is, the twentieth year of King Artaxerxes’ reign (cf. 2:1).
+
+### Verse 1 - Note 4
+[翻訳注]  Heb “Shushan.”
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “brothers.”
+
+### Verse 2 - Note 2
+[翻訳注]  The Hebrew text does not include the words “to me”; these words were supplied in the translation for the sake of clarity.
+
+### Verse 2 - Note 3
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “great.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “have been burned with fire” (so also in Neh 2:17). The expression “burned with fire” is redundant in contemporary English; the translation uses “burned down” for stylistic reasons.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “sat down.” Context suggests that this was a rather sudden action, resulting from the emotional shock of the unpleasant news, so “abruptly” has been supplied in the present translation.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “the covenant and loyal love.” The phrase is a hendiadys: the first noun retains its full nominal sense, while the second noun functions adjectivally (“loyal love” = loving). Alternately, the first might function adjectivally and the second noun function as the noun: “covenant and loyal love” = covenant fidelity (see Neh 9:32).
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “keep.” The Hebrew verb שָׁמַר (shamar, “to observe; to keep”) is often used as an idiom that means “to obey” the commandments of God (e.g., Exod 20:6; Deut 5:16; 23:24; 29:8; Judg 2:22; 1 Kgs 2:43; 11:11; Ps 119:8, 17, 34; Jer 35:18; Ezek 17:14; Amos 2:4). See BDB 1036 s.v. 3.c.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “have sinned.” For stylistic reasons – to avoid redundancy in English – this was translated as “committed.”
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “the house of my father.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “peoples.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “turn to me.”
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “keep.” See the note on the word “obey” in Neh 1:5.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “at the end of the heavens.”
+
+### Verse 11 - Note 1
+[翻訳注]  The interjection אָנָּא (’anna’) is an emphatic term of entreaty: “please!” (BDB 58 s.v.; HALOT 69-70 s.v.). This term is normally reserved for pleas for mercy from God in life-and-death situations (2 Kgs 20:3 = Isa 38:3; Pss 116:4; 118:25; Jonah 1:14; 4:2) and for forgiveness of heinous sins that would result or have resulted in severe judgment from God (Exod 32:31; Dan 9:4; Neh 1:5, 11).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “let your ear be attentive.”
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “fear.”
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “grant compassion.” The words “to me” are supplied in the translation for the sake of smoothness and style in English.
+
+### Verse 11 - Note 5
+[翻訳注]  The vav (ו) on וַאֲנִי (va’ani, “Now, I”) introduces a disjunctive parenthetical clause that provides background information to the reader.

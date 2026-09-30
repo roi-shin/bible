@@ -1,0 +1,290 @@
+# Ecclesiastes 1 (English)
+
+## Text
+
+**1** The words of the Teacher, the son of David, king in Jerusalem: 
+
+**2** “Futile! Futile!” laments the Teacher. “Absolutely futile! Everything is futile!” 
+
+**3** What benefit do people get from all the effort which they expend on earth? 
+
+**4** A generation comes and a generation goes, but the earth remains the same through the ages. 
+
+**5** The sun rises and the sun sets; it hurries away to a place from which it rises again.
+
+**6** The wind goes to the south and circles around to the north; round and round the wind goes and on its rounds it returns. 
+
+**7** All the streams flow into the sea, but the sea is not full, and to the place where the streams flow, there they will flow again. 
+
+**8** All this monotony is tiresome; no one can bear to describe it. The eye is never satisfied with seeing, nor is the ear ever content with hearing. 
+
+**9** What exists now is what will be, and what has been done is what will be done; there is nothing truly new on earth. 
+
+**10** Is there anything about which someone can say, “Look at this! It is new”? It was already done long ago, before our time. 
+
+**11** No one remembers the former events, nor will anyone remember the events that are yet to happen; they will not be remembered by the future generations.
+
+**12** I, the Teacher, have been king over Israel in Jerusalem. 
+
+**13** I decided to carefully and thoroughly examine all that has been accomplished on earth. I concluded: God has given people a burdensome task that keeps them occupied. 
+
+**14** I reflected on everything that is accomplished by man on earth, and I concluded: Everything he has accomplished is futile—like chasing the wind! 
+
+**15** What is bent cannot be straightened, and what is missing cannot be supplied. 
+
+**16** I thought to myself, “I have become much wiser than any of my predecessors who ruled over Jerusalem; I have acquired much wisdom and knowledge.” 
+
+**17** So I decided to discern the benefit of wisdom and knowledge over foolish behavior and ideas; however, I concluded that even this endeavor is like trying to chase the wind. 
+
+**18** For with great wisdom comes great frustration; whoever increases his knowledge merely increases his heartache.
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The meaning of קֹהֶלֶת (qohelet) is somewhat puzzling. The verb קָהַל (qahal) means “to assemble, summon” (HALOT 1078-79 s.v. קהל), and is derived from the noun קָהָל (qahal, “assembly”; HALOT 1079-80 s.v. קָהָל). Thus קֹהֶלֶת might mean: (1) convener of the assembly, (2) leader, speaker, teacher, or preacher of the assembly, or (3) member of the assembly. Elsewhere in the book, קֹהֶלֶת is used in collocation with statements about his position as king in Jerusalem (Eccl 1:12), his proclamations about life (Eccl 1:2; 7:27; 12:8), and his teaching of wisdom and writing wise sayings (Eccl 12:9-10). Thus, קֹהֶלֶת probably means “the leader of the assembly” or “speaker of the assembly.”(See also the following study note.) Rabbinic literature treats קֹהֶלֶת as a traditional surname for Solomon, that is, “Qoheleth,” relating it to the noun קָהָל. For example, this explanation is found in rabbinic literature (Qoheleth Rabbah 1:1): “Why was his name called Qoheleth [קֹהֶלֶת]? Because his words were proclaimed in public meeting [קָהַל], as it is written (1 Kgs 8:1).” The LXX rendered it ἐκκλησιαστής (ekklhsiasths, “member of the assembly,” LSJ 509), as was the custom of relating Greek ἐκκλησία (ekklhsia, “assembly”) to Hebrew קָהָל. The book’s English title, “Ecclesiastes,” is simply a transliteration of the Greek term from the LXX. Symmachus’ παροιμιαστής (paroimiasths, “author of proverbs,” LSJ 1342 s.v.) is not a translation of קֹהֶלֶת but refers to his authorship of many proverbs (Eccl 12:9-10). In terms of the participial form, קֹהֶלֶת is used substantively to designate the profession or title of the author. The term is used in 12:8 with the article, indicating that it is a professional title rather than a personal surname: הַקּוֹהֶלֶת (haqqohelet, “the Teacher”). Substantival participles often designate the title or profession of an individual: כֹּהֵן (kohen), “priest”; רֹזֵן (rozen), “ruler”; שֹׁטֵר (shoter), “officer”; נֹקֵד (noqed), “sheep-breeder”; שֹׁפֵט (shofet), “judge”; יֹצֵר (yotser), “potter”; כֹּרֵם (korem), “vine-dresser”; יֹגֵב (yogev), “farmer”; שׁוֹעֵר (sho’er), “gate-keeper”; צוֹרֵף (tsoref), “smelter”; and רֹפֵא (rofe’), “doctor” (IBHS 614-15 §37.2a). In terms of its feminine ending with a male referent, Joüon 1:266-67 §89.b suggests that it is intensive, e.g., מוֹדַעַת (moda’at) “close relative” from מוֹדָע (moda’) “kinsman.” The feminine ending is used similarly in Arabic in reference to a male referent, e.g., Arabic rawiyat “a great narrator” from rawi “narrator” (C. P. Caspari, A Grammar of the Arabic Language, 1:233c). So קֹהֶלֶת may mean “the leader/teacher of the assembly” from the noun קָהָל. When used in reference to a male referent, feminine forms denote a professional title or vocational office (as in Arabic, Ethiopic, and Aramaic), e.g., סֹפֶרֶת (soferet), “scribe”; פֹּכֶרֶת (pokheret), “gazelle-catcher”; פֶּחָה (pekhah), “provincial governor”; and פְּרָעוֹת (pÿra’ot), “princes” (GKC 393 §122.r). Occasionally, a professional name later became a personal name, e.g., the title סֹפֶרֶת (“scribe”) became the name “Sophereth” (Ezra 2:55; Neh 7:57), פֹּכֶרֶת (“gazelle-catcher”) became “Pokereth” (Ezra 2:57; Neh 7:59), and perhaps קֹהֶלֶת (“assembler”) became the surname “Qoheleth” (HALOT 926 s.v. פֹּכֶרֶת הַצְּבָיִים). Many translations render קֹהֶלֶת as a professional title: “the Speaker” (NEB, Moffatt), “the Preacher” (KJV, RSV, YLT, MLB, ASV, NASB), “the Teacher” (NIV, NRSV), “the Leader of the Assembly” (NIV margin), “the Assembler” (NJPS margin). Others render it as a personal surname: “Koheleth” (JPS, NJPS) and “Qoheleth” (NAB, NRSV margin).[解説]  The verbal root קהל means “to assemble; to summon” (HALOT 1078-79 s.v. קהל). It is used of assembling or summoning various groups of people: “all Israel” (1 Chr 13:5; 15:3), “the elders of Israel” (1 Kgs 8:1; 2 Chr 5:2), all the elders of their tribes” (Deut 31:28), “all the princes of Israel” (1 Chr 28:1), “your tribes” (Deut 31:28), “all the house of Judah” (1 Kgs 12:21; 2 Chr 11:1), “the people” (Deut 4:10; 31:12), “the whole congregation” (Lev 8:3; Num 1:18; 16:19; 20:8), “all the congregation of the sons of Israel” (Exod 35:1; Num 8:9), “the assembly” (Num 10:7; 20:10), and “your assembly” (Ezek 38:13). The verb is often used in reference to summoning/assembling people for a religious occasion (Exod 35:1; Lev 8:3-4; Num 8:9; Deut 4:10; Josh 18:1; 22:12; 1 Kgs 8:1; 2 Chr 5:2-3), a political occasion (2 Sam 20:14), a military occasion (Judg 20:11; 2 Chr 11:1), or a judicial occasion (Job 11:10). The Hiphil stem is used to describe the action of the leader (usually a single individual who possesses/commands authority) summoning the people, e.g., Moses (Exod 35:1; Lev 8:3; Num 20:10), Moses and Aaron (Num 1:18), Korah (Num 16:19), King David (1 Chr 13:5; 15:3; 28:1), King Solomon (1 Kgs 8:1; 12:21; 2 Chr 5:2), and King Rehoboam (2 Chr 11:1). In almost every case, he who assembles the people is a person invested with authority; he makes a public proclamation or leads the nation in an important action. The Niphal stem is most often used to describe the people assembling at the direction of the leader (e.g., Lev 8:4; Josh 18:1; 22:12; 1 Kgs 8:2; 2 Chr 5:3). The root קהל is a denominative derived from the noun קָהָל (qahal, “assembly, contingent”; HALOT 1079-80 s.v. קָהָל). The noun has numerous referents: the congregated nation as a whole in the wilderness, assembled for ceremonies and instruction (Exod 16:3; Lev 4:13, 21; 16:17, 33; Num 10:7; 14:5; 15:15; 16:3; 17:12; 19:20; 20:4, 6, 10, 12; Deut 9:10; 10:4; 18:16); the congregation of Israel assembled for divine worship (Pss 22:23, 26; 26:5; 35:18; 40:10; 107:32; 149:1; Lam 1:10); the postexilic community assembled to hear the Torah and instruction (Neh 13:1); a military contingent assembled for warfare (Num 16:3; 20:4; Judg 20:2; 21:5, 8; 1 Sam 17:47; 2 Chr 28:14); people summoned to court (Ezek 16:40; 23:46-47); judicial authorities (Jer 26:17; Prov 5:14; 26:26; Sir 7:7). The term is often used as a designation for Israel: “the assembly of Israel” (Lev 16:17; Deut 31:30; Josh 8:35; 1 Kgs 8:14, 22, 55; 12:3; 2 Chr 6:3, 12-13; Sir 50:13, 20), “the assembly of the congregation” (Exod 12:6); “the assembly of the congregation of the sons of Israel” (Num 14:5), and “the assembly of God” (Neh 13:1). The related noun קְהִלָּה (qÿhillah) means “assembly, community” (HALOT 1080 s.v. קְהִלָּה), e.g., in the idiom נָתַן קְהִלָּה (natan qÿhillah) “to hold an assembly”: “I called a great assembly to deal with them” (Neh 5:7).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “son of David” or “a son of David.”
+
+### Verse 1 - Note 3
+[解説]  While 1:1 says only “king in Jerusalem” (מֶלֶךְ בִּירוּשָׁלָםִ, melekh birushalayim), 1:12 adds “king over Israel in Jerusalem” (בִּירוּשָׁלָםִ מֶלֶךְ עַל־יִשְׂרָאֵל, melekh ’al-yisra’el birushalayim). The LXX adds “Israel” in 1:1 to harmonize with 1:12; however, the MT makes sense as it stands. Apart from David, only Solomon was “king over Israel in Jerusalem” – unless the term “Israel” (יִשְׂרָאֵל, yisra’el) in 1:12 is used for Judah or the postexilic community. Solomon would fit the description of the author of this book, who is characterized by great wisdom (1:13, 16), great wealth (2:8), numerous servants (2:7), great projects (2:4-6), and the collection, editing and writings of many proverbs (12:9-10). All of this generally suggests Solomonic authorship. However, many scholars deny Solomonic authorship on the basis of linguistic and historical arguments.
+
+### Verse 1 - Note 4
+[解説]  The form of the title is typical: (1) “the words of [the writer],” (2) his family name or name of his father, and (3) his social/political position in Israel (e.g., Prov 22:17; 24:23; 30:1; 31:1). Sometimes, the writer’s qualifications are given in the introduction to an OT book (e.g., Jer 1:1; Amos 1:1). Qoheleth lists his qualifications at the end of the book (12:9-12).[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “says.”
+
+### Verse 2 - Note 2
+[解説]  See the note on “Teacher” in v. 1.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “futility of futilities.” The phrase “absolutely futile” (הֲבֵל הֲבָלִים, havel havalim) is a superlative genitive construction (GKC 431 §133.i). When a plural genitive follows a singular construct noun of the same root, it indicates the most outstanding example of the person or thing described. Examples: קֹדֶשׁ הַקֳּדָשִׁים (qodesh haqqodashim, “holy of holies”), i.e., “the most holy place” (Exod 26:33); שִׁיר הַשִּׁירִים (shir hashirim, “song of songs”), i.e., “the most excellent song” (Song 1:1); אֱלֹהֵי הָאֱלֹהִים וַאֲדֹנֵי הַאֱדֹנִים (’elohe ha’elohim va’adone ha’edonim, “the God of gods and Lord of lords”), i.e., “the highest God and the supreme Lord” (Deut 10:17). See also R. J. Williams, Hebrew Syntax, 17-18, §80; IBHS 154 §9.5.3j.
+
+### Verse 2 - Note 4
+[翻訳注]  Although כֹּל (kol, “everything, all”) is often used in an absolute or comprehensive sense (BDB 481 s.v. כֹּל 1), it is frequently used as a synecdoche of the general for the specific, that is, its sense is limited contextually to the topic at hand (BDB 482 s.v. 2). This is particularly true of הַכֹּל (hakkol, BDB 482 s.v. 2.b) in which the article particularizes or limits the referent to the contextual or previously mentioned topic (e.g., Gen 16:12; 24:1; Exod 29:24; Lev 1:9, 13; 8:27; Deut 2:36; Josh 11:19 [see 2 Sam 19:31; 1 Kgs 14:26 = 2 Chr 12:9]; 21:43; 1 Sam 30:19; 2 Sam 17:3; 23:5; 24:23; 1 Kgs 6:18; 2 Kgs 24:16; Isa 29:11; 65:8; Jer 13:7, 10; Ezek 7:14; Pss 14:3; 49:18; 1 Chr 7:5; 28:19; 29:19; 2 Chr 28:6; 29:28; 31:5; 35:7; 36:17-18; Ezra 1:11; 2:42; 8:34-35; 10:17; Eccl 5:8). Thus, “all” does not always mean “all” in an absolute sense or universally in comprehension. In several cases the context limits its reference to two classes of objects or issues being discussed, so הַכֹּל means “both” (e.g., 2:14; 3:19: 9:1, 2). Thus, הַכֹּל refers only to what Qoheleth characterizes as “futile” (הֶבֶל, hevel) in the context. Qoheleth does not mean that everything in an absolute, all-encompassing sense is futile. For example, the sovereign work of God is not “futile” (3:1–4:3); fearing God is not “futile” (2:26; 3:14-15; 11:9–12:1, 9, 13-14); and enjoying life as a righteous person under the blessing of God is not “futile” (2:24-26; 11:9-10). Only those objects or issues that are contextually placed under כֹּל are designated as “futile” (הֶבֶל). The context of 1:3-15 suggests that 1:2 refers to the futility of secular human endeavor. The content and referent of 1:3-15 determines the referent of הַכֹּל in 1:2.
+
+### Verse 2 - Note 5
+[翻訳注]  The term הֶבֶל (hevel, “futile”) is repeated five times within the eight words of this verse for emphasis. The noun הֶבֶל is the key word in Ecclesiastes. The root is used in two ways in the OT, literally and figuratively. The literal, concrete sense is used in reference to the wind, man’s transitory breath, evanescent vapor (Isa 57:13; Pss 62:10; 144:4; Prov 21:6; Job 7:16). In this sense, it is often a synonym for “breath” or “wind” (Eccl 1:14; Isa 57:13; Jer 10:14). The literal sense lent itself to metaphorical senses: (1) breath/vapor/wind is nonphysical, evanescent, and lacks concrete substance thus, the connotation “unsubstantial” (Jer 10:15; 16:19; 51:18), “profitless” or “fruitless” (Ps 78:33; Prov 13:11), “worthless” (2 Kgs 17:15; Jer 2:5; 10:3), “pointless” (Prov 21:6), “futile” (Lam 4:17; Eccl 1:2, 14; 2:1, 14-15), (2) breath/vapor/wind is transitory and fleeting – thus, the connotation “fleeting” or “transitory” (Prov 31:30; Eccl 6:12; 7:15; 9:9; 11:10; Job 7:16) and (3) breath/vapor/wind cannot be seen thus, the idea of “obscure,” “dark,” “difficult to understand,” “enigmatic” (Eccl 11:10). See HALOT 236-37 s.v. I הֶבֶל; BDB 210-11 s.v. I הֶבֶל. The metaphorical sense is used with the following synonyms: תֹּהוּ (tohu, “empty, vanity”; Isa 49:4), רִיק (riq, “profitless, useless”; Isa 30:7; Eccl 6:11), and לֹא הוֹעִיל (lo’ ho’il, “worthless, profitless”; Is 30:6; 57:12; Jer 16:19). It is parallel to “few days” and “[days] which he passes like a shadow” (Eccl 6:12). It is used in reference to youth and vigor (11:10) and life (6:12; 7:15; 9:9), which are “transitory” or “fleeting.” The most common parallels to הֶבֶל in Ecclesiastes are the phrases “chasing after the wind” (רְעוּת רוּחַ, rÿ’ut ruakh) in 2:11, 17, 26; 7:14 and “what profit?” (מַה־יִּתְרוֹן, mah-yyitron) or “no profit” (אֵין יִתְרוֹן, ’en yitron) in 2:11; 3:19; 6:9. It is used in reference to enigmas in life (6:2; 8:10, 14) and to the future which is obscure (11:8). It is often used in antithesis to terms connoting value: טוֹב (tov, “good, benefit, advantage”) and יֹתְרוֹן (yotÿron, “profit, advantage, gain”). Because the concrete picture of the “wind” lends itself to the figurative connotation “futile,” the motto “This is futile” (זֶה הֶבֶל, zeh hevel) is often used with the metaphor, “like striving after the wind” (רְעוּת רוּחַ, rÿ’ut ruakh) – a graphic picture of an expenditure of effort in vain because no one can catch the wind by chasing it (e.g., 1:14, 17; 2:11, 17, 26; 4:4, 6, 16; 6:9). Although it is the key word in Ecclesiastes, it should not be translated the same way in every place.[解説]  The motto Everything is futile! is the theme of the book. Its occurs at the beginning (1:2) and end of the book (12:8), forming an envelope structure (inclusio). Everything described in 1:2–12:8 is the supporting proof of the thesis of 1:2. With few exceptions (e.g., 2:24-26; 3:14-15; 11:9-12:1, 9), everything described in 1:2–12:8 is characterized as “futile” (הֶבֶל, hevel).
+
+### Verse 3 - Note 1
+[翻訳注]  The term “profit” (יֹתְרוֹן, yotÿron) is used in Ecclesiastes to evaluate the ultimate benefit/effects of human activities, as is טוֹב (tov, “good, worthwhile”) as well (e.g., 2:1, 3). While some relative advantage/profit is recognized (e.g., light over darkness, and wisdom over folly), Qoheleth denies the ultimate advantage of all human endeavors (e.g., 2:11, 15).
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “the man.” The Hebrew term could be used here in a generic sense, referring to the typical man (hence, “a man”). However, it is more likely that the form is collective and that humankind in general is in view (note NIV “man”). Note the reference to “a generation” coming and going in the next verse, as well as v. 13, where the phrase “the sons of man” (= humankind) appears. In this case the singular pronominal suffix and singular verb later in v. 3 reflect grammatical agreement, not individuality.
+
+### Verse 3 - Note 3
+[翻訳注]  The use of the relative pronoun שֶׁ (she, “which”) – rather than the more common אֲשֶׁר (’asher, “which”) – is a linguistic feature that is often used to try to date the Book of Ecclesiastes. Noting that שֶׁ is the dominant relative pronoun in Mishnaic Hebrew and that אֲשֶׁר does not appear as frequently (Jastrow 130 s.v. אֲשֶׁר), many scholars conclude that אֲשֶׁר is early and שֶׁ is late. They conclude that the use of שֶׁ in Ecclesiastes points to a late date for the book. However, as Samuel-Kings suggest, the שֶׁ versus אֲשֶׁר phenomena may simply be a dialectical issue: אֲשֶׁר is commonly used in the south, and שֶׁ in the north. The use of שֶׁ in Ecclesiastes may indicate that the book was written in a northern rather than a southern province, not that it is a late book. This is supported from related Akkadian terms which occur in texts from the same periods: אֲשֶׁר is related to asru (“place”) and שֶׁ is related to sa (“what”).
+
+### Verse 3 - Note 4
+[解説]  The Hebrew root עָמָל, (’amal, “toil”) is repeated here for emphasis: “What gain does anyone have in his toil with which he toils.” For all his efforts, man’s endeavors and secular achievements will not produce anything of ultimate value that will radically revolutionize anything in the world. The term “toil” is used in a pejorative sense to emphasize that the only thing that man obtains ultimately from all his efforts is weariness and exhaustion. Due to sin, mankind has been cursed with the futility of his labor that renders work a “toilsome” task (Gen 3:17-19). Although it was not yet revealed to Qoheleth, God will one day deliver the redeemed from this plight in the future kingdom when man’s labor will no longer be toilsome, but profitable, fulfilling, and enjoyable (Isa 65:17-23).
+
+### Verse 3 - Note 5
+[翻訳注]  Heb “under the sun.”[解説]  This rhetorical question expects a negative answer: “Man has no gain in all his toil.” Ecclesiastes often uses rhetorical questions in this manner (e.g., 2:2; 3:9; 6:8, 11, 12; see E. W. Bullinger, Figures of Speech, 949).
+
+### Verse 4 - Note 1
+[翻訳注]  The participle הֹלֵךְ (holekh, “to walk, to go”) emphasizes continual, durative, uninterrupted action (present universal use of participle). The root הָלַךְ (halakh) is repeated in this section (1:4a, 6a, 6b, 7a, 7b, 7c) to emphasize the continual action and constant motion of everything in nature. Despite the continual action of everything in nature, there is no completion, attainment or rest for anything. The first use of הָלַךְ is in reference to man; all subsequent usages are in reference to nature – illustrations of the futility of human endeavor. Note: All the key terms used in 1:4 to describe the futility of human endeavor are repeated in 1:5-11 as illustrations from nature. The literary monotony in 1:4-11 mirrors the actual monotony of human action that repeats itself with no real change.
+
+### Verse 4 - Note 2
+[翻訳注]  The participle בָּא (ba’, “to go”) emphasizes continual, durative, uninterrupted action (present universal use of participle). The term is repeated in 1:4-5 to compare the futility of secular human accomplishments with the futile actions in nature: everything is in motion, but there is nothing new accomplished.
+
+### Verse 4 - Note 3
+[翻訳注]  The participle עֹמָדֶת (’omadet, “to stand”) emphasizes a continual, durative, uninterrupted state (present universal condition). Man, despite all his secular accomplishments in all generations, makes no ultimate impact on the earth.
+
+### Verse 4 - Note 4
+[翻訳注]  The term “the same” does not appear in Hebrew, but is supplied in the translation for clarity and smoothness.
+
+### Verse 4 - Note 5
+[翻訳注]  The term עוֹלָם (’olam) has a wide range of meanings: (1) indefinite time: “long time, duration,” often “eternal” or “eternity”; (2) future time: “things to come”; and (3) past time: “a long time back,” that is, the dark age of prehistory (HALOT 798–99 s.v. עוֹלָם; BDB 761–63 s.v. III עלם). It may also denote an indefinite period of “continuous existence” (BDB 762 s.v. III עלם 2.b). It is used in this sense in reference to things that remain the same for long periods: the earth (Eccl 1:4), the heavens (Ps 148:6), ruined cities (Isa 25:2; 32:14), ruined lands (Jer 18:16), nations (Isa 47:7), families (Ps 49:12; Isa 14:20), the dynasty of Saul (1 Sam 13:13), the house of Eli (2 Sam 2:30), continual enmity between nations (Ezek 25:15; 35:5), the exclusion of certain nations from the assembly (Deut 23:4; Neh 13:1), a perpetual reproach (Ps 78:66).
+
+### Verse 5 - Note 1
+[翻訳注]  The Hebrew text has a perfect verbal form, but it should probably be emended to the participial form, which occurs in the last line of the verse. Note as well the use of participles in vv. 4-7 to describe what typically takes place in the natural world. The participle זוֹרֵחַ (zoreakh, “to rise”) emphasizes continual, durative, uninterrupted action (present universal use of participle): the sun is continually rising (and continually setting) day after day.
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “the sun goes.” The participle בָּא (ba’, “to go”) emphasizes continual, durative, uninterrupted action (present universal use of participle): the sun is continually rising and continually setting day after day. The repetition of בָּא in 1:4-5 creates a comparison between the relative futility of all human endeavor (“a generation comes and a generation goes [בָּא]”) with the relative futility of the action of the sun (“the sun rises and the sun goes” [i.e., “sets,” בָּא]).
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “hastens” or “pants.” The verb שָׁאַף (sha’af) has a three-fold range of meanings: (1) “to gasp; to pant,” (2) “to pant after; to long for,” and (3) “to hasten; to hurry” (HALOT 1375 s.v. שׁאף; BDB 983 s.v. I שָׁאַף). The related Aramaic root שׁוף means “to be thirsty; to be parched.” The Hebrew verb is used of “gasping” for breath, like a woman in the travail of childbirth (Isa 42:14); “panting” with eagerness or desire (Job 5:5; 7:2; 36:20; Ps 119:131; Jer 2:24) or “panting” with fatigue (Jer 14:6; Eccl 1:5). Here שָׁאַף personifies the sun, panting with fatigue, as it hastens to its destination (BDB 983 s.v. I שָׁאַף 1). The participle form depicts continual, uninterrupted, durative action (present universal use). Like the sun, man – for all his efforts – never really changes anything; all he accomplishes in his toil is to wear himself out.
+
+### Verse 5 - Note 4
+[翻訳注]  The verb זוֹרֵחַ (zoreakh, “to rise”) is repeated in this verse to emphasize that the sun is locked into a never changing, ever repeating monotonous cycle: rising, setting, rising, setting.
+
+### Verse 5 - Note 5
+[翻訳注]  The word “again” does not appear in Hebrew, but is supplied in the translation for clarity and smoothness.
+
+### Verse 6 - Note 1
+[翻訳注]  The Hebrew root סָבַב (savav, “to circle around”) is repeated four times in this verse to depict the wind’s continual motion: “The wind circles around (סוֹבֵב, sovev)…round and round (סוֹבֵב סֹבֵב)…its circuits (סְבִיבֹתָיו, sÿvivotayv).” This repetition is designed for a rhetorical purpose – to emphasize that the wind is locked into a never ending cycle. This vicious circle of monotonous action does not change anything. The participle form is used three times to emphasize continual, uninterrupted action (present universal use of participle). Despite the fact that the wind is always changing direction, nothing really new ever happens. The constant shifting of the wind cannot hide the fact that this is nothing but a repeated cycle; nothing new happens here (e.g., 1:9-10).
+
+### Verse 6 - Note 2
+[翻訳注]  The use of שָׁב (shav, Qal active participle masculine singular from שׁוּב, shuv, “to return”) creates a wordplay (paronomasia) with the repetition of סָבַב (savav, “to circle around”). The participle emphasizes continual, durative, uninterrupted action (present universal use).
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “are going” or “are walking.” The term הֹלְכִים (holÿkhim, Qal active participle masculine plural from הָלַךְ, halakh,“to walk”) emphasizes continual, durative, uninterrupted action (present universal use of participle). This may be an example of personification; this verb is normally used in reference to the human activity of walking. Qoheleth compares the flowing of river waters to the action of walking to draw out the comparison between the actions of man (1:4) and the actions of nature (1:5-11).
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “there they are returning to go.” The term שָׁבִים (shavim, Qal active participle masculine plural from שׁוּב, shuv, “to return”) emphasizes the continual, durative action of the waters. The root שׁוּב is repeated in 1:6-7 to emphasize that everything in nature (e.g., wind and water) continually repeats its actions. For all of the repetition of the cycles of nature, nothing changes; all the constant motion produces nothing new.[解説]  This verse does not refer to the cycle of evaporation or the return of water by underground streams, as sometimes suggested. Rather, it describes the constant flow of river waters to the sea. For all the action of the water – endless repetition and water constantly in motion – there is nothing new accomplished.
+
+### Verse 8 - Note 1
+[翻訳注]  The word “this” is not in Hebrew, but is supplied in the translation for clarity.
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “the things.” The Hebrew term דְּבָרִים (dÿvarim, masculine plural noun from דָּבָר, davar) is often used to denote “words,” but it can also refer to actions and events (HALOT 211 s.v. דָּבָר 3.a; BDB 183 s.v. דָּבָר IV.4). Here, it means “things,” as is clear from the context: “What has been is what will be, and what has been done is what will be done” (1:9). Here דְּבָרִים can be nuanced “occurrences” or even “[natural] phenomena.”
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “is able.”
+
+### Verse 8 - Note 4
+[翻訳注]  The Hebrew text has no stated object. The translation supplies “it” for stylistic reasons and clarification.[解説]  The statement no one can bear to describe it probably means that Qoheleth could have multiplied examples (beyond the sun, the wind, and the streams) of the endless cycle of futile events in nature. However, no tongue could ever tell, no eye could ever see, no ear could ever hear all the examples of this continual and futile activity.
+
+### Verse 8 - Note 5
+[翻訳注]  The term מָלֵא (male’, “to be filled, to be satisfied”) is repeated in 1:7-8 to draw a comparison between the futility in the cycle of nature and human secular accomplishments: lots of action, but no lasting effects. In 1:7 אֵינֶנּוּ מָלֵא (’enennu male’, “it is never filled”) describes the futility of the water cycle: “All the rivers flow into the sea, yet the sea is never filled.” In 1:8 וְלֹא־תִמָּלֵא (vÿlo-timmale’, “it is never satisfied”) describes the futility of human labor: “the ear is never satisfied with hearing.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “what is.” The Hebrew verbal form is a perfect. Another option is to translate, “What has been.” See the next line, which speaks of the past and the future.
+
+### Verse 9 - Note 2
+[翻訳注]  The Hebrew verbal form is an imperfect.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “under the sun.”
+
+### Verse 10 - Note 1
+[翻訳注]  Alternately, “[Even when] there is something of which someone might claim…” The terms יֵשׁ דָּבָר שֶׁיֹּאמַר (yesh davar sheyyo’mar) may be an interrogative clause without an introductory interrogative particle (GKC 473 §150.a). In questions, יֵשׁ often implies doubt about the existence of something (BDB 441 s.v. יֵשׁ 2.b). The LXX rendered it as a question, as do most English versions: “Is there anything of which it can be said…?” (KJV, ASV, RSV, MLB, NEB, NASB, NIV, NRSV). On the other hand, יֵשׁ is used elsewhere in the Book of Ecclesiastes as a predication of existence (“There is…”) to assert the existence of something (2:13, 21; 4:8, 9; 5:13[12]; 6:1, 11; 7:15; 8:6, 14; 9:4; 10:5). HALOT 443 s.v. יֵשׁ 2 renders יֵשׁ דָּבָר as “There is something….” This view is taken by several translations: “Even the thing of which we say…” (NAB), “Men may say of something …” (Moffatt), and “Sometimes there is a phenomena of which they say…” (NJPS).
+
+### Verse 10 - Note 2
+[翻訳注]  The perfect tense verb הָיָה (hayah) refers to a past perfect situation: It describes an action that is viewed as a remote past event from the perspective of the past. This past perfect situation is brought out by the temporal adverb כְּבָר (kÿvar, “already”; HALOT 459 s.v. I כְּבָר; BDB 460 s.v. I כְּבָר; cf. 1:10; 2:12, 16; 3:15; 4:2; 6:10; 9:6-7). The expression כְּבָר + הָיָה connotes a past perfect nuance: “it has already been” (Eccl 1:10; see BDB 460 s.v.).
+
+### Verse 10 - Note 3
+[解説]  This does not deny man’s creativity or inventiveness, only the ultimate newness of his accomplishments. For example, there is no essential difference between the first voyage to the moon and the discovery of America (different point of arrival, different vehicles of travel, but the same essential action and results).
+
+### Verse 10 - Note 4
+[翻訳注]  Heb “in the ages long ago before us.”
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “There is no remembrance of former things.” The term רִאשֹׁנִים (ri’shonim, “former things”) is the masculine plural form of the adjective רִאשׁוֹן (ri’shon,“former, first, chief”; BDB 911 s.v. רִאשׁוֹן). When used in a temporal sense, the singular denotes “former” in time (BDB 911 s.v. 1.a) or “first” in time (BDB 911 s.v. 2.a). The plural form is only used to denote “former” in time: “former persons,” i.e., ancestors, men of old (e.g., Lev 26:45; Deut 19:14; Job 18:20; Isa 61:4; Ps 79:8; Sirach 4:16) or “former things,” i.e., past events (e.g., Isa 41:22; 42:9; 43:9, 18; 46:9; 48:3). See BDB 911 s.v. 1.a, which suggests that this usage refers to “former persons.” This approach is adopted by several translations: “men of old” (NEB, NAB, NIV, Moffatt), “people of long ago” (NRSV), “earlier ones” (NJPS), and “former generations” (ASV). On the other hand, this Hebrew phrase may be nuanced “former things” or “earlier things” (HALOT 1168 s.v. ן(וֹ)רִאשֹׁ). This is adopted by some translations: “former things” (KJV, RSV) and “earlier things” (NASB). Although future generations are mentioned in 1:11, what they will not remember is the past events. The context of 1:3-11 focuses on human achievement, that is, former things.
+
+### Verse 11 - Note 2
+[翻訳注]  The term “remember” is not in the Hebrew text, but has been supplied in the translation for clarity.
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “and also of the last things which will be.” The term אַחֲרֹנִים (’akharonim, “the future things”) is the masculine plural form of the adjective אַחֲרוֹן (’akharon) which means “coming after” (BDB 30 s.v. אַחֲרוֹן) or “at the back” (HALOT 36 s.v. אַחֲרוֹן). When used in a temporal sense, it may mean (1) “later one; (2) “in the future”; (3) “last”; or (4) “at the last” or “in the end” (HALOT 36 s.v. 2). The plural form may be used in reference to (1) future generations, e.g., Deut 29:21; Pss 48:14; 78:4, 6; 102:19; Job 18:20; Eccl 4:16, or (2) future events, e.g., Neh 8:18 (BDB 30 s.v.). BDB 30 s.v. b suggests that this usage refers to “future generations,” while HALOT 36 s.v. 2.c suggests future events. As mentioned in the previous note, it probably refers to future events rather than future generations.[解説]  The Hebrew terms translated former events and future events create a merism (two polar extremes encompass everything in between). This encompasses all secular achievements in human history past to future things yet to be done.
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “There will not be any remembrance of them among those who come after.”[解説]  According to Qoheleth, nothing new really happens under the sun (1:9). Apparent observations of what appears to be revolutionary are due to a lack of remembrance by subsequent generations of what happened long before their time in past generations (1:10-11a). And what will happen in future generations will not be remembered by the subsequent generations to arise after them (1:11b).
+
+### Verse 12 - Note 1
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “I gave my heart” or “I set my mind.” The term לִבִּי (libbi, “my heart”) is an example of synecdoche of part (heart) for the whole (myself). Qoheleth uses this figurative expression frequently in the book. On the other hand, in Hebrew mentality, the term “heart” is frequently associated with one’s thoughts and reasoning; thus, this might be a metonymy of association (heart = thoughts). The equivalent English idiom would be “I applied my mind.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “with wisdom,” that is, with careful reflection in light of principles observed by the sages.
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “to seek and to search out” (לִדְרוֹשׁ וְלָתוּר, lidrosh vÿlatur). This is an example of a verbal hendiadys (the use of two synonymous verbs to state a common idea in an emphatic manner). The terms are used because they are closely related synonyms; therefore, the similarities in meaning should be emphasized rather than the distinctions in meaning. The verb דָּרַשׁ (darash) means “to inquire about; to investigate; to search out; to study” (HALOT 233 s.v. דרשׁ; BDB 205 s.v. דָּרַשׁ). This verb is used literally of the physical activity of investigating a matter by examining the physical evidence and interviewing eye-witnesses (e.g., Judg 6:29; Deut 13:15; 17:4, 9; 19:18), and figuratively (hypocatastasis) of mentally investigating abstract concepts (e.g., Eccl 1:13; Isa 1:17; 16:5; Pss 111:2; 119:45). Similarly, the verb תּוּר (tur) means “to seek out, discover” (HALOT 1708 s.v. תּוּר 1.c; BDB 1064 תּוּר 2). The verb תּוּר is used literally of the physical action of exploring physical territory (Num 13:16-17; 14:6, 34-36; Job 39:8), and figuratively (hypocatastasis) of mentally exploring things (Eccl 1:13; 7:25; 9:1).
+
+### Verse 13 - Note 4
+[翻訳注]  Heb “under heaven.”[解説]  Qoheleth states that he made a thorough investigation of everything that had been accomplished on earth. His position as king gave him access to records and contacts with people that would have been unavailable to others.
+
+### Verse 13 - Note 5
+[翻訳注]  This phrase does not appear in the Hebrew text, but is added in the translation for clarity.
+
+### Verse 13 - Note 6
+[翻訳注]  Heb “the sons of men/mankind.”
+
+### Verse 13 - Note 7
+[翻訳注]  The phrase עִנְיַן רָע (’inyan ra’, “rotten business, grievous task”) is used only in Ecclesiastes (1:13; 2:23, 26; 3:10; 4:8; 5:2, 13; 8:16). It is parallel with הֶבֶל (hevel) “futile” in 4:8, and describes a “grave misfortune” in 5:13. The noun עִנְיַן (’inyan, “business”) refers to something that keeps a person occupied or busy: “business; affair; task; occupation” (HALOT 857 s.v. עִנְיָן; BDB 775 s.v. עִנְיָן). The related verb עָנַה (’anah) means “to be occupied, to be busy with” (with the preposition בְּ, bet), e.g., Eccl 1:13; 3:10; 5:19 (HALOT 854 s.v. III עָנָה; BDB 775 s.v. II עָנָה). The noun is from the Aramaic loanword עִנְיָנָא (’inyana’, “concern, care”). The verb is related to the Aramaic verb “to try hard,” the Arabic verb “to be busily occupied; to worry to be a matter of concern,” and the Old South Arabic root “to be troubled; to strive with” (HALOT 854 s.v. III עָנָה). The phrase עִנְיַן רָע is treated creatively by English translations: “sore travail” (KJV, ASV), “sad travail” (YLT), “painful occupation” (Douay), “sorry business” (NEB), “sorry task” (Moffatt), “thankless task” (NAB), “grievous task” (NASB), “trying task” (MLB), “unhappy business” (RSV, NRSV, NJPS), and “heavy burden” (NIV).
+
+### Verse 13 - Note 8
+[翻訳注]  The syntax of this line in Hebrew is intentionally redundant, e.g. (literally), “It is a grievous task [or “unpleasant business”] that God has given to the sons of man to be occupied with it.” The referent of the third masculine singular suffix on לַעֲנוֹת בּוֹ (la’anot bo, “to be occupied with it”) is עִנְיַן רָע (’inyan ra’, “a grievous task, a rotten business”).
+
+### Verse 13 - Note 9
+[翻訳注]  Or “that keeps them occupied” or “that busies them.” The verb II עָנַה (’anah, “to be occupied with”) is related to the noun עִנְיַן (’inyan, “business, task, occupation”) which also occurs in this verse. The verb עָנַה means “to be occupied, to be busy with” (with the preposition בְּ, bet), e.g., Eccl 1:13; 3:10; 5:19 (HALOT 854 s.v. III עָנָה; BDB 775 s.v. עָנָה). The Hebrew verb is related to the Aramaic verb “to try hard,” the Arabic verb “to be busily occupied; to worry; to be a matter of concern,” and the Old South Arabic root “to be troubled; to strive with” (HALOT 854).
+
+### Verse 14 - Note 1
+[翻訳注]  The phrase “by man” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “under the sun.”
+
+### Verse 14 - Note 3
+[翻訳注]  As mentioned in the note on “everything” in 1:2, the term הַכֹּל (hakkol, “everything”) is often limited in reference to the specific topic at hand in the context (e.g., BDB 482 s.v. כֹּל 2). The argument of 1:12-15, like 1:3-11, focuses on secular human achievement. This is clear from the repetition of the root עָשַׂה (’asah, “do, work, accomplish, achieve”) in 1:12-13.
+
+### Verse 14 - Note 4
+[翻訳注]  The phrase “he has accomplished” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 14 - Note 5
+[翻訳注]  This usage of הֶבֶל (hevel) denotes “futile, profitless, fruitless” (e.g., 2 Kgs 17:15; Ps 78:33; Prov 13:11; 21:6; Eccl 1:2, 14; 2:1, 14-15; 4:8; Jer 2:5; 10:3; Lam 4:17; see HALOT 236–37 s.v. I הֶבֶל; BDB 210–11 s.v. I הֶבֶל). The term is used with the simile “like striving after the wind” (רְעוּת רוּחַ, rÿ’ut ruakh) – a graphic picture of an expenditure of effort in vain because no one can catch the wind by chasing it (e.g., 1:14, 17; 2:11, 17, 26; 4:4, 6, 16; 6:9; 7:14). When used in this sense, the term is often used with the following synonyms: לְתֹהוּ (lÿtohu, “for nothing, in vain, for no reason”; Isa 49:4); רִיק (riq, “profitless; useless”; Isa 30:7; Eccl 6:11); לֹא הוֹעִיל (“worthless, profitless”; Is 30:6; 57:12; Jer 16:19); “what profit?” (מַה־יִּתְרוֹןֹ, mah-yyitron); and “no profit” (אֵין יִּתְרוֹן, en yyitron; e.g., 2:11; 3:19; 6:9). It is also used in antithesis to terms connoting value: טוֹב (tov, “good, benefit, advantage”) and יֹתְרוֹן (yotÿron, “profit, advantage, gain”). Despite everything that man has accomplished in history, it is ultimately futile because nothing on earth really changes.
+
+### Verse 14 - Note 6
+[翻訳注]  Heb “striving of wind.” The word “like” does not appear in the Hebrew text; it has been added in the translation to make the comparative notion clear.
+
+### Verse 15 - Note 1
+[翻訳注]  The term מְעֻוָּת, mÿ’uvvat (Pual participle masculine singular from עָוַת, ’avat, “to bend”) is used substantively (“what is bent; what is crooked”) in reference to irregularities in life and obstacles to human secular achievement accomplishing anything of ultimate value.
+
+### Verse 15 - Note 2
+[翻訳注]  A parallel statement occurs in 7:13 which employs the active form of עָוַת, (’avat, “to bend”) with God as the subject: “Who is able to strengthen what God bends?” The passive form occurs here: “No one is able to straighten what is bent” (מְעֻוָּת לֹא־יוּכַל לֹתְקֹן, mÿ’uvvat lo’-yukhal lotÿqon). In the light of 7:13, the personal agent of the passive form is God.
+
+### Verse 15 - Note 3
+[翻訳注]  The Hebrew noun חֶסְרוֹן (khesron) is used in the OT only here and means “what is lacking” (as an antonym to יִתְרוֹן [yitron], “what is profitable”; HALOT 339 s.v. חֶסְרוֹן; BDB 341 s.v. חֶסְרוֹן). It is an Aramaic loanword meaning “deficit.” The related verb חָסַר (khasar) means “to lack, to be in need of, to decrease, to lessen [in number]”; the related noun חֹסֶר (khoser) refers to “one in want of”; and the noun חֶסֶר (kheser) means “poverty, want” (HALOT 338 s.v. חֶסֶר; BDB 341 s.v. חֶסֶר). It refers to what is absent (zero in terms of quantity) rather than what is deficient (poor in terms of quality). The LXX misunderstood the term and rendered it as ὑστέρημα (usterhma, “deficiency”): “deficiency cannot be numbered.” It is also misunderstood by a few English versions: “nor can you count up the defects in life” (Moffatt); “the number of fools is infinite” (Douay). However, most English versions correctly understand it as referring to what is lacking in terms of quantity: “what is lacking” (RSV, MLB, NASB, NIV, NRSV), “a lack” (NJPS), “that which is wanting” (KJV, ASV), “what is not there” (NEB), and “what is missing” (NAB).
+
+### Verse 15 - Note 4
+[翻訳注]  Heb “cannot be counted” or “cannot be numbered.” The term הִמָּנוֹת (himmanot, Niphal infinitive construct from מָנָה, manah, “to count”) is rendered literally by most translations: “[cannot] be counted” or “[cannot] be numbered” (KJV, ASV, RSV, MLB, NEB, NASB, NIV, NRSV, JPS, NJPS). However, the nuance “count” might function as a metonymy of effect for cause, that is, “to supply.” What is absent cannot be supplied (cause) therefore, it cannot be counted as present (effect). NAB adopts this approach: “what is missing cannot be supplied.”
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “I spoke, I, with my heart.”
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “I, look, I have made great and increased wisdom.” The expression הִגְדַּלְתִּי וְהוֹסַפְתִּי (higdalti vÿhosafti) is a verbal hendiadys; it means that Qoheleth had become the wisest man in the history of Jerusalem.
+
+### Verse 16 - Note 3
+[翻訳注]  The phrase “who ruled” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 16 - Note 4
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 16 - Note 5
+[翻訳注]  Heb “my heart” (לִבִּי, libbi). The term “heart” is a metonymy of part for the whole (“my heart” = myself).
+
+### Verse 16 - Note 6
+[翻訳注]  Heb “My heart has seen much wisdom and knowledge.”
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “gave my heart,” or “set my mind.” See v. 13.
+
+### Verse 17 - Note 2
+[翻訳注]  The phrase “the benefit of” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 17 - Note 3
+[翻訳注]  The word “over” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 17 - Note 4
+[翻訳注]  The terms שִׂכְלוּת (sikhlut, “folly”) and הוֹלֵלוֹת (holelot, “foolishness”) are synonyms. The term שִׂכְלוּת (alternate spelling of סִכְלוּת, sikhlut) refers to foolish behavior (HALOT 755 s.v. סִכְלוּת), while הוֹלֵלוֹת refers to foolish ideas and mental blindness (HALOT 242 s.v. הוֹלֵלוֹת). Qoheleth uses these terms to refer to foolish ideas and self-indulgent pleasures (e.g., Eccl 2:2-3, 12-14; 7:25; 9:3; 10:1, 6, 13).
+
+### Verse 17 - Note 5
+[翻訳注]  Heb “I know.”
+
+### Verse 17 - Note 6
+[翻訳注]  The term גַּם (gam, “even”) is a particle of association and emphasis (HALOT 195 s.v. גַּם).
+
+### Verse 17 - Note 7
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 17 - Note 8
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 17 - Note 9
+[翻訳注]  Heb “striving of wind.”
+
+### Verse 18 - Note 1
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 2
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 3
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 4
+[翻訳注]  This term does not appear in the Hebrew text, but is supplied in the translation for clarity.

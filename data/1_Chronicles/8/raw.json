@@ -1,0 +1,316 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Aharah</i> is called &#8220;Ahiram&#8221; in <span class=\"bibleref\" title=\"Numbers 26:38\">Num 26:38</span>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (Gera) has been supplied in the translation for clarity.</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Some LXX <sc>mss</sc> supply the name &#8220;Jeiel,&#8221; which is not in the MT (cf. <span class=\"bibleref\" title=\"1 Chronicles 9:35\">1 Chr 9:35</span>). The addition of the name here is followed by many English versions (e.g., ASV, NAB, NASB, NIV, NRSV, NLT).</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Some LXX <sc>mss</sc> add &#8220;Ner&#8221; here (cf. <span class=\"bibleref\" title=\"1 Chronicles 9:36\">1 Chr 9:36</span> and v. <span class=\"bibleref\" title=\"1 Chronicles 8:33\">33</span> below, where Ner is mentioned as the father of Kish). The form <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1504;&#1461;&#1512;</font> (<font face=\"Scholar\">v&#255;ner</font>) could have been accidentally omitted by homoioarcton since each name in the list has the conjunction prefixed to it. Some English versions follow the LXX here and add &#8220;Ner&#8221; (e.g., NAB, NIV, NLT).</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text omits the name &#8220;Mikloth,&#8221; but it may have fallen out accidentally by haplography. Note that the name immediately follows at the beginning of v. <span class=\"bibleref\" title=\"1 Chronicles 8:32\">32</span>; cf. NAB.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and also they, opposite their brothers, lived in Jerusalem with their brothers.&#8221; This redundancy has been removed in the translation.</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Eshbaal</i> is called &#8220;Ishbosheth&#8221; in <span class=\"bibleref\" title=\"2 Samuel 2:8\">2 Sam 2:8</span>.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Meribbaal</i> is called &#8220;Mephibosheth&#8221; in <span class=\"bibleref\" title=\"2 Samuel 4:4\">2 Sam 4:4</span>.</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text has <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1465;&#1499;&#1456;&#1512;&#1493;&#1468;</font> (<font face=\"Scholar\">bokh&#255;ru</font>), which some understand as a name: &#8220;Bocheru&#8221; (so, e.g., NEB, NASB, NIV, NRSV). But the form should probably be revocalized <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1499;&#1465;&#1512;&#1493;&#1465;</font> (<font face=\"Scholar\">b&#255;khoru</font>, &#8220;his firstborn&#8221;). A name has accidentally dropped from the list, and a scribe apparently read <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1465;&#1499;&#1456;&#1512;&#1493;&#1468;</font> as one of the names.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Lucianic recension of the LXX inserts another name here, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#8054; &#7944;&#950;&#945;&#961;&#953;&#945;&#962;</font> (<font face=\"Greektl\">kai Azarias</font>, &#8220;and Azariah&#8221;), presumably to make up the six sons mentioned at the beginning of the verse (see the previous <b>tc</b> note on &#8220;firstborn&#8221;). Cf. NAB.</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the sons of Ulam were men, warriors and treaders of a bow.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "1",
+      "text": "Benjamin was the father of Bela, his firstborn; Ashbel was born second, Aharah third, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "2",
+      "text": "Nohah fourth, and Rapha fifth. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "3",
+      "text": "Bela’s sons were Addar, Gera, Abihud, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "4",
+      "text": "Abishua, Naaman, Ahoah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "5",
+      "text": "Gera, Shephuphan, and Huram. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "6",
+      "text": "These were the descendants of Ehud who were leaders of the families living in Geba who were forced to move to Manahath: "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "7",
+      "text": "Naaman, Ahijah, and Gera, who moved them. Gera was the father of Uzzah and Ahihud. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "8",
+      "text": "Shaharaim fathered sons in Moab after he divorced his wives Hushim and Baara. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "9",
+      "text": "By his wife Hodesh he fathered Jobab, Zibia, Mesha, Malkam, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "10",
+      "text": "Jeuz, Sakia, and Mirmah. These were his sons; they were family leaders. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "11",
+      "text": "By Hushim he fathered Abitub and Elpaal. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "12",
+      "text": "The sons of Elpaal: Eber, Misham, Shemed (who built Ono and Lod, as well as its surrounding towns), "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "13",
+      "text": "Beriah, and Shema. They were leaders of the families living in Aijalon and chased out the inhabitants of Gath. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "14",
+      "text": "Ahio, Shashak, Jeremoth, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "15",
+      "text": "Zebadiah, Arad, Eder, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "16",
+      "text": "Michael, Ishpah, and Joha were the sons of Beriah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "17",
+      "text": "Zebadiah, Meshullam, Hizki, Heber, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "18",
+      "text": "Ishmerai, Izliah, and Jobab were the sons of Elpaal. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "19",
+      "text": "Jakim, Zikri, Zabdi, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "20",
+      "text": "Elienai, Zillethai, Eliel, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "21",
+      "text": "Adaiah, Beraiah, and Shimrath were the sons of Shimei. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "22",
+      "text": "Ishpan, Eber, Eliel, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "23",
+      "text": "Abdon, Zikri, Hanan, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "24",
+      "text": "Hananiah, Elam, Anthothijah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "25",
+      "text": "Iphdeiah, and Penuel were the sons of Shashak. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "26",
+      "text": "Shamsherai, Shechariah, Athaliah, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "27",
+      "text": "Jaareshiah, Elijah, and Zikri were the sons of Jeroham. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "28",
+      "text": "These were the family leaders listed in the genealogical records; they lived in Jerusalem. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "29",
+      "text": "The father of Gibeon lived in Gibeon; his wife’s name was Maacah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "30",
+      "text": "His firstborn son was Abdon, followed by Zur, Kish, Baal, Nadab, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "31",
+      "text": "Gedor, Ahio, Zeker, and Mikloth."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "32",
+      "text": "Mikloth was the father of Shimeah. They also lived near their relatives in Jerusalem. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "33",
+      "text": "Ner was the father of Kish, and Kish was the father of Saul. Saul was the father of Jonathan, Malki-Shua, Abinadab, and Eshbaal. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "34",
+      "text": "The son of Jonathan: Meribbaal. Meribbaal was the father of Micah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "35",
+      "text": "The sons of Micah: Pithon, Melech, Tarea, and Ahaz. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "36",
+      "text": "Ahaz was the father of Jehoaddah, and Jehoaddah was the father of Alemeth, Azmaveth, and Zimri. Zimri was the father of Moza, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "37",
+      "text": "and Moza was the father of Binea. His son was Raphah, whose son was Eleasah, whose son was Azel. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "38",
+      "text": "Azel had six sons: Azrikam his firstborn, followed by Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "39",
+      "text": "The sons of his brother Eshek:Ulam was his firstborn, Jeush second, and Eliphelet third. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "8",
+      "verse": "40",
+      "text": "The sons of Ulam were warriors who were adept archers. They had many sons and grandsons, a total of 150.All these were the descendants of Benjamin. "
+    }
+  ]
+}

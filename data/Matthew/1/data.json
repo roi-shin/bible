@@ -1,0 +1,290 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham. ",
+      "ja": "アブラハムの子、ダビデの子、イエス・キリストの系図の記録である。"
+    },
+    {
+      "verse": 2,
+      "en": "Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers, ",
+      "ja": "アブラハムはイサクの父であり、イサクはヤコブの父、ヤコブはユダとその兄弟たちの父であった。"
+    },
+    {
+      "verse": 3,
+      "en": "Judah the father of Perez and Zerah (by Tamar), Perez the father of Hezron, Hezron the father of Ram, ",
+      "ja": "ユダはタマルによるペレツとゼラの父、ペレツはヘツロンの父、ヘツロンはラムの父、"
+    },
+    {
+      "verse": 4,
+      "en": "Ram the father of Amminadab, Amminadab the father of Nahshon, Nahshon the father of Salmon, ",
+      "ja": "ラムはアミナダブの父、アミナダブはナフソンの父、ナフソンはサーモンの父、"
+    },
+    {
+      "verse": 5,
+      "en": "Salmon the father of Boaz (by Rahab), Boaz the father of Obed (by Ruth), Obed the father of Jesse, ",
+      "ja": "サーモンはラハブによるボアズの父、ボアズはルツによるオベデの父、オベデはエサイの父、"
+    },
+    {
+      "verse": 6,
+      "en": "and Jesse the father of David the king.David was the father of Solomon (by the wife of Uriah),",
+      "ja": "そしてエサイはダビデ王の父であった。ダビデはウリヤの妻によるソロモンの父であり、"
+    },
+    {
+      "verse": 7,
+      "en": "Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa, ",
+      "ja": "ソロモンはレハブアムの父、レハブアムはアビヤの父、アビヤはアサの父、"
+    },
+    {
+      "verse": 8,
+      "en": "Asa the father of Jehoshaphat, Jehoshaphat the father of Joram, Joram the father of Uzziah, ",
+      "ja": "アサはヨシャパテの父、ヨシャパテはヨラムの父、ヨラムはウジヤの父、"
+    },
+    {
+      "verse": 9,
+      "en": "Uzziah the father of Jotham, Jotham the father of Ahaz, Ahaz the father of Hezekiah, ",
+      "ja": "ウジヤはヨタムの父、ヨタムはアハズの父、アハズはヒゼキヤの父、"
+    },
+    {
+      "verse": 10,
+      "en": "Hezekiah the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah, ",
+      "ja": "ヒゼキヤはマナセの父、マナセはアモンの父、アモンはヨシヤの父、"
+    },
+    {
+      "verse": 11,
+      "en": "and Josiah the father of Jeconiah and his brothers, at the time of the deportation to Babylon. ",
+      "ja": "そしてヨシヤはバビロンへの捕囚のころ、エコニヤとその兄弟たちの父となった。"
+    },
+    {
+      "verse": 12,
+      "en": "After the deportation to Babylon, Jeconiah became the father of Shealtiel, Shealtiel the father of Zerubbabel, ",
+      "ja": "バビロンへの捕囚の後、エコニヤはシェアルティエルの父となり、シェアルティエルはゼルバベルの父、"
+    },
+    {
+      "verse": 13,
+      "en": "Zerubbabel the father of Abiud, Abiud the father of Eliakim, Eliakim the father of Azor, ",
+      "ja": "ゼルバベルはアビウデの父、アビウデはエリアキムの父、エリアキムはアゾルの父、"
+    },
+    {
+      "verse": 14,
+      "en": "Azor the father of Zadok, Zadok the father of Achim, Achim the father of Eliud, ",
+      "ja": "アゾルはサドクの父、サドクはアキムの父、アキムはエリウデの父、"
+    },
+    {
+      "verse": 15,
+      "en": "Eliud the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob, ",
+      "ja": "エリウデはエレアザルの父、エレアザルはマタンの父、マタンはヤコブの父、"
+    },
+    {
+      "verse": 16,
+      "en": "and Jacob the father of Joseph, the husband of Mary, by whom Jesus was born, who is called Christ. ",
+      "ja": "そしてヤコブはマリアの夫ヨセフの父であった。このマリアから、キリストと呼ばれるイエスがお生まれになった。"
+    },
+    {
+      "verse": 17,
+      "en": "So all the generations from Abraham to David are fourteen generations, and from David to the deportation to Babylon, fourteen generations, and from the deportation to Babylon to Christ, fourteen generations. ",
+      "ja": "したがって、アブラハムからダビデまでの代は合わせて十四代、ダビデからバビロン捕囚までの代も十四代、バビロン捕囚からキリストまでの代も十四代である。"
+    },
+    {
+      "verse": 18,
+      "en": "Now the birth of Jesus Christ happened this way. While his mother Mary was engaged to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. ",
+      "ja": "イエス・キリストの誕生の経緯は次のようであった。母マリアはヨセフと婚約していたが、二人が夫婦として一緒に生活を始める前に、聖霊によって身ごもっていることが判明した。"
+    },
+    {
+      "verse": 19,
+      "en": "Because Joseph, her husband to be, was a righteous man, and because he did not want to disgrace her, he intended to divorce her privately. ",
+      "ja": "夫となるヨセフは正しい人であったので、彼女に公の恥をかかせたくないと考え、ひそかに離縁しようと決意した。"
+    },
+    {
+      "verse": 20,
+      "en": "When he had contemplated this, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to take Mary as your wife because the child conceived in her is from the Holy Spirit. ",
+      "ja": "ヨセフがこのことを思い巡らしていたとき、主の御使いが夢で彼に現れて言った。「ダビデの子ヨセフよ、恐れずにマリアを妻として迎え入れなさい。彼女の胎に宿った子は聖霊によるものだからである。"
+    },
+    {
+      "verse": 21,
+      "en": "She will give birth to a son and you will name him Jesus because he will save his people from their sins.” ",
+      "ja": "マリアは男の子を産む。あなたはその子をイエスと名付けなさい。この方がご自分の民をその罪から救い出すからである。」"
+    },
+    {
+      "verse": 22,
+      "en": "This all happened so that what was spoken by the Lord through the prophet would be fulfilled: ",
+      "ja": "これらすべてのことが起こったのは、主が預言者を通して語られたことが実現するためであった。"
+    },
+    {
+      "verse": 23,
+      "en": "“<b>Look! The virgin will conceive and give birth to a son, and</b> they <b>will name him</b> <b>Emmanuel</b>,” which means “<b>God with us</b>.” ",
+      "ja": "「見よ、処女が身ごもって男の子を産む。人々はその名をインマヌエルと呼ぶ。」これは、訳すと「神が私達と共におられる」という意味である。"
+    },
+    {
+      "verse": 24,
+      "en": "When Joseph awoke from sleep he did what the angel of the Lord told him. He took his wife, ",
+      "ja": "ヨセフは眠りから覚めると、主の御使いが命じたとおりにし、自分の妻を迎え入れた。"
+    },
+    {
+      "verse": 25,
+      "en": "but did not have marital relations with her until she gave birth to a son, whom he named Jesus. ",
+      "ja": "しかし、妻が男の子を産むまでは彼女と夫婦の関係を持たなかった。そして、その子をイエスと名付けた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the book of the genealogy.” The noun βίβλος (biblo\"), though it is without the article, is to be translated as definite due to Apollonius’ corollary and the normal use of anarthrous nouns in titles.",
+        "ja": "[翻訳注] ギリシャ語では「系図の書」。名詞 βίβλος（ビブロス）は無冠詞であるが、アポロニウスの系論および題名における無冠詞名詞の通常の用法により、定冠詞付き（特定のもの）として翻訳される。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “fathered.”",
+        "ja": "[翻訳注] ギリシャ語では「～の父となった（生んだ）」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  By the wife of Uriah, i.e., Bathsheba (cf. 2 Sam 11:3).",
+        "ja": "[解説] 「ウリヤの妻による」、すなわちバテシバのこと（サムエル記第二 11:3 参照）。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "700 pc it co). Although Asaph was a psalmist and Asa was a king, it is doubtful that the author mistook one for the other since other ancient documents have variant spellings on the king’s name (such as “Asab,” “Asanos,” and “Asaph”). Thus the spelling ᾿Ασάφ that is almost surely found in the original of Matt 1:7-8 has been translated as “Asa” in keeping with the more common spelling of the king’s name.",
+        "ja": "[解説] アサフは詩篇作者であり、アサは王であったが、他の古代写本でも王の名に表記の表記揺れ（「アサブ」、「アサノス」、「アサフ」など）が見られるため、著者が両者を誤認したとは考えにくい。したがって、マタイ1:7-8の原文にほぼ確実に存在する「᾿Ασάφ」という表記は、王のより一般的な表記に従って「アサ」と翻訳されている。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "33 pc it sa bo), and as such is most likely original, but this is a variant spelling of the name ᾿Αμών (Amwn). The translation uses the more well-known spelling “Amon” found in the Hebrew MT and the majority of LXX mss. See also the textual discussion of “Asa” versus “Asaph” (vv. 7-8); the situation is similar.",
+        "ja": "[解説] これも「᾿Αμών（アモン）」という名の表記揺れである。翻訳では、ヘブライ語の主論文テキスト（MT）および七十人訳聖書（LXX）の大部分の写本に見られる、より広く知られた表記「アモン」を使用している。7-8節の「アサ」対「アサフ」に関する異文の議論も参照されたい。状況は同様である。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[解説]  Before the mention of Jeconiah, several medieval mss add Jehoiakim, in conformity with the genealogy in 1 Chr 3:15-16. But this alters the count of fourteen generations (v. 17). It is evident that the author is selective in his genealogy for a theological purpose.",
+        "ja": "[解説] エコニヤについての言及の前に、中世のいくつかの写本では、歴代誌第一3:15-16の系図に合わせてエホヤキムが付け加えられている。しかし、これでは十四代という数え方（17節）が変わってしまう。著者が神学的な目的のために意図的に系図を精選していることは明らかである。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Because of the difference between Greek style, which usually begins a sentence with a conjunction, and English style, which generally does not, the conjunction δέ (de) has not been translated here.",
+        "ja": "[翻訳注] ギリシャ語の文体（通常、接続詞で文を始める）と英語の文体（一般に接続詞で始めない）の違いにより、ここでは接続詞 δέ（デ）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Greek text and the KJV read Salathiel. Most modern English translations use the OT form of the name (cf. Ezra 3:2).",
+        "ja": "[解説] ギリシャ語テキストおよび口語訳等の伝統的な英語訳（KJV）では「サラティエル」と読める。多くの現代英語訳では、旧約聖書における固有名詞の形を用いている（エズラ記3:2参照）。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "] 33 Ï co), and therefore should be regarded as authentic. For a detailed discussion of this textual problem, see TCGNT 2-6.[解説]  The pronoun whom is feminine gender in the Greek text, referring to Mary.",
+        "ja": "[解説] ギリシャ語テキストにおいて、代名詞「whom（マリアから）」は女性形であり、マリアを指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”[解説]  The term χριστός (cristos) was originally an adjective (“anointed”), developing in LXX into a substantive (“an anointed one”), then developing still further into a technical generic term (“the anointed one”). In the intertestamental period it developed further into a technical term referring to the hoped-for anointed one, that is, a specific individual. In the NT the development starts there (technical-specific), is so used in the gospels, and then develops in Paul to mean virtually Jesus’ last name.",
+        "ja": "[翻訳注] または「メシア」。「キリスト」（ギリシャ語）と「メシア」（ヘブライ語およびアラム語）は、どちらも「油注がれた者」を意味する。[解説] χριστός（クリストス）という語はもともと形容詞（「油注がれた」）であり、七十人訳聖書（LXX）において名詞（「油注がれた者」）へと発展し、さらに専門的な一般名詞（「その油注がれた者」）へと発展した。旧約偽典期には、期待される油注がれた者、すなわち特定の個人を指す専門用語へと進化した。新約聖書ではその段階（特定・専門的用語）から始まり、福音書でそのように用いられ、パウロ書簡では事実上イエスの苗字のように用いられるに至る。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”[解説]  See the note on Christ in 1:16.",
+        "ja": "[翻訳注] または「メシア」。「キリスト」（ギリシャ語）と「メシア」（ヘブライ語およびアラム語）は、どちらも「油注がれた者」を意味する。[解説] 1:16のキリストに関する注記を参照。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The connotation of the Greek is “before they came together in marital and domestic union” (so BDAG 970 s.v. συνέρχομαι 3).",
+        "ja": "[翻訳注] ギリシャ語の含意は、「彼らが夫婦としての同居生活に入る前」である（BDAG 970 s.v. συνέρχομαι 3 参照）。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “husband.” See following note for discussion.",
+        "ja": "[翻訳注] ギリシャ語では「夫」。議論については次の注記を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “send her away.”[解説]  In the Jewish context, “full betrothal was so binding that its breaking required a certificate of divorce, and the death of one party made the other a widow or widower (m. Ketub. 1:2; m. Sota 1:5; m. Git. passim…)” (R. H. Gundry, Matthew: A Commentary on his Literary and Theological Art, 21).",
+        "ja": "[翻訳注] または「彼女を去らせる」。[解説] ユダヤ的な文脈において、「正式な婚約は非常に拘束力が強く、その解消には離婚証明書が必要であり、一方の死は他方を未亡人またはやもめとした（m. Ketub. 1:2; m. Sota 1:5; m. Git. passim…）」（R. H. Gundry, Matthew: A Commentary on his Literary and Theological Art, 21）。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “behold, an angel.” The Greek word ἰδού (idou) has not been translated because it has no exact English equivalent here, but adds interest and emphasis (BDAG 468 s.v. 1).",
+        "ja": "[翻訳注] ギリシャ語では「見よ、御使いが」。ギリシャ語の ἰδού（イドゥ）は、ここに対応する正確な英語がないため翻訳されていないが、関心と強調を添えている（BDAG 468 s.v. 1）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the angel of the Lord.” Linguistically, “angel of the Lord” is the same in both testaments (and thus, he is either “an angel of the Lord” or “the angel of the Lord” in both testaments). For arguments and implications, see ExSyn 252; M. J. Davidson, “Angels,” DJG, 9; W. G. MacDonald argues for “an angel” in both testaments: “Christology and ‘The Angel of the Lord’,” Current Issues in Biblical and Patristic Interpretation, 324-35.",
+        "ja": "[翻訳注] または「主の御使い」。言語的には、「主の御使い」は旧約・新約聖書の両方で同じ表現である（したがって、両約聖書において「主の一人の御使い」とも「主のその御使い」とも解釈し得る）。論拠と意味合いについては ExSyn 252; M. J. Davidson, “Angels,” DJG, 9 を参照。W. G. MacDonald は両約聖書において「一人の御使い」と解釈することを主張している（“Christology and ‘The Angel of the Lord’,” Current Issues in Biblical and Patristic Interpretation, 324-35）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “you will call his name.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたは彼の名を呼ぶであろう」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Greek form of the name Ihsous, which was translated into Latin as Jesus, is the same as the Hebrew Yeshua (Joshua), which means “Yahweh saves” (Yahweh is typically rendered as “Lord” in the OT). It was a fairly common name among Jews in 1st century Palestine, as references to a number of people by this name in the LXX and Josephus indicate.",
+        "ja": "[解説] ギリシャ語形式の Ihsous（イエス）は、ラテン語で Jesus と訳され、ヘブライ語の Yeshua（ヨシュア）と同じであり、「ヤハウェは救い」を意味する（ヤハウェは旧約聖書では通常「主」と訳される）。紀元1世紀のパレスチナのユダヤ人の間でかなり一般的な名前であり、七十人訳聖書やヨセフスの著作にこの名を持つ多くの人々への言及があることがそれを示している。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “they will call his name.”",
+        "ja": "[翻訳注] ギリシャ語では「彼らは彼の名を呼ぶであろう」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  A quotation from Isa 7:14.",
+        "ja": "[解説] イザヤ書7:14からの引用。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “is translated.”",
+        "ja": "[翻訳注] ギリシャ語では「訳すと」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  An allusion to Isa 8:8, 10 (LXX).",
+        "ja": "[解説] イザヤ書8:8, 10（七十人訳聖書）への暗喩。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on the word “Lord” in 1:20. Here the translation “the angel of the Lord” is used because the Greek article (ὁ, Jo) which precedes ἄγγελος (angelos) is taken as an anaphoric article (ExSyn 217-19) referring back to the angel mentioned in v. 20.",
+        "ja": "[翻訳注] 1:20の「主」という語に関する注記を参照。ここでは、ἄγγελος（アンゲロス）の前にあるギリシャ語の定冠詞（ὁ）が、20節で言及された御使いを指し返す前照的定冠詞（anaphoric article; ExSyn 217-19）とみなされるため、「主の御使い」という訳が用いられている。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “did not have sexual relations”; Grk “was not knowing her.” The verb “know” (in both Hebrew and Greek) is a frequent biblical euphemism for sexual relations. However, a translation like “did not have sexual relations with her” is too graphic in light of the popularity and wide use of Matthew’s infancy narrative. Thus the somewhat more subdued but still clear “did not have marital relations” was selected.",
+        "ja": "[翻訳注] または「性的関係を持たなかった」。ギリシャ語では「彼女を知らなかった」。動詞「知る」（ヘブライ語およびギリシャ語の双方）は、聖書において性的関係を表す頻出の遠回しな表現である。しかし、マタイの幼少期物語の普及と広範な使用に鑑みると、「性的関係を持たなかった」のような翻訳は生々しすぎる。そのため、やや控えめでありながらも明確な「夫婦の関係を持たなかった」が選ばれた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and he called his name Jesus.” The coordinate clause has been translated as a relative clause in English for stylistic reasons.",
+        "ja": "[翻訳注] ギリシャ語では「そして彼は彼の名をイエスと呼んだ」。文体上の理由から、等位節は英語で関係節として翻訳されている。"
+      }
+    ]
+  }
+}

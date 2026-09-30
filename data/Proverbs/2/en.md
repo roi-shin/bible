@@ -1,0 +1,304 @@
+# Proverbs 2 (English)
+
+## Text
+
+**1** My child, if you receive my words, and store up my commands inside yourself,
+
+**2** by making your ear attentive to wisdom and by turning your heart to understanding, 
+
+**3** indeed, if you call out for discernment— shout loudly for understanding—
+
+**4** if you seek it like silver and search for it like hidden treasure, 
+
+**5** then you will understand how to fear the Lord, and you will discover knowledge about God. 
+
+**6** For the Lord gives wisdom, and from his mouth comes knowledge and understanding. 
+
+**7** He stores up effective counsel for the upright and is like a shield for those who live with integrity, 
+
+**8** to guard the paths of the righteous and to protect the way of his pious ones. 
+
+**9** Then you will understand righteousness and justice and equity—every good way. 
+
+**10** For wisdom will enter your heart, and moral knowledge will be attractive to you.
+
+**11** Discretion will protect you; understanding will guard you
+
+**12** to deliver you from the way of the wicked, from those speaking perversity, 
+
+**13** who leave the upright paths to walk on the dark ways, 
+
+**14** who delight in doing evil; they rejoice in perverse evil, 
+
+**15** whose paths are morally crooked and who are devious in their ways, 
+
+**16** to deliver you from the adulterous woman, from the loose woman who has flattered you with her words, 
+
+**17** who leaves the husband from her younger days and has ignored her marriage covenant made before God. 
+
+**18** For she has set her house by death and her paths by the place of the departed spirits. 
+
+**19** None who go in to her will return, nor will they reach the paths of life. 
+
+**20** So you will walk in the way of good people and will keep on the paths of the righteous. 
+
+**21** For the upright will reside in the land, and those with integrity will remain in it,
+
+**22** but the wicked will be removed from the land, and the treacherous will be torn away from it.
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The chapter begins with an admonition to receive wisdom (1-4) and then traces the benefits: the knowledge of God and his protection (5-8), moral discernment for living (9-11), protection from evil men (12-15) and immoral women (16-19), and enablement for righteous living (20-22).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “my son.”
+
+### Verse 1 - Note 3
+[解説]  Verses 1-11 form one long conditional sentence in the Hebrew text: (1) the protasis (“if…”) encompasses vv. 1-4 and (2) the apodosis (“then…”) consists of two parallel panels in vv. 5-8 and vv. 9-11 both of which are introduced by the particle אָז (’az, “then”).
+
+### Verse 1 - Note 4
+[解説]  The verb “to store up” (צָפַן, tsafan; cf. NAB, NLT “treasure”) in the second colon qualifies the term “receive” (לָקַח, laqakh) in the first, just as “commands” intensifies “words.” This pattern of intensification through parallelism occurs throughout the next three verses. The verb “to store up; to treasure” is used in reference to things of value for future use, e.g., wealth, dowry for a bride. Since proverbs will be useful throughout life and not always immediately applicable, the idea of storing up the sayings is fitting. They will form the way people think which in turn will influence attitudes (W. G. Plaut, Proverbs, 43).
+
+### Verse 2 - Note 1
+[翻訳注]  The Hiphil infinitive construct לְהַקְשִׁיב (lÿhaqshiv, “by making attentive”) functions as an epexegetical explanation of how one will receive the instruction.
+
+### Verse 2 - Note 2
+[解説]  The word “ear” is a metonymy of cause; the word is used as the instrument of hearing. But in parallelism with “heart” it indicates one aspect of the mental process of hearing and understanding. A “hearing ear” describes an obedient or responsive person (BDB 24 s.v. אֹזֶן 2).
+
+### Verse 2 - Note 3
+[翻訳注]  The conjunction “and” does not appear in the Hebrew text, but is supplied in the translation for the sake of smoothness.
+
+### Verse 2 - Note 4
+[翻訳注]  The Hiphil imperfect (“by turning”) continues the nuance introduced by the infinitive construct in the first colon (GKC 352 §114.r). The verb נָטָה (natah) normally means “to stretch out” and only occasionally “to turn” or “to incline” one’s heart to something, as is the case here.
+
+### Verse 2 - Note 5
+[翻訳注]  Or “mind” (the center of the will, the choice).
+
+### Verse 3 - Note 1
+[翻訳注]  Both particles retain their individual meanings, otherwise the verse would begin with a strong adversative and be a contrast to what has been said.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “summon.”
+
+### Verse 3 - Note 3
+[解説]  The noun recalls the second purpose of the book (1:2). It is also cognate to the last word of 2:2, forming a transition. The two objects of the prepositions in this verse are actually personifications, as if they could be summoned.
+
+### Verse 3 - Note 4
+[翻訳注]  Heb “give your voice”; the expression is idiomatic for raising or lifting the voice to make a sound that carries further (e.g., Jer 2:15). This deliberate expression indicates that something significant is being uttered. J. H. Greenstone says, “If it [understanding] does not come at your first call, raise your voice to a higher pitch, put forth greater efforts” (Proverbs, 17).
+
+### Verse 4 - Note 1
+[翻訳注]  The conditional particle now reiterates the initial conditional clause of this introductory section (1-4); the apodosis will follow in v. 5.
+
+### Verse 4 - Note 2
+[翻訳注]  The verb בָּקַשׁ (baqash) means “to search for; to seek; to investigate” (BDB 134 s.v.). This calls for the same diligence one would have in looking for silver.
+
+### Verse 4 - Note 3
+[解説]  The two similes affirm that the value placed on the object will influence the eagerness and diligence in the pursuit and development of wisdom (e.g., Job 28:9-11). The point is not only that the object sought is valuable, but that the effort will be demanding but rewarding.
+
+### Verse 4 - Note 4
+[解説]  The verb חָפַשׂ (khafas) means “to dig; to search” (BDB 344 s.v.; cf. NCV “hunt for it”). The Arabic cognate means “to dig for water.” It is used literally of Joseph searching his brothers’ sacks (Gen 44:12) and figuratively for searching the soul (Ps 64:7). This is a more emphatic word than the one used in the first colon and again emphasizes that acquiring wisdom will be demanding.
+
+### Verse 5 - Note 1
+[翻訳注]  The verb בִּין (bin, “to perceive; to understand; to discern”) refers to ability to grasp, discern or be sensitive to what it means to fear the Lord.
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “the fear of the Lord.” The noun is an objective genitive; the Lord is to be the object of fear and reverence.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “find” (so KJV, NAB, NIV, NRSV).
+
+### Verse 5 - Note 4
+[翻訳注]  The term דַּעַת (da’at, “knowledge”) goes beyond cognition; it is often used metonymically (cause) for obedience (effect); see, e.g., Prov 3:6, “in all your ways acknowledge him,” and BDB 395 s.v. This means that the disciple will follow God’s moral code; for to know God is to react ethically and spiritually to his will (e.g., J. H. Greenstone, Proverbs, 18).
+
+### Verse 5 - Note 5
+[翻訳注]  Heb “knowledge of God.” The noun is an objective genitive.
+
+### Verse 6 - Note 1
+[翻訳注]  This is a causal clause. The reason one must fear and know the Lord is that he is the source of true, effectual wisdom.
+
+### Verse 6 - Note 2
+[翻訳注]  The verb is an imperfect tense which probably functions as a habitual imperfect describing a universal truth in the past, present and future.
+
+### Verse 6 - Note 3
+[解説]  This expression is an anthropomorphism; it indicates that the Lord is the immediate source or author of the wisdom. It is worth noting that in the incarnation many of these “anthropomorphisms” become literal in the person of the Logos, the Word, Jesus, who reveals the Father.
+
+### Verse 6 - Note 4
+[翻訳注]  The verb “comes” does not appear in the Hebrew text, but is supplied in the translation for the sake of clarity and smoothness.
+
+### Verse 7 - Note 1
+[写本注]  The form is a Kethib/Qere reading. The Kethib וְצָפַן (vÿtsafan; Qal perfect + vav consecutive) is supported by the LXX and Syriac. The Qere יִצְפֹּן (yitspon; Qal imperfect) is supported by the Aramaic Targum of Prov 2:7 (the Aramaic translations of the Hebrew scriptures were called Targums) and Latin Vulgate. Internal evidence favors the imperfect; another imperfect appears in v. 6a with a similar sense. The Qere is normally preferred; the scribes are indicating that the received reading is corrupt. The Kethib reflects orthographic confusion between י (yod) and ו (vav). As in v. 6a, this Qal imperfect functions as a habitual imperfect describing a universal truth in past, present and future.[解説]  The verbal root צָפַן (tsafan, “to store up; to treasure up”) is repeated in 2:1 and 2:7. In 2:1, it is the responsibility of man to “store up” wisdom; but in 2:7, it is God who “stores up” wisdom for the wise person who seeks him.
+
+### Verse 7 - Note 2
+[翻訳注]  The noun תּוּשִׁיָּה (tushiyyah) has a two-fold range of meanings: (1) “sound wisdom” (so KJV, NRSV); “effective counsel” and (2) result (metonymy of effect): “abiding success” (BDB 444 s.v.; W. L. Holladay, Concise Hebrew and Aramaic Lexicon, 388; cf. NIV “victory”). It refers to competent wisdom and its resultant ability to achieve moral success (W. McKane, Proverbs [OTL], 80).
+
+### Verse 7 - Note 3
+[解説]  The Hebrew word translated “upright” (יָשָׁר, yashar) is one of the terms used for the righteous. It points to the right conduct of the believer – that which is right or pleasing in the eyes of God. It stresses that the life of the individual is upright, straightforward, and just. It is paralleled with “those who walk in integrity.”
+
+### Verse 7 - Note 4
+[翻訳注]  The comparative “like” does not appear in the Hebrew text, but is implied by the metaphor; it is supplied in the translation for the sake of clarity.
+
+### Verse 7 - Note 5
+[翻訳注]  The word can be taken as in apposition explaining the subject of the first colon – the Lord is a shield, the Lord stores up. The word then is a metaphor for the protection afforded by the Lord.
+
+### Verse 7 - Note 6
+[翻訳注]  Heb “walk.” The verb “to walk” (הָלַךְ, halakh) is an idiom (based upon hypocatastasis: implied comparison) for habitual manner of life (BDB 234 s.v. 3.e).
+
+### Verse 7 - Note 7
+[翻訳注]  Heb “those who walk of integrity.” The noun תֹם (tom, “integrity”) functions as a genitive of manner.
+
+### Verse 8 - Note 1
+[翻訳注]  The infinitive construct לִנְצֹר (lintsor, “to guard”) designates the purpose of the Lord giving “effective counsel” and being a “shield” to the upright. The verb נָצַר (natsar, “to guard”) has a broad range of meanings: (1) to watch over, guard or protect a vineyard from theft (Prov 27:18); (2) to guard one’s lips or heart from evil (Prov 4:23; 13:3); (3) to protect a person from moral or physical danger (Prov 2:8, 11; 4:6; 13:6; 20:28; 22:12; 24:12) and (4) to guard with fidelity = to observe commands, law or covenant (Prov 3:1, 21; 4:13; 5:2; 6:20; 28:7; see BDB 665-66 s.v.). Here God guards the way of the just, that is, the course and conduct of life from the influence of evil.
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “paths of righteousness.” The word “righteousness” is a possessive genitive, signifying the ways that the righteous take.
+
+### Verse 8 - Note 3
+[翻訳注]  The imperfect tense verb יִשְׁמֹר (yishmor, “to protect”) continues the syntactical nuance of the preceding infinitive construct of purpose.
+
+### Verse 8 - Note 4
+[写本注]  The Kethib is the singular noun + 3rd person masculine singular suffix חֲסִידוֹ (khasido) “his pious one.” The Qere reads the plural noun + 3rd person masculine singular suffix חֲסִידָיו (khasidav) “his pious ones.” The LXX εὐλαβουμένων αὐτόν (eujlaboumenwn aujton) supports the Qere reading.[翻訳注]  The noun חֶסֶד (khesed, “the pious”) describes those who show “covenantal faithful love” or “loyal love” to God and his people. The description of the righteous by this term indicates their active participation in the covenant, for which God has promised his protection.
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “discern.” See preceding note on בִּין (bin) in 2:5.
+
+### Verse 9 - Note 2
+[翻訳注]  The phrase “every good way” functions appositionally to the preceding triad of righteous attributes, further explaining and defining them.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “every way of good.” The term טוֹב (tov, “good”) functions as an attributive genitive: “good way.”
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “track”; KJV, NIV, NRSV “path.” The noun מַעְגַּל (ma’gal) is used (1) literally of “wagon-wheel track; firm path” and (2) figuratively (as a metaphor) to describe the course of life (Pss 17:5; 23:3; 140:6; Prov 2:9, 15, 18; 4:11, 26; 5:6, 21; Isa 26:7; 59:8; see BDB 722-23 s.v. 2; KBL 2:609). It is related to the feminine noun עֲגָלָה (’agalah, “cart”) and the verb עָגַל (’agal) “to be round” (Qal) and “to roll” (Niphal). As a wagon-wheel cuts a deep track in a much traversed dirt road, so a person falls into routines and habits that reveal his moral character. In Proverbs the “paths” of the righteous are characterized by uprightness and integrity.
+
+### Verse 10 - Note 1
+[翻訳注]  The noun לֵב (lev, “heart”) functions as a metonymy of association for “mind” and “thoughts” (BDB 524 s.v. 3). It represents the center of the inner life where the volition and emotions join to bring about actions. It is used here in parallelism with נֶפֶשׁ (nefesh, “soul”), for which see note.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “knowledge.” For the noun דַּעַת (da’at), see the note on 1:7.
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “pleasant.” The verb יִנְעָם (yin’am, “to be pleasant”) describes what is attractive. It is used of being physically attracted to one’s lover (Song 7:7) or to a close friendship (2 Sam 1:26). Here wisdom becomes attractive to the righteous, that is, the righteous desires to acquire it.
+
+### Verse 10 - Note 4
+[翻訳注]  Heb “your soul.” The term נַפְשְׁךָ (nafshÿkha, “your soul”) functions as a synecdoche of part (= soul) for the whole person (= you); see BDB 660 s.v. 4.a.2. It also might function as a metonymy of association for emotions and passions (BDB 660 s.v. 6) or mental cognition (BDB 660 s.v. 7).
+
+### Verse 11 - Note 1
+[翻訳注]  The word מְזִמָּה (mÿzimmah, “discretion”) is the ability to know the best course of action for achieving one’s goal. It is knowledge and understanding with a purpose. This kind of knowledge enables one to make the right choices that will protect him from blunders and their consequences (cf. NLT “wise planning”; CEV “sound judgment”).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “will watch over you.”
+
+### Verse 12 - Note 1
+[翻訳注]  The Hiphil infinitive construct of נָצַל (natsal, “to deliver”) expresses the purpose of understanding right conduct: to protect a person from the wicked. The verb נָצַל (natsal) means “to save; to deliver; to rescue,” as in snatching away prey from an animal, rescuing from enemies, plucking a brand from the fire, retrieving property, or the like. Here it portrays rescue from the course of action of the wicked.
+
+### Verse 12 - Note 2
+[翻訳注]  The term “wicked” (רַע, ra’) means “bad, harmful, painful.” Rather than referring to the abstract concept of “wickedness” in general, the term probably refers to wicked people because of the parallelism with “those speaking perversity.”
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “man.” The singular noun אִישׁ (’ish, “man”) here will be further defined in vv. 13-15 with plural forms (verbs, nouns and suffixes). So the singular functions in a collective sense which is rendered in a plural sense in the translation for the sake of clarification and smoothness.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “perversities.” The plural form of תַּהְפֻּכוֹת (tahpukhot) may denote a plurality of number (“perverse things”) or intensification: “awful perversity.” As here, it often refers to perverse speech (Prov 8:13; 10:31, 32; 23:33). It is related to the noun הֶפֶךְ (hefekh, “that which is contrary, perverse”) which refers to what is contrary to morality (Isa 29:16; Ezek 16:34; BDB 246 s.v. הֶפֶךְ). The related verb הָפַךְ (hafakh, “to turn; to overturn”) is used (1) literally of turning things over, e.g., tipping over a bowl (2 Kgs 21:13) and turning over bread-cakes (Judg 7:13; Hos 7:8) and (2) figuratively of perverting things so that they are morally upside down, so to speak (Jer 23:36). These people speak what is contrary to morality, wisdom, sense, logic or the truth.
+
+### Verse 13 - Note 1
+[翻訳注]  The articular plural active participle functions as attributive adjective for אִישׁ (’ish, “man”) in v. 12b, indicating that אִישׁ (“man”) is collective.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “paths of uprightness.” The noun יָשָׁר (yashar, “uprightness; straightness”) is an attributive genitive. The moral life is described in Proverbs as the smooth, straight way (2:13; 4:11). The wicked abandon the clear straight path for an evil, crooked, uncertain path.
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “ways of darkness.” Darkness is often metaphorical for sinfulness, ignorance, or oppression. Their way of life lacks spiritual illumination.
+
+### Verse 14 - Note 1
+[翻訳注]  The articular plural active participle functions as the second attributive adjective for אִישׁ (’ish, “man”) in v. 12b.
+
+### Verse 14 - Note 2
+[翻訳注]  The Qal infinitive construct is the complementary use of the form, expressing the direct object of the participle.
+
+### Verse 14 - Note 3
+[翻訳注]  Or “harm.”
+
+### Verse 14 - Note 4
+[翻訳注]  Heb “the perversity of evil” (so NASB). The noun רָע (ra’, “evil”) functions as an attributed genitive which is modified by the construct noun תַהְפֻּכוֹת (tahpukhot, “perversity”) which functions as an attributive adjective.
+
+### Verse 15 - Note 1
+[翻訳注]  The noun in this relative clause is an accusative of specification: The evil people are twisted with respect to their paths/conduct.
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “crooked.” The adjective עִקֵּשׁ (’iqqesh, “crooked; twisted”) uses the morphological pattern of adjectives that depict permanent bodily defects, e.g., blindness, lameness. Their actions are morally defective and, apart from repentance, are permanently crooked and twisted.
+
+### Verse 15 - Note 3
+[翻訳注]  The Niphal participle of לוּז (luz, “devious; crooked”) describes conduct that is morally deceptive, crafty, and cunning (Isa 30:12).
+
+### Verse 16 - Note 1
+[解説]  This purpose clause introduced by לְהַצִּילְךָ (lÿhatsilkha, “to deliver you”) parallels the purpose clause introduced by לְהַצִּילְךָ (“to deliver you”) in v. 12. There it introduced deliverance from the evil man, and now from the evil woman. The description of the evil man encompassed four poetic lines in the Hebrew text (vv. 12-15); likewise, the description of the evil woman is four poetic lines (vv. 16-19).
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “strange woman” (so KJV, NASB); NRSV “the loose woman.” The root זוּר (zur, “to be a stranger”) sometimes refers to people who are ethnically foreign to Israel (Isa 1:7; Hos 7:9; 8:7) but it often refers to what is morally estranged from God or his covenant people (Pss 58:4; 78:30; BDB 266 s.v.). Referring to a woman, it means adulteress or prostitute (Prov 2:16; 5:3, 20; 7:5; 22:14; 23:33; see BDB 266 s.v. 2.b). It does not mean that she is a foreigner but that she is estranged from the community with its social and religious values (W. McKane, Proverbs [OTL], 285). It describes her as outside the framework of the covenant community (L. A. Snijders, “The Meaning of זוּר in the Old Testament: An Exegetical Study,” OTS 10 [1954]: 85-86). Here an Israelite woman is in view because her marriage is called a “covenant with God.” She is an adulteress, acting outside the legal bounds of the marriage contract.
+
+### Verse 16 - Note 3
+[翻訳注]  Heb “alien woman.” The adjective נָכְרִי (nokhri, “foreign; alien”) refers to (1) people who are ethnically alien to Israel (Exod 21:8; Deut 17:15; Judg 19:12; Ruth 2:10; 1 Kgs 11:1, 8; Ezra 10:2, 10, 11; see BDB 649 s.v. 1); (2) people who are morally alienated from God and his covenant people (Job 19:15; Ps 69:9; Prov 20:16; Eccl 6:2; Jer 2:21; see BDB 649 s.v. 3) and (3) as a technical term in Proverbs for a harlot or promiscuous woman as someone who is morally alienated from God and moral society (Prov 2:16; 5:20; 6:24; 7:5; 20:16; 23:27; 27:13; see BDB 649 s.v. 2). The description of the woman as a “strange woman” and now an “alien woman” is within the context of the people of Israel. She is a “foreigner” in the sense that she is a nonconformist, wayward and loose. It does not necessarily mean that she is not ethnically Israelite (though BDB notes that most harlots in Israel were originally chiefly foreigners by reason of their otherwise homeless condition).
+
+### Verse 16 - Note 4
+[翻訳注]  Heb “makes smooth.” The Hiphil of II חָלַק (“to be smooth; to be slippery”) means (1) “to make smooth” (metal with hammer) and (2) “to use smooth words,” that is, to flatter (Pss 5:10; 36:3; Prov 2:16; 7:5; 28:23; 29:5; see BDB 325 s.v. 2; HALOT 322 s.v. I חלק hif.2). The related Arabic cognate verb means “make smooth, lie, forge, fabricate.” The seductive speech of the temptress is compared to olive oil (5:3) and is recounted (7:14-20).
+
+### Verse 16 - Note 5
+[翻訳注]  Heb “whose words she makes smooth.” The phrase is a relative clause that does not have a relative pronoun. The antecedent of the 3rd person feminine singular suffix is clearly “the sexually loose woman” earlier in the line.[解説]  For descriptions of seductive speech, see Prov 5:3 where it is compared to olive oil, and 7:14-20 where such speech is recorded.
+
+### Verse 17 - Note 1
+[翻訳注]  The construction is the active participle of עָזַב (’azav) with the article, serving as an attributive adjective. The verb means “to forsake; to leave; to abandon.”
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “companion” (so NAB, NASB); NIV “partner.” The term אַלּוּף (’alluf, “companion”) is from the root אָלַף (’alaf, “to be familiar with; to cleave to”) and refers to a woman’s husband (Prov 2:17; Jer 3:4; see BDB 48 s.v. אַלּוּף 2). This noun follows the passive adjectival formation and so signifies one who is well-known.
+
+### Verse 17 - Note 3
+[翻訳注]  Heb “of her youth.” The noun נְעוּרֶיהָ (nÿ’ureha, “her youth”) functions as a temporal genitive. The plural form is characteristic of nouns that refer to long periods of duration in the various stages of life. The time of “youth” encompasses the entire formative period within marriage.
+
+### Verse 17 - Note 4
+[翻訳注]  Heb “the covenant.” This could refer to the Mosaic covenant that prohibits adultery, or more likely, as in the present translation, the marriage covenant (cf. also TEV, CEV). The lexicons list this use of “covenant” (בְּרִית, bÿrit) among other referents to marriage (Prov 2:17; Ezek 16:8; Mal 2:14; BDB 136 s.v. 1.5; HALOT 157 s.v. A.9).
+
+### Verse 17 - Note 5
+[翻訳注]  Heb “covenant of God.” The genitive-construct could mean “covenant made before God.” The woman and her husband had made a marriage-covenant in which God was invoked as witness. Her sin is against her solemn pledge to her husband, as well as against God.
+
+### Verse 18 - Note 1
+[翻訳注]  Or “she sinks her house down to death.” The syntax of this line is difficult. The verb שָׁחָה is Qal perfect 3rd person feminine singular of שׁוּחַ (“to sink down”) which must take a feminine singular subject – most likely the “loose woman” of 2:16-17. However, most English versions take בֵּיתָהּ (betah) “her house” (ms noun + 3rd person feminine singular suffix) as the subject (e.g., KJV, RSV, NASB, NIV, NRSV, CEV): “her house sinks down to death.” But בֵּיתָהּ “her house” (ms noun + 3rd person feminine singular suffix) is masculine rather than feminine so it cannot be the subject. K&D 16:83 suggests that בֵּיתָהּ (“her house”) is a permutative noun that qualifies the subject: “she together with all that belongs to her [her house] sinks down to death” (GKC 425 §131.k). D. Kidner suggests that “her house” is in apposition to “death” (e.g., Job 17:13; 30:23; Prov 9:18; Eccl 12:5), meaning that death is her house: “she sinks down to death, which is her house” (Proverbs [TOTC], 62). The BHS editors attempt to resolve this syntactical problem by suggesting a conjectural emendation of MT בֵּיתָהּ (“her house”) to the feminine singular noun נְתִיבֹתֶהָּ (“her path”) which appears in 7:27, to recover a feminine subject for the verb: “her path sinks down to death.” However, the reading of the MT is supported by all the versions.
+
+### Verse 18 - Note 2
+[写本注]  The MT reads שָׁחָה (Qal perfect 3rd person feminine singular of שׁוּחַ “to sink down”): “she sinks her house down to death.” The LXX reflects שָׁתָה (shatah, Qal perfect 3rd person feminine singular of שִׁית (shith) “to place; to put”): “she established her house near death.” This is a matter of simple orthographic confusion between ח (khet) and ת (tav). The MT preserves the more difficult reading (see following note) so it is probably the original.
+
+### Verse 18 - Note 3
+[翻訳注]  The verb “lead” is not in the Hebrew but is implied by the parallelism; it is supplied in the translation for the sake of smoothness.
+
+### Verse 18 - Note 4
+[翻訳注]  Heb “to the departed spirits” or “to the Rephaim.” The term רְפָאִים (rÿfa’im, “Rephaim”) refers to spirits of the dead who are inhabitants of Sheol (BDB 952 s.v.; HALOT 1274-75 s.v. I רְפָאִים). It is used in parallelism with מֵתִים (metim, “the dead”) to refer to the departed spirits of the dead in Sheol (Ps 88:11; Isa 26:14). The Rephaim inhabit מָוֶת (mavet, “[place of] death”; Prov 2: 18), שְׁאוֹל (shÿ’ol, “Sheol”; Job 26:5; Prov 9:18; Isa 14:9), “darkness and the land of forgetfulness” (Ps 88:14), and “the land of the Rephaim” (Isa 26:19). Scholars debate whether רְפָאִים is derived from the root (1) רָפָא (rafa’, “to heal”), meaning “the healers” or (2) רָפָה (rafah, “to be weak; to sink down”), meaning “the powerless ones” or “those who sink down (to Sheol)” (BDB 952 s.v.; HALOT 1274-75 s.v.). The related term occurs in Phoenician and Neo-Punic meaning “spirits of the dead” (DISO 282) and in Ugaritic referring to “spirits of the dead” who inhabited the underworld and were viewed as healers (UT 2346; WUS 2527). The Hebrew term is often translated “the shades” as a description of the shadowy existence of those who dwelling in Sheol who have lost their vitality (R. F. Schnell, IDB 4:35). Used here in parallelism with מָוֶת (“[place of] death”), רְפָאִים (“the Rephaim”) probably functions as a synecdoche of inhabitants (= the departed spirits of the dead) for the place inhabited (= Sheol). The point of this line is that those who fall prey to an adulteress will end up among the departed spirits in the realm of the dead. This might mean (1) physical death: he will get himself killed by her zealous husband (e.g., Prov 5:23; 6:32-35; 7:23-27) or (2) spiritual death: he will find himself estranged from the community, isolated from the blessings of God, a moral leper, living a shadowy existence of “death” in the land of no return (W. McKane, Proverbs [OTL], 288).
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “all who go in to her will not return.”
+
+### Verse 19 - Note 2
+[解説]  The phrase “reach the paths of life” is a figurative expression for experiencing joy and fullness of blessing (BDB 673 s.v. נָשַׂג 2.a).
+
+### Verse 20 - Note 1
+[翻訳注]  The conjunction לְמַעַן (lÿma’an, “so; as a result”) introduces the concluding result (BDB 775 s.v. מַעַן 2; HALOT 614 s.v. מַעַן 2.c) of heeding the admonition to attain wisdom (2:1-11) and to avoid the evil men and women and their destructive ways (2:12-19).
+
+### Verse 20 - Note 2
+[翻訳注]  The noun “good” (טוֹבִים, tovim) does not function as an attributive genitive (“the good way”) because it is a plural noun and the term “way” (דֶרֶךְ, derekh) is singular. Rather it functions as a genitive of possession identifying the people who walk on this path: “the way of the good people.”
+
+### Verse 20 - Note 3
+[翻訳注]  In the light of the parallelism, the noun “righteous” (צַדִּיקִים, tsadiqim) functions as a genitive of possession rather than an attributive genitive.
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “the blameless” (so NASB, NIV); NAB “the honest”; NRSV “the innocent.” The term תְּמִימִים (tÿmimim, “the blameless”) describes those who live with integrity. They are blameless in that they live above reproach according to the requirements of the law.
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “the guilty.” The term רְשָׁעִים (rÿsha’im, “the wicked”) is from the root רָשַׁע (rasha’, “to be guilty”) and refers to those who are (1) guilty of sin: moral reprobates or (2) guilty of crime: criminals deserving punishment (BDB 957 s.v. רָשָׁע). This is the person who is probably not a covenant member and manifests that in the way he lives, either by sinning against God or committing criminal acts. The noun sometimes refers to guilty criminals who deserve to die (Num 16:26; 35:31; 2 Sam 4:11). Here they will be “cut off” and “torn away” from the land.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “cut off.” The verb כָּרַת (karat, “to be cut off”) indicates either that the guilty will (1) die prematurely, (2) be excommunicated from the community or (3) be separated eternally in judgment. The Mishnah devoted an entire tractate (m. Keritot) to this topic. The context suggests that the guilty will be “removed” from the land where the righteous dwell in security either through death or expulsion.
+
+### Verse 22 - Note 3
+[翻訳注]  The word בָּגַד (bagad) means “to act treacherously” (BDB 93 s.v.; HALOT 108 s.v. בגד). It describes those who deal treacherously, unfaithfully or deceitfully in marriage relations, matters of property or personal rights, in violating covenants, and in their words and general conduct.
+
+### Verse 22 - Note 4
+[翻訳注]  The consonantal form יסחו (yskhv) is vocalized in the MT as יִסְּחוּ (yissÿkhu, Qal imperfect 3rd person masculine plural from נָסַח, nasakh, “to tear away”) but this produces an awkward sense: “they [= the righteous in vv. 20-21] will tear away the treacherous from it” (BDB 650 s.v. נָסַח). Due to the parallelism, the BHS editors suggest emending the form to יִנָּסְחוּ (yinnaskhu, Niphal imperfect 3rd person masculine plural): “the treacherous will be torn away from it.” However, Tg. Prov 2:22 points the form as יֻסְחוּ (yuskhu) which reflects an old Qal passive vocalization – probably the best solution to the problem: “the treacherous will be torn away from it.”

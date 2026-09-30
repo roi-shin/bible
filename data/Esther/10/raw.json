@@ -1,0 +1,46 @@
+{
+  "notes": {
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;great among the Jews&#8221; (so KJV, NASB); NIV &#8220;preeminent among the Jews&#8221;; NRSV &#8220;powerful among the Jews.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;brothers&#8221;; NASB &#8220;kinsmen&#8221;; NIV &#8220;fellow Jews.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he was seeking&#8221;; NAB &#8220;as the promoter of his people&#8217;s welfare.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he was speaking peace to&#8221;; NRSV &#8220;and interceded for the welfare of.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> A number of additions to the Book of Esther appear in the apocryphal (or deuterocanonical) writings. These additions supply further information about various scenes described in the canonical book and are interesting in their own right. However, they were never a part of the Hebrew Bible. The placement of this additional material in certain Greek manuscripts of the Book of Esther may be described as follows. At the beginning of Esther there is an account (= chapter 11) of a dream in which Mordecai is warned by God of a coming danger for the Jews. In this account two great dragons, representing Mordecai and Haman, prepare for conflict. But God responds to the prayers of his people, and the crisis is resolved. This account is followed by another one (= chapter 12) in which Mordecai is rewarded for disclosing a plot against the king&#8217;s life. After <span class=\"bibleref\" title=\"Esther 3:13\">Esth 3:13</span> there is a copy of a letter from King Artaxerxes authorizing annihilation of the Jews (= chapter 13). After <span class=\"bibleref\" title=\"Esther 4:17\">Esth 4:17</span> the account continues with a prayer of Mordecai (= part of chapter 13), followed by a prayer of Esther (= chapter 14), and an account which provides details about Esther&#8217;s appeal to the king in behalf of her people (= chapter 15). After <span class=\"bibleref\" title=\"Esther 8:12\">Esth 8:12</span> there is a copy of a letter from King Artaxerxes in which he denounces Haman and his plot and authorizes his subjects to assist the Jews (= chapter 16). At the end of the book, following <span class=\"bibleref\" title=\"Esther 10:3\">Esth 10:3</span>, there is an addition which provides an interpretation to Mordecai&#8217;s dream, followed by a brief ascription of genuineness to the entire book (= chapter 11).</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Esther",
+      "chapter": "10",
+      "verse": "1",
+      "text": "King Ahasuerus then imposed forced labor on the land and on the coastlands of the sea. "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "10",
+      "verse": "2",
+      "text": "Now all the actions carried out under his authority and his great achievements, along with an exact statement concerning the greatness of Mordecai, whom the king promoted, are they not written in the Book of the Chronicles of the Kings of Media and Persia? "
+    },
+    {
+      "bookname": "Esther",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Mordecai the Jew was second only to King Ahasuerus. He was the highest-ranking Jew, and he was admired by his numerous relatives. He worked enthusiastically for the good of his people and was an advocate for the welfare of all his descendants. "
+    }
+  ]
+}

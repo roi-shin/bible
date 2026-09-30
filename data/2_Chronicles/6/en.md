@@ -1,0 +1,320 @@
+# 2 Chronicles 6 (English)
+
+## Text
+
+**1** Then Solomon said, “The Lord has said that he lives in thick darkness. 
+
+**2** O Lord, I have built a lofty temple for you, a place where you can live permanently.” 
+
+**3** Then the king turned around and pronounced a blessing over the whole Israelite assembly as they stood there.
+
+**4** He said, “The Lord God of Israel is worthy of praise because he has fulfilled what he promised my father David. 
+
+**5** He told David, ‘Since the day I brought my people out of the land of Egypt, I have not chosen a city from all the tribes of Israel to build a temple in which to live. Nor did I choose a man as leader of my people Israel. 
+
+**6** But now I have chosen Jerusalem as a place to live, and I have chosen David to lead my people Israel.’ 
+
+**7** Now my father David had a strong desire to build a temple to honor the Lord God of Israel. 
+
+**8** The Lord told my father David, ‘It is right for you to have a strong desire to build a temple to honor me.
+
+**9** But you will not build the temple; your very own son will build the temple for my honor.’ 
+
+**10** The Lord has kept the promise he made. I have taken my father David’s place and have occupied the throne of Israel, as the Lord promised. I have built this temple for the honor of the Lord God of Israel 
+
+**11** and set up in it a place for the ark containing the covenant the Lord made with the Israelites.” 
+
+**12** He stood before the altar of the Lord in front of the entire assembly of Israel and spread out his hands. 
+
+**13** Solomon had made a bronze platform and had placed it in the middle of the enclosure. It was 7½ feet long, 7½ feet wide, and 4½ feet high. He stood on it and then got down on his knees in front of the entire assembly of Israel. He spread out his hands toward the sky, 
+
+**14** and prayed: “O Lord God of Israel, there is no god like you in heaven or on earth! You maintain covenantal loyalty to your servants who obey you with sincerity. 
+
+**15** You have kept your word to your servant, my father David; this very day you have fulfilled what you promised. 
+
+**16** Now, O Lord God of Israel, keep the promise you made to your servant, my father David, when you said, ‘You will never fail to have a successor ruling before me on the throne of Israel, provided that your descendants watch their step and obey my law as you have done.’ 
+
+**17** Now, O Lord God of Israel, may the promise you made to your servant David be realized. 
+
+**18** “God does not really live with humankind on the earth! Look, if the sky and the highest heaven cannot contain you, how much less this temple I have built! 
+
+**19** But respond favorably to your servant’s prayer and his request for help, O Lord my God. Answer the desperate prayer your servant is presenting to you.
+
+**20** Night and day may you watch over this temple, the place where you promised you would live. May you answer your servant’s prayer for this place. 
+
+**21** Respond to the requests of your servant and your people Israel for this place. Hear from your heavenly dwelling place and respond favorably and forgive. 
+
+**22** “When someone is accused of sinning against his neighbor and the latter pronounces a curse on the alleged offender before your altar in this temple, 
+
+**23** listen from heaven and make a just decision about your servants’ claims. Condemn the guilty party, declare the other innocent, and give both of them what they deserve. 
+
+**24** “If your people Israel are defeated by an enemy because they sinned against you, then if they come back to you, renew their allegiance to you, and pray for your help before you in this temple, 
+
+**25** then listen from heaven, forgive the sin of your people Israel, and bring them back to the land you gave to them and their ancestors. 
+
+**26** “The time will come when the skies are shut up tightly and no rain falls because your people sinned against you. When they direct their prayers toward this place, renew their allegiance to you, and turn away from their sin because you punish them,
+
+**27** then listen from heaven and forgive the sin of your servants, your people Israel. Certainly you will then teach them the right way to live and send rain on your land that you have given your people to possess. 
+
+**28** “The time will come when the land suffers from a famine, a plague, blight, and disease, or a locust invasion, or when their enemy lays siege to the cities of the land, or when some other type of plague or epidemic occurs.
+
+**29** When all your people Israel pray and ask for help, as they acknowledge their intense pain and spread out their hands toward this temple, 
+
+**30** then listen from your heavenly dwelling place, forgive their sin, and act favorably toward each one based on your evaluation of their motives. (Indeed you are the only one who can correctly evaluate the motives of all people.) 
+
+**31** Then they will honor you by obeying you throughout their lifetimes as they live on the land you gave to our ancestors. 
+
+**32** “Foreigners who do not belong to your people Israel will come from a distant land because of your great reputation and your ability to accomplish mighty deeds; they will come and direct their prayers toward this temple. 
+
+**33** Then listen from your heavenly dwelling place and answer all the prayers of the foreigners. Then all the nations of the earth will acknowledge your reputation, obey you as your people Israel do, and recognize that this temple I built belongs to you. 
+
+**34** “When you direct your people to march out and fight their enemies, and they direct their prayers to you toward this chosen city and this temple I built for your honor, 
+
+**35** then listen from heaven to their prayers for help and vindicate them.
+
+**36** “The time will come when your people will sin against you (for there is no one who is sinless!) and you will be angry at them and deliver them over to their enemies, who will take them as prisoners to their land, whether far away or close by.
+
+**37** When your people come to their senses in the land where they are held prisoner, they will repent and beg for your mercy in the land of their imprisonment, admitting, ‘We have sinned and gone astray, we have done evil!’ 
+
+**38** When they return to you with all their heart and being in the land where they are held prisoner and direct their prayers toward the land you gave to their ancestors, your chosen city, and the temple I built for your honor, 
+
+**39** then listen from your heavenly dwelling place to their prayers for help, vindicate them, and forgive your sinful people. 
+
+**40** “Now, my God, may you be attentive and responsive to the prayers offered in this place. 
+
+**41** Now ascend, O Lord God, to your resting place, you and the ark of your strength! May your priests, O Lord God, experience your deliverance. May your loyal followers rejoice in the prosperity you give.
+
+**42** O Lord God, do not reject your chosen ones! Remember the faithful promises you made to your servant David!” 
+
+## Notes
+
+### Verse 2 - Note 1
+[翻訳注]  The words “O Lord” do not appear in the Hebrew text, but they are supplied in the translation for clarification; Solomon addresses the Lord in prayer at this point.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “turned his face.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “and he blessed all the assembly of Israel, and all the assembly of Israel was standing.”
+
+### Verse 4 - Note 1
+[翻訳注]  The Hebrew text reads, “fulfilled by his hand,” but the phrase “by his hand” is somewhat redundant in contemporary English and has not been translated.
+
+### Verse 4 - Note 2
+[翻訳注]  The Hebrew text reads, “promised by his mouth,” but the phrase “by his mouth” is somewhat redundant in contemporary English and has not been translated.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “saying.”
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “to build a house for my name to be there.” Here “name” is used by metonymy for the Lord himself, and thus the expression “to be there” refers to his taking up residence there (hence the translation, “a temple in which to live”). In this case the temple is referred to as a “house” where the Lord himself can reside.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb for my name to be there.” See also the note on the word “live” in v. 5.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “and it was with the heart of David my father to build a house for the name of the Lord God of Israel.”[解説]  On the significance of the Lord’s “name,” see the note on the word “live” in v. 5.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “Because it was with your heart to build a house for my name, you did well that it was with your heart.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “your son, the one who came out of your body, he will build the temple for my name.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “five cubits.” Assuming a cubit of 18 inches (45 cm), the length would have been 7.5 feet (2.25 m).
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “five cubits.”
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “three cubits.” Assuming a cubit of 18 inches (45 cm), the height would have been 4.5 feet (1.35 m).
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “said.”
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “one who keeps the covenant and the loyal love.”
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “who walk before you with all their heart.”
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “[you] who kept to your servant David my father that which you spoke to him.”
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “you spoke by your mouth and by your hand you fulfilled, as this day.”
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “there will not be cut off from you a man from before me sitting on the throne of Israel.”
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “guard their way by walking in my law as you have walked before me.”
+
+### Verse 17 - Note 1
+[翻訳注]  Or “prove to be reliable.”
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “Indeed, can God really live with mankind on the earth?” The rhetorical question expects the answer, “Of course not,” the force of which is reflected in the translation “God does not really live with mankind on the earth.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “turn to.”
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “by listening to.”
+
+### Verse 19 - Note 3
+[翻訳注]  Heb “the loud cry and the prayer.”
+
+### Verse 19 - Note 4
+[翻訳注]  Heb “praying before you.”
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “so your eyes might be open toward this house night and day, toward the place about which you said, ‘My name will be there.’”
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “by listening to the prayer which your servant is praying concerning this place.”
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “listen to the requests of your servant and your people Israel which they are praying concerning this place.”
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “hear and forgive.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “and if the man who sins against his neighbor when one takes up against him a curse to curse him and the curse comes before your altar in this house.”
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “and you, hear [from] heaven and act and judge your servants by repaying the guilty, to give his way on his head, and to declare the innocent to be innocent, to give to him according to his innocence.”
+
+### Verse 24 - Note 1
+[翻訳注]  Or “are struck down before an enemy.”
+
+### Verse 24 - Note 2
+[翻訳注]  Heb “confess [or perhaps, “praise”] your name.”
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “and they pray and ask for help.”
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “fathers” (also in vv. 31, 38).
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “when.” In the Hebrew text vv. 26-27a actually contain one lengthy conditional sentence, which the translation has divided into two sentences for stylistic reasons.
+
+### Verse 26 - Note 2
+[翻訳注]  Or “heavens” (also in v. 12). The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.
+
+### Verse 26 - Note 3
+[翻訳注]  Heb “they.”
+
+### Verse 26 - Note 4
+[翻訳注]  Heb “confess [or perhaps, “praise”] your name.”
+
+### Verse 26 - Note 5
+[翻訳注]  The Hebrew text reads “because you answer them,” as if the verb is from עָנָה (’anah, “answer”). However, this reference to a divine answer is premature, since the next verse asks for God to intervene in mercy. It is better to revocalize the consonantal text as תְעַנֵּם (tÿ’annem, “you afflict them”), a Piel verb form from the homonym עָנָה (“afflict”).
+
+### Verse 27 - Note 1
+[翻訳注]  The present translation understands כִּי (ki) in an emphatic or asseverative sense (“Certainly”). Other translation have “indeed” (NASB), “when” (NRSV), “so” (NEB), or leave the word untranslated (NIV).
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “the good way in which they should walk.”
+
+### Verse 27 - Note 3
+[翻訳注]  Or “for an inheritance.”
+
+### Verse 28 - Note 1
+[翻訳注]  Actually two Hebrew words appear here, both of which are usually (but not always) taken as referring to locusts. Perhaps different stages of growth or different varieties are in view, but this is uncertain. NEB has “locusts new-sloughed or fully grown”; NASB has “locust or grasshopper”; NIV has “locusts or grasshoppers”; NRSV has “locust, or caterpillar.”
+
+### Verse 28 - Note 2
+[翻訳注]  Heb “in the land, his gates.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “every prayer, every request for help which will be to all the people, to all your people Israel.”
+
+### Verse 29 - Note 2
+[翻訳注]  Heb “which they know, each his pain and his affliction.”
+
+### Verse 30 - Note 1
+[翻訳注]  The words “their sin” are not in the Hebrew text, but are supplied for clarification.
+
+### Verse 30 - Note 2
+[翻訳注]  Heb “and act and give to each one according to all his ways because you know his heart.” In the Hebrew text vv. 28-30a actually contain one lengthy conditional sentence, which the translation has divided up for stylistic reasons.
+
+### Verse 30 - Note 3
+[翻訳注]  Heb “Indeed you know, you alone, the heart of all the sons of mankind.”
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “fear.”
+
+### Verse 31 - Note 2
+[翻訳注]  Heb “by walking in your ways.”
+
+### Verse 31 - Note 3
+[翻訳注]  Heb “all the days [in] which.”
+
+### Verse 32 - Note 1
+[翻訳注]  Heb “your great name.” The word “name” sometimes refers to one’s reputation or honor (thus the translation here, “your great reputation”).
+
+### Verse 32 - Note 2
+[翻訳注]  Heb “and your strong hand and your outstretched arm.”
+
+### Verse 33 - Note 1
+[翻訳注]  Heb “and do all which the foreigner calls to [i.e., “requests of”] you.”
+
+### Verse 33 - Note 2
+[翻訳注]  Heb “name.” See the note on “reputation” in v. 32.
+
+### Verse 33 - Note 3
+[翻訳注]  Heb “fear.”
+
+### Verse 33 - Note 4
+[翻訳注]  Heb “that your name is called over this house which I built.” The Hebrew idiom “call the name over” indicates ownership. See 2 Sam 12:28.
+
+### Verse 34 - Note 1
+[翻訳注]  Heb “When your people go out for battle against their enemies in the way which you send them.”
+
+### Verse 34 - Note 2
+[翻訳注]  Heb “toward this city which you have chosen and the house which I built for your name.”
+
+### Verse 35 - Note 1
+[翻訳注]  Heb “their prayer and their request for help.”
+
+### Verse 35 - Note 2
+[翻訳注]  Heb “and accomplish their justice.”
+
+### Verse 36 - Note 1
+[翻訳注]  Heb “they”; the referent (God’s people) has been specified in the translation for clarity.
+
+### Verse 37 - Note 1
+[翻訳注]  Heb “they”; the referent (God’s people) has been specified in the translation for clarity.
+
+### Verse 37 - Note 2
+[翻訳注]  Or “stop and reflect”; Heb “bring back to their heart.”
+
+### Verse 37 - Note 3
+[翻訳注]  Or “done wrong.”
+
+### Verse 38 - Note 1
+[翻訳注]  Or “soul.”
+
+### Verse 38 - Note 2
+[翻訳注]  Heb “your name.” The word “name” sometimes refers to one’s reputation or honor (thus the translation here, “your honor”).
+
+### Verse 39 - Note 1
+[翻訳注]  Heb “their prayer and their requests for help.”
+
+### Verse 39 - Note 2
+[翻訳注]  Heb “and accomplish their justice.”
+
+### Verse 40 - Note 1
+[翻訳注]  Heb “May your eyes be open and your ears attentive to the prayer of this place.”
+
+### Verse 41 - Note 1
+[翻訳注]  Heb “be clothed with deliverance.”
+
+### Verse 41 - Note 2
+[翻訳注]  Heb “and may your loyal ones rejoice in good.”
+
+### Verse 42 - Note 1
+[写本注]  Heb “do not turn away the face of your anointed ones.” Many medieval Hebrew mss, as well as the ancient versions, read the singular, “your anointed,” which would probably refer to Solomon specifically, rather than the people.

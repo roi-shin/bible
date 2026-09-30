@@ -1,0 +1,126 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he did what was proper in the eyes of the <sc>Lord</sc>, according to all which Uzziah his father had done.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;except he did not enter the house of the <sc>Lord</sc>.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;wall of Ophel.&#8221; See <i>HALOT</i> 861 s.v. II <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1465;&#1508;&#1462;&#1500;</font>.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he fought with.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1460;&#1499;&#1468;&#1463;&#1512;</font> (<font face=\"Scholar\">kikar</font>, &#8220;circle&#8221;) refers generally to something that is round. When used of metals it can refer to a disk-shaped weight made of the metal or, by extension, to a standard unit of weight. According to the older (Babylonian) standard the &#8220;talent&#8221; weighed 130 lbs. (58.9 kg), but later this was lowered to 108.3 lbs. (49.1 kg). More recent research suggests the &#8220;light&#8221; standard talent was 67.3 lbs. (30.6 kg). Using this as the standard for calculation, the weight of the silver was 6,730 lbs. (3,060 kg).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> As a unit of dry measure a <i>kor</i> was roughly equivalent to six bushels (about 220 liters).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;10,000 kors of wheat and 10,000 of barley.&#8221; The unit of measure of the barley is omitted in the Hebrew text, but is understood to be &#8220;kors,&#8221; the same as the measures of wheat.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;This the sons of Ammon brought to him, and in the second year and the third.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;because he established his ways before the <sc>Lord</sc> his God.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Jotham, and his battles and his ways, look, they are written on the scroll of the kings of Israel and Judah.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lay down with his fathers.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The phrase <i>the City of David</i> refers here to the fortress of Zion in Jerusalem, not to Bethlehem. See <span class=\"bibleref\" title=\"2 Samuel 5:7\">2 Sam 5:7</span>.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "1",
+      "text": "Jotham was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. His mother was Jerusha the daughter of Zadok. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "2",
+      "text": "He did what the Lord approved, just as his father Uzziah had done. (He did not, however, have the audacity to enter the temple.) Yet the people were still sinning. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "3",
+      "text": "He built the Upper Gate to the Lord’s temple and did a lot of work on the wall in the area known as Ophel. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "4",
+      "text": "He built cities in the hill country of Judah and fortresses and towers in the forests. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "5",
+      "text": "He launched a military campaign against the king of the Ammonites and defeated them. That year the Ammonites paid him 100 talents of silver, 10,000 cors of wheat, and 10,000 cors of barley. The Ammonites also paid this same amount of annual tribute the next two years. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "6",
+      "text": "Jotham grew powerful because he was determined to please the Lord his God. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "7",
+      "text": "The rest of the events of Jotham’s reign, including all his military campaigns and his accomplishments, are recorded in the Scroll of the Kings of Israel and Judah. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "8",
+      "text": "He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "27",
+      "verse": "9",
+      "text": "Jotham passed away and was buried in the City of David. His son Ahaz replaced him as king. "
+    }
+  ]
+}

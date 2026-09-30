@@ -1,0 +1,134 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and it was at the time of the turning of the year, at the time of the going out of kings.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the MT, which reads &#8220;of their king&#8221;; the LXX and Vulgate read &#8220;of Milcom&#8221; (cf. <span class=\"bibleref\" title=\"1 Kings 11:5\">1 Kgs 11:5</span>). Milcom, also known as Molech, was the god of the Ammonites.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and it was on the head of David.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See the note on the word &#8220;talents&#8221; in <span class=\"bibleref\" title=\"1 Chronicles 19:6\">19:6</span>.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text reads &#8220;saws,&#8221; but since saws were just mentioned, it is preferable to emend <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1456;&#1490;&#1461;&#1512;&#1493;&#1465;&#1514;</font> (<font face=\"Scholar\">m&#255;gerot</font>, &#8220;saws&#8221;) to <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1463;&#1490;&#1456;&#1494;&#1456;&#1512;&#1493;&#1465;&#1514;</font> (<font face=\"Scholar\">magz&#255;rot</font>, &#8220;axes&#8221;).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and so he would do.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;battle stood.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The parallel text in <span class=\"bibleref\" title=\"2 Samuel 21:18\">2 Sam 21:18</span> identifies this site as &#8220;Gob.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The parallel text in <span class=\"bibleref\" title=\"2 Samuel 21:18\">2 Sam 21:18</span> has the variant spelling &#8220;Saph.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they&#8221;; the referent (the Philistines) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text reads, &#8220;Elchanan son of Jair killed Lachmi the brother of Goliath the Gittite.&#8221; But it is likely that the accusative marker in front of <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1495;&#1456;&#1502;&#1460;&#1497;</font> (<font face=\"Scholar\">lakhmiy</font>, &#8220;Lachmi&#8221;) is a corruption of <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1461;&#1497;&#1514;</font> (<font face=\"Scholar\">bet</font>), and that <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1514;&#1470;&#1500;&#1463;&#1495;&#1456;&#1502;&#1460;&#1497;</font> (&#8217;<font face=\"Scholar\">et-lakhmiy</font>) should be emended to <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1461;&#1497;&#1514; &#1492;&#1463;&#1500;&#1468;&#1463;&#1495;&#1456;&#1502;&#1460;&#1497;</font> (<font face=\"Scholar\">bet hallakhmiy</font>, &#8220;the Bethlehemite&#8221;). See <span class=\"bibleref\" title=\"2 Samuel 21:19\">2 Sam 21:19</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> See <b>tc</b> note on the parallel passage in <span class=\"bibleref\" title=\"2 Samuel 21:19\">2 Sam 21:19</span>.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and there was another battle, in Gath.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The parallel text in <span class=\"bibleref\" title=\"2 Samuel 21:21\">2 Sam 21:21</span> has the variant spelling &#8220;Shimeah.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they fell.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his servants.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "1",
+      "text": "In the spring, at the time when kings normally conduct wars, Joab led the army into battle and devastated the land of the Ammonites. He went and besieged Rabbah, while David stayed in Jerusalem. Joab defeated Rabbah and tore it down. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "2",
+      "text": "David took the crown from the head of their king and wore it (its weight was a talent of gold, and it was set with precious stones). He took a large amount of plunder from the city. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "3",
+      "text": "He removed the city’s residents and made them labor with saws, iron picks, and axes. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "4",
+      "text": "Later there was a battle with the Philistines in Gezer. At that time Sibbekai the Hushathite killed Sippai, one of the descendants of the Rephaim, and the Philistines were subdued. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "5",
+      "text": "There was another battle with the Philistines in which Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite, whose spear had a shaft as big as the crossbeam of a weaver’s loom."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "6",
+      "text": "In a battle in Gath there was a large man who had six fingers on each hand and six toes on each foot—twenty-four in all! He too was a descendant of Rapha. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "7",
+      "text": "When he taunted Israel, Jonathan son of Shimea, David’s brother, killed him."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "20",
+      "verse": "8",
+      "text": "These were the descendants of Rapha who lived in Gath; they were killed by the hand of David and his soldiers. "
+    }
+  ]
+}

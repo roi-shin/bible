@@ -1,0 +1,419 @@
+{
+  "book": "2 Kings",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now Naaman, the commander of the king of Syria’s army, was esteemed and respected by his master, for through him the Lord had given Syria military victories. But this great warrior had a skin disease. ",
+      "ja": "アラムの王の軍の司令官ナアマンは、主が彼を通してアラムに勝利を与えられたため、主君に重んじられ、尊敬されていた。この勇士は重い皮膚病を患っていた。"
+    },
+    {
+      "verse": 2,
+      "en": "Raiding parties went out from Syria and took captive from the land of Israel a young girl, who became a servant to Naaman’s wife. ",
+      "ja": "かつてアラムから略奪隊が出動した際、イスラエルの地から一人の少女を捕虜として連れて来ていた。彼女はナアマンの妻に仕える召使いとなった。"
+    },
+    {
+      "verse": 3,
+      "en": "She told her mistress, “If only my master were in the presence of the prophet who is in Samaria! Then he would cure him of his skin disease.” ",
+      "ja": "彼女は女主人のもとで言った。「ご主人様がサマリアにおられる預言者の前に出られるなら、その方が皮膚病を治してくださるでしょうに。」"
+    },
+    {
+      "verse": 4,
+      "en": "Naaman went and told his master what the girl from the land of Israel had said. ",
+      "ja": "ナアマンは行き、イスラエルの地から来た少女が語ったことを主君に告げた。"
+    },
+    {
+      "verse": 5,
+      "en": "The king of Syria said, “Go! I will send a letter to the king of Israel.” So Naaman went, taking with him 10 talents of silver, 6,000 shekels of gold, and 10 suits of clothes. ",
+      "ja": "アラムの王は言った。「行くがよい。イスラエルの王へ手紙を送ろう。」そこでナアマンは銀十タラント、金六千シェケル、着替えの衣服十揃いを携えて出立した。"
+    },
+    {
+      "verse": 6,
+      "en": "He brought the letter to the king of Israel. It read: “This is a letter of introduction for my servant Naaman, whom I have sent to be cured of his skin disease.” ",
+      "ja": "彼はその手紙をイスラエルの王に届けた。そこにはこう書かれていた。「この手紙が届いたときには、私の家臣ナアマンをお手元に送ったものとお知りください。彼の皮膚病を治していただきたいのです。」"
+    },
+    {
+      "verse": 7,
+      "en": "When the king of Israel read the letter, he tore his clothes and said, “Am I God? Can I kill or restore life? Why does he ask me to cure a man of his skin disease? Certainly you must see that he is looking for an excuse to fight me!”",
+      "ja": "イスラエルの王はその手紙を読むと、衣服を引き裂いて言った。「私は人を殺し、また生かすことのできる神であろうか。この男が私のところに人を送り、皮膚病を治せと要求するのはなぜか。彼が私に戦いを挑む口実を求めていることが、そなたたちにも分かるはずだ。」"
+    },
+    {
+      "verse": 8,
+      "en": "When Elisha the prophet heard that the king of Israel had torn his clothes, he sent this message to the king, “Why did you tear your clothes? Send him to me so he may know there is a prophet in Israel.” ",
+      "ja": "神の人エリシャは、イスラエルの王が衣服を引き裂いたと聞き、王に使いを送って言った。「なぜ衣服を引き裂かれたのですか。その人を私のところに来させてください。そうすれば、イスラエルに預言者がいることを知るでしょう。」"
+    },
+    {
+      "verse": 9,
+      "en": "So Naaman came with his horses and chariots and stood in the doorway of Elisha’s house. ",
+      "ja": "こうしてナアマンは馬と戦車を率いてやって来て、エリシャの家の入り口に立った。"
+    },
+    {
+      "verse": 10,
+      "en": "Elisha sent out a messenger who told him, “Go and wash seven times in the Jordan; your skin will be restored and you will be healed.” ",
+      "ja": "エリシャは使者を送って告げさせた。「ヨルダン川へ行き、七度身を洗いなさい。そうすればあなたの皮膚は元に戻り、清められます。」"
+    },
+    {
+      "verse": 11,
+      "en": "Naaman went away angry. He said, “Look, I thought for sure he would come out, stand there, invoke the name of the Lord his God, wave his hand over the area, and cure the skin disease. ",
+      "ja": "ナアマンは怒って立ち去り、言った。「彼が自ら出て来て立ち、彼の神、主の名を呼び、患部の上に手を振って皮膚病を治してくれると思っていたのだ。"
+    },
+    {
+      "verse": 12,
+      "en": "The rivers of Damascus, the Abana and Pharpar, are better than any of the waters of Israel! Could I not wash in them and be healed?” So he turned around and went away angry. ",
+      "ja": "ダマスコの川、アマナやパルパルは、イスラエルのどの川の水よりも優れているではないか。それらの川で身を洗って清められないというのか。」こうして彼は身を翻し、激怒して立ち去った。"
+    },
+    {
+      "verse": 13,
+      "en": "His servants approached and said to him, “O master, if the prophet had told you to do some difficult task, you would have been willing to do it. It seems you should be happy that he simply said, ‘Wash and you will be healed.’” ",
+      "ja": "家臣たちが近づいて彼に言った。「父上、もしあの預言者が何か困難なことを命じたとしても、実行されたことでしょう。まして、『身を洗って清められなさい』と言われただけなのですから。」"
+    },
+    {
+      "verse": 14,
+      "en": "So he went down and dipped in the Jordan seven times, as the prophet had instructed. His skin became as smooth as a young child’s and he was healed. ",
+      "ja": "そこで彼は下って行き、神の人の言葉に従ってヨルダン川に七度身を浸した。すると彼の皮膚は幼子の肌のようになめらかになり、清められた。"
+    },
+    {
+      "verse": 15,
+      "en": "He and his entire entourage returned to the prophet. Naaman came and stood before him. He said, “For sure I know that there is no God in all the earth except in Israel! Now, please accept a gift from your servant.” ",
+      "ja": "彼とその一行はみな神の人のもとに引き返した。ナアマンはエリシャの前に進み出て言った。「イスラエルのほか、全地のどこにも神はおられないことを悟りました。どうかこの僕からの贈り物をお受け取りください。」"
+    },
+    {
+      "verse": 16,
+      "en": "But Elisha replied, “As certainly as the Lord lives (whom I serve), I will take nothing from you.” Naaman insisted that he take it, but he refused. ",
+      "ja": "しかしエリシャは答えた。「私が仕えている主は生きておられる。私は何も受け取らない。」ナアマンは受けるように強く勧めたが、エリシャは断った。"
+    },
+    {
+      "verse": 17,
+      "en": "Naaman said, “If not, then please give your servant a load of dirt, enough for a pair of mules to carry, for your servant will never again offer a burnt offering or sacrifice to a god other than the Lord. ",
+      "ja": "ナアマンは言った。「それなら、らば二頭が運べるほどの土をこの僕にお授けください。この僕は今後、主以外のほかの神々に全焼のいけにえや祭壇のいけにえをささげることは決してありません。"
+    },
+    {
+      "verse": 18,
+      "en": "May the Lord forgive your servant for this one thing: When my master enters the temple of Rimmon to worship, and he leans on my arm and I bow down in the temple of Rimmon, may the Lord forgive your servant for this.” ",
+      "ja": "ただ、この一つのことについて主が僕をお赦しくださいますように。私の主君が礼拝のためにリモンの神殿に入り、私の腕に寄りかかり、私がリモンの神殿で身をかがめるとき、このことについて主が僕をお赦しくださいますように。」"
+    },
+    {
+      "verse": 19,
+      "en": "Elisha said to him, “Go in peace.” When he had gone a short distance, ",
+      "ja": "エリシャは彼に「安心して行きなさい」と言った。ナアマンがエリシャから離れてしばらく進んだとき、"
+    },
+    {
+      "verse": 20,
+      "en": "Gehazi, the prophet Elisha’s servant, thought, “Look, my master did not accept what this Syrian Naaman offered him. As certainly as the Lord lives, I will run after him and accept something from him.”",
+      "ja": "神の人エリシャの従者ゲハジは心の中で思った。「我が主人は、このアラム人ナアマンが持参した物を受け取らずに免除してやった。主は生きておられる。私は彼の後を追って走り、何かを受け取ってこよう。」"
+    },
+    {
+      "verse": 21,
+      "en": "So Gehazi ran after Naaman. When Naaman saw someone running after him, he got down from his chariot to meet him and asked, “Is everything all right?”",
+      "ja": "ゲハジはナアマンの後を追った。ナアマンはだれかが走って追ってくるのを見ると、戦車から降りて彼を迎え、「何事も無事ですか」と尋ねた。"
+    },
+    {
+      "verse": 22,
+      "en": "He answered, “Everything is fine. My master sent me with this message, ‘Look, two servants of the prophets just arrived from the Ephraimite hill country. Please give them a talent of silver and two suits of clothes.’” ",
+      "ja": "ゲハジは答えた。「無事です。主人が私を使いに出してこう申しました。『エフライムの山地から預言者の弟子の若者二人がやって来ました。彼らに銀一タラントと着替えの衣服二揃いを与えてください。』」"
+    },
+    {
+      "verse": 23,
+      "en": "Naaman said, “Please accept two talents of silver.” He insisted, and tied up two talents of silver in two bags, along with two suits of clothes. He gave them to two of his servants and they carried them for Gehazi. ",
+      "ja": "ナアマンは「どうぞ二タラントお受け取りください」と言って強く勧め、二つの袋に銀二タラントを着替えの衣服二揃いとともに入れ、自分の従者二人に渡してゲハジの前で運ばせた。"
+    },
+    {
+      "verse": 24,
+      "en": "When he arrived at the hill, he took them from the servants and put them in the house. Then he sent the men on their way. ",
+      "ja": "丘に着くと、ゲハジは従者たちの手からそれらを受け取って家の中にしまい、男たちを帰らせた。彼らは立ち去った。"
+    },
+    {
+      "verse": 25,
+      "en": "When he came and stood before his master, Elisha asked him, “Where have you been, Gehazi?” He answered, “Your servant hasn’t been anywhere.” ",
+      "ja": "彼が入って主人の前に立つと、エリシャは彼に言った。「ゲハジ、どこへ行っていたのか。」彼は「僕は何処へも行きませんでした」と答えた。"
+    },
+    {
+      "verse": 26,
+      "en": "Elisha replied, “I was there in spirit when a man turned and got down from his chariot to meet you. This is not the proper time to accept silver or to accept clothes, olive groves, vineyards, sheep, cattle, and male and female servants. ",
+      "ja": "エリシャは彼に言った。「あの男が戦車から降り、向き直ってあなたを迎えたとき、私の心はともに行っていなかっただろうか。今は銀を受け取り、衣服やオリーブ畑、ぶどう畑、羊、牛、男女の奴隷を受け取る時であろうか。"
+    },
+    {
+      "verse": 27,
+      "en": "Therefore Naaman’s skin disease will afflict you and your descendants forever!” When Gehazi went out from his presence, his skin was as white as snow. ",
+      "ja": "それゆえ、ナアマンの皮膚病があなたとあなたの子孫に永久にまとわりつくことになる。」ゲハジがエリシャの前から出て行ったとき、彼の皮膚は雪のように白くなっていた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “was a great man before his master and lifted up with respect to the face.”",
+        "ja": "[翻訳注] ヘブル語では「主君の前で偉大な人物であり、顔を上げられた（重んじられた）者であった」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  For a discussion of מְצֹרָע (mÿtsora’), traditionally translated “leprous,” see M. Cogan and H. Tadmor, II Kings (AB), 63. Naaman probably had a skin disorder of some type, not leprosy/Hansen’s disease.",
+        "ja": "[翻訳注] 伝統的に「ツァラアトに冒された」と訳されてきた מְצֹרָע (metsora) についての議論は、M. Cogan and H. Tadmor, II Kings (AB), 63 を参照。ナアマンはハンセン病ではなく、何らかの皮膚疾患を患っていたと考えられる。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map2-B1; Map4-D3; Map5-E2; Map6-A4; Map7-C1.",
+        "ja": "[地図] 位置については Map2-B1、Map4-D3、Map5-E2、Map6-A4、Map7-C1 を参照。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Naaman) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（ナアマン）を明示している。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Naaman) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（ナアマン）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew term כִּכָּר (kikkar, “circle”) refers generally to something that is round. When used of metals it can refer to a disk-shaped weight made of the metal or to a standard unit of weight, generally regarded as a talent. Since the accepted weight for a talent of metal is about 75 pounds, this would have amounted to about 750 pounds of silver (cf. NCV, NLT, CEV).",
+        "ja": "[翻訳注] ヘブル語の「キカル」（כִּכָּר、「円形」）という語は、一般に丸いものを指す。金属に関して用いられる場合、その金属で作られた円盤状の分銅、あるいは一般にタラントと見なされる標準的な重量単位を指すことがある。金属の1タラントの標準的な重量は約75ポンド（約34キログラム）であるため、これは銀約750ポンド（約340キログラム）に相当する（NCV、NLT、CEV参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “six thousand gold […].” The unit of measure is not given in the Hebrew text. A number of English versions supply “pieces” (e.g., KJV, ASV, NAB, TEV) or “shekels” (e.g., NASB, NIV, NRSV).",
+        "ja": "[翻訳注] ヘブル語では「金六千［…］」。ヘブル語本文には度量衡の単位が記されていない。英語訳の多くは「枚（pieces）」（KJV、ASV、NAB、TEVなど）や「シェケル（shekels）」（NASB、NIV、NRSVなど）を補っている。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and now when this letter comes to you, look, I have sent to you Naaman my servant.”",
+        "ja": "[翻訳注] ヘブル語では「今、この手紙があなたのもとに届いたときには、見よ、私の家臣ナアマンをあなたのところに送ったのである」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Am I God, killing and restoring life, that this one sends to me to cure a man from his skin disease?” In the Hebrew text this is one lengthy rhetorical question, which has been divided up in the translation for stylistic reasons.",
+        "ja": "[翻訳注] ヘブル語では「私は人を殺し、また生かす神であろうか。それゆえこの者は私のところに人を送り、その皮膚病を治せと言うのか」。ヘブル語本文では一つの長い修辞的疑問文であるが、文体上の配慮から翻訳では分割されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Indeed, know and see that he is seeking an occasion with respect to me.”",
+        "ja": "[翻訳注] ヘブル語では「実に、彼が私に対して機会（口実）を求めていることを知り、見よ」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “man of God” (also in vv. 15, 20).",
+        "ja": "[翻訳注] ヘブル語では「神の人」（15節、20節も同様）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Let him come.”",
+        "ja": "[翻訳注] ヘブル語では「彼を来させよ」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “will return to you.”",
+        "ja": "[翻訳注] ヘブル語では「あなたに戻る」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Are not Abana and Pharpar, the rivers of Damascus, better than all of the waters of Israel?” The rhetorical question expects an emphatic “yes” as an answer.",
+        "ja": "[翻訳注] ヘブル語では「ダマスコの川、アバナとパルパルは、イスラエルのすべての水に勝っているではないか」。この修辞的疑問文は強調的な肯定の答えを期待している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “my father,” reflecting the perspective of each individual servant. To address their master as “father” would emphasize his authority and express their respect. See BDB 3 s.v. אָב and the similar idiomatic use of “father” in 2 Kgs 2:12.",
+        "ja": "[翻訳注] ヘブル語では「父よ」。個々の従者の視点を反映している。主人を「父」と呼ぶことは主人の権威を強調し、敬意を表すものである。BDB 3 s.v. אָב、および列王記第二2章12節における「父」の同様の慣用的用法を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a great thing.”",
+        "ja": "[翻訳注] ヘブル語では「大きなこと」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “would you not do [it]?” The rhetorical question expects the answer, “Of course you would.”",
+        "ja": "[翻訳注] ヘブル語では「あなたはそれを行わなかっただろうか」。この修辞的疑問文は「当然行ったはずだ」という答えを期待している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “How much more [when] he said, “Wash and be healed.” The second imperative (“be healed”) states the expected result of obeying the first (‘wash”).",
+        "ja": "[翻訳注] ヘブル語では「彼が『身を洗って清まれ』と言ったときはなおさらのことではないか」。二つ目の命令形（「清まれ」）は、最初（「洗え」）に従った結果として期待される状態を述べている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “according to the word of the man of God.”",
+        "ja": "[翻訳注] ヘブル語では「神の人の言葉に従って」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and his skin was restored, like the skin of a small child.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼の皮膚は回復し、小さな幼子の皮膚のようになった」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Naaman) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（ナアマン）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “look.”",
+        "ja": "[翻訳注] ヘブル語では「見よ」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Elisha) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（エリシャ）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “before whom I stand.”",
+        "ja": "[翻訳注] ヘブル語では「その御前に私が立っている」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “he”; the referent (Naaman) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（ナアマン）を明示している。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and [if] not, may there be given to your servant a load [for] a pair of mules, earth.”",
+        "ja": "[翻訳注] ヘブル語では「もしそうでないなら、どうか一対のらばの荷の土が僕に与えられますように」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for your servant will not again make a burnt offering and sacrifice to other gods, only to the Lord.”",
+        "ja": "[翻訳注] ヘブル語では「僕は二度とほかの神々に全焼のいけにえやいけにえをささげず、ただ主にのみささげるからです」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “When my master enters the house of Rimmon to bow down there, and he leans on my hand and I bow down [in] the house of Rimmon, when I bow down [in] the house of Rimmon, may the Lord forgive your servant for this thing.”[解説]  Rimmon was the Syrian storm god. See M. Cogan and H. Tadmor, II Kings (AB), 65.",
+        "ja": "[翻訳注] ヘブル語では「我が主人がそこで拝むためにリモンの家に入り、私の手に寄りかかり、私がリモンの家で身をかがめるとき、私がリモンの家で身をかがめることについて、主がこの事に関して僕をお赦しくださいますように」。[解説] リモンはアラムの嵐の神。M. Cogan and H. Tadmor, II Kings (AB), 65 を参照。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Elisha) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（エリシャ）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and he went from him a distance of land.” The precise meaning of כִּבְרַה (kivrah) “distance,” is uncertain. See BDB 460 s.v. כִּבְרַה, and HALOT 459-60 s.v. II *כְּבָרַה, and M. Cogan and H. Tadmor, II Kings (AB), 65.",
+        "ja": "[翻訳注] ヘブル語では「そして彼は彼からある距離の土地を進んだ」。「距離」を意味する כִּבְרַה (kivrah) の正確な意味は不明確である。BDB 460 s.v. כִּבְרַה、HALOT 459-60 s.v. II *כְּבָרַה、および M. Cogan and H. Tadmor, II Kings (AB), 65 を参照。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “said” (i.e., to himself).",
+        "ja": "[翻訳注] ヘブル語では「言った」（心の中で言ったこと）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Look, my master spared this Syrian Naaman by not taking from his hand what he brought.”",
+        "ja": "[翻訳注] ヘブル語では「見よ、我が主人はこのアラム人ナアマンが持参したものをその手から受け取らず、彼を容赦した（免除した）」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Is there peace?”",
+        "ja": "[翻訳注] ヘブル語では「平和があるか（無事ですか）」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “peace.”",
+        "ja": "[翻訳注] ヘブル語では「平和（無事です）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Look now, here, two servants came to me from the Ephraimite hill country, from the sons of the prophets.”",
+        "ja": "[翻訳注] ヘブル語では「今、見よ、預言者の弟子たちの中から二人の若者がエフライムの山地から私のところに来た」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew term כִּכָּר (kikkar, “circle”) refers generally to something that is round. When used of metals it can refer to a disk-shaped weight made of the metal or to a standard unit of weight, generally regarded as a talent. Since the accepted weight for a talent of metal is about 75 pounds, this would have amounted to about 75 pounds of silver (cf. NCV, NLT, CEV).",
+        "ja": "[翻訳注] ヘブル語の「キカル」（כִּכָּר、「円形」）という語は、一般に丸いものを指す。金属に関して用いられる場合、その金属で作られた円盤状の分銅、あるいは一般にタラントと見なされる標準的な重量単位を指すことがある。金属の1タラントの標準的な重量は約75ポンド（約34キログラム）であるため、これは銀約75ポンド（約34キログラム）に相当する（NCV、NLT、CEV参照）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Be resolved and accept two talents.”",
+        "ja": "[翻訳注] ヘブル語では「どうか思い定めて二タラントをお受け取りください」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “before him.”",
+        "ja": "[翻訳注] ヘブル語では「彼の前で」。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from their hand.”",
+        "ja": "[翻訳注] ヘブル語では「彼らの手から」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and he sent the men away and they went.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼は男たちを去らせ、彼らは去った」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Elisha) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（エリシャ）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Did not my heart go as a man turned from his chariot to meet you?” The rhetorical question emphasizes that he was indeed present in “heart” (or “spirit”) and was very much aware of what Gehazi had done. In the MT the interrogative particle has been accidentally omitted before the negative particle.",
+        "ja": "[翻訳注] ヘブル語では「あの男が戦車から降り、向き直ってあなたを迎えたとき、私の心は行かなかっただろうか」。この修辞的疑問文は、エリシャが「心（霊）」においてそこに居合わせ、ゲハジが行ったことを十分に把握していたことを強調している。マソラ本文（MT）では、否定辞の前の疑問小辞が脱落している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  In the MT the statement is phrased as a rhetorical question, “Is this the time…?” It expects an emphatic negative response.",
+        "ja": "[翻訳注] マソラ本文（MT）では「今は…の時であろうか」という修辞的疑問文の形で表現されている。強調的な否定の答えを期待している。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “cling to.”",
+        "ja": "[翻訳注] ヘブル語では「〜に密着する（まとわりつく）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he”; the referent (Gehazi) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。分かりやすさのため、翻訳では指示対象（ゲハジ）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Traditionally, “he went from before him, leprous like snow.” But see the note at 5:1, as well as M. Cogan and H. Tadmor, II Kings (AB), 66.",
+        "ja": "[翻訳注] 伝統的には「彼は彼のもとから雪のようにツァラアトに冒されて出た」。しかし5章1節の注釈、および M. Cogan and H. Tadmor, II Kings (AB), 66 を参照。"
+      }
+    ]
+  }
+}

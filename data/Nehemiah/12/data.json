@@ -1,0 +1,479 @@
+{
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "These are the priests and Levites who returned with Zerubbabel son of Shealtiel and Jeshua: Seraiah, Jeremiah, Ezra, ",
+      "ja": "これらは、シャルティエルの子ゼルバベルおよびエシュアと共に帰還した祭司たちとレビ人である。セラヤ、エレミヤ、エズラ、"
+    },
+    {
+      "verse": 2,
+      "en": "Amariah, Malluch, Hattush, ",
+      "ja": "アマリヤ、マッルク、ハットシュ、"
+    },
+    {
+      "verse": 3,
+      "en": "Shecaniah, Rehum, Meremoth, ",
+      "ja": "シェカニヤ、レフム、メレモテ、"
+    },
+    {
+      "verse": 4,
+      "en": "Iddo, Ginnethon, Abijah, ",
+      "ja": "イド、ギネトンのアビヤ、"
+    },
+    {
+      "verse": 5,
+      "en": "Mijamin, Moadiah, Bilgah, ",
+      "ja": "ミヤミン、モアデヤ、ビルガ、"
+    },
+    {
+      "verse": 6,
+      "en": "Shemaiah, Joiarib, Jedaiah, ",
+      "ja": "シェマヤ、ヨイアリブ、ジェダヤ、"
+    },
+    {
+      "verse": 7,
+      "en": "Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their colleagues in the days of Jeshua. ",
+      "ja": "サル、アモク、ヒルキヤ、ジェダヤ。これらはエシュアの時代における祭司たちの頭（かしら）およびその同僚たちであった。"
+    },
+    {
+      "verse": 8,
+      "en": "And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who together with his colleagues was in charge of the songs of thanksgiving. ",
+      "ja": "またレビ人は、エシュア、ビンヌイ、カドミエル、シェレビヤ、ユダ、マッタニヤであり、彼とその同僚たちは感謝の歌を司っていた。"
+    },
+    {
+      "verse": 9,
+      "en": "Bakbukiah and Unni, their colleagues, stood opposite them in the services. ",
+      "ja": "その同僚であるバクブキヤとウンニは、務めにおいて彼らの向かい側に立った。"
+    },
+    {
+      "verse": 10,
+      "en": "Jeshua was the father of Joiakim, Joiakim was the father of Eliashib, Eliashib was the father of Joiada, ",
+      "ja": "エシュアはヨイアキムの父であり、ヨイアキムはエリアシブの父、エリアシブはヨイアダの父、"
+    },
+    {
+      "verse": 11,
+      "en": "Joiada was the father of Jonathan, and Jonathan was the father of Jaddua. ",
+      "ja": "ヨイアダはヨナタンの父、ヨナタンはジャドゥアの父であった。"
+    },
+    {
+      "verse": 12,
+      "en": "In the days of Joiakim, these were the priests who were leaders of the families: of Seraiah, Meraiah; of Jeremiah, Hananiah; ",
+      "ja": "ヨイアキムの時代、各家系を率いた祭司たちは次のとおりである。セラヤにはメラヤ、エレミヤにはハナニヤ、"
+    },
+    {
+      "verse": 13,
+      "en": "of Ezra, Meshullam; of Amariah, Jehohanan; ",
+      "ja": "エズラにはメシュラム、アマリヤにはイェホハナン、"
+    },
+    {
+      "verse": 14,
+      "en": "of Malluch, Jonathan; of Shecaniah, Joseph; ",
+      "ja": "マッルクにはヨナタン、シェカニヤにはヨセフ、"
+    },
+    {
+      "verse": 15,
+      "en": "of Harim, Adna; of Meremoth, Helkai; ",
+      "ja": "ハリムにはアドナ、メレモテにはヘルカイ、"
+    },
+    {
+      "verse": 16,
+      "en": "of Iddo, Zechariah; of Ginnethon, Meshullam; ",
+      "ja": "イドにはゼカリヤ、ギネトンにはメシュラム、"
+    },
+    {
+      "verse": 17,
+      "en": "of Abijah, Zicri; of Miniamin and of Moadiah, Piltai; ",
+      "ja": "アビヤにはズクリ、ミニアミンおよびモアデヤにはピルタイ、"
+    },
+    {
+      "verse": 18,
+      "en": "of Bilgah, Shammua; of Shemaiah, Jehonathan; ",
+      "ja": "ビルガにはシャムア、シェマヤにはイェホナタン、"
+    },
+    {
+      "verse": 19,
+      "en": "of Joiarib, Mattenai; of Jedaiah, Uzzi; ",
+      "ja": "ヨイアリブにはマッテナイ、ジェダヤにはウッツィ、"
+    },
+    {
+      "verse": 20,
+      "en": "of Sallu, Kallai; of Amok, Eber; ",
+      "ja": "サルにはカッライ、アモクにはエベル、"
+    },
+    {
+      "verse": 21,
+      "en": "of Hilkiah, Hashabiah; of Jedaiah, Nethanel. ",
+      "ja": "ヒルキヤにはハシャビヤ、ジェダヤにはネタネルであった。"
+    },
+    {
+      "verse": 22,
+      "en": "As for the Levites, in the days of Eliashib, Joiada, Johanan, and Jaddua the heads of families were recorded, as were the priests during the reign of Darius the Persian. ",
+      "ja": "レビ人については、エリアシブ、ヨイアダ、ヨハナン、ジャドゥアの時代に、各家系の頭たちが記録され、ペルシアの王ダリウスの治世には祭司たちも記録された。"
+    },
+    {
+      "verse": 23,
+      "en": "The descendants of Levi were recorded in the Book of the Chronicles as heads of families up to the days of Johanan son of Eliashib. ",
+      "ja": "レビの子孫の家系の頭たちは、エリアシブの子ヨハナンの時代に至るまで、『歴代誌』に記録された。"
+    },
+    {
+      "verse": 24,
+      "en": "And the leaders of the Levites were Hashabiah, Sherebiah, Jeshua son of Kadmiel, and their colleagues, who stood opposite them to offer praise and thanks, one contingent corresponding to the other, as specified by David the man of God. ",
+      "ja": "レビ人の頭たちは、ハシャビヤ、シェレビヤ、カドミエル流エシュア、およびその同僚たちであり、神の人ダビデが命じた通りに、一方が他方に対応しつつ、向かい合って賛美と感謝をささげた。"
+    },
+    {
+      "verse": 25,
+      "en": "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers who were guarding the storerooms at the gates. ",
+      "ja": "マッタニヤ、バクブキヤ、オバデヤ、メシュラム、タルモン、アクブは門衛であり、諸門の物置部屋を警衛していた。"
+    },
+    {
+      "verse": 26,
+      "en": "These all served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priestly scribe. ",
+      "ja": "これらはすべて、ヨツダクの子エシュアの子ヨイアキムの時代、および総督ネヘミヤと律法学者である祭司エズラの時代に仕えた人々である。"
+    },
+    {
+      "verse": 27,
+      "en": "At the dedication of the wall of Jerusalem, they sought out the Levites from all the places they lived to bring them to Jerusalem to celebrate the dedication joyfully with songs of thanksgiving and songs accompanied by cymbals, harps, and lyres. ",
+      "ja": "エルサレムの城壁の献堂式に際して、人々は自分たちのすべての居住地からレビ人を探し求め、感謝の歌や、シンバル、琴、立琴の伴奏に合わせて、喜びのうちに献堂式を祝うために彼らをエルサレムへ連れて来た。"
+    },
+    {
+      "verse": 28,
+      "en": "The singers were also assembled from the district around Jerusalem and from the settlements of the Netophathites ",
+      "ja": "また、歌う者たちがエルサレム周辺の地区や、ネトファテ人の集落から集められた。"
+    },
+    {
+      "verse": 29,
+      "en": "and from Beth Gilgal and from the fields of Geba and Azmaveth, for the singers had built settlements for themselves around Jerusalem. ",
+      "ja": "さらに、ベテ・ギルガル、ゲバおよびアズマベテの野原からも集められた。歌う者たちはエルサレムの周囲に自分たちの集落を建てていたからである。"
+    },
+    {
+      "verse": 30,
+      "en": "When the priests and Levites had purified themselves, they purified the people, the gates, and the wall. ",
+      "ja": "祭司たちとレビ人たちが身を清めた後、彼らは民、諸門、そして城壁を清めた。"
+    },
+    {
+      "verse": 31,
+      "en": "I brought the leaders of Judah up on top of the wall, and I appointed two large choirs to give thanks. One was to proceed on the top of the wall southward toward the Dung Gate. ",
+      "ja": "私はユダの指導者たちを城壁の上に上らせ、感謝をささげる二つの大きな聖歌隊を任命した。その一つは、城壁の上を南の「ふん門」に向かって進んだ。"
+    },
+    {
+      "verse": 32,
+      "en": "Going after them were Hoshaiah, half the leaders of Judah, ",
+      "ja": "彼らの後ろにはホシャヤと、ユダの指導者たちの半数が進んだ。"
+    },
+    {
+      "verse": 33,
+      "en": "Azariah, Ezra, Meshullam, ",
+      "ja": "アザリヤ、エズラ、メシュラム、"
+    },
+    {
+      "verse": 34,
+      "en": "Judah, Benjamin, Shemaiah, Jeremiah, ",
+      "ja": "ユダ、ベニヤミン、シェマヤ、エレミヤ、"
+    },
+    {
+      "verse": 35,
+      "en": "some of the priests with trumpets, Zechariah son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph, ",
+      "ja": "ラッパを手にした祭司たち、すなわち、ゼカリヤ（彼はヨナタンの子、シェマヤの子、マッタニヤの子、ミカイヤの子、ザックルのの子、アサフの子である）、"
+    },
+    {
+      "verse": 36,
+      "en": "and his colleagues—Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani—with musical instruments of David the man of God. (Ezra the scribe led them.)",
+      "ja": "およびその同僚たち――シェマヤ、アザレル、ミラライ、ギラライ、マアイ、ネタネル、ユダ、ハナニヤ――が進んだ。彼らは神の人ダビデの楽器を手にしており、（書記エズラが彼らを率いていた）、"
+    },
+    {
+      "verse": 37,
+      "en": "They went over the Fountain Gate and continued directly up the steps of the City of David on the ascent to the wall. They passed the house of David and continued on to the Water Gate toward the east. ",
+      "ja": "「泉の門」を通り過ぎて、ダビデの町の階段をまっすぐに上り、城壁の登り口へと進み、ダビデの家の先を通って、東側の「水の門」に至った。"
+    },
+    {
+      "verse": 38,
+      "en": "The second choir was proceeding in the opposite direction. I followed them, along with half the people, on top of the wall, past the Tower of the Ovens to the Broad Wall, ",
+      "ja": "第二の聖歌隊は反対の方向へ進んだ。私は民の半分と共に彼らの後ろに従い、城壁の上を通り、「炉の塔」を過ぎて「幅広の城壁」に至り、"
+    },
+    {
+      "verse": 39,
+      "en": "over the Ephraim Gate, the Jeshanah Gate, the Fish Gate, the Tower of Hananel, and the Tower of the Hundred, to the Sheep Gate. They stopped at the Gate of the Guard. ",
+      "ja": "「エフライム門」、「旧門（エシャナ門）」、「魚の門」、ハナンエルの塔、百人の塔を過ぎて「羊の門」に至った。彼らは「衛兵の門」で立ち止まった。"
+    },
+    {
+      "verse": 40,
+      "en": "Then the two choirs that gave thanks took their stations in the temple of God. I did also, along with half the officials with me,",
+      "ja": "こうして、感謝をささげる二つの聖歌隊は神の神殿にそれぞれの持ち場についた。私と、私と一緒にいた役人たちの半分もそうした。"
+    },
+    {
+      "verse": 41,
+      "en": "and the priests—Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with their trumpets—",
+      "ja": "また、祭司たち――エリアキム、マアセヤ、ミニアミン、ミカイヤ、エリオエナイ、ゼカリヤ、ハナニヤ――がラッパを手にし、"
+    },
+    {
+      "verse": 42,
+      "en": "and also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam, and Ezer. The choirs sang loudly under the direction of Jezrahiah. ",
+      "ja": "さらにマアセヤ、シェマヤ、エレアザル、ウッツィ、イェホハナン、マルキヤ、エラム、エゼルがいた。聖歌隊はエズラヒヤの指揮のもと、大いなる声で歌った。"
+    },
+    {
+      "verse": 43,
+      "en": "And on that day they offered great sacrifices and rejoiced, for God had given them great joy. The women and children also rejoiced. The rejoicing in Jerusalem could be heard from far away. ",
+      "ja": "その日、彼らは盛大な犠牲をささげて大いに喜び祝った。神が大いなる喜びを彼らに与えられたからである。婦人たちや子どもたちも喜び祝った。エルサレムの喜びの声は遠く離れた所からも聞かれた。"
+    },
+    {
+      "verse": 44,
+      "en": "On that day men were appointed over the storerooms for the contributions, firstfruits, and tithes, to gather into them from the fields of the cities the portions prescribed by the law for the priests and the Levites, for the people of Judah took delight in the priests and Levites who were ministering. ",
+      "ja": "その日、献納物、初穂、十分一の納め物のための物置部屋の責任者たちが任命された。それは、諸都市の野原から、律法が祭司たちとレビ人たちに定めている分け前をその部屋に集めるためであった。ユダの人々は、仕えている祭司たちとレビ人たちを喜んでいたからである。"
+    },
+    {
+      "verse": 45,
+      "en": "They performed the service of their God and the service of purification, along with the singers and gatekeepers, according to the commandment of David and his son Solomon. ",
+      "ja": "彼らは、ダビデとその子ソロモンの命に従って、自分たちの神の務めと清めの務めを守り、歌う者たちと門衛たちもそれに従った。"
+    },
+    {
+      "verse": 46,
+      "en": "For long ago, in the days of David and Asaph, there had been directors for the singers and for the songs of praise and thanks to God. ",
+      "ja": "はるか昔、ダビデとアサフの時代には、歌う者たちの指導者たちがおり、神への賛美と感謝の歌があったからである。"
+    },
+    {
+      "verse": 47,
+      "en": "So in the days of Zerubbabel and in the days of Nehemiah, all Israel was contributing the portions for the singers and gatekeepers, according to the daily need. They also set aside the portion for the Levites, and the Levites set aside the portion for the descendants of Aaron. ",
+      "ja": "それゆえ、ゼルバベルの時代にもネヘミヤの時代にも、イスラエル全体が、日々の必要に応じて歌う者たちと門衛たちの分け前を与えていた。また彼らはレビ人のための分け前を聖別し、レビ人はアロンの子孫のための分け前を聖別した。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “who went up.”",
+        "ja": "ヘブライ語本文では「上った者たち」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Most Hebrew MSS read “Ginnethoi”; the present translation follows a number of Hebrew MSS and the Vulgate (cf. Neh 12:16 and NIV, NCV, NLT).",
+        "ja": "大部分のヘブライ語写本は「ギネトホイ」と読む。本翻訳は、多くのヘブライ語写本およびウルガタ訳に従っている（ネヘミヤ 12:16、および NIV, NCV, NLT 参照）。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “heads” (so also in v. 12).",
+        "ja": "ヘブライ語では「頭（かしら）」（12節でも同様）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “brothers” (also in vv. 8, 9, 24, 36).",
+        "ja": "ヘブライ語では「兄弟たち」（8, 9, 24, 36節でも同様）。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he and his brothers.”",
+        "ja": "ヘブライ語では「彼と彼の兄弟たち」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads וְעֻנִּי (vÿ’unni) with the Qere rather than וְעֻנּוֹ (vÿ’uno) of the MT Kethib.",
+        "ja": "本翻訳は、マソラ本文（MT）ケティブの וְעֻנּוֹ (vÿ’uno) ではなく、ケレの וְעֻנִּי (vÿ’unni) に従って読む。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “begat.”",
+        "ja": "ヘブライ語では「子を産んだ」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The present translation reads with the LXX לְמַלּוּךְ (lÿmallukh) rather than לִמְלוּכִי (limlukhi) of the Kethib (by dittography) or לִמְלִיכוּ (limlikhu) of the Qere.",
+        "ja": "本翻訳は、ケティブ（同語反復による）の לִמְלוּכִי (limlukhi) やケレの לִמְלִיכוּ (limlikhu) ではなく、七十勘（LXX）の לְמַלּוּךְ (lÿmallukh) に従って読む。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Most Hebrew MSS read “Shebaniah” (cf. KJV, NAB, NASB, NRSV, CEV); the present translation follows the reading of some Hebrew MSS, some LXX MSS, and the Syriac (cf. Neh 12:3 and NIV, NCV, NLT).",
+        "ja": "大部分のヘブライ語写本は「シェバニヤ」と読む（KJV, NAB, NASB, NRSV, CEV 参照）。本翻訳は、一部のヘブライ語写本、七十勘の一部写本、およびシリア語訳の読み方に従っている（ネヘミヤ 12:3、および NIV, NCV, NLT 参照）。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The present translation reads with the Lucianic Greek recension and the Syriac Peshitta לִמְרֵמוֹת (limremot, cf. NAB, NIV, NCV, NLT “Meremoth”) rather than the MT reading לִמְרָיוֹת (limrayot, cf. KJV, NASB, NRSV, CEV “Meraioth”). Cf. v. 3.",
+        "ja": "本翻訳は、マソラ本文の読み方 לִמְרָיוֹת (limrayot, KJV, NASB, NRSV, CEV の「メリオテ」に相当) ではなく、ルキアノス系ギリシャ語訳およびシリア語ペシタ訳の לִמְרֵמוֹת (limremot, NAB, NIV, NCV, NLT の「メレモテ」に相当) に従って読む。3節参照。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The present translation (along with most English versions) reads with the Qere and the Syriac Peshitta לְעִדּוֹא (lÿ’iddo’, “Iddo”) rather than the MT reading לַעֲדָיָא (la’adaya’) which probably arose through graphic confusion. Cf. v. 4.",
+        "ja": "本翻訳（および大部分の英語訳）は、おそらく書写上の混同から生じたと思われるマソラ本文の読み方 לַעֲדָיָא (la’adaya’) ではなく、ケレおよびシリア語ペシタ訳の לְעִדּוֹא (lÿ’iddo’, 「イド」) に従って読む。4節参照。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “of Miniamin, …; of Moadiah, Piltai,” where the name of the leader of the family of Miniamin has dropped out of the text due to a problem in transmission.",
+        "ja": "あるいは「ミニアミンの……、モアデヤにはピルタイ」。伝世上の問題により、ミニアミンの家系の指導者の名が本文から脱落している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The present translation reads סַלּוּ (sallu, cf. NAB, NIV, NCV, NLT “Sallu”) rather than the MT reading סַלַּי (sallai, cf. KJV, NASB, NRSV, CEV “Sallai” ). Cf. v. 7.",
+        "ja": "本翻訳は、マソラ本文の読み方 לַסַּלַּי (sallai, KJV, NASB, NRSV, CEV の「サッライ」に相当) ではなく、סַלּוּ (sallu, NAB, NIV, NCV, NLT の「サル」に相当) に従って読む。7節参照。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Some scholars delete these words, regarding them as a later scribal addition to the text.",
+        "ja": "一部の学者たちは、これらを後代の写作者による本文への追加部分と見なし、削除している。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Book of the Annals” (so NRSV); NLT “The Book of History.”",
+        "ja": "あるいは「年代記の書」（NRSV）、NLTは「歴史の書」。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in [accord with] the commandment of.”",
+        "ja": "ヘブライ語では「～の命令に[従って]」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the priest, the scribe.”",
+        "ja": "ヘブライ語では「祭司、書記」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "位置については Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4 を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from all their places.” The words “they lived” are implied.",
+        "ja": "ヘブライ語では「彼らのすべての場所から」。「彼らが住んでいた」という言葉が含意されている。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sons of the singers.”",
+        "ja": "ヘブライ語では「歌う者たちの息子たち」。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads וְהָאַחַת הֹלֶכֶת (vÿha’akhat holekhet, “and one was proceeding”) rather than the MT reading וְתַהֲלֻכֹת (vÿtahalukhot, “and processions”).",
+        "ja": "本翻訳は、マソラ本文の読み方 וְתַהֲלֻכֹת (vÿtahalukhot, 「そして行列」) ではなく、וְהָאַחַת הֹלֶכֶת (vÿha’akhat holekhet, 「そして一方が進んだ」) と読む。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “some of the sons of the priests.”",
+        "ja": "ヘブライ語では「祭司の子らの何人か」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “prescribed by” (NIV, NLT); TEV “of the kind played by.” The precise relationship of these musical instruments to David is not clear.",
+        "ja": "あるいは「～が定めた」（NIV, NLT）、TEV は「～が演奏したような種類の」。これらの楽器がダビデとどのような正確な関係にあるのかは明らかではない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “was before them.”",
+        "ja": "ヘブライ語では「彼らの前方にあった」。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads הוֹלֶכֶת (holekhet, “was proceeding”) rather than the MT הַהוֹלֶכֶת (haholekhet, “the one proceeding”). The MT probably reflects dittography – accidental writing of ה (hey) twice instead of once.",
+        "ja": "本翻訳は、マソラ本文の הַהוֹלֶכֶת (haholekhet, 「進んでいたそのもの」) ではなく、הוֹלֶכֶת (holekhet, 「進んでいた」) と読む。マソラ本文はおそらく、文字 ה (ヘ) を1回ではなく誤って2回書く同語反復を反映している。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Old Gate” (so KJV, NASB, NCV, NRSV).",
+        "ja": "あるいは「古い門」（KJV, NASB, NCV, NRSV）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “they stood.”",
+        "ja": "ヘブライ語では「彼らは立った」。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “stood.”",
+        "ja": "ヘブライ語では「立った」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “caused to hear.”",
+        "ja": "ヘブライ語では「聞こえさせた」。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads מִשְּׂדֶי (missÿde, “from the fields”) rather than the MT reading לִשְׂדֵי (lisdey, “to the fields”).",
+        "ja": "本翻訳は、マソラ本文の読み方 לִשְׂדֵי (lisdey, 「野原へ」) ではなく、מִשְּׂדֶי (missÿde, 「野原から」) と読む。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for Judah.” The words “the people of” have been supplied in the translation for clarity, since “Judah” is a proper name as well as a place name.",
+        "ja": "ヘブライ語では「ユダのために」。「ユダ」は地名であると同時に固有名詞でもあるため、明快さを期すために「～の人々は」という言葉が補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “standing.”",
+        "ja": "ヘブライ語では「立っている」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[写本注]  With many medieval Hebrew MSS and the ancient versions the translation reads the conjunction (“and”). It is absent in the Leningrad MS that forms the textual basis for BHS.",
+        "ja": "多くの伝統的ヘブライ語写本および古代訳に基づき、本翻訳では接続詞（「そして」）を補って読む。BHSのテキストの基礎となっているレニングラード写本には、この接続詞は存在しない。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “heads.” The translation reads with the Qere the plural רֹאשֵׁי (ro’shey, “heads”) rather than the Kethib singular רֹאשׁ (ro’sh, “head”) of the MT.",
+        "ja": "ヘブライ語では「頭（かしら）」。本翻訳は、マソラ本文のケティブ単数形 רֹאשׁ (ro’sh, 「頭」) ではなく、ケレの複数形 רֹאשֵׁי (ro’shey, 「頭たち」) に従って読む。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a thing of a day in its day.”",
+        "ja": "ヘブライ語では「その日のうちにその日のこと」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “were sanctifying.”",
+        "ja": "ヘブライ語では「聖別していた」。"
+      }
+    ]
+  }
+}

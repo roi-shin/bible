@@ -1,0 +1,564 @@
+{
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "When the wall had been rebuilt and I had positioned the doors, and the gatekeepers, the singers, and the Levites had been appointed, ",
+      "ja": "壁が再建され、私が扉を取り付け、門番、歌うたい、レビびとたちが任命されたとき、"
+    },
+    {
+      "verse": 2,
+      "en": "I then put in charge over Jerusalem my brother Hanani and Hananiah the chief of the citadel, for he was a faithful man and feared God more than many do.",
+      "ja": "私は、わが兄弟ハナニと、城塞の長ハナニヤにエルサレムの管理を任せた。彼は忠実な人であり、多くの人以上に神を恐れる者であったからである。"
+    },
+    {
+      "verse": 3,
+      "en": "I said to them, “The gates of Jerusalem must not be opened in the early morning, until those who are standing guard close the doors and lock them. Position residents of Jerusalem as guards, some at their guard stations and some near their homes.” ",
+      "ja": "私は彼らに命じた。「エルサレムの門は、朝早く、日が昇るまでは開けてはならない。また、見張りの者たちがそこに立っているうちに扉を閉め、かんぬきをかけさせよ。エルサレムの住民の中から見張りを選任し、ある者にはそれぞれの警備所にあたらせ、ある者には自分の家の近くにあたらせよ」"
+    },
+    {
+      "verse": 4,
+      "en": "Now the city was spread out and large, and there were not a lot of people in it. At that time houses had not been rebuilt. ",
+      "ja": "さて、その町は広大で大きかったが、その中にいる民は少なかった。家々もまだ再建されていなかった。"
+    },
+    {
+      "verse": 5,
+      "en": "My God placed it on my heart to gather the leaders, the officials, and the ordinary people so they could be enrolled on the basis of genealogy. I found the genealogical records of those who had formerly returned. Here is what I found written in that record:",
+      "ja": "私の神は、貴族たち、官吏たち、そして民を召集して系図に従って登録させることを私の心に思い起こさせてくださった。そこで私は、かつて帰還した者たちの系図の記録を見出した。その記録には次のように記されていた。"
+    },
+    {
+      "verse": 6,
+      "en": "These are the people of the province who returned from the captivity of the exiles, whom King Nebuchadnezzar of Babylon had forced into exile. They returned to Jerusalem and to Judah, each to his own city. ",
+      "ja": "バビロンの王ネブカドネツァルによって捕囚として連れ去られ、捕囚の地からエルサレムとユダへ、各自自分の町へと帰還した州の人々は次の通りである。"
+    },
+    {
+      "verse": 7,
+      "en": "They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah.The number of Israelite men was as follows: ",
+      "ja": "彼らはゼルバベル、ヨシュア、ネヘミヤ、アザリヤ、ラアマヤ、ナハマニ、モルデカイ、ビルシャン、ミスペレト、ビグバイ、ネフム、バアナとともにやって来た。イスラエル人の男たちの数は以下の通りである。"
+    },
+    {
+      "verse": 8,
+      "en": "the descendants of Parosh: 2,172;",
+      "ja": "パロシュの子孫、2,172人"
+    },
+    {
+      "verse": 9,
+      "en": "the descendants of Shephatiah: 372;",
+      "ja": "シェファティアの子孫、372人"
+    },
+    {
+      "verse": 10,
+      "en": "the descendants of Arah: 652;",
+      "ja": "アラの子孫、652人"
+    },
+    {
+      "verse": 11,
+      "en": "the descendants of Pahath Moab (from the line of Jeshua and Joab): 2,818;",
+      "ja": "パハテ・モアブの子孫（ヨシュアとヨアブの系譜）、2,818人"
+    },
+    {
+      "verse": 12,
+      "en": "the descendants of Elam: 1,254;",
+      "ja": "エラムの子孫、1,254人"
+    },
+    {
+      "verse": 13,
+      "en": "the descendants of Zattu: 845;",
+      "ja": "ザツの子孫、845人"
+    },
+    {
+      "verse": 14,
+      "en": "the descendants of Zaccai: 760;",
+      "ja": "ザッカイの子孫、760人"
+    },
+    {
+      "verse": 15,
+      "en": "the descendants of Binnui: 648;",
+      "ja": "ビヌイの子孫、648人"
+    },
+    {
+      "verse": 16,
+      "en": "the descendants of Bebai: 628;",
+      "ja": "ベバイの子孫、628人"
+    },
+    {
+      "verse": 17,
+      "en": "the descendants of Azgad: 2,322;",
+      "ja": "アズガデの子孫、2,322人"
+    },
+    {
+      "verse": 18,
+      "en": "the descendants of Adonikam: 667;",
+      "ja": "アドニカムの子孫、667人"
+    },
+    {
+      "verse": 19,
+      "en": "the descendants of Bigvai: 2,067;",
+      "ja": "ビグバイの子孫、2,067人"
+    },
+    {
+      "verse": 20,
+      "en": "the descendants of Adin: 655;",
+      "ja": "アディンの子孫、655人"
+    },
+    {
+      "verse": 21,
+      "en": "the descendants of Ater (through Hezekiah): 98;",
+      "ja": "アテルの子孫（ヒゼキヤびと）、98人"
+    },
+    {
+      "verse": 22,
+      "en": "the descendants of Hashum: 328;",
+      "ja": "ハシュムの子孫、328人"
+    },
+    {
+      "verse": 23,
+      "en": "the descendants of Bezai: 324;",
+      "ja": "ベザイの子孫、324人"
+    },
+    {
+      "verse": 24,
+      "en": "the descendants of Harif: 112;",
+      "ja": "ハリフの子孫、112人"
+    },
+    {
+      "verse": 25,
+      "en": "the descendants of Gibeon: 95;",
+      "ja": "ギベオンの人々、95人"
+    },
+    {
+      "verse": 26,
+      "en": "The men of Bethlehem and Netophah: 188;",
+      "ja": "ベツレヘムとネトファの人々、188人"
+    },
+    {
+      "verse": 27,
+      "en": "the men of Anathoth: 128;",
+      "ja": "アナトテの人々、128人"
+    },
+    {
+      "verse": 28,
+      "en": "the men of the family of Azmaveth: 42;",
+      "ja": "アズマベテの家族の人々、42人"
+    },
+    {
+      "verse": 29,
+      "en": "the men of Kiriath Jearim, Kephirah, and Beeroth: 743;",
+      "ja": "キリアテ・ヤリム、ケフィラ、ベエロテの人々、743人"
+    },
+    {
+      "verse": 30,
+      "en": "the men of Ramah and Geba: 621;",
+      "ja": "ラマとゲバの人々、621人"
+    },
+    {
+      "verse": 31,
+      "en": "the men of Micmash: 122;",
+      "ja": "ミクマテの人々、122人"
+    },
+    {
+      "verse": 32,
+      "en": "the men of Bethel and Ai: 123;",
+      "ja": "ベテルとアイの人々、123人"
+    },
+    {
+      "verse": 33,
+      "en": "the men of the other Nebo: 52;",
+      "ja": "もう一人のネボの人々、52人"
+    },
+    {
+      "verse": 34,
+      "en": "the descendants of the other Elam: 1,254;",
+      "ja": "もう一人のエラムの子孫、1,254人"
+    },
+    {
+      "verse": 35,
+      "en": "the descendants of Harim: 320;",
+      "ja": "ハリムの子孫、320人"
+    },
+    {
+      "verse": 36,
+      "en": "the descendants of Jericho: 345;",
+      "ja": "エリコのの子孫、345人"
+    },
+    {
+      "verse": 37,
+      "en": "the descendants of Lod, Hadid, and Ono: 721;",
+      "ja": "ロド、ハディデ、オノの子孫、721人"
+    },
+    {
+      "verse": 38,
+      "en": "the descendants of Senaah: 3,930;",
+      "ja": "セナアの子孫、3,930人"
+    },
+    {
+      "verse": 39,
+      "en": "The priests: the descendants of Jedaiah (through the family of Jeshua): 973;",
+      "ja": "祭司たち：エダヤの子孫（ヨシュアの家系）、973人"
+    },
+    {
+      "verse": 40,
+      "en": "the descendants of Immer: 1,052;",
+      "ja": "イメルの子孫、1,052人"
+    },
+    {
+      "verse": 41,
+      "en": "the descendants of Pashhur: 1,247;",
+      "ja": "パシュフルの子孫、1,247人"
+    },
+    {
+      "verse": 42,
+      "en": "the descendants of Harim: 1,017.",
+      "ja": "ハリムの子孫、1,017人"
+    },
+    {
+      "verse": 43,
+      "en": "The Levites: the descendants of Jeshua (through Kadmiel, through the line of Hodaviah): 74.",
+      "ja": "レビびとたち：ヨシュアとカドミエル（ホダビヤの子孫）の子孫、74人"
+    },
+    {
+      "verse": 44,
+      "en": "The singers: the descendants of Asaph: 148.",
+      "ja": "歌うたいたち：アサフの子孫、148人"
+    },
+    {
+      "verse": 45,
+      "en": "The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai: 138.",
+      "ja": "門番たち：シャルムの子孫、アテルの子孫、タルモンの子孫、アクブの子孫、ハティタの子孫、ショバイの子孫、合わせて138人"
+    },
+    {
+      "verse": 46,
+      "en": "The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth, ",
+      "ja": "宮廷の下僕たち：ジハの子孫、ハスファの子孫、タバオテの子孫、"
+    },
+    {
+      "verse": 47,
+      "en": "the descendants of Keros, the descendants of Sia, the descendants of Padon, ",
+      "ja": "ケロスの子孫、シアの子孫、パドンの子孫、"
+    },
+    {
+      "verse": 48,
+      "en": "the descendants of Lebanah, the descendants of Hagabah, the descendants of Shalmai, ",
+      "ja": "レバナの子孫、ハガバの子孫、シャルマイの子孫、"
+    },
+    {
+      "verse": 49,
+      "en": "the descendants of Hanan, the descendants of Giddel, the descendants of Gahar, ",
+      "ja": "ハナンの子孫、ギデルの子孫、ガハルの子孫、"
+    },
+    {
+      "verse": 50,
+      "en": "the descendants of Reaiah, the descendants of Rezin, the descendants of Nekoda, ",
+      "ja": "レアヤの子孫、レジンの子孫、ネコダの子孫、"
+    },
+    {
+      "verse": 51,
+      "en": "the descendants of Gazzam, the descendants of Uzzah, the descendants of Paseah, ",
+      "ja": "ガザムの子孫、ウザの子孫、パセアの子孫、"
+    },
+    {
+      "verse": 52,
+      "en": "the descendants of Besai, the descendants of Meunim, the descendants of Nephussim, ",
+      "ja": "ベサイの子孫、メウニムの子孫、ネプシムの子孫、"
+    },
+    {
+      "verse": 53,
+      "en": "the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur, ",
+      "ja": "バクブクの子孫、ハクファの子孫、ハルフルの子孫、"
+    },
+    {
+      "verse": 54,
+      "en": "the descendants of Bazluth, the descendants of Mehida, the descendants of Harsha, ",
+      "ja": "バズルトの子孫、メヒダの子孫、ハルシャの子孫、"
+    },
+    {
+      "verse": 55,
+      "en": "the descendants of Barkos, the descendants of Sisera, the descendants of Temah, ",
+      "ja": "バルコスの子孫、シセラの子孫、テマハの子孫、"
+    },
+    {
+      "verse": 56,
+      "en": "the descendants of Neziah, the descendants of Hatipha. ",
+      "ja": "ネジアの子孫、ハティファの子孫"
+    },
+    {
+      "verse": 57,
+      "en": "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Sophereth, the descendants of Perida, ",
+      "ja": "ソロモンの家臣の子孫：ソタイの子孫、ソフェレテの子孫、ペリダの子孫、"
+    },
+    {
+      "verse": 58,
+      "en": "the descendants of Jaala, the descendants of Darkon, the descendants of Giddel, ",
+      "ja": "ヤアラの子孫、ダルコンの子孫、ギデルの子孫、"
+    },
+    {
+      "verse": 59,
+      "en": "the descendants of Shephatiah, the descendants of Hattil, the descendants of Pokereth Hazzebaim, and the descendants of Amon. ",
+      "ja": "シェファティアの子孫、ハティルのの子孫、ポケレテ・ハゼバイムの子孫、アモンの子孫"
+    },
+    {
+      "verse": 60,
+      "en": "All the temple servants and the descendants of the servants of Solomon, 392.",
+      "ja": "宮廷の下僕たちとソロモンの家臣の子孫を合わせて、392人"
+    },
+    {
+      "verse": 61,
+      "en": "These are the ones who came up from Tel Melah, Tel Harsha, Kerub, Addon, and Immer (although they were unable to certify their family connection or their ancestry, as to whether they were really from Israel): ",
+      "ja": "テル・メラ、テル・ハルシャ、ケルブ、アドン、イメルから上ってきた者たちは次の通りである。ただし、彼らは自分たちの父祖の家系や先祖が、本当にイスラエル出身であるかどうかを証明することができなかった。"
+    },
+    {
+      "verse": 62,
+      "en": "the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 642.",
+      "ja": "デラヤの子孫、トビヤの子孫、ネコダの子孫、合わせて642人"
+    },
+    {
+      "verse": 63,
+      "en": "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a woman from the daughters of Barzillai the Gileadite and was called by that name). ",
+      "ja": "祭司の中では、ホバヤの子孫、ハッコテの子孫、バルジライの子孫（彼はギレアデ人バルジライの娘たちのうちの一人と結婚し、その家名で呼ばれていた）"
+    },
+    {
+      "verse": 64,
+      "en": "They searched for their records in the genealogical materials, but none were found. They were therefore excluded from the priesthood. ",
+      "ja": "これらの人々は系図の記録の中で自分たちの名を探したが、見つからなかった。そのため、彼らは祭司職から除外された。"
+    },
+    {
+      "verse": 65,
+      "en": "The governor instructed them not to eat any of the sacred food until there was a priest who could consult the Urim and Thummim. ",
+      "ja": "総督は彼らに、ウリムとトンミムを携える祭司が起こるまでは、聖なる食物を食べてはならないと命じた。"
+    },
+    {
+      "verse": 66,
+      "en": "The entire group numbered 42,360—",
+      "ja": "全会衆の数は42,360人であった。"
+    },
+    {
+      "verse": 67,
+      "en": "not counting their 7,337 male and female servants. They also had 245 male and female singers. ",
+      "ja": "これに加えて、男女奴隷が7,337人いた。また、男女の歌うたいが245人いた。"
+    },
+    {
+      "verse": 68,
+      "en": "They had 736 horses, 245 mules,",
+      "ja": "馬が736頭、ラバが245頭"
+    },
+    {
+      "verse": 69,
+      "en": "(7:68) 435 camels, and 6,720 donkeys. ",
+      "ja": "らくだが435頭、ろばが6,720頭であった。"
+    },
+    {
+      "verse": 70,
+      "en": "Some of the family leaders contributed to the work. The governor contributed to the treasury 1,000 gold drachmas, 50 bowls, and 530 priestly garments. ",
+      "ja": "家長の何人かは、その事業のために献金した。総督は宝物庫に金1,000ダリク、鉢50個、祭司の衣530着を寄進した。"
+    },
+    {
+      "verse": 71,
+      "en": "Some of the family leaders gave to the project treasury 20,000 gold drachmas and 2,200 silver minas. ",
+      "ja": "また家長の何人かは、事業の宝物庫に金20,000ダリク、銀2,200マナを寄贈した。"
+    },
+    {
+      "verse": 72,
+      "en": "What the rest of the people gave amounted to 20,000 gold drachmas, 2,000 silver minas, and 67 priestly garments. ",
+      "ja": "残りの民が与えたものは、金20,000ダリク、銀2,000マナ、祭司の衣67着であった。"
+    },
+    {
+      "verse": 73,
+      "en": "The priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all the rest of Israel lived in their cities.When the seventh month arrived and the Israelites were settled in their towns, ",
+      "ja": "祭司たち、レビびとたち、門番たち、歌うたいたち、民の一部、宮廷の下僕たち、そしてイスラエルの全残りの者たちは、それぞれの町に定住した。七月が訪れ、イスラエル人たちがそれぞれの町に住まいを定めたとき、"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 位置についてはMap5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4をご参照ください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Some have suggested that “Hananiah” is another name for Hanani, Nehemiah’s brother, so that only one individual is mentioned here. However, the third person plural in v. 3 indicates two people are in view.",
+        "ja": "[翻訳注] 「ハナニヤ」はネヘミヤの兄弟ハナニの別名であり、ここでは一人の人物だけが言及されているとする説もあります。しかし、3節における三人称複数形の表現は、二人の人物が念頭にあることを示しています。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The present translation (along with most English versions) reads with the Qere, a Qumran text, and the ancient versions וָאֹמַר (va’omar, “and I said”) rather than the Kethib of the MT, which reads וַיֹּאמֶר (vayyo’mer, “and he said”).",
+        "ja": "[写本注] 本訳（およびほとんどの英語訳）は、マソラ本文（MT）のケチブ（書かれている読み）である וַיֹּאמֶר (vayyo’mer、「彼は言った」) ではなく、ケレ（読まれている読み）、クムラン文書、および古代訳にある וָאֹמַר (va’omar、「そして私は言った」) に従っています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “until the heat of the sun.” The phrase probably means that the gates were to be opened only after the day had progressed a bit, not at the first sign of morning light (cf. KJV, NAB, NASB, NIV, NRSV, TEV, CEV). It is possible, however, that the Hebrew preposition עַד (’ad), here translated as “until,” has a more rare sense of “during.” If so, this would mean that the gates were not to be left open and unattended during the hot part of the day when people typically would be at rest (cf. NLT).",
+        "ja": "[翻訳注] ヘブライ語原文は「日の暑くなるまで」を意味します。この句はおそらく、朝の最初の光の差し込む時ではなく、日がいくらか進んでから門が開けられるべきであったことを意味しています（KJV, NAB, NASB, NIV, NRSV, TEV, CEV等を参照）。ただし、ここで「まで」と訳されているヘブライ語の前置詞 עַד ('ad) が、より稀な用法として「〜の間」という意味を持っている可能性もあります。もしそうであれば、これは、人々が通常休息をとる一日の暑い時間帯に、門を開けたまま放置してはならないという意味になります（NLT等を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Presumably this would mean the gates were not to be opened until later in the morning and were to remain open until evening. Some, however, have understood Nehemiah’s instructions to mean that the gates were not to be left open during the hottest part of the day, but must be shut and locked while the guards are still on duty. See J. Barr, “Hebrew עַד, especially at Job i.18 and Neh vii.3,” JJS 27 (1982): 177-88.",
+        "ja": "[翻訳注] おそらくこれは、門を午前遅くまで開けずに、夕方まで開けておくべきであったことを意味しています。しかし、ネヘミヤの指示を、一日の最も暑い時間帯には門を開けたままにしてはならず、見張りが勤務している間に閉めて鍵をかけなければならないという意味に解釈する学者もいます。J. Barr, “Hebrew עַד, especially at Job i.18 and Neh vii.3,” JJS 27 (1982): 177-88 をご参照ください。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “wide of two hands.”",
+        "ja": "[翻訳注] ヘブライ語原文では「両手の広さ」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the people were few in its midst.”",
+        "ja": "[翻訳注] ヘブライ語原文では「民はその中に少なかった」となります。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “nobles”; NCV “important men.”",
+        "ja": "[翻訳注] ヘブライ語原文では「貴族たち」となります（NCVでは「重要人物たち」）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the book of genealogy.”",
+        "ja": "[翻訳注] ヘブライ語原文では「系図の書」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in it”; the referent (the genealogical record) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語原文では「その中に」となります。文脈の明確化のため、訳文では指示対象（系図の記録）を補いました。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sons of”; KJV, ASV “the children of”; NAB “the inhabitants of.”",
+        "ja": "[翻訳注] ヘブライ語原文では「〜の子ら」となります（KJV, ASVでは「the children of」、NABでは「the inhabitants of」）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “who were going up.”",
+        "ja": "[翻訳注] ヘブライ語原文では「上っていった者たち」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  One medieval Hebrew manuscript has “to Babylon.” Cf. Ezra 2:1.",
+        "ja": "[写本注] 中世のヘブライ語写本の一つには「バビロンへ」とあります。エズラ 2:1 をご参照ください。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the men of the people of Israel.” Some English versions translate as “the people from Israel” (NCV) or “the Israelite people” (NRSV), but “men” should be retained because the following numbers presumably include only adult males.",
+        "ja": "[翻訳注] ヘブライ語原文では「イスラエルの民の男たち」となります。いくつかの英語訳では「the people from Israel」(NCV) または「the Israelite people」(NRSV) と訳されていますが、続く数字がおそらく成人男性のみを含んでいるため、「男たち」という語は維持されるべきです。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sons of.”",
+        "ja": "[翻訳注] ヘブライ語原文では「〜の子ら」となります。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to the sons of.”",
+        "ja": "[翻訳注] ヘブライ語原文では「〜の子らに至る」となります。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.",
+        "ja": "[地図] 位置についてはMap5-B1、Map7-E2、Map8-E2、Map10-B4をご参照ください。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads בְּנֵי (bÿne, “the sons of”) rather than the MT reading בֵית אַנְשֵׁי (’anshey vet, “men of the house of”). Cf. Ezra 2:24.",
+        "ja": "[写本注] 本訳では、マソラ本文（MT）の読みである בֵית אַנְשֵׁי ('anshey vet、「〜の家の人々」) ではなく、בְּנֵי (bÿne、「〜の子ら」) と読んでいます。エズラ 2:24 をご参照ください。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3.",
+        "ja": "[地図] 位置についてはMap4-G4、Map5-C1、Map6-E3、Map7-D1、Map8-G3をご参照ください。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to the house of.”",
+        "ja": "[翻訳注] ヘブライ語原文では「〜の家に至る」となります。"
+      }
+    ],
+    "61": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “relate.”",
+        "ja": "[翻訳注] ヘブライ語原文では「物語る、告げる」を意味します。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the house of their fathers.”",
+        "ja": "[翻訳注] ヘブライ語原文では「彼らの父たちの家」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “their seed.”",
+        "ja": "[翻訳注] ヘブライ語原文では「彼らの種（子孫）」となります。"
+      }
+    ],
+    "64": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “they were desecrated.”",
+        "ja": "[翻訳注] ヘブライ語原文では「彼らは汚された（不浄とされた）」となります。"
+      }
+    ],
+    "65": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew term תִּרְשָׁתָא (tirshata’; KJV “Tirshatha”) is the official title of a Persian governor in Judea. In meaning it may be similar to “excellency” (cf. NAB). See further BDB 1077 s.v.; W. L. Holladay, Concise Hebrew and Aramaic Lexicon, 395; HALOT 1798 s.v.",
+        "ja": "[翻訳注] ヘブライ語の用語 תִּרְשָׁתָא (tirshata'、KJVでは「Tirshatha」) は、ユダにおけるペルシャ総督の公式称号です。その意味において「閣下」に似ている可能性があります（NAB等を参照）。詳細については、BDB 1077 s.v.; W. L. Holladay, Concise Hebrew and Aramaic Lexicon, 395; HALOT 1798 s.v. をご参照ください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “stood.”",
+        "ja": "[翻訳注] ヘブライ語原文では「立った」となります。"
+      }
+    ],
+    "69": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Most Hebrew MSS omit 7:68 ET, which reads “They had 736 horses, 245 mules,” and thus have one less verse in chap. , ending the chapter at 7:72. This verse is included in the LXX and most English versions. Cf. Ezra 2:66.",
+        "ja": "[写本注] ほとんどのヘブライ語写本には、英語聖書（ET）における 7:68（「彼らは馬736頭、ラバ245頭を持ち」）が欠落しており、その結果、第7章は 7:72 で終わり、節数が1つ少なくなっています。この節は七十人訳（LXX）およびほとんどの英語訳には含まれています。エズラ 2:66 をご参照ください。"
+      }
+    ],
+    "70": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the heads of the fathers.”",
+        "ja": "[翻訳注] ヘブライ語原文では「父たちの頭たち」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “darics” (also in vv. 71, 72).",
+        "ja": "[翻訳注] ヘブライ語原文では「ダリク金貨」となります（71、72節でも同様）。"
+      }
+    ],
+    "73": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sons of Israel.” So also in vv. 14, 17; 9:1.",
+        "ja": "[翻訳注] ヘブライ語原文では「イスラエルの子ら」となります。9章1節や14、17節でも同様です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The traditional understanding of the chapter and verse division here is probably incorrect. The final part of v. 73 is best understood as belonging with 8:1.",
+        "ja": "[翻訳注] ここにおける伝統的な章と節の区分はおそらく誤りです。73節の後半部分は、8章1節と一緒に属するものとして理解するのが最も適切です。"
+      }
+    ]
+  }
+}

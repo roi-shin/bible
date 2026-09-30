@@ -1,0 +1,160 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;stuck close after.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the Philistines.&#8221; The translation has substituted the pronoun &#8220;they&#8221; to avoid redundancy.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his&#8221;; the referent (Saul) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heavy.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they found him, the ones who shoot with the bow, and he was in pain from the ones shooting.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so these uncircumcised ones might not come and abuse me.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all his house.&#8221; This is probably to be understood as a general summary statement. It could include other males in Saul&#8217;s household besides his three sons, cf. <span class=\"bibleref\" title=\"1 Samuel 31:6\">1 Sam 31:6</span>. If it refers only to the male members of his household who would have stood in succession to the throne (cf. NLT, &#8220;bringing his dynasty to an end,&#8221;) even here there is an exception, since one of Saul&#8217;s sons, Eshbaal (or &#8220;Ishbosheth&#8221; in <span class=\"bibleref\" title=\"2 Samuel 2:8\">2 Sam 2:8</span>) was not killed in the battle and became king over Israel, which he ruled for two years (<span class=\"bibleref\" title=\"2 Samuel 2:10\">2 Sam 2:10</span>) until he was assassinated by Rechab and Baanah (<span class=\"bibleref\" title=\"2 Samuel 4:5-6\">2 Sam 4:5-6</span>). The tribe of Judah never acknowledged Ishbosheth as king; instead they followed David (<span class=\"bibleref\" title=\"2 Samuel 2:10\">2 Sam 2:10</span>).</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they&#8221;; the referent (the army) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;god.&#8221; The Hebrew term may be translated as singular or plural depending on the context.</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;arose and carried away the corpse of Saul and the corpses of his sons.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their bones.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Saul died because of his unfaithfulness by which he acted unfaithfully against the <sc>Lord</sc>, concerning the word of the <sc>Lord</sc> which he did not keep, also to Saul, a ritual pit to seek.&#8221; The text alludes to the incident recorded in . The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1493;&#1465;&#1489;</font> (&#8217;<font face=\"Scholar\">ov</font>, &#8220;ritual pit&#8221;) refers to a pit used by a magician to conjure up underworld spirits. In <span class=\"bibleref\" title=\"1 Samuel 28:7\">1 Sam 28:7</span> the witch of Endor is called a <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1463;&#1506;&#1458;&#1500;&#1463;&#1514;&#1470;&#1488;&#1493;&#1465;&#1489;</font> (<font face=\"Scholar\">ba</font>&#8217;<font face=\"Scholar\">alat-</font>&#8217;<font face=\"Scholar\">ov</font>, &#8220;owner of a ritual pit&#8221;). See H. A. Hoffner, &#8220;Second Millennium Antecedents to the Hebrew <font face=\"Scholar\">&#225;o&#8218;b</font>,&#8221; <i>JBL</i> 86 (1967): 385-401.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (the <sc>Lord</sc>) has been specified in the translation for clarity.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Now the Philistines fought against Israel. The Israelites fled before the Philistines and many of them fell dead on Mount Gilboa. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "2",
+      "text": "The Philistines stayed right on the heels of Saul and his sons. They struck down Saul’s sons Jonathan, Abinadab, and Malki-Shua."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "3",
+      "text": "The battle was thick around Saul; the archers spotted him and wounded him. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Saul told his armor-bearer, “Draw your sword and stab me with it. Otherwise these uncircumcised people will come and torture me.” But his armor-bearer refused to do it because he was very afraid. So Saul took the sword and fell on it."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "5",
+      "text": "When his armor-bearer saw that Saul was dead, he also fell on his sword and died. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "6",
+      "text": "So Saul and his three sons died; his whole household died together. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "7",
+      "text": "When all the Israelites who were in the valley saw that the army had fled and that Saul and his sons were dead, they abandoned their cities and fled. The Philistines came and occupied them."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "8",
+      "text": "The next day, when the Philistines came to strip loot from the corpses, they discovered Saul and his sons lying dead on Mount Gilboa. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "9",
+      "text": "They stripped his corpse and then carried off his head and his armor. They sent messengers throughout the land of the Philistines proclaiming the news to their idols and their people. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "10",
+      "text": "They placed his armor in the temple of their gods and hung his head in the temple of Dagon. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "11",
+      "text": "When all the residents of Jabesh Gilead heard about everything the Philistines had done to Saul, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "12",
+      "text": "all the warriors went and recovered the bodies of Saul and his sons and brought them to Jabesh. They buried their remains under the oak tree in Jabesh and fasted for seven days. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "13",
+      "text": "So Saul died because he was unfaithful to the Lord and did not obey the Lord’s instructions; he even tried to conjure up underworld spirits."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "10",
+      "verse": "14",
+      "text": "He did not seek the Lord’s guidance, so the Lord killed him and transferred the kingdom to David son of Jesse. "
+    }
+  ]
+}

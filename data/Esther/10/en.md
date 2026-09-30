@@ -1,0 +1,26 @@
+# Esther 10 (English)
+
+## Text
+
+**1** King Ahasuerus then imposed forced labor on the land and on the coastlands of the sea. 
+
+**2** Now all the actions carried out under his authority and his great achievements, along with an exact statement concerning the greatness of Mordecai, whom the king promoted, are they not written in the Book of the Chronicles of the Kings of Media and Persia? 
+
+**3** Mordecai the Jew was second only to King Ahasuerus. He was the highest-ranking Jew, and he was admired by his numerous relatives. He worked enthusiastically for the good of his people and was an advocate for the welfare of all his descendants. 
+
+## Notes
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “great among the Jews” (so KJV, NASB); NIV “preeminent among the Jews”; NRSV “powerful among the Jews.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “brothers”; NASB “kinsmen”; NIV “fellow Jews.”
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “he was seeking”; NAB “as the promoter of his people’s welfare.”
+
+### Verse 3 - Note 4
+[翻訳注]  Heb “he was speaking peace to”; NRSV “and interceded for the welfare of.”
+
+### Verse 3 - Note 5
+[解説]  A number of additions to the Book of Esther appear in the apocryphal (or deuterocanonical) writings. These additions supply further information about various scenes described in the canonical book and are interesting in their own right. However, they were never a part of the Hebrew Bible. The placement of this additional material in certain Greek manuscripts of the Book of Esther may be described as follows. At the beginning of Esther there is an account (= chapter 11) of a dream in which Mordecai is warned by God of a coming danger for the Jews. In this account two great dragons, representing Mordecai and Haman, prepare for conflict. But God responds to the prayers of his people, and the crisis is resolved. This account is followed by another one (= chapter 12) in which Mordecai is rewarded for disclosing a plot against the king’s life. After Esth 3:13 there is a copy of a letter from King Artaxerxes authorizing annihilation of the Jews (= chapter 13). After Esth 4:17 the account continues with a prayer of Mordecai (= part of chapter 13), followed by a prayer of Esther (= chapter 14), and an account which provides details about Esther’s appeal to the king in behalf of her people (= chapter 15). After Esth 8:12 there is a copy of a letter from King Artaxerxes in which he denounces Haman and his plot and authorizes his subjects to assist the Jews (= chapter 16). At the end of the book, following Esth 10:3, there is an addition which provides an interpretation to Mordecai’s dream, followed by a brief ascription of genuineness to the entire book (= chapter 11).

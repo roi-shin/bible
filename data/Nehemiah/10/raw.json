@@ -1,0 +1,344 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;were the following names&#8221; are not in the Hebrew text but have been supplied in the translation for clarity. Cf. vv. <span class=\"bibleref\" title=\"Nehemiah 10:9,10,14\">9, 10, 14</span>.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> With many medieval Hebrew manuscripts and the ancient versions the translation reads <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1456;&#1513;&#1473;&#1493;&#1468;&#1506;&#1463;</font> (<font face=\"Scholar\">y&#255;shua</font>&#8217;, &#8220;Jeshua&#8221;) rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1497;&#1461;&#1513;&#1473;&#1493;&#1468;&#1506;&#1463;</font> (<font face=\"Scholar\">v&#255;yeshua</font>&#8217;, &#8220;and Jeshua&#8221;) of <i>BHS</i>.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;brothers&#8221; (also in v. <span class=\"bibleref\" title=\"Nehemiah 10:30\">30</span>).</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heads&#8221;; ASV &#8220;chiefs.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from the peoples of the lands.&#8221; Cf. vv. <span class=\"bibleref\" title=\"Nehemiah 10:30,31\">30, 31</span>.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the nobles.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The expression &#8220;a curse and an oath&#8221; may be a hendiadys, meaning &#8220;an oath with penalties.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to walk in.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;keep.&#8221; See the note on the word &#8220;obey&#8221; in <span class=\"bibleref\" title=\"Nehemiah 1:5\">Neh 1:5</span>.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term translated &#8220;Lord&#8221; here is <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1458;&#1491;&#1465;&#1504;&#1464;&#1497;</font> (&#8217;<font face=\"Scholar\">adonay</font>).</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;take.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;debt of every hand,&#8221; an idiom referring to the hand that holds legally binding contractual agreements.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;cause to stand on us.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT reads &#8220;to give upon us.&#8221; However, the term <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1500;&#1461;&#1497;&#1504;&#1493;&#1468;</font> (&#8217;<font face=\"Scholar\">alenu</font>, &#8220;upon us&#8221;) should probably be deleted, following a few medieval Hebrew <sc>MSS</sc>, the Syriac Peshitta, and the Vulgate.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;house&#8221; (also in vv. <span class=\"bibleref\" title=\"Nehemiah 10:33,34,35,36,37,38,39\">33, 34, 35, 36, 37, 38, 39</span>).</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the house of our fathers.&#8221;</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;we accept responsibility&#8221; are not included in the Hebrew text, but are inferred from v. <span class=\"bibleref\" title=\"Nehemiah 10:33\">33</span> (so also in v. <span class=\"bibleref\" title=\"Nehemiah 10:37\">37</span>).</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a tithe of our land.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;of our work.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the priest the son of Aaron.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "1",
+      "text": "On the sealed documents were the following names: Nehemiah the governor, son of Hacaliah, along with Zedekiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "2",
+      "text": "Seraiah, Azariah, Jeremiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Pashhur, Amariah, Malkijah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Hattush, Shebaniah, Malluch, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Harim, Meremoth, Obadiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "6",
+      "text": "Daniel, Ginnethon, Baruch, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "7",
+      "text": "Meshullam, Abijah, Mijamin, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "8",
+      "text": "Maaziah, Bilgai, and Shemaiah. These were the priests. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "9",
+      "text": "The Levites were as follows: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "10",
+      "text": "Their colleagues were as follows: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "11",
+      "text": "Mica, Rehob, Hashabiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "12",
+      "text": "Zaccur, Sherebiah, Shebaniah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Hodiah, Bani, and Beninu. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "14",
+      "text": "The leaders of the people were as follows: Parosh, Pahath Moab, Elam, Zattu, Bani, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "15",
+      "text": "Bunni, Azgad, Bebai, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "16",
+      "text": "Adonijah, Bigvai, Adin, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Ater, Hezekiah, Azzur, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "18",
+      "text": "Hodiah, Hashum, Bezai, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Hariph, Anathoth, Nebai, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Magpiash, Meshullam, Hezir, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "21",
+      "text": "Meshezabel, Zadok, Jaddua, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "22",
+      "text": "Pelatiah, Hanan, Anaiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "23",
+      "text": "Hoshea, Hananiah, Hasshub, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "24",
+      "text": "Hallohesh, Pilha, Shobek, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "25",
+      "text": "Rehum, Hashabnah, Maaseiah, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "26",
+      "text": "Ahiah, Hanan, Anan, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "27",
+      "text": "Malluch, Harim, and Baanah. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "28",
+      "text": "“Now the rest of the people—the priests, the Levites, the gatekeepers, the singers, the temple attendants, and all those who have separated themselves from the neighboring peoples because of the law of God, along with their wives, their sons, and their daughters, all of whom are able to understand—"
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "29",
+      "text": "hereby participate with their colleagues the town leaders and enter into a curse and an oath to adhere to the law of God which was given through Moses the servant of God, and to obey carefully all the commandments of the Lord our Lord, along with his ordinances and his statutes. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "30",
+      "text": "“We will not give our daughters in marriage to the neighboring peoples, and we will not take their daughters in marriage for our sons. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "31",
+      "text": "We will not buy on the Sabbath or on a holy day from the neighboring peoples who bring their wares and all kinds of grain to sell on the Sabbath day. We will let the fields lie fallow every seventh year, and we will cancel every loan. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "32",
+      "text": "We accept responsibility for fulfilling the commands to give one-third of a shekel each year for the work of the temple of our God, "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "33",
+      "text": "for the loaves of presentation and for the regular grain offerings and regular burnt offerings, for the Sabbaths, for the new moons, for the appointed meetings, for the holy offerings, for the sin offerings to make atonement for Israel, and for all the work of the temple of our God. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "34",
+      "text": "“We—the priests, the Levites, and the people—have cast lots concerning the wood offerings, to bring them to the temple of our God according to our families at the designated times year by year to burn on the altar of the Lord our God, as is written in the law. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "35",
+      "text": "We also accept responsibility for bringing the firstfruits of our land and the firstfruits of every fruit tree year by year to the temple of the Lord."
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "36",
+      "text": "We also accept responsibility, as is written in the law, for bringing the firstborn of our sons and our cattle and the firstborn of our herds and of our flocks to the temple of our God, to the priests who are ministering in the temple of our God. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "37",
+      "text": "We will also bring the first of our coarse meal, of our contributions, of the fruit of every tree, of new wine, and of olive oil to the priests at the storerooms of the temple of our God, along with a tenth of the produce of our land to the Levites, for the Levites are the ones who collect the tithes in all the cities where we work. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "38",
+      "text": "A priest of Aaron’s line will be with the Levites when the Levites collect the tithes, and the Levites will bring up a tenth of the tithes to the temple of our God, to the storerooms of the treasury. "
+    },
+    {
+      "bookname": "Nehemiah",
+      "chapter": "10",
+      "verse": "39",
+      "text": "The Israelites and the Levites will bring the contribution of the grain, the new wine, and the olive oil to the storerooms where the utensils of the sanctuary are kept, and where the priests who minister stay, along with the gatekeepers and the singers. We will not neglect the temple of our God.” "
+    }
+  ]
+}

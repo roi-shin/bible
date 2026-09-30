@@ -1,0 +1,72 @@
+# Esther 6 (English)
+
+## Text
+
+**1** Throughout that night the king was unable to sleep, so he asked for the book containing the historical records to be brought. As the records were being read in the king’s presence, 
+
+**2** it was found written that Mordecai had disclosed that Bigthana and Teresh, two of the king’s eunuchs who guarded the entrance, had plotted to assassinate King Ahasuerus. 
+
+**3** The king asked, “What great honor was bestowed on Mordecai because of this?” The king’s attendants who served him responded, “Not a thing was done for him.” 
+
+**4** Then the king said, “Who is that in the courtyard?” Now Haman had come to the outer courtyard of the palace to suggest that the king hang Mordecai on the gallows that he had constructed for him.
+
+**5** The king’s attendants said to him, “It is Haman who is standing in the courtyard.” The king said, “Let him enter.” 
+
+**6** So Haman came in, and the king said to him, “What should be done for the man whom the king wishes to honor?” Haman thought to himself, “Who is it that the king would want to honor more than me?”
+
+**7** So Haman said to the king, “For the man whom the king wishes to honor, 
+
+**8** let them bring royal attire which the king himself has worn and a horse on which the king himself has ridden—one bearing the royal insignia. 
+
+**9** Then let this clothing and this horse be given to one of the king’s noble officials. Let him then clothe the man whom the king wishes to honor, and let him lead him about through the plaza of the city on the horse, calling before him, ‘So shall it be done to the man whom the king wishes to honor!’” 
+
+**10** The king then said to Haman, “Go quickly! Take the clothing and the horse, just as you have described, and do as you just indicated to Mordecai the Jew, who sits at the king’s gate. Don’t neglect a single thing of all that you have said.” 
+
+**11** So Haman took the clothing and the horse, and he clothed Mordecai. He led him about on the horse throughout the plaza of the city, calling before him, “So shall it be done to the man whom the king wishes to honor!” 
+
+**12** Then Mordecai again sat at the king’s gate, while Haman hurried away to his home, mournful and with a veil over his head. 
+
+**13** Haman then related to his wife Zeresh and to all his friends everything that had happened to him. These wise men, along with his wife Zeresh, said to him, “If indeed this Mordecai before whom you have begun to fall is Jewish, you will not prevail against him. No, you will surely fall before him!”
+
+**14** While they were still speaking with him, the king’s eunuchs arrived. They quickly brought Haman to the banquet that Esther had prepared. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “and the sleep of the king fled.” In place of the rather innocuous comment of the Hebrew text, the LXX reads here, “And the Lord removed the sleep from the king.” The Greek text thus understands the statement in a more overtly theological way than does the Hebrew text, although even in the Hebrew text there may be a hint of God’s providence at work in this matter. After all, this event is crucial to the later reversal of Haman’s plot to destroy the Jewish people, and a sympathetic reader is likely to look beyond the apparent coincidence.
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “the book of the remembrances of the accounts of the days”; NAB “the chronicle of notable events.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “they”; the referent (the records) has been specified in the translation for clarity.
+
+### Verse 2 - Note 1
+[翻訳注]  This individual is referred to as “Bigthan,” a variant spelling of the name, in Esth 2:21.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “to send a hand against”; NASB “had sought to lay hands on.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “honor and greatness.” The expression is a hendiadys (see the note on 5:10 for an explanation of this figure).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “said in his heart” (so ASV); NASB, NRSV “said to himself.”
+
+### Verse 8 - Note 1
+[写本注]  The final comment (“one on whose head the royal crown has been”) is not included in the LXX.[翻訳注]  Heb “a royal crown on his head.” The reference is to an official decoration or headdress for horses in royal service. See HALOT 506 s.v. כֶּתֶר; DCH 4:477 s.v. כֶּתֶר. Cf. TEV “a royal ornament”; CEV “a fancy headdress.”
+
+### Verse 9 - Note 1
+[写本注]  The present translation reads with the LXX וְהִלְבִּישׁוֹ (vÿhilbisho, “and he will clothe him”) rather than the reading of the MT וְהִלְבִּישׁוּ (vÿhilbishu, “and they will clothe”). The reading of the LXX is also followed by NAB, NRSV, TEV, CEV, and NLT. Likewise, the later verbs in this verse (“cause him to ride” and “call”) are better taken as singulars rather than plurals.
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “and let them call” (see the previous note).
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “do not let fall”; NASB “do not fall short.”
+
+### Verse 13 - Note 1
+[写本注]  Part of the Greek tradition and the Syriac Peshitta understand this word as “friends,” probably reading the Hebrew term רֲכָמָיו (rakhamayv, “his friends”) rather than the reading of the MT חֲכָמָיו (hakhamayv, “his wise men”). Cf. NLT “all his friends”; the two readings appear to be conflated by TEV as “those wise friends of his.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “from the seed of the Jews”; KJV, ASV similar.
