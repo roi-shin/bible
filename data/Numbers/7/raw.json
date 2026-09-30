@@ -1,0 +1,682 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This long and repetitious chapter has several parts to it: the introduction (vv. <span class=\"bibleref\" title=\"Numbers 7:1-3\">1-3</span>), the assigning of gifts (vv. <span class=\"bibleref\" title=\"Numbers 7:4-9\">4-9</span>), the time of presentation (vv. <span class=\"bibleref\" title=\"Numbers 7:10-11\">10-11</span>), and then the tribes (vv. <span class=\"bibleref\" title=\"Numbers 7:12-83\">12-83</span>), and then a summary (vv. <span class=\"bibleref\" title=\"Numbers 7:84-89\">84-89</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The construction of this line begins with the temporal indicator (traditionally translated &#8220;and it came to pass&#8221;) and then after the idiomatic &#8220;in the day of&#8221; (= &#8220;when&#8221;) uses the Piel infinitive construct from <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1464;&#1500;&#1464;&#1492;</font> (<font face=\"Scholar\">kalah</font>). The infinitive is governed by the subjective genitive, &#8220;Moses,&#8221; the formal subject of the clause. The object of the infinitive is the second infinitive, &#8220;to set up&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1500;&#1456;&#1492;&#1464;&#1511;&#1460;&#1497;&#1501;</font>, <font face=\"Scholar\">l&#255;haqim</font>). This infinitive, the Hiphil<i>,</i> serves as the direct object, answering the question of what it was that Moses completed. The entire clause is an adverbial clause of time.<p class=\"note\"><span class=\"notetype\">sn</span> This chapter belongs chronologically after <span class=\"bibleref\" title=\"Leviticus 8:11\">Lev 8:11</span>, because Aaron and his sons were not yet made the celebrants and officiants of the new shrine (completed in Exodus). Here then chapters <span class=\"bibleref\" title=\"Numbers 7--9\">7-9</span> are actually earlier than chapters <span class=\"bibleref\" title=\"Numbers 1--6\">1-6</span>, and form a supplement by adding information not found in Exodus and Leviticus. The first verse here recapitulates the first act of Moses in consecrating the shrine (<span class=\"bibleref\" title=\"Exodus 30:23-31\">Exod 30:23-31</span>).</p></div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the house of their fathers.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The form is the Qal active participle from the verb &#8220;to stand&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1502;&#1463;&#1491;</font>, &#8217;<font face=\"Scholar\">amad</font>). The form describes these leaders as &#8220;the ones standing over [the ones numbered].&#8221; The expression, along with the clear indication of the first census in chapter , shows that this was a supervisory capacity.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they brought.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> For a discussion and drawings, see W. S. McCullough, <i>IDB</i> 1:540. But see also D. J. Wiseman, <i>IBD</i> 1:254.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The object is not in the Hebrew text, but has been supplied.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verb is the perfect tense with <i>vav</i> (<font face=\"Galaxie Unicode Hebrew\">&#1493;</font>) consecutive; following the imperative, this could be given an independent volitive translation (&#8220;they shall be&#8221;), but more fittingly a subordinated translation expressing the purpose of receiving the gifts.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The sentence uses the infinitive construct expressing purpose, followed by its cognate accusative: &#8220;[that they may be] for doing the work of&#8221; (literally, &#8220;serving the service of&#8221;).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The noun <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1460;&#1497;&#1513;&#1473;</font> (&#8217;<font face=\"Scholar\">ish</font>) is in apposition to the word &#8220;Levites,&#8221; and is to be taken in a distributive sense: &#8220;to the Levites, [to each] man according to his service.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The expression <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1456;&#1508;&#1460;&#1497;</font> (<font face=\"Scholar\">k&#255;fi</font>) is &#8220;according to the mouth of.&#8221; Here, it would say &#8220;according to the mouth of his service,&#8221; which would mean &#8220;what his service calls for.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hand.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verb is the imperfect tense, but it describes their customary activity &#8211; they had to carry, they used to carry.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;upon them,&#8221; meaning &#8220;their duty.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verse begins with the preterite and <font face=\"Scholar\">vav</font> (<font face=\"Galaxie Unicode Hebrew\">&#1493;</font>) consecutive: &#8220;and they offered.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The direct object, &#8220;gifts,&#8221; is implied but not actually stated in the Hebrew text. It has been supplied in the translation for stylistic reasons and for clarity.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The sign of the accusative here must indicate an adverbial accusative and not the direct object; they offered their gifts <i>for</i> the dedication of the altar.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Some commentators take the word &#8220;dedication&#8221; in the sense of a dedication gift, and so make it the direct object. Many modern scholars assume that this is a late word, belonging only in P, the Chronicler, and the heading of  (a Davidic psalm).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The adverbial clause uses the Niphal infinitive construct as the main verb. The word is the well-known <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1464;&#1513;&#1473;&#1463;&#1495;</font> (<font face=\"Scholar\">mashakh</font>, &#8220;to anoint, smear&#8221;).</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;offered,&#8221; but this is redundant and has been translated as &#8220;presented&#8221; for stylistic reasons. The same phrase occurs in vv. <span class=\"bibleref\" title=\"Numbers 7:11,12\">11 and 12</span>.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The distributive sense is achieved by repetition: &#8220;one leader for the day, one leader for the day.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The tribe of Judah is listed first. It seems that it had already achieved a place of prominence based on the patriarchal promise of the Messiahship in Judah (<span class=\"bibleref\" title=\"Genesis 49:10\">Gen 49:10</span>).</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;shekels&#8221; has been supplied in the translation for clarity. So also in vv. <span class=\"bibleref\" title=\"Numbers 7:19,20,25,26,31,32,37,38,43,44,49,50,55,56,60,62,66,68,73,74,79,85,86\">19, 20, 25, 26, 31, 32, 37, 38, 43, 44, 49, 50, 55, 56, 60, 62, 66, 68, 73, 74, 79, 85, 86</span>.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The phrase &#8220;presented an offering&#8221; is not found in the Hebrew text at this point but has been supplied to clarify what action is being done. The same phrase is absent from the Hebrew text in the following verses which tell who makes the offerings (<span class=\"bibleref\" title=\"Numbers 7:30,36,42,48,54,60,66,72,78\">7:30, 36, 42, 48, 54, 60, 66, 72, 78</span>).</div>"
+      ]
+    ],
+    "88": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Even though the chapter seems wearisome and repetitious to the modern reader, it is a significant document. A. Rainey shows how it matches the exact ledgers of ancient sanctuaries (see <i>ZPEB</i> 5:202). The recording would have been done by the priestly scribes. Of the many points that can be observed here, it should not be missed that each tribe, regardless of its size or relative importance, was on equal footing before the <sc>Lord</sc>. Each tribe shared in the work of the <sc>Lord</sc> equally. Each tribe approached the sanctuary in precisely the same way on this memorable occasion. All such devotion to the work of the <sc>Lord</sc> was to receive the blessing of God.</div>"
+      ]
+    ],
+    "89": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The adverbial clause of time is constructed with the infinitive construct of the verb &#8220;to enter&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1493;&#1465;&#1488;</font>, <font face=\"Scholar\">bo</font>&#8217;) with the preposition and with the subjective genitive that follows serving as the subject of the clause. The verse is strategic in the structure of the book: At the completion of the dedication with the offerings Moses received more revelation from the <sc>Lord</sc> in the tent. This verse therefore lays the foundation for what follows.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT is obscure here, simply giving the purpose infinitive and the prepositional phrase (&#8220;with him&#8221;). But the following clause using the Hitpael of the same verb, introducing a reflexive sense: &#8220;then he heard the voice speaking with him.&#8221; The Greek clarified it by inserting &#8220;Lord&#8221; after the word &#8220;voice.&#8221; The editor of <i>BHS</i> favors emendation of the form to a Piel participle rather than the Hitpael of the MT (reading <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1456;&#1491;&#1463;&#1489;&#1468;&#1461;&#1512;</font> [<font face=\"Scholar\">m&#255;dabber</font>] instead of <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1491;&#1468;&#1463;&#1489;&#1468;&#1461;&#1512;</font> [<font face=\"Scholar\">middabber</font>], the Hitpael with assimilation). Most commentators agree with the change, assuming there was a mistaken pointing in the MT.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1463;&#1508;&#1468;&#1465;&#1512;&#1462;&#1514;</font> (<font face=\"Scholar\">kapporet</font>) has been traditionally rendered &#8220;mercy seat,&#8221; but since the ark is the footstool (see ), this translation is somewhat misleading. The word is etymologically connected to the verb &#8220;to make atonement.&#8221; A technical translation would be &#8220;place of atonement&#8221; or &#8220;propitiatory&#8221;; a more common translation would be &#8220;cover, lid&#8221; &#8211; provided that the definition &#8220;to cover&#8221; does not get transferred to the verb &#8220;to atone,&#8221; for that idea belongs to a homonym. See also <span class=\"bibleref\" title=\"Exodus 25:17\">Exod 25:17</span>.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The cherubim are the carved forms of the angels attached to the ark. They indicate the guarding role of this order of angels in the holy of holies. They were also embroidered on the curtains. For basic material see <i>ZPEB</i> 1:788-90, and R. K. Harrison, <i>ISBE</i> 1:642-43.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "1",
+      "text": " When Moses had completed setting up the tabernacle, he anointed it and consecrated it and all its furnishings, and he anointed and consecrated the altar and all its utensils. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "2",
+      "text": "Then the leaders of Israel, the heads of their clans, made an offering. They were the leaders of the tribes; they were the ones who had been supervising the numbering. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "3",
+      "text": "They brought their offerings before the Lord, six covered carts and twelve oxen—one cart for every two of the leaders, and an ox for each one; and they presented them in front of the tabernacle. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "4",
+      "text": "Then the Lord spoke to Moses: "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "5",
+      "text": "“Receive these gifts from them, that they may be used in doing the work of the tent of meeting; and you must give them to the Levites, to every man as his service requires.”"
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "6",
+      "text": "So Moses accepted the carts and the oxen and gave them to the Levites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "7",
+      "text": "He gave two carts and four oxen to the Gershonites, as their service required; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "8",
+      "text": "and he gave four carts and eight oxen to the Merarites, as their service required, under the authority of Ithamar son of Aaron the priest. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "9",
+      "text": "But to the Kohathites he gave none, because the service of the holy things, which they carried on their shoulders, was their responsibility."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "10",
+      "text": "The leaders offered gifts for the dedication of the altar when it was anointed. And the leaders presented their offering before the altar. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "11",
+      "text": "For the Lord said to Moses, “They must present their offering, one leader for each day, for the dedication of the altar.” "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "12",
+      "text": "The one who presented his offering on the first day was Nahshon son of Amminadab, from the tribe of Judah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "13",
+      "text": "His offering was one silver platter weighing 130 shekels, and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "14",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "15",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "16",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "17",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Nahshon son of Amminadab. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "18",
+      "text": "On the second day Nethanel son of Zuar, leader of Issachar, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "19",
+      "text": "He offered for his offering one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "20",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "21",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "22",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "23",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Nethanel son of Zuar. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "24",
+      "text": "On the third day Eliab son of Helon, leader of the Zebulunites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "25",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "26",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "27",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "28",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "29",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Eliab son of Helon. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "30",
+      "text": "On the fourth day Elizur son of Shedeur, leader of the Reubenites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "31",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "32",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "33",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "34",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "35",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Elizur son of Shedeur. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "36",
+      "text": "On the fifth day Shelumiel son of Zurishaddai, leader of the Simeonites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "37",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "38",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "39",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "40",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "41",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Shelumiel son of Zurishaddai. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "42",
+      "text": "On the sixth day Eliasaph son of Deuel, leader of the Gadites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "43",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "44",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "45",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "46",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "47",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Eliasaph son of Deuel. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "48",
+      "text": "On the seventh day Elishama son of Ammihud, leader of the Ephraimites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "49",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "50",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "51",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "52",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "53",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Elishama son of Ammihud. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "54",
+      "text": "On the eighth day Gamaliel son of Pedahzur, leader of the Manassehites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "55",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "56",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "57",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "58",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "59",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Gamaliel son of Pedahzur. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "60",
+      "text": "On the ninth day Abidan son of Gideoni, leader of the Benjaminites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "61",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "62",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "63",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "64",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "65",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Abidan son of Gideoni. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "66",
+      "text": "On the tenth day Ahiezer son of Ammishaddai, leader of the Danites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "67",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "68",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "69",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "70",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "71",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Ahiezer son of Ammishaddai."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "72",
+      "text": "On the eleventh day Pagiel son of Ocran, leader of the Asherites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "73",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "74",
+      "text": "one gold pan weighing 10 shekels, full of incense; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "75",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "76",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "77",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Pagiel son of Ocran. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "78",
+      "text": "On the twelfth day Ahira son of Enan, leader of the Naphtalites, presented an offering."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "79",
+      "text": "His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "80",
+      "text": "one gold pan weighing 10 shekels, full of incense;"
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "81",
+      "text": "one young bull, one ram, and one male lamb in its first year, for a burnt offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "82",
+      "text": "one male goat for a purification offering; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "83",
+      "text": "and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Ahira son of Enan. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "84",
+      "text": "This was the dedication for the altar from the leaders of Israel, when it was anointed: twelve silver platters, twelve silver sprinkling bowls, and twelve gold pans. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "85",
+      "text": "Each silver platter weighed 130 shekels, and each silver sprinkling bowl weighed 70 shekels. All the silver of the vessels weighed 2,400 shekels, according to the sanctuary shekel. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "86",
+      "text": "The twelve gold pans full of incense weighed 10 shekels each, according to the sanctuary shekel; all the gold of the pans weighed 120 shekels."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "87",
+      "text": "All the animals for the burnt offering were 12 young bulls, 12 rams, 12 male lambs in their first year, with their grain offering, and 12 male goats for a purification offering. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "88",
+      "text": "All the animals for the sacrifice for the peace offering were 24 young bulls, 60 rams, 60 male goats, and 60 lambs in their first year. These were the dedication offerings for the altar after it was anointed. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "7",
+      "verse": "89",
+      "text": "Now when Moses went into the tent of meeting to speak with the Lord, he heard the voice speaking to him from above the atonement lid that was on the ark of the testimony, from between the two cherubim. Thus he spoke to him."
+    }
+  ]
+}

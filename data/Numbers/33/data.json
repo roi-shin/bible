@@ -1,0 +1,376 @@
+{
+  "book": "Numbers",
+  "chapter": 33,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " These are the journeys of the Israelites, who went out of the land of Egypt by their divisions under the authority of Moses and Aaron. ",
+      "ja": "これはイスラエル人の旅路であり、彼らはモーセとアロンの指揮のもと、その部隊ごとにエジプトの地を出てきたのである。"
+    },
+    {
+      "verse": 2,
+      "en": "Moses recorded their departures according to their journeys, by the commandment of the Lord; now these are their journeys according to their departures. ",
+      "ja": "モーセは主の命令によって、彼らの旅路に従って出発の行程を記録した。さて、これらは彼らの出発による旅路である。"
+    },
+    {
+      "verse": 3,
+      "en": "They departed from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the Israelites went out defiantly in plain sight of all the Egyptians. ",
+      "ja": "彼らは第一の月の十五日、すなわち過越の祭りの翌日にラメセスを出発した。イスラエル人は全エジプト人の目の前で、高々と出て行ったのである。"
+    },
+    {
+      "verse": 4,
+      "en": "Now the Egyptians were burying all their firstborn, whom the Lord had killed among them; the Lord also executed judgments on their gods. ",
+      "ja": "その頃、エジプト人は、主が彼らの間で打ち殺したすべての初子を埋葬していた。主はまた、彼らの神々に対して裁きを執行されたのである。"
+    },
+    {
+      "verse": 5,
+      "en": "The Israelites traveled from Rameses and camped in Sukkoth. ",
+      "ja": "イスラエル人はラメセスから旅立ち、スコトに宿営した。"
+    },
+    {
+      "verse": 6,
+      "en": "They traveled from Sukkoth, and camped in Etham, which is on the edge of the desert. ",
+      "ja": "彼らはスコトから旅立ち、荒野の端にあるエタムに宿営した。"
+    },
+    {
+      "verse": 7,
+      "en": "They traveled from Etham, and turned again to Pi Hahiroth, which is before Baal Zephon; and they camped before Migdal. ",
+      "ja": "彼らはエタムから旅立ち、引き返してバアル・ツェフォンの前にあるピ・ハヒロトへ向かい、ミグドルの前に宿営した。"
+    },
+    {
+      "verse": 8,
+      "en": "They traveled from Pi Hahiroth, and passed through the middle of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and camped in Marah. ",
+      "ja": "彼らはピ・ハヒロトから旅立ち、海の真ん中を通って荒野に入り、エタムの荒野で三日の道のりを進んで、マラに宿営した。"
+    },
+    {
+      "verse": 9,
+      "en": "They traveled from Marah and came to Elim; in Elim there are twelve fountains of water and seventy palm trees, so they camped there. ",
+      "ja": "彼らはマラから旅立ち、エリムに着いた。エリムには十二の水の泉と七十本のなつめやしの木があったので、彼らはそこに宿営した。"
+    },
+    {
+      "verse": 10,
+      "en": "They traveled from Elim, and camped by the Red Sea. ",
+      "ja": "彼らはエリムから旅立ち、紅海のそばに宿営した。"
+    },
+    {
+      "verse": 11,
+      "en": "They traveled from the Red Sea and camped in the wilderness of Sin. ",
+      "ja": "彼らは紅海から旅立ち、シンの荒野に宿営した。"
+    },
+    {
+      "verse": 12,
+      "en": "They traveled from the wilderness of Sin and camped in Dophkah. ",
+      "ja": "彼らはシンの荒野から旅立ち、ドフカに宿営した。"
+    },
+    {
+      "verse": 13,
+      "en": "And they traveled from Dophkah, and camped in Alush. ",
+      "ja": "彼らはドフカから旅立ち、アルシュに宿営した。"
+    },
+    {
+      "verse": 14,
+      "en": "They traveled from Alush and camped at Rephidim, where there was no water for the people to drink. ",
+      "ja": "彼らはアルシュから旅立ち、レフィディムに宿営した。そこには民が飲むための水がなかったのである。"
+    },
+    {
+      "verse": 15,
+      "en": "They traveled from Rephidim and camped in the desert of Sinai. ",
+      "ja": "彼らはレフィディムから旅立ち、シナイの荒野に宿営した。"
+    },
+    {
+      "verse": 16,
+      "en": "They traveled from the desert of Sinai and camped at Kibroth Hattaavah. ",
+      "ja": "彼らはシナイの荒野から旅立ち、キブロト・ハタアワに宿営した。"
+    },
+    {
+      "verse": 17,
+      "en": "They traveled from Kibroth Hattaavah and camped at Hazeroth. ",
+      "ja": "彼らはキブロト・ハタアワから旅立ち、ハツェロトに宿営した。"
+    },
+    {
+      "verse": 18,
+      "en": "They traveled from Hazeroth and camped in Rithmah. ",
+      "ja": "彼らはハツェロトから旅立ち、リテマに宿営した。"
+    },
+    {
+      "verse": 19,
+      "en": "They traveled from Rithmah and camped at Rimmon Perez. ",
+      "ja": "彼らはリテマから旅立ち、リムモン・ペレツに宿営した。"
+    },
+    {
+      "verse": 20,
+      "en": "They traveled from Rimmon Perez and camped in Libnah. ",
+      "ja": "彼らはリムモン・ペレツから旅立ち、リブナに宿営した。"
+    },
+    {
+      "verse": 21,
+      "en": "They traveled from Libnah and camped at Rissah. ",
+      "ja": "彼らはリブナから旅立ち、リッサに宿営した。"
+    },
+    {
+      "verse": 22,
+      "en": "They traveled from Rissah and camped in Kehelathah. ",
+      "ja": "彼らはリッサから旅立ち、ケヘラタに宿営した。"
+    },
+    {
+      "verse": 23,
+      "en": "They traveled from Kehelathah and camped at Mount Shepher. ",
+      "ja": "彼らはケヘラタから旅立ち、シェフェルの山に宿営した。"
+    },
+    {
+      "verse": 24,
+      "en": "They traveled from Mount Shepher and camped in Haradah. ",
+      "ja": "彼らはシェフェルの山から旅立ち、ハラダに宿営した。"
+    },
+    {
+      "verse": 25,
+      "en": "They traveled from Haradah and camped in Makheloth. ",
+      "ja": "彼らはハラダから旅立ち、マケロトに宿営した。"
+    },
+    {
+      "verse": 26,
+      "en": "They traveled from Makheloth and camped at Tahath. ",
+      "ja": "彼らはマケロトから旅立ち、タハトに宿営した。"
+    },
+    {
+      "verse": 27,
+      "en": "They traveled from Tahath and camped at Terah. ",
+      "ja": "彼らはタハトから旅立ち、テラに宿営した。"
+    },
+    {
+      "verse": 28,
+      "en": "They traveled from Terah and camped in Mithcah. ",
+      "ja": "彼らはテラから旅立ち、ミテカに宿営した。"
+    },
+    {
+      "verse": 29,
+      "en": "They traveled from Mithcah and camped in Hashmonah. ",
+      "ja": "彼らはミテカから旅立ち、ハシュモナに宿営した。"
+    },
+    {
+      "verse": 30,
+      "en": "They traveled from Hashmonah and camped in Moseroth. ",
+      "ja": "彼らはハシュモナから旅立ち、モセロトに宿営した。"
+    },
+    {
+      "verse": 31,
+      "en": "They traveled from Moseroth and camped in Bene Jaakan.",
+      "ja": "彼らはモセロトから旅立ち、ベネ・ヤアカンに宿営した。"
+    },
+    {
+      "verse": 32,
+      "en": "They traveled from Bene Jaakan and camped at Hor Haggidgad. ",
+      "ja": "彼らはベネ・ヤアカンから旅立ち、ホル・ハギデガデに宿営した。"
+    },
+    {
+      "verse": 33,
+      "en": "They traveled from Hor Haggidgad and camped in Jotbathah. ",
+      "ja": "彼らはホル・ハギデガデから旅立ち、ヨテバタに宿営した。"
+    },
+    {
+      "verse": 34,
+      "en": "They traveled from Jotbathah and camped in Abronah. ",
+      "ja": "彼らはヨテバタから旅立ち、アブロナに宿営した。"
+    },
+    {
+      "verse": 35,
+      "en": "They traveled from Abronah and camped at Ezion Geber. ",
+      "ja": "彼らはアブロナから旅立ち、エツヨン・ゲベルに宿営した。"
+    },
+    {
+      "verse": 36,
+      "en": "They traveled from Ezion Geber and camped in the wilderness of Zin, that is, Kadesh. ",
+      "ja": "彼らはエツヨン・ゲベルから旅立ち、ツィンの荒野、すなわちカデシュに宿営した。"
+    },
+    {
+      "verse": 37,
+      "en": "They traveled from Kadesh and camped at Mount Hor at the edge of the land of Edom. ",
+      "ja": "彼らはカデシュから旅立ち、エドムの地の境にあるホル山に宿営した。"
+    },
+    {
+      "verse": 38,
+      "en": "Aaron the priest ascended Mount Hor at the command of the Lord, and he died there in the fortieth year after the Israelites had come out of the land of Egypt on the first day of the fifth month. ",
+      "ja": "祭司アロンは主の命令によってホル山に登り、イスラエル人がエジプトの地を出てきた後の第四十年、第五の月の初日にそこで死んだのである。"
+    },
+    {
+      "verse": 39,
+      "en": "Now Aaron was 123 years old when he died on Mount Hor. ",
+      "ja": "さて、アロンはホル山で死んだ時、百二十三歳であった。"
+    },
+    {
+      "verse": 40,
+      "en": "The king of Arad, the Canaanite king who lived in the south of the land of Canaan, heard about the approach of the Israelites. ",
+      "ja": "カナンの地の南に住んでいたカナン人の王であるアラドの王は、イスラエル人の接近について聞いた。"
+    },
+    {
+      "verse": 41,
+      "en": "They traveled from Mount Hor and camped in Zalmonah. ",
+      "ja": "彼らはホル山から旅立ち、ツァルモナに宿営した。"
+    },
+    {
+      "verse": 42,
+      "en": "They traveled from Zalmonah and camped in Punon. ",
+      "ja": "彼らはツァルモナから旅立ち、プノンに宿営した。"
+    },
+    {
+      "verse": 43,
+      "en": "They traveled from Punon and camped in Oboth. ",
+      "ja": "彼らはプノンから旅立ち、オボトに宿営した。"
+    },
+    {
+      "verse": 44,
+      "en": "They traveled from Oboth and camped in Iye Abarim, on the border of Moab. ",
+      "ja": "彼らはオボトから旅立ち、モアブの境にあるイエ・アバリムに宿営した。"
+    },
+    {
+      "verse": 45,
+      "en": "They traveled from Iim and camped in Dibon Gad. ",
+      "ja": "彼らはイイムから旅立ち、ディボン・ガデに宿営した。"
+    },
+    {
+      "verse": 46,
+      "en": "They traveled from Dibon Gad and camped in Almon Diblathaim. ",
+      "ja": "彼らはディボン・ガデから旅立ち、アルモン・ディブラタイムに宿営した。"
+    },
+    {
+      "verse": 47,
+      "en": "They traveled from Almon Diblathaim and camped in the mountains of Abarim before Nebo. ",
+      "ja": "彼らはアルモン・ディブラタイムから旅立ち、ネボの前の、アバリムの山々に宿営した。"
+    },
+    {
+      "verse": 48,
+      "en": "They traveled from the mountains of Abarim and camped in the rift valley plains by Moab along the Jordan River across from Jericho. ",
+      "ja": "彼らはアバリムの山々から旅立ち、エリコの向かいのヨルダン川に沿って、モアブの平地に宿営した。"
+    },
+    {
+      "verse": 49,
+      "en": "They camped by the Jordan, from Beth Jeshimoth as far as Abel Shittim in the rift valley plains of Moab. ",
+      "ja": "彼らはモアブの平地で、ベテ・エシモトからアベル・シッテムまで、ヨルダン川のほとりに宿営した。"
+    },
+    {
+      "verse": 50,
+      "en": "The Lord spoke to Moses in the rift valley plains of Moab along the Jordan, across from Jericho. He said: ",
+      "ja": "主はエリコの向かいのヨルダン川に沿った、モアブの平地でモーセに告げられた。「"
+    },
+    {
+      "verse": 51,
+      "en": "“Speak to the Israelites and tell them, ‘When you have crossed the Jordan into the land of Canaan, ",
+      "ja": "イスラエル人に語って言え。『あなたがたがヨルダン川を渡ってカナンの地に入ったなら、"
+    },
+    {
+      "verse": 52,
+      "en": "you must drive out all the inhabitants of the land before you. Destroy all their carved images, all their molten images, and demolish their high places. ",
+      "ja": "あなたがたの前から地のすべての住民を追い払わなければならない。彼らのすべての彫像を破壊し、彼らのすべての鋳像を打ち壊し、その高き所をことごとく取り壊さなければならない。"
+    },
+    {
+      "verse": 53,
+      "en": "You must dispossess the inhabitants of the land and live in it, for I have given you the land to possess it.",
+      "ja": "あなたがたは地の住民を追い出して、そこに住み着かなければならない。わたしがあなたがたに、それを所有させるためにその地を与えたからである。"
+    },
+    {
+      "verse": 54,
+      "en": "You must divide the land by lot for an inheritance among your families. To a larger group you must give a larger inheritance, and to a smaller group you must give a smaller inheritance. Everyone’s inheritance must be in the place where his lot falls. You must inherit according to your ancestral tribes. ",
+      "ja": "あなたがたの氏族ごとにくじによって地を相続地として分け与えなければならない。大人数には広い相続地を与え、少人数には狭い相続地を与えなければならない。それぞれの相続地は、そのくじが落ちた場所にあるべきである。あなたがたは父祖の部族に従って相続しなければならない。"
+    },
+    {
+      "verse": 55,
+      "en": "But if you do not drive out the inhabitants of the land before you, then those whom you allow to remain will be irritants in your eyes and thorns in your side, and will cause you trouble in the land where you will be living. ",
+      "ja": "しかし、もしあなたがたが地の住民をあなたがたの前から追い払わないなら、あなたがたが残すことを許した者たちは、あなたがたの目にはちりとなり、わき腹にはとげとなって、あなたがたが住むことになる地で、あなたがたに苦しみをもたらすであろう。"
+    },
+    {
+      "verse": 56,
+      "en": "And what I intended to do to them I will do to you.’”",
+      "ja": "わたしが彼らに対して行おうとしていたことを、あなたがたに対して行うであろう。』」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  This material can be arranged into four sections: from Egypt to Sinai (vv. 1-15), the wilderness wanderings (vv. 16-36), from Kadesh to Moab (vv. 37-49), and final orders for Canaan (vv. 50-56).",
+        "ja": "[解説] この箇所は四つの部分に整理できます。すなわち、エジプトからシナイまで（1-15節）、荒野の彷徨（16-36節）、カデシュからモアブまで（37-49節）、そしてカナンの地への最終命令（50-56節）です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “hand.”",
+        "ja": "[翻訳注] ヘブライ語では「手」です。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “their goings out.”",
+        "ja": "[翻訳注] ヘブライ語では「彼らの出ること」です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “mouth.”",
+        "ja": "[翻訳注] ヘブライ語では「口」です。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “morrow.”",
+        "ja": "[翻訳注] ヘブライ語では「翌日」です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “with a high hand”; the expression means “defiantly; boldly” or “with confidence.” The phrase is usually used for arrogant sin and pride, the defiant fist, as it were. The image of the high hand can also mean the hand raised to deliver the blow (Job 38:15).",
+        "ja": "[翻訳注] ヘブライ語では「高き手をもって」です。この表現は「高慢に」「大胆に」、または「自信をもって」を意味します。通常、傲慢な罪や高ぶり、あたかも挑戦的な拳を指す場合に使われます。高き手のイメージは、打撃を与えるために挙げられた手（ヨブ記38:15）をも意味することがあります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “in the eyes.”",
+        "ja": "[翻訳注] ヘブライ語では「目の前に」です。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[写本注]  So many medieval Hebrew manuscripts, Smr, Syriac, and Latin Vulgate. Other witnesses have “from before Hahiroth.”",
+        "ja": "[写本注] 多くの近世ヘブライ語写本、サマリア語写本、シリア語訳、ラテン語ウルガタ訳も同様です。他の資料では「ハヒロトの前から」となっています。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “mouth.”",
+        "ja": "[翻訳注] ヘブライ語では「口」です。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Iim is a shortened form of the name Iye-abarim mentioned in v. 44.",
+        "ja": "[翻訳注] 「イイム」は44節で言及されている「イエ・アバリム」の短縮形です。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “River” is not in the Hebrew text, but is supplied in the translation for clarity.",
+        "ja": "[翻訳注] 「川」という言葉はヘブライ語原典にはありませんが、明確にするために翻訳で補われています。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For the location of Jericho see Map5-B2; Map6-E1; Map7-E1; Map8-E3; Map10-A2; Map11-A1.",
+        "ja": "[地図] エリコの場所については、地図5-B2、地図6-E1、地図7-E1、地図8-E3、地図10-A2、地図11-A1を参照してください。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew text repeats the verb “you will destroy.”",
+        "ja": "[翻訳注] ヘブライ語原典では「破壊する」という動詞が繰り返されています。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “of your fathers.”",
+        "ja": "[翻訳注] ヘブライ語では「あなた方の父祖の」です。"
+      }
+    ]
+  }
+}

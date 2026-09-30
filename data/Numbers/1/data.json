@@ -1,0 +1,654 @@
+{
+  "book": "Numbers",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " Now the Lord spoke to Moses in the tent of meeting in the desert of Sinai on the first day of the second month of the second year after the Israelites departed from the land of Egypt. He said: ",
+      "ja": "イスラエルの人々がエジプトの地から導き出された後、2年目の第2の月の1日、シナイの荒野にある臨済の幕屋で、主はモーセに告げて言われた。"
+    },
+    {
+      "verse": 2,
+      "en": "“Take a census of the entire Israelite community by their clans and families, counting the name of every individual male. ",
+      "ja": "「イスラエルの全会衆の数を、氏族ごとに、父祖の家ごとに、すべての男の数を一人ひとり名前を挙げて数え上げよ。"
+    },
+    {
+      "verse": 3,
+      "en": "You and Aaron are to number all in Israel who can serve in the army, those who are twenty years old or older, by their divisions. ",
+      "ja": "あなたとアロンは、イスラエルのうちで軍務に服することのできる者、すなわち20歳以上の者を、部隊ごとに数えなければならない。"
+    },
+    {
+      "verse": 4,
+      "en": "And to help you there is to be a man from each tribe, each man the head of his family. ",
+      "ja": "その際、各部族から一人ずつ、その父祖の家の頭長である者をあなたの助手としてつけよ。"
+    },
+    {
+      "verse": 5,
+      "en": "Now these are the names of the men who are to help you: from Reuben, Elizur son of Shedeur; ",
+      "ja": "あなたを助ける男たちの名は次のとおりである。ルベンからはシェデウールの息子エリツル。"
+    },
+    {
+      "verse": 6,
+      "en": "from Simeon, Shelumiel son of Zurishaddai; ",
+      "ja": "シメオンからはツリシャダイの息子シェルミエル。"
+    },
+    {
+      "verse": 7,
+      "en": "from Judah, Nahshon son of Amminadab; ",
+      "ja": "ユダからはアミナダブの息子ナフション。"
+    },
+    {
+      "verse": 8,
+      "en": "from Issachar, Nethanel son of Zuar; ",
+      "ja": "イッサカルからはツアルの息子ネタネル。"
+    },
+    {
+      "verse": 9,
+      "en": "from Zebulun, Eliab son of Helon; ",
+      "ja": "ゼブルンからはヘロンの息子エリアブ。"
+    },
+    {
+      "verse": 10,
+      "en": "from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur; ",
+      "ja": "ヨセフの子孫のうち、エフライムからはアミフデの息子エリシャマ、マナセからはペダツールの息子ガマリエル。"
+    },
+    {
+      "verse": 11,
+      "en": "from Benjamin, Abidan son of Gideoni; ",
+      "ja": "ベニヤミンからはギデオニの息子アビダン。"
+    },
+    {
+      "verse": 12,
+      "en": "from Dan, Ahiezer son of Ammishaddai; ",
+      "ja": "ダンからはアミシャダイの息子アヒエゼル。"
+    },
+    {
+      "verse": 13,
+      "en": "from Asher, Pagiel son of Ocran; ",
+      "ja": "アシェルからはオクランの息子パギエル。"
+    },
+    {
+      "verse": 14,
+      "en": "from Gad, Eliasaph son of Deuel; ",
+      "ja": "ガドからはデウエルの息子エリアサプ。"
+    },
+    {
+      "verse": 15,
+      "en": "from Naphtali, Ahira son of Enan.” ",
+      "ja": "ナフタリからはエナンの息子アヒラ。」"
+    },
+    {
+      "verse": 16,
+      "en": "These were the ones chosen from the community, leaders of their ancestral tribes. They were the heads of the thousands of Israel. ",
+      "ja": "これらは会衆の中から選ばれた者たちであり、その父祖の部族の長、イスラエルの千人隊の頭たちであった。"
+    },
+    {
+      "verse": 17,
+      "en": "So Moses and Aaron took these men who had been mentioned specifically by name, ",
+      "ja": "そこでモーセとアロンは、名指しで指定されたこれらの男たちを連れ、"
+    },
+    {
+      "verse": 18,
+      "en": "and they assembled the entire community together on the first day of the second month. Then the people recorded their ancestry by their clans and families, and the men who were twenty years old or older were listed by name individually, ",
+      "ja": "第2の月の1日に全会衆を招集した。人々は自分たちの氏族と父祖の家に従って系図を登録し、20歳以上の男たちが一人ひとり名前を挙げて登録された。"
+    },
+    {
+      "verse": 19,
+      "en": "just as the Lord had commanded Moses. And so he numbered them in the desert of Sinai. ",
+      "ja": "それは、主がモーセに命じられたとおりであった。こうして彼はシナイの荒野で彼らを数えた。"
+    },
+    {
+      "verse": 20,
+      "en": "And they were as follows:The descendants of Reuben, the firstborn son of Israel: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name individually. ",
+      "ja": "イスラエルの長男ルベンの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が、一人ひとり名前を挙げて登録された。"
+    },
+    {
+      "verse": 21,
+      "en": "Those of them who were numbered from the tribe of Reuben were 46,500.",
+      "ja": "ルベンの部族で数えられた者たちは4万6500人であった。"
+    },
+    {
+      "verse": 22,
+      "en": "From the descendants of Simeon: According to the records of their clans and families, all the males numbered of them twenty years old or older who could serve in the army were listed by name individually. ",
+      "ja": "シメオンの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上の数えられたすべての男が、一人ひとり名前を挙げて登録された。"
+    },
+    {
+      "verse": 23,
+      "en": "Those of them who were numbered from the tribe of Simeon were 59,300.",
+      "ja": "シメオンの部族で数えられた者たちは5万9300人であった。"
+    },
+    {
+      "verse": 24,
+      "en": " From the descendants of Gad: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ガドの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 25,
+      "en": "Those of them who were numbered from the tribe of Gad were 45,650.",
+      "ja": "ガドの部族で数えられた者たちは4万5650人であった。"
+    },
+    {
+      "verse": 26,
+      "en": "From the descendants of Judah: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ユダの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 27,
+      "en": "Those of them who were numbered from the tribe of Judah were 74,600.",
+      "ja": "ユダの部族で数えられた者たちは7万4600人であった。"
+    },
+    {
+      "verse": 28,
+      "en": "From the descendants of Issachar: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "イッサカルの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 29,
+      "en": "Those of them who were numbered from the tribe of Issachar were 54,400.",
+      "ja": "イッサカルの部族で数えられた者たちは5万4400人であった。"
+    },
+    {
+      "verse": 30,
+      "en": "From the descendants of Zebulun: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ゼブルンの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 31,
+      "en": "Those of them who were numbered from the tribe of Zebulun were 57,400.",
+      "ja": "ゼブルンの部族で数えられた者たちは5万7400人であった。"
+    },
+    {
+      "verse": 32,
+      "en": "From the sons of Joseph: From the descendants of Ephraim: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ヨセフの子孫のうち、エフライムの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 33,
+      "en": "Those of them who were numbered from the tribe of Ephraim were 40,500.",
+      "ja": "エフライムの部族で数えられた者たちは4万500人であった。"
+    },
+    {
+      "verse": 34,
+      "en": "From the descendants of Manasseh: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "マナセの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 35,
+      "en": "Those of them who were numbered from the tribe of Manasseh were 32,200.",
+      "ja": "マナセの部族で数えられた者たちは3万2200人であった。"
+    },
+    {
+      "verse": 36,
+      "en": "From the descendants of Benjamin: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ベニヤミンの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 37,
+      "en": "Those of them who were numbered from the tribe of Benjamin were 35,400.",
+      "ja": "ベニヤミンの部族で数えられた者たちは3万5400人であった。"
+    },
+    {
+      "verse": 38,
+      "en": "From the descendants of Dan: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ダンの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 39,
+      "en": "Those of them who were numbered from the tribe of Dan were 62,700.",
+      "ja": "ダンの部族で数えられた者たちは6万2700人であった。"
+    },
+    {
+      "verse": 40,
+      "en": "From the descendants of Asher: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "アシェルの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 41,
+      "en": "Those of them who were numbered from the tribe of Asher were 41,500.",
+      "ja": "アシェルの部族で数えられた者たちは4万1500人であった。"
+    },
+    {
+      "verse": 42,
+      "en": "From the descendants of Naphtali: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name. ",
+      "ja": "ナフタリの子孫については、その氏族と父祖の家の記録に従い、軍務に服することのできる20歳以上のすべての男が名前によって登録された。"
+    },
+    {
+      "verse": 43,
+      "en": "Those of them who were numbered from the tribe of Naphtali were 53,400.",
+      "ja": "ナフタリの部族で数えられた者たちは5万3400人であった。"
+    },
+    {
+      "verse": 44,
+      "en": "These were the men whom Moses and Aaron numbered along with the twelve leaders of Israel, each of whom was from his own family. ",
+      "ja": "これらは、モーセとアロン、およびイスラエルの12人の指導者たちによって数えられた者たちである。指導者たちはそれぞれ自分の父祖の家を代表していた。"
+    },
+    {
+      "verse": 45,
+      "en": "All the Israelites who were twenty years old or older, who could serve in Israel’s army, were numbered according to their families. ",
+      "ja": "イスラエルの人々のうち、20歳以上でイスラエルの軍務に服することができるすべての者が、その父祖の家に従って数えられた。"
+    },
+    {
+      "verse": 46,
+      "en": "And all those numbered totaled 603,550.",
+      "ja": "数えられた者たちの総数は60万3550人であった。"
+    },
+    {
+      "verse": 47,
+      "en": "But the Levites, according to the tribe of their fathers, were not numbered among them.",
+      "ja": "しかし、レビ人はその父祖の部族に従って、彼らの中に数えられなかった。"
+    },
+    {
+      "verse": 48,
+      "en": "The Lord had said to Moses, ",
+      "ja": "主はモーセに告げて言われていた。"
+    },
+    {
+      "verse": 49,
+      "en": "“Only the tribe of Levi you must not number or count with the other Israelites. ",
+      "ja": "「ただレビ部族だけは、数えてはならない。他のイスラエル人と一緒にその数を調査してはならない。"
+    },
+    {
+      "verse": 50,
+      "en": "But appoint the Levites over the tabernacle of the testimony, over all its furnishings and over everything in it. They must carry the tabernacle and all its furnishings; and they must attend to it and camp around it. ",
+      "ja": "あなたはレビ人に、あかしの幕屋、そのすべての用具、およびそれに属するすべてのものを管理させよ。彼らは幕屋とそのすべての用具を運び、それに仕え、その周りに宿営しなければならない。"
+    },
+    {
+      "verse": 51,
+      "en": "Whenever the tabernacle is to move, the Levites must take it down, and whenever the tabernacle is to be reassembled, the Levites must set it up. Any unauthorized person who approaches it must be killed. ",
+      "ja": "幕屋を移動させるときにはレビ人がそれを解体し、幕屋を設営するときにはレビ人がそれを組み立てなければならない。立ち入るべきでない他国人が近づくならば、その者は死に処せられる。"
+    },
+    {
+      "verse": 52,
+      "en": "“The Israelites will camp according to their divisions, each man in his camp, and each man by his standard. ",
+      "ja": "イスラエルの人々は、それぞれ自分の部隊に従って、自分の宿営、自分の旗の下に宿営しなければならない。"
+    },
+    {
+      "verse": 53,
+      "en": "But the Levites must camp around the tabernacle of the testimony, so that the Lord’s anger will not fall on the Israelite community. The Levites are responsible for the care of the tabernacle of the testimony.” ",
+      "ja": "しかしレビ人は、あかしの幕屋の周りに宿営し、イスラエルの人々の会衆の上に主の怒りが下らないようにしなければならない。レビ人はあかしの幕屋の管理の責任を負う。」"
+    },
+    {
+      "verse": 54,
+      "en": "The Israelites did according to all that the Lord commanded Moses—that is what they did. ",
+      "ja": "イスラエルの人々は、主がモーセに命じられたすべてのことに従って行い、そのとおりに行った。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  The book of Numbers is the fourth book of the Pentateuch, traditionally called the Law of Moses. It provides a record of the experience of the Israelites during the wilderness wanderings, and records the laws for the camp as they traveled from place to place. The book focuses on the difficulties of the Israelites due to their lack of faith, rebellion, and apostasy. It also records God’s protection of his people from opposition from without. The book makes a fitting contribution to the collection of holy writings as it shows the spiritual and physical progression of the company of the redeemed toward the promised land. The book has to be studied in conjunction with the other books of the Pentateuch. It builds on the promises made to Abraham in Genesis and the redemption from bondage in Exodus; it completes the cultic instructions for Israel that were laid down in Leviticus, and it concerns the worship in and the movement of the tabernacle that was built in Exodus. But the information here, both legal and historical, was not the major concern in those books. The book gets its title in English (following the Greek tradition) from the two censuses taken of the people, one at the beginning of the wanderings and the other at the end (although the Hebrew title is taken from the beginning of the book, בַּמִּדְבַּר [bammidbar], “in the wilderness”). In these lists particular emphasis is given to the leaders of the clans, a theme that will continue in the book as the focus is on how the leaders function in all the trials and temptations of the journey. The material in this book is essentially a theological interpretation of historical events, and as such it stands as an integral part of the revelation of God. In the study of the book of Numbers, when these issues of the nature of the text are significant to the interpretation and acceptance of the text, the notes will comment on them briefly. The indication at the outset of the book is that Moses had a good number of people who were able to help him compile the statistics and the facts of the wandering community. In Num 11:16-18 there is a group of leaders known as שֹׁטְּרִים(shottÿrim). This term was used in Exod 5:16-19 to describe the officers or foremen of the Israelites. They were appointed supervisors of the clans by Moses, and by the time of Joshua (Josh 1:10) they were a literary guild. The Hebrew word, cognate with Akkadian sataru, means “to write.” These people were to Israel what the scribes and chroniclers were to the pagan nations. They assisted Moses and the priests in their keeping of records. So no matter what they were called from time to time, there was a group of literate people who could keep the records and preserve the information from the very beginning. Their work matches the activities of scribes in the ancient world who used all the literary devices to preserve the material. There is no reason to doubt that the events recorded were attested to and preserved by such eyewitnesses. But their work would have been essentially to serve the leader, Moses. The book essentially follows the order of the events chronologically, more or less. Where it departs from that order it does so for literary or theological reasons. At the center of the theological concern is the tabernacle, its significance to the faith, and therefore the care in using it and in moving it. Its importance explains the presence and the arrangement of the ritual laws. With the records and statistics provided for him, Moses could then introduce into the record the great events in the wilderness experience of Israel, which were to become warnings and encouragements for all time. Most of this material comes from the two years at the beginning of the experience and the two years at the end. But this itself may be a literary device (merism) to show the nature of the wanderings throughout. The Hebrew text of the book of Numbers has been preserved fairly well. It has not been preserved as well as Leviticus, which was most important to the ministry of the priests and Levites. But in comparison with some of the prophetic writings, Numbers represents a well-preserved text. The problems will be discussed in the relevant passages. So Numbers is essentially a part of the unfolding revelation of the Torah, the Law. It shows God’s faithfulness to his covenant plan and to his covenant people, but it also shows the problems incurred by the people’s lack of faith and obedience. The book focuses frequently on the nature of the holy Lord God, for at the center of all this material is the person and the works of the Lord. This provided the standard for the faith and practice of the people. For more information on chapter one, see W. F. Albright, “The Administrative Divisions of Israel and Judah,” JPOS 5 (1925): 17-54; A. Cody, A History of Old Testament Priesthood; A. Lucas, “The Number of the Israelites at the Time of the Exodus,” PEQ 76 (1944): 351-64; G. E. Mendenhall, “The Census Lists of Numbers 1 and 26,” JBL 77 (1958): 52-66; E. Nielsen, “The Levites in the Old Testament,” ASTI 3 (1964): 16-27; L. A. Snijders, “The Meaning of זר in the Old Testament: An Exegetical Study,” OTS 10 (1954): 1-154; and J. W. Wenham, “Large Numbers in the Old Testament,” TynBul 18 (1967): 19-53.",
+        "ja": "[解説] 民数記はモーセの律法と呼ばれるモーセ五書の第4の書です。この書は、荒野をさまよう期間におけるイスラエルの経験の記録を提供し、彼らが場所から場所へと旅する中での宿営の律法を記録しています。本書は、イスラエルの人々が信仰の欠如、反逆、背教ゆえに直面した困難に焦点を当てています。また、外からの敵対からご自身の民を守られる神の御業も記録されています。本書は、贖われた者たちの群れが約束の地へと向かう霊的・肉的な前進を描いており、聖なる書き物のコレクションへのふさわしい貢献をなしています。本書はモーセ五書の他の書と共に研究されなければなりません。創世記におけるアブラハムへの約束と、出エジプト記における奴隷状態からの贖いの上に築かれ、レビ記で定められたイスラエルのための祭儀的指示を完結させ、出エジプト記で建てられた幕屋における礼拝と移動に関わっています。しかし、ここにある法的および歴史的情報は、それらの書における主要な関心事ではありませんでした。本書はその英語のタイトルを（ギリシャ語の伝統に従い）放浪の初めと終わりに取られた2回の人口調査から得ています（ただしヘブライ語のタイトルは書の初めにある בַּמִּדְבַּר [bammidbar]、「荒野にて」から取られています）。これらのリストでは、氏族の指導者たちに特別な強調が置かれており、このテーマは旅のあらゆる試練や誘惑の中で指導者たちがどのように機能するかということに焦点が当てられる本書全体を通して継続します。本書の資料は本質的に歴史的出来事の神学的解釈であり、そのため神の啓示の不可欠な一部として位置づけられています。民数記の研究において、テキストの性質に関するこれらの問題がテキストの解釈と受容にとって重要な場合、注記でそれらについて簡単に解説します。書の初めの記述は、モーセが放浪の共同体の統計や事実をまとめるのを助けることができる多くの人々を抱えていたことを示しています。民数記11章16節〜18節には、שֹׁטְּרִים (shottrim)として知られる指導者たちのグループがいます。この用語は出エジプト記5章16節〜19節でイスラエルの役人や監督たちを描写するために使用されました。彼らはモーセによって氏族の監督に任命され、ヨシュアの時代（ヨシュア1:10）までには文学的なギルドとなっていました。アッカド語のsataruと同源であるヘブライ語のこの言葉は「書くこと」を意味します。これらの人々は、書記や年代記作者が異教諸国にとってそうであったように、イスラエルにとっても存在していました。彼らはモーセや祭司たちが記録を保持するのを助けました。したがって、時々何と呼ばれようとも、記録を保持し、最初から情報を保存することができる識字能力を持つ人々のグループが存在していました。彼らの働きは、古代世界においてあらゆる文学的技法を用いて資料を保存した書記たちの活動と一致しています。記録された出来事がそのような目撃者によって証言され、保存されたことを疑う理由は全くありません。しかし、彼らの働きは本質的に指導者モーセに仕えることでした。本書は本質的に出来事の順序を多かれ少なかれ時系列に従って追っています。その順序から外れる場合、それは文学的または神学的な理由によるものです。神学的関心の中心にあるのは幕屋であり、その信仰に対する重要性、したがってそれを使用し移動させる際の細心の注意です。その重要性が、儀式に関する律法が存在し配置されている理由を説明しています。提供された記録と統計により、モーセはイスラエルの荒野での経験における偉大な出来事を記録に導入することができました。それらの出来事は、すべての時代の人々への警告および励ましとなるべきものでした。この資料のほとんどは、経験の初めの2年間と終わりの2年間からのものです。しかし、これ自体が放浪の全体的な性質を示す文学的技法（メリズム）である可能性があります。民数記のヘブライ語本文はかなりよく保存されています。祭司やレビ人の職務にとって極めて重要であったレビ記ほどよく保存されてははいませんが、いくつかの預言書と比較すると、民数記はよく保存された本文を表しています。諸問題については該当箇所で議論されます。したがって、民数記は本質的にトーラ、すなわち律法の展開する啓示の一部です。それは、その契約の計画と契約の民に対する神の誠実さを示していますが、同時に民の信仰と従順の欠如によって招かれた問題をも示しています。本書は聖なる主なる神の性質に頻繁に焦点を当てています。なぜなら、このすべての資料の中心にあるのは主の人格と御業だからです。これが、民の信仰と実践の基準を提供しました。第1章の詳細については、W. F. Albright, “The Administrative Divisions of Israel and Judah,” JPOS 5 (1925): 17-54; A. Cody, A History of Old Testament Priesthood; A. Lucas, “The Number of the Israelites at the Time of the Exodus,” PEQ 76 (1944): 351-64; G. E. Mendenhall, “The Census Lists of Numbers 1 and 26,” JBL 77 (1958): 52-66; E. Nielsen, “The Levites in the Old Testament,” ASTI 3 (1964): 16-27; L. A. Snijders, “The Meaning of זר in the Old Testament: An Exegetical Study,” OTS 10 (1954): 1-154; および J. W. Wenham, “Large Numbers in the Old Testament,” TynBul 18 (1967): 19-53 を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The holy name is “Yahweh.” This is the ancient name for the God of the covenant community. The name was explained or interpreted by Moses for the Israelites by the etymological connection to the verb “to be.” God said that its significance was “I am that I am” (אֶהְיֶה אֲשֶׁר אֶהְיֶה, ’ehyeh ’aser ’ehyeh) using the first person of the verb; the name, the third person of the verb, would therefore mean “He is.” The name indicates that God is the sovereign Lord of creation, the eternal God, the covenant Lord; he is sovereignly independent of all creation, but he is intimately involved with all his people. Most English translations do not use it, but follow the Jewish custom of using substitute words for the holy name, such as “the Lord,” “the Eternal One,” etc.",
+        "ja": "[解説] 聖なる御名は「ヤハウェ」です。これは契約の共同体の神のための古代の御名です。この御名は、「存在する」という動詞への語源的なつながりによって、モーセによってイスラエルの人々に説明または解釈されました。神は、動詞の一人称を用いて、その重要性が「わたしは有る者である」（אֶהְיֶה אֲשֶׁר אֶהְיֶה, 'ehyeh 'aser 'ehyeh）であると言われました。動詞の三人称である御名は、したがって「彼は存在する」を意味します。この御名は、神が創造の主権者であり、永遠の神であり、契約の主であることを示しています。神はすべての創造から主権的に独立しておられますが、すべての民と密接に関わっておられます。ほとんどの英訳はこれを使用せず、「主」、「永遠者」などの聖なる御名の代わりに言葉を使用するユダヤ人の慣習に従っています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The book begins with the vav (ו) consecutive and the preterite, “and he spoke.” This does not indicate that the book is a continuation of the previous material, for in that case certain other books in the canon would have to be linked with the writings of other people just because they followed them. This form is simply the narrative verb; the conjunction need not be translated. The verb should not be limited to a literary formula, but does indicate the divine source of the command for Moses. God was speaking to Moses throughout the wilderness wanderings from the tent, and so the ideas are from him, and not from the “will of man.”",
+        "ja": "[翻訳注] 本書は、連続のvav（ו）と未完了過去形「そして彼は語った」で始まります。これは、本書が前の資料の継続であることを示すものではありません。もしそうであれば、正典中の他のいくつかの書も、単にそれに続くという理由だけで他の人々の著作と結びつけられなければならなくなります。この形は単なる物語の動詞であり、接続詞は翻訳する必要がありません。この動詞を文学的な定型句に限定すべきではありませんが、モーセに対する命令の神聖な源泉を示しています。神は荒野での放浪の期間中、幕屋から絶えずモーセに語りかけておられ、したがってこれらの思想は「人の意志」からではなく、神から出たものです。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This was one of several names by which the tabernacle was known. This was the tent with its furnishings that the Israelites built according to the book of Exodus. While that tabernacle was being built, the Lord met with Moses in a tent of meeting nearby (Exod 33:7), but when the project was finished, the title was transferred to the tabernacle. It may be that the expression “tent of meeting” refers to the inner tabernacle where God revealed himself to Moses and Aaron, and the word “tabernacle” refers to the whole shrine, the curtained structure with all its contents. This would mean that God addressed Moses from between the cherubim in the holy of holies (see R. A. Cole, Exodus [TOTC], 191). The point is clear, though – the shrine was functioning as the sign of God’s actual presence and leadership among his people.",
+        "ja": "[解説] これは幕屋が知られていたいくつかの名前の一つでした。これは、イスラエルの人々が出エジプト記に従って建てた、用具を備えた天幕でした。その幕屋が建てられている間、主はすぐ近くにある臨済の天幕でモーセと会われましたが（出エジプト33:7）、計画が完了すると、その称号は幕屋に移されました。「臨済の天幕」という表現は、神ご自身をモーセとアロンに現された内側の幕屋を指し、「幕屋」という言葉は、すべての内容物を備えたカーテン構造の神殿全体を指している可能性があります。これは、神が至聖所のケルビムの間からモーセに語りかけられたことを意味します（R. A. Cole, Exodus [TOTC], 191参照）。しかし、要点は明確です。この神殿は、ご自身の民の中における神の現実の臨場と指導のしるしとして機能していたのです。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The English word “wilderness” is workable for the Hebrew term, because it describes land that is wild. The term “desert” works if one thinks of land deserted by people. But to many modern readers “desert” suggests the idea of an arid land without growth. The word must not be pressed to mean only sand dunes; it describes land that has rocks, canyons, oases, shrubs and trees occasionally, some animal life, and of course sand.",
+        "ja": "[解説] 英語の「wilderness（荒野）」という言葉は、荒れた土地を描写しているため、ヘブライ語の用語に対して適切です。「desert（砂漠）」という言葉は、人が見捨てた土地を思い浮かべるならば機能します。しかし、多くの現代の読者にとって、「desert」は植物の育たない乾燥した土地という概念を連想させます。この言葉を砂丘ばかりを意味するように無理に解釈してはなりません。それは岩、峡谷、オアシス、低木や木々が点在し、ある程度の動物の生命、そしてもちろん砂がある土地を描写しています。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  The exact location of Mount Sinai has been debated for some time. The traditional view from very early times is that it is located in the south, Jebel Musa, south of the monastery of St. Catherine. The other plausible suggestion is Ras es-Safsafeh, which is on the other end of the valley near the monastery. The mountain is also called Horeb in the Bible. The wilderness of Sinai would refer to the large plain that is at the base of the mountain. See further G. E. Wright, IDB 4:376-78; and G. I. Davies, The Way of the Wilderness.",
+        "ja": "[解説] シナイ山の正確な位置については、しばらく議論が続いています。非常に早い時期からの伝統的な見解は、それが南方の聖カタリナ修道院の南にあるジェベル・ムサに位置するというものです。もう一つのもっともらしい提案は、修道院近くの谷の反対側にあるラス・エス・サフサフェです。この山は聖書の中でホレブとも呼ばれています。シナイの荒野とは、その山の麓にある大きな平原を指します。詳細については、G. E. Wright, IDB 4:376-78; および G. I. Davies, The Way of the Wilderness を参照してください。"
+      },
+      {
+        "pos": 7,
+        "en": "[翻訳注]  The construction uses the infinitive construct of יָצַא (yatsa’, “to go out”), with a suffix serving as the subjective genitive, and the lamed preposition providing the temporal indication: “according to the going out of them.” The Israelites are clearly intended as the subject.",
+        "ja": "[翻訳注] この構文は、יָצַא (yatsa', 「出て行く」) の不定詞連係形を使用しており、接尾辞が主格的属格として機能し、lamedの前置詞が時間的指示を与えています：「彼らの出て行くことに従って」。イスラエルの人々が明らかに主語として意図されています。"
+      },
+      {
+        "pos": 8,
+        "en": "[翻訳注]  Heb “they”; the referent (the Israelites) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語では「彼ら」。明瞭にするために、翻訳では指示対象（イスラエルの人々）が明記されています。"
+      },
+      {
+        "pos": 9,
+        "en": "[解説]  This means that the Israelites had spent nine months at Sinai, because they had arrived there in the third month following the exodus. This account does not follow a strict chronology (see Num 9:1). The difference of one month in the narrative is not a critical difference, but a literary general reference. Here begins a new section of major importance to the future of the nation – the numbering for war and for settlement.",
+        "ja": "[解説] これは、イスラエルの人々がシナイで9カ月を過ごしたことを意味します。なぜなら、彼らは出エジプトに続く第3月にそこに到着したからです。この記録は厳密な時系列に従っていません（民数記9:1参照）。物語における1カ月の違いは致命的な違いではなく、文学的な一般的な言及です。ここから、国家の将来にとって非常に重要な新しいセクション、すなわち戦争と定住のための人口調査が始まります。"
+      },
+      {
+        "pos": 10,
+        "en": "[翻訳注]  Heb “saying.” A new sentence was started here in the English translation for stylistic reasons.",
+        "ja": "[翻訳注] ヘブライ語では「言って」。文体上の理由から、英訳ではここで新しい文が始まっています。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The construction is literally “lift up the head[s],” (שְׂאוּ אֶת־רֹאשׁ, sÿ’u ’et-ro’sh). This idiom for taking a census occurs elsewhere (Exod 30:12; Lev 5:24; Num 1:24; etc.). The idea is simply that of counting heads to arrive at the base for the standing army. This is a different event than the one recorded in Exod 30:11-16, which was taken for a different purpose altogether. The verb is plural, indicating that Moses had help in taking the census.",
+        "ja": "[翻訳注] この構文は文字通り「頭を上げる」（שְׂאוּ אֶת־רֹאשׁ, sy'u 'et-ro'sh）です。人口調査を行うためのこの慣用句は他の場所にも見られます（出エジプト30:12; レビ5:24; 民数1:24など）。その概念は、常備軍の基礎に達するために頭数を数えるというものです。これは、出エジプト記30章11節〜16節に記録されている出来事とは全く異なる目的で行われた別の出来事です。動詞は複数形であり、モーセが人口調査を行うにあたって助けを得ていたことを示しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Smr lacks the Hebrew word “all” here.",
+        "ja": "[写本注] サマリア五書（Smr）には、ここのヘブライ語の「すべての」という言葉が欠けています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “the congregation of Israel.”",
+        "ja": "[翻訳注] ヘブライ語では「イスラエルの会衆」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The tribe (מַטֶּה, matteh or שֵׁבֶט, shevet) is the main category. The family groups or clans (מִשְׁפְּחֹת, mishpÿkhot) and the households or families (בֵּית אֲבֹת, bet ’avot) were sub-divisions of the tribe.",
+        "ja": "[翻訳注] 部族（מַטֶּה, matteh または שֵׁבֶט, shevet）が主なカテゴリーです。家族のグループまたは氏族（מִשְׁפְּחֹת, mishpykhot）や世帯または家族（בֵּית אֲבֹת, bet 'avot）は、部族の下位区分でした。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  This clause simply has “in/with the number of the names of every male with respect to their skulls [individually].” Counting heads, or every skull, simply meant that each person was to be numbered in the census. Except for the Levites, no male was exempt from the count.",
+        "ja": "[翻訳注] この節には単に「すべての男性の名前の数において/とともに、彼らの頭蓋骨に関して[個別に]」とあります。頭を数えること、つまりすべての頭蓋骨を数えることは、人口調査において各人が数えられるべきであることを単に意味していました。レビ人を除いて、どの男性も数から除外されませんでした。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb (פָּקַד, paqad) means “to visit, appoint, muster, number.” The word is a common one in scripture. It has as its basic meaning the idea of “determining the destiny” of someone, by appointing, mustering, or visiting. When God “visits,” it is a divine intervention for either blessing or cursing. Here it is the taking of a census for war (see G. André, Determining the Destiny [ConBOT], 16).",
+        "ja": "[翻訳注] 動詞（פָּקַד, paqad）は「訪れる、任命する、召集する、数える」を意味します。この言葉は聖書において一般的です。その基本的な意味として、誰かの「運命を決定する」こと、すなわち任命し、召集し、あるいは訪れるという概念を持っています。神が「訪れる」とき、それは祝福あるいは呪いのための神聖な介入です。ここでは戦争のための人口調査の実施を意味します（G. André, Determining the Destiny [ConBOT], 16参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The construction uses the participle “going out” followed by the noun “army.” It describes everyone “going out in a military group,” meaning serving in the army. It was the duty of every able-bodied Israelite to serve in this “peoples” army. There were probably exemptions for the infirm or the crippled, but every male over twenty was chosen. For a discussion of warfare, see P. C. Craigie, The Problem of War in the Old Testament, and P. D. Miller, “The Divine Council and the Prophetic Call to War,” VT 18 (1968): 100-107.",
+        "ja": "[翻訳注] この構文は、分詞「出て行く」の後に名詞「軍隊」が続く形を使用しています。それは「軍事グループに出て行く」すべての者、すなわち軍隊で服役することを描写しています。体の頑健なすべてのイスラエル人がこの「民の」軍隊で服役することが義務でした。虚弱者や足の不自由な者についてはおそらく免除がありましたが、20歳を超えるすべての男性が選ばれました。戦争の考察については、P. C. Craigie, The Problem of War in the Old Testament, および P. D. Miller, “The Divine Council and the Prophetic Call to War,” VT 18 (1968): 100-107 を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The text simply has “from twenty years old and higher.”",
+        "ja": "[翻訳注] テキストには単に「20歳以上」とあります。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and up.”",
+        "ja": "[翻訳注] ヘブライ語では「そして上に」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The noun (צָבָא, tsava’) means “army” or “military group.” But the word can also be used for nonmilitary divisions of labor (Num 4:3).",
+        "ja": "[翻訳注] 名詞（צָבָא, tsava'）は「軍隊」または「軍事グループ」を意味します。しかし、この言葉は非軍事的な労働の部門に対しても使用されることがあります（民数4:3）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and with you.”",
+        "ja": "[翻訳注] ヘブライ語では「そしてあなたと共に」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The construction uses the noun in a distributive sense: “a man, a man for a tribe,” meaning a man for each tribe.",
+        "ja": "[翻訳注] この構文は分配的な意味で名詞を使用しています：「一部族につき一人の男」、つまり各部族に一人の男を意味します。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The clause expresses a distributive function, “a man” means “each man.”",
+        "ja": "[翻訳注] この節は分配的機能を表現しており、「一人の男」は「各々の男」を意味します。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  See J. R. Bartlett, “The Use of the Word ראשׁ as a Title in the Old Testament,” VT 19 (1969): 1-10.",
+        "ja": "[解説] J. R. Bartlett, “The Use of the Word ראשׁ as a Title in the Old Testament,” VT 19 (1969): 1-10 を参照してください。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “the house of his fathers.”",
+        "ja": "[翻訳注] ヘブライ語では「彼の父たちの家」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is עָמַד (’amad, “to stand”). It literally then is, “who will stand with you.” They will help in the count, but they will also serve as leaders as the camp moves from place to place.",
+        "ja": "[翻訳注] 動詞はעָמַד ('amad, 「立つ」)です。したがって、文字通りそれは「あなたと共に立つ者」となります。彼らは数の調査を助けますが、宿営が場所から場所へと移動する際には指導者としても仕えます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The preposition lamed (ל) prefixed to the name could be taken in the sense of “from,” but could also be “with regard to” (specification).",
+        "ja": "[翻訳注] 名前の前に付された前置詞lamed（ל）は「〜から」の意味にとることもできますが、「〜に関して」（特定化）とすることもできます。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  This name and the name Ammishaddai below have the theophoric element (שַׁדַּי, shadday, “the Almighty”). It would mean “the Almighty is my rock”; the later name means “the Almighty is my kinsman.” Other theophoric elements in the passage are “father,” “brother,” and “God.”",
+        "ja": "[解説] この名前と以下のアミシャダイという名前には、神名要素（שַׁדַּי, shadday, 「全能者」）が含まれています。それは「全能者は私の岩である」を意味し、後の名前は「全能者は私の親族である」を意味します。この節における他の神名要素は「父」、「兄弟」、「神」です。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[解説]  Nahshon was an ancestor of Boaz and David, and therefore of Christ (Luke 3:32-33).",
+        "ja": "[解説] ナフションはボアズとダビデの先祖であり、したがってキリストの先祖です（ルカ3:32-33）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[写本注]  There is a textual difficulty with this verb. The Greek form uses r and not d, giving the name Ra‘oul. There is even some variation in the Hebrew traditions, but BHS (following the Leningrad codex of a.d. 1008) has preferred the name Deuel.",
+        "ja": "[写本注] この動詞にはテキスト上の難点があります。ギリシャ語形はdではなくrを使用しており、ラ・ウルという名前を与えています。ヘブライ語の伝統の中でも多少のバリエーションがありますが、BHS（西暦1008年のレニングラード写本に従う）はデウエルという名前を好んでいます。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The form has a Kethib-Qere problem, but the sentence calls for the Qere, the passive participle in the construct – “the called of….” These men were God’s choice, and not Moses’, or their own choice. He announced who they would be, and then named them. So they were truly “called” (קָרָא, qara’). The other reading is probably due to a copyist’s error.",
+        "ja": "[写本注] この形にはケティブ・ケレの問題がありますが、文はケレ、すなわち連係形における受動分詞を要求しています──「〜の召された者たち…」。これらの男たちはモーセの選択でも、彼ら自身の選択でもなく、神の選択でした。神は誰がそうなるかを宣言し、それから彼らを指名されました。したがって彼らは真に「召された者たち」（קָרָא, qara'）でした。もう一つの読みはおそらく写字生の誤りに起因するものです。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word is נָשִׂיא (nasi’, “exalted one, prince, leader”). Cf. KJV, ASV, NAB “princes.” These were men apparently revered or respected in their tribes, and so the clear choice to assist Moses with the leadership. See further, E. A. Speiser, “Background and Function of the Biblical na„sÃþá,” CBQ 25 (1963): 111-17.",
+        "ja": "[翻訳注] その言葉は נָשִׂיא (nasi', 「高められた者、君主、指導者」) です。KJV、ASV、NABの「princes（君主）」などを参照してください。これらは彼らの部族の中で明らかに崇敬され、尊敬されていた男たちであり、それゆえにモーセの指導を助けるための明確な選択でした。詳細については、E. A. Speiser, “Background and Function of the Biblical na„sÃþá,” CBQ 25 (1963): 111-17 を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “exalted ones of the tribes of their fathers.” The earlier group of elders was chosen by Moses at the advice of his father-in-law. This group represents the few leaders of the tribes that were chosen by God, a more literate group apparently, who were the forerunners of the שֹׁטְּרִים (shottÿrim).",
+        "ja": "[翻訳注] ヘブライ語では「彼らの父たちの部族の高い者たち」。長老たちの以前のグループは、モーセのしゅうとの助言によってモーセによって選ばれました。このグループは、神によって選ばれた部族の少数の指導者たちを表しており、明らかに、שֹׁטְּרִים (shottrim) の先駆けとなった、より識字能力の高いグループでした。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The Hebrew text has אַלְפֵי (’alfey, “thousands of”). There is some question over this reading in the MT, however. The community groups that have these leaders were larger tribes, but there is little certainty about the size of the divisions.",
+        "ja": "[写本注] ヘブライ語本文には אַלְפֵי ('alfey, 「〜の何千」) があります。しかし、マソラ本文（MT）におけるこの読みにはいくつかの疑問があります。これらの指導者を持つ共同体のグループはより大きな部族でしたが、これらの区分の規模についてはほとんど確実性がありません。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is the Hiphil of the root קָהַל (qahal), meaning “to call, assemble”; the related noun is an “assembly.”",
+        "ja": "[翻訳注] 動詞は根幹 קָהַל (qahal) のヒフィル（使役）形であり、「呼ぶ、集める」を意味します。関連する名詞は「集会（アセンブリ）」です。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The LXX adds “of the second year.”",
+        "ja": "[写本注] 七十人訳（LXX）には「2年目の」が加えられています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb is the Hitpael preterite form וַיִּתְיַלְדוּ (vayyityaldu). The cognate noun תּוֹלְדוֹת (tolÿdot) is the word that means “genealogies, family records, records of ancestry.” The root is יָלַד (yalad, “to bear, give birth to”). Here they were recording their family connections, and not, of course, producing children. The verbal stem seems to be both declarative and reflexive.",
+        "ja": "[翻訳注] 動詞はヒトパエル（再帰）完了形の וַיִּתְיַלְדוּ (vayyityaldu) です。同源の名詞 תּוֹלְדוֹת (tolycdot) は「系図、家族の記録、家系の記録」を意味する言葉です。語根は יָלַד (yalad, 「産む、出産する」) です。ここで彼らは家族のつながりを記録しているのであり、もちろん子供を産んでいるわけではありません。動詞の語幹は宣言的かつ再帰的な両方の意味を持っているようです。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The verb is supplied. The Hebrew text simply has “in/with the number of names of those who are twenty years old and higher according to their skulls.”",
+        "ja": "[翻訳注] 動詞が補われています。ヘブライ語本文には単に「彼らの頭蓋骨に従って、20歳以上でより高い者たちの名前の数において/とともに」とあります。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “those numbered of them.” The form is פְּקֻדֵיהֶם (pÿqudehem), the passive participle with the pronominal suffix. This indicates that the number came to 46,500, but it specifically refers to “those numbered.” This expression occurs frequently throughout the book of Numbers.",
+        "ja": "[翻訳注] ヘブライ語では「彼らの数えられた者たち」。その形はְּקֻדֵיהֶם (pyqudehem)、代名詞的接尾辞を伴う受動分詞です。これは数が4万6500人に達したことを示していますが、具体的には「数えられた者たち」を指しています。この表現は民数記全体を通して頻繁に現れます。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  There has been much discussion about the numbers in the Israelite wilderness experience. The immediate difficulty for even the casual reader is the enormous number of the population. If indeed there were 603,550 men twenty years of age and older who could fight, the total population of the exodus community counting women and children would have been well over a million, or even two million as calculated by some. This is not a figure that the Bible ever gives, but given the sizes of families the estimate would not be far off. This is a staggering number to have cross the Sea, drink from the oases, or assemble in the plain by Sinai. It is not a question of whether or not God could provide for such a number; it is rather a problem of logistics for a population of that size in that period of time. The problem is not with the text itself, but with the interpretation of the word אֶלֶף (’elef), traditionally translated “thousand.” The word certainly can be taken as “thousand,” and most often is. But in view of the problem of the large number here, some scholars have chosen one of the other meanings attested in literature for this word, perhaps “troop,” or “family,” or “tent group,” even though a word for “family” has already been used (see A. H. McNeile, Numbers, 7; J. Garstang, Joshua-Judges, 120; J. Bright, History of Israel, 144). Another suggestion is to take the word as a “chief” or “captain” based on Ugaritic usage (see R. E. D. Clarke, “The Large Numbers of the Old Testament,” JTVI 87 [1955]: 82-92; and J. W. Wenham, “Large Numbers in the Old Testament,” TynBul 18 [1967]: 19-53). This interpretation would reduce the size of the Israelite army to about 18,000 men from a population of about 72,000 people. That is a radical change from the traditional reading and may be too arbitrary an estimate. A more unlikely calculation following the idea of a new meaning would attempt to divide the numbers and use the first part to refer to the units and the second the measurement (e.g., 65 thousand and four hundred would become 65 units of four hundred). Another approach has been to study the numbers rhetorically, analyzing the numerical values of letters and words. But this method, known as gematria, came in much later than the biblical period (see for it G. Fohrer, Introduction to the Old Testament, 184; and A. Noordtzij, Numbers [BSC], 24). On this system the numbers for “the sons of Israel” would be 603. But the number of the people in the MT is 603,550. Another rhetorical approach is that which says the text used exaggerations in the numbers on an epic scale to make the point of God’s blessing. R. B. Allen’s view that the numbers have been magnified by a factor of ten (“Numbers,” The Expositor’s Bible Commentary, 2:688-91), which would mean the army was only 60,000 men, seems every bit as arbitrary as Wenham’s view to get down to 18,000. Moreover, such views cannot be harmonized with the instructions in the chapter for them to count every individual skull – that seems very clear. This is not the same kind of general expression one finds in “Saul has killed his thousands, David his ten thousands” (1 Sam 18:7). There one expects the bragging and the exaggerations. But in a text of numbering each male, to argue that the numbers have been inflated ten-fold to form the rhetoric of praise for the way God has blessed the nation demands a much more convincing argument than has typically been given. On the surface it seems satisfactory, but it raises a lot of questions. Everything in Exodus and Numbers attests to the fact that the Israelites were in a population explosion, that their numbers were greater than their Egyptian overlords. Pharaoh had attempted to counter their growth by killing males from the ranks. That only two midwives are named must be taken to mean that they were heads of the guilds, for two could not service a population – even of the smaller estimate given above. But even though the size had to have been great and seen as a threat, we are at a loss to know exactly how to determine it. There is clearly a problem with the word “thousand” here and in many places in the OT, as the literature will show, but the problem cannot really be solved without additional information. The suggestions proposed so far seem to be rather arbitrary attempts to reduce the number to a less-embarrassing total, one that would seem more workable in the light of contemporary populations and armies, as well as space and time for the people’s movement in the wilderness. An army of 10,000 or 20,000 men in those days would have been a large army; an army of 600,000 (albeit a people’s army, which may mean that only a portion of the males would actually fight at any time – as was true at Ai) is large even by today’s standards. But the count appears to have been literal, and the totals calculated accordingly, totals which match other passages in the text. If some formula is used to reduce the thousands in this army, then there is the problem of knowing what to do when a battle has only five thousand, or three thousand men. One can only conclude that on the basis of what we know the word should be left with the translation “thousand,” no matter what difficulties this might suggest to the reader. One should be cautious, though, in speaking of a population of two million, knowing that there are serious problems with the calculation of that number, if not with the word “thousand” itself. It is very doubtful that the population of the wilderness community was in the neighborhood of two million. Nevertheless, until a more convincing explanation of the word “thousand” or the calculation of the numbers is provided, one should retain the reading of the MT but note the difficulty with the large numbers.",
+        "ja": "[解説] イスラエルの荒野の経験における数については多くの議論がなされてきました。一般の読者にとってさえ直面する当面の困難は、人口の膨大な数です。もし実際に戦うことができる20歳以上の男性が60万3550人いたならば、女性や子供を数に入れた出エジプトの共同体の総人口は、100万人をはるかに超え、あるいは一部の計算では200万人にも達していたことになります。これは聖書が一度も与えることのない数字ですが、家族の規模を考慮すれば、その推定値は大きく外れてはいないでしょう。これは、海を渡り、オアシスで水を飲み、シナイの平原に集まるには途方もない数です。これは神がそのような数のために備えることができたかどうかの問題ではなく、むしろその時代のその規模の人口に対する兵站（ロジスティクス）の問題です。問題はテキスト自体にあるのではなく、伝統的に「千」と翻訳されている言葉 אֶלֶף ('elef) の解釈にあります。その言葉を確かに「千」と解釈することは可能であり、大抵はそうされています。しかし、ここでの大規模な数に関する問題を考慮して、一部の学者たちは、文学においてこの言葉に証明されている他の意味の1つ、おそらく「部隊」、「家族」、あるいは「天幕のグループ」を選ぶことを選びました。ただし「家族」のための言葉はすでに使用されています（A. H. McNeile, Numbers, 7; J. Garstang, Joshua-Judges, 120; J. Bright, History of Israel, 144参照）。もう一つの提案は、ウガリット語の使用例に基づいて、この言葉を「指導者」または「隊長」として解釈することです（R. E. D. Clarke, “The Large Numbers of the Old Testament,” JTVI 87 [1955]: 82-92; および J. W. Wenham, “Large Numbers in the Old Testament,” TynBul 18 [1967]: 19-53参照）。この解釈は、イスラエル軍の規模を約7万2000人の人口から約18,000人の男性へと縮小させることになります。それは伝統的な読みからの根本的な変更であり、あまりにも恣意的な推計である可能性があります。新しい意味のアイデアに従うもう一つのありそうもない計算は、数値を分割し、最初の部分を部隊を指すために使用し、2番目の部分を測定値として使用しようとするものです（例：65千と400は、400の65単位になる）。別のアプローチは、文字と単語の数値を分析し、数値を修辞的に研究することでした。しかし、ゲマトリアとして知られるこの方法は、聖書の時代よりもはるか後になってから入ってきたものです（G. Fohrer, Introduction to the Old Testament, 184; および A. Noordtzij, Numbers [BSC], 24 を参照）。このシステムでは、「イスラエルの息子たち」の数は603になるでしょう。しかし、マソラ本文における人々の数は603,550です。もう一つの修辞的アプローチは、神の祝福の要点を強調するために、テキストが壮大な規模で数の誇張を使用しているというものです。R. B. Allenの見解は、数が10の因数によって誇張されているというものであり（“Numbers,” The Expositor’s Bible Commentary, 2:688-91）、それは軍隊がわずか60,000人の男性であったことを意味しますが、ウェンハムの見解を18,000人にまで引き下げるのと同様に、あらゆる点で恣意的に思われます。さらに、そのような見解は、すべての個々の頭蓋骨を数えるようにというこの章の指示と調和させることができません。それは非常に明確であるように思われます。これは、「サウルは自分の千人を殺し、ダビデは自分の万人を殺した」（1サムエル18:7）に見られるような一般的な表現と同じ種類のものではありません。そこでは自慢や誇張が予想されます。しかし、すべての男性を数えるテキストにおいて、神が国を祝福された方法に対する賛美の修辞を形成するために数が10倍に膨らまされたと主張することは、通常提示されているものよりもはるかにより説得力のある議論を要求します。表面的には満足のいくように見えますが、多くの疑問を提起します。出エジプト記と民数記のすべては、イスラエルの人々が人口爆発の中にいたこと、その数がエジプト人の支配者たちよりも多かったという事実を証明しています。ファラオは列から男性を殺害することによって彼らの成長に対抗しようと試みました。任命されたのがわずか2人の助産婦であることは、彼女たちがギルドの頭であったことを意味すると解釈されなければなりません。2人では、上記のより小さな見積もりであっても人口に奉仕することはできなかったからです。しかし、規模が大きくなければならず脅威とみなされていたとしても、それを正確に決定する方法については私たちは途方に暮れています。ここや旧約聖書の多くの場所で「千」という言葉に明らかに問題があることは文献が示す通りですが、追加の情報なしにはその真の解決は不可能です。これまでに提案された提案は、現代の人口や軍隊、そして荒野での人々の移動のための空間と時間を考慮して、より実行可能に見える、より恥ずかしくない合計へと数を減らそうとするむしろ恣意的な試みのように思われます。当時における10,000人または20,000人の軍隊は大きな軍隊であったでしょう。600,000人の軍隊（もっとも、いつでも実際に戦うのは男性の一部に過ぎないことを意味する可能性のある民衆の軍隊ですが──アイの戦いにおいてそうであったように）は、今日の基準からしても巨大です。しかし、数え上げは文字通りに行われたように見え、合計はそれに応じて計算されており、その合計はテキスト内の他の箇所と一致しています。もしこの軍隊の千人を減らすために何らかの公式が使用されるならば、戦闘にわずか5,000人、あるいは3,000人しかいない場合にどうすべきかという問題が生じます。我々が知っていることに基づいて、この言葉が読者にどのような困難をほのめかすように思われようとも、翻訳「千」のまま残されるべきであると結論付けるしかありません。しかし、その数字の計算に深刻な問題があることを知った上で、あるいは「千」という言葉自体に問題があることを知った上で、200万人の人口について語る際には慎重でなければなりません。荒野の共同体の人口が200万人の近辺にあったとは非常に疑わしいことです。それにもかかわらず、「千」という言葉あるいは数の計算に対するより説得力のある説明が提供されるまでは、マソラ本文の読みを維持すべきですが、大きな数に関する困難に留意すべきです。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some witnesses have omitted “those that were numbered of them,” to preserve the literary pattern of the text. The omission is supported by the absence of the expression in the Greek as well as in some MT mss. Most modern commentators follow this.",
+        "ja": "[写本注] 一部の証拠は、テキストの文学的パターンを維持するために「彼らの数えられた者たち」を省略しています。この省略は、ギリシャ語および一部のマソラ写本におけるその表現の不在によって裏付けられています。ほとんどの現代の解説者はこれに従っています。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The LXX has vv. 24-35 after v. 37.",
+        "ja": "[写本注] 七十人訳（LXX）は24節〜35節を37節の後に置いています。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The verse does not have the preposition, only “the descendants of Naphtali.”",
+        "ja": "[写本注] この節には前置詞がなく、「ナフタリの子孫」のみがあります。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The construction uses both the passive participle הַפְּקֻדִים (happÿqudim) and the verb פָּקַד (paqad), giving a literal translation of “these were the numbered ones, whom Moses and Aaron numbered.”",
+        "ja": "[翻訳注] この構文は受動分詞 הַפְּקֻדִים (happÿqudim) と動詞 פָּקַד (paqad) の両方を使用しており、「これらは数えられた者たちであり、彼らをモーセとアロンが数えた」という直訳を与えています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “they were one man for the house of his fathers.”",
+        "ja": "[翻訳注] ヘブライ語では「彼らは彼の父たちの家のために一人の男であった」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Literally the text has, “and all the numbered of the Israelites were according to their families.” The verb in the sentence is actually without a complement (see v. 46).",
+        "ja": "[翻訳注] 本文は文字通り、「そしてイスラエルの人々のすべての数えられた者たちは彼らの家族に従っていた」となります。文中の動詞は実際には補語を伴っていません（46節参照）。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The vav (ו) on this word indicates a disjunction with the previous sequence of reports. It may be taken as a contrastive clause, translated “but” or “however.”",
+        "ja": "[翻訳注] この言葉の上のvav（ו）は、これまでの報告の連続からの切断を示しています。それは対照的な節として捉えられ、「しかし」または「それにもかかわらず」と翻訳されます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The construction is unexpected, for Levites would be from the tribe of Levi. The note seems more likely to express that all these people were organized by tribal lineage, and so too the Levites, according to the tribe of their fathers – individual families of Levites.",
+        "ja": "[翻訳注] この構文は予想外です。なぜならレビ人はレビ部族の出身であるはずだからです。この注記は、これらすべての人が部族の系図によって組織されており、したがってレビ人もまた彼らの父たちの部族に従って、すなわちレビ人の個々の家族に従って組織されていたことをより強く表現しているようです。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  The form in the text is הָתְפָּקְדוּ (hotpaqÿdu); if this is correct, then it is an isolated instance of the reflexive of the Qal of פָּקַד (paqad). Some, however, explain the form as the Hitpael without the doubling of the middle letter and with a compensatory lengthening of the vowel before it (G. B. Gray, Numbers [ICC], 10).",
+        "ja": "[写本注] 本文における形は הָתְפָּקְדוּ (hotpaqÿdu) です。もしこれが正しければ、それは פָּקַד (paqad) のカル（基本）幹の再帰形の孤立した例となります。しかし、中間の文字を重ね合わせず、その前の母音を代償的に長くしたヒトパエル（再帰）形としてこの形を説明する者もいます（G. B. Gray, Numbers [ICC], 10）。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “had spoken to Moses, saying.” The infinitive construct of אָמַר (’amar), sometimes rendered “saying” in older English translations, does not need to be translated, but can be taken simply as the indicator of direct discourse. Most recent English translations, including the present one, leave the form untranslated for stylistic reasons to avoid redundancy.",
+        "ja": "[翻訳注] ヘブライ語では「モーセに告げて、言って」。古い英訳で時々「言って」と表現される אָמַר ('amar) の不定詞連係形は、翻訳する必要はなく、単に直接話法の指標として捉えることができます。本翻訳を含む最近の英訳のほとんどは、冗長性を避けるための文体上の理由から、この形を翻訳せずに残しています。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[解説]  From the giving of the Law on the priesthood comes the prerogative of the tribe of Levi. There were, however, members of other tribes who served as priests from time to time (see Judg 17:5).",
+        "ja": "[解説] 祭司職に関する律法の授与から、レビ部族の特権が由来します。しかし、時々祭司として仕えた他の部族のメンバーもいました（士師17:5参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The construction has literally, “only the tribe of Levi you shall not number.” The Greek text rendered the particle אַךְ (’akh) forcefully with “see to it that” or “take care that.” For the uses of this form, see R. J. Williams, Hebrew Syntax, 65, §388-89.",
+        "ja": "[翻訳注] この構文は文字通り、「ただレビ部族だけはあなたが数えてはならない」となります。ギリシャ語本文は不変化詞 אַךְ ('akh) を「〜に気をつけよ」または「〜するよう注意せよ」という意味合いで力強く表現しました。この形の用法については、R. J. Williams, Hebrew Syntax, 65, §388-89 を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “lift up their head.”",
+        "ja": "[翻訳注] ヘブライ語では「彼らの頭を上げよ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “in the midst of the sons of Israel.”",
+        "ja": "[翻訳注] ヘブライ語では「イスラエルの息子たちの只中で」。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The same verb translated “number” (פָּקַד, paqad) is now used to mean “appoint” (הַפְקֵד, hafqed), which focuses more on the purpose of the verbal action of numbering people. Here the idea is that the Levites were appointed to take care of the tabernacle. On the use of this verb with the Levites’ appointment, see M. Gertner, “The Masorah and the Levites,” VT 10 (1960): 252.",
+        "ja": "[翻訳注] 「数える」と翻訳されたのと同じ動詞（פָּקַד, paqad）が、今度は「任命する」（הַפְקֵד, hafqed）という意味で使用されています。これは人々の数を数えるという動詞的行為の目的に、より焦点を当てています。ここでは、レビ人が幕屋の世話をするために任命されたという概念です。レビ人の任命に伴うこの動詞の使用については、M. Gertner, “The Masorah and the Levites,” VT 10 (1960): 252 を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew name used here is מִשְׁכַּן הָעֵדֻת (mishkan ha’edut). The tabernacle or dwelling place of the Lord was given this name because it was here that the tablets of the Law were kept. The whole shrine was therefore a reminder (הָעֵדוּת, a “warning sign” or “testimony”) of the stipulations of the covenant. For the ancient Near Eastern customs of storing the code in the sanctuaries, see M. G. Kline, Treaty of the Great King, 14-19, and idem, The Structure of Biblical Authority, 35-36. Other items were in the ark in the beginning, but by the days of Solomon only the tablets were there (1 Kgs 8:9).",
+        "ja": "[翻訳注] ここで使用されているヘブライ語の名前は מִשְׁכַּן הָעֵדֻת (mishkan ha'edut) です。主の幕屋または住まいはこの名前を与えられました。なぜなら、律法の石板が保管されていたのはここだったからです。したがって、神殿全体が契約の規定についての思い出（הָעֵדוּת, 「警告のしるし」または「あかし」）でした。聖所内での規範の保管に関する古代近東の慣習については、M. G. Kline, Treaty of the Great King, 14-19, および同氏の The Structure of Biblical Authority, 35-36 を参照してください。最初は契約の箱の中に他の品目もありましたが、ソロモンの時代までには石板だけがそこにありました（列王紀上8:9）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The imperfect tense here is an obligatory imperfect telling that they are bound to do this since they are appointed for this specific task.",
+        "ja": "[翻訳注] ここでの未完了形は、彼らがこの特定の任務のために任命されているためこれを行う義務があることを告げる義務的な未完了形です。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The addition of the pronoun before the verb is emphatic – they are the ones who are to attend to the tabernacle. The verb used is שָׁרַת (sharat) in the Piel, indicating that they are to serve, minister to, attend to all the details about this shrine.",
+        "ja": "[翻訳注] 動詞の前に代名詞が加えられていることは強調的です。すなわち、彼らこそが幕屋に仕えるべき者たちなのです。使用されている動詞はピエル（強意）幹の שָׁרַת (sharat) であり、彼らが仕え、奉仕し、この神殿に関するすべての細部に気を配るべきであることを示しています。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “the tabernacle.” The pronoun (“it”) was used in the translation here for stylistic reasons.",
+        "ja": "[翻訳注] ヘブライ語では「幕屋」。文体上の理由から、ここでは代名詞（「それ」）が翻訳で使用されました。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The construction uses the infinitive construct with the temporal preposition; the “tabernacle” is then the following genitive. Literally it is “and in the moving of the tabernacle,” meaning, “when the tabernacle is supposed to be moved,” i.e., when people are supposed to move it. The verb נָסָע (nasa’) means “pull up the tent pegs and move,” or more simply, “journey.”",
+        "ja": "[翻訳注] この構文は時間的前置詞を伴う不定詞連係形を使用しており、「幕屋」がそれに続く属格となります。文字通りそれは「そして幕屋の移動において」であり、「幕屋が移動させられることになっているとき」、すなわち人々がそれを移動させることが想定されているときを意味します。動詞 נָסָע (nasa') は「天幕のペグを引き抜いて移動する」、あるいはより簡単に「旅する」を意味します。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Here we have the parallel construction using the infinitive construct in a temporal adverbial clause.",
+        "ja": "[翻訳注] ここには、時間的副詞節の中で不定詞連係形を使用した並行構文があります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “raise it up.”",
+        "ja": "[翻訳注] ヘブライ語では「それを立てよ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word used here is זָר (zar), normally translated “stranger” or “outsider.” It is most often used for a foreigner, an outsider, who does not belong in Israel, or who, although allowed in the land, may be viewed with suspicion. But here it seems to include even Israelites other than the tribe of Levi.",
+        "ja": "[翻訳注] ここで使用されている言葉は זָר (zar) であり、通常は「見知らぬ人」または「外部の者」と翻訳されます。それは最も頻繁に、イスラエルに属さない外国人や外部の者、あるいは土地にいることは許されていても疑いの眼差しで見られるかもしれない人々に対して使用されます。しかし、ここではレビ部族以外のイスラエル人さえも含まれているように見えます。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Instead of “wrath” the Greek text has “sin,” focusing the emphasis on the human error and not on the wrath of God. This may have been a conscious change to explain the divine wrath.[翻訳注]  Heb “so that there be no wrath on.” In context this is clearly the divine anger, so “the Lord’s” has been supplied in the translation for clarity.",
+        "ja": "[写本注] ギリシャ語本文には「怒り」の代わりに「罪」があり、神の怒りではなく人間の過ちに焦点を当てています。これは神の怒りを説明するための意図的な変更であった可能性があります。[翻訳注] ヘブライ語では「〜の上に怒りがないように」。文脈においてこれは明らかに神の怒りであるため、明瞭にするために翻訳では「主の」が補われています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The main verb of the clause is the perfect tense with vav (ו) consecutive, וְשָׁמְרוּ (vÿshamÿru) meaning they “shall guard, protect, watch over, care for.” It may carry the same obligatory nuance as the preceding verbs because of the sequence. The object used with this is the cognate noun מִשְׁמֶרֶת (mishmeret): “The Levites must care for the care of the tabernacle.” The cognate intensifies the construction to stress that they are responsible for this care.",
+        "ja": "[翻訳注] 節の主要な動詞は、連続のvav（ו）を伴う完了形、וְשָׁמְרוּ (vyshamyru) であり、彼らが「守る、保護する、監視する、世話をする」ことを意味します。連続性により、それは前の動詞と同様の義務的なニュアンスを帯びている可能性があります。これと共に使用される目的語は、同源の名詞 מִשְׁמֶרֶת (mishmeret) です：「レビ人は幕屋の管理の世話をしなければならない」。同源語は構文を強め、彼らがこの管理に対して責任を負っていることを強調しています。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The LXX adds “and Aaron.”",
+        "ja": "[写本注] 七十人訳（LXX）には「およびアロン」が加えられています。"
+      }
+    ]
+  }
+}

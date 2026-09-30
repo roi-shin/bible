@@ -65,151 +65,151 @@
 ## Notes
 
 ### Verse 1 - Note 1
-<div class="note"><span class="notetype">sn</span> Beginning with <b><span class="bibleref" title="Leviticus 6:1">6:1</span></b>, the verse numbers through <b><span class="bibleref" title="Leviticus 6:30">6:30</span></b> in the English Bible differ from the verse numbers in the Hebrew text (<i>BHS</i>), with <b><span class="bibleref" title="Leviticus 6:1">6:1</span></b> ET = <b>5:20</b> HT, <b><span class="bibleref" title="Leviticus 6:2">6:2</span></b> ET = <b>5:21</b> HT, <b><span class="bibleref" title="Leviticus 6:8">6:8</span></b> ET = <b><span class="bibleref" title="Leviticus 6:1">6:1</span></b> HT, etc., through <b><span class="bibleref" title="Leviticus 6:30">6:30</span></b> ET = <b><span class="bibleref" title="Leviticus 6:23">6:23</span></b> HT. Beginning with <b><span class="bibleref" title="Leviticus 7:1">7:1</span></b> the verse numbers in the English text and Hebrew text are again the same.</div>
+[解説]  Beginning with 6:1, the verse numbers through 6:30 in the English Bible differ from the verse numbers in the Hebrew text (BHS), with 6:1 ET = 5:20 HT, 6:2 ET = 5:21 HT, 6:8 ET = 6:1 HT, etc., through 6:30 ET = 6:23 HT. Beginning with 7:1 the verse numbers in the English text and Hebrew text are again the same.
 
 ### Verse 1 - Note 2
-<div class="note"><span class="notetype">sn</span> This paragraph is Lev <b><span class="bibleref" title="Leviticus 6:1-7">6:1-7</span></b> in the English Bible but Lev <b>5:20-26</b> in the Hebrew text. The quotation introduced by v. <span class="bibleref" title="Leviticus 6:1">1</span> extends from <span class="bibleref" title="Leviticus 6:2">Lev 6:2</span> (5:21 HT) through <span class="bibleref" title="Leviticus 6:7">6:7</span> (5:26 HT), encompassing the third main section of guilt offering regulations. Compare the notes on <span class="bibleref" title="Leviticus 1:1;4:1;5:14">Lev 1:1; 4:1; and 5:14</span> above.</div>
+[解説]  This paragraph is Lev 6:1-7 in the English Bible but Lev 5:20-26 in the Hebrew text. The quotation introduced by v. 1 extends from Lev 6:2 (5:21 HT) through 6:7 (5:26 HT), encompassing the third main section of guilt offering regulations. Compare the notes on Lev 1:1; 4:1; and 5:14 above.
 
 ### Verse 2 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;trespasses a trespass&#8221; (verb and direct object from the same Hebrew root <font face="Galaxie Unicode Hebrew">&#1502;&#1463;&#1506;&#1463;&#1500;</font>, <font face="Scholar">ma</font>&#8217;<font face="Scholar">al</font>). See the note on <span class="bibleref" title="Leviticus 5:15">5:15</span>.</div>
+[翻訳注]  Heb “trespasses a trespass” (verb and direct object from the same Hebrew root מַעַל, ma’al). See the note on 5:15.
 
 ### Verse 2 - Note 2
-<div class="note"><span class="notetype">tn</span> Or &#8220;neighbor&#8221; (ASV, NAB, NIV, NRSV, NLT); NASB &#8220;companion&#8221;; TEV &#8220;a fellow-Israelite.&#8221;</div>
+[翻訳注]  Or “neighbor” (ASV, NAB, NIV, NRSV, NLT); NASB “companion”; TEV “a fellow-Israelite.”
 
 ### Verse 2 - Note 3
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;has extorted his neighbor&#8221;; ASV &#8220;oppressed&#8221;; NRSV &#8220;defrauded.&#8221;</div>
+[翻訳注]  Heb “has extorted his neighbor”; ASV “oppressed”; NRSV “defrauded.”
 
 ### Verse 3 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and swears on falsehood&#8221;; cf. CEV &#8220;deny something while under oath.&#8221;</div>
+[翻訳注]  Heb “and swears on falsehood”; cf. CEV “deny something while under oath.”
 
 ### Verse 3 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;on one from all which the man shall do to sin in them.&#8221;</div>
+[翻訳注]  Heb “on one from all which the man shall do to sin in them.”
 
 ### Verse 4 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and it shall happen, when he sins and becomes guilty,&#8221; which is both resumptive of the previous (vv. <span class="bibleref" title="Leviticus 6:2-3">2-3</span>) and the conclusion to the protasis (cf. &#8220;then&#8221; introducing the next clause as the apodosis). In this case, &#8220;becomes guilty&#8221; (cf. NASB, NIV) probably refers to his legal status as one who has been convicted of a crime in court; thus the translation &#8220;he is found guilty.&#8221; See R. E. Averbeck, <i>NIDOTTE</i> 1:559-61.</div>
+[翻訳注]  Heb “and it shall happen, when he sins and becomes guilty,” which is both resumptive of the previous (vv. 2-3) and the conclusion to the protasis (cf. “then” introducing the next clause as the apodosis). In this case, “becomes guilty” (cf. NASB, NIV) probably refers to his legal status as one who has been convicted of a crime in court; thus the translation “he is found guilty.” See R. E. Averbeck, NIDOTTE 1:559-61.
 
 ### Verse 4 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;that had been held in trust with him.&#8221;</div>
+[翻訳注]  Heb “that had been held in trust with him.”
 
 ### Verse 5 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;or from all which he swears on it to falsehood.&#8221;</div>
+[翻訳注]  Heb “or from all which he swears on it to falsehood.”
 
 ### Verse 5 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;in its head.&#8221; This refers &#8220;the full amount&#8221; in terms of the &#8220;principal,&#8221; the original item or amount obtained illegally (J. Milgrom, <i>Leviticus</i> [AB], 1:338; J. E. Hartley, <i>Leviticus</i> [WBC], 84).</div>
+[翻訳注]  Heb “in its head.” This refers “the full amount” in terms of the “principal,” the original item or amount obtained illegally (J. Milgrom, Leviticus [AB], 1:338; J. E. Hartley, Leviticus [WBC], 84).
 
 ### Verse 5 - Note 3
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;to whom it is to him he shall give it in the day of his being guilty.&#8221; The present translation is based on the view that he has been found guilty through the legal process (see the note on v. <span class="bibleref" title="Leviticus 6:4">4</span> above; cf., e.g., TEV and B. A. Levine, <i>Leviticus</i> [JPSTC], 33-34). Others translate the latter part as &#8220;in the day he offers his guilt [reparation] offering&#8221; (e.g., NIV and J. E. Hartley, <i>Leviticus</i> [WBC], 73, 84), or &#8220;in the day he realizes his guilt&#8221; (e.g., NRSV and J. Milgrom, <i>Leviticus</i> [AB], 1:319, 338).</div>
+[翻訳注]  Heb “to whom it is to him he shall give it in the day of his being guilty.” The present translation is based on the view that he has been found guilty through the legal process (see the note on v. 4 above; cf., e.g., TEV and B. A. Levine, Leviticus [JPSTC], 33-34). Others translate the latter part as “in the day he offers his guilt [reparation] offering” (e.g., NIV and J. E. Hartley, Leviticus [WBC], 73, 84), or “in the day he realizes his guilt” (e.g., NRSV and J. Milgrom, Leviticus [AB], 1:319, 338).
 
 ### Verse 6 - Note 1
-<div class="note"><span class="notetype">tn</span> The words &#8220;into silver shekels&#8221; are supplied here. See the full expression in <span class="bibleref" title="Leviticus 5:15">Lev 5:15</span>, and compare <span class="bibleref" title="Leviticus 5:18">5:18</span>. Cf. NRSV &#8220;or its equivalent&#8221;; NLT &#8220;or the animal&#8217;s equivalent value in silver.&#8221;</div>
+[翻訳注]  The words “into silver shekels” are supplied here. See the full expression in Lev 5:15, and compare 5:18. Cf. NRSV “or its equivalent”; NLT “or the animal’s equivalent value in silver.”
 
 ### Verse 7 - Note 1
-<div class="note"><span class="notetype">sn</span> Regarding &#8220;make atonement&#8221; see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>.</div>
+[解説]  Regarding “make atonement” see the note on Lev 1:4.
 
 ### Verse 7 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;there shall be forgiveness to him&#8221; or &#8220;it shall be forgiven to him&#8221; (KJV similar).</div>
+[翻訳注]  Heb “there shall be forgiveness to him” or “it shall be forgiven to him” (KJV similar).
 
 ### Verse 7 - Note 3
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;on one from all which he does to become guilty in it&#8221;; NAB &#8220;whatever guilt he may have incurred.&#8221;</div>
+[翻訳注]  Heb “on one from all which he does to become guilty in it”; NAB “whatever guilt he may have incurred.”
 
 ### Verse 8 - Note 1
-<div class="note"><span class="notetype">sn</span> Lev <b><span class="bibleref" title="Leviticus 6:8">6:8</span></b> in the English Bible = <b><span class="bibleref" title="Leviticus 6:1">6:1</span></b> in the Hebrew text. See also the note on <b><span class="bibleref" title="Leviticus 6:1">6:1</span></b>.</div>
+[解説]  Lev 6:8 in the English Bible = 6:1 in the Hebrew text. See also the note on 6:1.
 
 ### Verse 8 - Note 2
-<div class="note"><span class="notetype">sn</span> The following paragraphs are Lev <b><span class="bibleref" title="Leviticus 6:8-30">6:8-30</span></b> in the English Bible but <b><span class="bibleref" title="Leviticus 6:1-23">6:1-23</span></b> in the Hebrew text. This initial verse makes the special priestly regulations for the people&#8217;s burnt and grain offerings into a single unit (i.e., <span class="bibleref" title="Leviticus 6:8-18">Lev 6:8-18</span> [<span class="bibleref" title="Leviticus 6:1-11">6:1-11</span> HT]; cf. <span class="bibleref" title="Leviticus 1--2">Lev 1-2</span> above). Note also the separate introductions for various priestly regulations in <span class="bibleref" title="Leviticus 6:19">Lev 6:19</span> [12 HT], 24 [17 HT], and for the common people in <span class="bibleref" title="Leviticus 7:22,28">Lev 7:22, 28</span> below.</div>
+[解説]  The following paragraphs are Lev 6:8-30 in the English Bible but 6:1-23 in the Hebrew text. This initial verse makes the special priestly regulations for the people’s burnt and grain offerings into a single unit (i.e., Lev 6:8-18 [6:1-11 HT]; cf. Lev 1-2 above). Note also the separate introductions for various priestly regulations in Lev 6:19 [12 HT], 24 [17 HT], and for the common people in Lev 7:22, 28 below.
 
 ### Verse 9 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;It is the burnt offering on the hearth.&#8221;</div>
+[翻訳注]  Heb “It is the burnt offering on the hearth.”
 
 ### Verse 9 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;in it.&#8221; In this context &#8220;in it&#8221; apparently refers to the &#8220;hearth&#8221; which was on top of the altar.</div>
+[翻訳注]  Heb “in it.” In this context “in it” apparently refers to the “hearth” which was on top of the altar.
 
 ### Verse 10 - Note 1
-<div class="note"><span class="notetype">tn</span> The exact nature of this article of the priest&#8217;s clothing is difficult to determine. Cf. KJV, ASV &#8220;breeches&#8221;; NAB &#8220;drawers&#8221;; NASB, NIV, NRSV, NLT &#8220;undergarments&#8221;; NCV &#8220;underclothes&#8221;; CEV &#8220;underwear&#8221;; TEV &#8220;shorts.&#8221;</div>
+[翻訳注]  The exact nature of this article of the priest’s clothing is difficult to determine. Cf. KJV, ASV “breeches”; NAB “drawers”; NASB, NIV, NRSV, NLT “undergarments”; NCV “underclothes”; CEV “underwear”; TEV “shorts.”
 
 ### Verse 10 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;he shall lift up the fatty ashes which the fire shall consume the burnt offering on the altar.&#8221;</div>
+[翻訳注]  Heb “he shall lift up the fatty ashes which the fire shall consume the burnt offering on the altar.”
 
 ### Verse 10 - Note 3
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;it,&#8221; referring the &#8220;fatty ashes&#8221; as a single unit.</div>
+[翻訳注]  Heb “it,” referring the “fatty ashes” as a single unit.
 
 ### Verse 11 - Note 1
-<div class="note"><span class="notetype">tn</span> The word &#8220;ceremonially&#8221; has been supplied in the translation to clarify that the uncleanness of the place involved is ritual or ceremonial in nature.</div>
+[翻訳注]  The word “ceremonially” has been supplied in the translation to clarify that the uncleanness of the place involved is ritual or ceremonial in nature.
 
 ### Verse 12 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;in it,&#8221; apparently referring to the &#8220;hearth&#8221; which was on top of the altar (cf. the note on v. <span class="bibleref" title="Leviticus 6:9">9</span>).</div>
+[翻訳注]  Heb “in it,” apparently referring to the “hearth” which was on top of the altar (cf. the note on v. 9).
 
 ### Verse 14 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;offering it, the sons of Aaron.&#8221; The verb is a Hiphil infinitive absolute, which is used here in place of the finite verb as either a jussive (GKC 346 &#167;113.<i>cc</i>, &#8220;let the sons of Aaron offer&#8221;) or more likely an injunctive in light of the verbs that follow (Jo&#252;on 2:430 &#167;123.<i>v</i>, &#8220;the sons of Aaron shall/must offer&#8221;).</div>
+[翻訳注]  Heb “offering it, the sons of Aaron.” The verb is a Hiphil infinitive absolute, which is used here in place of the finite verb as either a jussive (GKC 346 §113.cc, “let the sons of Aaron offer”) or more likely an injunctive in light of the verbs that follow (Joüon 2:430 §123.v, “the sons of Aaron shall/must offer”).
 
 ### Verse 15 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he&#8221;; the referent has been specified in the translation for clarity. The &#8220;he&#8221; refers to the officiating priest. A similar shift between singular and plural occurs in <span class="bibleref" title="Leviticus 1:7-9">Lev 1:7-9</span>, but see the note on <span class="bibleref" title="Leviticus 1:7">Lev 1:7</span> and J. E. Hartley, <i>Leviticus</i> [WBC], 89 for the possibility of textual corruption.</div>
+[翻訳注]  Heb “and he”; the referent has been specified in the translation for clarity. The “he” refers to the officiating priest. A similar shift between singular and plural occurs in Lev 1:7-9, but see the note on Lev 1:7 and J. E. Hartley, Leviticus [WBC], 89 for the possibility of textual corruption.
 
 ### Verse 15 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;shall take up from it with his hand some of the choice wheat flour of the grain offering.&#8221;</div>
+[翻訳注]  Heb “shall take up from it with his hand some of the choice wheat flour of the grain offering.”
 
 ### Verse 15 - Note 3
-<div class="note"><span class="notetype">sn</span> See the note on <span class="bibleref" title="Leviticus 2:2">Lev 2:2</span>.</div>
+[解説]  See the note on Lev 2:2.
 
 ### Verse 15 - Note 4
-<div class="note"><span class="notetype">tc</span> Smr reading, which includes the locative <font face="Galaxie Unicode Hebrew">&#1492;</font> (<font face="Scholar">hey</font>, translated &#8220;on&#8221; the altar), is preferred here. This is the normal construction with the verb &#8220;offer up in smoke&#8221; in <span class="bibleref" title="Leviticus 1--7">Lev 1-7</span> (see the note on <span class="bibleref" title="Leviticus 1:9">Lev 1:9</span>).</div>
+[写本注]  Smr reading, which includes the locative ה (hey, translated “on” the altar), is preferred here. This is the normal construction with the verb “offer up in smoke” in Lev 1-7 (see the note on Lev 1:9).
 
 ### Verse 15 - Note 5
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he shall offer up in smoke [on] the altar a soothing aroma, its memorial portion, to the <sc>Lord</sc>.&#8221;</div>
+[翻訳注]  Heb “and he shall offer up in smoke [on] the altar a soothing aroma, its memorial portion, to the Lord.”
 
 ### Verse 17 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;It must not be baked leavened&#8221; (cf. <span class="bibleref" title="Leviticus 2:11">Lev 2:11</span>). The noun &#8220;leaven&#8221; is traditional in English versions (cf. KJV, ASV, NASB, NRSV), but &#8220;yeast&#8221; is more commonly used today.</div>
+[翻訳注]  Heb “It must not be baked leavened” (cf. Lev 2:11). The noun “leaven” is traditional in English versions (cf. KJV, ASV, NASB, NRSV), but “yeast” is more commonly used today.
 
 ### Verse 17 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;holiness of holinesses [or holy of holies] it is&#8221;; cf. NAB &#8220;most sacred.&#8221;</div>
+[翻訳注]  Heb “holiness of holinesses [or holy of holies] it is”; cf. NAB “most sacred.”
 
 ### Verse 18 - Note 1
-<div class="note"><span class="notetype">tn</span> Or &#8220;a perpetual regulation&#8221;; cf. NASB &#8220;a permanent ordinance&#8221;; NRSV &#8220;as their perpetual due.&#8221;</div>
+[翻訳注]  Or “a perpetual regulation”; cf. NASB “a permanent ordinance”; NRSV “as their perpetual due.”
 
 ### Verse 18 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;for your generations&#8221;; cf. NIV &#8220;for the generations to come.&#8221;</div>
+[翻訳注]  Heb “for your generations”; cf. NIV “for the generations to come.”
 
 ### Verse 18 - Note 3
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;touches them&#8221;; the referent has been specified in the translation for clarity. In this context &#8220;them&#8221; must refer to the &#8220;gifts&#8221; of the <sc>Lord</sc>.</div>
+[翻訳注]  Heb “touches them”; the referent has been specified in the translation for clarity. In this context “them” must refer to the “gifts” of the Lord.
 
 ### Verse 18 - Note 4
-<div class="note"><span class="notetype">tn</span> Or &#8220;anyone/anything that touches them shall become holy&#8221; (J. Milgrom, <i>Leviticus</i> [AB], 1:443-56). The question is whether this refers to the contagious nature of holy objects (cf. NAB, NASB, NIV, NRSV, NLT) or whether it simply sets forth a demand that anyone who touches the holy gifts of the <sc>Lord</sc> must be a holy person (cf. CEV). See R. E. Averbeck, <i>NIDOTTE</i> 2:900-902.</div>
+[翻訳注]  Or “anyone/anything that touches them shall become holy” (J. Milgrom, Leviticus [AB], 1:443-56). The question is whether this refers to the contagious nature of holy objects (cf. NAB, NASB, NIV, NRSV, NLT) or whether it simply sets forth a demand that anyone who touches the holy gifts of the Lord must be a holy person (cf. CEV). See R. E. Averbeck, NIDOTTE 2:900-902.
 
 ### Verse 19 - Note 1
-<div class="note"><span class="notetype">sn</span> See the note on <span class="bibleref" title="Leviticus 6:8">Lev 6:8</span> [<span class="bibleref" title="Leviticus 6:1">6:1</span> HT] above.</div>
+[解説]  See the note on Lev 6:8 [6:1 HT] above.
 
 ### Verse 20 - Note 1
-<div class="note"><span class="notetype">sn</span> A tenth of an ephah is about 2.3 liters, one day&#8217;s ration for a single person (J. Milgrom, <i>Leviticus</i> [AB], 1:306).</div>
+[解説]  A tenth of an ephah is about 2.3 liters, one day’s ration for a single person (J. Milgrom, Leviticus [AB], 1:306).
 
 ### Verse 20 - Note 2
-<div class="note"><span class="notetype">tn</span> For the rendering &#8220;choice wheat flour&#8221; see the note on <span class="bibleref" title="Leviticus 2:1">Lev 2:1</span>.</div>
+[翻訳注]  For the rendering “choice wheat flour” see the note on Lev 2:1.
 
 ### Verse 21 - Note 1
-<div class="note"><span class="notetype">tn</span> The term rendered here &#8220;well soaked&#8221; (see, e.g., NRSV; the Hebrew term is <font face="Galaxie Unicode Hebrew">&#1502;&#1467;&#1512;&#1456;&#1489;&#1468;&#1462;&#1499;&#1462;&#1514;</font>, <font face="Scholar">murbbekhet</font>) occurs only three times (here; <span class="bibleref" title="Leviticus 7:12">7:12</span>, and <span class="bibleref" title="1 Chronicles 23:29">1 Chr 23:29</span>), and is sometimes translated &#8220;well-mixed&#8221; (e.g., NIV, NCV, NLT; NASB &#8220;well stirred&#8221;; NAB &#8220;well kneaded&#8221;). The meaning is uncertain (J. Milgrom, <i>Leviticus</i> [AB], 1:399-400), but in <span class="bibleref" title="Leviticus 7:12">Lev 7:12</span> it stands parallel to already prepared grain offerings either &#8220;mixed&#8221; (the Hebrew term is <font face="Galaxie Unicode Hebrew">&#1489;&#1468;&#1456;&#1500;&#1493;&#1468;&#1500;&#1465;&#1514;</font> (<font face="Scholar">b&#255;lulot</font>), not <font face="Galaxie Unicode Hebrew">&#1502;&#1467;&#1512;&#1456;&#1489;&#1468;&#1462;&#1499;&#1462;&#1514;</font> as in <span class="bibleref" title="Leviticus 6:21">Lev 6:21</span> [<span class="bibleref" title="Leviticus 6:14">6:14</span> HT]) or anointed with oil.</div>
+[翻訳注]  The term rendered here “well soaked” (see, e.g., NRSV; the Hebrew term is מֻרְבֶּכֶת, murbbekhet) occurs only three times (here; 7:12, and 1 Chr 23:29), and is sometimes translated “well-mixed” (e.g., NIV, NCV, NLT; NASB “well stirred”; NAB “well kneaded”). The meaning is uncertain (J. Milgrom, Leviticus [AB], 1:399-400), but in Lev 7:12 it stands parallel to already prepared grain offerings either “mixed” (the Hebrew term is בְּלוּלֹת (bÿlulot), not מֻרְבֶּכֶת as in Lev 6:21 [6:14 HT]) or anointed with oil.
 
 ### Verse 21 - Note 2
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;broken bits [?] of a grain offering of pieces,&#8221; but the meaning of the Hebrew term rendered here &#8220;broken bits&#8221; (<font face="Galaxie Unicode Hebrew">&#1514;&#1468;&#1467;&#1508;&#1460;&#1497;&#1504;&#1461;&#1497;</font>, <font face="Scholar">tufiney</font>) is quite uncertain. Some take it from the Hebrew verb &#8220;to break up, to crumble&#8221; (<font face="Galaxie Unicode Hebrew">&#1508;&#1468;&#1463;&#1514;</font> [<font face="Scholar">pat</font>]; e.g., the Syriac, NAB, NIV, NLT &#8220;broken&#8221; pieces) and others from &#8220;to bake&#8221; (<font face="Galaxie Unicode Hebrew">&#1488;&#1464;&#1508;&#1463;&#1492;</font>, &#8217;<font face="Scholar">afah</font>; e.g., NRSV &#8220;baked pieces&#8221;). For a good summary of other proposed options, see J. E. Hartley, <i>Leviticus</i> (WBC), 90. Compare <span class="bibleref" title="Leviticus 2:5-6">Lev 2:5-6</span> for the general regulations regarding this manner of grain offering. Similar but less problematic terminology is used there.</div>
+[翻訳注]  Heb “broken bits [?] of a grain offering of pieces,” but the meaning of the Hebrew term rendered here “broken bits” (תֻּפִינֵי, tufiney) is quite uncertain. Some take it from the Hebrew verb “to break up, to crumble” (פַּת [pat]; e.g., the Syriac, NAB, NIV, NLT “broken” pieces) and others from “to bake” (אָפַה, ’afah; e.g., NRSV “baked pieces”). For a good summary of other proposed options, see J. E. Hartley, Leviticus (WBC), 90. Compare Lev 2:5-6 for the general regulations regarding this manner of grain offering. Similar but less problematic terminology is used there.
 
 ### Verse 22 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;And the anointed priest under him.&#8221;</div>
+[翻訳注]  Heb “And the anointed priest under him.”
 
 ### Verse 24 - Note 1
-<div class="note"><span class="notetype">sn</span> See the note on <span class="bibleref" title="Leviticus 6:8">Lev 6:8</span> [<span class="bibleref" title="Leviticus 6:1">6:1</span> HT].</div>
+[解説]  See the note on Lev 6:8 [6:1 HT].
 
 ### Verse 25 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;holiness of holinesses [or holy of holies] it is.&#8221; Cf. NAB &#8220;most sacred&#8221;; CEV &#8220;very sacred&#8221;; TEV &#8220;very holy.&#8221;</div>
+[翻訳注]  Heb “holiness of holinesses [or holy of holies] it is.” Cf. NAB “most sacred”; CEV “very sacred”; TEV “very holy.”
 
 ### Verse 27 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;on the garment&#8221;; NCV &#8220;on any clothes&#8221;; CEV &#8220;on the clothes of the priest.&#8221;</div>
+[翻訳注]  Heb “on the garment”; NCV “on any clothes”; CEV “on the clothes of the priest.”
 
 ### Verse 27 - Note 2
-<div class="note"><span class="notetype">tc</span> The translation &#8220;you must wash&#8221; is based on the MT as it stands (cf. NASB, NIV). Smr, LXX, Syriac, <i>Tg. Ps.-J.</i>, and the Vulgate have a third person masculine singular passive form (Pual), &#8220;[the garment] must be washed&#8221; (cf. NAB, NRSV, NLT). This could also be supported from the verbs in the following verse, and it requires only a repointing of the Hebrew text with no change in consonants. See the remarks in J. E. Hartley, <i>Leviticus</i> (WBC), 90 and J. Milgrom, <i>Leviticus</i> (AB), 1:404.</div>
+[写本注]  The translation “you must wash” is based on the MT as it stands (cf. NASB, NIV). Smr, LXX, Syriac, Tg. Ps.-J., and the Vulgate have a third person masculine singular passive form (Pual), “[the garment] must be washed” (cf. NAB, NRSV, NLT). This could also be supported from the verbs in the following verse, and it requires only a repointing of the Hebrew text with no change in consonants. See the remarks in J. E. Hartley, Leviticus (WBC), 90 and J. Milgrom, Leviticus (AB), 1:404.
 
 ### Verse 28 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;it&#8221;; the words &#8220;that vessel&#8221; are supplied in the translation to clarify the referent.</div>
+[翻訳注]  Heb “it”; the words “that vessel” are supplied in the translation to clarify the referent.
 
 ### Verse 29 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;holiness of holinesses [or holy of holies] it is&#8221; (also in <span class="bibleref" title="Leviticus 7:1">7:1</span>).</div>
+[翻訳注]  Heb “holiness of holinesses [or holy of holies] it is” (also in 7:1).
 
 ### Verse 30 - Note 1
-<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;burned with fire,&#8221; an expression which is sometimes redundant in English, but here means &#8220;burned up,&#8221; &#8220;burned up entirely.&#8221;</div>
+[翻訳注]  Heb “burned with fire,” an expression which is sometimes redundant in English, but here means “burned up,” “burned up entirely.”

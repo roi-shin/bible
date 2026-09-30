@@ -1,0 +1,510 @@
+{
+  "book": "Leviticus",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "“‘This is the law of the guilt offering. It is most holy. ",
+      "ja": "「これが愆祭の律法である。それは至聖なものである。"
+    },
+    {
+      "verse": 2,
+      "en": "In the place where they slaughter the burnt offering they must slaughter the guilt offering, and the officiating priest must splash the blood against the altar’s sides. ",
+      "ja": "全焼の捧げ物を屠る場所で、彼らは愆祭の犠牲を屠らなければならない。そして祭司を務める者は、その血を祭壇の側面に振りかけなければならない。"
+    },
+    {
+      "verse": 3,
+      "en": "Then the one making the offering must present all its fat: the fatty tail, the fat covering the entrails, ",
+      "ja": "また、捧げ物を献げる者は、そのすべての脂肪を差し出さなければならない。すなわち、尾の脂肪、内臓を覆う脂肪、"
+    },
+    {
+      "verse": 4,
+      "en": "the two kidneys and the fat on their sinews, and the protruding lobe on the liver (which he must remove along with the kidneys). ",
+      "ja": "二つの腎臓と、その脇腹にある脂肪、そして肝臓の上の突き出た部分（彼はこれを腎臓と一緒に取り除かなければならない）である。"
+    },
+    {
+      "verse": 5,
+      "en": "Then the priest must offer them up in smoke on the altar as a gift to the Lord. It is a guilt offering. ",
+      "ja": "そして祭司は、それらを主への火祭として祭壇上で煙にして燃やさなければならない。これが愆祭である。"
+    },
+    {
+      "verse": 6,
+      "en": "Any male among the priests may eat it. It must be eaten in a holy place. It is most holy. ",
+      "ja": "祭司のうちの男子はみな、それを食べることができる。それは聖なる場所で食べなければならない。それは至聖なものである。"
+    },
+    {
+      "verse": 7,
+      "en": "The law is the same for the sin offering and the guilt offering; it belongs to the priest who makes atonement with it. ",
+      "ja": "罪祭と愆祭の律法は同じであり、それで贖いを行う祭司のものとなる。"
+    },
+    {
+      "verse": 8,
+      "en": "“‘As for the priest who presents someone’s burnt offering, the hide of that burnt offering which he presented belongs to him. ",
+      "ja": "また、ある人の全焼の捧げ物を献げる祭司について言えば、彼が献げたその全焼の捧げ物の皮は彼のものとなる。"
+    },
+    {
+      "verse": 9,
+      "en": "Every grain offering which is baked in the oven or made in the pan or on the griddle belongs to the priest who presented it.",
+      "ja": "炉で焼いた穀物の捧げ物も、鍋や鉄板で作った穀物の捧げ物もすべて、それを献げた祭司のものとなる。"
+    },
+    {
+      "verse": 10,
+      "en": "Every grain offering, whether mixed with olive oil or dry, belongs to all the sons of Aaron, each one alike.",
+      "ja": "オリーブ油を混ぜたものであれ、乾いたものであれ、穀物の捧げ物はすべてアロンの子ら全員に、みな平等に帰属する。"
+    },
+    {
+      "verse": 11,
+      "en": "“‘This is the law of the peace-offering sacrifice which he is to present to the Lord. ",
+      "ja": "「これが、彼が主へと献げる和解の犠牲の律法である。"
+    },
+    {
+      "verse": 12,
+      "en": "If he presents it on account of thanksgiving, along with the thank-offering sacrifice he must present unleavened loaves mixed with olive oil, unleavened wafers smeared with olive oil, and well-soaked, ring-shaped loaves made of choice wheat flour mixed with olive oil. ",
+      "ja": "もし彼が感謝のためにそれを献げるなら、感謝の犠牲とともに、オリーブ油を混ぜた種入れぬパン菓子、オリーブ油を塗った種入れぬ薄焼き煎餅、およびオリーブ油を混ぜた上質な小麦粉による、よく浸した環状のパンを献げなければならない。"
+    },
+    {
+      "verse": 13,
+      "en": "He must present this grain offering in addition to ring-shaped loaves of leavened bread which regularly accompany the sacrifice of his thanksgiving peace offering. ",
+      "ja": "彼はこの穀物の捧げ物に加え、感謝の和解の犠牲につきものである、種を入れた環状のパンを献げなければならない。"
+    },
+    {
+      "verse": 14,
+      "en": "He must present one of each kind of grain offering as a contribution offering to the Lord; it belongs to the priest who splashes the blood of the peace offering. ",
+      "ja": "彼はすべての種類の穀物の捧げ物の中から一つずつを、主への引き上げの捧げ物として献げなければならない。それは、和解の犠牲の血を振りかける祭司のものとなる。"
+    },
+    {
+      "verse": 15,
+      "en": "The meat of his thanksgiving peace offering must be eaten on the day of his offering; he must not set any of it aside until morning. ",
+      "ja": "彼の感謝の和解の犠牲の肉は、献げるその日のうちに食べなければならない。朝までそれを少しも残してはならない。"
+    },
+    {
+      "verse": 16,
+      "en": "“‘If his offering is a votive or freewill sacrifice, it may be eaten on the day he presents his sacrifice, and also the leftovers from it may be eaten on the next day, ",
+      "ja": "もし彼の捧げ物が誓願または甘んじて献げる犠牲であるなら、それは犠牲を献げる当日に食べてよく、その残りは翌日にも食べてよい。"
+    },
+    {
+      "verse": 17,
+      "en": "but the leftovers from the meat of the sacrifice must be burned up in the fire on the third day. ",
+      "ja": "しかし、犠牲の肉の残りは、三日目に火で焼き尽くさなければならない。"
+    },
+    {
+      "verse": 18,
+      "en": "If some of the meat of his peace-offering sacrifice is ever eaten on the third day, it will not be accepted; it will not be accounted to the one who presented it since it is spoiled, and the person who eats from it will bear his punishment for iniquity. ",
+      "ja": "もし和解の犠牲の肉が三日目に少しでも食べられたなら、それは受け入れられず、それを献げた者には算えられない。それは汚れたものであり、それを食べる者は自分の不義の罰を負うことになる。"
+    },
+    {
+      "verse": 19,
+      "en": "The meat which touches anything ceremonially unclean must not be eaten; it must be burned up in the fire. As for ceremonially clean meat, everyone who is ceremonially clean may eat the meat. ",
+      "ja": "儀式上汚れたものに触れた肉は食べてはならない。それは火で焼き尽くさなければならない。儀式上清い肉については、儀式上清い者はだれでもその肉を食べることができる。"
+    },
+    {
+      "verse": 20,
+      "en": "The person who eats meat from the peace-offering sacrifice which belongs to the Lord while that person’s uncleanness persists will be cut off from his people. ",
+      "ja": "主のものである和解の犠牲の肉を、その自分の汚れが続いているままで食べる者は、その民から断ち切られる。"
+    },
+    {
+      "verse": 21,
+      "en": "When a person touches anything unclean (whether human uncleanness, or an unclean animal, or an unclean detestable creature) and eats some of the meat of the peace-offering sacrifice which belongs to the Lord, that person will be cut off from his people.’” ",
+      "ja": "人が何か汚れたもの（人間の汚れであれ、汚れた動物であれ、汚れた忌むべき生き物であれ）に触れ、主のものである和解の犠牲の肉を食べるなら、その人は自分の民から断ち切られる。」"
+    },
+    {
+      "verse": 22,
+      "en": "Then the Lord spoke to Moses: ",
+      "ja": "主はモーセに告げて言われた。"
+    },
+    {
+      "verse": 23,
+      "en": "“Tell the Israelites, ‘You must not eat any fat of an ox, sheep, or goat. ",
+      "ja": "「イスラエルの人々にこう告げよ。『あなたたちは、牛、羊、または山羊の脂肪を一切食べてはならない。"
+    },
+    {
+      "verse": 24,
+      "en": "Moreover, the fat of an animal that has died of natural causes and the fat of an animal torn by beasts may be used for any other purpose, but you must certainly never eat it.",
+      "ja": "さらに、自然死した動物の脂肪や、野獣に裂かれた動物の脂肪は、他のどんな目的にも使用してよいが、決して食べてはならない。"
+    },
+    {
+      "verse": 25,
+      "en": "If anyone eats fat from the animal from which he presents a gift to the Lord, that person will be cut off from his people. ",
+      "ja": "主への火祭を献げる動物から出た脂肪を食べる者がいるなら、その人は自分の民から断ち切られる。"
+    },
+    {
+      "verse": 26,
+      "en": "And you must not eat any blood of the birds or of the domesticated land animals in any of the places where you live. ",
+      "ja": "また、あなたたちは自分たちの住むいかなる場所においても、鳥や家畜化された地上の動物の血を一切食べてはならない。"
+    },
+    {
+      "verse": 27,
+      "en": "Any person who eats any blood—that person will be cut off from his people.’” ",
+      "ja": "いかなる者であれ、血を食べるなら、その人は自分の民から断ち切られる。』」"
+    },
+    {
+      "verse": 28,
+      "en": "Then the Lord spoke to Moses: ",
+      "ja": "主はモーセに告げて言われた。"
+    },
+    {
+      "verse": 29,
+      "en": "“Tell the Israelites, ‘The one who presents his peace-offering sacrifice to the Lord must bring part of his offering to the Lord as his sacrifice. ",
+      "ja": "「イスラエルの人々にこう告げよ。『主へと自分の和解の犠牲を献げる者は、その捧げ物の一部を主への犠牲として持って来なければならない。"
+    },
+    {
+      "verse": 30,
+      "en": "With his own hands he must bring the Lord’s gifts. He must bring the fat with the breast to wave the breast as a wave offering before the Lord, ",
+      "ja": "自分の手で、主の捧げ物を持って来なければならない。彼は胸肉を脂肪と一緒に持って来、その胸肉を主の御前で揺動の捧げ物として揺り動かさなければならない。"
+    },
+    {
+      "verse": 31,
+      "en": "and the priest must offer the fat up in smoke on the altar, but the breast will belong to Aaron and his sons. ",
+      "ja": "そして祭司は、その脂肪を祭壇上で煙にして燃やさなければならないが、胸肉はアロンとその子らのものとなる。"
+    },
+    {
+      "verse": 32,
+      "en": "The right thigh you must give as a contribution offering to the priest from your peace-offering sacrifice. ",
+      "ja": "あなたたちは、自分の和解の犠牲から右の腿を、引き上げの捧げ物として祭司に与えなければならない。"
+    },
+    {
+      "verse": 33,
+      "en": "The one from Aaron’s sons who presents the blood of the peace offering and fat will have the right thigh as his share, ",
+      "ja": "和解の犠牲の血と脂肪を献げるアロンの子らのうち、右の腿は彼の取り分となる。"
+    },
+    {
+      "verse": 34,
+      "en": "for the breast of the wave offering and the thigh of the contribution offering I have taken from the Israelites out of their peace-offering sacrifices and have given them to Aaron the priest and to his sons from the people of Israel as a perpetual allotted portion.’” ",
+      "ja": "揺動の捧げ物の胸肉と、引き上げの捧げ物の腿を、わたしはイスラエル人々の和解の犠牲から取り、イスラエル人の中から、祭司アロンとその子らに、永遠の割り当てられた分け前として与えたからである。』"
+    },
+    {
+      "verse": 35,
+      "en": "This is the allotment of Aaron and the allotment of his sons from the Lord’s gifts on the day Moses presented them to serve as priests to the Lord. ",
+      "ja": "これが、主の捧げ物の中からアロンに割り当てられた分であり、またモーセが彼らを主の祭司として仕えさせるために立たせた日に、彼らの子らに割り当てられた分である。"
+    },
+    {
+      "verse": 36,
+      "en": "This is what the Lord commanded to give to them from the Israelites on the day Moses anointed them—a perpetual allotted portion throughout their generations. ",
+      "ja": "これは、モーセが彼らに油を注いだ日に、イスラエルの人々から彼らに与えるよう主が命じられたものであり、彼らの代々にわたる永遠の割り当てられた分け前である。"
+    },
+    {
+      "verse": 37,
+      "en": "This is the law for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace-offering sacrifice, ",
+      "ja": "これが全焼の捧げ物、穀物の捧げ物、罪祭、愆祭、任職の捧げ物、および和解の犠牲の律法である。"
+    },
+    {
+      "verse": 38,
+      "en": "which the Lord commanded Moses on Mount Sinai on the day he commanded the Israelites to present their offerings to the Lord in the desert of Sinai. ",
+      "ja": "それは、主がシナイの荒野でイスラエルの人々に主への捧げ物を献げるよう命じられたその日に、主がシナイ山でモーセに命じられたものである。"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (the officiating priest) has been specified in the translation for clarity. This priest was responsible for any actions involving direct contact with the altar (e.g., the splashing of the blood).",
+        "ja": "ヘブル語では「彼は」。明確にするため、訳文では指示対象（祭司を務める者）を明示した。この祭司は、祭壇に直接触れるすべての行為（例えば、血の振りかけなど）に責任を負っていた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  See the note on Lev 1:5.",
+        "ja": "レビ記1章5節の注を参照。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “then he.” This pronoun refers to the offerer, who was responsible for slaughtering the animal. Contrast v. 2 above and v. 5 below.",
+        "ja": "ヘブル語では「それから彼は」。この代名詞は捧げ物を献げる者を指しており、彼は動物を屠る責任があった。上記の2節および以下の5節と対照せよ。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the notes on Lev 3:3-4.",
+        "ja": "レビ記3章3〜4節の注を参照。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on Lev 1:9 above.",
+        "ja": "上記のレビ記1章9節の注を参照。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “holiness of holinesses [or holy of holies] it is”; NAB “most sacred”; TEV “very holy.”",
+        "ja": "ヘブル語では「それは聖なるものの聖である」。NABでは「最も神聖なもの」、TEVでは「非常に聖なるもの」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “like the sin offering like the guilt offering, one law to them.”",
+        "ja": "ヘブル語では「罪祭のように愆祭のように、一つの律法がそれらに対する」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and” rather than “or” (cf. also the next “or”).",
+        "ja": "「または」ではなく「そして（と）」となっている（次の「または」も参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and all made in the pan”; cf. KJV “fryingpan”; NAB “deep-fried in a pot.”",
+        "ja": "ヘブル語では「そして鍋でなされたすべて」。KJVの「fryingpan（フライパン）」、NABの「deep-fried in a pot（鍋で揚げたもの）」などを参照。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a man like his brother.”",
+        "ja": "ヘブル語では「その兄弟のような人」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This “he” pronoun refers to the offerer. Smr and LXX have plural “they.”",
+        "ja": "この「彼は」という代名詞は捧げ物を献げる者を指す。サマリア五書とLXX（七十人訳）では複数形の「彼らは」となっている。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “for a thank offering.”",
+        "ja": "あるいは「感謝のために」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  See the notes on Lev 2:4.",
+        "ja": "レビ記2章4節の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on Lev 6:21 [6:14 HT].",
+        "ja": "レビ記6章21節（ヘブル語聖書では6章14節）の注を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “choice wheat flour well soaked ring-shaped loaves.” See the note on Lev 2:1.",
+        "ja": "ヘブル語では「上質な小麦粉よく浸した環状のパン」。レビ記2章1節の注を参照。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The rendering “this [grain] offering” is more literally “his offering,” but it refers to the series of grain offerings listed just previously in v. 12.",
+        "ja": "「この[穀物の]捧げ物」という訳は、文字通りには「彼の捧げ物」であるが、直前の12節に挙げられた一連の穀物の捧げ物を指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “which regularly accompany” are not in the Hebrew text, but are supplied for clarity.[解説]  The translation “[which regularly accompany]…” is based on the practice of bringing bread (and wine) to eat with the portions of the peace offering meat eaten by the priests and worshipers (see v. 14 and Num 15:1-13). This was in addition to the memorial portion of the unleavened bread that was offered to the Lord on the altar (cf. Lev 2:2, 9, and the note on 7:12).",
+        "ja": "「[常につきものである]」という言葉はヘブル語本文にはないが、明確にするために補われている。解説：……[常につきものである]という訳は、祭司や礼拝者が和解の犠牲の肉の分け方とともに食べるためにパン（およびぶどう酒）を持参する習慣に基づいている（14節および民数記15:1-13を参照）。これは、祭壇上で主に捧げられた種入れぬパンの記念の部分に加えられるものであった（レビ記2:2, 9、および7:12の注を参照）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here the Hebrew text reads “offering” (קָרְבָּן, qorbban), not “grain offering” (מִנְחָה, minkhah), but in this context the term refers once again to the list in 7:12.",
+        "ja": "ここでのヘブル語本文は「穀物の捧げ物」（ミニハー）ではなく「捧げ物」（コルバン）と読めるが、この文脈においてこの用語は再び7章12節のリストを指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The term rendered “contribution offering” is תְּרוּמָה (tÿrumah), which generally refers to that which is set aside from the offerings to the Lord as prebends for the officiating priests (cf. esp. Lev 7:28-34 and R. E. Averbeck, NIDOTTE 4:335-37). Cf. TEV “as a special contribution.”",
+        "ja": "「引き上げの捧げ物」と訳されている用語はトールマー（תְּרוּמָה）であり、一般には主への捧げ物から取り分けられ、仕える祭司たちのための報酬となる部分を指す（特にレビ記7:28-34、および R. E. Averbeck, NIDOTTE 4:335-37 を参照）。TEVの「as a special contribution（特別な拠出として）」等も参照。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  In the verse “his” refers to the offerer.",
+        "ja": "この節における「彼の」は捧げ物を献げる者を指す。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  For the distinction between votive and freewill offerings see the note on Lev 22:23 and the literature cited there.",
+        "ja": "誓願の捧げ物と甘んじて献げる捧げ物の区別については、レビ記22章23節の注およびそこに引用されている文献を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and on the next day and the left over from it shall be eaten.”",
+        "ja": "ヘブル語では「そして翌日に、そしてそこからの残りは食べられるべきである」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “burned with fire,” an expression which is sometimes redundant in English, but here means “burned up,” “burned up entirely” (likewise in v. 19).",
+        "ja": "ヘブル語では「火で焼かれた」であり、英語では時に冗長な表現であるが、ここでは「焼き尽くされた」「完全に焼き尽くされた」という意味である（19節でも同様）。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “desecrated,” or “defiled,” or “forbidden.” For this difficult term see J. Milgrom, Leviticus (AB), 1:422. Cf. NIV “it is impure”; NCV “it will become unclean”; NLT “will be contaminated.”",
+        "ja": "あるいは「冒涜された」「汚された」「禁じられた」。この難解な用語については、J. Milgrom, Leviticus (AB), 1:422 を参照。NIVの「it is impure（それは不浄である）」、NCVの「it will become unclean（それは汚れたものとなる）」、NLTの「will be contaminated（汚染されるだろう）」等も参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “his iniquity he shall bear” (cf. Lev 5:1); NIV “will be held responsible”; NRSV “shall incur guilt”; TEV “will suffer the consequences.”",
+        "ja": "ヘブル語では「彼の不義を彼は負う」（レビ記5:1を参照）。NIVの「will be held responsible（責任を問われる）」、NRSVの「shall incur guilt（罪を負う）」、TEVのイン「will suffer the consequences（その結果を受ける）」等も参照。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “ceremonially” has been supplied in the translation both here and in the following sentence to clarify that the uncleanness involved is ritual or ceremonial in nature.",
+        "ja": "「儀式上」という言葉は、関わっている汚れが儀式上の性質のものであることを明確にするために、ここおよび次の文の両方において訳出に補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew has simply “the flesh,” but this certainly refers to “clean” flesh in contrast to the unclean flesh in the first half of the verse.",
+        "ja": "ヘブル語では単に「その肉」となっているが、これは前半の汚れた肉と対比して、明らかに「清い」肉を指している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and his unclean condition is on him.”",
+        "ja": "ヘブル語では「そして彼の不浄な状態が彼の上にある」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The exact meaning of this penalty clause is not certain. It could mean that he will be executed, whether by God or by man, he will be excommunicated from sanctuary worship and/or community benefits (cf. TEV, CEV), or his line will be terminated by God (i.e., extirpation), etc. See J. E. Hartley, Leviticus (WBC), 100; J. Milgrom, Leviticus (AB), 1:457-60; and B. A. Levine, Leviticus (JPSTC), 241-42 for further discussion.",
+        "ja": "解説：この罰則条項の正確な意味は確実ではない。それは、神によってであれ人間によってであれ彼が処刑されることを意味するのか、神殿の礼拝および／または共同体の利益から破門されることを意味するのか（TEV, CEV等を参照）、あるいは彼の血統が神によって絶たれること（すなわち根絶）を意味するのか、等々である。さらなる議論については、J. E. Hartley, Leviticus (WBC), 100; J. Milgrom, Leviticus (AB), 1:457-60; および B. A. Levine, Leviticus (JPSTC), 241-42 を参照。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[解説]  For these categories of unclean animals see .",
+        "ja": "解説：これらの汚れた動物のカテゴリーについては、を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  For the interpretation of this last clause see the note on Lev 7:20.",
+        "ja": "解説：この最後の節の解釈については、レビ記7章20節の注を参照。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Lev 6:8 [6:1 HT] above.",
+        "ja": "解説：上記のレビ記6章8節（ヘブル語聖書では6章1節）の注を参照。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “carcass,” referring to the carcass of an animal that has died on its own, not the carcass of an animal slaughtered for sacrifice or killed by wild beasts. This has been clarified in the translation by supplying the phrase “of natural causes”; cf. NAB, TEV “that has died a natural death.”",
+        "ja": "ヘブル語では「死骸」であり、生贄のために屠られた動物や野獣に殺された動物ではなく、自然死した動物の死骸を指す。これは「自然死の」という句を補うことによって訳文で明確にされている。NABやTEVの「that has died a natural death（自然死した）」等を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “shall be used for any work”; cf. NIV, NLT “may be used for any other purpose.”",
+        "ja": "ヘブル語では「あらゆる仕事のために使用されるべきである」。NIVやNLTの「may be used for any other purpose（他のいかなる目的にも使用してよい）」等を参照。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Lev 7:20.",
+        "ja": "解説：レビ記7章20節の注を参照。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and any blood you must not eat in any of your dwelling places, to the bird and to the animal.”",
+        "ja": "ヘブル語では「そしてあなたたちの居住地のいかなる所においても、鳥にとっても動物にとっても、いかなる血もあなたたちは食べてはならない」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Lev 7:20.",
+        "ja": "解説：レビ記7章20節の注を参照。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Lev 6:8 [6:1 HT].",
+        "ja": "解説：レビ記6章8節（ヘブル語聖書では6章1節）の注を参照。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “on the breast.”",
+        "ja": "ヘブル語では「胸の上で」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Many Hebrew mss and some versions (esp. the LXX) limit the offerings in the last part of this verse to the fat portions, specifically, the fat and the fat lobe of the liver (see the BHS footnote). The verse is somewhat awkward in Hebrew but nevertheless correct.[翻訳注]  Heb “the breast to wave it, a wave offering before the Lord.” Other possible translations are “to elevate the breast [as] an elevation offering before the Lord” (cf. NRSV) or “to present the breast [as] a presentation offering before the Lord.” See J. E. Hartley, Leviticus (WBC), 91, J. Milgrom, Leviticus (AB), 1:430-31, 461-72, and R. E. Averbeck, NIDOTTE 3:63-67.",
+        "ja": "写本注：多くのヘブル語写本およびいくつかの訳本（特にLXX）は、この節の最後の部分における捧げ物を脂肪の部分、具体的には脂肪と肝臓の脂肪葉に限定している（BHSの脚注を参照）。この節はヘブル語ではやや不自然ではあるが、それにもかかわらず正確である。訳文：ヘブル語では「主の御前で揺動の捧げ物として、それを揺り動かすための胸肉」。他の可能な訳としては「主の御前で挙手献納の捧げ物として[胸肉を]掲げるため」（NRSVを参照）や「主の御前で提示の捧げ物として[胸肉を]差し出すため」がある。J. E. Hartley, Leviticus (WBC), 91; J. Milgrom, Leviticus (AB), 1:430-31, 461-72; および R. E. Averbeck, NIDOTTE 3:63-67 を参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Older English versions (e.g., KJV, ASV) translate this Hebrew term (תְּרוּמָה, tÿrumah) “heave offering,” derived from the idea of “to raise, to lift” found in the verbal root (cf. NAB “a raised offering”). “Contribution offering” is a better English rendering because it refers to something “taken out from” (i.e., “lifted up from”; cf. the Hebrew term הֵרִים (herim) in, e.g., Lev 2:9; 4:8, etc.) the offering as a special contribution to the specific priest who presided over the offering procedures in any particular instance (see the next verse and R. E. Averbeck, NIDOTTE 4:335-37). Cf. TEV “as a special contribution”; NCV, NLT “as a gift.”",
+        "ja": "古い英語の訳本（例えばKJV、ASVなど）は、このヘブル語（תְּרוּמָה、トールマー）を、動詞語根に見られる「上げる、持ち上げる」という概念に由来して「heave offering（持ち上げの捧げ物）」と訳している（NABの「a raised offering（掲げられた捧げ物）」を参照）。「引き上げの捧げ物」のほうがより良い英語表現である。なぜなら、それは特定の事例における捧げ物の手続きを主導した特定の祭司への特別な貢献として、捧げ物から「取り出された（すなわち、「持ち上げられた」；例えば、レビ記2:9; 4:8等におけるヘブル語ヘリーム הֵרִים を参照）」ものを指すからである（次の節、および R. E. Averbeck, NIDOTTE 4:335-37 を参照）。TEVの「as a special contribution（特別な拠出として）」、NCVやNLTの「as a gift（贈り物として）」等も参照。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “a perpetual regulation”; cf. NASB “as their due forever”; NRSV “as a perpetual due”; NLT “their regular share.”",
+        "ja": "あるいは「永遠の規定」。NASBの「as their due forever（永遠の当然の権利として）」、NRSVの「as a perpetual due（永遠の当然の権利として）」、NLTの「their regular share（彼らの通常の分け前として）」等も参照。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the day he”; the referent (Moses) has been specified in the translation for clarity.",
+        "ja": "ヘブル語では「彼が[行なった]日」。明確にするため、訳文では指示対象（モーセ）を明示した。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in the day of he presented them to serve as priests to the Lord.” The grammar here is relatively unusual. First, the verb “presented” appears to be in the perfect rather than the infinitive (but see GKC 531), the latter being normal in such temporal expressions. Second, the active verb form appears to be used as a passive plural (“they were presented”). However, if it is translated active and singular then Moses would be the subject: “on the day he [Moses] offered them [Aaron and his sons].”",
+        "ja": "ヘブル語では「彼が彼らを主の祭司として仕えさせるために立たせた日に」。ここでの文法は比較的珍しい。第一に、「立たせた」という動詞は、このような時間的表現で通常見られる不定詞ではなく、完了形であるように思われる（しかしGKC 531を参照）。第二に、能動態の動詞形が受動態の複数形（「彼らは立たせられた」）として使用されているように見える。しかし、それが能動態かつ単数形として訳されるならば、モーセが主語となる。「彼（モーセ）が彼ら（アロンとその子ら）を献げた日に」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the day he”; the referent (Moses) has been specified in the translation for clarity.",
+        "ja": "ヘブル語では「彼が[行なった]日」。明確にするため、訳文では指示対象（モーセ）を明示した。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “which the Lord commanded to give to them in the day he anointed them from the children of Israel.” Thus v. 36 is tied syntactically to v. 35 (see the note there).",
+        "ja": "ヘブル語では「イスラエルの子らのうちから、彼が彼らに油を注いだ日に主が彼らに与えるよう命じられたもの」。したがって、36節は統語的に35節と結びついている（そこの注を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “for your generations”; cf. NIV “for the generations to come”; TEV “for all time to come.”",
+        "ja": "ヘブル語では「あなたたちの世代のために」。NIVの「for the generations to come（来るべき世代のために）」、TEVの「for all time to come（すべての将来の時代の為に）」等も参照。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Hebrew term translated “law” (תוֹרָה [torah]) occurs up to this point in the book only in Lev 6:9 [6:2 HT], 14 [7 HT], 25 [18 HT], 7:1, 7, 11, and here in 7:37. This suggests that Lev 7:37-38 is a summary of only this section of the book (i.e., Lev 6:8 [6:1 HT]-7:36), not all of Lev 1-7.",
+        "ja": "解説：「律法」（トールハー תּוֹרָה）と訳されているヘブル語の用語は、この書においてここまでではレビ記6章9節（ヘブル語聖書では6章2節）、14節（7節）、25節（18節）、7章1節、7節、11節、およびここ7章37節にのみ現れる。このことは、レビ記7章37〜38節がレビ記1〜7章全体のまとめではなく、この書の一部分（すなわち、レビ記6章8節[6:1 HT]〜7:36）のまとめにすぎないことを示唆している。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  In the MT only “the grain offering” lacks a connecting ו (vav). However, many Hebrew , Smr, LXX, Syriac, and some mss of Tg. Onq. have the ו (vav) on “the grain offering” as well.",
+        "ja": "マソラ本文（MT）においては「穀物の捧げ物」のみに接続詞の「分（ヴァヴ）」が欠けている。しかしながら、多くのヘブル語写本、サマリア五書、LXX、シリア語訳、およびタルグム・オンケロスのいくつかの写本では、「穀物の捧げ物」にも同様に「ヴァヴ」が付いている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The inclusion of the “ordination offering” (מִלּוּאִים, milu’im; the term apparently comes from the notion of “filling [of the hand],” cf. Lev 8:33) here anticipates . It is a kind of peace offering, as the regulations in Lev 8:22-32 will show (cf. Exod 29:19-34). In the context of the ordination ritual for the priests it fits into the sequence of offerings as a peace offering would: sin offering (Lev 8:14-17), burnt and grain offering (Lev 8:18-21), and finally peace (i.e., ordination) offering (Lev 8:22-32). Moreover, in this case, Moses received the breast of the ordination offering as his due since he was the presiding priest over the sacrificial procedures (Lev 8:29; cf. Lev 7:30-31), while Aaron and his sons ate the portions that would have been consumed by the common worshipers in a regular peace offering procedure (Exod 29:31-34; cf. Lev 7:15-18). For a general introduction to the peace offering see the note on Lev 3:1.",
+        "ja": "解説：ここにおける「任職の捧げ物」（ミルリーム מִלּוּאִים；この用語は明らかに「[手の]満たし」という概念に由来する。レビ記8:33を参照）の包含は、を先取りしている。レビ記8章22〜32節の規定が示すように、それは一種の和解の犠牲である（出エジプト記29:19-34を参照）。祭司たちの任職儀式の文脈において、それは和解の犠牲が収まるであろう順序に合致している。すなわち、罪祭（レビ記8:14-17）、全焼の捧げ物と穀物の捧げ物（レビ記8:18-21）、そして最後に和解の（すなわち任職の）犠牲（レビ記8:22-32）である。さらにこの場合、モーセは生贄の手続きをつかさどる祭司であったため、任職の犠牲の胸肉を当然の分け前として受け取り（レビ記8:29; レビ記7:30-31と比較）、一方アロンとその子らは、通常の和解の犠牲の手続きにおいて一般の礼拝者が消費していたであろう部分を食べた（出エジプト記29:31-34; レビ記7:15-18と比較）。和解の犠牲についての一般的なイントロダクションについては、レビ記3章1節の注を参照。"
+      }
+    ]
+  }
+}

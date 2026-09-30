@@ -1,0 +1,636 @@
+{
+  "book": "Numbers",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "en": " When the people complained, it displeased the Lord. When the Lord heard it, his anger burned, and so the fire of the Lord burned among them and consumed some of the outer parts of the camp. ",
+      "ja": "民が不平を言い始めると、それは主の耳に悪く響いた。主がそれを聞かれると、その怒りが燃え上がった。そのため、主の火が彼らの間に燃えさかり、陣営の端の方を焼き尽くした。"
+    },
+    {
+      "verse": 2,
+      "en": "When the people cried to Moses, he prayed to the Lord, and the fire died out. ",
+      "ja": "民がモーセに叫び求めたので、モーセが主に祈ると、火が消えた。"
+    },
+    {
+      "verse": 3,
+      "en": "So he called the name of that place Taberah because there the fire of the Lord burned among them.",
+      "ja": "そのため、その場所の名はタベラと呼ばれた。そこで主の火が彼らの間に燃えさかったからである。"
+    },
+    {
+      "verse": 4,
+      "en": " Now the mixed multitude who were among them craved more desirable foods, and so the Israelites wept again and said, “If only we had meat to eat! ",
+      "ja": "さて、彼らの間に交じっていた雑多な群れが強い欲求を抱き、イスラエル人たちも再び泣き叫んで言った。「ああ、私たちに肉を食べさせてくれる者があればよいのに！"
+    },
+    {
+      "verse": 5,
+      "en": "We remember the fish we used to eat freely in Egypt, the cucumbers, the melons, the leeks, the onions, and the garlic. ",
+      "ja": "私たちはエジプトで、価なしに食べていた魚や、キュウリ、メロン、ニラ、タマネギ、ニンニクの事を覚えている。"
+    },
+    {
+      "verse": 6,
+      "en": "But now we are dried up, and there is nothing at all before us except this manna!” ",
+      "ja": "しかし今、私たちの魂は干からびてしまい、このマナのほかには目の前に何もない！」"
+    },
+    {
+      "verse": 7,
+      "en": "(Now the manna was like coriander seed, and its color like the color of bdellium. ",
+      "ja": "(さて、マナはコリアンダーの種のようで、その色はブデリウムの色のようであった。"
+    },
+    {
+      "verse": 8,
+      "en": "And the people went about and gathered it, and ground it with mills or pounded it in mortars; they baked it in pans and made cakes of it. It tasted like fresh olive oil. ",
+      "ja": "民は歩き回ってそれを集め、臼で挽いたり、乳鉢で砕いたりし、鍋で煮てパンを作った。その味は新鮮なオリーブ油のようであった。"
+    },
+    {
+      "verse": 9,
+      "en": "And when the dew came down on the camp in the night, the manna fell with it.)",
+      "ja": "夜、露が陣営に降るとともに、マナもその上に降った。)"
+    },
+    {
+      "verse": 10,
+      "en": " Moses heard the people weeping throughout their families, everyone at the door of his tent; and when the anger of the Lord was kindled greatly, Moses was also displeased. ",
+      "ja": "モーセは、民が家族ごとに、おのおの自分のテントの入り口で泣いているのを聞いた。主の激しい怒りが燃え上がったので、モーセもまた非常に不快に思った。"
+    },
+    {
+      "verse": 11,
+      "en": "And Moses said to the Lord, “Why have you afflicted your servant? Why have I not found favor in your sight, that you lay the burden of this entire people on me?",
+      "ja": "モーセは主に言った。「なぜあなたは、あなたの僕を苦しめられるのですか。なぜ私はあなたの目の前に恵みを見いだせず、このすべての民の重荷を私に負わせられるのですか。"
+    },
+    {
+      "verse": 12,
+      "en": "Did I conceive this entire people? Did I give birth to them, that you should say to me, ‘Carry them in your arms, as a foster father bears a nursing child,’ to the land that you swore to their fathers? ",
+      "ja": "私がこのすべての民を身ごもったのでしょうか。私が彼らを生んだというのでしょうか。それなのに、あなたが私に『養育係が乳飲み子を抱くように、彼らをあなたの懐に抱け』と、彼らの先祖に誓われた地へ連れて行けと言われるのですか。"
+    },
+    {
+      "verse": 13,
+      "en": "From where shall I get meat to give to this entire people, for they cry to me, ‘Give us meat, that we may eat!’ ",
+      "ja": "このすべての民に与える肉を、いったいどこから私は手に入れられましょうか。彼らが私に向かって『私たちに肉をくれ、食べさせてくれ』と泣き叫ぶのです。"
+    },
+    {
+      "verse": 14,
+      "en": "I am not able to bear this entire people alone, because it is too heavy for me! ",
+      "ja": "私ひとりでは、このすべての民を担うことはできません。私には重すぎるからです。"
+    },
+    {
+      "verse": 15,
+      "en": "But if you are going to deal with me like this, then kill me immediately. If I have found favor in your sight then do not let me see my trouble.” ",
+      "ja": "もしあなたが私をこのように扱われるなら、どうか今すぐ私を殺してください。もし私があなたの目に恵みを見いだしているのなら、どうか私のこの苦しみを見ないようにしてください。」"
+    },
+    {
+      "verse": 16,
+      "en": " The Lord said to Moses, “Gather to me seventy men of the elders of Israel, whom you know are elders of the people and officials over them, and bring them to the tent of meeting; let them take their position there with you.",
+      "ja": "主はモーセに言われた。「イスラエルの長老たちのうちから、あなたが民の長老、また司役であると知っている者たちを七十人集め、会幕のところに連れて来て、そこにあなたと共に立たせなさい。"
+    },
+    {
+      "verse": 17,
+      "en": "Then I will come down and speak with you there, and I will take part of the Spirit that is on you, and will put it on them, and they will bear some of the burden of the people with you, so that you do not bear it all by yourself. ",
+      "ja": "わたしは降りて来て、そこであなたと語り合う。そして、あなたにある霊の一部を取り分けて彼らの上に置こう。彼らはあなたと共に民の重荷を担い、あなたひとりでそれを負わなくてよくなる。"
+    },
+    {
+      "verse": 18,
+      "en": "“And say to the people, ‘Sanctify yourselves for tomorrow, and you will eat meat, for you have wept in the hearing of the Lord, saying, “Who will give us meat to eat, for life was good for us in Egypt?” Therefore the Lord will give you meat, and you will eat. ",
+      "ja": "また、民にこう言いなさい。『明日のために身を聖別しなさい。あなたたちは肉を食べることになる。あなたたちが主の耳に向かって「ああ、私たちに肉を食べさせてくれる者があればよいのに！ エジプトにいた頃は良かったのに」と泣いて訴えたからだ。それ故、主があなたたちに肉を与え、あなたたちはそれを食べるのだ。"
+    },
+    {
+      "verse": 19,
+      "en": "You will eat, not just one day, nor two days, nor five days, nor ten days, nor twenty days, ",
+      "ja": "あなたたちが食べるのは、一日だけでも、二日だけでも、五日だけでも、十日だけでも、二十日だけでもなく、"
+    },
+    {
+      "verse": 20,
+      "en": "but a whole month, until it comes out your nostrils and makes you sick, because you have despised the Lord who is among you and have wept before him, saying, “Why did we ever come out of Egypt?”’” ",
+      "ja": "ひと月丸々である。それがあなたたちの鼻から出て、吐き気を催すようになるまで食べるが良い。それは、あなたたちのただ中におられる主をあなたたちが侮り、主の前で泣いて「なぜ私たちはエジプトを出てきたのか」と言ったからである』」"
+    },
+    {
+      "verse": 21,
+      "en": "Moses said, “The people around me are 600,000 on foot; but you say, ‘I will give them meat, that they may eat for a whole month.’ ",
+      "ja": "モーセは言われた。「私の周りにいる歩行する民だけでも六十万人です。それなのに、あなたは『彼らに肉を与え、ひと月丸々食べさせよう』と言われるのですか。"
+    },
+    {
+      "verse": 22,
+      "en": "Would they have enough if the flocks and herds were slaughtered for them? If all the fish of the sea were caught for them, would they have enough?” ",
+      "ja": "羊の群れや牛の群れを皆殺しにしても、彼らのために足りるでしょうか。海の魚をすべて捕り集めても、彼らのために足りるでしょうか。」"
+    },
+    {
+      "verse": 23,
+      "en": "And the Lord said to Moses, “Is the Lord’s hand shortened? Now you will see whether my word to you will come true or not!” ",
+      "ja": "しかし、主はモーセに言われた。「主の手が短かすぎることがあろうか。今あなたはそのわたしの言葉があなたに実現するかどうかを見るようになる。」"
+    },
+    {
+      "verse": 24,
+      "en": "So Moses went out and told the people the words of the Lord. He then gathered seventy men of the elders of the people and had them stand around the tabernacle. ",
+      "ja": "そこでモーセは出て行って、主の言葉を民に告げた。そして、民の長老たちから七十人を選んで集め、幕屋の周りに立たせた。"
+    },
+    {
+      "verse": 25,
+      "en": "And the Lord came down in the cloud and spoke to them, and he took some of the Spirit that was on Moses and put it on the seventy elders. When the Spirit rested on them, they prophesied, but did not do so again. ",
+      "ja": "主は雲の中に降りて来て、モーセと語られた。そして、モーセの上にあった霊の一部を取り分けて、その七十人の長老たちの上に置かれた。霊が彼らの上に留まると、彼らは預言したが、二度とそのようなことはしなかった。"
+    },
+    {
+      "verse": 26,
+      "en": "But two men remained in the camp; one’s name was Eldad, and the other’s name was Medad. And the Spirit rested on them. (Now they were among those in the registration, but had not gone to the tabernacle.) So they prophesied in the camp. ",
+      "ja": "しかし、二人の男が陣営に残っていた。ひとりの名はエルダデ、もうひとりの名はメダデと言った。霊が彼らの上に留まった。（彼らは登録者名簿に載っていたが、幕屋に出て行っていなかった者たちである。）そこで彼らは陣営の中で預言した。"
+    },
+    {
+      "verse": 27,
+      "en": "And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp!” ",
+      "ja": "ひとりの若い男が走って来て、モーセに告げた。「エルダデとメダデが陣営の中で預言しています！」"
+    },
+    {
+      "verse": 28,
+      "en": "Joshua son of Nun, the servant of Moses, one of his choice young men, said, “My lord Moses, stop them!”",
+      "ja": "モーセの従者であり、彼の選ばれた若い者の一人であるヌンの子ヨシュアが答えて言った。「わが主モーセよ、彼らをお止めください！」"
+    },
+    {
+      "verse": 29,
+      "en": "Moses said to him, “Are you jealous for me? I wish that all the Lord’s people were prophets, that the Lord would put his Spirit on them!”",
+      "ja": "モーセは彼に言った。「あなたは私のためにねたましいことを言っているのか。むしろ、主の民が皆預言者となり、主が彼らの上に御霊を授けてくださるなら、私は願ってやまない！」"
+    },
+    {
+      "verse": 30,
+      "en": "Then Moses returned to the camp along with the elders of Israel. ",
+      "ja": "その後、モーセはイスラエルの長老たちと共に陣営に戻った。"
+    },
+    {
+      "verse": 31,
+      "en": "Now a wind went out from the Lord and brought quail from the sea, and let them fall near the camp, about a day’s journey on this side, and about a day’s journey on the other side, all around the camp, and about three feet high on the surface of the ground. ",
+      "ja": "さて、主のもとから風が起こり、海からうずらを吹き寄せ、陣営のこちら側に一日の道のり、あちら側に一日の道のり、陣営の周り至る所に、地面から約二キュビトの高さに積もらせた。"
+    },
+    {
+      "verse": 32,
+      "en": "And the people stayed up all that day, all that night, and all the next day, and gathered the quail. The one who gathered the least gathered ten homers, and they spread them out for themselves all around the camp. ",
+      "ja": "民は立ち上がり、その日一日、その夜通し、そして翌日一日中、うずらを集めた。最も少なく集めた者でも十ホメル集め、彼らはそれを陣営の周りに自分たちのために広げた。"
+    },
+    {
+      "verse": 33,
+      "en": "But while the meat was still between their teeth, before they chewed it, the anger of the Lord burned against the people, and the Lord struck the people with a very great plague. ",
+      "ja": "しかし、肉がまだ彼らの歯の間にあるうちに、それを噛み砕く前に、主の怒りが民に対して燃え上がり、主は非常に激しい疫病で民を打たれた。"
+    },
+    {
+      "verse": 34,
+      "en": "So the name of that place was called Kibroth Hattaavah, because there they buried the people that craved different food.",
+      "ja": "それゆえ、その場所の名はキブロテ・ハタアワと呼ばれた。貪欲な欲求を抱いた民をそこに葬ったからである。"
+    },
+    {
+      "verse": 35,
+      "en": "The people traveled from Kibroth Hattaavah to Hazeroth, and they stayed at Hazeroth. ",
+      "ja": "民はキブロテ・ハタアワからハツェロットへ旅立ち、ハツェロットにとどまった。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  The chapter includes the initial general complaints (vv. 1-3), the complaints about food (vv. 4-9), Moses’ own complaint to the Lord (vv. 10-15), God’s response to Moses (vv. 16-25), Eldad and Medad (vv. 26-29), and the quail (vv. 30-35). The first part records the burning of the camp, named Taberah. Here is one of the several naming narratives in the wilderness experience. The occasion for divine judgment is the complaining of the people. The passages serve to warn believers of all ages not to murmur as the Israelites did, for such complaining reveals a lack of faith in the power and goodness of God. For additional literature, see W. Brueggemann, “From Hurt to Joy, from Death to Life,” Int 28 (1974): 3-19; B. S. Childs, “The Etiological Tale Re-examined,” VT 24 (1974): 387-97; G. W. Coats, Rebellion in the Wilderness; and A. C. Tunyogi, “The Rebellions of Israel,” JBL 81 (1962): 385-90.",
+        "ja": "[解説] この章には、最初の一般的な不平（1-3節）、食物についての不平（4-9節）、主に対するモーセ自身の不平（10-15節）、モーセに対する神の応答（16-25節）、エルダデとメダデ（26-29節）、およびうずら（30-35節）が含まれている。前半は陣営の焼失を記録しており、それはタベラと名付けられた。ここは荒野の経験におけるいくつかの命名物語の一つである。神の裁きの機会となったのは、民の不平である。これらの箇所は、イスラエル人のように不平を言ってはならないと、あらゆる時代の信徒に警告する役目を果たしている。なぜなら、そのような不平は、神の力と良さに対する信仰の欠如を露呈するからである。追加の文献については、W. Brueggemann, “From Hurt to Joy, from Death to Life,” Int 28 (1974): 3-19; B. S. Childs, “The Etiological Tale Re-examined,” VT 24 (1974): 387-97; G. W. Coats, Rebellion in the Wilderness; および A. C. Tunyogi, “The Rebellions of Israel,” JBL 81 (1962): 385-90 を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The temporal clause uses the Hitpoel infinitive construct from אָנַן (’anan). It is a rare word, occurring in Lam 3:39. With this blunt introduction the constant emphasis of obedience to the word of the Lord found throughout the first ten chapters suddenly comes to an end. It is probable that the people were tired of moving for several days, the excitement of the new beginning died out quickly in the “great and terrible wilderness.” Resentment, frustration, discomfort – whatever it all involved – led to complaining and not gratitude.",
+        "ja": "[翻訳注] この時を示す節では、אָנַן ('anan) のヒトパエル（Hithpael）不定詞構成形が用いられている。これはレアな単語であり、哀歌 3:39に現れる。このぶっきらぼうな導入部によって、最初の10章の至る所で一貫して見られた、主の言葉への従順という強調が突然終わりを迎える。おそらく民は、数日間の移動にうんざりしており、「大いなる恐ろしい荒野」の中では、新たな出発の高揚感も急速に冷めてしまったのであろう。恨み、フラストレーション、不快感――そのすべてがどのようなものであれ、それは感謝ではなく不平へとつながった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “it was evil in the ears of the Lord.” The word רַע (ra’) is a much stronger word than “displeased” would suggest. The bold anthropomorphism shows that what the Lord heard was painful to him.",
+        "ja": "[翻訳注] ヘブライ語では「それは主の耳に悪かった」となる。רַע (ra') という語は、「不快にさせた（displeased）」という訳語が示唆するよりもはるかに強い言葉である。この大胆な類人擬人表現（anthropomorphism）は、主が耳にされたことが主にとって苦痛であったことを示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The preterite with vav (ו) consecutive is here subordinated to the next verb as a temporal clause.",
+        "ja": "[翻訳注] 連続の vav (ו) を伴う完了形は、ここでは時を表す副詞節として次の動詞に従属している。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The common Hebrew expression uses the verb חָרָה (harah, “to be hot, to burn, to be kindled”). The subject is אַפּוֹ (’appo), “his anger” or more literally, his nose, which in this anthropomorphic expression flares in rage. The emphasis is superlative – “his anger raged.”",
+        "ja": "[翻訳注] 一般的なヘブライ語表現では、動詞 חָרָה (harah, 「熱くなる、燃える、燃え立たせる」) が使用される。主語は אַפּוֹ ('appo) であり、「彼の怒り」、あるいはより文字通りには彼の鼻を意味し、この擬人化された表現では怒りで鼻の穴を膨らませることを表す。強調は最上級のものであり、「彼の激しい怒りが燃え上がった」という意味になる。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The vav (ו) consecutive does not simply show sequence in the verbs, but here expresses the result of the anger of the Lord for their complaining. With such a response to the complaining, one must conclude that it was unreasonable. There had been no long deprivation or endured suffering; the complaining was early and showed a rebellious spirit.",
+        "ja": "[翻訳注] 連続の vav (ו) は単に動詞の順序を示しているのではなく、ここでは不平を言ったことに対する主の怒りの結果を表現している。不平に対してこのような対応がなされたことから、その不平が理不尽なものであったと結論づけざるを得ない。長い間の剥奪や耐え忍んだ苦難など一切なかった。その不平は早い段階でのものであり、反逆の精神を示していた。"
+      },
+      {
+        "pos": 7,
+        "en": "[解説]  The “fire of the Lord” is supernatural, for it is said to come from the Lord and not from a natural source. God gave them something to complain about – something to fear. The other significant place where this “fire of the Lord” destroyed was in the case of Nadab and Abihu who brought strange fire to the altar (Lev 10:2).",
+        "ja": "[解説] 「主の火」は超自然的なものである。なぜなら、それは自然の発生源からではなく、主から出たと語られているからである。神は彼らに不平を言う理由を――恐れるべき理由を与えられたのである。この「主の火」が滅ぼしたもう一つの重要な場所は、ナダブとアビフが異火を祭壇に捧げた事例である（レビ 10:2）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Moses.”",
+        "ja": "[翻訳注] ヘブライ語では「モーセ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Here is the pattern that will become in the wilderness experience so common – the complaining turns to a cry to Moses, which is then interpreted as a prayer to the Lord, and there is healing. The sequence presents a symbolic lesson, an illustration of the intercession of the Holy Spirit. The NT will say that in times of suffering Christians do not know how to pray, but the Spirit intercedes for them, changing their cries into the proper prayers ().",
+        "ja": "[解説] ここにあるのは、荒野の経験において非常に一般的となるパターンである。すなわち、不平がモーセへの叫びに変わり、それがさらに主への祈りとして解釈され、そしていやしがもたらされるという流れである。この一連の流れは象徴的な教訓、すなわち聖霊の執り成しのイラストレーションを提示している。新約聖書は、苦難の時にクリスチャンはどのように祈るべきか分からないが、霊ご自身が彼らのためにとりなし、その叫びをふさわしい祈りへと変えてくださると語っている（ローマ 8:26）。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The name תַּבְעֵרָה (tav’erah) is given to the spot as a commemorative of the wilderness experience. It is explained by the formula using the same verbal root, “to burn.” Such naming narratives are found dozens of times in the OT, and most frequently in the Pentateuch. The explanation is seldom an exact etymology, and so in the literature is called a popular etymology. It is best to explain the connection as a figure of speech, a paronomasia, which is a phonetic wordplay that may or may not be etymologically connected. Usually the name is connected to the explanation by a play on the verbal root – here the preterite explaining the noun. The significance of commemorating the place by such a device is to “burn” it into the memory of Israel. The narrative itself would be remembered more easily by the name and its motif. The namings in the wilderness wanderings remind the faithful of unbelief, and warn us all not to murmur as they murmured. See further A. P. Ross, “Paronomasia and Popular Etymologies in the Naming Narrative of the Old Testament,” Ph.D. diss., University of Cambridge, 1982.",
+        "ja": "[翻訳注] תַּבְעֵרָה (tav'erah) という名前は、荒野での経験の記念としてその場所に与えられた。それは同じ動詞の語根「燃える」を用いた定型句によって説明されている。このような命名物語は旧約聖書に何十回も見られ、最も頻繁に現れるのはモーセ五書においてである。この説明が厳密な語源学に基づいていることはめったになく、そのため文学においては「俗謡的語源（popular etymology）」と呼ばれる。このつながりは修辞技法、すなわち語源的に結びついている場合もいない場合もある音韻的な言葉遊び（paronomasia）として説明するのが最も適切である。通常、名前はその説明と動詞の語根をかけた遊戯によって結び付けられる。ここでは完了形が名詞を説明している。このような手法でその場所を記念することの意義は、それをイスラエルの記憶に「焼き付ける」ことにある。物語そのものは、その名前とモチーフによってより容易に記憶されることになる。荒野のさまよいにおける命名は、不信仰を忠実な者たちに思い起こさせ、彼らが不平を言ったように私たちも不平を言ってはならないと警告するものである。さらに詳しくは、A. P. Ross, “Paronomasia and Popular Etymologies in the Naming Narrative of the Old Testament,” Ph.D. diss., University of Cambridge, 1982 を参照のこと。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[解説]  The story of the sending of the quail is a good example of poetic justice, or talionic justice. God had provided for the people, but even in that provision they were not satisfied, for they remembered other foods they had in Egypt. No doubt there was not the variety of foods in the Sinai that might have been available in Egypt, but their life had been bitter bondage there as well. They had cried to the Lord for salvation, but now they forget, as they remember things they used to have. God will give them what they crave, but it will not do for them what they desire. For more information on this story, see B. J. Malina, The Palestinian Manna Tradition. For the attempt to explain manna and the other foods by natural phenomena, see F. W. Bodenheimer, “The Manna of Sinai,” BA 10 (1947): 1-6.",
+        "ja": "[解説] うずらの派遣の物語は、詩的な裁き、あるいは同害報復（タリオの原理）の好例である。神は民に備えてくださったが、その備えにおいてさえ彼らは満足せず、エジプトで口にした他の食物を思い出していた。シナイ半島にはエジプトで手に入ったような多様な食物がなかったことは間違いないが、しかし彼らのエジプトでの生活もまた、苦しい奴隷状態であった。彼らは救いを求めて主に叫んだが、今やかつて得ていたものを思い出すにつれて、それを忘れてしまっている。神は彼らが強く欲するものをお与えになるが、それは彼らが望むような結果にはならない。この物語に関する詳細については、B. J. Malina, The Palestinian Manna Tradition を参照のこと。マナやその他の食物を自然現象によって説明しようとする試みについては、F. W. Bodenheimer, “The Manna of Sinai,” BA 10 (1947): 1-6 を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The mixed multitude (or “rabble,” so NASB, NIV, NRSV; NLT “foreign rabble”) is the translation of an unusual word, הֲָאסַפְסֻף (ha’safsuf). It occurs in the Hebrew Bible only here. It may mean “a gathering of people” from the verb אָסַף (’asaf), yielding the idea of a mixed multitude (in line with Exod 12:38). But the root is different, and so no clear connection can be established. Many commentators therefore think the word is stronger, showing contempt through a word that would be equivalent to “riff-raff.”",
+        "ja": "[翻訳注] 「雑多な群れ」（または NASB, NIV, NRSV の「ならず者たち」、NLT の「外国人のならず者たち」）は、珍しい単語 הֲָאסַפְסֻף (ha'safsuf) の訳である。この語はヘブライ語聖書においてここにしか現れない。動詞 אָסַף ('asaf) から派生して「人々の集まり」を意味し、そこから（出エジプト 12:38に沿って）雑多な群れという概念が導き出される可能性がある。しかし語根が異なるため、明確な関連性は確立できない。したがって、多くの注解者は、この語がより強い意味を持ち、「ろくでなし」や「掃きだめ」に相当するような軽蔑を示す言葉であると考えている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew simply uses the cognate accusative, saying “they craved a craving” (הִתְאַוּוּ תַּאֲוָה, hit’avvu ta’vah), but the context shows that they had this strong craving for food. The verb describes a strong desire, which is not always negative (Ps 132:13-14). But the word is a significant one in the Torah; it was used in the garden story for Eve’s desire for the tree, and it is used in the Decalogue in the warning against coveting (Deut 5:21).",
+        "ja": "[翻訳注] ヘブライ語は単に同源の目的語を使用し、「彼らは渇望を渇望した（強烈に欲した）」（הִתְאַוּוּ תַּאֲוָה, hit'avvu ta'vah）と述べているが、文脈は彼らが食物に対してこの強い渇望を抱いていたことを示している。この動詞は強い欲望を描写しており、それは必ずしも否定的とは限らない（詩 132:13-14）。しかしこの単語はトーラにおいて重要な意味を持つ言葉であり、園の物語ではエバが木に対して抱いた欲望のために用いられ、また十戒ではむさぼることに対する警告の中で用いられている（申命記 5:21）。"
+      },
+      {
+        "pos": 4,
+        "en": "[写本注]  The Greek and the Latin versions read “and they sat down” for “and they returned,” involving just a change in vocalization (which they did not have). This may reflect the same expression in Judg 20:26. But the change does not improve this verse.[翻訳注]  The Hebrew text uses a verbal hendiadys here, one word serving as an adverb for the other. It literally reads “and they returned and they wept,” which means they wept again. Here the weeping is put for the complaint, showing how emotionally stirred up the people had become by the craving. The words throughout here are metonymies. The craving is a metonymy of cause, for it would have then led to expressions (otherwise the desires would not have been known). And the weeping is either a metonymy of effect, or of adjunct, for the actual complaints follow.",
+        "ja": "[写本注] ギリシャ語訳およびラテン語訳は、「彼らは戻った」の代わりに「彼らは座った」と読んでおり、これは母音付けの変更（彼らが持っていなかったもの）を伴っている。これは裁き人の書 20:26における同じ表現を反映している可能性がある。しかし、この変更はこの節をより良くするものではない。[翻訳注] ヘブライ語本文ではここで動詞のヘンディダイス（一意両語表現）が用いられており、一つの単語がもう一つの単語の副詞として機能している。文字通りには「そして彼らは戻り、そして彼らは泣いた」と読み、これは彼らが再び泣いたことを意味する。ここでは泣くことが不平の代わりに置かれており、欲求不満によって民がいかに感情的にかき乱されていたかを示している。ここでの言葉は全体として換喩（メトニミー）である。渇望は原因の換喩であり、それによって様々な表現が引き起こされた（そうでなければ欲望は知られなかったはずである）。そして泣くことは、実際の不平がそれに続くことから、結果の換喩、あるいは付随的表現の換喩である。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The Hebrew expresses the strong wish or longing idiomatically: “Who will give us flesh to eat?” It is a rhetorical expression not intended to be taken literally, but merely to give expression to the longing they had. See GKC 476 §151.a.1.",
+        "ja": "[翻訳注] ヘブライ語は、強い願いや切望を慣用的に「誰が私たちに肉を食べさせてくれるだろうか？」と表現している。これは文字通りに受け取られることを意図したものではなく、単に彼らが抱いていた切望を表現するための修辞的表現である。GKC 476 §151.a.1 を参照のこと。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The perfect tense here expresses the experience of a state of mind.[解説]  As with all who complain in such situations, their memory was selective. It was their bitter cries to the Lord from the suffering in bondage that God heard and answered. And now, shortly after being set free, their memory of Egypt is for things they do not now have. It is also somewhat unlikely that they as slaves had such abundant foods in Egypt.",
+        "ja": "[翻訳注] ここでの完了形は、ある心の状態の経験を表現している。[解説] このような状況で不平を言うすべての者たちと同様に、彼らの記憶は取捨選択されたものであった。神が聞き、答えられたのは、奴隷状態の苦しみの中から主に向けて発せられた彼らの苦しみの叫びであった。そして今、解放されて間もない彼らのエジプトに対する記憶は、現在自分たちが持っていないものに向けられている。また、奴隷であった彼らがエジプトでそのような豊かな食物を口にしていたということは、幾分考えにくいことでもある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The imperfect tense would here be the customary imperfect, showing continual or incomplete action in past time.",
+        "ja": "[翻訳注] ここでの未完了形は習慣的な未完了形であり、過去の時点における継続的または未完了のアクションを示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The adverb “freely” is from the word חָנַן (khanan, “to be gracious”), from which is derived the noun “grace.” The word underscores the idea of “free, without cost, for no reason, gratis.” Here the simple sense is “freely,” without any cost. But there may be more significance in the choice of the words in this passage, showing the ingratitude of the Israelites to God for His deliverance from bondage. To them now the bondage is preferable to the salvation – this is what angered the Lord.",
+        "ja": "[翻訳注] 副詞「価なしに、惜しげもなく」は、名詞「恵み」の派生元である חָנַן (khanan, 「恵み深いである」) という言葉に由来する。この単語は「自由に、代償なしに、理由なしに、タダで」という概念を強調している。ここでのシンプルな意味は、何の代償もなしに「自由に」ということである。しかし、この箇所における言葉の選択には、より深い意味が含まれている可能性があり、それは奴隷状態からの救いに対する神へのイスラエル人の不感謝を示している。彼らにとって今や奴隷状態のほうが救いよりも好ましいものとなっている――これこそが主を怒らせた原因であった。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “our souls.”",
+        "ja": "[翻訳注] ヘブライ語では「私たちのたましい」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Hebrews were complaining both about the bland taste of the manna and dehydration – they were parched in the wilderness.",
+        "ja": "[解説] ヘブライ人たちは、マナの味気なさと、脱水症状――荒野で喉がカラカラに渇ききっていることの両方について不平を言っていた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “before our eyes,” meaning that “we see nothing except this manna.”",
+        "ja": "[翻訳注] ヘブライ語では「私たちの目の前に」、すなわち「このマナのほかに私たちは何も見ていない」という意味である。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And its taste was like the taste of fresh olive oil.”",
+        "ja": "[翻訳注] ヘブライ語では「そしてその味は新鮮なオリーブ油の味のようであった」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The temporal clause is constructed of the infinitive construct from יָרָד (yarad) with a temporal preposition, followed by the subjective genitive.",
+        "ja": "[翻訳注] 時を表す節は、時を表す前置詞を伴った יָרָד (yarad) の不定詞構成形と、それに続く主格に相当する属格によって構成されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “came down.”",
+        "ja": "[翻訳注] ヘブライ語では「下った」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[解説]  Moses begins to feel the burden of caring for this people, a stubborn and rebellious people. His complaint shows how contagious their complaining has been. It is one thing to cry out to God about the load of ministry, but it is quite another to do it in such a way as to reflect a lack of faith in God’s provision. God has to remind the leader Moses that he, the Lord, can do anything. This is a variation on the theme from Exodus – “who am I that I should lead….”",
+        "ja": "[解説] モーセは、この民、すなわち強情で反逆的な民の世話をする重荷を感じ始めている。彼の不平は、彼らの不平がいかに伝染しやすかったかを示している。ミニストリーの重荷について神に叫び求めることと、神の備えに対する信仰の欠如を反映させるようなやり方でそれを行うこととは全く別のものである。神は指導者モーセに対し、ご自身――主――は何でもおできになるのだということを思い出させなければならなかった。これは出エジプト記からのテーマの変形である――「私が一体何者なので、導き出せなどと……」"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The participle “weeping” is functioning here as the noun in the accusative case, an adverbial accusative of state. It is explicative of the object.",
+        "ja": "[翻訳注] 分詞「泣いている」は、ここでは対格（目的格）の名詞として、状態を表す副詞的対格として機能している。それは目的語を詳しく説明している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “it was evil in the eyes of Moses.”",
+        "ja": "[翻訳注] ヘブライ語では「それはモーセの目に悪かった」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is the Hiphil of רָעַע (ra’a’, “to be evil”). Moses laments (with the rhetorical question) that God seems to have caused him evil.",
+        "ja": "[翻訳注] 動詞は רָעַע (ra'a', 「悪いである」) のヒフィル（Hiphil）形である。モーセは（修辞的な疑問文を用いて）神が自分に悪事をもたらしたかのように嘆いている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The infinitive construct with the preposition is expressing the result of not finding favor with God (see R. J. Williams, Hebrew Syntax, 12-13, §57). What Moses is claiming is that because he has been given this burden God did not show him favor.",
+        "ja": "[翻訳注] 前置詞を伴った不定詞構成形は、神から恵みを見いだせなかった結果を表現している（R. J. Williams, Hebrew Syntax, 12-13, §57 を参照のこと）。モーセが主張しているのは、この重荷を与えられたがゆえに神は自分に恵みを示されなかったということである。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  The questions Moses asks are rhetorical. He is actually affirming that they are not his people, that he did not produce them, but now is to support them. His point is that God produced this nation, but has put the burden of caring for their needs on him.",
+        "ja": "[解説] モーセが発する質問は修辞的である。彼は実際には、彼らが自分の民ではなく、自分が彼らを生み出したわけではないが、今や彼らを支えなければならないのだと主張している。彼の主張は、神がこの国民を生み出したにもかかわらず、そのニーズの世話をする重荷を自分に負わせたというものである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb means “to beget, give birth to.” The figurative image from procreation completes the parallel question, first the conceiving and second the giving birth to the nation.",
+        "ja": "[翻訳注] この動詞は「子を宿す、生み出す」を意味する。生殖に由来する比喩的イメージによって並行する質問が完成する。すなわち、最初は国民をみごもること、次に国民を生み出すことである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The word אֹמֵן (’omen) is often translated “nurse,” but the form is a masculine form and would better be rendered as a “foster parent.” This does not work as well, though, with the יֹנֵק (yoneq), the “sucking child.” The two metaphors are simply designed to portray the duty of a parent to a child as a picture of Moses’ duty for the nation. The idea that it portrays God as a mother pushes it too far (see M. Noth, Numbers [OTL], 86-87).",
+        "ja": "[翻訳注] אֹמֵן ('omen) という単語はしばしば「乳母」と訳されるが、この形は男性形であり、「養育係」あるいは「里親」と訳すのがより適切である。ただし、これは יֹנֵק (yoneq) すなわち「乳飲み子」とはあまりうまくいかない。この二つの比喩は、国家に対するモーセの義務の描写として、子どもに対する親の義務を描き出すよう単に意図されたものである。それが神を母親として描いているとする見方は、解釈の行き過ぎである（M. Noth, Numbers [OTL], 86-87 を参照のこと）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew text simply has “from where to me flesh?” which means “from where will I have meat?”",
+        "ja": "[翻訳注] ヘブライ語本文には単に「私にどこから肉が？」とあり、それは「どこから私は肉を手に入れられようか」を意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The cohortative coming after the imperative stresses purpose (it is an indirect volitive).",
+        "ja": "[翻訳注] 命令形の後に来るコホタティブ（希求法）は、目的を強調している（間接的な意志表現である）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word order shows the emphasis: “I am not able, I by myself, to bear all this people.” The infinitive לָשֵׂאת (lase’t) serves as the direct object of the verb. The expression is figurative, for bearing or carrying the people means being responsible for all their needs and cares.",
+        "ja": "[翻訳注] 語順が強調を示している。「私にはできない、私ひとりで、このすべての民を担うことは」。不定詞 לָשֵׂאת (lase't) は動詞の直接目的語として機能している。この表現は比喩的であり、民を担うあるいは背負うとは、彼らのすべての必要と心配りに対して責任を負うことを意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The subject of the verb “heavy” is unstated; in the context it probably refers to the people, or the burden of caring for the people. This responsibility was turning out to be a heavier responsibility than Moses anticipated. Alone he was totally inadequate.",
+        "ja": "[翻訳注] 動詞「重い」の主語は明記されていない。文脈においては、おそらく民、あるいは民の世話をするという重荷を指している。この責任は、モーセが予想していたよりもはるかに重い責任であることが判明しつつあった。ひとりの人間として彼は全く無力であった。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The participle expresses the future idea of what God is doing, or what he is going to be doing. Moses would rather be killed than be given a totally impossible duty over a people that were not his.",
+        "ja": "[翻訳注] 分詞は、神がしていること、あるいは神がしようとしていることという未来の概念を表現している。モーセは、自分の民でもない人々の上に完全に不可能な義務を課されるくらいなら、殺されるほうがましだと考えている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The imperative of הָרַג (harag) is followed by the infinitive absolute for emphasis. The point is more that the infinitive adds to the emphasis of the imperative mood, which would be immediate compliance.",
+        "ja": "[翻訳注] הָרַג (harag) の命令形の後に、強調のために絶対不定詞が続いている。要するに、不定詞が命令法の強調を強めており、即座の履行を意味するものである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “my own ruin” (NIV). The word “trouble” here probably refers to the stress and difficulty of caring for a complaining group of people. The suffix on the noun would be objective, perhaps stressing the indirect object of the noun – trouble for me. The expression “on my trouble” (בְּרָעָתִי, bÿra’ati) is one of the so-called tiqqune sopherim, or “emendations of the scribes.” According to this tradition the original reading in v. 15 was [to look] “on your evil” (בְּרָעָתֶךָ, bÿra’atekha), meaning “the calamity that you bring about” for Israel. However, since such an expression could be mistakenly thought to attribute evil to the Lord, the ancient scribes changed it to the reading found in the MT.",
+        "ja": "[翻訳注] あるいは「私の破滅」（NIV）。ここでの「災難、苦しみ」という単語はおそらく、不平を言う人々の群れの世話をするストレスと困難を指している。名詞につく接尾辞は目的格であり、おそらく名詞の間接目的語――私にとっての災難――を強調している。「私の災難の上に（בְּרָעָתִי, bÿra'ati）」という表現は、いわゆるティクネ・ソフェリム（tiqqune sopherim）、すなわち「写字生による修正」の一つである。この伝統によれば、15節の元の読みは [見ないように]「あなたの悪の上に（בְּרָעָתֶךָ, bÿra'atekha）」、すなわちイスラエルに対して「あなたがもたらす災い」を意味するものであった。しかし、そのような表現は誤って主に悪を帰するものとみなされかねないため、古代の写字生たちはそれをマソラ本文に見いだされる読みへと変更したのである。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Lord provides Spirit-empowered assistance for Moses. Here is another variation on the theme of Moses’ faith. Just as he refused to lead alone and was given Aaron to share the work, so here he protests the burden and will share it with seventy elders. If God’s servant will not trust wholeheartedly, that individual will not be used by God as he or she might have been. Others will share in the power and the work. Probably one could say that it was God’s will for others to share this leadership – but not to receive it through these circumstances.",
+        "ja": "[解説] 主は霊によって力を与えられた助けをモーセのために備えてくださる。ここにもモーセの信仰というテーマの別の変形がある。指導をひとりでることを拒み、働きを分かち合うためにアロンを与えられたのと同様に、ここでも彼は重荷について抗議し、七十人の長老たちとそれを分かち合うことになる。もし神の僕が全き心で信頼しないならば、その個人は神によって本来用いられ得たようには用いられないであろう。他の者たちがその力と働きに与ることになる。他の人々がこの指導的立場を分かち合うことが神の御心であったと言えるだろう――ただし、これらの状況を通じてそれを受け取ることは御心ではなかったが。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The “officials” (שֹׁטְּרִים, shottÿrim) were a group of the elders who seem to have had some administrative capacities. The LXX used the word “scribes.” For further discussion, see R. de Vaux, Ancient Israel, 69-70.",
+        "ja": "[翻訳注] 「司役たち」（שֹׁטְּרִים, shottÿrim）は、何らかの行政的権能を持っていたと思われる長老たちの一団であった。LXX（七十人訳）はこの語を「書記」と訳した。さらなる議論については、R. de Vaux, Ancient Israel, 69-70 を参照のこと。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The imperfect tense here is to be classified as a final imperfect, showing the result of this action by God. Moses would be relieved of some of the responsibility when these others were given the grace to understand and to resolve cases.",
+        "ja": "[翻訳注] ここでの未完了形は、結果を表す未完了形に分類されるもので、神によるこの行動の結果を示している。これらの他の者たちに事態を理解し解決するための恵みが与えられたとき、モーセの責任の一部は軽減されることになった。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hitpael is used to stress that they are to prepare for a holy appearance. The day was going to be special and so required their being set apart for it. But it is a holy day in the sense of the judgment that was to follow.",
+        "ja": "[翻訳注] ヒトパエル（Hithpael）は、彼らが神聖な出現のために備えをしなければならないことを強調するために用いられている。その日は特別な日であるため、そのために自分たちを聖別して分け置くことが求められた。しかしそれは、その後に続く裁きの意味において聖なる日なのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in the ears.”",
+        "ja": "[翻訳注] ヘブライ語では「耳に」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Possibly this could be given an optative translation, to reflect the earlier one: “O that someone would give….” But the verb is not the same; here it is the Hiphil of the verb “to eat” – “who will make us eat” (i.e., provide meat for us to eat).",
+        "ja": "[翻訳注] おそらくこれは、先ほどの表現を反映させるために希求法的な訳を与えることも可能である：「誰かが与えてくれたらなあ……」。しかし動詞は同じではない。ここでは「食べる」という動詞のヒフィル（Hiphil）形である――「私たちに食べさせる」（すなわち、私たちが食べるための肉を備える）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “life” is not in the text. The expression is simply “it was for us,” or “we had good,” meaning “we had it good,” or “life was good.”",
+        "ja": "[翻訳注] 「命、生活」という単語は本文にはない。表現は単に「それは私たちにとってであった」、あるいは「私たちは良かった」であり、「私たちは良い思いをした」、あるいは「生活は良かった」を意味する。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a month of days.” So also in v. 21.",
+        "ja": "[翻訳注] ヘブライ語では「日々のひと月」。21節においても同様である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The expression לְזָרָה (lÿzarah) has been translated “ill” or “loathsome.” It occurs only here in the Hebrew Bible. The Greek text interprets it as “sickness.” It could be nausea or vomiting (so G. B. Gray, Numbers [ICC], 112) from overeating.",
+        "ja": "[翻訳注] 表現 לְזָרָה (lÿzarah) は「病気」あるいは「忌むべきもの」と訳されてきた。これはヘブライ語聖書においてここにしか現れない。ギリシャ語訳はこれを「病気」と解釈している。それは食べ過ぎによる吐き気や嘔吐である可能性がある（G. B. Gray, Numbers [ICC], 112 を参照のこと）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The explanation is the interpretation of their behavior – it is in reality what they have done, even though they would not say they despised the Lord. They had complained and shown a lack of faith and a contempt for the program, which was in essence despising the Lord.",
+        "ja": "[解説] この説明は彼らの行動の解釈である――たとえ自分たちが主を侮ったなどとは言わないにしても、それは現実において彼らが行ったことそのものである。彼らは不平を言い、信仰の欠如を示し、その計画に対する軽蔑を示したが、それは本質的に主を侮ることにほかならなかった。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The use of the demonstrative pronoun here (“why is this we went out …”) is enclitic, providing emphasis to the sentence: “Why in the world did we ever leave Egypt?”",
+        "ja": "[翻訳注] ここでの指示代名詞の使用（「私たちがエジプトを出てきたのは、一体どうしてこのようになろうか」）は強調的であり、文に力強さを与えている：「一体どうして私たちはエジプトを出たりしたのだろうか」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the people who I am in their midst,” i.e., among whom I am.",
+        "ja": "[翻訳注] ヘブライ語では「私がそのただ中にいる民」、すなわち「私がいるところの民」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew sentence stresses the number. The sentence begins “600,000….”",
+        "ja": "[翻訳注] ヘブライ語の文はその数を強調している。文は「六十万人……」で始まる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The word order places the object first here: “Meat I will give them.” This adds to the contrast between the number and the statement of the Lord.",
+        "ja": "[翻訳注] 語順によってここでは目的語が最初に置かれている：「肉をわたしは彼らに与えよう」。これは、数と主の宣言との間の対比を強めている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The verb is the perfect tense with a vav (ו) consecutive, carrying the sequence from the preceding imperfect tense. However, this verb may be subordinated to the preceding to express a purpose clause.",
+        "ja": "[翻訳注] 動詞は連続の vav (ו) を伴う完了形であり、前の未完了形からの連続性を担っている。しかし、この動詞は目的節を表現するために前の動詞に従属している可能性もある。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  This anthropomorphic expression concerns the power of God. The “hand of the Lord” is idiomatic for his power, what he is able to do. The question is rhetorical; it is affirming that his hand is not shortened, i.e., that his power is not limited. Moses should have known this, and so this is a rebuke for him at this point. God had provided the manna, among all the other powerful acts they had witnessed. Meat would be no problem. But the lack of faith by the people was infectious.",
+        "ja": "[解説] この擬人化された表現は神の力に関するものである。「主の手」は、その力、すなわち彼が行うことのできることの慣用句である。その質問は修辞的であり、彼の手が短かすぎていないこと、すなわち彼の力が制限されていないことを肯定している。モーセはこれを知っているべきであったため、これはこの点における彼に対する戒めである。神は、彼らが目撃した他のすべての力ある業の中でも、マナを備えてくださっていた。肉の問題など何でもなかったはずである。しかし、民の信仰の欠如は伝染性のものであった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “will happen” (TEV); KJV “shall come to pass unto thee.”",
+        "ja": "[翻訳注] あるいは「起こるだろう」（TEV）；KJV「あなたに成就するであろう」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “on him”; the referent (Moses) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語では「彼の上に」；明瞭にするために訳文では指示対象（モーセ）が明記されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The temporal clause is introduced by the temporal indicator וַיְהִי (vayÿhi), which need not be translated. It introduces the time of the infinitive as past time narrative. The infinitive construct is from נוּחַ (nuakh, “to rest”). The figurative expression of the Spirit resting upon them indicates the temporary indwelling and empowering by the Spirit in their lives.",
+        "ja": "[翻訳注] 時を表す節は時の指標 וַיְהִי (vayÿhi) によって導き出されており、これは翻訳する必要はない。それは過去の物語としての不定詞の時を導入している。不定詞構成形は נוּחַ (nuakh, 「休む、とどまる」) に由来する。霊が彼らの上に留まるという比喩的表現は、彼らの人生における霊の一時的な内住と力づけを示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The text may mean that these men gave ecstatic utterances, much like Saul did when the Spirit came upon him and he made the same prophetic utterances (see 1 Sam 10:10-13). But there is no strong evidence for this (see K. L. Barker, “Zechariah,” EBC 7:605-6). In fact there is no consensus among scholars as to the origin and meaning of the verb “prophesy” or the noun “prophet.” It has something to do with speech, being God’s spokesman or spokeswoman or making predictions or authoritative utterances or ecstatic utterances. It certainly does mean that the same Holy Spirit, the same divine provision that was for Moses to enable him to do the things that God had commanded him to do, was now given to them. It would have included wisdom and power with what they were saying and doing – in a way that was visible and demonstrable to the people! The people needed to know that the same provision was given to these men, authenticating their leadership among the clans. And so it could not simply be a change in their understanding and wisdom.",
+        "ja": "[翻訳注] この本文は、サウルが霊に満たされて同じ預言的発言をした時（サムエル記上 10:10-13を参照）のように、これらの人々が熱狂的な発話を行ったことを意味している可能性がある。しかし、これを裏付ける強い証拠はない（K. L. Barker, “Zechariah,” EBC 7:605-6 を参照のこと）。実際、「預言する」という動詞や「預言者」という名詞の起源と意味について学者たちの間で一致した見解はない。それは発話に関係しており、神の代弁者（男または女）になること、あるいは預言や権威ある発言、熱狂的な発言をすることなどを意味する。それが確実に意味しているのは、モーセが神から命じられたことを行うのを可能にするためにモーセに与えられたのと同じ聖霊、同じ神の備えが、今や彼らにも与えられたということである！ それには、彼らが語り行っていることに対する知恵と力が含まれていた――それは民にとって目に見え、証明できるような仕方で！ 民は、これらの人々の間での彼らの指導権を確証する同じ備えが与えられたことを知る必要があった。したがって、それは単なる彼らの理解力や知恵の変化ではあり得なかった。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The final verb of the clause stresses that this was not repeated: “they did not add” is the literal rendering of וְלֹא יָסָפוּ (vÿlo’ yasafu). It was a one-time spiritual experience associated with their installation.",
+        "ja": "[翻訳注] 節の最後の動詞は、これが繰り返されなかったことを強調している：「彼らは付け加えなかった」が وְלֹא יָסָפוּ (vÿlo' yasafu) の文字通りの訳である。それは彼らの就任に伴う一度きりの霊的経験であった。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form of the word is the passive participle כְּתֻבִים (kÿtuvim, “written”). It is normally taken to mean “among those registered,” but it is not clear if that means they were to be among the seventy or not. That seems unlikely since there is no mention of the seventy being registered, and vv. 24-25 says all seventy went out and prophesied. The registration may be to eldership, or the role of the officer.",
+        "ja": "[翻訳注] この単語の形は受動分詞 כְּתֻבִים (kÿtuvim, 「書かれた」) である。通常は「登録された者たちの中に」という意味にとられるが、それが彼らが七十人の中に含まれるべきであったかどうかを意味するかどうかは明確ではない。七十人が登録されたという言及はなく、24-25節は七十人全員が出て行って預言したと述べているため、それはありそうにないように思われる。登録は長老職へのもの、あるいは役職へのものであるかもしれない。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The article indicates that the “young man” was definite in the mind of the writer, but indefinite in English.",
+        "ja": "[翻訳注] 定冠詞は、その「若い男」が書き手の心の中で特定のものであったことを示しているが、英語（および日本語）では不定となる。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The form is the Piel participle מְשָׁרֵת (mÿsharet), meaning “minister, servant, assistant.” The word has a loftier meaning than the ordinary word for slave.",
+        "ja": "[翻訳注] その形はピエル（Piel）分詞 מְשָׁרֵת (mÿsharet) であり、「仕える者、従者、補佐官」を意味する。この単語は奴隷を表す通常の単語よりも高尚な意味を持っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb is בָּחַר (bakhar, “to choose”); here the form is the masculine plural participle with a suffix, serving as the object of the preposition מִן (min). It would therefore mean “[one of] his chosen men,” or “[one of] his choice men.”",
+        "ja": "[翻訳注] 動詞は בָּחַר (bakhar, 「選ぶ」) である。ここの形は接尾辞を伴う男性複数分詞であり、前置詞 מִן (min) の目的語として機能している。したがって、それは「彼の選ばれた者たちの[一人]」、あるいは「彼の選び抜かれた者たちの[一人]」を意味することになる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “answered and said.”",
+        "ja": "[翻訳注] ヘブライ語では「答えて言った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The effort of Joshua is to protect Moses’ prerogative as leader by stopping these men in the camp from prophesying. Joshua did not understand the significance in the Lord’s plan to let other share the burden of leadership.",
+        "ja": "[解説] ヨシュアの努力は、陣営にいるこれらの人々が預言するのをやめさせることによって、指導者としてのモーセの特権を守ろうとするものである。ヨシュアは、指導者の重荷を他の者たちに分かち持たせるという主の計画におけるその意義を理解していなかった。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Piel participle מְקַנֵּא (mÿqanne’) serves as a verb here in this interrogative sentence. The word means “to be jealous; to be envious.” That can be in a good sense, such as with the translation “zeal,” or it can be in a negative sense as here. Joshua’s apparent “zeal” is questioned by Moses – was he zealous/envious for Moses sake, or for some other reason?",
+        "ja": "[翻訳注] ピエル（Piel）分詞 מְקַנֵּא (mÿqanne') は、この疑問文の中で動詞として機能している。この単語は「ねたむ；うらやむ」を意味する。それは「熱心」という訳語のように良い意味である場合もあれば、ここでのように否定的な意味である場合もある。ヨシュアの明らかな「熱心さ」はモーセによって疑問視されている――彼はモーセのために熱心であったのか、それとも他の何らかの理由によるのか？"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The optative is expressed by the interrogative clause in Hebrew, “who will give….” Moses expresses here the wish that the whole nation would have that portion of the Spirit. The new covenant, of course, would turn Moses’ wish into a certainty.",
+        "ja": "[翻訳注] 希求法はヘブライ語の疑問節「誰が与えてくれるだろうか……」によって表現されている。モーセはここで、国民全体が御霊のその分け前を受けるようにとの願いを表現している。もちろん、新しい契約はモーセのこの願いを確実なものに変えることになる。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[解説]  The irony in this chapter is expressed in part by the use of the word רוּחַ (ruakh). In the last episode it clearly meant the Spirit of the Lord that empowered the men for their spiritual service. But here the word is “wind.” Both the spiritual service and the judgment come from God.",
+        "ja": "[解説] この章における皮肉は、רוּחַ (ruakh) という単語の使用によって部分的に表現されている。前のエピソードでは、それは霊的な奉仕のために人々を力づけた主の御霊を明らかに意味していた。しかしここでは、その単語は「風」である。霊的な奉仕も裁きも、両方とも神から来るのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb means “burst forth” or “sprang up.” See the ways it is used in Gen 33:12, Judg 16:3, 14; Isa 33:20.",
+        "ja": "[翻訳注] この動詞は「吹き出す」あるいは「わき起こる」を意味する。創世記 33:12、裁き人の書 16:3, 14、イザヤ書 33:20 での使用法を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The “quail” ordinarily cross the Sinai at various times of the year, but what is described here is not the natural phenomenon. Biblical scholars looking for natural explanations usually note that these birds fly at a low height and can be swatted down easily. But the description here is more of a supernatural supply and provision. See J. Gray, “The Desert Sojourn of the Hebrews and the Sinai Horeb Tradition,” VT 4 (1954): 148-54.",
+        "ja": "[解説] 「うずら」は通常、一年の様々な時期にシナイ半島を横断するが、ここで描写されているのは自然現象ではない。自然科学的説明を探そうとする聖書学者たちは通常、これらの鳥が低い高さで飛行し、簡単に叩き落とすことができると指摘する。しかしここでの描写は、むしろ超自然的な供給と備えのものである。J. Gray, “The Desert Sojourn of the Hebrews and the Sinai Horeb Tradition,” VT 4 (1954): 148-54 を参照のこと。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “left them fluttering.”",
+        "ja": "[翻訳注] あるいは「羽ばたかせたまま残した」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “two cubits.” The standard cubit in the OT is assumed by most authorities to be about eighteen inches (45 cm) in length.",
+        "ja": "[翻訳注] ヘブライ語では「二キュビト」。旧約聖書における標準的なキュビトは、ほとんどの権威者によって約18インチ（45センチメートル）の長さであると仮定されている。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “rose up, stood up.”",
+        "ja": "[翻訳注] ヘブライ語では「立ち上がり、立った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is about two thousand liters.",
+        "ja": "[解説] これは約2,000リットルである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The verb (a preterite) is followed by the infinitive absolute of the same root, to emphasize the action of spreading out the quail. Although it is hard to translate the expression, it indicates that they spread these quail out all over the area. The vision of them spread all over was evidence of God’s abundant provision for their needs.",
+        "ja": "[翻訳注] 動詞（完了形）の後に同じ語根の絶対不定詞が続き、うずらを広げる行為を強調している。その表現を訳すのは難しいが、それは彼らがこれらのうずらをその地域一帯に広げたことを示している。それらが一面に広げられている光景は、彼らの必要に対する神の豊かな備えの証拠であった。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb is a prefixed conjugation, normally an imperfect tense. But coming after the adverb טֶּרֶם (terem) it is treated as a preterite.",
+        "ja": "[翻訳注] 動詞は接頭辞活用であり、通常は未完了形である。しかし副詞 טֶּרֶם (terem) の後に来るため、完了形として扱われる。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[解説]  The name “the graves of the ones who craved” is again explained by a wordplay, a popular etymology. In Hebrew קִבְרוֹת הַתַּאֲוָה (qivrot hatta’avah) is the technical name. It is the place that the people craved the meat, longing for the meat of Egypt, and basically rebelled against God. The naming marks another station in the wilderness where the people failed to accept God’s good gifts with grace and to pray for their other needs to be met.",
+        "ja": "[解説] 「欲求を抱いた者たちの墓」という名前は、再び言葉遊び、すなわち俗謡的語源によって説明されている。ヘブライ語では קִבְרוֹת הַתַּאֲוָה (qivrot hatta'avah) が専門的な名称である。ここは、民が肉を欲しがり、エジプトの肉を恋い慕い、基本的に神に反逆した場所である。この命名は、民が神の素晴らしい贈り物を感謝をもって受け入れず、自分たちの他の必要を満たすために祈ることをしなかった、荒野におけるもう一つの宿場を印づけている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “different food” are implied, and are supplied in the translation for clarity.",
+        "ja": "[翻訳注] 「異なる食物」という言葉は暗示されているものであり、明瞭にするために訳出の際に補われている。"
+      }
+    ]
+  }
+}

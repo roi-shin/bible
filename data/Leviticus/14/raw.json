@@ -1,0 +1,860 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and.&#8221; Here KJV, ASV use a semicolon; NASB begins a new sentence with &#8220;Now.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The alternative rendering, &#8220;when it is reported to the priest&#8221; may be better in light of the fact that the priest had to go outside the camp. Since he or she had been declared &#8220;unclean&#8221; by a priest (<span class=\"bibleref\" title=\"Leviticus 13:3\">Lev 13:3</span>) and was, therefore, required to remain outside the camp (<span class=\"bibleref\" title=\"Leviticus 13:46\">13:46</span>), the formerly diseased person could not reenter the camp until he or she had been declared &#8220;clean&#8221; by a priest (cf. <span class=\"bibleref\" title=\"Leviticus 13:6\">Lev 13:6</span> for &#8220;declaring clean.&#8221;). See especially J. Milgrom, <i>Leviticus</i> (AB), 1:831, who supports this rendering both here and in <span class=\"bibleref\" title=\"Leviticus 13:2,9\">Lev 13:2 and 9</span>. B. A. Levine, however, prefers the rendering in the text (<i>Leviticus</i> [JPSTC], 76 and 85). It is the most natural meaning of the verb (i.e., &#8220;to be brought&#8221; from <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1493;&#1465;&#1488;</font> [<font face=\"Scholar\">bo</font>&#8217;, &#8220;to come&#8221;] in the Hophal stem, which means &#8220;to be brought&#8221; in all other occurrences in Leviticus other than <span class=\"bibleref\" title=\"Leviticus 13:2,9;14:2\">13:2, 9, and 14:2</span>; see only <span class=\"bibleref\" title=\"Leviticus 6:30;10:18;11:32;16:27\">6:30; 10:18; 11:32; and 16:27</span>), it suits the context well in <span class=\"bibleref\" title=\"Leviticus 13:2\">13:2</span>, and the rendering &#8220;to be brought&#8221; is supported by <span class=\"bibleref\" title=\"Leviticus 13:7\">13:7</span>b, &#8220;he shall show himself to the priest a second time.&#8221; Although it is true that the priest needed to go outside the camp to examine such a person, the person still needed to &#8220;be brought&#8221; to the priest there. The translation of vv. <span class=\"bibleref\" title=\"Leviticus 14:2-3\">2-3</span> employed here suggests that v. <span class=\"bibleref\" title=\"Leviticus 14:2\">2</span> introduces the proceeding and then v. <span class=\"bibleref\" title=\"Leviticus 14:3\">3</span> goes on to describe the specific details of the examination and purification.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he shall be brought to the priest and the priest shall go out to from outside to the camp and the priest shall see [it].&#8221; The understood &#8220;it&#8221; refers to the skin infection itself (see the note on <span class=\"bibleref\" title=\"Leviticus 13:3\">13:3</span> above). The referent has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And behold, the diseased infection has been healed from the diseased person.&#8221; The expression &#8220;diseased infection&#8221; has been translated as simply &#8220;infection&#8221; to avoid redundancy here in terms of English style.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term rendered here &#8220;crimson fabric&#8221; consists of two Hebrew words and means literally, &#8220;crimson of worm&#8221; (in this order only in <span class=\"bibleref\" title=\"Leviticus 14:4,6,49,51,52\">Lev 14:4, 6, 49, 51, 52</span> and <span class=\"bibleref\" title=\"Numbers 19:6\">Num 19:6</span>; for the more common reverse order, &#8220;worm of crimson,&#8221; see, e.g., the colored fabrics used in making the tabernacle, <span class=\"bibleref\" title=\"Exodus 25:4\">Exod 25:4</span>, etc.). This particular &#8220;worm&#8221; is an insect that lives on the leaves of palm trees, the eggs of which are the source for a &#8220;crimson&#8221; dye used to color various kinds of cloth (B. A. Levine, <i>Leviticus</i> [JPSTC], 86). That a kind of dyed &#8220;fabric&#8221; is intended, not just the dye substance itself, is made certain by the dipping of it along with the other ritual materials listed here into the blood and water mixture for sprinkling on the person being cleansed (<span class=\"bibleref\" title=\"Leviticus 14:6\">Lev 14:6</span>; cf. also the burning of it in the fire of the red heifer in <span class=\"bibleref\" title=\"Numbers 19:6\">Num 19:6</span>). Both the reddish color of cedar wood and the crimson colored fabric seem to correspond to the color of blood and may, therefore, symbolize either &#8220;life,&#8221; which is in the blood, or the use of blood to &#8220;make atonement&#8221; (see, e.g., <span class=\"bibleref\" title=\"Genesis 9:4\">Gen 9:4</span> and <span class=\"bibleref\" title=\"Leviticus 17:11\">Lev 17:11</span>). See further the note on v. <span class=\"bibleref\" title=\"Leviticus 14:7\">7</span> below.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Twigs of hyssop</i> (probably one or several species of <i>marjoram thymus</i>), a spice and herb plant that grows out of walls in Palestine (see <span class=\"bibleref\" title=\"1 Kings 4:33\">1 Kgs 4:33</span> [<span class=\"bibleref\" title=\"1 Kings 5:13\">5:13</span> HT], <i>HALOT</i> 27 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1461;&#1494;&#1493;&#1465;&#1489;</font>, and J. E. Hartley, <i>Leviticus</i> [WBC], 195), were particularly leafy and therefore especially useful for sprinkling the purifying liquid (cf. vv. <span class=\"bibleref\" title=\"Leviticus 14:5-7\">5-7</span>). Many of the details of the ritual procedure are obscure. It has been proposed, for example, that the &#8220;cedar wood&#8221; was a stick to which the hyssop was bound with the crimson material to make a sort of sprinkling instrument (Hartley, 195). In light of the burning of these three materials as part of the preparation of the ashes of the red heifer in <span class=\"bibleref\" title=\"Numbers 19:5-6\">Num 19:5-6</span>, however, this seems unlikely.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The MT reads literally, &#8220;And the priest shall command and he shall take.&#8221; Clearly, the second verb (&#8220;and he shall take&#8221;) contains the thrust of the priest&#8217;s command, which suggests the translation &#8220;that he take&#8221; (cf. also v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span>a). Since the priest issues the command here, he cannot be the subject of the second verb because he cannot be commanding himself to &#8220;take&#8221; up these ritual materials. Moreover, since the ritual is being performed &#8220;for the one being cleansed,&#8221; the antecedent of the pronoun &#8220;he&#8221; cannot refer to him. The LXX, Smr, and Syriac versions have the third person plural here and in v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span>a, which corresponds to other combinations with the verb <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1510;&#1460;&#1493;&#1468;&#1464;&#1492;</font> (<font face=\"Scholar\">v&#255;tsivvah</font>) &#8220;and he (the priest) shall command&#8221; in this context (see <span class=\"bibleref\" title=\"Leviticus 13:54;14:36,40\">Lev 13:54; 14:36, 40</span>). This suggests an impersonal (i.e., &#8220;someone shall take&#8221; and &#8220;someone shall slaughter,&#8221; respectively) or perhaps even passive rendering of the verbs in <span class=\"bibleref\" title=\"Leviticus 14:4,5\">14:4, 5</span> (i.e., &#8220;there shall be taken&#8221; and &#8220;there shall be slaughtered,&#8221; respectively). The latter option has been chosen here.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one cleansing himself&#8221; (i.e., Hitpael participle of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font>, <font face=\"Scholar\">taher</font>, &#8220;to be clean&#8221;).</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the priest shall command and he shall slaughter.&#8221; See the note on &#8220;be taken up&#8221; (v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;into a vessel of clay over living water.&#8221; The expression &#8220;living [i.e., &#8216;fresh&#8217;] water&#8221; (cf. <span class=\"bibleref\" title=\"Leviticus 14:50;15:13\">Lev 14:50; 15:13</span>; <span class=\"bibleref\" title=\"Numbers 19:17\">Num 19:17</span>) refers to water that flows. It includes such water sources as artesian wells (<span class=\"bibleref\" title=\"Genesis 26:19\">Gen 26:19</span>; <span class=\"bibleref\" title=\"Song of Solomon 4:15\">Song of Songs 4:15</span>), springs (<span class=\"bibleref\" title=\"Jeremiah 2:13\">Jer 2:13</span>, as opposed to cisterns; cf. <span class=\"bibleref\" title=\"Jeremiah 17:13\">17:13</span>), and flowing streams (<span class=\"bibleref\" title=\"Zechariah 14:8\">Zech 14:8</span>). In other words, this is water that has not stood stagnant as, for example, in a sealed-off cistern.<p class=\"note\"><span class=\"notetype\">sn</span> Although there are those who argue that the water and the blood rites are separate (e.g., E. S. Gerstenberger, <i>Leviticus</i> [OTL], 175-76), it is usually agreed that v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span>b refers to the slaughtering of the bird in such a way that its blood runs into the bowl, which contained fresh water (see, e.g., N. H. Snaith, <i>Leviticus and Numbers</i> [NCBC], 74; G. J. Wenham, <i>Leviticus</i> [NICOT], 208; J. Milgrom, <i>Leviticus</i> [AB], 1:836-38; cf. esp. <span class=\"bibleref\" title=\"Leviticus 14:51\">Lev 14:51</span>b, &#8220;and dip them in the blood of the slaughtered bird <i>and in</i> the fresh water&#8221;). This mixture of blood and water was then to be sprinkled on the person being cleansed from the disease.</p></div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;the live bird he [i.e., the priest] shall take it.&#8221; Although the MT has no <font face=\"Galaxie Unicode Hebrew\">&#1493;</font> (<font face=\"Scholar\">vav</font>, &#8220;and&#8221;) at the beginning of this clause, a few medieval Hebrew <sc>mss</sc> and Smr have one and the LXX, Syriac, and Vulgate translate as if it is there. The &#8220;but&#8221; in the present translation reflects this text critical background, the object-first word order in the clause with the resumptive pronoun at the end, and the obvious contrast between the slaughtered bird in v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span> and the live bird in v. <span class=\"bibleref\" title=\"Leviticus 14:6\">6</span>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one cleansing himself&#8221; (i.e., Hitpael participle of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font> [<font face=\"Scholar\">taher</font>, &#8220;to be clean&#8221;]).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he shall make him clean.&#8221; The verb is the Piel of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font> (<font face=\"Scholar\">taher</font>, &#8220;to be clean&#8221;), here used as a so-called &#8220;declarative&#8221; Piel (i.e., &#8220;to declare clean&#8221;; cf. <span class=\"bibleref\" title=\"Leviticus 13:6\">13:6</span>, etc.).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The reddish color of cedar wood and the crimson colored fabric called for in v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span> (see the note there, esp. the association with the color of blood) as well as the priestly commands to bring &#8220;two live&#8221; birds (v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span>a), to slaughter one of them &#8220;over fresh water&#8221; (literally &#8220;<i>living</i> water,&#8221; v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span>b), and the subsequent ritual with the (second) &#8220;live&#8221; bird (vv. <span class=\"bibleref\" title=\"Leviticus 14:6-7\">6-7</span>) combine to communicate the concept of &#8220;life&#8221; and &#8220;being alive&#8221; in this passage. This contrasts with the fear of death associated with the serious skin diseases in view here (see, e.g., Aaron&#8217;s description of Miriam&#8217;s skin disease in <span class=\"bibleref\" title=\"Numbers 12:12\">Num 12:12</span>, &#8220;Do not let her be like the dead one when it goes out from its mother&#8217;s womb and its flesh half eaten away&#8221;). Since the slaughtered bird here is not sacrificed at the altar and is not designated as an expiatory &#8220;sin offering,&#8221; this ritual procedure probably symbolizes the renewed life of the diseased person and displays it publicly for all to see. It is preparatory to the expiatory rituals that will follow (vv. <span class=\"bibleref\" title=\"Leviticus 14:10-20\">10-20</span>, esp. vv. <span class=\"bibleref\" title=\"Leviticus 14:18-20\">18-20</span>), but is not itself expiatory. Thus, although there are important similarities between the bird ritual here, the scapegoat on the Day of Atonement (<span class=\"bibleref\" title=\"Leviticus 16:20-22\">Lev 16:20-22</span>), and the red heifer for cleansing from corpse contamination (), this bird ritual is different in that the latter two constitute &#8220;sin offerings&#8221; (<span class=\"bibleref\" title=\"Leviticus 16:5,8-10\">Lev 16:5, 8-10</span>; <span class=\"bibleref\" title=\"Numbers 19:9,17\">Num 19:9, 17</span>). Neither of the birds in <span class=\"bibleref\" title=\"Leviticus 14:4-7\">Lev 14:4-7</span> is designated or treated as a &#8220;sin offering.&#8221; Nevertheless, the very nature of the live bird ritual itself and its obvious similarity to the scapegoat ritual suggests that the patient&#8217;s disease has been removed far away so that he or she is free from its effects both personally and communally.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one cleansing himself&#8221; (i.e., Hitpael participle of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font> [<font face=\"Scholar\">taher</font>, &#8220;to be clean&#8221;]).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he shall be clean&#8221; (so ASV). The end result of the ritual procedures in vv. <span class=\"bibleref\" title=\"Leviticus 14:4-7\">4-7</span> and the washing and shaving in v. <span class=\"bibleref\" title=\"Leviticus 14:8\">8</span>a is that the formerly diseased person has now officially become clean in the sense that he can reenter the community (see v. <span class=\"bibleref\" title=\"Leviticus 14:8\">8</span>b; contrast living outside the community as an unclean diseased person, <span class=\"bibleref\" title=\"Leviticus 13:46\">Lev 13:46</span>). There are, however, further cleansing rituals and pronouncements for him to undergo in the tabernacle as outlined in vv. <span class=\"bibleref\" title=\"Leviticus 14:10-20\">10-20</span> (see Qal &#8220;be[come] clean&#8221; in vv. <span class=\"bibleref\" title=\"Leviticus 14:9,20\">9 and 20</span>, Piel &#8220;pronounce clean&#8221; in v. <span class=\"bibleref\" title=\"Leviticus 14:11\">11</span>, and Hitpael &#8220;the one being cleansed&#8221; in vv. <span class=\"bibleref\" title=\"Leviticus 14:11,14,17,18,19\">11, 14, 17, 18, and 19</span>). Obviously, in order to enter the tabernacle he must already &#8220;be clean&#8221; in the sense of having access to the community.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And it shall be on the seventh day.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he shall be clean&#8221; (see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:8\">8</span>).</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The subject &#8220;he&#8221; probably refers to the formerly diseased person in this case (see the notes on <span class=\"bibleref\" title=\"Leviticus 1:5\">Lev 1:5</span>a, 6a, and 9a).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This term is often rendered &#8220;fine flour,&#8221; but it refers specifically to wheat as opposed to barley (B. A. Levine, <i>Leviticus</i> [JPSTC], 10) and, although the translation &#8220;flour&#8221; is used here, it may indicate &#8220;grits&#8221; rather than finely ground flour (J. Milgrom, <i>Leviticus</i> [AB], 1:179; see the note on <span class=\"bibleref\" title=\"Leviticus 2:1\">Lev 2:1</span>). The unit of measure is most certainly an &#8220;ephah&#8221; even though it is not stated explicitly (see, e.g., <span class=\"bibleref\" title=\"Numbers 28:5\">Num 28:5</span>; cf. <span class=\"bibleref\" title=\"Numbers 15:4,6,8\">15:4, 6, 8</span>), and three-tenths of an ephah would amount to about a gallon, or perhaps one-third of a bushel (J. E. Hartley, <i>Leviticus</i> [WBC], 196; Milgrom, 845). Since the normal amount of flour for a lamb is one-tenth of an ephah (<span class=\"bibleref\" title=\"Numbers 28:4-5\">Num 28:4-5</span>; cf. <span class=\"bibleref\" title=\"Numbers 15:4\">15:4</span>), three-tenths is about right for the three lambs offered in <span class=\"bibleref\" title=\"Leviticus 14:10-20\">Lev 14:10-20</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> A &#8220;log&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1500;&#1465;&#1490;</font>, <font face=\"Scholar\">log</font>) of oil is about one-sixth of a liter, or one-third of a pint, or two-thirds of a cup.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The MT here is awkward to translate into English. It reads literally, &#8220;and the priest who pronounces clean (Piel participle of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font>, <font face=\"Scholar\">taher</font>) shall cause to stand (Hiphil of <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1502;&#1463;&#1491;</font>, &#8217;<font face=\"Scholar\">amad</font>) the man who is cleansing himself (Hitpael participle of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font>) and them&#8221; (i.e., the offerings listed in v. <span class=\"bibleref\" title=\"Leviticus 14:10\">10</span>; the referent has been specified in the translation for clarity). Alternatively, the Piel of <font face=\"Galaxie Unicode Hebrew\">&#1496;&#1464;&#1492;&#1461;&#1512;</font> could be rendered &#8220;who performs the cleansing/purification&#8221; (J. Milgrom, <i>Leviticus</i> [AB], 1:827), perhaps even as a technical term for one who holds the office of &#8220;purification priest&#8221; (B. A. Levine, <i>Leviticus</i> [JPSTC], 87). It is probably better, however, to retain the same meaning here as in v. <span class=\"bibleref\" title=\"Leviticus 14:7\">7</span> above (see the note there regarding the declarative Piel use of this verb).</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the priest shall take the one lamb.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> See the note on <span class=\"bibleref\" title=\"Leviticus 5:15\">Lev 5:15</span> above. The primary purpose of the &#8220;guilt offering&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1488;&#1464;&#1513;&#1473;&#1464;&#1501;</font>, &#8217;<font face=\"Scholar\">asham</font>) was to &#8220;atone&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1460;&#1508;&#1468;&#1462;&#1512;</font>, <font face=\"Scholar\">kipper</font>, &#8220;to make atonement,&#8221; see v. <span class=\"bibleref\" title=\"Leviticus 14:18\">18</span> below and the note on <span class=\"bibleref\" title=\"Leviticus 1:4\">Lev 1:4</span>) for &#8220;trespassing&#8221; on the <sc>Lord</sc>&#8217;s &#8220;holy things,&#8221; whether sacred objects or sacred people. It is, therefore, closely associated with the reconsecration of the <sc>Lord</sc>&#8217;s holy people as, for example, here and in the case of the corpse contaminated Nazirite (<span class=\"bibleref\" title=\"Numbers 6:11\">Num 6:11</span>b-12). Since the nation of Israel was &#8220;a kingdom of priests and a <i>holy</i> nation&#8221; to the <sc>Lord</sc> (<span class=\"bibleref\" title=\"Exodus 19:6\">Exod 19:6</span>; cf. the blood splashed on all the people in <span class=\"bibleref\" title=\"Exodus 24:8\">Exod 24:8</span>), the skin diseased person was essentially a member of the &#8220;holy nation&#8221; who had been expelled from the community. Therefore, he or she had been desecrated and the guilt offering was essential to restoring him or her to the community. In fact, the manipulation of blood and oil in the guilt offering ritual procedure for the healed person (see vv. <span class=\"bibleref\" title=\"Leviticus 14:14-18\">14-18</span> below) is reminiscent of that employed for the ordination offering in the consecration of the holy Aaronic priests of the nation (<span class=\"bibleref\" title=\"Exodus 29:19-21\">Exod 29:19-21</span>; <span class=\"bibleref\" title=\"Leviticus 8:22-30\">Lev 8:22-30</span>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;wave them [as] a wave offering before the <sc>Lord</sc>&#8221; (NAB similar). See the note on <span class=\"bibleref\" title=\"Leviticus 7:30\">Lev 7:30</span> and the literature cited there. Other possible translations include &#8220;elevate them [as] an elevation offering before the <sc>Lord</sc>&#8221; (cf. NRSV) or &#8220;present them [as] a presentation offering before the <sc>Lord</sc>.&#8221; To be sure, the actual physical &#8220;waving&#8221; of a male lamb seems unlikely, but some waving gesture may have been performed in the presentation of the offering (cf. also the &#8220;waving&#8221; of the Levites as a &#8220;wave offering&#8221; in <span class=\"bibleref\" title=\"Numbers 8:11\">Num 8:11</span>, etc.).</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And he shall slaughter.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the place which.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See the note on <span class=\"bibleref\" title=\"Leviticus 4:3\">Lev 4:3</span> regarding the term &#8220;sin offering.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See the note on <span class=\"bibleref\" title=\"Leviticus 1:3\">Lev 1:3</span> regarding the &#8220;burnt offering.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Since the priest himself presents this offering as a wave offering (v. <span class=\"bibleref\" title=\"Leviticus 14:12\">12</span>), it would seem that the offering is already in his hands and he would, therefore, be the one who slaughtered the male lamb in this instance rather than the offerer. Smr and LXX make the second verb &#8220;to slaughter&#8221; plural rather than singular, which suggests that it is to be taken as an impersonal passive (see J. Milgrom, <i>Leviticus</i> [AB], 1:852).</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the guilt offering, it [is] to the <sc>Lord</sc>.&#8221; Regarding the &#8220;guilt offering,&#8221; see the note on <span class=\"bibleref\" title=\"Leviticus 5:15\">Lev 5:15</span>.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the priest shall put [literally &#8216;give&#8217;] on the lobe of the ear of the one being cleansed, the right one.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term for &#8220;big toe&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1465;&#1492;&#1462;&#1503;</font>, <font face=\"Scholar\">bohen</font>) is the same as that for &#8220;thumb.&#8221; It refers to the larger appendage on either the hand or the foot.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the priest&#8230;shall pour on the left hand of the priest.&#8221; As the Rabbis observe, the repetition of &#8220;priest&#8221; as the expressed subject of both verbs in this verse may suggest that two priests were involved in this ritual (see <i>m.</i> <i>Nega&#8217;im</i> 14:8, referred to by J. Milgrom, <i>Leviticus</i> [AB], 1:852), but the seemingly unnecessary repetition of &#8220;priest&#8221; in several verses throughout the chapter argues against this (see esp. vv. <span class=\"bibleref\" title=\"Leviticus 14:3,14,18,20,24,26\">3, 14, 18, 20, 24, and 26</span>). Moreover, in this case, &#8220;priest&#8221; may be repeated to avoid confusing the priest&#8217;s hand with that of the one being cleansed (cf. v. <span class=\"bibleref\" title=\"Leviticus 14:14\">14</span>).</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his right finger from the oil.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;on his hand.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the remainder in the oil.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;do [or &#8220;make&#8221;] the sin offering.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And after[ward] he [i.e., the offerer] shall slaughter.&#8221; The LXX adds &#8220;the priest&#8221; as the subject of the verb (as do several English versions, e.g., NAB, NIV, NCV, NLT), but the offerer is normally the one who does the actually slaughtering of the sacrificial animal (cf. the notes on <span class=\"bibleref\" title=\"Leviticus 1:5\">Lev 1:5</span>a, 6a, and 9a).</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;cause to go up.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and his hand does not reach&#8221;; NAB, NRSV &#8220;and cannot afford so much (afford these NIV).&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> See the notes on v. <span class=\"bibleref\" title=\"Leviticus 14:10\">10</span> above.</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from the sons of the pigeon,&#8221; referring either to &#8220;young pigeons&#8221; or &#8220;various species of pigeon&#8221; (contrast J. Milgrom, <i>Leviticus</i> [AB], 1:168 with J. E. Hartley, <i>Leviticus</i> [WBC], 14; cf. <span class=\"bibleref\" title=\"Leviticus 1:14\">Lev 1:14</span> and esp. <span class=\"bibleref\" title=\"Leviticus 5:7-10\">5:7-10</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;which his hand reaches&#8221;; NRSV &#8220;such as (which NIV) he can afford.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and one shall be a sin offering and the one a burnt offering.&#8221; The versions struggle with whether or not &#8220;one&#8221; should or should not have the definite article in its two occurrences in this verse (KJV, ASV, NAB, NASB all have the English definite article with both). The MT has the first without and the second with the article.</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to the doorway of&#8221;; KJV, ASV &#8220;unto the door of.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the priest shall wave them.&#8221; In the present translation &#8220;priest&#8221; is not repeated a second time in the verse for stylistic reasons. With regard to the &#8220;waving&#8221; of the &#8220;wave offering,&#8221; see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:12\">12</span> above.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the priest shall put [literally &#8216;give&#8217;] on the lobe of the ear of the one being cleansed, the right one.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term for &#8220;big toe&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1465;&#1492;&#1462;&#1503;</font>, <font face=\"Scholar\">bohen</font>) is the same as that for &#8220;thumb.&#8221; It refers to the larger appendage on either the hand or the foot.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And from the oil the priest shall pour out on the left hand of the priest.&#8221; Regarding the repetition of &#8220;priest&#8221; in this verse see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:15\">15</span> above.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the priest shall sprinkle with his right finger from the oil which is on his left hand.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;on his hand.&#8221;</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;on the hand.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;give.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one from the turtledoves.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;from which his hand reaches.&#8221; The repetition of virtually the same expression at the beginning of v. <span class=\"bibleref\" title=\"Leviticus 14:31\">31</span> in the MT is probably due to dittography (cf. the LXX and Syriac). However, the MT may be retained if it is understood as &#8220;one of the turtledoves or young pigeons that are within his means &#8211; whichever he can afford&#8221; (see J. Milgrom&#8217;s translation in <i>Leviticus</i> [AB], 1:828, <i>contra</i> his commentary, 862; cf. REB).</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the one a burnt offering on the grain offering.&#8221;</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;This is the law of who in him [is] a diseased infection.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who his hand does not reach in his purification&#8221;; NASB &#8220;whose means are limited for his cleansing&#8221;; NIV &#8220;who cannot afford the regular offerings for his cleansing.&#8221;</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;which I am giving&#8221; (so NAB, NIV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;give.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the house of the land of your possession&#8221; (KJV and ASV both similar).</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who to him the house.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And the priest shall command and they shall clear the house.&#8221; The second verb (&#8220;and they shall clear&#8221;) states the thrust of the priest&#8217;s command, which suggests the translation &#8220;<i>that</i> they clear&#8221; (cf. also vv. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span>a and 5a above), and for the impersonal passive rendering of the active verb (&#8220;that the house be cleared&#8221;) see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span> above.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to see the infection&#8221;; KJV &#8220;to see the plague&#8221;; NASB &#8220;to look at the mark (mildew NCV).&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all which [is] in the house.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Once the priest pronounced the house &#8220;unclean&#8221; everything in it was also officially unclean. Therefore, if they emptied the house of its furniture, etc. before the official pronouncement by the priest those possessions would thereby remain officially &#8220;clean&#8221; and avoid destruction or purification procedures.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and after thus.&#8221;</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and behold&#8221; (so KJV, ASV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> For &#8220;yellowish green and reddish&#8221; see <span class=\"bibleref\" title=\"Leviticus 13:49\">Lev 13:49</span>. The Hebrew term translated &#8220;eruptions&#8221; occurs only here and its meaning is uncertain. For a detailed summary of the issues and views see J. Milgrom, <i>Leviticus</i> (AB), 1:870. The suggestions include, among others: (1) &#8220;depressions&#8221; from Hebrew <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1511;&#1506;</font> (&#8220;sink&#8221;) or <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1506;&#1512;</font> as the root of the Hebrew term for &#8220;bowl&#8221; (LXX, Targums, NAB, NASB, NIV; see also B. A. Levine, <i>Leviticus</i> [JPSTC], 90), (2) &#8220;streaks&#8221; (ASV, NJPS), (3) and &#8220;eruptions&#8221; as a loan-word from Egyptian <i>sqr r rwtj</i> (&#8220;eruption; rash&#8221;); cf. Milgrom, 870; J. E. Hartley, <i>Leviticus</i> (WBC), 198-99. The latter view is taken here.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1460;&#1497;&#1512;</font> (<font face=\"Scholar\">qir</font>,&#8220;wall&#8221;) refers to the surface of the wall in this case, which normally consisted of a coating of plaster made of limestone and sand (see <i>HALOT</i> 1099 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1460;&#1497;&#1512;</font> 1.a; J. Milgrom, <i>Leviticus</i> [AB], 1:871; J. E. Hartley, <i>Leviticus</i> [WBC], 199).</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he shall shut up the house seven days.&#8221;</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and behold&#8221; (so KJV, ASV); NASB &#8220;If the mark has indeed spread.&#8221;</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the priest shall command and they shall pull out the stones which in them is the infection, and they shall cast them.&#8221; The second and third verbs (&#8220;they shall pull out&#8221; and &#8220;they shall throw&#8221;) state the thrust of the priest&#8217;s command, which suggests the translation &#8220;<i>that</i> they pull out&#8230;and throw&#8221; (cf. also vv. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span>a, 5a, and 36a above), and for the impersonal passive rendering of the active verb (&#8220;be pulled and thrown&#8221;) see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span> above.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;into from outside to the city.&#8221;</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or, according to the plurality of the verb in Smr, LXX, Syriac, and Targums, &#8220;Then the house shall be scraped&#8221; (cf. NAB, NLT, and the note on v. <span class=\"bibleref\" title=\"Leviticus 14:40\">40</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from house all around.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;dust&#8221; (so KJV) or &#8220;rubble&#8221;; NIV &#8220;the material&#8221;; NLT &#8220;the scrapings.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;which they have scraped off.&#8221; The MT term <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1460;&#1497;&#1512;</font> (<font face=\"Scholar\">qir</font>, &#8220;wall&#8221; from <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1510;&#1464;&#1492;</font>, <font face=\"Scholar\">qatsah</font>, &#8220;to cut off&#8221;; BDB 892), the original Greek does not have this clause, Smr has <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1511;&#1497;&#1510;&#1493;</font> (with uncertain meaning), and the <i>BHS</i> editors and <i>HALOT</i> 1123-24 s.v. I <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1510;&#1506;</font> hif.a suggest emending the verb to <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1460;&#1511;&#1456;&#1510;&#1460;&#1506;&#1493;&#1468;</font> (<font face=\"Scholar\">hiqtsi</font>&#8217;<font face=\"Scholar\">u</font>, see the same verb at the beginning of this verse; cf. some Greek <sc>mss</sc>, Syriac, and the Targums). The emendation seems reasonable and is accepted by many commentators, but the root <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1510;&#1464;&#1492;</font> (<font face=\"Scholar\">qatsah</font>, &#8220;to cut off&#8221;) does occur in the Bible (<span class=\"bibleref\" title=\"2 Kings 10:32\">2 Kgs 10:32</span>; <span class=\"bibleref\" title=\"Habakkuk 2:10\">Hab 2:10</span>) and in postbiblical Hebrew (J. E. Hartley, <i>Leviticus</i> [WBC], 179, notes 41c and 43d; J. Milgrom, <i>Leviticus</i> [AB], 1:873; cf. also <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1510;&#1463;&#1509;</font>, <font face=\"Scholar\">qatsats</font>, &#8220;to cut off&#8221;).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;into from outside to the city.&#8221;</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and bring into under the stones.&#8221;</div>"
+      ]
+    ],
+    "43": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;after he has pulled out the stones, and after scraping (variant form of the Hiphil infinitive construct, GKC 531) the house, and after being replastered (Niphal infinitive construct).&#8221;</div>"
+      ]
+    ],
+    "44": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and behold&#8221; (so KJV, ASV); NASB &#8220;If he sees that the mark has indeed spread.&#8221;</div>"
+      ]
+    ],
+    "45": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Smr, LXX, Syriac, and <i>Tg. Ps.-J.</i> have the plural verb, perhaps suggesting a passive translation, &#8220;The house&#8230;shall be torn down&#8221; (cf. NAB, NIV, TEV, NLT, and see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span>b above).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Once again, Smr, LXX, and Syriac have the plural verb, perhaps to be rendered passive, &#8220;shall be brought.&#8221;</div>"
+      ]
+    ],
+    "46": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the one who comes into.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he,&#8221; referring to the priest (see v. <span class=\"bibleref\" title=\"Leviticus 14:38\">38</span>). The referent has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "48": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And if the priest entering [infinitive absolute] enters [finite verb]&#8221; For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 &#167;113.<i>p</i>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and behold&#8221; (so KJV, ASV); NASB &#8220;and the mark has not indeed spread.&#8221;</div>"
+      ]
+    ],
+    "49": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The pronoun &#8220;he&#8221; refers to the priest mentioned in the previous verse.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Regarding these ritual materials, see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:4\">4</span> above.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Regarding the Piel of <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1464;&#1496;&#1464;&#1488;</font> (<font face=\"Scholar\">khata</font>&#8217;, cf. v. <span class=\"bibleref\" title=\"Leviticus 14:52\">52</span>) meaning to &#8220;decontaminate&#8221; or &#8220;perform a decontamination,&#8221; see the notes on <span class=\"bibleref\" title=\"Leviticus 8:15;9:15\">Lev 8:15 and 9:15</span>.<p class=\"note\"><span class=\"notetype\">sn</span> In <span class=\"bibleref\" title=\"Leviticus 8:15\">Lev 8:15</span>, for example, the &#8220;sin offering&#8221; is used to &#8220;decontaminate&#8221; the burnt offering altar. As argued above (see the note on v. <span class=\"bibleref\" title=\"Leviticus 14:7\">7</span> above), these ritual materials and the procedures performed with them do not constitute a &#8220;sin offering&#8221; (contrast vv. <span class=\"bibleref\" title=\"Leviticus 14:19,31\">19 and 31</span> above). In fact, no sin offering was required for the purification of a house.</p></div>"
+      ]
+    ],
+    "50": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> See the note on v. <span class=\"bibleref\" title=\"Leviticus 14:5\">5</span> above.</div>"
+      ]
+    ],
+    "53": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to from outside to the city.&#8221;</div>"
+      ]
+    ],
+    "54": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and for the scall&#8221;; NASB &#8220;a scale&#8221;; NIV &#8220;any infectious skin disease.&#8221; Cf. <span class=\"bibleref\" title=\"Leviticus 13:29-37\">Lev 13:29-37</span>.</div>"
+      ]
+    ],
+    "55": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Leviticus 13:47-59\">Lev 13:47-59</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Leviticus 14:33-53\">Lev 14:33-53</span>.</div>"
+      ]
+    ],
+    "56": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Leviticus 13:9-28,43\">Lev 13:9-28, 43</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Leviticus 13:2\">Lev 13:2</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Cf. <span class=\"bibleref\" title=\"Leviticus 13:4,18-28,38-39\">Lev 13:4, 18-28, 38-39</span>. For explanations of all these terms for disease in <span class=\"bibleref\" title=\"Leviticus 14:56\">Lev 14:56</span> see <span class=\"bibleref\" title=\"Leviticus 13:2\">13:2</span>.</div>"
+      ]
+    ],
+    "57": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to teach in the day of the unclean and in the day of the clean.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;This is the law of the disease.&#8221; Some English versions specify this as &#8220;skin disease&#8221; (e.g., NIV, NLT), but then have to add &#8220;and (+ infectious NLT) mildew&#8221; (so NIV) because a house would not be infected with a skin disease.<p class=\"note\"><span class=\"notetype\">sn</span> For an explanation of the term &#8220;disease&#8221; see <span class=\"bibleref\" title=\"Leviticus 13:2\">Lev 13:2</span>.</p></div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "1",
+      "text": "The Lord spoke to Moses: "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "2",
+      "text": "“This is the law of the diseased person on the day of his purification, when he is brought to the priest. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "3",
+      "text": "The priest is to go outside the camp and examine the infection. If the infection of the diseased person has been healed, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "4",
+      "text": "then the priest will command that two live clean birds, a piece of cedar wood, a scrap of crimson fabric, and some twigs of hyssop be taken up for the one being cleansed. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "5",
+      "text": "The priest will then command that one bird be slaughtered into a clay vessel over fresh water. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "6",
+      "text": "Then he is to take the live bird along with the piece of cedar wood, the scrap of crimson fabric, and the twigs of hyssop, and he is to dip them and the live bird in the blood of the bird slaughtered over the fresh water, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "7",
+      "text": "and sprinkle it seven times on the one being cleansed from the disease, pronounce him clean, and send the live bird away over the open countryside. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "8",
+      "text": "“The one being cleansed must then wash his clothes, shave off all his hair, and bathe in water, and so be clean. Then afterward he may enter the camp, but he must live outside his tent seven days. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "9",
+      "text": "When the seventh day comes, he must shave all his hair—his head, his beard, his eyebrows, all his hair—and he must wash his clothes, bathe his body in water, and so be clean. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "10",
+      "text": "“On the eighth day he must take two flawless male lambs, one flawless yearling female lamb, three-tenths of an ephah of choice wheat flour as a grain offering mixed with olive oil, and one log of olive oil, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "11",
+      "text": "and the priest who pronounces him clean will have the man who is being cleansed stand along with these offerings before the Lord at the entrance of the Meeting Tent. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "12",
+      "text": "“The priest is to take one male lamb and present it for a guilt offering along with the log of olive oil and present them as a wave offering before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "13",
+      "text": "He must then slaughter the male lamb in the place where the sin offering and the burnt offering are slaughtered, in the sanctuary, because, like the sin offering, the guilt offering belongs to the priest; it is most holy. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "14",
+      "text": "Then the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "15",
+      "text": "The priest will then take some of the log of olive oil and pour it into his own left hand. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "16",
+      "text": "Then the priest is to dip his right forefinger into the olive oil that is in his left hand, and sprinkle some of the olive oil with his finger seven times before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "17",
+      "text": "The priest will then put some of the rest of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the blood of the guilt offering, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "18",
+      "text": "and the remainder of the olive oil that is in his hand the priest is to put on the head of the one being cleansed. So the priest is to make atonement for him before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "19",
+      "text": "“The priest must then perform the sin offering and make atonement for the one being cleansed from his impurity. After that he is to slaughter the burnt offering, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "20",
+      "text": "and the priest is to offer the burnt offering and the grain offering on the altar. So the priest is to make atonement for him and he will be clean. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "21",
+      "text": "“If the person is poor and does not have sufficient means, he must take one male lamb as a guilt offering for a wave offering to make atonement for himself, one-tenth of an ephah of choice wheat flour mixed with olive oil for a grain offering, a log of olive oil, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "22",
+      "text": "and two turtledoves or two young pigeons, which are within his means. One will be a sin offering and the other a burnt offering. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "23",
+      "text": "“On the eighth day he must bring them for his purification to the priest at the entrance of the Meeting Tent before the Lord, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "24",
+      "text": "and the priest is to take the male lamb of the guilt offering and the log of olive oil and wave them as a wave offering before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "25",
+      "text": "Then he is to slaughter the male lamb of the guilt offering, and the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "26",
+      "text": "The priest will then pour some of the olive oil into his own left hand, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "27",
+      "text": "and sprinkle some of the olive oil that is in his left hand with his right forefinger seven times before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "28",
+      "text": "Then the priest is to put some of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "29",
+      "text": "and the remainder of the olive oil that is in the hand of the priest he is to put on the head of the one being cleansed to make atonement for him before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "30",
+      "text": "“He will then make one of the turtledoves or young pigeons, which are within his means, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "31",
+      "text": "a sin offering and the other a burnt offering along with the grain offering. So the priest is to make atonement for the one being cleansed before the Lord. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "32",
+      "text": "This is the law of the one in whom there is a diseased infection, who does not have sufficient means for his purification.” "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "33",
+      "text": "The Lord spoke to Moses and Aaron: "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "34",
+      "text": "“When you enter the land of Canaan which I am about to give to you for a possession, and I put a diseased infection in a house in the land you are to possess, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "35",
+      "text": "then whoever owns the house must come and declare to the priest, ‘Something like an infection is visible to me in the house.’ "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "36",
+      "text": "Then the priest will command that the house be cleared before the priest enters to examine the infection so that everything in the house does not become unclean, and afterward the priest will enter to examine the house. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "37",
+      "text": "He is to examine the infection, and if the infection in the walls of the house consists of yellowish green or reddish eruptions, and it appears to be deeper than the surface of the wall, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "38",
+      "text": "then the priest is to go out of the house to the doorway of the house and quarantine the house for seven days. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "39",
+      "text": "The priest must return on the seventh day and examine it, and if the infection has spread in the walls of the house, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "40",
+      "text": "then the priest is to command that the stones that had the infection in them be pulled and thrown outside the city into an unclean place."
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "41",
+      "text": "Then they shall scrape the house all around on the inside, and the plaster which they have scraped off must be dumped outside the city into an unclean place. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "42",
+      "text": "They are then to take other stones and replace those stones, and he is to take other plaster and replaster the house. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "43",
+      "text": "“If the infection returns and breaks out in the house after he has pulled out the stones, scraped the house, and it is replastered, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "44",
+      "text": "the priest is to come and examine it, and if the infection has spread in the house, it is a malignant disease in the house. It is unclean. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "45",
+      "text": "He must tear down the house, its stones, its wood, and all the plaster of the house, and take all of it outside the city to an unclean place. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "46",
+      "text": "Anyone who enters the house all the days the priest has quarantined it will be unclean until evening. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "47",
+      "text": "Anyone who lies down in the house must wash his clothes. Anyone who eats in the house must wash his clothes. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "48",
+      "text": "“If, however, the priest enters and examines it, and the infection has not spread in the house after the house has been replastered, then the priest is to pronounce the house clean because the infection has been healed. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "49",
+      "text": "Then he is to take two birds, a piece of cedar wood, a scrap of crimson fabric, and some twigs of hyssop to purify the house, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "50",
+      "text": "and he is to slaughter one bird into a clay vessel over fresh water. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "51",
+      "text": "He must then take the piece of cedar wood, the twigs of hyssop, the scrap of crimson fabric, and the live bird, and dip them in the blood of the slaughtered bird and in the fresh water, and sprinkle the house seven times. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "52",
+      "text": "So he is to purify the house with the blood of the bird, the fresh water, the live bird, the piece of cedar wood, the twigs of hyssop, and the scrap of crimson fabric, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "53",
+      "text": "and he is to send the live bird away outside the city into the open countryside. So he is to make atonement for the house, and it will be clean. "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "54",
+      "text": "“This is the law for all diseased infections, for scall, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "55",
+      "text": "for the diseased garment, for the house, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "56",
+      "text": "for the swelling, for the scab, and for the bright spot, "
+    },
+    {
+      "bookname": "Leviticus",
+      "chapter": "14",
+      "verse": "57",
+      "text": "to teach when something is unclean and when it is clean. This is the law for dealing with infectious disease.” "
+    }
+  ]
+}

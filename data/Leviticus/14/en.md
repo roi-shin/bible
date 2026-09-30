@@ -1,0 +1,425 @@
+# Leviticus 14 (English)
+
+## Text
+
+**1** The Lord spoke to Moses: 
+
+**2** “This is the law of the diseased person on the day of his purification, when he is brought to the priest. 
+
+**3** The priest is to go outside the camp and examine the infection. If the infection of the diseased person has been healed, 
+
+**4** then the priest will command that two live clean birds, a piece of cedar wood, a scrap of crimson fabric, and some twigs of hyssop be taken up for the one being cleansed. 
+
+**5** The priest will then command that one bird be slaughtered into a clay vessel over fresh water. 
+
+**6** Then he is to take the live bird along with the piece of cedar wood, the scrap of crimson fabric, and the twigs of hyssop, and he is to dip them and the live bird in the blood of the bird slaughtered over the fresh water, 
+
+**7** and sprinkle it seven times on the one being cleansed from the disease, pronounce him clean, and send the live bird away over the open countryside. 
+
+**8** “The one being cleansed must then wash his clothes, shave off all his hair, and bathe in water, and so be clean. Then afterward he may enter the camp, but he must live outside his tent seven days. 
+
+**9** When the seventh day comes, he must shave all his hair—his head, his beard, his eyebrows, all his hair—and he must wash his clothes, bathe his body in water, and so be clean. 
+
+**10** “On the eighth day he must take two flawless male lambs, one flawless yearling female lamb, three-tenths of an ephah of choice wheat flour as a grain offering mixed with olive oil, and one log of olive oil, 
+
+**11** and the priest who pronounces him clean will have the man who is being cleansed stand along with these offerings before the Lord at the entrance of the Meeting Tent. 
+
+**12** “The priest is to take one male lamb and present it for a guilt offering along with the log of olive oil and present them as a wave offering before the Lord. 
+
+**13** He must then slaughter the male lamb in the place where the sin offering and the burnt offering are slaughtered, in the sanctuary, because, like the sin offering, the guilt offering belongs to the priest; it is most holy. 
+
+**14** Then the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot. 
+
+**15** The priest will then take some of the log of olive oil and pour it into his own left hand. 
+
+**16** Then the priest is to dip his right forefinger into the olive oil that is in his left hand, and sprinkle some of the olive oil with his finger seven times before the Lord. 
+
+**17** The priest will then put some of the rest of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the blood of the guilt offering, 
+
+**18** and the remainder of the olive oil that is in his hand the priest is to put on the head of the one being cleansed. So the priest is to make atonement for him before the Lord. 
+
+**19** “The priest must then perform the sin offering and make atonement for the one being cleansed from his impurity. After that he is to slaughter the burnt offering, 
+
+**20** and the priest is to offer the burnt offering and the grain offering on the altar. So the priest is to make atonement for him and he will be clean. 
+
+**21** “If the person is poor and does not have sufficient means, he must take one male lamb as a guilt offering for a wave offering to make atonement for himself, one-tenth of an ephah of choice wheat flour mixed with olive oil for a grain offering, a log of olive oil, 
+
+**22** and two turtledoves or two young pigeons, which are within his means. One will be a sin offering and the other a burnt offering. 
+
+**23** “On the eighth day he must bring them for his purification to the priest at the entrance of the Meeting Tent before the Lord, 
+
+**24** and the priest is to take the male lamb of the guilt offering and the log of olive oil and wave them as a wave offering before the Lord. 
+
+**25** Then he is to slaughter the male lamb of the guilt offering, and the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot. 
+
+**26** The priest will then pour some of the olive oil into his own left hand, 
+
+**27** and sprinkle some of the olive oil that is in his left hand with his right forefinger seven times before the Lord. 
+
+**28** Then the priest is to put some of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering, 
+
+**29** and the remainder of the olive oil that is in the hand of the priest he is to put on the head of the one being cleansed to make atonement for him before the Lord. 
+
+**30** “He will then make one of the turtledoves or young pigeons, which are within his means, 
+
+**31** a sin offering and the other a burnt offering along with the grain offering. So the priest is to make atonement for the one being cleansed before the Lord. 
+
+**32** This is the law of the one in whom there is a diseased infection, who does not have sufficient means for his purification.” 
+
+**33** The Lord spoke to Moses and Aaron: 
+
+**34** “When you enter the land of Canaan which I am about to give to you for a possession, and I put a diseased infection in a house in the land you are to possess, 
+
+**35** then whoever owns the house must come and declare to the priest, ‘Something like an infection is visible to me in the house.’ 
+
+**36** Then the priest will command that the house be cleared before the priest enters to examine the infection so that everything in the house does not become unclean, and afterward the priest will enter to examine the house. 
+
+**37** He is to examine the infection, and if the infection in the walls of the house consists of yellowish green or reddish eruptions, and it appears to be deeper than the surface of the wall, 
+
+**38** then the priest is to go out of the house to the doorway of the house and quarantine the house for seven days. 
+
+**39** The priest must return on the seventh day and examine it, and if the infection has spread in the walls of the house, 
+
+**40** then the priest is to command that the stones that had the infection in them be pulled and thrown outside the city into an unclean place.
+
+**41** Then they shall scrape the house all around on the inside, and the plaster which they have scraped off must be dumped outside the city into an unclean place. 
+
+**42** They are then to take other stones and replace those stones, and he is to take other plaster and replaster the house. 
+
+**43** “If the infection returns and breaks out in the house after he has pulled out the stones, scraped the house, and it is replastered, 
+
+**44** the priest is to come and examine it, and if the infection has spread in the house, it is a malignant disease in the house. It is unclean. 
+
+**45** He must tear down the house, its stones, its wood, and all the plaster of the house, and take all of it outside the city to an unclean place. 
+
+**46** Anyone who enters the house all the days the priest has quarantined it will be unclean until evening. 
+
+**47** Anyone who lies down in the house must wash his clothes. Anyone who eats in the house must wash his clothes. 
+
+**48** “If, however, the priest enters and examines it, and the infection has not spread in the house after the house has been replastered, then the priest is to pronounce the house clean because the infection has been healed. 
+
+**49** Then he is to take two birds, a piece of cedar wood, a scrap of crimson fabric, and some twigs of hyssop to purify the house, 
+
+**50** and he is to slaughter one bird into a clay vessel over fresh water. 
+
+**51** He must then take the piece of cedar wood, the twigs of hyssop, the scrap of crimson fabric, and the live bird, and dip them in the blood of the slaughtered bird and in the fresh water, and sprinkle the house seven times. 
+
+**52** So he is to purify the house with the blood of the bird, the fresh water, the live bird, the piece of cedar wood, the twigs of hyssop, and the scrap of crimson fabric, 
+
+**53** and he is to send the live bird away outside the city into the open countryside. So he is to make atonement for the house, and it will be clean. 
+
+**54** “This is the law for all diseased infections, for scall, 
+
+**55** for the diseased garment, for the house, 
+
+**56** for the swelling, for the scab, and for the bright spot, 
+
+**57** to teach when something is unclean and when it is clean. This is the law for dealing with infectious disease.” 
+
+## Notes
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “and.” Here KJV, ASV use a semicolon; NASB begins a new sentence with “Now.”
+
+### Verse 2 - Note 2
+[翻訳注]  The alternative rendering, “when it is reported to the priest” may be better in light of the fact that the priest had to go outside the camp. Since he or she had been declared “unclean” by a priest (Lev 13:3) and was, therefore, required to remain outside the camp (13:46), the formerly diseased person could not reenter the camp until he or she had been declared “clean” by a priest (cf. Lev 13:6 for “declaring clean.”). See especially J. Milgrom, Leviticus (AB), 1:831, who supports this rendering both here and in Lev 13:2 and 9. B. A. Levine, however, prefers the rendering in the text (Leviticus [JPSTC], 76 and 85). It is the most natural meaning of the verb (i.e., “to be brought” from בּוֹא [bo’, “to come”] in the Hophal stem, which means “to be brought” in all other occurrences in Leviticus other than 13:2, 9, and 14:2; see only 6:30; 10:18; 11:32; and 16:27), it suits the context well in 13:2, and the rendering “to be brought” is supported by 13:7b, “he shall show himself to the priest a second time.” Although it is true that the priest needed to go outside the camp to examine such a person, the person still needed to “be brought” to the priest there. The translation of vv. 2-3 employed here suggests that v. 2 introduces the proceeding and then v. 3 goes on to describe the specific details of the examination and purification.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “and he shall be brought to the priest and the priest shall go out to from outside to the camp and the priest shall see [it].” The understood “it” refers to the skin infection itself (see the note on 13:3 above). The referent has been specified in the translation for clarity.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “And behold, the diseased infection has been healed from the diseased person.” The expression “diseased infection” has been translated as simply “infection” to avoid redundancy here in terms of English style.
+
+### Verse 4 - Note 1
+[翻訳注]  The term rendered here “crimson fabric” consists of two Hebrew words and means literally, “crimson of worm” (in this order only in Lev 14:4, 6, 49, 51, 52 and Num 19:6; for the more common reverse order, “worm of crimson,” see, e.g., the colored fabrics used in making the tabernacle, Exod 25:4, etc.). This particular “worm” is an insect that lives on the leaves of palm trees, the eggs of which are the source for a “crimson” dye used to color various kinds of cloth (B. A. Levine, Leviticus [JPSTC], 86). That a kind of dyed “fabric” is intended, not just the dye substance itself, is made certain by the dipping of it along with the other ritual materials listed here into the blood and water mixture for sprinkling on the person being cleansed (Lev 14:6; cf. also the burning of it in the fire of the red heifer in Num 19:6). Both the reddish color of cedar wood and the crimson colored fabric seem to correspond to the color of blood and may, therefore, symbolize either “life,” which is in the blood, or the use of blood to “make atonement” (see, e.g., Gen 9:4 and Lev 17:11). See further the note on v. 7 below.
+
+### Verse 4 - Note 2
+[解説]  Twigs of hyssop (probably one or several species of marjoram thymus), a spice and herb plant that grows out of walls in Palestine (see 1 Kgs 4:33 [5:13 HT], HALOT 27 s.v. אֵזוֹב, and J. E. Hartley, Leviticus [WBC], 195), were particularly leafy and therefore especially useful for sprinkling the purifying liquid (cf. vv. 5-7). Many of the details of the ritual procedure are obscure. It has been proposed, for example, that the “cedar wood” was a stick to which the hyssop was bound with the crimson material to make a sort of sprinkling instrument (Hartley, 195). In light of the burning of these three materials as part of the preparation of the ashes of the red heifer in Num 19:5-6, however, this seems unlikely.
+
+### Verse 4 - Note 3
+[翻訳注]  The MT reads literally, “And the priest shall command and he shall take.” Clearly, the second verb (“and he shall take”) contains the thrust of the priest’s command, which suggests the translation “that he take” (cf. also v. 5a). Since the priest issues the command here, he cannot be the subject of the second verb because he cannot be commanding himself to “take” up these ritual materials. Moreover, since the ritual is being performed “for the one being cleansed,” the antecedent of the pronoun “he” cannot refer to him. The LXX, Smr, and Syriac versions have the third person plural here and in v. 5a, which corresponds to other combinations with the verb וְצִוָּה (vÿtsivvah) “and he (the priest) shall command” in this context (see Lev 13:54; 14:36, 40). This suggests an impersonal (i.e., “someone shall take” and “someone shall slaughter,” respectively) or perhaps even passive rendering of the verbs in 14:4, 5 (i.e., “there shall be taken” and “there shall be slaughtered,” respectively). The latter option has been chosen here.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “the one cleansing himself” (i.e., Hitpael participle of טָהֵר, taher, “to be clean”).
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “And the priest shall command and he shall slaughter.” See the note on “be taken up” (v. 4).
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “into a vessel of clay over living water.” The expression “living [i.e., ‘fresh’] water” (cf. Lev 14:50; 15:13; Num 19:17) refers to water that flows. It includes such water sources as artesian wells (Gen 26:19; Song of Songs 4:15), springs (Jer 2:13, as opposed to cisterns; cf. 17:13), and flowing streams (Zech 14:8). In other words, this is water that has not stood stagnant as, for example, in a sealed-off cistern.[解説]  Although there are those who argue that the water and the blood rites are separate (e.g., E. S. Gerstenberger, Leviticus [OTL], 175-76), it is usually agreed that v. 5b refers to the slaughtering of the bird in such a way that its blood runs into the bowl, which contained fresh water (see, e.g., N. H. Snaith, Leviticus and Numbers [NCBC], 74; G. J. Wenham, Leviticus [NICOT], 208; J. Milgrom, Leviticus [AB], 1:836-38; cf. esp. Lev 14:51b, “and dip them in the blood of the slaughtered bird and in the fresh water”). This mixture of blood and water was then to be sprinkled on the person being cleansed from the disease.
+
+### Verse 6 - Note 1
+[写本注]  Heb “the live bird he [i.e., the priest] shall take it.” Although the MT has no ו (vav, “and”) at the beginning of this clause, a few medieval Hebrew mss and Smr have one and the LXX, Syriac, and Vulgate translate as if it is there. The “but” in the present translation reflects this text critical background, the object-first word order in the clause with the resumptive pronoun at the end, and the obvious contrast between the slaughtered bird in v. 5 and the live bird in v. 6.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “the one cleansing himself” (i.e., Hitpael participle of טָהֵר [taher, “to be clean”]).
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “and he shall make him clean.” The verb is the Piel of טָהֵר (taher, “to be clean”), here used as a so-called “declarative” Piel (i.e., “to declare clean”; cf. 13:6, etc.).
+
+### Verse 7 - Note 3
+[解説]  The reddish color of cedar wood and the crimson colored fabric called for in v. 4 (see the note there, esp. the association with the color of blood) as well as the priestly commands to bring “two live” birds (v. 4a), to slaughter one of them “over fresh water” (literally “living water,” v. 5b), and the subsequent ritual with the (second) “live” bird (vv. 6-7) combine to communicate the concept of “life” and “being alive” in this passage. This contrasts with the fear of death associated with the serious skin diseases in view here (see, e.g., Aaron’s description of Miriam’s skin disease in Num 12:12, “Do not let her be like the dead one when it goes out from its mother’s womb and its flesh half eaten away”). Since the slaughtered bird here is not sacrificed at the altar and is not designated as an expiatory “sin offering,” this ritual procedure probably symbolizes the renewed life of the diseased person and displays it publicly for all to see. It is preparatory to the expiatory rituals that will follow (vv. 10-20, esp. vv. 18-20), but is not itself expiatory. Thus, although there are important similarities between the bird ritual here, the scapegoat on the Day of Atonement (Lev 16:20-22), and the red heifer for cleansing from corpse contamination (), this bird ritual is different in that the latter two constitute “sin offerings” (Lev 16:5, 8-10; Num 19:9, 17). Neither of the birds in Lev 14:4-7 is designated or treated as a “sin offering.” Nevertheless, the very nature of the live bird ritual itself and its obvious similarity to the scapegoat ritual suggests that the patient’s disease has been removed far away so that he or she is free from its effects both personally and communally.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “the one cleansing himself” (i.e., Hitpael participle of טָהֵר [taher, “to be clean”]).
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “and he shall be clean” (so ASV). The end result of the ritual procedures in vv. 4-7 and the washing and shaving in v. 8a is that the formerly diseased person has now officially become clean in the sense that he can reenter the community (see v. 8b; contrast living outside the community as an unclean diseased person, Lev 13:46). There are, however, further cleansing rituals and pronouncements for him to undergo in the tabernacle as outlined in vv. 10-20 (see Qal “be[come] clean” in vv. 9 and 20, Piel “pronounce clean” in v. 11, and Hitpael “the one being cleansed” in vv. 11, 14, 17, 18, and 19). Obviously, in order to enter the tabernacle he must already “be clean” in the sense of having access to the community.
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “And it shall be on the seventh day.”
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “and he shall be clean” (see the note on v. 8).
+
+### Verse 10 - Note 1
+[翻訳注]  The subject “he” probably refers to the formerly diseased person in this case (see the notes on Lev 1:5a, 6a, and 9a).
+
+### Verse 10 - Note 2
+[翻訳注]  This term is often rendered “fine flour,” but it refers specifically to wheat as opposed to barley (B. A. Levine, Leviticus [JPSTC], 10) and, although the translation “flour” is used here, it may indicate “grits” rather than finely ground flour (J. Milgrom, Leviticus [AB], 1:179; see the note on Lev 2:1). The unit of measure is most certainly an “ephah” even though it is not stated explicitly (see, e.g., Num 28:5; cf. 15:4, 6, 8), and three-tenths of an ephah would amount to about a gallon, or perhaps one-third of a bushel (J. E. Hartley, Leviticus [WBC], 196; Milgrom, 845). Since the normal amount of flour for a lamb is one-tenth of an ephah (Num 28:4-5; cf. 15:4), three-tenths is about right for the three lambs offered in Lev 14:10-20.
+
+### Verse 10 - Note 3
+[翻訳注]  A “log” (לֹג, log) of oil is about one-sixth of a liter, or one-third of a pint, or two-thirds of a cup.
+
+### Verse 11 - Note 1
+[翻訳注]  The MT here is awkward to translate into English. It reads literally, “and the priest who pronounces clean (Piel participle of טָהֵר, taher) shall cause to stand (Hiphil of עָמַד, ’amad) the man who is cleansing himself (Hitpael participle of טָהֵר) and them” (i.e., the offerings listed in v. 10; the referent has been specified in the translation for clarity). Alternatively, the Piel of טָהֵר could be rendered “who performs the cleansing/purification” (J. Milgrom, Leviticus [AB], 1:827), perhaps even as a technical term for one who holds the office of “purification priest” (B. A. Levine, Leviticus [JPSTC], 87). It is probably better, however, to retain the same meaning here as in v. 7 above (see the note there regarding the declarative Piel use of this verb).
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “And the priest shall take the one lamb.”
+
+### Verse 12 - Note 2
+[翻訳注]  See the note on Lev 5:15 above. The primary purpose of the “guilt offering” (אָשָׁם, ’asham) was to “atone” (כִּפֶּר, kipper, “to make atonement,” see v. 18 below and the note on Lev 1:4) for “trespassing” on the Lord’s “holy things,” whether sacred objects or sacred people. It is, therefore, closely associated with the reconsecration of the Lord’s holy people as, for example, here and in the case of the corpse contaminated Nazirite (Num 6:11b-12). Since the nation of Israel was “a kingdom of priests and a holy nation” to the Lord (Exod 19:6; cf. the blood splashed on all the people in Exod 24:8), the skin diseased person was essentially a member of the “holy nation” who had been expelled from the community. Therefore, he or she had been desecrated and the guilt offering was essential to restoring him or her to the community. In fact, the manipulation of blood and oil in the guilt offering ritual procedure for the healed person (see vv. 14-18 below) is reminiscent of that employed for the ordination offering in the consecration of the holy Aaronic priests of the nation (Exod 29:19-21; Lev 8:22-30).
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “wave them [as] a wave offering before the Lord” (NAB similar). See the note on Lev 7:30 and the literature cited there. Other possible translations include “elevate them [as] an elevation offering before the Lord” (cf. NRSV) or “present them [as] a presentation offering before the Lord.” To be sure, the actual physical “waving” of a male lamb seems unlikely, but some waving gesture may have been performed in the presentation of the offering (cf. also the “waving” of the Levites as a “wave offering” in Num 8:11, etc.).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “And he shall slaughter.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “in the place which.”
+
+### Verse 13 - Note 3
+[解説]  See the note on Lev 4:3 regarding the term “sin offering.”
+
+### Verse 13 - Note 4
+[解説]  See the note on Lev 1:3 regarding the “burnt offering.”
+
+### Verse 13 - Note 5
+[翻訳注]  Since the priest himself presents this offering as a wave offering (v. 12), it would seem that the offering is already in his hands and he would, therefore, be the one who slaughtered the male lamb in this instance rather than the offerer. Smr and LXX make the second verb “to slaughter” plural rather than singular, which suggests that it is to be taken as an impersonal passive (see J. Milgrom, Leviticus [AB], 1:852).
+
+### Verse 13 - Note 6
+[翻訳注]  Heb “the guilt offering, it [is] to the Lord.” Regarding the “guilt offering,” see the note on Lev 5:15.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “and the priest shall put [literally ‘give’] on the lobe of the ear of the one being cleansed, the right one.”
+
+### Verse 14 - Note 2
+[翻訳注]  The term for “big toe” (בֹּהֶן, bohen) is the same as that for “thumb.” It refers to the larger appendage on either the hand or the foot.
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “And the priest…shall pour on the left hand of the priest.” As the Rabbis observe, the repetition of “priest” as the expressed subject of both verbs in this verse may suggest that two priests were involved in this ritual (see m. Nega’im 14:8, referred to by J. Milgrom, Leviticus [AB], 1:852), but the seemingly unnecessary repetition of “priest” in several verses throughout the chapter argues against this (see esp. vv. 3, 14, 18, 20, 24, and 26). Moreover, in this case, “priest” may be repeated to avoid confusing the priest’s hand with that of the one being cleansed (cf. v. 14).
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “his right finger from the oil.”
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “on his hand.”
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “and the remainder in the oil.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “do [or “make”] the sin offering.”
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “And after[ward] he [i.e., the offerer] shall slaughter.” The LXX adds “the priest” as the subject of the verb (as do several English versions, e.g., NAB, NIV, NCV, NLT), but the offerer is normally the one who does the actually slaughtering of the sacrificial animal (cf. the notes on Lev 1:5a, 6a, and 9a).
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “cause to go up.”
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “and his hand does not reach”; NAB, NRSV “and cannot afford so much (afford these NIV).”
+
+### Verse 21 - Note 2
+[翻訳注]  See the notes on v. 10 above.
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “from the sons of the pigeon,” referring either to “young pigeons” or “various species of pigeon” (contrast J. Milgrom, Leviticus [AB], 1:168 with J. E. Hartley, Leviticus [WBC], 14; cf. Lev 1:14 and esp. 5:7-10).
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “which his hand reaches”; NRSV “such as (which NIV) he can afford.”
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “and one shall be a sin offering and the one a burnt offering.” The versions struggle with whether or not “one” should or should not have the definite article in its two occurrences in this verse (KJV, ASV, NAB, NASB all have the English definite article with both). The MT has the first without and the second with the article.
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “to the doorway of”; KJV, ASV “unto the door of.”
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “and the priest shall wave them.” In the present translation “priest” is not repeated a second time in the verse for stylistic reasons. With regard to the “waving” of the “wave offering,” see the note on v. 12 above.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “and the priest shall put [literally ‘give’] on the lobe of the ear of the one being cleansed, the right one.”
+
+### Verse 25 - Note 2
+[翻訳注]  The term for “big toe” (בֹּהֶן, bohen) is the same as that for “thumb.” It refers to the larger appendage on either the hand or the foot.
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “And from the oil the priest shall pour out on the left hand of the priest.” Regarding the repetition of “priest” in this verse see the note on v. 15 above.
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “and the priest shall sprinkle with his right finger from the oil which is on his left hand.”
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “on his hand.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “on the hand.”
+
+### Verse 29 - Note 2
+[翻訳注]  Heb “give.”
+
+### Verse 30 - Note 1
+[翻訳注]  Heb “the one from the turtledoves.”
+
+### Verse 30 - Note 2
+[写本注]  Heb “from which his hand reaches.” The repetition of virtually the same expression at the beginning of v. 31 in the MT is probably due to dittography (cf. the LXX and Syriac). However, the MT may be retained if it is understood as “one of the turtledoves or young pigeons that are within his means – whichever he can afford” (see J. Milgrom’s translation in Leviticus [AB], 1:828, contra his commentary, 862; cf. REB).
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “and the one a burnt offering on the grain offering.”
+
+### Verse 32 - Note 1
+[翻訳注]  Heb “This is the law of who in him [is] a diseased infection.”
+
+### Verse 32 - Note 2
+[翻訳注]  Heb “who his hand does not reach in his purification”; NASB “whose means are limited for his cleansing”; NIV “who cannot afford the regular offerings for his cleansing.”
+
+### Verse 34 - Note 1
+[翻訳注]  Heb “which I am giving” (so NAB, NIV).
+
+### Verse 34 - Note 2
+[翻訳注]  Heb “give.”
+
+### Verse 34 - Note 3
+[翻訳注]  Heb “in the house of the land of your possession” (KJV and ASV both similar).
+
+### Verse 35 - Note 1
+[翻訳注]  Heb “who to him the house.”
+
+### Verse 36 - Note 1
+[翻訳注]  Heb “And the priest shall command and they shall clear the house.” The second verb (“and they shall clear”) states the thrust of the priest’s command, which suggests the translation “that they clear” (cf. also vv. 4a and 5a above), and for the impersonal passive rendering of the active verb (“that the house be cleared”) see the note on v. 4 above.
+
+### Verse 36 - Note 2
+[翻訳注]  Heb “to see the infection”; KJV “to see the plague”; NASB “to look at the mark (mildew NCV).”
+
+### Verse 36 - Note 3
+[翻訳注]  Heb “all which [is] in the house.”
+
+### Verse 36 - Note 4
+[解説]  Once the priest pronounced the house “unclean” everything in it was also officially unclean. Therefore, if they emptied the house of its furniture, etc. before the official pronouncement by the priest those possessions would thereby remain officially “clean” and avoid destruction or purification procedures.
+
+### Verse 36 - Note 5
+[翻訳注]  Heb “and after thus.”
+
+### Verse 37 - Note 1
+[翻訳注]  Heb “and behold” (so KJV, ASV).
+
+### Verse 37 - Note 2
+[翻訳注]  For “yellowish green and reddish” see Lev 13:49. The Hebrew term translated “eruptions” occurs only here and its meaning is uncertain. For a detailed summary of the issues and views see J. Milgrom, Leviticus (AB), 1:870. The suggestions include, among others: (1) “depressions” from Hebrew שׁקע (“sink”) or קער as the root of the Hebrew term for “bowl” (LXX, Targums, NAB, NASB, NIV; see also B. A. Levine, Leviticus [JPSTC], 90), (2) “streaks” (ASV, NJPS), (3) and “eruptions” as a loan-word from Egyptian sqr r rwtj (“eruption; rash”); cf. Milgrom, 870; J. E. Hartley, Leviticus (WBC), 198-99. The latter view is taken here.
+
+### Verse 37 - Note 3
+[翻訳注]  The Hebrew term קִיר (qir,“wall”) refers to the surface of the wall in this case, which normally consisted of a coating of plaster made of limestone and sand (see HALOT 1099 s.v. קִיר 1.a; J. Milgrom, Leviticus [AB], 1:871; J. E. Hartley, Leviticus [WBC], 199).
+
+### Verse 38 - Note 1
+[翻訳注]  Heb “and he shall shut up the house seven days.”
+
+### Verse 39 - Note 1
+[翻訳注]  Heb “and behold” (so KJV, ASV); NASB “If the mark has indeed spread.”
+
+### Verse 40 - Note 1
+[翻訳注]  Heb “and the priest shall command and they shall pull out the stones which in them is the infection, and they shall cast them.” The second and third verbs (“they shall pull out” and “they shall throw”) state the thrust of the priest’s command, which suggests the translation “that they pull out…and throw” (cf. also vv. 4a, 5a, and 36a above), and for the impersonal passive rendering of the active verb (“be pulled and thrown”) see the note on v. 4 above.
+
+### Verse 40 - Note 2
+[翻訳注]  Heb “into from outside to the city.”
+
+### Verse 41 - Note 1
+[翻訳注]  Or, according to the plurality of the verb in Smr, LXX, Syriac, and Targums, “Then the house shall be scraped” (cf. NAB, NLT, and the note on v. 40).
+
+### Verse 41 - Note 2
+[翻訳注]  Heb “from house all around.”
+
+### Verse 41 - Note 3
+[翻訳注]  Heb “dust” (so KJV) or “rubble”; NIV “the material”; NLT “the scrapings.”
+
+### Verse 41 - Note 4
+[翻訳注]  Heb “which they have scraped off.” The MT term קִיר (qir, “wall” from קָצָה, qatsah, “to cut off”; BDB 892), the original Greek does not have this clause, Smr has הקיצו (with uncertain meaning), and the BHS editors and HALOT 1123-24 s.v. I קצע hif.a suggest emending the verb to הִקְצִעוּ (hiqtsi’u, see the same verb at the beginning of this verse; cf. some Greek mss, Syriac, and the Targums). The emendation seems reasonable and is accepted by many commentators, but the root קָצָה (qatsah, “to cut off”) does occur in the Bible (2 Kgs 10:32; Hab 2:10) and in postbiblical Hebrew (J. E. Hartley, Leviticus [WBC], 179, notes 41c and 43d; J. Milgrom, Leviticus [AB], 1:873; cf. also קָצַץ, qatsats, “to cut off”).
+
+### Verse 41 - Note 5
+[翻訳注]  Heb “into from outside to the city.”
+
+### Verse 42 - Note 1
+[翻訳注]  Heb “and bring into under the stones.”
+
+### Verse 43 - Note 1
+[翻訳注]  Heb “after he has pulled out the stones, and after scraping (variant form of the Hiphil infinitive construct, GKC 531) the house, and after being replastered (Niphal infinitive construct).”
+
+### Verse 44 - Note 1
+[翻訳注]  Heb “and behold” (so KJV, ASV); NASB “If he sees that the mark has indeed spread.”
+
+### Verse 45 - Note 1
+[翻訳注]  Smr, LXX, Syriac, and Tg. Ps.-J. have the plural verb, perhaps suggesting a passive translation, “The house…shall be torn down” (cf. NAB, NIV, TEV, NLT, and see the note on v. 4b above).
+
+### Verse 45 - Note 2
+[翻訳注]  Once again, Smr, LXX, and Syriac have the plural verb, perhaps to be rendered passive, “shall be brought.”
+
+### Verse 46 - Note 1
+[翻訳注]  Heb “the one who comes into.”
+
+### Verse 46 - Note 2
+[翻訳注]  Heb “he,” referring to the priest (see v. 38). The referent has been specified in the translation for clarity.
+
+### Verse 48 - Note 1
+[翻訳注]  Heb “And if the priest entering [infinitive absolute] enters [finite verb]” For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 §113.p.
+
+### Verse 48 - Note 2
+[翻訳注]  Heb “and behold” (so KJV, ASV); NASB “and the mark has not indeed spread.”
+
+### Verse 49 - Note 1
+[翻訳注]  The pronoun “he” refers to the priest mentioned in the previous verse.
+
+### Verse 49 - Note 2
+[翻訳注]  Regarding these ritual materials, see the note on v. 4 above.
+
+### Verse 49 - Note 3
+[翻訳注]  Regarding the Piel of חָטָא (khata’, cf. v. 52) meaning to “decontaminate” or “perform a decontamination,” see the notes on Lev 8:15 and 9:15.[解説]  In Lev 8:15, for example, the “sin offering” is used to “decontaminate” the burnt offering altar. As argued above (see the note on v. 7 above), these ritual materials and the procedures performed with them do not constitute a “sin offering” (contrast vv. 19 and 31 above). In fact, no sin offering was required for the purification of a house.
+
+### Verse 50 - Note 1
+[翻訳注]  See the note on v. 5 above.
+
+### Verse 53 - Note 1
+[翻訳注]  Heb “to from outside to the city.”
+
+### Verse 54 - Note 1
+[翻訳注]  Heb “and for the scall”; NASB “a scale”; NIV “any infectious skin disease.” Cf. Lev 13:29-37.
+
+### Verse 55 - Note 1
+[解説]  Cf. Lev 13:47-59.
+
+### Verse 55 - Note 2
+[解説]  Cf. Lev 14:33-53.
+
+### Verse 56 - Note 1
+[解説]  Cf. Lev 13:9-28, 43.
+
+### Verse 56 - Note 2
+[解説]  Cf. Lev 13:2.
+
+### Verse 56 - Note 3
+[解説]  Cf. Lev 13:4, 18-28, 38-39. For explanations of all these terms for disease in Lev 14:56 see 13:2.
+
+### Verse 57 - Note 1
+[翻訳注]  Heb “to teach in the day of the unclean and in the day of the clean.”
+
+### Verse 57 - Note 2
+[翻訳注]  Heb “This is the law of the disease.” Some English versions specify this as “skin disease” (e.g., NIV, NLT), but then have to add “and (+ infectious NLT) mildew” (so NIV) because a house would not be infected with a skin disease.[解説]  For an explanation of the term “disease” see Lev 13:2.

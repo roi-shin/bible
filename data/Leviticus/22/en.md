@@ -1,0 +1,257 @@
+# Leviticus 22 (English)
+
+## Text
+
+**1** The Lord spoke to Moses: 
+
+**2** “Tell Aaron and his sons that they must deal respectfully with the holy offerings of the Israelites, which they consecrate to me, so that they do not profane my holy name. I am the Lord. 
+
+**3** Say to them, ‘Throughout your generations, if any man from all your descendants approaches the holy offerings, which the Israelites consecrate to the Lord, while he is impure, that person must be cut off from before me. I am the Lord. 
+
+**4** No man from the descendants of Aaron who is diseased or has a discharge may eat the holy offerings until he becomes clean. The one who touches anything made unclean by contact with a dead person, or with a man who has a seminal emission, 
+
+**5** or with a man who touches a swarming thing by which he becomes unclean, or who touches a person by which he becomes unclean, whatever that person’s impurity—
+
+**6** the person who touches any of these will be unclean until evening and must not eat from the holy offerings unless he has bathed his body in water. 
+
+**7** When the sun goes down he will be clean, and afterward he may eat from the holy offerings, because they are his food. 
+
+**8** He must not eat an animal that has died of natural causes or an animal torn by beasts and thus become unclean by it. I am the Lord. 
+
+**9** They must keep my charge so that they do not incur sin on account of it and therefore die because they profane it. I am the Lord who sanctifies them.
+
+**10** “‘No lay person may eat anything holy. Neither a priest’s lodger nor a hired laborer may eat anything holy, 
+
+**11** but if a priest buys a person with his own money, that person may eat the holy offerings, and those born in the priest’s own house may eat his food. 
+
+**12** If a priest’s daughter marries a lay person, she may not eat the holy contribution offerings,
+
+**13** but if a priest’s daughter is a widow or divorced, and she has no children so that she returns to live in her father’s house as in her youth, she may eat from her father’s food, but no lay person may eat it.
+
+**14** “‘If a man eats a holy offering by mistake, he must add one-fifth to it and give the holy offering to the priest. 
+
+**15** They must not profane the holy offerings which the Israelites contribute to the Lord, 
+
+**16** and so cause them to incur a penalty for guilt when they eat their holy offerings, for I am the Lord who sanctifies them.’”
+
+**17** The Lord spoke to Moses: 
+
+**18** “Speak to Aaron, his sons, and all the Israelites and tell them, ‘When any man from the house of Israel or from the resident foreigners in Israel presents his offering for any of the votive or freewill offerings, which they present to the Lord as a burnt offering, 
+
+**19** if it is to be acceptable for your benefit, it must be a flawless male from the cattle, sheep, or goats. 
+
+**20** You must not present anything that has a flaw, because it will not be acceptable for your benefit.
+
+**21** If a man presents a peace-offering sacrifice to the Lord for a special votive offering or for a freewill offering from the herd or the flock, it must be flawless to be acceptable; it must have no flaw. 
+
+**22** “‘You must not present to the Lord something blind, or with a broken bone, or mutilated, or with a running sore, or with a festering eruption, or with a feverish rash. You must not give any of these as a gift on the altar to the Lord. 
+
+**23** As for an ox or a sheep with a limb too long or stunted, you may present it as a freewill offering, but it will not be acceptable for a votive offering. 
+
+**24** You must not present to the Lord something with testicles that are bruised, crushed, torn, or cut off; you must not do this in your land. 
+
+**25** Even from a foreigner you must not present the food of your God from such animals as these, for they are ruined and flawed; they will not be acceptable for your benefit.’”
+
+**26** The Lord spoke to Moses: 
+
+**27** “When an ox, lamb, or goat is born, it must be under the care of its mother seven days, but from the eighth day onward it will be acceptable as an offering gift to the Lord. 
+
+**28** You must not slaughter an ox or a sheep and its young on the same day. 
+
+**29** When you sacrifice a thanksgiving offering to the Lord, you must sacrifice it so that it is acceptable for your benefit.
+
+**30** On that very day it must be eaten; you must not leave any part of it over until morning. I am the Lord. 
+
+**31** “You must be sure to do my commandments. I am the Lord. 
+
+**32** You must not profane my holy name, and I will be sanctified in the midst of the Israelites. I am the Lord who sanctifies you,
+
+**33** the one who brought you out from the land of Egypt to be your God. I am the Lord.”
+
+## Notes
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “holy things,” which means the “holy offerings” in this context, as the following verses show. The referent has been specified in the translation for clarity.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “from the holy things of the sons of Israel, and they shall not profane my holy name, which they are consecrating to me.” The latter (relative) clause applies to the “the holy things of the sons of Israel” (the first clause), not the Lord’s name (i.e., the immediately preceding clause). The clause order in the translation has been rearranged to indicate this.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “To your generations.”
+
+### Verse 3 - Note 2
+[翻訳注]  The Piel (v. 2) and Hiphil (v. 3) forms of the verb קָדַשׁ (qadash) appear to be interchangeable in this context. Both mean “to consecrate” (Heb “make holy [or “sacred”]”).
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “and his impurity [is] on him”; NIV “is ceremonially unclean”; NAB, NRSV “while he is in a state of uncleanness.”
+
+### Verse 3 - Note 4
+[解説]  Regarding the “cut off” penalty, see the note on Lev 7:20. Cf. the interpretive translation of TEV “he can never again serve at the altar.”
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “Man man.” The reduplication is a way of saying “any man” (cf. Lev 15:2; 17:3, etc.), but with a negative command it means “No man” (see B. A. Levine, Leviticus [JPSTC], 147).
+
+### Verse 4 - Note 2
+[解説]  The diseases and discharges mentioned here are those described in Lev 13-15.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “And the one.”
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “in all unclean of a person/soul”; for the Hebrew term נֶפֶשׁ (nefesh) meaning “a [dead] person,” see the note on Lev 19:28.
+
+### Verse 4 - Note 5
+[翻訳注]  Heb “or a man who goes out from him a lying of seed.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “which there shall be uncleanness to him.”
+
+### Verse 5 - Note 2
+[翻訳注]  The Hebrew term for “person” here is אָדָם (adam, “human being”), which could either a male or a female person.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “to all his impurity.” The phrase refers to the impurity of the person whom the man touches to become unclean (see the previous clause). To clarify this, the translation uses “that person’s” rather than “his.”
+
+### Verse 6 - Note 1
+[解説]  The phrase “any of these” refers back to the unclean things touched in vv. 4b-5.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “a carcass,” referring to the carcass of an animal that has died on its own, not the carcass of an animal slaughtered for sacrifice or killed by wild beasts. This has been clarified in the translation by supplying the phrase “of natural causes”; cf. NAB “that has died of itself”; TEV “that has died a natural death.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “and they will not lift up on it sin.” The pronoun “it” (masculine) apparently refers to any item of food that belongs to the category of “holy offerings” (see above).
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “and die in it.”
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “No stranger” (so KJV, ASV), which refers here to anyone other than the Aaronic priests. Some English versions reverse the negation and state positively: NIV “No one outside a priest’s family”; NRSV “Only a member of a priestly family”; CEV “Only you priests and your families.”
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “A resident [תּוֹשָׁב (toshav) from יָשַׁב (yashav, “to dwell, to reside”)] of a priest.” The meaning of the term is uncertain. It could refer to a “guest” (NIV) or perhaps “bound servant” (NRSV; see B. A. Levine, Leviticus [JPSTC], 149). In the translation “lodger” was used instead of “boarder” precisely because a boarder would be provided meals with his lodging, the very issue at stake here.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “and a priest, if he buys a person, the property of his silver.”
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “he”; the referent (the person whom the priest has purchased) has been specified in the translation for clarity.
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “eat it”; the referent (the holy offerings) has been specified in the translation for clarity.
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “his”; the referent (the priest) has been specified in the translation for clarity.
+
+### Verse 11 - Note 5
+[翻訳注]  Heb “and the [slave] born of his house, they shall eat in his food.” The LXX, Syriac, Tg. Onq., Tg. Ps.-J., and some mss of Smr have plural “ones born,” which matches the following plural “they” pronoun and the plural form of the verb.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “And a daughter of a priest, if she is to a man, a stranger” (cf. the note on v. 10 above).
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “she in the contribution of the holy offerings shall not eat.” For “contribution [offering]” see the note on Lev 7:14 and the literature cited there. Cf. NCV “the holy offerings”; TEV, NLT “the sacred offerings.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “to”; the words “live in” have been supplied in the translation for clarity.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “and seed there is not to her and she returns to the house of her father as her youth.” The mention of having “no children” appears to imply that her children, if she had any, should support her; this is made explicit by NLT’s “and has no children to support her.”
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “And a man, if he eats a holy thing in error” (see the Lev 4:2 not on “straying,” which is the term rendered “by mistake” here).
+
+### Verse 14 - Note 2
+[解説]  When a person trespassed in regard to something sacred to the Lord, reparation was to be made for the trespass, involving restitution of that which was violated plus one fifth of its value as a fine. It is possible that the restoration of the offering and the additional one fifth of its value were made as a monetary payment (see, e.g., B. A. Levine, Leviticus [JPSTC], 150). See the regulations for the “guilt offering” in Lev 5:16; 6:5 [5:24 HT] and the notes there.
+
+### Verse 15 - Note 1
+[翻訳注]  Contextually, “They” could refer either to the people (v. 14a; cf. NRSV “No one”) or the priests (v. 14b; cf. NIV “The priests”), but the latter seems more likely (see J. E. Hartley, Leviticus [WBC], 356, and B. A. Levine, Leviticus [JPSTC], 150). The priests were responsible to see that the portions of the offerings that were to be consumed by the priests as prebends did not become accessible to the people. Mistakes in this matter (cf. v. 14) would bring “guilt” on the people, requiring punishment (v. 16).
+
+### Verse 15 - Note 2
+[翻訳注]  The Hebrew verb הֵרִים (herim, rendered “contribute” here) is commonly used for setting aside portions of an offering (see, e.g., Lev 4:8-10 and R. E. Averbeck, NIDOTTE 4:335-36).
+
+### Verse 15 - Note 3
+[翻訳注]  Heb “the holy offerings of the sons of Israel which they contribute to the Lord.” The subject “they” here refers to the Israelites (“the sons of Israel”) which is the most immediate antecedent. To make this clear, the present translation has “the holy offerings which the Israelites contribute to the Lord.”
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “iniquity of guilt”; NASB “cause them to bear punishment for guilt.” The Hebrew word עָוֹן (’avon, “iniquity”) can designate either acts of iniquity or the penalty (i.e., punishment) for such acts.
+
+### Verse 16 - Note 2
+[解説]  That is, when the lay people eat portions of offerings that should have been eaten only by priests and those who belonged to priestly households.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “Man, man.” The reduplication is a way of saying “any man” (cf. Lev 15:2; 17:3, etc.; see the distributive repetition of the noun in GKC 395-96 §123.c).
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “and from the foreigner [singular] in Israel.” Some medieval Hebrew mss, Smr, LXX, Syriac, and Vulgate add “who resides” after “foreigner”: “the foreigner who resides in Israel” (cf., e.g., Lev 20:2 above).
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “for your acceptance.” See Lev 1:3-4 above and the notes there.
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “all which in it [is] a flaw.” Note that the same term is used for physical flaws of people in Lev 21:17-24. Cf. KJV, ASV, NRSV “blemish”; NASB, NIV, TEV “defect”; NLT “with physical defects.”
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “not for acceptance shall it be for you”; NIV “it will not be accepted on your behalf” (NRSV and NLT both similar).
+
+### Verse 21 - Note 1
+[翻訳注]  The meaning of the expression לְפַלֵּא־נֶדֶר (lÿfalle’-neder) rendered here “for a special votive offering” is much debated. Some take it as an expression for fulfilling a vow, “to fulfill a vow” (e.g., HALOT 927-28 s.v. פלא piel and NASB; cf. NAB, NRSV “in fulfillment of a vow”) or, alternatively, “to make a vow” or “for making a vow” (HALOT 928 s.v. פלא piel [II פלא]). Perhaps it refers to the making a special vow, from the verb פָלַא (pala’, “to be wonderful, to be remarkable”); cf. J. Milgrom, Numbers (JPSTC), 44. B. A. Levine, Leviticus (JPSTC), 151 and 193, suggests that this is a special term for “setting aside a votive offering” (related to פָלָה [palah, “to set aside”]). In general, the point of the expression seems to be that this sacrifice arises as a special gift to God out of special circumstances in the life of the worshiper.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “for acceptance”; NAB “if it is to find acceptance.”
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “all/any flaw shall not be in it.”
+
+### Verse 22 - Note 1
+[翻訳注]  Or perhaps “a wart” (cf. NIV; HALOT 383 s.v. יַבֶּלֶת, but see the remarks in J. E. Hartley, Leviticus [WBC], 358).
+
+### Verse 22 - Note 2
+[解説]  See the note on Lev 21:20 above.
+
+### Verse 22 - Note 3
+[解説]  This term for offering “gift” is explained in the note on Lev 1:9.
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “And an ox.”
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “and stunted” (see HALOT 1102 s.v. I קלט).
+
+### Verse 23 - Note 3
+[解説]  The freewill offering was voluntary, so the regulations regarding it were more relaxed. Once a vow was made, the paying of it was not voluntary (see B. A. Levine, Leviticus [JPSTC], 151-52, for very helpful remarks on this verse).
+
+### Verse 24 - Note 1
+[解説]  Compare Lev 21:20b.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “And from the hand of a son of a foreigner.”
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “for their being ruined [is] in them, flaw is in them”; NRSV “are mutilated, with a blemish in them”; NIV “are deformed and have defects.” The MT term מָשְׁחָתָם (moshkhatam, “their being ruined”) is a Muqtal form (= Hophal participle) from שָׁחַת (shakhat, “to ruin”). Smr has plural בהם משׁחתים (“deformities in them”; cf. the LXX translation). The Qumran Leviticus scroll (11QpaleoLev) has תימ הם[…], in which case the restored participle would appear to be the same as Smr, but there is no בְּ (bet) preposition before the pronoun, yielding “they are deformed” (see D. N. Freedman and K. A. Mathews, The Paleo-Hebrew Leviticus Scroll, 41 and the remarks in J. E. Hartley, Leviticus [WBC], 358).
+
+### Verse 27 - Note 1
+[翻訳注]  The words “the care of” are not in the Hebrew text, but are implied. Although many modern English versions render “with its mother” (e.g., NAB, NASB, NIV, NRSV, NLT), the literal phrase “under its mother” refers to the young animal nursing from its mother. Cf. KJV, ASV “it shall be seven days under the dam,” which would probably be misunderstood.
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “for an offering of a gift.”
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “And an ox or a sheep, it and its son, you shall not slaughter.”
+
+### Verse 28 - Note 2
+[翻訳注]  Heb “in one day.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “for your acceptance” (see the notes on Lev 1:3-4 and 22:19 above).
+
+### Verse 30 - Note 1
+[翻訳注]  Heb “On that day”; NIV, NCV “that same day.”
+
+### Verse 30 - Note 2
+[翻訳注]  Heb “from it.”
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “And you shall keep my commandments and you shall do them.” This appears to be a kind of verbal hendiadys, where the first verb is a modifier of the action of the second verb (see GKC 386 §120.d, although שָׁמַר [shamar, “to keep”] is not cited there; cf. Lev 20:8, etc.).
+
+### Verse 33 - Note 1
+[翻訳注]  Heb “to be to you for God.”

@@ -1,0 +1,459 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The Lord spoke to Moses: ",
+      "ja": "主はモーセに告げられた。"
+    },
+    {
+      "verse": 2,
+      "en": "“Speak to the Israelites and tell them, ‘When a man makes a special votive offering based on the conversion value of a person to the Lord, ",
+      "ja": "「イスラエルの人々に告げて言え。『人が主に対して人の評価額に基づき、特別な誓願を立てるとき、"
+    },
+    {
+      "verse": 3,
+      "en": "the conversion value of the male from twenty years old up to sixty years old is 50 shekels by the standard of the sanctuary shekel. ",
+      "ja": "20歳から60歳までの男の評価額は、聖所のシェケルの基準で銀50シェケルである。"
+    },
+    {
+      "verse": 4,
+      "en": "If the person is a female, the conversion value is 30 shekels. ",
+      "ja": "女であれば、評価額は30シェケルである。"
+    },
+    {
+      "verse": 5,
+      "en": "If the person is from five years old up to twenty years old, the conversion value of the male is 20 shekels, and for the female 10 shekels. ",
+      "ja": "5歳から20歳までであれば、男の評価額は20シェケル、女は10シェケルである。"
+    },
+    {
+      "verse": 6,
+      "en": "If the person is one month old up to five years old, the conversion value of the male is five shekels of silver, and for the female the conversion value is three shekels of silver. ",
+      "ja": "1か月から5歳までであれば、男の評価額は銀5シェケル、女の評価額は銀3シェケルである。"
+    },
+    {
+      "verse": 7,
+      "en": "If the person is from sixty years old and older, if he is a male, the conversion value is 15 shekels, and for the female 10 shekels. ",
+      "ja": "60歳以上であれば、男の場合は評価額15シェケル、女は10シェケルである。"
+    },
+    {
+      "verse": 8,
+      "en": "If the person making the votive offering is too poor to pay the conversion value, he must stand the person before the priest, and the priest will establish his conversion value; according to what the man who made the votive offering can afford, the priest will establish his conversion value. ",
+      "ja": "誓願を立てた者が貧しくて評価額を支払えない場合、その者を祭司の前に立たせ、祭司がその評価額を定める。誓願を立てた者の資力に応じて、祭司はその評価額を定めなければならない。"
+    },
+    {
+      "verse": 9,
+      "en": "“‘If what is vowed is a kind of animal from which an offering may be presented to the Lord, anything which he gives to the Lord from this kind of animal will be holy. ",
+      "ja": "「『誓願の対象が主への献げ物とすることができる種類の家畜である場合、この種類の家畜から主へささげるものはすべて聖なるものとなる。"
+    },
+    {
+      "verse": 10,
+      "en": "He must not replace or exchange it, good for bad or bad for good, and if he does indeed exchange one animal for another animal, then both the original animal and its substitute will be holy. ",
+      "ja": "それを取り替えたり、良いものを悪いものと、あるいは悪いものを良いものと交換したりしてはならない。もし家畜を別の家畜と交換した場合は、元の家畜もその代わりの家畜も聖なるものとなる。"
+    },
+    {
+      "verse": 11,
+      "en": "If what is vowed is an unclean animal from which an offering must not be presented to the Lord, then he must stand the animal before the priest, ",
+      "ja": "誓願の対象が、主への献げ物としてはならない汚れた家畜である場合、その家畜を祭司の前に立たせ、"
+    },
+    {
+      "verse": 12,
+      "en": "and the priest will establish its conversion value, whether good or bad. According to the conversion value assessed by the priest, thus it will be. ",
+      "ja": "祭司はその良し悪しによって評価額を定める。祭司が算定した評価額のとおりになる。"
+    },
+    {
+      "verse": 13,
+      "en": "If, however, the person who made the vow redeems the animal, he must add one-fifth to its conversion value. ",
+      "ja": "誓願を立てた者がその家畜を買い戻す場合は、その評価額に5分の1を加算しなければならない。"
+    },
+    {
+      "verse": 14,
+      "en": "“‘If a man consecrates his house as holy to the Lord, the priest will establish its conversion value, whether good or bad. Just as the priest establishes its conversion value, thus it will stand. ",
+      "ja": "「『人が自分の家を聖別して主に聖なるものとする場合、祭司はその良し悪しによって評価額を定める。祭司が評価額を定めたとおりに確定する。"
+    },
+    {
+      "verse": 15,
+      "en": "If the one who consecrates it redeems his house, he must add to it one-fifth of its conversion value in silver, and it will belong to him.",
+      "ja": "家を聖別した者がそれを買い戻す場合は、銀で評価額の5分の1をそれに加算しなければならない。そうすれば自分のものとなる。"
+    },
+    {
+      "verse": 16,
+      "en": "“‘If a man consecrates to the Lord some of his own landed property, the conversion value must be calculated in accordance with the amount of seed needed to sow it, a homer of barley seed being priced at 50 shekels of silver. ",
+      "ja": "「『人が自分の所有地の一部を主に聖別する場合、評価額はそれに蒔く種子の量に応じて計算され、大麦の種子1ホメルにつき銀50シェケルとする。"
+    },
+    {
+      "verse": 17,
+      "en": "If he consecrates his field in the Jubilee year, the conversion value will stand, ",
+      "ja": "ヨベルの年に自分の畑を聖別する場合、その評価額は確定する。"
+    },
+    {
+      "verse": 18,
+      "en": "but if he consecrates his field after the Jubilee, the priest will calculate the price for him according to the years that are left until the next Jubilee year, and it will be deducted from the conversion value. ",
+      "ja": "ヨベルの年の後に畑を聖別する場合、祭司は次のヨベルの年までに残された年数に応じて金額を計算し、その分が評価額から差し引かれる。"
+    },
+    {
+      "verse": 19,
+      "en": "If, however, the one who consecrated the field redeems it, he must add to it one-fifth of the conversion price, and it will belong to him.",
+      "ja": "畑を聖別した者がそれを買い戻す場合は、評価額の5分の1をそれに加算しなければならない。そうすれば自分のものとなる。"
+    },
+    {
+      "verse": 20,
+      "en": "If he does not redeem the field, but sells the field to someone else, he may never redeem it.",
+      "ja": "その畑を買い戻さず、他人に売却した場合、二度と買い戻すことはできない。"
+    },
+    {
+      "verse": 21,
+      "en": "When it reverts in the Jubilee, the field will be holy to the Lord like a permanently dedicated field; it will become the priest’s property. ",
+      "ja": "ヨベルの年に返還されるとき、その畑は永久に聖別された畑のように主に聖なるものとなり、祭司の所有地となる。"
+    },
+    {
+      "verse": 22,
+      "en": "“‘If he consecrates to the Lord a field he has purchased, which is not part of his own landed property, ",
+      "ja": "「『自分の所有地の一部ではなく、購入した畑を主に聖別する場合、"
+    },
+    {
+      "verse": 23,
+      "en": "the priest will calculate for him the amount of its conversion value until the Jubilee year, and he must pay the conversion value on that Jubilee day as something that is holy to the Lord. ",
+      "ja": "祭司はヨベルの年までの評価額を計算し、その人はそのヨベルの日に主に聖なるものとして評価額を納めなければならない。"
+    },
+    {
+      "verse": 24,
+      "en": "In the Jubilee year the field will return to the one from whom he bought it, the one to whom it belongs as landed property. ",
+      "ja": "ヨベルの年には、その畑は購入元の者、すなわちその土地の本来の所有者に返還される。"
+    },
+    {
+      "verse": 25,
+      "en": "Every conversion value must be calculated by the standard of the sanctuary shekel; 20 gerahs to the shekel. ",
+      "ja": "すべての評価額は聖所のシェケルの基準で計算しなければならない。1シェケルは20ゲラである。"
+    },
+    {
+      "verse": 26,
+      "en": "“‘Surely no man may consecrate a firstborn that already belongs to the Lord as a firstborn among the animals; whether it is an ox or a sheep, it belongs to the Lord. ",
+      "ja": "「『家畜の初子のうち、すでに初子として主に属しているものは、だれも聖別することはできない。牛であれ羊であれ、それは主に属している。"
+    },
+    {
+      "verse": 27,
+      "en": "If, however, it is among the unclean animals, he may ransom it according to its conversion value and must add one-fifth to it, but if it is not redeemed, it must be sold according to its conversion value. ",
+      "ja": "それが汚れた家畜である場合、その評価額に応じて買い戻すことができ、その5分の1を加算しなければならない。買い戻されない場合は、評価額に応じて売却されなければならない。"
+    },
+    {
+      "verse": 28,
+      "en": "“‘Surely anything that a man permanently dedicates to the Lord from all that belongs to him, whether from people, animals, or his landed property, must be neither sold nor redeemed; anything permanently dedicated is most holy to the Lord. ",
+      "ja": "「『人が自分に属するすべてのものの中から、人であれ家畜であれ所有地であれ、主のために永久に聖別したものは、売却することも買い戻すこともできない。永久に聖別されたものはすべて、主に対して最も聖なるものである。"
+    },
+    {
+      "verse": 29,
+      "en": "Any human being who is permanently dedicated to the Lord must not be ransomed; such a person must be put to death. ",
+      "ja": "人間であって永久に主に聖別された者は、だれも買い戻すことはできない。その者は必ず死刑に処されなければならない。"
+    },
+    {
+      "verse": 30,
+      "en": "“‘Any tithe of the land, from the grain of the land or from the fruit of the trees, belongs to the Lord; it is holy to the Lord. ",
+      "ja": "「『土地の十分の一の穀物であれ、木の実であれ、土地の十分の一はすべて主に属する。それは主に聖なるものである。"
+    },
+    {
+      "verse": 31,
+      "en": "If a man redeems part of his tithe, however, he must add one-fifth to it.",
+      "ja": "人が十分の一の一部を買い戻す場合は、その5分の1をそれに加算しなければならない。"
+    },
+    {
+      "verse": 32,
+      "en": "All the tithe of herds or flocks, everything which passes under the rod, the tenth one will be holy to the Lord. ",
+      "ja": "牛や羊の群れの十分の一、すなわち杖の下を通り抜けるすべてのものの10番目のものは、主に聖なるものとなる。"
+    },
+    {
+      "verse": 33,
+      "en": "The owner must not examine the animals to distinguish between good and bad, and he must not exchange it. If, however, he does exchange it, both the original animal and its substitute will be holy and must not be redeemed.’” ",
+      "ja": "持ち主は良いか悪いかを見分けてはならず、それを取り替えてはならない。もし取り替えた場合は、元の家畜もその代わりの家畜も聖なるものとなり、買い戻すことはできない』」"
+    },
+    {
+      "verse": 34,
+      "en": "These are the commandments which the Lord commanded Moses to tell the Israelites at Mount Sinai. ",
+      "ja": "これらは、主がシナイ山でイスラエルの人々に告げるようモーセに命じられた戒めである。"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Cf. the note on Lev 22:21. Some take this as an expression for fulfilling a vow, “to fulfill a vow” (e.g., HALOT 927-28 s.v. פלא piel and NASB; cf. NRSV “in fulfillment of a vow”) or, alternatively, “to make a vow” or “for making a vow” (HALOT 928 s.v. פלא piel [II פלא]). Perhaps it refers to the making a special vow, from the verb פָלָא (pala’, “to be wonderful; to be remarkable”), cf. Milgrom, Numbers [JPSTC], 44. B. A. Levine, Leviticus (JPSTC), 151 and 193, suggests that this is a special term for “setting aside a votive offering” (related to פָלָה, palah, “to set aside”). In general, the point of the expression seems to be that this sacrifice is a special gift to God that arose out of special circumstances in the life of the worshiper.",
+        "ja": "[翻訳注] レビ記22章21節の注を参照。これを誓願を果たす表現（「誓願を果たすため」、HALOT 927-28 s.v. פלא piel、NASB、またNRSV「誓願の履行において」参照）とする見解や、あるいは「誓願を立てる」「誓願を立てるため」（HALOT 928 s.v. פלא piel [II פלא]）とする見解もある。動詞 פָלָא（pala、すばらしい、際立っている）に由来し、特別な誓願を立てることを指すと考えられる（Milgrom, Numbers [JPSTC], 44 参照）。B. A. Levine（Leviticus [JPSTC], 151, 193）は、これが「誓願の献げ物を取り分ける」（פָלָה、palah、取り分ける、に関連）を意味する専門用語であると示唆している。総じて、この表現の要点は、この犠牲が礼拝者の生涯における特別な状況から生じた神への特別な贈り物であることにあると考えられる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in your valuation, persons to the Lord,” but “in your valuation” is a frozen form and, therefore, the person (“your”) does not figure into the translation (see J. E. Hartley, Leviticus [WBC], 73). Instead of offering a person to the Lord one could redeem that person with the appropriate amount of money delineated in the following verses (see the note on Lev 5:15 above and the explanation in Hartley, 480-81).",
+        "ja": "[翻訳注] ヘブライ語は「あなたの評価において、主への人」。ただし「あなたの評価において」は固定表現であり、人称代名詞「あなたの」は翻訳には反映されない（J. E. Hartley, Leviticus [WBC], 73 参照）。人を主にささげる代わりに、以下の節で規定されている適切な金額でその人を贖うことができた（上記のレビ記5章15節の注、および Hartley, 480-81 の解説を参照）。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “your conversion value shall be [for] the male.”",
+        "ja": "[翻訳注] ヘブライ語は「あなたの評価額は男に対して〜である」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from a son of twenty years and until a son of sixty years.”",
+        "ja": "[翻訳注] ヘブライ語は「20歳の息子から60歳の息子まで」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on Lev 5:15.",
+        "ja": "[翻訳注] レビ記5章15節の注を参照。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “five shekels silver.”",
+        "ja": "[翻訳注] ヘブライ語は「銀5シェケル」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the priest shall cause him to be valued.”",
+        "ja": "[翻訳注] ヘブライ語は「そして祭司は彼を評価させる」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “on the mouth which the hand of the one who vowed reaches.”",
+        "ja": "[翻訳注] ヘブライ語は「誓った者の手が届く口に従って」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “which they may present from it an offering.” The plural active verb is sometimes best rendered in the passive (GKC 460 §144.f, g). Some medieval Hebrew mss, Smr, a ms of the Targum, and the Vulgate all have the singular verb instead (cf. similarly v. 11).",
+        "ja": "[翻訳注] ヘブライ語は「彼らがそれから献げ物をささげることができる」。複数能動態の動詞は受動態で訳すのが最も適切な場合がある（GKC 460 §144.f, g）。一部の中世ヘブライ語写本、サマリア五書、タルグム写本、ウルガタ訳はいずれも単数動詞をとっている（11節も同様に参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from it.” The masculine suffix “it” here is used for the feminine in the MT, but one medieval Hebrew ms, some mss of Smr, the LXX, and the Syriac have the feminine. The referent (this kind of animal) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「それから」。ここでの男性接尾辞「それ」はマソラ本文では女性形に対して用いられているが、中世ヘブライ語写本1点、サマリア五書の複数写本、七十人訳聖書、シリア語訳では女性形となっている。指示対象（この種類の家畜）は明瞭さのために訳文で明示された。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “it and its substitute.” The referent (the original animal offered) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「それとその代わりのもの」。指示対象（最初にささげられた元の家畜）は明瞭さのために訳文で明示された。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the priest shall cause it to be valued.” See the note on v. 8 above.",
+        "ja": "[翻訳注] ヘブライ語は「そして祭司はそれを評価させる」。上記の8節の注を参照。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if redeeming [infinitive absolute] he redeems it [finite verb].” For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 §113.p. The referent of “he” (the person who made the vow) and “it” (the animal) have both been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし贖うなら［絶対不定詞］、彼はそれを贖う［定形動詞］」。強調ではなく対比を際立たせるために用いられる絶対不定詞については、GKC 343 §113.p を参照。「彼」（誓願を立てた者）と「それ」（家畜）の指示対象は、いずれも明瞭さのために訳文で明示された。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “on,” meaning “on top of, in addition to” (likewise in v. 15).",
+        "ja": "[翻訳注] ヘブライ語は「〜の上に」であり、「〜の上に加えて、〜に加えて」を意味する（15節も同様）。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The expression “it shall stand” may be a technical term for “it shall be legally valid”; cf. NLT “assessment will be final.”",
+        "ja": "[翻訳注] 「それは立つ（確定する）」という表現は、「法的に有効である」ことを意味する専門用語である可能性がある。NLT「評価は最終的なものとなる」を参照。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and it shall be to him.”",
+        "ja": "[翻訳注] ヘブライ語は「そしてそれは彼に属する」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a conversion value shall be to the mouth of its seed.”",
+        "ja": "[翻訳注] ヘブライ語は「評価額はその種の口に従う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “seed of a homer of barley in fifty shekels of silver.”",
+        "ja": "[翻訳注] ヘブライ語は「大麦1ホメルの種につき銀50シェケル」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from the year of the jubilee.” For the meaning of “jubilee,” see the note on Lev 25:10 above.",
+        "ja": "[翻訳注] ヘブライ語は「ヨベルの年から」。ヨベルの意味については、上記のレビ記25章10節の注を参照。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if.” The Hebrew conjunction ו (vav, “and”) can be considered to have adversative force here.",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし」。ヘブライ語接続詞 ו（ヴァヴ、「そして」）は、ここでは逆接の力を持つと見なすことができる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the silver.”",
+        "ja": "[翻訳注] ヘブライ語は「その銀」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if redeeming [infinitive absolute] he redeems [finite verb] the field, the one who consecrated it.” For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 §113.p.",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし贖うなら［絶対不定詞］、その畑を聖別した者がそれを贖う［定形動詞］」。強調ではなく対比を際立たせるために用いられる絶対不定詞については、GKC 343 §113.p を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the silver of the conversion value.”",
+        "ja": "[翻訳注] ヘブライ語は「評価額の銀」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and it shall rise to him.” See HALOT 1087 s.v. קום 7 for the rendering offered here, but see also the note on the end of v. 14 above (cf. J. E. Hartley, Leviticus [WBC], 476, 478).",
+        "ja": "[翻訳注] ヘブライ語は「そしてそれは彼に対して立つ」。ここでの訳出については HALOT 1087 s.v. קום 7 を参照。ただし上記の14節末尾の注も参照（J. E. Hartley, Leviticus [WBC], 476, 478 参照）。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and if he sells.”",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし彼が売るなら」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “When it goes out” (cf. Lev 25:25-34).",
+        "ja": "[翻訳注] ヘブライ語は「それが出て行くとき」（レビ記25:25-34参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “like the field of the permanent dedication.” The Hebrew word חֵרֶם (kherem) is a much discussed term. In this and the following verses it refers in a general way to the fact that something is permanently devoted to the Lord and therefore cannot be redeemed (cf. v. 20b). See J. A. Naudé, NIDOTTE 2:276-77; N. Lohfink, TDOT 5:180-99, esp. pp. 184, 188, and 198-99; and the numerous explanations in J. E. Hartley, Leviticus (WBC), 483-85.",
+        "ja": "[翻訳注] ヘブライ語は「永久献納の畑のように」。ヘブライ語 חֵרֶם（ヘーレム）は議論の多い語である。本節および続く節において、この語は主のために永久に聖別され、買い戻すことができない状態を全般的に指している（20節後半を参照）。J. A. Naudé, NIDOTTE 2:276-77、N. Lohfink, TDOT 5:180-99（特に184、188、198-99頁）、および J. E. Hartley, Leviticus (WBC), 483-85 の詳細な解説を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “to the priest it shall be his property.”",
+        "ja": "[翻訳注] ヘブライ語は「祭司にとってそれは彼の所有地となる」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “his field of purchase,” which is to be distinguished from his own ancestral “landed property” (cf. v. 16 above).",
+        "ja": "[翻訳注] ヘブライ語は「彼が購入した畑」であり、彼自身の先祖伝来の「所有地」とは区別される（上記の16節参照）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “give” (so KJV, ASV, NASB, NLT).",
+        "ja": "[翻訳注] ヘブライ語は「与える」（KJV、ASV、NASB、NLT など）。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on Lev 5:15.",
+        "ja": "[翻訳注] レビ記5章15節の注を参照。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to the Lord it is.”",
+        "ja": "[翻訳注] ヘブライ語は「主のものである」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if.”",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in” or “by.”",
+        "ja": "[翻訳注] ヘブライ語は「〜において」または「〜によって」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Surely, any permanently dedicated [thing] which a man shall permanently dedicate to the Lord.” The Hebrew term חֵרֶם (kherem) refers to things that are devoted permanently to the Lord (see the note on v. 21 above).",
+        "ja": "[翻訳注] ヘブライ語は「まことに、人が主のために永久に聖別するいかなる永久献納のものも」。ヘブライ語 חֵרֶם（ヘーレム）は、主のために永久に聖別されたものを指す（上記の21節の注を参照）。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “permanently dedicated from among men.”",
+        "ja": "[翻訳注] ヘブライ語は「人の中から永久に聖別された者」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  On the “tithe” system in Israel, see R. E. Averbeck, NIDOTTE 2:1035-55 and esp. pp. 1041-42 on Lev 27:30-33.",
+        "ja": "[翻訳注] イスラエルの「十分の一」制度については、R. E. Averbeck, NIDOTTE 2:1035-55、特にレビ記27章30-33節についての1041-42頁を参照。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if redeeming [infinitive absolute] a man redeems [finite verb].” For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 §113.p.",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし贖うなら［絶対不定詞］、人が贖う［定形動詞］」。強調ではなく対比を際立たせるために用いられる絶対不定詞については、GKC 343 §113.p を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “its one fifth on it.”",
+        "ja": "[翻訳注] ヘブライ語は「その5分の1をその上に」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[解説]  The tithed animal was the tenth one that passed under the shepherd’s rod or staff as they were being counted (see J. E. Hartley, Leviticus [WBC], 485, and B. A. Levine, Leviticus [JPSTC], 200).",
+        "ja": "[解説] 十分の一として納められる家畜は、数えられる際に羊飼いの杖や棒の下を通り抜ける10番目のものであった（J. E. Hartley, Leviticus [WBC], 485、および B. A. Levine, Leviticus [JPSTC], 200 参照）。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (the owner of the animal) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「彼」。指示対象（家畜の持ち主）は明瞭さのために訳文で明示された。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “And if exchanging [infinitive absolute] he exchanges it [finite verb].” For the infinitive absolute used to highlight contrast rather than emphasis see GKC 343 §113.p.",
+        "ja": "[翻訳注] ヘブライ語は「そしてもし取り替えるなら［絶対不定詞］、彼がそれを取り替える［定形動詞］」。強調ではなく対比を際立たせるために用いられる絶対不定詞については、GKC 343 §113.p を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “it and its substitute.” The referent (the original animal offered) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語は「それとその代わりのもの」。指示対象（最初にささげられた元の家畜）は明瞭さのために訳文で明示された。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “it shall be and its substitute shall be holy.”",
+        "ja": "[翻訳注] ヘブライ語は「それは聖なるものとなり、その代わりのものも聖なるものとなる」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Most of the commentaries and English versions translate, “which the Lord commanded Moses for the children of Israel.” The preposition אֶל (’el), however, does not usually mean “for.” In this book it is commonly used when the Lord commands Moses “to speak [un]to” a person or group of persons (see, e.g., Lev 1:2; 4:2, etc.). The translation “to tell” here reflects this pattern in the book of Leviticus.",
+        "ja": "[翻訳注] 大半の注解書および英語訳は「主がイスラエルの子らのためにモーセに命じられた」と翻訳している。しかし前置詞 אֶל（エル）は通常「〜のために」を意味しない。本書においてこの前置詞は、主が人や人々の集団に「告げるよう」モーセに命じられる際に一般的に用いられている（例：レビ記1:2、4:2など参照）。ここでの「告げるよう」という翻訳は、レビ記におけるこの語法パターンを反映している。"
+      }
+    ]
+  }
+}

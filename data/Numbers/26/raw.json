@@ -1,0 +1,622 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The breakdown of ch.  for outlining purposes will be essentially according to the tribes of Israel. The format and structure is similar to the first census, and so less comment is necessary here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT has also &#8220;saying.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;house of their fathers.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;everyone who goes out in the army in Israel.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;River&#8221; is not in the Hebrew text, but has been supplied in the translation for clarity (also in v. <span class=\"bibleref\" title=\"Numbers 26:62\">62</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;Number the people&#8221; is added here to the text for a smooth reading.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text has no preposition here, but one has been supplied in the translation for clarity. Cf. vv. <span class=\"bibleref\" title=\"Numbers 26:23,30,31,32\">23, 30, 31, 32</span>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Reubenites had decreased from 46,500 to 43,730.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT has &#8220;and the sons of Pallu.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;company&#8221; (so KJV, NASB, NRSV); <i>Heb</i> &#8220;congregation.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> This is &#8220;Zohar&#8221; in <span class=\"bibleref\" title=\"Exodus 6:15\">Exod 6:15</span> and <span class=\"bibleref\" title=\"Genesis 46:10\">Gen 46:10</span>.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Before entering Sinai the tribe numbered 59,300, the third largest. Now it was about one-third its original size.</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT of <span class=\"bibleref\" title=\"Genesis 46:16\">Gen 46:16</span> reads this as &#8220;Ezbon.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Greek version and Smr have &#8220;Ad[d]i,&#8221; probably by confusion of letters.</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <span class=\"bibleref\" title=\"Genesis 46:16\">Gen 46:16</span> and the LXX here read &#8220;Arodi.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Gadites decreased from 45,650 to 40,500.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Smr and the Greek version have &#8220;Hamuel.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Judahites increased from 74,600 to 76,500.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Issacharites increased from 54,400 to 64,300.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Zebulunites showed a slight increase from 57,400 to 60,500.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Manassehites increased from 32,200 to 52,700.</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This is a significant reduction from the first count of 40,500.</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> With the exception of a few manuscripts the MT has <i>Shephupham</i>. The spelling in the translation above is supported by Smr and the ancient versions.</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX has <i>Adar</i>. Cf. <span class=\"bibleref\" title=\"1 Chronicles 8:3\">1 Chr 8:3</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> &#8220;From Ard&#8221; is not in the Hebrew text.</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Benjaminites increased from 35,400 to 45,600. The Greek version has here 35,500.</div>"
+      ]
+    ],
+    "43": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Danites increased from 62,700 to 64,400.</div>"
+      ]
+    ],
+    "46": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Also mentioned in <span class=\"bibleref\" title=\"1 Chronicles 7:30\">1 Chr 7:30</span>.</div>"
+      ]
+    ],
+    "47": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Asherites increased from 41,500 to 53,400.</div>"
+      ]
+    ],
+    "50": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Naphtalites decreased from 53,400 to 45,400.</div>"
+      ]
+    ],
+    "51": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This number shows only a slightly smaller total in the second census; the first was 603,550.</div>"
+      ]
+    ],
+    "54": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to many you will multiply his inheritance.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to a few you will lessen his inheritance.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;according to those that were numbered of him,&#8221; meaning, in accordance with the number of people in his clan.</div>"
+      ]
+    ],
+    "56": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;divided.&#8221;</div>"
+      ]
+    ],
+    "59": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who she bore him to Levi.&#8221; The verb has no expressed subject. Either one could be supplied, such as &#8220;her mother,&#8221; or it could be treated as a passive.</div>"
+      ]
+    ],
+    "61": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The expression <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1461;&#1513;&#1473; &#1494;&#1464;&#1512;&#1464;&#1492;</font> (&#8217;<font face=\"Scholar\">esh zarah</font>, &#8220;strange fire&#8221;) seems imprecise and has been interpreted numerous ways (see the helpful summary in J. E. Hartley, <i>Leviticus</i> [WBC 4], 132-33). The infraction may have involved any of the following or a combination thereof: (1) using coals from some place other than the burnt offering altar (i.e., &#8220;unauthorized coals&#8221; according to J. Milgrom, <i>Leviticus</i> [AB], 1:598; cf. <span class=\"bibleref\" title=\"Leviticus 16:12\">Lev 16:12</span> and cf. &#8220;unauthorized person&#8221; [<font face=\"Galaxie Unicode Hebrew\">&#1488;&#1460;&#1497;&#1513;&#1473; &#1494;&#1464;&#1512;</font>, &#8217;<font face=\"Scholar\">ish zar</font>] in <span class=\"bibleref\" title=\"Numbers 16:40\">Num 16:40</span> [<span class=\"bibleref\" title=\"Numbers 17:5\">17:5</span> HT], NASB &#8220;layman&#8221;), (2) using the wrong kind of incense (cf. the <span class=\"bibleref\" title=\"Exodus 30:9\">Exod 30:9</span> regulation against &#8220;strange incense&#8221; [<font face=\"Galaxie Unicode Hebrew\">&#1511;&#1456;&#1496;&#1465;&#1512;&#1462;&#1514; &#1494;&#1464;&#1512;&#1464;&#1492;</font>, <font face=\"Scholar\">q&#255;toret zarah</font>] on the incense altar and the possible connection to <span class=\"bibleref\" title=\"Exodus 30:34-38\">Exod 30:34-38</span>), (3) performing an incense offering at an unprescribed time (B. A. Levine, <i>Leviticus</i> [JPSTC], 59), or (4) entering the Holy of Holies at an inappropriate time (<span class=\"bibleref\" title=\"Leviticus 16:1-2\">Lev 16:1-2</span>).<p class=\"note\"><span class=\"notetype\">sn</span> This event is narrated in <span class=\"bibleref\" title=\"Leviticus 10:1-7\">Lev 10:1-7</span>.</p></div>"
+      ]
+    ],
+    "63": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "64": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;who had been&#8221; is added to clarify the text.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "1",
+      "text": " After the plague the Lord said to Moses and to Eleazar son of Aaron the priest, "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "2",
+      "text": "“Take a census of the whole community of Israelites, from twenty years old and upward, by their clans, everyone who can serve in the army of Israel.” "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "3",
+      "text": "So Moses and Eleazar the priest spoke with them in the rift valley plains of Moab, along the Jordan River across from Jericho. They said, "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "4",
+      "text": "“Number the people from twenty years old and upward, just as the Lord commanded Moses and the Israelites who went out from the land of Egypt.” "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "5",
+      "text": "Reuben was the firstborn of Israel. The Reubenites: from Hanoch, the family of the Hanochites; from Pallu, the family of the Palluites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "6",
+      "text": "from Hezron, the family of the Hezronites; from Carmi, the family of the Carmites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "7",
+      "text": "These were the families of the Reubenites; and those numbered of them were 43,730."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "8",
+      "text": "Pallu’s descendant was Eliab. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "9",
+      "text": "Eliab’s descendants were Nemuel, Dathan, and Abiram. It was Dathan and Abiram who as leaders of the community rebelled against Moses and Aaron with the followers of Korah when they rebelled against the Lord. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "10",
+      "text": "The earth opened its mouth and swallowed them and Korah at the time that company died, when the fire consumed 250 men. So they became a warning. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "11",
+      "text": "But the descendants of Korah did not die. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "12",
+      "text": "The Simeonites by their families: from Nemuel, the family of the Nemuelites; from Jamin, the family of the Jaminites; from Jakin, the family of the Jakinites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "13",
+      "text": "from Zerah, the family of the Zerahites; and from Shaul, the family of the Shaulites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "14",
+      "text": "These were the families of the Simeonites, 22,200."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "15",
+      "text": "The Gadites by their families: from Zephon, the family of the Zephonites; from Haggi, the family of the Haggites; from Shuni, the family of the Shunites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "16",
+      "text": "from Ozni, the family of the Oznites; from Eri, the family of the Erites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "17",
+      "text": "from Arod, the family of the Arodites; and from Areli, the family of the Arelites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "18",
+      "text": "These were the families of the Gadites according to those numbered of them, 40,500."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "19",
+      "text": "The descendants of Judah were Er and Onan, but Er and Onan died in the land of Canaan. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "20",
+      "text": "And the Judahites by their families were: from Shelah, the family of the Shelahites; from Perez, the family of the Perezites; and from Zerah, the family of the Zerahites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "21",
+      "text": "And the Perezites were: from Hezron, the family of the Hezronites; from Hamul, the family of the Hamulites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "22",
+      "text": "These were the families of Judah according to those numbered of them, 76,500."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "23",
+      "text": "The Issacharites by their families: from Tola, the family of the Tolaites; from Puah, the family of the Puites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "24",
+      "text": "from Jashub, the family of the Jashubites; and from Shimron, the family of the Shimronites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "25",
+      "text": "These were the families of Issachar, according to those numbered of them, 64,300."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "26",
+      "text": "The Zebulunites by their families: from Sered, the family of the Sardites; from Elon, the family of the Elonites; from Jahleel, the family of the Jahleelites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "27",
+      "text": "These were the families of the Zebulunites, according to those numbered of them, 60,500."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "28",
+      "text": "The descendants of Joseph by their families: Manasseh and Ephraim. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "29",
+      "text": "The Manassehites: from Machir, the family of the Machirites (now Machir became the father of Gilead); from Gilead, the family of the Gileadites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "30",
+      "text": "These were the Gileadites: from Iezer, the family of the Iezerites; from Helek, the family of the Helekites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "31",
+      "text": "from Asriel, the family of the Asrielites; from Shechem, the family of the Shechemites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "32",
+      "text": "from Shemida, the family of the Shemidaites; from Hepher, the family of the Hepherites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "33",
+      "text": "Now Zelophehad son of Hepher had no sons, but only daughters; and the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "34",
+      "text": "These were the families of Manasseh; those numbered of them were 52,700."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "35",
+      "text": "These are the Ephraimites by their families: from Shuthelah, the family of the Shuthelahites; from Beker, the family of the Bekerites; from Tahan, the family of the Tahanites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "36",
+      "text": "Now these were the Shuthelahites: from Eran, the family of the Eranites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "37",
+      "text": "These were the families of the Ephraimites, according to those numbered of them, 32,500. These were the descendants of Joseph by their families. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "38",
+      "text": "The Benjaminites by their families: from Bela, the family of the Belaites; from Ashbel, the family of the Ashbelites; from Ahiram, the family of the Ahiramites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "39",
+      "text": "from Shupham, the family of the Shuphamites; from Hupham, the family of the Huphamites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "40",
+      "text": "The descendants of Bela were Ard and Naaman. From Ard, the family of the Ardites; from Naaman, the family of the Naamanites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "41",
+      "text": "These are the Benjaminites, according to their families, and according to those numbered of them, 45,600."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "42",
+      "text": "These are the Danites by their families: from Shuham, the family of the Shuhamites. These were the families of Dan, according to their families. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "43",
+      "text": "All the families of the Shuhamites according to those numbered of them were 64,400."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "44",
+      "text": "The Asherites by their families: from Imnah, the family of the Imnahites; from Ishvi, the family of the Ishvites; from Beriah, the family of the Beriahites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "45",
+      "text": "From the Beriahites: from Heber, the family of the Heberites; from Malkiel, the family of the Malkielites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "46",
+      "text": "Now the name of the daughter of Asher was Serah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "47",
+      "text": "These are the families of the Asherites, according to those numbered of them, 53,400."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "48",
+      "text": "The Naphtalites by their families: from Jahzeel, the family of the Jahzeelites; from Guni, the family of the Gunites; "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "49",
+      "text": "from Jezer, the family of the Jezerites; from Shillem, the family of the Shillemites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "50",
+      "text": "These were the families of Naphtali according to their families; and those numbered of them were 45,400."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "51",
+      "text": "These were those numbered of the Israelites, 601,730."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "52",
+      "text": "Then the Lord spoke to Moses: "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "53",
+      "text": "“To these the land must be divided as an inheritance according to the number of the names. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "54",
+      "text": "To a larger group you will give a larger inheritance, and to a smaller group you will give a smaller inheritance. To each one its inheritance must be given according to the number of people in it."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "55",
+      "text": "The land must be divided by lot; and they will inherit in accordance with the names of their ancestral tribes. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "56",
+      "text": "Their inheritance must be apportioned by lot among the larger and smaller groups.”"
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "57",
+      "text": "And these are the Levites who were numbered according to their families: from Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; from Merari, the family of the Merarites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "58",
+      "text": "These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korahites. Kohath became the father of Amram. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "59",
+      "text": "Now the name of Amram’s wife was Jochebed, daughter of Levi, who was born to Levi in Egypt. And to Amram she bore Aaron, Moses, and Miriam their sister. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "60",
+      "text": "And to Aaron were born Nadab and Abihu, Eleazar and Ithamar. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "61",
+      "text": "But Nadab and Abihu died when they offered strange fire before the Lord. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "62",
+      "text": "Those of the Levites who were numbered were 23,000, all males from a month old and upward, for they were not numbered among the Israelites; no inheritance was given to them among the Israelites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "63",
+      "text": "These are those who were numbered by Moses and Eleazar the priest, who numbered the Israelites in the rift valley plains of Moab along the Jordan River opposite Jericho. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "64",
+      "text": "But there was not a man among these who had been among those numbered by Moses and Aaron the priest when they numbered the Israelites in the desert of Sinai. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "26",
+      "verse": "65",
+      "text": "For the Lord had said of them, “They will surely die in the wilderness.” And there was not left a single man of them, except Caleb son of Jephunneh and Joshua son of Nun. "
+    }
+  ]
+}

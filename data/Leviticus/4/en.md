@@ -75,10 +75,202 @@
 ## Notes
 
 ### Verse 1 - Note 1
-
+[解説]  The quotation introduced here extends from Lev 4:2 through 5:13, and encompasses all the sin offering regulations. Compare the notes on Lev 1:1 above, and 5:14 and 6:1 [5:20 HT] below.
 
 ### Verse 2 - Note 1
+[翻訳注]  Heb “And a person, when he sins in straying.” The English translation of “by straying” (בִּשְׁגָגָה [bishgagah] literally, “in going astray; in making an error”) varies greatly, but almost all suggest that this term refers to sins that were committed by mistake or done not knowing that the particular act was sinful (J. Milgrom, Leviticus [AB], 1:228-29). See, e.g., LXX “involuntarily”; Tg. Onq. “by neglect”; KJV “through ignorance”; ASV, RSV, NJPS “unwittingly”; NASB, NIV, NRSV, NLT “unintentionally”; NAB, NEB “inadvertently”; NCV “by accident.” However, we know from Num 15:27-31 that committing a sin “by straying” is the opposite of committing a sin “defiantly” (i.e., בְּיַד רָמָה [bÿyad ramah] “with a raised hand,” v. 30). In the latter case the person, as it were, raises his fist in presumptuous defiance against the Lord. Thus, he “blasphemes” the Lord and has “despised” his word, for which he should be “cut off from among his people” (Num 15:30-31). One could not bring an offering for such a sin. The expression here in Lev 4:2 combines “by straying” with the preposition “from” which fits naturally with “straying” (i.e., “straying from” the Lord’s commandments). For sins committed “by straying” from the commandments ( throughout) or other types of transgressions (Lev 5:1-6) there was indeed forgiveness available through the sin offering. See R. E. Averbeck, NIDOTTE 2:94-95.
 
+### Verse 2 - Note 2
+[翻訳注]  This is an emphatic use of the preposition מִן (min; see R. J. Williams, Hebrew Syntax, 56-57, §325).
+
+### Verse 2 - Note 3
+[翻訳注]  The “when” clause (כִּי, ki) breaks off here before its resolution, thus creating an open-ended introduction to the following subsections, which are introduced by “if” (אִם [’im] vv. 3, 13, 27, 32). Also, the last part of the verse reads literally, “which must not be done and does from one from them.”
 
 ### Verse 3 - Note 1
+[翻訳注]  Heb “the anointed priest” (so ASV, NAB, NASB, NIV, NRSV). This refers to the high priest (cf. TEV, CEV, NLT).
 
+### Verse 3 - Note 2
+[翻訳注]  Heb “to the guilt of the people”; NRSV “thus bringing guilt on the people.”
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “and he shall offer on his sin which he sinned, a bull, a son of the herd, flawless.”
+
+### Verse 3 - Note 4
+[解説]  The word for “sin offering” (sometimes translated “purification offering”) is the same as the word for “sin” earlier in the verse. One can tell which rendering is intended only by the context. The primary purpose of the “sin offering” (חַטָּאת, khatta’t) was to “purge” (כִּפֶּר, kipper, “to make atonement,” see 4:20, 26, 31, 35, and the notes on Lev 1:4 and esp. Lev 16:20, 33) the sanctuary or its furniture in order to cleanse it from any impurities and/or (re)consecrate it for holy purposes (see, e.g., Lev 8:15; 16:19). By making this atonement the impurities of the person or community were cleansed and the people became clean. See R. E. Averbeck, NIDOTTE 2:93-103.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “from the blood of the bull” (and similarly throughout this chapter).
+
+### Verse 6 - Note 1
+[翻訳注]  The Hebrew verb וְהִזָּה (vÿhizzah, Hiphil of נָזָה, nazah) does indeed mean “sprinkle” or “splatter.” Contrast the different Hebrew verb meaning “splash” in Lev 1:5 (זָרָק, zaraq).
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “of the blood.” The relative pronoun (“it”) has been used in the translation here for stylistic reasons.
+
+### Verse 6 - Note 3
+[翻訳注]  The particle here translated “toward” usually serves as a direct object indicator or a preposition meaning “with.” With the verb of motion it probably means “toward,” “in the direction of” (J. Milgrom, Leviticus [AB], 1:234; J. E. Hartley, Leviticus [WBC], 60); cf. NAB, CEV.
+
+### Verse 6 - Note 4
+[翻訳注]  The Hebrew term פָּרֹכֶת (parokhet) is usually translated “veil” (e.g., ASV, NAB, NASB) or “curtain” (e.g., NIV, NRSV), but it seems to have stretched not only in front of but also over the top of the ark of the covenant which stood behind and under it inside the most holy place (see R. E. Averbeck, NIDOTTE 3:687-89).
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “all the fat of the bull of the sin offering he shall take up from it.”
+
+### Verse 8 - Note 2
+[写本注]  The MT has here the preposition עַל (’al, “on, upon” [i.e., “which covers on the entrails,” as awkward in Hebrew as it is in English]), but Smr, LXX, Syriac, and Targums read אֶת (’et), which is what would be expected (i.e., “which covers the entrails”; cf. Lev 3:3, 9, 14). It may have been mistakenly inserted here under the influence of “on (עַל) the entrails” at the end of the verse.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “and all the fat on the entrails.” The fat layer that covers the entrails as a whole (i.e., “that covers the entrails”) is different from the fat that surrounds and adheres to the various organs (“on the entrails,” i.e., surrounding them; J. Milgrom, Leviticus [AB], 1:205-7).
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “and the protruding lobe on the liver on the kidneys he shall remove it.”
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “taken up from”; KJV, ASV “taken off from”; NAB, NASB, NIV, NRSV “removed.” See the notes on Lev 3:3-4 above (cf. also 3:9-10, 14-15).
+
+### Verse 12 - Note 1
+[翻訳注]  All of v. 11 is a so-called casus pendens (also known as an extraposition or a nominative absolute), which means that it anticipates the next verse, being the full description of “all (the rest of) the bull” (lit. “all the bull”) at the beginning of v. 12 (actually after the first verb of the verse; see the next note below).
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “And he (the offerer) shall bring out all the bull to from outside to the camp to a clean place.”
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “a clean place,” but referring to a place that is ceremonially clean. This has been specified in the translation for clarity.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “the pouring out [place] of fatty ash.”
+
+### Verse 12 - Note 5
+[翻訳注]  Heb “burn with fire.” This expression is somewhat redundant in English, so the translation collocates “fire” with “wood,” thus “a wood fire.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “strays”; KJV “sin through ignorance.” The verb “strays” here is the verbal form of the noun in the expression “by straying” (see the note on Lev 4:2 above).
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “is concealed from the eyes of”; NASB, NRSV, NLT “escapes the notice of.”
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “and they do one from all the commandments of the Lord which must not be done” (cf. v. 2).
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “and the sin which they committed on it becomes known”; KJV “which they have sinned against it.” The Hebrew עָלֶיהָ (’aleha, “on it”) probably refers back to “one of the commandments” in v. 13 (J. Milgrom, Leviticus [AB], 1:243).
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “and he shall slaughter.” The singular verb seems to refer to an individual who represents the whole congregation, perhaps one of the elders referred to at the beginning of the verse, or the officiating priest (cf. v. 21). The LXX and Syriac make the verb plural, referring to “the elders of the congregation.”
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “the anointed priest” (so ASV, NAB, NASB, NIV, NRSV). This refers to the high priest (cf. TEV).
+
+### Verse 17 - Note 1
+[翻訳注]  The words “in the blood” are not repeated in the Hebrew text at this point, but must be supplied in the English translation for clarity.
+
+### Verse 17 - Note 2
+[翻訳注]  The Hebrew verb וְהִזָּה (vÿhizzah, Hiphil of נָזָה, nazah) does indeed mean “sprinkle” or “splatter.” Contrast the different Hebrew verb translated “splash” in Lev 1:5 (זָרָק, zaraq).
+
+### Verse 17 - Note 3
+[写本注]  The MT reads literally, “and the priest shall dip his finger from the blood and sprinkle seven times.” This is awkward. Compare v. 6, which has literally, “and the priest shall dip his finger in the blood and sprinkle from the blood seven times.” The MT appears to be corrupt by haplography (i.e., assuming v. 6 to be the correct form, in v. 17 the scribe skipped from “his finger” to “from the blood,” thus missing “in the blood”) and metathesis (i.e., this also resulted in a text where “from the blood” stands before “sprinkle” rather than after it; J. E. Hartley, Leviticus [WBC], 47).
+
+### Verse 17 - Note 4
+[翻訳注]  See the note on v. 6 above.
+
+### Verse 17 - Note 5
+[翻訳注]  See the note on v. 6 above.
+
+### Verse 18 - Note 1
+[解説]  See v. 7, where this altar is identified as the altar of fragrant incense.
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “Then he”; the referent has been specified in the translation for clarity. Based on the parallel statement in 4:10 and 4:31, it is the priest who performs this action rather than the person who brought the offering.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “take up all its fat from it”; NASB “shall remove all its fat from it.”[解説]  See the full discussion of the fat regulations in Lev 4:8-9 above.
+
+### Verse 19 - Note 3
+[翻訳注]  Heb “it”; the referent (the fat) has been specified in the translation for clarity. Only the fat is meant here, since the “rest” of the bull is mentioned in v. 21.
+
+### Verse 20 - Note 1
+[解説]  Cf. Lev 4:11-12 above for the disposition of “the [rest of] the bull.”
+
+### Verse 20 - Note 2
+[解説]  The focus of sin offering “atonement” was purging impurities from the tabernacle (see the note on Lev 1:4).
+
+### Verse 20 - Note 3
+[翻訳注]  Heb “there shall be forgiveness to them” or “it shall be forgiven to them.”
+
+### Verse 21 - Note 1
+[解説]  See the note on the word “slaughter” in v. 15.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “And he shall bring out the bull to from outside to the camp.”
+
+### Verse 22 - Note 1
+[翻訳注]  This section begins with the relative pronoun אֲשֶׁר (’asher) which usually means “who” or “which,” but here means “whenever.”
+
+### Verse 22 - Note 2
+[翻訳注]  See the Lev 4:2 note on “straying.”
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “and does one from all the commandments of the Lord his God which must not be done”; cf. NRSV “ought not to be done”; NIV “does what is forbidden in any of the commands.”
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “or his sin which he sinned in it is made known to him”; NAB “if he learns of the sin he committed.”
+
+### Verse 23 - Note 2
+[翻訳注]  Lev 4:22b-23a is difficult. The present translation suggests that there are two possible legal situations envisioned, separated by the Hebrew אוֹ (’o, “or”) at the beginning of v. 23. Lev 4:22b refers to any case in which the leader readily admits his guilt (i.e., “pleads guilty”), whereas v. 23a refers to cases where the leader is convicted of his guilt by legal action (“his sin…is made known to him”). See R. E. Averbeck, NIDOTTE 2:95-96; Lev 4:27-28; and esp. the notes on Lev 5:1 below.
+
+### Verse 23 - Note 3
+[翻訳注]  Heb “a he-goat of goats, a male without defect”; cf. NLT “with no physical defects.”
+
+### Verse 24 - Note 1
+[翻訳注]  The LXX has a plural form here and also for the same verb later in the verse. See the note on Lev 1:5a.
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “Then he”; the referent has been specified in the translation for clarity. Based on the parallel statements in 4:10 and 4:31, it is the priest who performs this action rather than the person who brought the offering.
+
+### Verse 26 - Note 2
+[解説]  The focus of sin offering “atonement” was purging impurities from the tabernacle (see the note on Lev 1:4).
+
+### Verse 26 - Note 3
+[翻訳注]  Heb “from.” In this phrase the preposition מִן (min) may be referring to the reason or cause (“on account of, because of”; GKC 383 §119.z). As J. E. Hartley (Leviticus [WBC], 47) points out, “from” may refer to the removal of the sin, but is an awkward expression. Hartley also suggests that the phrasing might be “an elliptical expression for יְכַפֵּר עַל־לְטַהֵר אֶת־מִן, ‘he will make expiation for…to cleanse…from…,’ as in 16:30.”
+
+### Verse 26 - Note 4
+[翻訳注]  Heb “there shall be forgiveness to him” or “it shall be forgiven to him” (KJV similar).
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “an individual from the people of the land”; cf. NASB “anyone of the common people” (KJV, ASV both similar); NAB “a private person.”
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “If one person sins by straying, from the people of the land.” See Lev 4:2 for a note on “straying.”
+
+### Verse 27 - Note 3
+[翻訳注]  Heb “by doing it, one from the commandments of the Lord which must not be done.”
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “or his sin which he sinned is made known to him”; cf. NCV “when that person learns about his sin.”
+
+### Verse 28 - Note 2
+[翻訳注]  Lev 4:27b-28a is essentially the same as 4:22b-23a (see the notes there).
+
+### Verse 28 - Note 3
+[翻訳注]  Heb “a she-goat of goats, a female without defect”; NAB “an unblemished she-goat.”
+
+### Verse 28 - Note 4
+[翻訳注]  Heb “on his sin.”
+
+### Verse 29 - Note 1
+[写本注]  The LXX has a plural form here (see v. 24 above and the note on Lev 1:5a).
+
+### Verse 31 - Note 1
+[解説]  The focus of sin offering “atonement” was purging impurities from the tabernacle (see the note on Lev 1:4).
+
+### Verse 31 - Note 2
+[翻訳注]  Heb “there shall be forgiveness to him” or “it shall be forgiven to him” (KJV similar).
+
+### Verse 35 - Note 1
+[翻訳注]  Heb “Then he”; the referent has been specified in the translation for clarity. Here “he” refers to the offerer rather than the priest (contrast the clauses before and after).
+
+### Verse 35 - Note 2
+[解説]  The focus of sin offering “atonement” was purging impurities from the tabernacle (see the note on Lev 1:4).
+
+### Verse 35 - Note 3
+[翻訳注]  Heb “there shall be forgiveness to him” or “it shall be forgiven to him” (KJV similar).

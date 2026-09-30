@@ -1,0 +1,526 @@
+{
+  "book": "Leviticus",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The Lord spoke to Moses and Aaron, saying to them,",
+      "ja": "主はモーセとアロンに告げて言われた。"
+    },
+    {
+      "verse": 2,
+      "en": "“Tell the Israelites: ‘This is the kind of creature you may eat from among all the animals that are on the land. ",
+      "ja": "イスラエルの人々にこう言いなさい。「地上のすべての動物のうち、あなたがたが食べてもよい生き物は以下のとおりである。"
+    },
+    {
+      "verse": 3,
+      "en": "You may eat any among the animals that has a divided hoof (the hooves are completely split in two) and that also chews the cud. ",
+      "ja": "動物のうち、ひづめの分かれているもの（ひづめが完全に二つに割れているもの）、かつ反芻するものはどれでも食べてよい。"
+    },
+    {
+      "verse": 4,
+      "en": "However, you must not eat these from among those that chew the cud and have divided hooves: The camel is unclean to you because it chews the cud even though its hoof is not divided. ",
+      "ja": "しかし、反芻するものあるいはひづめの分かれているもののうち、以下のものは食べてってはならない。ラクダは反芻するが、ひづめが分かれていないので、あなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 5,
+      "en": "The rock badger is unclean to you because it chews the cud even though its hoof is not divided. ",
+      "ja": "イワダキネズミは反芻するが、ひづめが分かれていないので、あなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 6,
+      "en": "The hare is unclean to you because it chews the cud even though its hoof is not divided. ",
+      "ja": "ノウサギは反芻するが、ひづめが分かれていないので、あなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 7,
+      "en": "The pig is unclean to you because its hoof is divided (the hoof is completely split in two) , even though it does not chew the cud. ",
+      "ja": "豚はひづめが分かれている（ひづめが完全に二つに割れている）が、反芻しないので、あなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 8,
+      "en": "You must not eat from their meat, and you must not touch their carcasses; they are unclean to you.",
+      "ja": "あなたがたはその肉を食べてはならず、その死体に触れてもならない。それらはあなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 9,
+      "en": "“‘These you can eat from all creatures that are in the water: Any creatures in the water that have both fins and scales, whether in the seas or in the streams, you may eat. ",
+      "ja": "水の中にいるすべての生き物のうち、あなたがたが食べてよいのは以下のとおりである。海であれ川であれ、水の中にいるもので、ひれとうろこの両方があるものは、どれでも食べてよい。"
+    },
+    {
+      "verse": 10,
+      "en": "But any creatures that do not have both fins and scales, whether in the seas or in the streams, from all the swarming things of the water and from all the living creatures that are in the water, are detestable to you.",
+      "ja": "しかし、海であれ川であれ、水の中に群がるすべてのもの、および水の中にいるすべての生き物のうち、ひれとうろこの両方がないものはすべて、あなたがたにとって忌むべきものである。"
+    },
+    {
+      "verse": 11,
+      "en": "Since they are detestable to you, you must not eat their meat, and their carcass you must detest. ",
+      "ja": "それらはあなたがたにとって忌むべきものであるから、その肉を食べてはならないし、その死体を忌み嫌わなければならない。"
+    },
+    {
+      "verse": 12,
+      "en": "Any creature in the water that does not have both fins and scales is detestable to you.",
+      "ja": "ひれとうろこの両方がない水中の生き物はすべて、あなたがたにとって忌むべきものである。"
+    },
+    {
+      "verse": 13,
+      "en": "“‘These you are to detest from among the birds—they must not be eaten, because they are detestable: the griffon vulture, the bearded vulture, the black vulture, ",
+      "ja": "鳥類の中で、あなたがたが忌み嫌い、食べてはならない忌むべきものは以下のとおりである。ハゲワシ、ヒゲハゲワシ、クロハゲワシ、"
+    },
+    {
+      "verse": 14,
+      "en": "the kite, the buzzard of any kind, ",
+      "ja": "トビ、各種のノスリ、"
+    },
+    {
+      "verse": 15,
+      "en": "every kind of crow, ",
+      "ja": "各種のカラス、"
+    },
+    {
+      "verse": 16,
+      "en": "the eagle owl, the short-eared owl, the long-eared owl, the hawk of any kind, ",
+      "ja": "ミミズク、トラフズク、オオミミズク、各種のタカ、"
+    },
+    {
+      "verse": 17,
+      "en": "the little owl, the cormorant, the screech owl, ",
+      "ja": "コキンメフクロウ、ウ、モリフクロウ、"
+    },
+    {
+      "verse": 18,
+      "en": "the white owl, the scops owl, the osprey, ",
+      "ja": "メンフクロウ、コノハズク、ミサゴ、"
+    },
+    {
+      "verse": 19,
+      "en": "the stork, the heron of any kind, the hoopoe, and the bat. ",
+      "ja": "コウノトリ、各種のサギ、ヤツガシラ、そしてコウモリ。"
+    },
+    {
+      "verse": 20,
+      "en": "“‘Every winged swarming thing that walks on all fours is detestable to you.",
+      "ja": "四つ足で歩く羽のある群がるものはすべて、あなたがたにとって忌むべきものである。"
+    },
+    {
+      "verse": 21,
+      "en": "However, this you may eat from all the winged swarming things that walk on all fours, which have jointed legs to hop with on the land. ",
+      "ja": "ただし、羽のある群がるものの中で、地上の上で跳ねるための関節のついた脚を持つものは、以下のものを食べてもよい。"
+    },
+    {
+      "verse": 22,
+      "en": "These you may eat from them: the locust of any kind, the bald locust of any kind, the cricket of any kind, the grasshopper of any kind. ",
+      "ja": "そのうち、あなたがたが食べてよいのは以下のとおりである。各種のトビバッタ、各種のハネナガバッタ、各種のコオロギ、各種のバッタ。"
+    },
+    {
+      "verse": 23,
+      "en": "But any other winged swarming thing that has four legs is detestable to you.",
+      "ja": "しかし、四つ足を持つその他の羽のある群がるものはすべて、あなたがたにとって忌むべきものである。"
+    },
+    {
+      "verse": 24,
+      "en": "“‘By these you defile yourselves—anyone who touches their carcass will be unclean until the evening, ",
+      "ja": "これらによって、あなたがたは身を汚す。だれであれ、それらの死体に触れる者は夕暮れまで汚れる。"
+    },
+    {
+      "verse": 25,
+      "en": "and anyone who carries their carcass must wash his clothes and will be unclean until the evening. ",
+      "ja": "その死体を運ぶ者はだれでも自分の衣服を洗わなければならず、夕暮れまで汚れる。"
+    },
+    {
+      "verse": 26,
+      "en": "“‘All animals that divide the hoof, but it is not completely split in two, and do not chew the cud are unclean to you; anyone who touches them becomes unclean. ",
+      "ja": "ひづめはあるが完全に二つに割れておらず、かつ反芻しない動物はすべて、あなたがたにとって汚れたものである。それに触れる者はだれでも汚れる。"
+    },
+    {
+      "verse": 27,
+      "en": "All that walk on their paws among all the creatures that walk on all fours are unclean to you. Anyone who touches their carcass will be unclean until the evening, ",
+      "ja": "四つ足で歩くすべての生き物のうち、肉球で歩くものはすべて、あなたがたにとって汚れたものである。その死体に触れる者はだれでも夕暮れまで汚れる。"
+    },
+    {
+      "verse": 28,
+      "en": "and the one who carries their carcass must wash his clothes and be unclean until the evening; they are unclean to you.",
+      "ja": "その死体を運ぶ者は、自分の衣服を洗わなければならず、夕暮れまで汚れる。それらはあなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 29,
+      "en": "“‘Now this is what is unclean to you among the swarming things that swarm on the land: the rat, the mouse, the large lizard of any kind, ",
+      "ja": "地上の群がるものの中で、あなたがたにとって汚れたものは以下のとおりである。クマネズミ、ハツカネズミ、各種の大型トカゲ、"
+    },
+    {
+      "verse": 30,
+      "en": "the Mediterranean gecko, the spotted lizard, the wall gecko, the skink, and the chameleon. ",
+      "ja": "ヤモリ、ミナミヤモリ、カベヤモリ、スキンク、カメレオン。"
+    },
+    {
+      "verse": 31,
+      "en": "These are the ones that are unclean to you among all the swarming things. Anyone who touches these creatures when they die will be unclean until evening. ",
+      "ja": "これらは、すべての群がるものの中で、あなたがたにとって汚れたものである。死んだこれらに触れる者はだれでも夕暮れまで汚れる。"
+    },
+    {
+      "verse": 32,
+      "en": "Also, anything they fall on when they die will become unclean—any wood vessel or garment or article of leather or sackcloth. Any such vessel with which work is done must be immersed in water and will be unclean until the evening. Then it will become clean. ",
+      "ja": "また、死んだこれらが何の上にであれ落ちるなら、それは汚れたものとなる。木製の容器であれ、衣服であれ、皮製品であれ、粗布であれ、何であれ作業に使われる容器は、水に浸さなければならず、夕暮れまで汚れたままであるが、その後で清くなる。"
+    },
+    {
+      "verse": 33,
+      "en": "As for any clay vessel they fall into, everything in it will become unclean, and you must break it. ",
+      "ja": "それらが落ち入る土の容器については、その中にあるものはすべて汚れ、あなたはその容器を打ち砕かなければならない。"
+    },
+    {
+      "verse": 34,
+      "en": "Any food that may be eaten which becomes soaked with water will become unclean. Anything drinkable in any such vessel will become unclean. ",
+      "ja": "食べられる食物であっても、水が染み込んだものはすべて汚れる。そのような容器の中にある飲める飲み物もすべて汚れる。"
+    },
+    {
+      "verse": 35,
+      "en": "Anything their carcass may fall on will become unclean. An oven or small stove must be smashed to pieces; they are unclean, and they will stay unclean to you.",
+      "ja": "それらの死体が何の上にであれ落ちるなら、それは汚れたものとなる。かまどであれ小型の炉であれ、粉々に打ち砕かれなければならない。それらは汚れているのであり、あなたがたにとって汚れたままである。"
+    },
+    {
+      "verse": 36,
+      "en": "However, a spring or a cistern which collects water will be clean, but one who touches the creature’s carcass will be unclean. ",
+      "ja": "ただし、水をためる泉や貯水池は清いままであるが、その生き物の死体に触れる者は汚れる。"
+    },
+    {
+      "verse": 37,
+      "en": "Now, if such a carcass falls on any sowing seed which is to be sown, it is clean, ",
+      "ja": "もしそのような死体が、まかれるべき種もみに落ちたとしても、それは清い。"
+    },
+    {
+      "verse": 38,
+      "en": "but if water is put on the seed and such a carcass falls on it, it is unclean to you.",
+      "ja": "しかし、種もみに水がかけられ、その上にそのような死体が落ちたならば、それはあなたがたにとって汚れたものである。"
+    },
+    {
+      "verse": 39,
+      "en": "“‘Now if an animal that you may eat dies, whoever touches its carcass will be unclean until the evening. ",
+      "ja": "あなたがたが食べてよい動物が死んだ場合、その死体に触れる者はだれでも夕暮れまで汚れる。"
+    },
+    {
+      "verse": 40,
+      "en": "One who eats from its carcass must wash his clothes and be unclean until the evening, and whoever carries its carcass must wash his clothes and be unclean until the evening. ",
+      "ja": "その死体の肉を食べる者は自分の衣服を洗わなければならず、夕暮れまで汚れる。また、その死体を運ぶ者も自分の衣服を洗わなければならず、夕暮れまで汚れる。"
+    },
+    {
+      "verse": 41,
+      "en": "Every swarming thing that swarms on the land is detestable; it must not be eaten. ",
+      "ja": "地上の上で群がる群がるものはすべて忌むべきものであり、食べてはならない。"
+    },
+    {
+      "verse": 42,
+      "en": "You must not eat anything that crawls on its belly or anything that walks on all fours or on any number of legs of all the swarming things that swarm on the land, because they are detestable. ",
+      "ja": "地上の上で群がる群がるもののうち、腹ばいで這うもの、四つ足で歩くもの、あるいは多数の足で歩くものは一切、食べてはならない。それらは忌むべきものであるからである。"
+    },
+    {
+      "verse": 43,
+      "en": "Do not make yourselves detestable by any of the swarming things. You must not defile yourselves by them and become unclean by them,",
+      "ja": "あなたがたは、どんな群がるものによっても自分自身を忌むべきものとしてはならない。それらによって身を汚し、それらによって汚れた者となってはならない。"
+    },
+    {
+      "verse": 44,
+      "en": "for I am the Lord your God, and you are to sanctify yourselves and be holy because I am holy. You must not defile yourselves by any of the swarming things that creep on the ground, ",
+      "ja": "わたしはあなたがたの神、主であるからである。あなたがたは身を聖別し、聖なる者となりなさい。わたしが聖であるからである。地上の上を這うどんな群がるものによっても、あなたがたは身を汚してはならない。"
+    },
+    {
+      "verse": 45,
+      "en": "for I am the Lord who brought you up from the land of Egypt to be your God, and you are to be holy because I am holy. ",
+      "ja": "わたしは、あなたがたの神となるために、あなたがたをエジプトの地から導き出した主であるからである。あなたがたは聖なる者となりなさい。わたしが聖であるからである。」"
+    },
+    {
+      "verse": 46,
+      "en": "This is the law of the land animals, the birds, all the living creatures that move in the water, and all the creatures that swarm on the land, ",
+      "ja": "これが、陸上の動物、鳥類、水中を動くすべての生き物、および地上で群がるすべての生き物に関する規定である。"
+    },
+    {
+      "verse": 47,
+      "en": "to distinguish between the unclean and the clean, between the living creatures that may be eaten and the living creatures that must not be eaten.’” ",
+      "ja": "それは、汚れたものと清いもの、食べてもよい生き物と食べてはならない生き物とを区別するためである。"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the animal,” but as a collective plural, and so throughout this chapter.",
+        "ja": "[翻訳注] ヘブル語では「動物（単数）」だが、集合的複数として用いられており、この章全体を通して同様である。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “every divider of hoof and cleaver of the cleft of hooves”; KJV, ASV “parteth the hoof, and is clovenfooted.”",
+        "ja": "[翻訳注] ヘブル語では「ひづめのすべての分かつ者、ひづめの割れ目を裂く者」；KJV、ASVでは「ひづめを分かち、ひづめが割れている者」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “bringer up of the cud” (a few of the ancient versions include the conjunction “and,” but it does not appear in the MT). The following verses make it clear that both dividing the hoof and chewing the cud were required; one of these conditions would not be enough to make the animal suitable for eating without the other.",
+        "ja": "[翻訳注] ヘブル語では「反芻する者（直訳：反芻を引き上げる者）」（古代訳の少数は接続詞「そして」を含んでいるが、マソラ本文には現れない）。続く聖句から、ひづきを分けることと反芻することの両方が必須であり、一方の条件だけでは、他方を伴わなければ食べるのにふさわしい動物とはならなかったことが明らかである。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this,” but as a collective plural (see the following context).",
+        "ja": "[翻訳注] ヘブル語では「これ」だが、集合的複数である（後続の文脈を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Regarding “clean” versus “unclean,” see the note on Lev 10:10.",
+        "ja": "[解説] 「清い」対「汚れた」については、レビ記10章10節の注を参照せよ。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “because a chewer of the cud it is” (see also vv. 5 and 6).",
+        "ja": "[翻訳注] ヘブル語では「なぜなら反芻する動物であるから」（5節および6節も参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “and hoof there is not dividing” (see also vv. 5 and 6).",
+        "ja": "[翻訳注] ヘブル語では「そしてひづめは分かれていないので」（5節および6節も参照）。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  A small animal generally understood to be Hyrax syriacus; KJV, ASV, NIV “coney”; NKJV “rock hyrax.”",
+        "ja": "[解説] 一般的にイワダキネズミ（Hyrax syriacus）と理解されている小型の動物；KJV、ASV、NIVでは「coney（岩狸）」、NKJVでは「rock hyrax」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on Lev 11:3.",
+        "ja": "[翻訳注] レビ記11章3節の注を参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The meaning and basic rendering of this clause is quite certain, but the verb for “chewing” the cud here is not the same as the preceding verses, where the expression is “to bring up the cud” (see the note on v. 3 above). It appears to be a cognate verb for the noun “cud” (גֵּרָה, gerah) and could mean either “to drag up” (i.e., from the Hebrew Qal of גָרָר [garar] meaning “to drag,” referring to the dragging the cud up and down between the stomach and mouth of the ruminant animal; so J. Milgrom, Leviticus [AB], 1:647, 653) or “to chew” (i.e., from the Hebrew Niphal [or Qal B] of גָרָר used in a reciprocal sense; so J. E. Hartley, Leviticus [WBC], 149, and compare BDB 176 s.v. גָרַר, “to chew,” with HALOT 204 s.v. גרר qal.B, “to ruminate”).",
+        "ja": "[翻訳注] この節の意味と基本的訳出は極めて確実であるが、ここでの「反芻する」という動詞は、表現が「反芻を引き上げる」となっている先行する聖句の動詞とは異なる（上記の3節の注を参照）。これは名詞「反芻、胃の食物（גֵּרָה、ゲラー）」と同系の動詞であると思われ、「引き上げる」（すなわち、反芻動物の胃と口の間で食物を上下に引きずることを指すヘブル語のカル幹גָרָר [ガラール]から；J. Milgrom, Leviticus [AB], 1:647, 653を参照）あるいは「噛む」（すなわち、相互的な意味で用いられたヘブル語のニフアル幹[またはカル幹B]のגָרָרから；J. E. Hartley, Leviticus [WBC], 149を参照。またBDB 176のגָרַר「噛む」の項、およびHALOT 204のגרר qal.B「反芻する」の項と比較せよ）のいずれをも意味しうる。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[解説]  The regulations against touching the carcasses of dead unclean animals (contrast the restriction against eating their flesh) is treated in more detail in Lev 11:24-28 (cf. also vv. 29-40). For the time being, this chapter continues to develop the issue of what can and cannot be eaten.",
+        "ja": "[解説] 死んだ不浄な動物の死体に触れることに対する規定（その肉を食べる禁止令とは対照的）については、レビ記11章24〜28節でより詳細に扱われている（29〜40節も参照）。当面の間、この章では何が食べられて何が食べられないかという問題の展開を続けている。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “all which have fin and scale” (see also vv. 10 and 12).",
+        "ja": "[翻訳注] ヘブル語では「ひれとうろこを持つすべてのもの」（10節および12節も参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in the water, in the seas and in the streams” (see also vv. 10 and 12).",
+        "ja": "[翻訳注] ヘブル語では「水の中で、海と川の中で」（10節および12節も参照）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  For zoological remarks on the following list of birds see J. Milgrom, Leviticus (AB), 1:662-64; and J. E. Hartley, Leviticus (WBC), 159-60.",
+        "ja": "[翻訳注] 以下の鳥類のリストに関する動物学的考察については、J. Milgrom, Leviticus (AB), 1:662-64、およびJ. E. Hartley, Leviticus (WBC), 159-60を参照せよ。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and the buzzard to its kind” (see also vv. 16 and 19 for the same expression “of any kind”).",
+        "ja": "[翻訳注] ヘブル語では「そしてノスリはその種類に従って」（「各種の」という同じ表現については16節および19節も参照）。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “every crow to its kind.” Many English versions (e.g., KJV, NASB, NIV, NRSV, NLT) render this as “raven.”",
+        "ja": "[翻訳注] ヘブル語では「すべてのカラスはその種類に従って」。多くの英訳（例：KJV、NASB、NIV、NRSV、NLT）ではこれを「raven（大ガラス）」と訳している。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Literally, “the daughter of the wasteland.” Various proposals for the species of bird referred to here include “owl” (KJV), “horned owl” (NIV, NCV), and “ostrich” (ASV, NAB, NASB, NRSV, NLT).",
+        "ja": "[翻訳注] 直訳では「荒野の娘」。ここで言及されている鳥の種類に関する諸説には、「owl（フクロウ）」（KJV）、「horned owl（ミミズク）」（NIV、NCV）、「ostrich（ダチョウ）」（ASV、NAB、NASB、NRSV、NLT）が含まれる。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the one walking on four” (cf. vv. 21-23 and 27-28).",
+        "ja": "[翻訳注] ヘブル語では「四つ足で歩くもの」（21〜23節および27〜28節を参照）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “which to it are lower legs from above to its feet” (reading the Qere “to it” rather than the Kethib “not”).",
+        "ja": "[翻訳注] ヘブル語では「それに足の上から足にかけて下肢があるもの」（ケティブの「ない」ではなくケレの「それに」を読む）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  For entomological remarks on the following list of insects see J. Milgrom, Leviticus (AB), 1:665-66; and J. E. Hartley, Leviticus (WBC), 160-61.",
+        "ja": "[翻訳注] 以下の昆虫のリストに関する昆虫学的考察については、J. Milgrom, Leviticus (AB), 1:665-66、およびJ. E. Hartley, Leviticus (WBC), 160-61を参照せよ。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and to these.”",
+        "ja": "[翻訳注] ヘブル語では「そしてこれらのものによって」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to all” (cf. the note on v. 24). This and the following verses develop more fully the categories of uncleanness set forth in principle in vv. 24-25.",
+        "ja": "[翻訳注] ヘブル語では「すべてのものに」（24節の注を参照）。この節および続く節は、24〜25節で原則として示された不浄のカテゴリーをより完全に展開している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “divides hoof and cleft it does not cleave”; KJV “divideth the hoof, and is not clovenfooted”; NLT “divided but unsplit hooves.”",
+        "ja": "[翻訳注] ヘブル語では「ひづめを分け、かつその割れ目を割かないもの」；KJV「ひづめを分け、ひづめが割れていないもの」；NLT「分かれているが割れていないひづめ」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on Lev 11:3.",
+        "ja": "[翻訳注] レビ記11章3節の注を参照せよ。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Compare the regulations in Lev 11:2-8.",
+        "ja": "[解説] レビ記11章2〜8節の規定と比較せよ。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the one walking on four.” Compare Lev 11:20-23.",
+        "ja": "[翻訳注] ヘブル語では「四つ足で歩くもの」。レビ記11章20〜23節と比較せよ。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  For zoological analyses of the list of creatures in vv. 29-30, see J. Milgrom, Leviticus (AB), 1:671-72; and J. E. Hartley, Leviticus (WBC), 161-62.",
+        "ja": "[翻訳注] 29〜30節の生き物のリストに関する動物学的分析については、J. Milgrom, Leviticus (AB), 1:671-72、およびJ. E. Hartley, Leviticus (WBC), 161-62を参照せよ。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And all which it shall fall on it from them.”",
+        "ja": "[翻訳注] ヘブル語では「そしてそれらのうちからその上に何であれ落ちるもの」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in water it shall be brought.”",
+        "ja": "[翻訳注] ヘブル語では「水の中に入れられなければならない」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And any earthenware vessel which shall fall from them into its midst.”",
+        "ja": "[翻訳注] ヘブル語では「そしてそれらのうちから何であれその中に落ちる土の容器はいずれも」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “all which is in its midst.”",
+        "ja": "[翻訳注] ヘブル語では「その中にあるすべてのもの」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “which water comes on it.”",
+        "ja": "[翻訳注] ヘブル語では「その上に水が来るもの」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “any drink which may be drunk”; NASB “any liquid which may be drunk”; NLT “any beverage that is in such an unclean container.”",
+        "ja": "[翻訳注] ヘブル語では「飲まれるかもしれないあらゆる飲み物」；NASB「飲まれるかもしれないいかなる液体」；NLT「そのような不浄な容器の中にあるいかなる飲み物」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  This half of the verse assumes that the unclean carcass has fallen into the food or drink (cf. v. 33 and also vv. 35-38).",
+        "ja": "[翻訳注] この聖句の後半は、不浄な死体が食物や飲み物の中に落ち込んだことを前提としている（33節ならびに35〜38節を参照）。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “be unclean.”",
+        "ja": "[翻訳注] ヘブル語では「汚れたものとなる」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a spring and a cistern collection of water”; NAB, NIV “for collecting water.”",
+        "ja": "[翻訳注] ヘブル語では「泉および水をためる貯水池」；NAB、NIV「水をためるための」。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if there falls from their carcass on any seed of sowing which shall be sown.”",
+        "ja": "[翻訳注] ヘブル語では「そしてもしまかれるべきいかなる種にそれらの死体から落ちるならば」。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This word for “animal” refers to land animal quadrupeds, not just any beast that dwells on the land (cf. 11:2).",
+        "ja": "[翻訳注] ここで「動物」と訳されている言葉は、単に地上に住むすべての獣ではなく、四つ足の陸上動物を指している（11:2を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “which is food for you” or “which is for you to eat.”",
+        "ja": "[翻訳注] ヘブル語では「それはあなたがたの食物である」あるいは「それはあなたがたが食べるためのものである」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “goes” (KJV, ASV “goeth”); NIV “moves about”; NLT “slither along.” The same Hebrew term is translated “walks” in the following clause.",
+        "ja": "[翻訳注] ヘブル語では「行く」（KJV、ASV「goeth」）；NIV「動き回る」；NLT「這い進む」。同じヘブル語が次の節では「歩く」と訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “until all multiplying of legs.”",
+        "ja": "[翻訳注] ヘブル語では「足のすべての増殖に至るまで」。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “by any of the swarming things that swarm.”",
+        "ja": "[翻訳注] ヘブル語では「群がるいかなる群がるものによっても」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to be to you for a God.”",
+        "ja": "[翻訳注] ヘブル語では「あなたがたにとって神となるために」。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Hebrew term translated “law” (תוֹרָה, torah) introduces here a summary or colophon for all of . Similar summaries are found in Lev 7:37-38; 13:59; 14:54-57; and 15:32-33.",
+        "ja": "[解説] 「律法」（トーラー、תּוֹרָה）と訳されているヘブル語は、ここで〜のすべてに対する総括または奥付を導入している。同様の総括は、レビ記7章37〜38節、13章59節、14章54〜57節、および15章32〜33節に見出される。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “for all the creatures.”",
+        "ja": "[翻訳注] ヘブル語では「すべての生き物のために」。"
+      }
+    ]
+  }
+}

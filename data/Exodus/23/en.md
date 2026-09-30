@@ -71,7 +71,208 @@
 ## Notes
 
 ### Verse 1 - Note 1
+[解説]  People who claim to worship and serve the righteous judge of the universe must preserve equity and justice in their dealings with others. These verses teach that God’s people must be honest witnesses (1-3); God’s people must be righteous even with enemies (4-5); and God’s people must be fair in dispensing justice (6-9).
 
+### Verse 1 - Note 2
+[翻訳注]  Heb “take up, lift, carry” (נָשָׂא, nasa’). This verb was also used in the prohibition against taking “the name of Yahweh in vain.” Sometimes the object of this verb is physical, as in Jonah 1:12 and 15. Used in this prohibition involving speech, it covers both originating and repeating a lie.
+
+### Verse 1 - Note 3
+[翻訳注]  Or “a groundless report” (see Exod 20:7 for the word שָׁוְא, shav’).
+
+### Verse 1 - Note 4
+[翻訳注]  Heb “do not put your hand” (cf. KJV, ASV); NASB “join your hand.”
+
+### Verse 1 - Note 5
+[翻訳注]  The word “wicked” (רָשָׁע, rasha’) refers to the guilty criminal, the person who is doing something wrong. In the religious setting it describes the person who is not a member of the covenant and may be involved in all kinds of sin, even though there is the appearance of moral and spiritual stability.
+
+### Verse 1 - Note 6
+[翻訳注]  The word חָמָס (khamas) often means “violence” in the sense of social injustices done to other people, usually the poor and needy. A “malicious” witness would do great harm to others. See J. W. McKay, “Exodus 23:1-43, 6-8: A Decalogue for Administration of Justice in the City Gate,” VT 21 (1971): 311-25.
 
 ### Verse 2 - Note 1
+[翻訳注]  The word רָבִּים (rabbim), here rendered “crowd,” is also used infrequently to refer to the “mighty,” people of importance in society (Job 35:9; cf. Lev 19:15).
 
+### Verse 2 - Note 2
+[翻訳注]  For any individual to join a group that is bent on acting wickedly would be a violation of the Law and would incur personal responsibility.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “you will not answer in a lawsuit to turn after the crowd to turn.” The form translated “agrees with” (Heb “to turn after”) is a Qal infinitive construct from נָטָה (natah); the same root is used at the end of the verse but as a Hiphil infinitive construct, “to pervert [justice].”
+
+### Verse 3 - Note 1
+[翻訳注]  The point here is one of false sympathy and honor, the bad sense of the word הָדַר (hadar; see S. R. Driver, Exodus, 237).
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “meet” (so KJV, ASV, NASB).
+
+### Verse 4 - Note 2
+[翻訳注]  The construction uses the imperfect tense (taken here as an obligatory imperfect) and the infinitive absolute for emphasis.
+
+### Verse 5 - Note 1
+[翻訳注]  The line reads “you will cease to forsake him” – refrain from leaving your enemy without help.
+
+### Verse 5 - Note 2
+[翻訳注]  The law is emphatic here as well, using the infinitive absolute and the imperfect of instruction (or possibly obligation). There is also a wordplay here: two words עָזַב (’azav) are used, one meaning “forsake” and the other possibly meaning “arrange” based on Arabic and Ugaritic evidence (see U. Cassuto, Exodus, 297-98).
+
+### Verse 5 - Note 3
+[解説]  See H. B. Huffmon, “Exodus 23:4-5: A Comparative Study,” A Light Unto My Path, 271-78.
+
+### Verse 7 - Note 1
+[翻訳注]  Or “stay away from,” or “have nothing to do with.”
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “a false matter,” this expression in this context would have to be a case in law that was false or that could only be won by falsehood.
+
+### Verse 7 - Note 3
+[翻訳注]  The two clauses probably should be related: the getting involved in the false charge could lead to the death of an innocent person (so, e.g., Naboth in 1 Kgs 21:10-13).
+
+### Verse 7 - Note 4
+[解説]  God will not declare right the one who is in the wrong. Society should also be consistent, but it cannot see the intents and motives, as God can.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “blinds the open-eyed.”
+
+### Verse 9 - Note 1
+[翻訳注]  The verb means “to crush.” S. R. Driver notes that in this context this would probably mean with an unfair judgment in the courts (Exodus, 239).
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “soul, life” – “you know what it feels like.”
+
+### Verse 10 - Note 1
+[解説]  This section concerns religious duties of the people of God as they worship by giving thanks to God for their blessings. The principles here are: God requires his people to allow the poor to share in their bounty (10-11); God requires his people to provide times of rest and refreshment for those who labor for them (12); God requires allegiance to himself (13); God requires his people to come before him in gratitude and share their bounty (14-17); God requires that his people safeguard proper worship forms (18-19).
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “and six years”; this is an adverbial accusative telling how long they can work their land. The following references to years and days in vv. 10-12 function similarly.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “and the seventh year”; an adverbial accusative with a disjunctive vav (ו).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “living thing/creature/beast of the field.” A general term for animals, usually wild animals, including predators (cf. v. 29; Gen 2:19-20; Lev 26:22; Deut 7:22; 1 Sam 17:46; Job 5:22-23; Ezek 29:5; 34:5).
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “alien,” or “resident foreigner.” Such an individual would have traveled out of need and depended on the goodwill of the people around him. The rendering “hired help” assumes that the foreigner is mentioned in this context because he is working for an Israelite and will benefit from the Sabbath rest, along with his employer.
+
+### Verse 12 - Note 2
+[翻訳注]  The verb is וְיִּנָּפֵשׁ (vÿyyinnafesh); it is related to the word usually translated “soul” or “life.”
+
+### Verse 13 - Note 1
+[翻訳注]  The phrase “to do” is added; in Hebrew word order the line says, “In all that I have said to you you will watch yourselves.” The verb for paying attention is a Niphal imperfect with an imperatival force.
+
+### Verse 13 - Note 2
+[翻訳注]  Or “honor,” Hiphil of זָכַר (zakhar). See also Exod 20:25; Josh 23:7; Isa 26:13.
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “mouth.”[解説]  See also Ps 16:4, where David affirms his loyalty to God with this expression.
+
+### Verse 14 - Note 1
+[翻訳注]  The expression rendered “three times” is really “three feet,” or “three foot-beats.” The expression occurs only a few times in the Law. The expressing is an adverbial accusative.
+
+### Verse 14 - Note 2
+[翻訳注]  This is the word תָּחֹג (takhog) from the root חָגַג (khagag); it describes a feast that was accompanied by a pilgrimage. It was first used by Moses in his appeal that Israel go three days into the desert to hold such a feast.
+
+### Verse 15 - Note 1
+[翻訳注]  This is an adverbial accusative of time.
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “in it.”
+
+### Verse 15 - Note 3
+[翻訳注]  The verb is a Niphal imperfect; the nuance of permission works well here – no one is permitted to appear before God empty (Heb “and they will not appear before me empty”).
+
+### Verse 16 - Note 1
+[翻訳注]  The words “you are also to observe” are not in the Hebrew text, but are supplied in the translation for stylistic reasons.
+
+### Verse 16 - Note 2
+[翻訳注]  An infinitive construct with a preposition and a pronominal suffix is used to make a temporal clause: “in the going in of the year.” The word “year” is the subjective genitive, the subject of the clause.
+
+### Verse 16 - Note 3
+[翻訳注]  An infinitive construct with a preposition and a pronominal suffix is used to make a temporal clause: “in the ingathering of you.”
+
+### Verse 16 - Note 4
+[翻訳注]  Heb “gathered in your labors.” This is a metonymy of cause put for the effect. “Labors” are not gathered in, but what the labors produced – the harvest.
+
+### Verse 17 - Note 1
+[翻訳注]  Adverbial accusative of time: “three times” becomes “at three times.”
+
+### Verse 17 - Note 2
+[翻訳注]  Here the divine Name reads in Hebrew הָאָדֹן יְהוָה (ha’adon yÿhvah), which if rendered according to the traditional scheme of “Lord” for “Yahweh” would result in “Lord Lord.” A number of English versions therefore render this phrase “Lord God,” and that convention has been followed here.
+
+### Verse 18 - Note 1
+[翻訳注]  The verb is תִּזְבַּח (tizbbakh), an imperfect tense from the same root as the genitive that qualifies the accusative “blood”: “you will not sacrifice the blood of my sacrifice.” The verb means “to slaughter”; since one cannot slaughter blood, a more general translation is required here. But if the genitive is explained as “my blood-sacrifice” (a genitive of specification; like “the evil of your doings” in Isa 1:16), then a translation of sacrifice would work (U. Cassuto, Exodus, 304).
+
+### Verse 18 - Note 2
+[解説]  See N. Snaith, “Exodus 23:18 and 34:25,” JTS 20 (1969): 533-34; see also M. Haran, “The Passover Sacrifice,” Studies in the Religion of Ancient Israel (VTSup), 86-116.
+
+### Verse 19 - Note 1
+[解説]  On this verse, see C. M. Carmichael, “On Separating Life and Death: An Explanation of Some Biblical Laws,” HTR 69 (1976): 1-7; J. Milgrom, “You Shall Not Boil a Kid in Its Mother’s Milk,” BRev 1 (1985): 48-55; R. J. Ratner and B. Zuckerman, “In Rereading the ‘Kid in Milk’ Inscriptions,” BRev 1 (1985): 56-58; and M. Haran, “Seething a Kid in Its Mother’s Milk,” JJS 30 (1979): 23-35. Here and at 34:26, where this command is repeated, it ends a series of instructions about procedures for worship.
+
+### Verse 20 - Note 1
+[解説]  This passage has some of the most interesting and perplexing expressions and constructions in the book. It is largely promise, but it is part of the Law and so demands compliance by faith. Its points are: God promises to send his angel to prepare the way before his obedient servants (20-23); God promises blessing for his loyal servants (24-33). So in the section one learns that God promises his protection (victory) and blessing (through his angel) for his obedient and loyal worshipers.
+
+### Verse 20 - Note 2
+[翻訳注]  The particle הִנֵּה (hinneh) with the active participle indicates imminent future, something God is about to do.
+
+### Verse 20 - Note 3
+[解説]  The word is מַלְאָךְ (mal’akh, “messenger, angel”). This angel is to be treated with the same fear and respect as Yahweh, for Yahweh will be speaking in him. U. Cassuto (Exodus, 305-6) says that the words of the first clause do not imply a being distinct from God, for in the ancient world the line of demarcation between the sender and the sent is liable easily to be blurred. He then shows how the “Angel of Yahweh” in Genesis is Yahweh. He concludes that the words here mean “I will guide you.” Christian commentators tend to identify the Angel of Yahweh as the second person of the Trinity (W. C. Kaiser, Jr., “Exodus,” EBC 2:446). However, in addition to being a preincarnate appearance, the word could refer to Yahweh – some manifestation of Yahweh himself.
+
+### Verse 20 - Note 4
+[翻訳注]  Heb “protect you in the way.”
+
+### Verse 20 - Note 5
+[翻訳注]  The form is the Hiphil perfect of the verb כּוּן (kun, “to establish, prepare”).
+
+### Verse 21 - Note 1
+[解説]  This means “the manifestation of my being” is in him (S. R. Driver, Exodus, 247). Driver quotes McNeile as saying, “The ‘angel’ is Jehovah Himself ‘in a temporary descent to visibility for a special purpose.’” Others take the “name” to represent Yahweh’s “power” (NCV) or “authority” (NAB, CEV).
+
+### Verse 22 - Note 1
+[翻訳注]  The infinitive absolute here does not add as great an emphasis as normal, but emphasizes the condition that is being set forth (see GKC 342-43 §113.o).
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “will cut them off” (so KJV, ASV).
+
+### Verse 24 - Note 1
+[翻訳注]  The Hebrew is מַצֵּבֹתֵיהֶם (matsevotehem, “their standing stones”); these long stones were erected to represent the abode of the numen or deity. They were usually set up near the altar or the high place. To destroy these would be to destroy the centers of Canaanite worship in the land.
+
+### Verse 24 - Note 2
+[翻訳注]  Both verbs are joined with their infinitive absolutes to provide the strongest sense to these instructions. The images of the false gods in Canaan were to be completely and utterly destroyed. This could not be said any more strongly.
+
+### Verse 25 - Note 1
+[翻訳注]  The perfect tense, masculine plural, with vav (ו) consecutive is in sequence with the preceding: do not bow down to them, but serve Yahweh. It is then the equivalent of an imperfect of instruction or injunction.
+
+### Verse 25 - Note 2
+[翻訳注]  The LXX reads “and I will bless” to make the verb conform with the speaker, Yahweh.
+
+### Verse 25 - Note 3
+[解説]  On this unusual clause B. Jacob says that it is the reversal of the curse in Genesis, because the “bread and water” represent the field work and ground suitability for abundant blessing of provisions (Exodus, 734).
+
+### Verse 26 - Note 1
+[翻訳注]  Or “abort”; Heb “cast.”
+
+### Verse 26 - Note 2
+[解説]  No one will die prematurely; this applies to the individual or the nation. The plan of God to bless was extensive, if only the people would obey.
+
+### Verse 27 - Note 1
+[翻訳注]  The word for “terror” is אֵימָתִי (’emati); the word has the thought of “panic” or “dread.” God would make the nations panic as they heard of the exploits and knew the Israelites were drawing near. U. Cassuto thinks the reference to “hornets” in v. 28 may be a reference to this fear, an unreasoning dread, rather than to another insect invasion (Exodus, 308). Others suggest it is symbolic of an invading army or a country like Egypt or literal insects (see E. Neufeld, “Insects as Warfare Agents in the Ancient Near East,” Or 49 [1980]: 30-57).
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “kill.”
+
+### Verse 27 - Note 3
+[翻訳注]  The text has “and I will give all your enemies to you [as] a back.” The verb of making takes two accusatives, the second being the adverbial accusative of product (see GKC 371-72 §117.ii, n. 1).
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “and I will send.”
+
+### Verse 29 - Note 1
+[翻訳注]  Heb “the beast of the field.”
+
+### Verse 30 - Note 1
+[翻訳注]  The repetition expresses an exceptional or super-fine quality (see GKC 396 §123.e).
+
+### Verse 31 - Note 1
+[翻訳注]  The form is a perfect tense with vav consecutive.
+
+### Verse 31 - Note 2
+[翻訳注]  In the Hebrew Bible “the River” usually refers to the Euphrates (cf. NASB, NCV, NRSV, TEV, CEV, NLT). There is some thought that it refers to a river Nahr el Kebir between Lebanon and Syria. See further W. C. Kaiser, Jr., “Exodus,” EBC 2:447; and G. W. Buchanan, The Consequences of the Covenant (NovTSup), 91-100.
+
+### Verse 33 - Note 1
+[翻訳注]  The idea of the “snare” is to lure them to judgment; God is apparently warning about contact with the Canaanites, either in worship or in business. They were very syncretistic, and so it would be dangerous to settle among them.

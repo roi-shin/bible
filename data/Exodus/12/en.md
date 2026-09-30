@@ -107,154 +107,334 @@
 ## Notes
 
 ### Verse 1 - Note 1
+[解説]  Chapter  details the culmination of the ten plagues on Egypt and the beginning of the actual deliverance from bondage. Moreover, the celebration of this festival of Passover was to become a central part of the holy calendar of Israel. The contents of this chapter have significance for NT studies as well, since the Passover was a type of the death of Jesus. The structure of this section before the crossing of the sea is as follows: the institution of the Passover (12:1-28), the night of farewell and departure (12:29-42), slaves and strangers (12:43-51), and the laws of the firstborn (13:1-16). In this immediate section there is the institution of the Passover itself (12:1-13), then the Unleavened Bread (12:14-20), and then the report of the response of the people (12:21-28).
 
+### Verse 1 - Note 2
+[翻訳注]  Heb “and Yahweh said.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “saying.”
 
 ### Verse 2 - Note 1
-
+[解説]  B. Jacob (Exodus, 294-95) shows that the intent of the passage was not to make this month in the spring the New Year – that was in the autumn. Rather, when counting months this was supposed to be remembered first, for it was the great festival of freedom from Egypt. He observes how some scholars have unnecessarily tried to date one New Year earlier than the other.
 
 ### Verse 3 - Note 1
+[翻訳注]  Heb “and they will take for them a man a lamb.” This is clearly a distributive, or individualizing, use of “man.”
 
+### Verse 3 - Note 2
+[翻訳注]  The שֶּׂה (seh) is a single head from the flock, or smaller cattle, which would include both sheep and goats.
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “according to the house of their fathers.” The expression “house of the father” is a common expression for a family.[解説]  The Passover was to be a domestic institution. Each lamb was to be shared by family members.
+
+### Verse 3 - Note 4
+[翻訳注]  Heb “house” (also at the beginning of the following verse).
 
 ### Verse 4 - Note 1
+[解説]  Later Judaism ruled that “too small” meant fewer than ten (S. R. Driver, Exodus, 88).
 
+### Verse 4 - Note 2
+[翻訳注]  The clause uses the comparative min (מִן) construction: יִמְעַט הַבַּיִת מִהְיֹת מִשֶּׂה (yim’at habbayit mihyot miseh, “the house is small from being from a lamb,” or “too small for a lamb”). It clearly means that if there were not enough people in the household to have a lamb by themselves, they should join with another family. For the use of the comparative, see GKC 430 §133.c.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “he and his neighbor”; the referent (the man) has been specified in the translation for clarity.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “who is near to his house.”
+
+### Verse 4 - Note 5
+[翻訳注]  The construction uses a perfect tense with a vav (ו) consecutive after a conditional clause: “if the household is too small…then he and his neighbor will take.”
+
+### Verse 4 - Note 6
+[翻訳注]  Heb “[every] man according to his eating.”[解説]  The reference is normally taken to mean whatever each person could eat. B. Jacob (Exodus, 299) suggests, however, that the reference may not be to each individual person’s appetite, but to each family. Each man who is the head of a household was to determine how much his family could eat, and this in turn would determine how many families shared the lamb.
 
 ### Verse 5 - Note 1
+[翻訳注]  The construction has: “[The] lamb…will be to you.” This may be interpreted as a possessive use of the lamed, meaning, “[the] lamb…you have” (your lamb) for the Passover. In the context instructing the people to take an animal for this festival, the idea is that the one they select, their animal, must meet these qualifications.
 
+### Verse 5 - Note 2
+[翻訳注]  The Hebrew word תָּמִים (tamim) means “perfect” or “whole” or “complete” in the sense of not having blemishes and diseases – no physical defects. The rules for sacrificial animals applied here (see Lev 22:19-21; Deut 17:1).
+
+### Verse 5 - Note 3
+[翻訳注]  The idiom says “a son of a year” (בֶּן־שָׁנָה, ben shanah), meaning a “yearling” or “one year old” (see GKC 418 §128.v).
+
+### Verse 5 - Note 4
+[翻訳注]  Because a choice is being given in this last clause, the imperfect tense nuance of permission should be used. They must have a perfect animal, but it may be a sheep or a goat. The verb’s object “it” is supplied from the context.
 
 ### Verse 6 - Note 1
+[翻訳注]  The text has וְהָיָה לָכֶם לְמִשְׁמֶרֶת (vÿhaya lakem lÿmishmeret, “and it will be for you for a keeping”). This noun stresses the activity of watching over or caring for something, probably to keep it in its proper condition for its designated use (see 16:23, 32-34).
 
+### Verse 6 - Note 2
+[翻訳注]  Heb “all the assembly of the community.” This expression is a pleonasm. The verse means that everyone will kill the lamb, i.e., each family unit among the Israelites will kill its animal.
 
-### Verse 7 - Note 1
-
+### Verse 6 - Note 3
+[翻訳注]  Heb “between the two evenings” or “between the two settings” (בֵּין הָעַרְבָּיִם, ben ha’arbayim). This expression has had a good deal of discussion. (1) Tg. Onq. says “between the two suns,” which the Talmud explains as the time between the sunset and the time the stars become visible. More technically, the first “evening” would be the time between sunset and the appearance of the crescent moon, and the second “evening” the next hour, or from the appearance of the crescent moon to full darkness (see Deut 16:6 – “at the going down of the sun”). (2) Saadia, Rashi, and Kimchi say the first evening is when the sun begins to decline in the west and cast its shadows, and the second evening is the beginning of night. (3) The view adopted by the Pharisees and the Talmudists (b. Pesahim 61a) is that the first evening is when the heat of the sun begins to decrease, and the second evening begins at sunset, or, roughly from 3-5 p.m. The Mishnah (m. Pesahim 5:1) indicates the lamb was killed about 2:30 p.m. – anything before noon was not valid. S. R. Driver concludes from this survey that the first view is probably the best, although the last view was the traditionally accepted one (Exodus, 89-90). Late afternoon or early evening seems to be intended, the time of twilight perhaps.
 
 ### Verse 8 - Note 1
+[翻訳注]  Heb “this night.”
 
+### Verse 8 - Note 2
+[解説]  Bread made without yeast could be baked quickly, not requiring time for the use of a leavening ingredient to make the dough rise. In Deut 16:3 the unleavened cakes are called “the bread of affliction,” which alludes to the alarm and haste of the Israelites. In later Judaism and in the writings of Paul, leaven came to be a symbol of evil or corruption, and so “unleavened bread” – bread made without yeast – was interpreted to be a picture of purity or freedom from corruption or defilement (S. R. Driver, Exodus, 90-91).
 
 ### Verse 9 - Note 1
-
-
-### Verse 10 - Note 1
-
+[解説]  This ruling was to prevent their eating it just softened by the fire or partially roasted as differing customs might prescribe or allow.
 
 ### Verse 11 - Note 1
+[翻訳注]  Heb “your loins girded.”
 
+### Verse 11 - Note 2
+[翻訳注]  The meaning of פֶּסַח (pesakh) is debated. (1) Some have tried to connect it to the Hebrew verb with the same radicals that means “to halt, leap, limp, stumble.” See 1 Kgs 18:26 where the word describes the priests of Baal hopping around the altar; also the crippled child in 2 Sam 4:4. (2) Others connect it to the Akkadian passahu, which means “to appease, make soft, placate”; or (3) an Egyptian word to commemorate the harvest (see J. B. Segal, The Hebrew Passover, 95-100). The verb occurs in Isa 31:5 with the connotation of “to protect”; B. S. Childs suggests that this was already influenced by the exodus tradition (Exodus [OTL], 183, n. 11). Whatever links there may or may not have been that show an etymology, in  it is describing Yahweh’s passing over or through.
 
 ### Verse 12 - Note 1
+[翻訳注]  The verb וְעָבַרְתִּי (vÿ’avarti) is a Qal perfect with vav (ו) consecutive, announcing the future action of God in bringing judgment on the land. The word means “pass over, across, through.” This verb provides a contextual motive for the name “Passover.”
 
+### Verse 12 - Note 2
+[翻訳注]  Heb “this night.”
+
+### Verse 12 - Note 3
+[翻訳注]  The verb נָכָה (nakhah) means “to strike, smite, attack”; it does not always mean “to kill,” but that is obviously its outcome in this context. This is also its use in 2:12, describing how Moses killed the Egyptian and buried him in the sand.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “from man and to beast.”
+
+### Verse 12 - Note 5
+[翻訳注]  The phrase אֶעֱשֶׂה שְׁפָטִים (’e’eseh shÿfatim) is “I will do judgments.” The statement clearly includes what had begun in Exod 6:1. But the statement that God would judge the gods of Egypt is appropriately introduced here (see also Num 33:4) because with the judgment on Pharaoh and the deliverance from bondage, Yahweh would truly show himself to be the one true God. Thus, “I am Yahweh” is fitting here (see B. Jacob, Exodus, 312).
 
 ### Verse 13 - Note 1
+[翻訳注]  Both of the verbs for seeing and passing over are perfect tenses with vav (ו) consecutives: וּפָסַחְתִּי…וְרָאִיתִי (vÿra’iti...ufasakhti); the first of these parallel verb forms is subordinated to the second as a temporal clause. See Gesenius’s description of perfect consecutives in the protasis and apodosis (GKC 494 §159.g).
 
+### Verse 13 - Note 2
+[翻訳注]  The meaning of the verb is supplied in part from the near context of seeing the sign and omitting to destroy, as well as the verb at the start of verse 12 “pass through, by, over.” Isa 31:5 says, “Just as birds hover over a nest, so the Lord who commands armies will protect Jerusalem. He will protect and deliver it; as he passes over he will rescue it.” The word does not occur enough times to enable one to delineate a clear meaning. It is probably not the same word as “to limp” found in 1 Kgs 18:21, 26, unless there is a highly developed category of meaning there.
+
+### Verse 13 - Note 3
+[翻訳注]  The word “plague” (נֶגֶף, negef) is literally “a blow” or “a striking.” It usually describes a calamity or affliction given to those who have aroused God’s anger, as in Exod 30:12; Num 8:19; 16:46, 47; Josh 22:17 (S. R. Driver, Exodus, 92-93).
+
+### Verse 13 - Note 4
+[翻訳注]  Heb “for destruction.” The form מַשְׁחִית (mashkhit) is the Hiphil participle of שָׁחַת (shakhat). The word itself is a harsh term; it was used to describe Yahweh’s destruction of Sodom and Gomorrah (Gen 13:10).
+
+### Verse 13 - Note 5
+[翻訳注]  בְּהַכֹּתִי (bÿhakkoti) is the Hiphil infinitive construct from נָכָה (nakhah), with a preposition prefixed and a pronominal suffix added to serve as the subjective genitive – the subject of this temporal clause. It is also used in 12:12.
+
+### Verse 13 - Note 6
+[解説]  For additional discussions, see W. H. Elder, “The Passover,” RevExp 74 (1977): 511-22; E. Nutz, “The Passover,” BV 12 (1978): 23-28; H. M. Kamsler, “The Blood Covenant in the Bible,” Dor le Dor 6 (1977): 94-98; A. Rodriguez, Substitution in the Hebrew Cultus; B. Ramm, “The Theology of the Book of Exodus: A Reflection on Exodus 12:12,” SwJT 20 (1977): 59-68; and M. Gilula, “The Smiting of the First-Born: An Egyptian Myth?” TA 4 (1977): 94-85.
 
 ### Verse 14 - Note 1
+[翻訳注]  Heb “and this day will be.”
 
+### Verse 14 - Note 2
+[翻訳注]  The expression “will be for a memorial” means “will become a memorial.”[解説]  The instruction for the unleavened bread (vv. 14-20) begins with the introduction of the memorial (זִכָּרוֹן [zikkaron] from זָכַר [zakhar]). The reference is to the fifteenth day of the month, the beginning of the Feast of Unleavened Bread. B. Jacob (Exodus, 315) notes that it refers to the death blow on Egypt, but as a remembrance had to be held on the next day, not during the night. He also notes that this was the origin of “the Day of the Lord” (“the Day of Yahweh”), which the prophets predicted as the day of the divine battle. On it the enemy would be wiped out. For further information, see B. S. Childs, Memory and Tradition in Israel (SBT). The point of the word “remember” in Hebrew is not simply a recollection of an event, but a reliving of it, a reactivating of its significance. In covenant rituals “remembrance” or “memorial” is designed to prompt God and worshiper alike to act in accordance with the covenant. Jesus brought the motif forward to the new covenant with “this do in remembrance of me.”
+
+### Verse 14 - Note 3
+[翻訳注]  The verb וְחַגֹּתֶם (vÿkhaggotem), a perfect tense with the vav (ו) consecutive to continue the instruction, is followed by the cognate accusative חַג (khag), for emphasis. As the wording implies and the later legislation required, this would involve a pilgrimage to the sanctuary of Yahweh.
+
+### Verse 14 - Note 4
+[翻訳注]  Two expressions show that this celebration was to be kept perpetually: the line has “for your generations, [as] a statute forever.” “Generations” means successive generations (S. R. Driver, Exodus, 94). עוֹלָם (’olam) means “ever, forever, perpetual” – no end in sight.
 
 ### Verse 15 - Note 1
+[翻訳注]  This expression is an adverbial accusative of time. The feast was to last from the 15th to the 21st of the month.
 
+### Verse 15 - Note 2
+[翻訳注]  Or “you will eat.” The statement stresses their obligation – they must eat unleavened bread and avoid all leaven.
+
+### Verse 15 - Note 3
+[翻訳注]  The etymology of מַצּוֹת (matsot, “unleavened bread,” i.e., “bread made without yeast”) is uncertain. Suggested connections to known verbs include “to squeeze, press,” “to depart, go out,” “to ransom,” or to an Egyptian word “food, cake, evening meal.” For a more detailed study of “unleavened bread” and related matters such as “yeast” or “leaven,” see A. P. Ross, NIDOTTE 4:448-53.
+
+### Verse 15 - Note 4
+[翻訳注]  The particle serves to emphasize, not restrict here (B. S. Childs, Exodus [OTL], 183, n. 15).
+
+### Verse 15 - Note 5
+[翻訳注]  Heb “every eater of leavened bread.” The participial phrase stands at the beginning of the clause as a casus pendens, that is, it stands grammatically separate from the sentence. It names a condition, the contingent occurrences of which involve a further consequence (GKC 361 §116.w).
+
+### Verse 15 - Note 6
+[翻訳注]  The verb וְנִכְרְתָה (vÿnikhrÿtah) is the Niphal perfect with the vav (ו) consecutive; it is a common formula in the Law for divine punishment. Here, in sequence to the idea that someone might eat bread made with yeast, the result would be that “that soul [the verb is feminine] will be cut off.” The verb is the equivalent of the imperfect tense due to the consecutive; a translation with a nuance of the imperfect of possibility (“may be cut off”) fits better perhaps than a specific future. There is the real danger of being cut off, for while the punishment might include excommunication from the community, the greater danger was in the possibility of divine intervention to root out the evildoer (S. R. Driver, Exodus, 94). Gesenius lists this as the use of a perfect with a vav consecutive after a participle (a casus pendens) to introduce the apodosis (GKC 337 §112.mm).[解説]  In Lev 20:3, 5-6, God speaks of himself as cutting off a person from among the Israelites. The rabbis mentioned premature death and childlessness as possible judgments in such cases, and N. M. Sarna comments that “one who deliberately excludes himself from the religious community of Israel cannot be a beneficiary of the covenantal blessings” (Exodus [JPSTC], 58).
 
 ### Verse 16 - Note 1
+[解説]  This refers to an assembly of the people at the sanctuary for religious purposes. The word “convocation” implies that the people were called together, and Num 10:2 indicates they were called together by trumpets.
 
+### Verse 16 - Note 2
+[翻訳注]  Heb “all/every work will not be done.” The word refers primarily to the work of one’s occupation. B. Jacob (Exodus, 322) explains that since this comes prior to the fuller description of laws for Sabbaths and festivals, the passage simply restricts all work except for the preparation of food. Once the laws are added, this qualification is no longer needed. Gesenius translates this as “no manner of work shall be done” (GKC 478-79 §152.b).
 
 ### Verse 17 - Note 1
+[翻訳注]  Heb “on the bone of this day.” The expression means “the substance of the day,” the day itself, the very day (S. R. Driver, Exodus, 95).
 
+### Verse 17 - Note 2
+[翻訳注]  The word is “armies” or “divisions” (see Exod 6:26 and the note there; cf. also 7:4). The narrative will continue to portray Israel as a mighty army, marching forth in its divisions.
+
+### Verse 17 - Note 3
+[翻訳注]  See Exod 12:14.
 
 ### Verse 18 - Note 1
-
+[翻訳注]  “month” has been supplied.
 
 ### Verse 19 - Note 1
+[翻訳注]  “Seven days” is an adverbial accusative of time (see R. J. Williams, Hebrew Syntax, 12, §56).
 
+### Verse 19 - Note 2
+[翻訳注]  The term is נֶפֶשׁ (nefesh), often translated “soul.” It refers to the whole person, the soul within the body. The noun is feminine, agreeing with the feminine verb “be cut off.”
 
-### Verse 20 - Note 1
-
+### Verse 19 - Note 3
+[翻訳注]  Or “alien”; or “stranger.”
 
 ### Verse 21 - Note 1
+[翻訳注]  Heb “draw out and take.” The verb has in view the need “to draw out” a lamb or goat selected from among the rest of the flock.
 
+### Verse 21 - Note 2
+[翻訳注]  The Hebrew noun is singular and can refer to either a lamb or a goat. Since English has no common word for both, the phrase “a lamb or young goat” is used in the translation.
+
+### Verse 21 - Note 3
+[翻訳注]  The word “animals” is added to avoid giving the impression in English that the Passover festival itself is the object of “kill.”
 
 ### Verse 22 - Note 1
+[解説]  The hyssop is a small bush that grows throughout the Sinai, probably the aromatic herb Origanum Maru L., or Origanum Aegyptiacum. The plant also grew out of the walls in Jerusalem (1 Kgs 4:33). See L. Baldensperger and G. M. Crowfoot, “Hyssop,” PEQ 63 (1931): 89-98. A piece of hyssop was also useful to the priests because it worked well for sprinkling.
 
+### Verse 22 - Note 2
+[翻訳注]  The Greek and the Vulgate translate סַף (saf, “basin”) as “threshold.” W. C. Kaiser reports how early traditions grew up about the killing of the lamb on the threshold (“Exodus,” EBC 2:376).
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “and you, you shall not go out, a man from the door of his house.” This construction puts stress on prohibiting absolutely everyone from going out.
 
 ### Verse 23 - Note 1
+[翻訳注]  The first of the two clauses begun with perfects and vav consecutives may be subordinated to form a temporal clause: “and he will see…and he will pass over,” becomes “when he sees…he will pass over.”
 
+### Verse 23 - Note 2
+[翻訳注]  Here the form is the Hiphil participle with the definite article. Gesenius says this is now to be explained as “the destroyer” although some take it to mean “destruction” (GKC 406 §126.m, n. 1).
 
-### Verse 24 - Note 1
-
+### Verse 23 - Note 3
+[翻訳注]  “you” has been supplied.
 
 ### Verse 25 - Note 1
-
+[翻訳注]  The verb used here and at the beginning of v. 24 is שָׁמַר (shamar); it can be translated “watch, keep, protect,” but in this context the point is to “observe” the religious customs and practices set forth in these instructions.
 
 ### Verse 26 - Note 1
-
+[翻訳注]  Heb “what is this service to you?”
 
 ### Verse 27 - Note 1
+[解説]  This expression “the sacrifice of Yahweh’s Passover” occurs only here. The word זֶבַח (zevakh) means “slaughtering” and so a blood sacrifice. The fact that this word is used in  for the peace offering has linked the Passover as a kind of peace offering, and both the Passover and the peace offerings were eaten as communal meals.
 
+### Verse 27 - Note 2
+[翻訳注]  The verb means “to strike, smite, plague”; it is the same verb that has been used throughout this section (נָגַף, nagaf). Here the construction is the infinitive construct in a temporal clause.
+
+### Verse 27 - Note 3
+[翻訳注]  The two verbs form a verbal hendiadys: “and the people bowed down and they worshiped.” The words are synonymous, and so one is taken as the adverb for the other.
 
 ### Verse 28 - Note 1
-
+[翻訳注]  Heb “went away and did as the Lord had commanded Moses and Aaron, so they did.” The final phrase “so they did,” which is somewhat redundant in English, has been represented in the translation by the adverb “exactly.”
 
 ### Verse 29 - Note 1
+[解説]  The next section records the deliverance of Israel from Egypt, and so becomes the turning point of the book. Verses 28 and 29 could be included in the exposition of the previous section as the culmination of that part. The message might highlight God’s requirement for deliverance from bondage through the application of the blood of the sacrifice, God’s instruction for the memorial of deliverance through the purging of corruption, and the compliance of those who believed the message. But these verses also form the beginning of this next section (and so could be used transitionally). This unit includes the judgment on Egypt (29-30), the exodus from Egypt (31-39) and the historical summation and report (40-42).
 
+### Verse 29 - Note 2
+[翻訳注]  The verse begins with the temporal indicator וַיְהִי (vayÿhi), often translated “and it came to pass.” Here it could be left untranslated: “In the middle of the night Yahweh attacked.” The word order of the next and main clause furthers the emphasis by means of the vav disjunctive on the divine name preceding the verb. The combination of these initial and disjunctive elements helps to convey the suddenness of the attack, while its thoroughness is stressed by the repetition of “firstborn” in the rest of the verse, the merism (“from the firstborn of Pharaoh…to the firstborn of the captive”), and the mention of cattle.
 
 ### Verse 30 - Note 1
+[翻訳注]  Heb “arose,” the verb קוּם (qum) in this context certainly must describe a less ceremonial act. The entire country woke up in terror because of the deaths.
 
+### Verse 30 - Note 2
+[翻訳注]  The noun is an adverbial accusative of time – “in the night” or “at night.”
+
+### Verse 30 - Note 3
+[解説]  Or so it seemed. One need not push this description to complete literalness. The reference would be limited to houses that actually had firstborn people or animals. In a society in which households might include more than one generation of humans and animals, however, the presence of a firstborn human or animal would be the rule rather than the exception.
 
 ### Verse 31 - Note 1
+[翻訳注]  Heb “he”; the referent (Pharaoh) has been specified in the translation for clarity.
 
+### Verse 31 - Note 2
+[翻訳注]  The urgency in Pharaoh’s words is caught by the abrupt use of the imperatives – “get up, go” (קוּמוּ צְּאוּ, qumu tsÿ’u), and “go, serve” (וּלְכוּ עִבְדוּ, ulÿkhu ’ivdu) and “take” and “leave/go” (וָלֵכוּ…קְחוּ, qÿkhu...valekhu).
+
+### Verse 31 - Note 3
+[翻訳注]  Heb “as you have said.” The same phrase also occurs in the following verse.[解説]  It appears from this clause that Pharaoh has given up attempting to impose restrictions as he had earlier. With the severe judgment on him for his previous refusals he should now know that these people are no longer his subjects, and he is no longer sovereign. As Moses had insisted, all the Israelites would leave, and with all their possessions, to worship Yahweh.
 
 ### Verse 32 - Note 1
-
+[翻訳注]  The form is the Piel perfect with a vav (ו) consecutive (וּבֵרַכְתֶּם, uverakhtem); coming in the sequence of imperatives this perfect tense would be volitional – probably a request rather than a command.[解説]  Pharaoh probably meant that they should bless him also when they were sacrificing to Yahweh in their religious festival – after all, he might reason, he did let them go (after divine judgment). To bless him would mean to invoke good gifts from God for him.
 
 ### Verse 33 - Note 1
+[翻訳注]  The verb used here (חָזַק, khazaq) is the same verb used for Pharaoh’s heart being hardened. It conveys the idea of their being resolved or insistent in this – they were not going to change.
 
+### Verse 33 - Note 2
+[翻訳注]  The phrase uses two construct infinitives in a hendiadys, the first infinitive becoming the modifier.
 
 ### Verse 34 - Note 1
-
+[翻訳注]  The imperfect tense after the adverb טֶרֶם (terem) is to be treated as a preterite: “before it was leavened,” or “before the yeast was added.” See GKC 314-15 §107.c.
 
 ### Verse 35 - Note 1
+[翻訳注]  The verbs “had done” and then “had asked” were accomplished prior to the present narrative (S. R. Driver, Exodus, 99). The verse begins with disjunctive word order to introduce the reminder of earlier background information.
 
+### Verse 35 - Note 2
+[翻訳注]  Heb “from Egypt.” Here the Hebrew text uses the name of the country to represent the inhabitants (a figure known as metonymy).
 
 ### Verse 36 - Note 1
+[翻訳注]  The holy name (“Yahweh,” represented as “the Lord” in the translation) has the vav disjunctive with it. It may have the force: “Now it was Yahweh who gave the people favor….”
 
+### Verse 36 - Note 2
+[解説]  God was destroying the tyrant and his nobles and the land’s economy because of their stubborn refusal. But God established friendly, peaceful relations between his people and the Egyptians. The phrase is used outside Exod only in Gen 39:21, referring to Joseph.
+
+### Verse 36 - Note 3
+[翻訳注]  The verb וַיַּשְׁאִלוּם (vayyash’ilum) is a Hiphil form that has the root שָׁאַל (sha’al), used earlier in Qal with the meaning “requested” (12:35). The verb here is frequently translated “and they lent them,” but lending does not fit the point. What they gave the Israelites were farewell gifts sought by demanding or asking for them. This may exemplify a “permissive” use of the Hiphil stem, in which “the Hiphil designates an action that is agreeable to the object and allowed by the subject” (B. T. Arnold and J. H. Choi, A Guide to Biblical Hebrew Syntax, 52).
+
+### Verse 36 - Note 4
+[解説]  See B. Jacob, “The Gifts of the Egyptians; A Critical Commentary,” Journal of Reformed Judaism 27 (1980): 59-69.
 
 ### Verse 37 - Note 1
+[翻訳注]  Heb “and the sons of Israel journeyed.”
 
+### Verse 37 - Note 2
+[解説]  The wilderness itinerary begins here. W. C. Kaiser records the identification of these two places as follows: The name Rameses probably refers to Qantir rather than Tanis, which is more remote, because Qantir was by the water; Sukkoth is identified as Tell el Maskhuta in the Wadi Tumilat near modern Ismailia – or the region around the city (“Exodus,” EBC 2:379). Of the extensive bibliography, see G. W. Coats, “The Wilderness Itinerary,” CBQ 34 (1972): 135-52; G. I. Davies, “The Wilderness Itineraries: A Comparative Study,” TynBul 25 (1974): 46-81; and J. T. Walsh, “From Egypt to Moab. A Source Critical Analysis of the Wilderness Itinerary,” CBQ 39 (1977): 20-33.
+
+### Verse 37 - Note 3
+[翻訳注]  The word for “men” (הַגְּבָרִים, haggÿvarim) stresses their hardiness and capability – strong men, potential soldiers – in contrast with the word that follows and designates noncombatants.[解説]  There have been many attempts to calculate the population of the exodus group, but nothing in the text gives the exact number other than the 600,000 people on foot who were men. Estimates of two million people are very large, especially since the Bible says there were seven nations in the land of Canaan mightier than Israel. It is probably not two million people (note, the Bible never said it was – this is calculated by scholars). But attempts to reduce the number by redefining the word “thousand” to mean clan or tribe or family unit have not been convincing, primarily because of all the tabulations of the tribes in the different books of the Bible that have to be likewise reduced. B. Jacob (Exodus, 347) rejects the many arguments and calculations as the work of eighteenth century deists and rationalists, arguing that the numbers were taken seriously in the text. Some writers interpret the numbers as inflated due to a rhetorical use of numbers, arriving at a number of 60,000 or so for the men here listed (reducing it by a factor of ten), and insisting this is a literal interpretation of the text as opposed to a spiritual or allegorical approach (see R. Allen, “Numbers,” EBC 2:686-96; see also G. Mendenhall, “The Census Lists of Numbers 1 and 26,” JBL 77 [1958]: 52-66). This proposal removes the “embarrassingly” large number for the exodus, but like other suggestions, lacks completely compelling evidence. For a more extensive discussion of the large numbers used to describe the Israelites in their wilderness experience, see the note on “46,500” in Num 1:21.
+
+### Verse 37 - Note 4
+[翻訳注]  For more on this word see 10:10 and 24.
 
 ### Verse 38 - Note 1
+[翻訳注]  The “mixed multitude” (עֵרֶב רַב, ’erev rav) refers to a great “swarm” (see a possible cognate in 8:21[17]) of folk who joined the Israelites, people who were impressed by the defeat of Egypt, who came to faith, or who just wanted to escape Egypt (maybe slaves or descendants of the Hyksos). The expression prepares for later references to riffraff who came along.
 
+### Verse 38 - Note 2
+[翻訳注]  Heb “and very much cattle.”
 
 ### Verse 39 - Note 1
+[解説]  For the use of this word in developing the motif, see Exod 2:17, 22; 6:1; and 11:1.
 
+### Verse 39 - Note 2
+[翻訳注]  Heb “and also.”
+
+### Verse 39 - Note 3
+[翻訳注]  The verb is עָשׂוּ (’asu, “they made”); here, with a potential nuance, it is rendered “they could [not] prepare.”
 
 ### Verse 40 - Note 1
-
+[解説]  Here as well some scholars work with the number 430 to try to reduce the stay in Egypt for the bondage. Some argue that if the number included the time in Canaan, that would reduce the bondage by half. S. R. Driver (Exodus, 102) notes that P thought Moses was the fourth generation from Jacob (6:16-27), if those genealogies are not selective.  has Levi – Kohath – Amram – Moses. This would require a period of about 100 years, and that is unusual. There is evidence, however, that the list is selective. In 1 Chr 2:3-20 the text has Bezalel (see Exod 31:2-5) a contemporary of Moses and yet the seventh from Judah. Elishama, a leader of the Ephraimites (Num 10:22), was in the ninth generation from Jacob (1 Chr 7:22-26). Joshua, Moses’ assistant, was the eleventh from Jacob (1 Chr 7:27). So the “four generations” leading up to Moses are not necessarily complete. With regard to , K. A. Kitchen has argued that the four names do not indicate successive generations, but tribe (Levi), clan (Kohath), family (Amram), and individual (Moses; K. A. Kitchen, Ancient Orient and Old Testament, 54-55). For a detailed discussion of the length of the sojourn, see E. H. Merrill, A Kingdom of Priests, 75-79.
 
 ### Verse 41 - Note 1
-
+[解説]  This military term is used elsewhere in Exodus (e.g., 6:26; 7:4; 12:17, 50), but here the Israelites are called “the regiments of the Lord.”
 
 ### Verse 42 - Note 1
+[翻訳注]  There is some ambiguity in לֵיל שִׁמֻּרִים הוּא לַיהוָה (lel shimmurim hu’ la’adonay [layhveh]). It is likely that this first clause means that Yahweh was on watch for Israel to bring them out, as the next clause says. He was protecting his people (S. R. Driver, Exodus, 102). Then, the night of vigil will be transferred to Israel, who now must keep it “to” him.
 
+### Verse 42 - Note 2
+[翻訳注]  “and so” has been supplied.
+
+### Verse 42 - Note 3
+[翻訳注]  Heb “this night is for Yahweh a vigil for all Israelites for their generations.”
 
 ### Verse 43 - Note 1
+[解説]  The section that concludes the chapter contains regulations pertaining to the Passover. The section begins at v. 43, but vv. 40-42 form a good setting for it. In this unit vv. 43-45 belong together because they stress that a stranger and foreigner cannot eat. Verse 46 stands by itself, ruling that the meal must be eaten at home. Verse 47 instructs that the whole nation was to eat it. Verses 48-49 make provision for foreigners who may wish to participate. And vv. 50-51 record the obedience of Israel.
 
+### Verse 43 - Note 2
+[翻訳注]  This taken in the modal nuance of permission, reading that no foreigner is permitted to share in it (apart from being a member of the household as a circumcised slave [v. 44] or obeying v. 48, if a free individual).
 
-### Verse 44 - Note 1
-
-
-### Verse 45 - Note 1
-
-
-### Verse 46 - Note 1
-
-
-### Verse 47 - Note 1
-
+### Verse 43 - Note 3
+[翻訳注]  This is the partitive use of the bet (ב) preposition, expressing that the action extends to something and includes the idea of participation in it (GKC 380 §119.m).
 
 ### Verse 48 - Note 1
+[翻訳注]  Both the participle “foreigner” and the verb “lives” are from the verb גּוּר (gur), which means “to sojourn, to dwell as an alien.” This reference is to a foreigner who settles in the land. He is the protected foreigner; when he comes to another area where he does not have his clan to protect him, he must come under the protection of the Law, or the people. If the “resident alien” is circumcised, he may participate in the Passover (S. R. Driver, Exodus, 104).
 
+### Verse 48 - Note 2
+[翻訳注]  The infinitive absolute functions as the finite verb here, and “every male” could be either the object or the subject (see GKC 347 §113.gg and 387 §121.a).
+
+### Verse 48 - Note 3
+[翻訳注]  אֶזְרָח (’ezrakh) refers to the native-born individual, the native Israelite as opposed to the “stranger, alien” (S. R. Driver, Exodus, 104); see also W. F. Albright, Archaeology and the Religion of Israel, 127, 210.
 
 ### Verse 49 - Note 1
-
+[翻訳注]  Heb “one law will be to.”
 
 ### Verse 50 - Note 1
-
-
-### Verse 51 - Note 1
-
+[翻訳注]  Heb “did as the Lord had commanded Moses and Aaron, so they did.” The final phrase “so they did,” which is somewhat redundant in English, has been represented in the translation by the adverb “exactly.”

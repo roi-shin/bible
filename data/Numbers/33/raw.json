@@ -1,0 +1,416 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This material can be arranged into four sections: from Egypt to Sinai (vv. <span class=\"bibleref\" title=\"Numbers 33:1-15\">1-15</span>), the wilderness wanderings (vv. <span class=\"bibleref\" title=\"Numbers 33:16-36\">16-36</span>), from Kadesh to Moab (vv. <span class=\"bibleref\" title=\"Numbers 33:37-49\">37-49</span>), and final orders for Canaan (vv. <span class=\"bibleref\" title=\"Numbers 33:50-56\">50-56</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hand.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their goings out.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;mouth.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;morrow.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;with a high hand&#8221;; the expression means &#8220;defiantly; boldly&#8221; or &#8220;with confidence.&#8221; The phrase is usually used for arrogant sin and pride, the defiant fist, as it were. The image of the high hand can also mean the hand raised to deliver the blow (<span class=\"bibleref\" title=\"Job 38:15\">Job 38:15</span>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> So many medieval Hebrew manuscripts, Smr, Syriac, and Latin Vulgate. Other witnesses have &#8220;from before Hahiroth.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;mouth.&#8221;</div>"
+      ]
+    ],
+    "45": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Iim</i> is a shortened form of the name <i>Iye-abarim</i> mentioned in v. <span class=\"bibleref\" title=\"Numbers 33:44\">44</span>.</div>"
+      ]
+    ],
+    "48": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;River&#8221; is not in the Hebrew text, but is supplied in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "52": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text repeats the verb &#8220;you will destroy.&#8221;</div>"
+      ]
+    ],
+    "54": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;of your fathers.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "1",
+      "text": " These are the journeys of the Israelites, who went out of the land of Egypt by their divisions under the authority of Moses and Aaron. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "2",
+      "text": "Moses recorded their departures according to their journeys, by the commandment of the Lord; now these are their journeys according to their departures. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "3",
+      "text": "They departed from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the Israelites went out defiantly in plain sight of all the Egyptians. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "4",
+      "text": "Now the Egyptians were burying all their firstborn, whom the Lord had killed among them; the Lord also executed judgments on their gods. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "5",
+      "text": "The Israelites traveled from Rameses and camped in Sukkoth. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "6",
+      "text": "They traveled from Sukkoth, and camped in Etham, which is on the edge of the desert. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "7",
+      "text": "They traveled from Etham, and turned again to Pi Hahiroth, which is before Baal Zephon; and they camped before Migdal. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "8",
+      "text": "They traveled from Pi Hahiroth, and passed through the middle of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and camped in Marah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "9",
+      "text": "They traveled from Marah and came to Elim; in Elim there are twelve fountains of water and seventy palm trees, so they camped there. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "10",
+      "text": "They traveled from Elim, and camped by the Red Sea. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "11",
+      "text": "They traveled from the Red Sea and camped in the wilderness of Sin. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "12",
+      "text": "They traveled from the wilderness of Sin and camped in Dophkah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "13",
+      "text": "And they traveled from Dophkah, and camped in Alush. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "14",
+      "text": "They traveled from Alush and camped at Rephidim, where there was no water for the people to drink. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "15",
+      "text": "They traveled from Rephidim and camped in the desert of Sinai. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "16",
+      "text": "They traveled from the desert of Sinai and camped at Kibroth Hattaavah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "17",
+      "text": "They traveled from Kibroth Hattaavah and camped at Hazeroth. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "18",
+      "text": "They traveled from Hazeroth and camped in Rithmah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "19",
+      "text": "They traveled from Rithmah and camped at Rimmon Perez. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "20",
+      "text": "They traveled from Rimmon Perez and camped in Libnah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "21",
+      "text": "They traveled from Libnah and camped at Rissah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "22",
+      "text": "They traveled from Rissah and camped in Kehelathah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "23",
+      "text": "They traveled from Kehelathah and camped at Mount Shepher. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "24",
+      "text": "They traveled from Mount Shepher and camped in Haradah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "25",
+      "text": "They traveled from Haradah and camped in Makheloth. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "26",
+      "text": "They traveled from Makheloth and camped at Tahath. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "27",
+      "text": "They traveled from Tahath and camped at Terah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "28",
+      "text": "They traveled from Terah and camped in Mithcah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "29",
+      "text": "They traveled from Mithcah and camped in Hashmonah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "30",
+      "text": "They traveled from Hashmonah and camped in Moseroth. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "31",
+      "text": "They traveled from Moseroth and camped in Bene Jaakan."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "32",
+      "text": "They traveled from Bene Jaakan and camped at Hor Haggidgad. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "33",
+      "text": "They traveled from Hor Haggidgad and camped in Jotbathah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "34",
+      "text": "They traveled from Jotbathah and camped in Abronah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "35",
+      "text": "They traveled from Abronah and camped at Ezion Geber. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "36",
+      "text": "They traveled from Ezion Geber and camped in the wilderness of Zin, that is, Kadesh. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "37",
+      "text": "They traveled from Kadesh and camped at Mount Hor at the edge of the land of Edom. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "38",
+      "text": "Aaron the priest ascended Mount Hor at the command of the Lord, and he died there in the fortieth year after the Israelites had come out of the land of Egypt on the first day of the fifth month. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "39",
+      "text": "Now Aaron was 123 years old when he died on Mount Hor. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "40",
+      "text": "The king of Arad, the Canaanite king who lived in the south of the land of Canaan, heard about the approach of the Israelites. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "41",
+      "text": "They traveled from Mount Hor and camped in Zalmonah. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "42",
+      "text": "They traveled from Zalmonah and camped in Punon. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "43",
+      "text": "They traveled from Punon and camped in Oboth. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "44",
+      "text": "They traveled from Oboth and camped in Iye Abarim, on the border of Moab. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "45",
+      "text": "They traveled from Iim and camped in Dibon Gad. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "46",
+      "text": "They traveled from Dibon Gad and camped in Almon Diblathaim. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "47",
+      "text": "They traveled from Almon Diblathaim and camped in the mountains of Abarim before Nebo. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "48",
+      "text": "They traveled from the mountains of Abarim and camped in the rift valley plains by Moab along the Jordan River across from Jericho. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "49",
+      "text": "They camped by the Jordan, from Beth Jeshimoth as far as Abel Shittim in the rift valley plains of Moab. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "50",
+      "text": "The Lord spoke to Moses in the rift valley plains of Moab along the Jordan, across from Jericho. He said: "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "51",
+      "text": "“Speak to the Israelites and tell them, ‘When you have crossed the Jordan into the land of Canaan, "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "52",
+      "text": "you must drive out all the inhabitants of the land before you. Destroy all their carved images, all their molten images, and demolish their high places. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "53",
+      "text": "You must dispossess the inhabitants of the land and live in it, for I have given you the land to possess it."
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "54",
+      "text": "You must divide the land by lot for an inheritance among your families. To a larger group you must give a larger inheritance, and to a smaller group you must give a smaller inheritance. Everyone’s inheritance must be in the place where his lot falls. You must inherit according to your ancestral tribes. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "55",
+      "text": "But if you do not drive out the inhabitants of the land before you, then those whom you allow to remain will be irritants in your eyes and thorns in your side, and will cause you trouble in the land where you will be living. "
+    },
+    {
+      "bookname": "Numbers",
+      "chapter": "33",
+      "verse": "56",
+      "text": "And what I intended to do to them I will do to you.’”"
+    }
+  ]
+}

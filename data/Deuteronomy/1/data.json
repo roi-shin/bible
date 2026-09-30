@@ -1,0 +1,738 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "This is what Moses said to all of Israel in the Transjordanian wilderness, the arid rift valley opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Di Zahab. ",
+      "ja": "これは、ヨルダン川の東方の荒野、スフの反対側にあるアラバの乾燥地において、パランとトフェル、ラバン、ハツェロト、ディ・ザハブの間で、モーセがイスラエルの全会衆に語った言葉である。"
+    },
+    {
+      "verse": 2,
+      "en": "Now it is ordinarily an eleven-day journey from Horeb to Kadesh Barnea by way of Mount Seir. ",
+      "ja": "ホレブからセイル山を経由してカデシュ・バルネアに至る道のりは、通常であれば十一日間の行程であった。"
+    },
+    {
+      "verse": 3,
+      "en": "However, it was not until the first day of the eleventh month of the fortieth year that Moses addressed the Israelites just as the Lord had instructed him to do.",
+      "ja": "しかし、四十年目の十一月一日になって、モーセは主が命じられたすべてのことのとおりに、イスラエルの人々に語りかけた。"
+    },
+    {
+      "verse": 4,
+      "en": "This took place after the defeat of King Sihon of the Amorites, whose capital was in Heshbon, and King Og of Bashan, whose capital was in Ashtaroth, specifically in Edrei. ",
+      "ja": "それは、ヘシュボンに王座を置いていたアモリ人の王シホンと、エデレイの1アシュタロテに王座を置いていたバシャンの王オグを打ち破った後のことであった。"
+    },
+    {
+      "verse": 5,
+      "en": "So it was in the Transjordan, in Moab, that Moses began to deliver these words: ",
+      "ja": "こうして、ヨルダン川の東方のモアブの地で、モーセはこの律法を説き明かし始めた。"
+    },
+    {
+      "verse": 6,
+      "en": "The Lord our God spoke to us at Horeb and said, “You have stayed in the area of this mountain long enough. ",
+      "ja": "われらの神、主はホレブでわれらに告げてこう言われた。「あなたたちはこの山の周辺に長く住みすぎた。"
+    },
+    {
+      "verse": 7,
+      "en": "Head out and resume your journey. Enter the Amorite hill country, and all its neighboring areas, including the rift valley, the hill country, the foothills, the Negev, and the coastal plain—all of Canaan and Lebanon as far as the Great River, that is, the Euphrates. ",
+      "ja": "さあ、向きを変えて旅立ちなさい。アモリ人の山地へ行き、アラバ、山地、低地、ネゲブ、海岸平野に至るその周辺のすべての地域へ、すなわち、カナンの全地とレバノンから大川ユーフラテスに至るまで進みなさい。"
+    },
+    {
+      "verse": 8,
+      "en": "Look! I have already given the land to you. Go, occupy the territory that I, the Lord, promised to give to your ancestors Abraham, Isaac, and Jacob, and to their descendants.” ",
+      "ja": "見よ、わたしはあなたたちの前にこの地を与えている。行って、主があなたたちの先祖アブラハム、イサク、ヤコブ、およびその子孫に与えると誓われた地を占領しなさい。」"
+    },
+    {
+      "verse": 9,
+      "en": "I also said to you at that time, “I am no longer able to sustain you by myself. ",
+      "ja": "そのとき、わたしはあなたたちに告げて言った。「わたし一人では、もはやあなたたちの重荷を負い切れない。"
+    },
+    {
+      "verse": 10,
+      "en": "The Lord your God has increased your population to the point that you are now as numerous as the very stars of the sky. ",
+      "ja": "あなたたちの神、主があなたたちを増やしてくださったので、今やあなたたちは天の星のように数多くなっている。"
+    },
+    {
+      "verse": 11,
+      "en": "Indeed, may the Lord, the God of your ancestors, make you a thousand times more numerous than you are now, blessing you just as he said he would!",
+      "ja": "どうか、あなたたちの先祖の神、主が、現在のあなたたちをさらに千倍にも増やし、約束されたように祝福してくださるように。"
+    },
+    {
+      "verse": 12,
+      "en": "But how can I alone bear up under the burden of your hardship and strife? ",
+      "ja": "だが、どうしてわたし一人で、あなたたちの苦労と争いの重荷に耐えることができようか。"
+    },
+    {
+      "verse": 13,
+      "en": "Select wise and practical men, those known among your tribes, whom I may appoint as your leaders.” ",
+      "ja": "あなたたちの部族の中で、知恵と識見があり、よく知られている人々を選びなさい。わたしは彼らをあなたたちの指導者としよう。」"
+    },
+    {
+      "verse": 14,
+      "en": "You replied to me that what I had said to you was good. ",
+      "ja": "あなたたちはわたしに答えて、「あなたが語られたことは良いことです」と言った。"
+    },
+    {
+      "verse": 15,
+      "en": "So I chose as your tribal leaders wise and well-known men, placing them over you as administrators of groups of thousands, hundreds, fifties, and tens, and also as other tribal officials. ",
+      "ja": "そこでわたしは、あなたたちの部族の長たちから、知恵がありよく知られている男たちを選び、彼らをあなたたちの上に立てて、千人の長、百人の長、五十人の長の組長とし、また部族ごとの役人とした。"
+    },
+    {
+      "verse": 16,
+      "en": "I furthermore admonished your judges at that time that they should pay attention to issues among your fellow citizens and judge fairly, whether between one person and a native Israelite or a resident foreigner. ",
+      "ja": "そのとき、わたしはあなたたちの裁判官たちに命じて言った。「仲間同士の訴えメンを聞き、同国人であれ、外国人の寄留者であれ、公正に裁きなさい。"
+    },
+    {
+      "verse": 17,
+      "en": "They must not discriminate in judgment, but hear the lowly and the great alike. Nor should they be intimidated by human beings, for judgment belongs to God. If the matter being adjudicated is too difficult for them, they should bring it before me for a hearing. ",
+      "ja": "裁きにおいてひいきをしてはならない。身分の低い者も高い者も同じように聞きなさい。人を恐れてはならない。裁きは神に属するからである。もしあなたたちにとって難しすぎる訴えがあれば、わたしのところに持ってきなさい。わたしが聞こう。」"
+    },
+    {
+      "verse": 18,
+      "en": "So I instructed you at that time regarding everything you should do. ",
+      "ja": "このように、わたしはあなたたちがなすべきすべてのことについて、そのとき指示を与えた。"
+    },
+    {
+      "verse": 19,
+      "en": "Then we left Horeb and passed through all that immense, forbidding wilderness that you saw on the way to the Amorite hill country as the Lord our God had commanded us to do, finally arriving at Kadesh Barnea. ",
+      "ja": "われらはホレブを立ち去り、あなたたちがアモリ人の山地へ行く途中で見た、あの広大で恐ろしい荒野のすべてを通り過ぎ、われらの神、主が命じられたとおりに、ついにカデシュ・バルネアに到着した。"
+    },
+    {
+      "verse": 20,
+      "en": "Then I said to you, “You have come to the Amorite hill country, which the Lord our God is about to give us.",
+      "ja": "そのとき、わたしはあなたたちに言った。「あなたたちは、われらの神、主が与えようとしておられるアモリ人の山地に来た。"
+    },
+    {
+      "verse": 21,
+      "en": "Look, he has placed the land in front of you! Go up, take possession of it, just as the Lord, the God of your ancestors, said to do. Do not be afraid or discouraged!” ",
+      "ja": "見よ、主はあなたたちの前にこの地を与えておられる。先祖の神、主が告げられたとおりに、上っていって所有しなさい。恐れてはならない、おののいてはならない。」"
+    },
+    {
+      "verse": 22,
+      "en": "So all of you approached me and said, “Let’s send some men ahead of us to scout out the land and bring us back word as to how we should attack it and what the cities are like there.” ",
+      "ja": "すると、あなたたちは皆わたしのところに近づいてきて言った。「私たちより先に人々を遣わし、あの地を探らせて、どのように上っていくべきか、またどの町々に入るべきかを報告させましょう。」"
+    },
+    {
+      "verse": 23,
+      "en": "I thought this was a good idea, so I sent twelve men from among you, one from each tribe. ",
+      "ja": "わたしはそのことを良いことだと思い、あなたたちの中から部族ごとに一人ずつ、計十二人の男を選び出した。"
+    },
+    {
+      "verse": 24,
+      "en": "They left and went up to the hill country, coming to the Eshcol Valley, which they scouted out. ",
+      "ja": "彼らは出発して山地に上り、エシュコルの谷に至ってそこを探った。"
+    },
+    {
+      "verse": 25,
+      "en": "Then they took some of the produce of the land and carried it back down to us. They also brought a report to us, saying, “The land that the Lord our God is about to give us is good.” ",
+      "ja": "そしてその地の実を取って、われらのもとに持ち帰ってきた。また彼らは報告を持ち帰って言った。「われらの神、主が与えてくださろうとしている地は良い地です。」"
+    },
+    {
+      "verse": 26,
+      "en": "You were not willing to go up, however, but instead rebelled against the Lord your God. ",
+      "ja": "しかし、あなたたちは上っていくことを望まず、あなたたちの神、主の命令にそむいた。"
+    },
+    {
+      "verse": 27,
+      "en": "You complained among yourselves privately and said, “Because the Lord hates us he brought us from Egypt to deliver us over to the Amorites so they could destroy us!",
+      "ja": "そして自分たちの天幕の中でつぶやいて言った。「主は私たちを憎んでおられるからこそ、アモリ人の手に引き渡して滅ぼすために、私たちをエジプトの地から導き出されたのだ。"
+    },
+    {
+      "verse": 28,
+      "en": "What is going to happen to us? Our brothers have drained away our courage by describing people who are more numerous and taller than we are, and great cities whose defenses appear to be as high as heaven itself! Moreover, they said they saw Anakites there.” ",
+      "ja": "私たちはどこへ行くというのか。私たちの兄弟たちが私たちの心をくじき、『あそこの民は私たちよりも数が多く、背が高い。町々は大きくて、その城壁は天にそびえている。それに、私たちはそこでアナク人の子孫を見た』と言ったのだから。」"
+    },
+    {
+      "verse": 29,
+      "en": "So I responded to you, “Do not be terrified of them! ",
+      "ja": "そこでわたしはあなたたちに言った。「彼らを恐れてはならない。おののいてはならない。"
+    },
+    {
+      "verse": 30,
+      "en": "The Lord your God is about to go ahead of you; he will fight for you, just as you saw him do in Egypt ",
+      "ja": "あなたたちの先頭に立って進まれるあなたたちの神、主は、かつてあなたたちの目の前でエジプトにおいてあなたたちのためにしてくださったすべてのことと同じように、あなたたちのために戦ってくださる。"
+    },
+    {
+      "verse": 31,
+      "en": "and in the wilderness, where you saw him carrying you along like a man carries his son. This he did everywhere you went until you came to this very place.” ",
+      "ja": "また荒野においても、あたかも人がその子を抱くように、あなたたちの神、主が、あなたたちが歩いてきた全行程において、この場所に至るまであなたたちを抱いて進んでこられたのを、あなたたちは見た。"
+    },
+    {
+      "verse": 32,
+      "en": "However, through all this you did not have confidence in the Lord your God, ",
+      "ja": "それにもかかわらず、あなたたちはこの事において、あなたたちの神、主を信頼しなかった。"
+    },
+    {
+      "verse": 33,
+      "en": "who would go before you on the way to find places for you to camp, appearing in a fire at night and in a cloud by day to show you the way you ought to go. ",
+      "ja": "主はあなたたちの進むべき道を探すために、夜は火をもって、昼は雲をもってあなたたちの先頭に立ち、あなたたちの行くべき道を指示してくださったというのに。」"
+    },
+    {
+      "verse": 34,
+      "en": "When the Lord heard you, he became angry and made this vow: ",
+      "ja": "主はあなたたちの言葉を聞き、怒りに満ちて誓われた。"
+    },
+    {
+      "verse": 35,
+      "en": "“Not a single person of this evil generation will see the good land that I promised to give to your ancestors! ",
+      "ja": "「この悪しき世代の者たちのうち、先祖たちに与えると誓ったその良い地を見る者は、一人もいないであろう。"
+    },
+    {
+      "verse": 36,
+      "en": "The exception is Caleb son of Jephunneh; he will see it and I will give him and his descendants the territory on which he has walked, because he has wholeheartedly followed me.”",
+      "ja": "ただし、エフネの子カレブだけはそれを見る。彼が心をつくして主につき従ったので、彼が足を踏み入れた地を、彼とその子孫に与える。」"
+    },
+    {
+      "verse": 37,
+      "en": "As for me, the Lord was also angry with me on your account. He said, “You also will not be able to go there. ",
+      "ja": "主はあなたたちのゆえに、わたしに対しても怒られ、「あなたもそこに入ってはならない。"
+    },
+    {
+      "verse": 38,
+      "en": "However, Joshua son of Nun, your assistant, will go. Encourage him, because he will enable Israel to inherit the land.",
+      "ja": "しかし、あなたに仕えているヌンの子ヨシュアはそこに入る。彼を励ましなさい。彼がイスラ人にその地を継がせるからである。"
+    },
+    {
+      "verse": 39,
+      "en": "Also, your infants, who you thought would die on the way, and your children, who as yet do not know good from bad, will go there; I will give them the land and they will possess it.",
+      "ja": "また、途中で略奪の餌食になるとあなたたちが言っていた幼子たち、および、まだ善悪の区別がつかないあなたたちの子供たちは、そこに入る。わたしは彼らにその地を与え、彼らはそれを所有する。"
+    },
+    {
+      "verse": 40,
+      "en": "But as for you, turn back and head for the wilderness by the way to the Red Sea.” ",
+      "ja": "だが、あなたたちは向きを変え、紅海の道を通って荒野へ向けて出発しなさい。」"
+    },
+    {
+      "verse": 41,
+      "en": "Then you responded to me and admitted, “We have sinned against the Lord. We will now go up and fight as the Lord our God has told us to do.” So you each put on your battle gear and prepared to go up to the hill country. ",
+      "ja": "するとあなたたちはわたしに答えて言った。「私たちは主に対して罪を犯しました。われらの神、主が命じられたとおりに、私たちが上っていって戦います。」そしてあなたたちはめいめい武器を身につけ、軽率にも山地に上ろうとした。"
+    },
+    {
+      "verse": 42,
+      "en": "But the Lord told me: “Tell them this: ‘Do not go up and fight, because I will not be with you and you will be defeated by your enemies.’” ",
+      "ja": "しかし主はわたしに言われた。「彼らにこう言いなさい。『上っていってはならない。戦ってはならない。わたしはあなたたちのうちにいないからである。あなたたちは敵に打ち負かされるであろう。』」"
+    },
+    {
+      "verse": 43,
+      "en": "I spoke to you, but you did not listen. Instead you rebelled against the Lord and recklessly went up to the hill country. ",
+      "ja": "わたしがあなたたちに語ったのに、あなたたちは聞き従わず、主の命令にそむき、思い上がって山地に上っていった。"
+    },
+    {
+      "verse": 44,
+      "en": "The Amorite inhabitants of that area confronted you and chased you like a swarm of bees, striking you down from Seir as far as Hormah. ",
+      "ja": "すると、その山地に住んでいたアモリ人があなたたちに向かって出撃し、蜂の群れのようにあなたたちを追いかけ、セイルからホルマに至るまであなたたちを打ち破った。"
+    },
+    {
+      "verse": 45,
+      "en": "Then you came back and wept before the Lord, but he paid no attention to you whatsoever. ",
+      "ja": "あなたたちは戻ってきて、主の御前で泣いたが、主はあなたたちの声に耳を傾けず、あなたたちに顧みられなかった。"
+    },
+    {
+      "verse": 46,
+      "en": "Therefore, you remained at Kadesh for a long time—indeed, for the full time. ",
+      "ja": "こうして、あなたたちはカデシュにとどまり、そこに長い間滞在することになった。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “These are the words.”",
+        "ja": "原典ヘブライ語では「これらは言葉である」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to all Israel.”",
+        "ja": "原典ヘブライ語では「すべてのイスラエルに」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “on the other side of the Jordan.” This would appear to favor authorship by someone living on the west side of the Jordan, that is, in Canaan, whereas the biblical tradition locates Moses on the east side (cf. v. 5). However the Hebrew phrase בְּעֵבֶר הַיּרְדֵּן (bÿ’ever hayyrÿden) is a frozen form meaning “Transjordan,” a name appropriate from any geographical vantage point. To this day, one standing east of the Jordan can describe himself as being in Transjordan.",
+        "ja": "原典ヘブライ語では「ヨルダン川のもう一つの側（向こう側）」となります。これは、ヨルダン川の西側、すなわちカナンに住む著者による執筆であるかのような印象を与えます。聖書の伝統ではモーセが東側にいたとされているためです（5節参照）。しかし、ヘブライ語句בְּעֵבֶר הַיּרְדֵּן (be'ever hayyarden)は「ヨルダン川東方（トランスヨルダン）」を意味する定型句であり、どの地理的視点からでも適切に用いられる名称です。今日に至るまで、ヨルダン川の東側に立つ人は、自分がトランスヨルダンにいると表現することができます。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Hebrew term מוֹל (mol) may also mean “in front of” or “near” (cf. NCV, TEV, CEV, NLT).",
+        "ja": "ヘブライ語のモル（môl）という言葉は、「〜の正面に」または「〜の近くに」を意味することもあります（NCV、TEV、CEV、NLT参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  This place is otherwise unattested and its location is unknown. Perhaps it is Khirbet Sufah, 4 mi (6 km) SSE of Madaba, Jordan.",
+        "ja": "この地名は他の箇所には登場せず、その正確な位置は不明です。ヨルダンのマダバの南南東6キロメートルにあるヒルベット・スーファである可能性があります。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The Hebrew term בֵּין (ben) may suggest “in the area of.”",
+        "ja": "ヘブライ語のベン（ben）という言葉は「〜の地域において」を意味している場合があります。"
+      },
+      {
+        "pos": 7,
+        "en": "[解説]  Paran is the well-known desert area between Mount Sinai and Kadesh Barnea (cf. Num 10:12; 12:16).",
+        "ja": "パランは、シナイ山とカデシュ・バルネアの間にあるよく知られた砂漠地帯です（民数記10:12、12:16参照）。"
+      },
+      {
+        "pos": 8,
+        "en": "[解説]  Tophel refers possibly to et£-T£afîleh, 15 mi (25 km) SE of the Dead Sea, or to Da‚bîlu, another name for Paran. See H. Cazelles, “Tophel (Deut. 1:1),” VT 9 (1959): 412-15.",
+        "ja": "トフェルは、死海の南東25キロメートルにあるエト＝タイフィラ、あるいはパランの別名であるダビールを指している可能性があります。H. カゼレス「トフェル（申命記1:1）」『Vetus Testamentum』9 (1959年): 412-15ページをご参照ください。"
+      },
+      {
+        "pos": 9,
+        "en": "[解説]  Laban. Perhaps this refers to Libnah (Num 33:20).",
+        "ja": "ラバン。おそらくこれはリブナを指していると考えられます（民数記33:20）。"
+      },
+      {
+        "pos": 10,
+        "en": "[解説]  Hazeroth. This probably refers to àAin Khadra. See Y. Aharoni, The Land of the Bible, 199-200.",
+        "ja": "ハツェロト。これはおそらくアイン・カドラを指しています。Y. アハロニ『聖書の地』199-200ページをご参照ください。"
+      },
+      {
+        "pos": 11,
+        "en": "[解説]  Di Zahab. Perhaps this refers to Mina al-Dhahab on the eastern Sinai coast.",
+        "ja": "ディ・ザハブ。おそらくシナイ半島東岸のミナ・アル・ダハブを指していると考えられます。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  An eleven-day journey was about 140 mi (233 km).",
+        "ja": "十一日間の行程は約233キロメートルでした。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Horeb is another name for Sinai. “Horeb” occurs 9 times in the Book of Deuteronomy and “Sinai” only once (33:2). “Sinai” occurs 13 times in the Book of Exodus and “Horeb” only 3 times.",
+        "ja": "ホレブはシナイの別名です。「ホレブ」は申命記の中で9回使われていますが、「シナイ」は1度しか使われていません（33:2）。一方、「シナイ」は出エジプト記で13回使われ、「ホレブ」は3回のみです。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Kadesh Barnea. Possibly this refers to àAin Qudeis, about 50 mi (80 km) southwest of Beer Sheba, but more likely to àAin Qudeirat, 5 mi (8 km) NW of àAin Qudeis. See R. Cohen, “Did I Excavate Kadesh-Barnea?” BAR 7 (1981): 20-33.",
+        "ja": "カデシュ・バルネア。ベエル・シェバの南西約80キロメートルにあるアイン・クデイスを指す可能性もありますが、アイン・クデイスの北西8キロメートルにあるアイン・クデイラトを指す可能性の方が高いと考えられます。R. コーエン「私はカデシュ・バルネアを発掘したのか？」『Biblical Archaeology Review』7 (1981年): 20-33ページをご参照ください。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Mount Seir is synonymous with Edom. “By way of Mount Seir” refers to the route from Horeb that ended up in Edom Cf. CEV “by way of the Mount Seir Road”; TEV “by way of the hill country of Edom.”",
+        "ja": "セイル山はエドムと同義です。「セイル山を経由して」とは、ホレブからエドムに至る道のりを指しています。CEVの「セイル山への道を通って」、TEVの「エドムの山地を通って」をご参照ください。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in” or “on.” Here there is a contrast between the ordinary time of eleven days (v. 2) and the actual time of forty years, so “not until” brings out that vast disparity.",
+        "ja": "ヘブライ語では「〜の中に」または「〜の上に」となります。ここでは通常の十一日という期間（2節）と、実際の四十年という期間との対比があるため、「〜になって初めて（〜ようやく）」と訳すことでその大きな隔たりが明確になります。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The eleventh month is Shebat in the Hebrew calendar, January/February in the modern (Gregorian) calendar.",
+        "ja": "第十一月はヘブライ暦のシュバテの月であり、現代のグレゴリオ暦では1月または2月に当たります。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The fortieth year would be 1406 b.c. according to the “early” date of the exodus. See E. H. Merrill, Kingdom of Priests, 66-75.",
+        "ja": "出エジプトの「早期」年代説によれば、四十年目は紀元前1406年となります。E. H. メリル『祭司の王国』66-75ページをご参照ください。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “according to all which.”",
+        "ja": "原典ヘブライ語では「すべての命じられたことのとおりに」となります。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “when he struck [or “smote”].”",
+        "ja": "原典ヘブライ語では「彼が打ち破った（あるいは撃った）とき」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See Deut 2:26–3:22.",
+        "ja": "申命記2:26〜3:22をご参照ください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “who lived.”",
+        "ja": "原典ヘブライ語では「住んでいた」となります。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Heshbon is probably modern Tell Hesban, about 7.5 mi (12 km) south southwest of Amman, Jordan.",
+        "ja": "ヘシュボンはおそらく現代のテル・ヘスバンであり、ヨルダンのアンマンの南南西約12キロメートルに位置します。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “who lived.”",
+        "ja": "原典ヘブライ語では「住んでいた」となります。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  Ashtaroth is probably Tell àAshtarah, about 22 mi (35 km) due east of the Sea of Galilee.",
+        "ja": "アシュタロテはおそらくテル・アシュタラであり、ガリラヤ湖の真東約35キロメートルに位置します。"
+      },
+      {
+        "pos": 7,
+        "en": "[解説]  Edrei is probably modern Deràa, 60 mi (95 km) south of Damascus (see Num 21:33; Josh 12:4; 13:12, 31).",
+        "ja": "エデレイはおそらく現代のダラアであり、ダマスカスの南95キロメートルに位置します（民数記21:33、ヨシュア記12:4、13:12、31参照）。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this instruction”; KJV, NIV, NRSV “this law”; TEV “God’s laws and teachings.” The Hebrew noun תוֹרָה (torah) is derived from the verb יָרָה (yarah, “to teach”) and here it refers to the Book of Deuteronomy, not the Pentateuch as a whole.",
+        "ja": "原典ヘブライ語では「この指示」となります。KJV、NIV、NRSVでは「この律法」、TEVでは「神の律法と教え」と訳されています。ヘブライ語の名詞トーラー（torah）は動詞ヤーラー（yarah、「教える」）に由来しており、ここではモーセ五書全体ではなく申命記を指しています。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “lived”; “dwelled.”",
+        "ja": "原典ヘブライ語では「住んでいた」「宿っていた」となります。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “turn”; NAB “Leave here”; NIV, TEV “Break camp.”",
+        "ja": "原典ヘブライ語では「向きを変える」となります。NABでは「ここを立ち去れ」、NIV、TEVでは「野営を解け」となっています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “go (to).”",
+        "ja": "原典ヘブライ語では「（〜へ）行く」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “its dwelling places.”",
+        "ja": "原典ヘブライ語では「その居住地」となります。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “the Arabah” (so ASV, NAB, NIV, NRSV).",
+        "ja": "原典ヘブライ語では「アラバ」となります（ASV、NAB、NIV、NRSVも同様）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “lowlands” (so TEV) or “steppes”; NIV, CEV, NLT “the western foothills.”[解説]  The Shephelah is the geographical region between the Mediterranean coastal plain and the Judean hill country.",
+        "ja": "原典ヘブライ語では「低地」（TEVも同様）または「草原」となります。NIV、CEV、NLTでは「西方の丘陵地帯」と訳されています。シェフェラとは、地中海の海岸平野とユダの山地の間にある地理的地域です。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  The Hebrew term Negev means literally “desert” or “south” (so KJV, ASV). It refers to the area south of Beer Sheba and generally west of the Arabah Valley between the Dead Sea and the Gulf of Aqaba.",
+        "ja": "ヘブライ語のネゲブという言葉は、文字通り「砂漠」または「南」を意味します（KJV、ASVも同様）。これはベエル・シェバの南側、および死海とアカバ湾の間にあるアラバ渓谷のおおむね西側の地域を指します。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “I have placed before you the land.”",
+        "ja": "原典ヘブライ語では「わたしはあなたたちの前に地を置いた」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Lord.” Since the Lord is speaking, it is preferable for clarity to supply the first person pronoun in the translation.",
+        "ja": "原典ヘブライ語では「主」となっています。主ご自身が語っておられるため、翻訳の明瞭さを期すために一人称代名詞を補っています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “swore” (so NAB, NIV, NRSV, NLT). This refers to God’s promise, made by solemn oath, to give the patriarchs the land.",
+        "ja": "原典ヘブライ語では「誓った」となります（NAB、NIV、NRSV、NLTも同様）。これは、神が厳粛な誓いをもって、 patriarchs（先祖たち）にその地を与えると約束されたことを指します。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “fathers” (also in vv. 11, 21, 35).",
+        "ja": "原典ヘブライ語では「父たち」となります（11、21、35節でも同様）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “their seed after them.”",
+        "ja": "原典ヘブライ語では「その後の彼らの種」となります。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “multiplied you.”",
+        "ja": "原典ヘブライ語では「あなたたちを増やされた」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “heavens.” The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.",
+        "ja": "あるいは「天」。ヘブライ語のシャマイム（shamayim）は、文脈に応じて「天」または「空」と訳すことができます。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “may he bless you.”",
+        "ja": "原典ヘブライ語では「彼があなたたちを祝福するように」となります。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew verb נְבֹנִים (nÿvonim, from בִּין [bin]) is a Niphal referring to skill or intelligence (see T. Fretheim, NIDOTTE 1:652-53).",
+        "ja": "ヘブライ語の動詞ネヴォニム（nevonim、ビン［bin］に由来）は、熟練や知性を意味するニファル態です（T. フレセハイム『NIDOTTE』第1巻、652-53ページ参照）。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “selected”; Heb “took.”",
+        "ja": "あるいは「選んだ」。原典ヘブライ語では「取った」となります。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “you.” A number of English versions treat the remainder of this verse and v. 17 as direct discourse rather than indirect discourse (cf. KJV, NAB, NIV, NRSV, NLT).",
+        "ja": "あるいは「あなたに」。多くの英訳では、この節の残りと17節を間接話法ではなく直接話法として扱っています（KJV、NAB、NIV、NRSV、NLT参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “brothers.” The term “brothers” could, in English, be understood to refer to siblings, so “fellow citizens” has been used in the translation.",
+        "ja": "原典ヘブライ語では「兄弟たち」となります。「兄弟たち」という言葉は英語では同胞（きょうだい）を指すように理解される可能性があるため、ここでは翻訳において「仲間」を用いています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew word צֶדֶק (tsedeq, “fairly”) carries the basic idea of conformity to a norm of expected behavior or character, one established by God himself. Fair judgment adheres strictly to that norm or standard (see D. Reimer, NIDOTTE 3:750).",
+        "ja": "ヘブライ語のツェデク（tsedeq、「公正に」）という言葉は、期待される行動や性格の規範、すなわち神ご自身によって定められた規範への適合という基本概念を帯びています。公正な裁きは、その規範や基準に厳格に従います（D. ライマー『NIDOTTE』第3巻、750ページ参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “between a man and his brother.”",
+        "ja": "原典ヘブライ語では「ある男とその兄弟の間で」となります。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “his stranger” or “his sojourner”; NAB, NIV “an alien”; NRSV “resident alien.” The Hebrew word גֵּר (ger) commonly means “foreigner.”",
+        "ja": "原典ヘブライ語では「彼の見知らぬ人」または「彼の寄留者」となります。NAB、NIVでは「異国人」、NRSVでは「寄留する異国人」となっています。ヘブライ語のゲル（ger）は一般的に「外国人」を意味します。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you,” and throughout the verse (cf. NASB, NRSV).",
+        "ja": "原典ヘブライ語では、この節全体を通して「あなた」となっています（NASB、NRSV参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the small,” but referring to social status, not physical stature.",
+        "ja": "原典ヘブライ語では「小さい者」ですが、身体的な背の高さではなく社会的地位を指しています。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew participle has an imminent future sense here, although many English versions treat it as a present tense (“is giving us,” NAB, NIV, NRSV) or a predictive future (“will give us,” NCV).",
+        "ja": "ヘブライ語の分詞はここでは切迫した未来の意味を持っていますが、多くの英訳では現在形（「私たちに与えておられる」、NAB、NIV、NRSV）または予測的な未来（「与えてくださる」、NCV）として扱っています。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord your God.” The pronoun (“he”) has been used in the translation for stylistic reasons, to avoid repetition.",
+        "ja": "原典ヘブライ語では「あなたの神、主」となっています。繰り返しを避けるための文体上の理由から、翻訳では代名詞（「彼」）を用いています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “has given you the land” (cf. NAB, NIV, NRSV).",
+        "ja": "あるいは「あなたたちにその地を与えられた」（NAB、NIV、NRSV参照）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the thing was good in my eyes.”",
+        "ja": "原典ヘブライ語では「その事は私の目に良かった」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “selected” (so NIV, NRSV, TEV); Heb “took.”",
+        "ja": "あるいは「選んだ」（NIV、NRSV、TEVと同様）。原典ヘブライ語では「取った」となります。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Wadi Eshcol” (so NAB).[解説]  The Eshcol Valley is a verdant valley near Hebron, still famous for its viticulture (cf. Num 13:22-23). The Hebrew name “Eshcol” means “trestle,” that is, the frame on which grape vines grow.",
+        "ja": "あるいは「エシュコルの涸れ川」（NABと同様）。エシュコルの谷はヘブロンの近くにある緑豊かな谷であり、現在でもブドウ栽培で有名です（民数記13:22-23参照）。ヘブライ語の名前「エシュコル」は「棚」、すなわちブドウの蔓が這う枠組みを意味します。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew text includes “in their hand,” which is unnecessary and somewhat redundant in English style.",
+        "ja": "原典ヘブライ語には「彼らの手において」が含まれていますが、英語や日本語の文体においては不要であり、やや冗長となります。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the mouth of the Lord your God.” To include “the mouth” would make for odd English style. The mouth stands by metonymy for the Lord’s command, which in turn represents the Lord himself.",
+        "ja": "原典ヘブライ語では「あなたたちの神、主の口に」となります。「口」を含めると不自然な表現になります。口は換喩によって主の命令を表し、それがひいては主ご自身を表しています。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in your tents,” that is, privately.",
+        "ja": "原典ヘブライ語では「あなたたちの天幕の中で」、すなわち個人的に、ひそかにという意味です。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “have caused our hearts to melt.”",
+        "ja": "原典ヘブライ語では「私たちの心を溶かした」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “greater.” Many English versions understand this to refer to physical size or strength rather than numbers (cf. “stronger,” NAB, NIV, NRSV; “bigger,” NASB).",
+        "ja": "原典ヘブライ語では「より大きい」。多くの英訳では、これが数ではなく身体的な大きさや強さを指していると解釈しています（「より強い」、NAB、NIV、NRSV、「より大きい」、NASB参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “as the sky.” The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.",
+        "ja": "あるいは「空のように」。ヘブライ語のシャマイム（shamayim）は、文脈に応じて「天」または「空」と訳すことができます。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “we have seen.”",
+        "ja": "原典ヘブライ語では「私たちが見た」となります。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “the sons of the Anakim.”[解説]  Anakites were giant people (Num 13:33; Deut 2:10, 21; 9:2) descended from a certain Anak whose own forefather Arba founded the city of Kiriath Arba, i.e., Hebron (Josh 21:11).",
+        "ja": "原典ヘブライ語では「アナク人の息子たち」。アナク人とは巨人の民であり（民数記13:33、申命記2:10、21、9:2）、その先祖アルバがキリヤト・アルバ（すなわちヘブロン）の街を築いたアナクという人物の子孫です（ヨシュア記21:11）。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “do not tremble and do not be afraid.” Two synonymous commands are combined for emphasis.",
+        "ja": "原典ヘブライ語では「震えてはならない、恐れてはならない」。強調のために同義の二つの命令が組み合わされています。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew participle indicates imminent future action here, though some English versions treat it as a predictive future (“will go ahead of you,” NCV; cf. also TEV, CEV).",
+        "ja": "ヘブライ語の分詞はここでは切迫した未来の行動を示していますが、一部の英訳では予測的な未来（「あなたたちの先頭に立って進まれる」、NCV、TEV、CEV参照）として扱っています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “according to all which he did for you in Egypt before your eyes.”",
+        "ja": "原典ヘブライ語では「あなたたちの目の前でエジプトにおいて彼があなたたちのためにされたすべてのことに従って」となります。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord your God.” The pronoun (“him”) has been employed in the translation for stylistic reasons.",
+        "ja": "原典ヘブライ語では「あなたたちの神、主」となっています。文体上の理由から、翻訳では代名詞（「彼」）が用いられています。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and swore,” i.e., made an oath or vow.",
+        "ja": "原典ヘブライ語では「そして誓った」、すなわち誓いや誓約を立てたとなります。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Not a man among these men.”",
+        "ja": "原典ヘブライ語では「これらの人々のうちの一人の男も」となります。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[解説]  Caleb had, with Joshua, brought back to Israel a minority report from Canaan urging a conquest of the land, for he was confident of the Lord’s power (Num 13:6, 8, 16, 30; 14:30, 38).",
+        "ja": "カレブはヨシュアとともに、主の力を確信していたためカナンの征服を強く勧める少数派の報告をイスラエルに持ち帰っていました（民数記13:6、8、16、30、14:30、38）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Lord.” The pronoun (“me”) has been employed in the translation, since it sounds strange to an English reader for the Lord to speak about himself in third person.",
+        "ja": "原典ヘブライ語では「主」。主が三人称でご自身について語るのは英語の読者にとって不自然に響くため、翻訳では代名詞（「私」）が用いられています。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the one who stands before you”; NAB “your aide”; TEV “your helper.”",
+        "ja": "原典ヘブライ語では「あなたの前に立つ者」となります。NABでは「あなたの補佐役」、TEVでは「あなたの助け手」となっています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “it”; the referent (the land) has been specified in the translation for clarity.",
+        "ja": "原典ヘブライ語では「それ」となっています。明確さを期すため、翻訳では指示対象（「その地」）を明記しています。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “would be a prey.”",
+        "ja": "原典ヘブライ語では「獲物となる」となります。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Do not know good from bad. This is a figure of speech called a merism (suggesting a whole by referring to its extreme opposites). Other examples are the tree of “the knowledge of good and evil” (Gen 2:9), the boy who knows enough “to reject the wrong and choose the right” (Isa 7:16; 8:4), and those who “cannot tell their right hand from their left” (Jonah 4:11). A young child is characterized by lack of knowledge.",
+        "ja": "善悪の区別がつかない。これはメリズムと呼ばれる修辞技法であり（両極端な反対のものを挙げることで全体を示唆する）、そのほかの例としては「善悪の知識の木」（創世記2:9）、「悪を退け、善を選ぶ」ことを知るようになる子ども（イザヤ7:16、8:4）、「自分の右と左をわきまえない」人々（ヨナ書4:11）などがあります。幼い子供は知識の欠如によって特徴づけられます。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew pronoun is plural, as are the following verbs, indicating that Moses and the people are addressed (note v. 41).",
+        "ja": "ヘブライ語の代名詞は複数形であり、続く動詞も複数形となっています。これはモーセと民が共に呼びかけられていることを示しています（41節参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Reed Sea.” “Reed” is a better translation of the Hebrew סוּף (suf), traditionally rendered “red.” The name “Red Sea” is based on the LXX which referred to it as ἐρυθρᾶς θαλάσσης (eruqra\" qalassh\", “red sea”). Nevertheless, because the body of water in question is known in modern times as the Red Sea, this term was used in the translation. The part of the Red Sea in view here is not the one crossed in the exodus but its eastern arm, now known as the Gulf of Eilat or Gulf of Aqaba.",
+        "ja": "原典ヘブライ語では「アシ1の海」。「アシ」は、伝統的に「赤い」と訳されてきたヘブライ語スーフ（suf）のより適切な訳語です。「紅海」という名称は、これをエリュトラー・タラッサ（erythras thalasssē、「赤い海」）と呼んだ七十人訳聖書（LXX）に基づいています。それにもかかわらず、問題の水域が現代において「紅海」として知られているため、この用語が翻訳で使用されています。ここで視野に入っている紅海の部分は、出エジプトの時に渡った海ではなく、その東側の腕にあたり、現在はエイラト湾またはアカバ湾として知られている場所です。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the mouth of the Lord.” See note at 1:26.",
+        "ja": "原典ヘブライ語では「主の口に」。1:26の注記をご参照ください。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in that hill country,” repeating the end of v. 43.",
+        "ja": "原典ヘブライ語では「その山地において」であり、43節の末尾を繰り返しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “came out to meet.”",
+        "ja": "原典ヘブライ語では「迎え撃つために出てきた」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Hormah is probably Khirbet el-Meshash, 5.5 mi (9 km) west of Arad and 7.5 mi (12 km) SE of Beer Sheba. Its name is a derivative of the verb חָרָם (kharam, “to ban; to exterminate”). See Num 21:3.",
+        "ja": "ホルマはおそらくアラドの西9キロメートル、ベエル・シェバの南東12キロメートルにあるヒルベット・エル・メシャシュです。その名前はハーラム（kharam、「聖絶する、根絶やしにする」）という動詞から派生しています（民数記21:3参照）。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord.” The pronoun (“he”) has been employed in the translation here for stylistic reasons, to avoid redundancy.",
+        "ja": "原典ヘブライ語では「主」。冗長さを避ける文体上の理由から、ここでは翻訳において代名詞（「彼」）が用いられています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “did not hear your voice and did not turn an ear to you.”",
+        "ja": "原典ヘブライ語では「あなたたちの声を聞かず、あなたたちに耳を向けられなかった」となります。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “like the days which you lived.” This refers to the rest of the forty-year period in the desert before Israel arrived in Moab.",
+        "ja": "原典ヘブライ語では「あなたたちが住んだ日々のように」となります。これは、イスラエルがモアブに到着する前に、荒野で過ごした四十年の残りの期間を指しています。"
+      }
+    ]
+  }
+}

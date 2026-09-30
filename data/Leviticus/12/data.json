@@ -1,0 +1,167 @@
+{
+  "book": "Leviticus",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The Lord spoke to Moses: ",
+      "ja": "主はモーセに告げて言われた。"
+    },
+    {
+      "verse": 2,
+      "en": "“Tell the Israelites, ‘When a woman produces offspring and bears a male child, she will be unclean seven days, as she is unclean during the days of her menstruation. ",
+      "ja": "「イスラエルの人々に告げよ。女が身ごもって男の子を産んだ場合、彼女は七日間不浄となる。それは、月の物の期間中における不浄と同様である。"
+    },
+    {
+      "verse": 3,
+      "en": "On the eighth day the flesh of his foreskin must be circumcised. ",
+      "ja": "八日目に、その子の包皮の肉が割礼されなければならない。"
+    },
+    {
+      "verse": 4,
+      "en": "Then she will remain thirty-three days in blood purity. She must not touch anything holy, and she must not enter the sanctuary until the days of her purification are fulfilled. ",
+      "ja": "その後、彼女は血の清めの状態にとどまるために三十三日間過ごさなければならない。彼女は聖なるものに一切触れてはならないし、清めの日々が満ちるまでは聖所に入ってはならない。"
+    },
+    {
+      "verse": 5,
+      "en": "If she bears a female child, she will be impure fourteen days as during her menstrual flow, and she will remain sixty-six days in blood purity. ",
+      "ja": "もし彼女が女の子を産んだならば、月の物の経血の期間のように、十四日間不浄となる。そして、血の清めの状態にとどまるために六十六日間過ごさなければならない。"
+    },
+    {
+      "verse": 6,
+      "en": "“‘When the days of her purification are completed for a son or for a daughter, she must bring a one-year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering to the entrance of the Meeting Tent, to the priest. ",
+      "ja": "「息子のためであれ娘のためであれ、その清めの日々が満ちたなら、彼女は一歳の子羊を全焼献げ物として、またハトの雛か山バトを罪の献げ物として、会幕の入り口、祭司のもとに持って来なければならない。"
+    },
+    {
+      "verse": 7,
+      "en": "The priest is to present it before the Lord and make atonement on her behalf, and she will be clean from her flow of blood. This is the law of the one who bears a child, for the male or the female child.",
+      "ja": "祭司はそれを主の前に差し出し、彼女のために贖いを行わなければならない。そうすれば、彼女は血の湧き出でる状態から清められる。これが、男の子であれ女の子であれ、子を産む者についての掟である。"
+    },
+    {
+      "verse": 8,
+      "en": "If she cannot afford a sheep, then she must take two turtledoves or two young pigeons, one for a burnt offering and one for a sin offering, and the priest is to make atonement on her behalf, and she will be clean.’” ",
+      "ja": "もし彼女が羊を調達するゆとりがないならば、山バト二羽かハトの雛二羽を、一羽は全焼献げ物として、もう一羽は罪の献げ物として取らなければならない。祭司が彼女のために贖いを行えば、彼女は清い者となる。」"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “produces seed” (Hiphil of זָרַע, zara’; used only elsewhere in Gen 1:11-12 for plants “producing” their own “seed”), referring to the process of childbearing as a whole, from conception to the time of birth (H. D. Preuss, TDOT 4:144; cf. J. E. Hartley, Leviticus [WBC], 164-65; and J. Milgrom, Leviticus [AB], 1:742-43). Smr and LXX have Niphal “be impregnated” (see, e.g., Num 5:28); note KJV “If a woman have conceived seed” (cf. ASV, NAB, NRSV; also NIV, NLT “becomes pregnant”).",
+        "ja": "[翻訳注] ヘブライ語では「種を産み出す」（zara'のヒフィール態。旧約聖書では創世記1:11-12で植物が自身の「種」を「生み出す」場合にのみ使用されている）となっており、受胎から出産の時までの出産プロセス全体を指している（H. D. Preuss, TDOT 4:144; 参照 J. E. Hartley, Leviticus [WBC], 164-65; J. Milgrom, Leviticus [AB], 1:742-43）。サマリア五書および七十人訳はニファール態（受動態）の「身ごもる」としている（例：民数記5:28参照）。KJVの「もし女が種を身ごもったならば」（ASV, NAB, NRSV参照。またNIV, NLTの「妊娠する」も参照）に留意せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The regulations for the “male child” in vv. 2-4 contrast with those for the “female child” in v. 5 (see the note there).",
+        "ja": "[解説] 2〜4節の「男の子」に関する規定は、5節の「女の子」に関する規定と対照をなしている（そこの注を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “as the days of the menstrual flow [nom.] of her menstruating [q. inf.] she shall be unclean” (R. E. Averbeck, NIDOTTE 1:925-26; the verb appears only in this verse in the OT). Cf. NASB “as in the days of her menstruation”; NLT “during her menstrual period”; NIV “during her monthly period.”[解説]  See Lev 15:19-24 for the standard purity regulations for a woman’s menstrual period.",
+        "ja": "[翻訳注] ヘブライ語では「月の物を迎える女の月の物の流れの日々のように、彼女は不浄となる」（R. E. Averbeck, NIDOTTE 1:925-26。この動詞は旧約聖書においてこの節にのみ現れる）。NASBの「月の物の日々のように」、NLTの「月の物の期間中に」、NIVの「月経の期間中に」を参照。[解説] 女の月経に関する通常の清浄規定についてはレビ記15:19-24を参照せよ。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and in….”",
+        "ja": "[翻訳注] ヘブライ語では「そして…の中に」"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This rendering, “the flesh of his foreskin,” is literal. Based on Lev 15:2-3, one could argue that the Hebrew word for “flesh” here (בָּשָׂר, basar) is euphemistic for the male genitals and therefore translate “the foreskin of his member” (see, e.g., J. Milgrom, Leviticus [AB], 1:748). A number of English versions omit this reference to the foreskin and mention only circumcision, presumably for euphemistic reasons (cf. NIV, NCV, TEV, CEV, NLT).",
+        "ja": "[翻訳注] この訳語「その包皮の肉」は直訳的である。レビ記15:2-3に基づき、ここでの「肉」というヘブライ語（basar）は男性器の婉曲語表現であると論じ、「その性器の包皮」と訳すことも可能である（例：J. Milgrom, Leviticus [AB], 1:748参照）。多くの英訳版は、おそらく婉曲的な理由から、包皮への言及を省略して割礼のみに言及している（NIV, NCV, TEV, CEV, NLT参照）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “sit, dwell” (יָשָׁב, yashav) normally means “to sit, to dwell”), but here it means “to remain, to stay” in the same condition for a period of time (cf., e.g., Gen 24:55).",
+        "ja": "[翻訳注] ヘブライ語の「座る、住む」（yashav）は通常「座る、住む」を意味するが、ここでは一定期間同じ状態に「とどまる、滞在する」ことを意味する（例：創世記24:55参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in bloods of purification” or “purifying” or “purity”; NASB “in the blood of her purification”; NRSV “her time of blood purification.” See the following note.",
+        "ja": "[翻訳注] ヘブライ語では「清めの血において」あるいは「清めつつあることにおいて」「清さにおいて」；NASB「彼女の清めの血の中で」；NRSV「彼女の血による清めの期間」。次の注を参照せよ。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The initial seven days after the birth of a son were days of blood impurity for the woman as if she were having her menstrual period. Her impurity was contagious during this period, so no one should touch her or even furniture on which she has sat or reclined (Lev 15:19-23), lest they too become impure. Even her husband would become impure for seven days if he had sexual intercourse with her during this time (Lev 15:24; cf. 18:19). The next thirty-three days were either “days of purification, purifying” or “days of purity,” depending on how one understands the abstract noun טֹהֳרָה (toharah, “purification, purity”) in this context. During this time the woman could not touch anything holy or enter the sanctuary, but she was no longer contagious like she had been during the first seven days. She could engage in normal everyday life, including sexual intercourse, without fear of contaminating anyone else (B. A. Levine, Leviticus [JPSTC], 73-74; cf. J. Milgrom, Leviticus [AB], 1:749-50). Thus, in a sense, the thirty-three days were a time of blood “purity” (cf. the present translation) as compared to the previous seven days of blood “impurity,” but they were also a time of blood “purification” (or “purifying”) as compared to the time after the thirty-three days, when the blood atonement had been made and she was pronounced “clean” by the priest (see vv. 6-8 below). In other words, the thirty-three day period was a time of “blood” (flow), but this was “pure blood,” as opposed to the blood of the first seven days.",
+        "ja": "[翻訳注] 男児出生後の最初の七日間は、女が月経中であるかのように血の不浄な日々であった。この期間、彼女の不浄は伝染性をもつため、誰も彼女に触れてはならず、また彼女が座ったり横たわったりした家具にさえ触れてはならず（レビ記15:19-23）、さもないと彼らも不浄となった。夫であっても、この時期に彼女と性交渉を持ったならば七日間不浄となった（レビ記15:24; 18:19参照）。次の三十三日間は、この文脈における抽象名詞toharah（「清め、清さ」）をどう理解するかによって、「清め、精錬の日々」あるいは「清さの日々」のいずれかであった。この期間、女は聖なるものに触れることも、聖所に入ることもできなかったが、最初の七日間のようにもはや伝染性を持つことはなかった。彼女は他の誰かを汚す恐れなしに、性交渉を含めた通常の日常生活を送ることができた（B. A. Levine, Leviticus [JPSTC], 73-74; J. Milgrom, Leviticus [AB], 1:749-50参照）。したがって、先の七日間の血の「不浄」に比べれば、三十三日間はある意味で血の「清さ」の期間であり（本訳を参照）、同時に、血の贖いがなされ祭司によって「清い」と宣言される三十三日より後の期間に比べれば（以下の6-8節を参照）、血の「清め」（あるいは「精錬」）の期間でもあった。言い換えれば、三十三日間の期間は「血」（の流出）の期間であったが、それは最初の七日間の血とは対照的に「清い血」の期間だったのである。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “on purity blood.” The preposition here is עַל (’al) rather than בְּ (bÿ, as it is in the middle of v. 4), but no doubt the same meaning is intended.",
+        "ja": "[翻訳注] ヘブライ語では「清さの血の上に」。ここでの前置詞は、4節の中間にあるような（biy）ではなく（'al）であるが、疑いなく同じ意味が意図されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  For clarification of the translation here, see the notes on vv. 2-4 above.[解説]  The doubling of the time after the birth of a female child is puzzling (see the remarks in J. Milgrom, Leviticus [AB], 1:750-51; and G. J. Wenham, Leviticus [NICOT], 188). Some have argued, for example, that it derives from the relative status of the sexes, or a supposed longer blood flow for the birth of a woman, or even to compensate for the future menstrual periods of the female just born. Perhaps there is a better explanation. First, a male child must be circumcised on the eighth day, so the impurity of the mother could not last beyond the first seven days lest it interfere with the circumcision rite. A female child, of course, was not circumcised, so the impurity of the mother would not interfere and the length of the impure time could be extended further. Second, it would be natural to expect that the increased severity of the blood flow after childbirth, as compared to that of a woman’s menstrual period, would call for a longer period of impurity than the normal seven days of the menstrual period impurity (compare Lev 15:19 with 15:25-30). Third, this suggests that the fourteen day impurity period for the female child would have been more appropriate, and the impurity period for the birth of a male child had to be shortened. Fourth, not only the principle of multiples of seven but also multiples of forty applies to this reckoning. Since the woman’s blood discharge after bearing a child continues for more than seven days, her discharge keeps her from contact with sacred things for a longer period of time in order to avoid contaminating the tabernacle (note Lev 15:31). This ended up totaling forty days for the birth of a male child (seven plus thirty-three) and a corresponding doubling of the second set of days for the woman (fourteen plus sixty-six). See R. E. Averbeck, NIDOTTE 2:368-70. The fact that the offerings were the same for either a male or a female infant (vv. 6-8) suggests that the other differences in the regulations are not due to the notion that a male child had greater intrinsic value than a female child (J. E. Hartley, Leviticus [WBC], 169).",
+        "ja": "[翻訳注] ここでの翻訳の明確化については、上記の2〜4節の注を参照せよ。[解説] 女児出生後の期間が倍加されていることは不可解である（J. Milgrom, Leviticus [AB], 1:750-51; G. J. Wenham, Leviticus [NICOT], 188の論評を参照）。例えば、性別の相対的地位に由来するという説や、女児誕生の場合には血の流出がより長く続くと想定されたため、あるいは生まれた女児の将来の月経期間を補うためであると主張する者もいる。おそらく、もっと妥当な説明がある。第一に、男児は八日目に割礼を受けなければならなかったため、割礼の儀式を妨げないよう、母親の不浄は最初の七日間を超えて長引くことはできなかった。もちろん女児は割礼を受けないため、母親の不浄が妨げとなることはなく、不浄の期間をさらに延長することができた。第二に、出産後の出血の激しさは女の月経時の出血に比べて大きいため、月経の通常の七日間の不浄期間よりも長い不浄期間が求められるのは当然と予想されよう（レビ記15:19と15:25-30を比較せよ）。第三に、このことは、女児の場合の十四日間の不浄期間の方がより妥当であり、男児出生の場合の不浄期間が短縮されなければならなかったことを示唆している。第四に、七の倍数の原則だけでなく、四十の倍数の原則もこの算定に適用されている。出産後の女の血の排出は七日間以上続くため、幕屋を汚すことを避けるために、彼女の排出物はより長期間にわたって聖なるものとの接触から彼女を遠ざける（レビ記15:31に注目せよ）。これが、男児の誕生の場合は合計四十日（七日足す三十三日）となり、女の場合の第二の期間の対応する倍加（十四日足す六十六日）となったのである。R. E. Averbeck, NIDOTTE 2:368-70を参照せよ。男児であっても女児であっても捧げ物が同じであったという事実（6-8節）は、その他の規定の違いが、男児には女児よりも本質的な価値があったという観念に由来するものではないことを示唆している（J. E. Hartley, Leviticus [WBC], 169）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And when” (so KJV, NASB). Many recent English versions leave the conjunction untranslated.",
+        "ja": "[翻訳注] ヘブライ語では「そして…の時」（KJV, NASBと同様）。近年の多くの英訳版では、この接続詞を訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a lamb the son of his year”; KJV “a lamb of the first year” (NRSV “in its first year”); NAB “a yearling lamb.”",
+        "ja": "[翻訳注] ヘブライ語では「子羊、その年の子」；KJV「一年の子羊」（NRSV「その第一年のうちに」）；NAB「一歳の羊の子」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  See the note on Lev 1:3 regarding the “burnt offering.”",
+        "ja": "[解説] 「全焼献げ物」に関するレビ記1:3の注を参照せよ。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  See the note on Lev 4:3 regarding the term “sin offering.”",
+        "ja": "[解説] 「罪の献げ物」という用語についてはレビ記4:3の注を参照せよ。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and he” (i.e., the priest mentioned at the end of v. 6). The referent has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブライ語では「そして彼は」（すなわち、6節の末尾に言及されている祭司）。明確化のために、翻訳において指示対象を明示した。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on Lev 1:4 “make atonement.” The purpose of sin offering “atonement,” in particular, was to purge impurities from the tabernacle (see Lev 15:31 and 16:5-19, 29-34), whether they were caused by physical uncleannesses or by sins and iniquities. In this case, the woman has not “sinned” morally by having a child. Even Mary brought such offerings for giving birth to Jesus (Luke 2:22-24), though she certainly did not “sin” in giving birth to him. Note that the result of bringing this “sin offering” was “she will be clean,” not “she will be forgiven” (cf. Lev 4:20, 26, 31, 35; 5:10, 13). The impurity of the blood flow has caused the need for this “sin offering,” not some moral or relational infringement of the law (contrast Lev 4:2, “When a person sins by straying unintentionally from any of the commandments of the Lord”).",
+        "ja": "[解説] 「贖いを行う」についてのレビ記1:4の注を参照せよ。特に「罪の献げ物」による「贖い」の目的は、身体的な不浄によるものであれ、罪や不法によるものであれ、幕屋から不浄を取り除くことであった（レビ記15:31、16:5-19、29-34を参照）。この場合、女は子供を産むことによって道徳的に「罪を犯した」わけではない。マリアでさえ、イエスを産んだためにそのような捧げ物を持参したが（ルカ2:22-24）、彼女がイエスを産むにあたって「罪を犯した」のではないことは確かである。この「罪の献げ物」を持参した結果は「彼女が赦される」ではなく「彼女は清められる」であったことに注目せよ（レビ記4:20, 26, 31, 35; 5:10, 13参照）。血の流出という不浄がこの「罪の献げ物」の必要性を生じさせたのであって、律法の道徳的または関係的な侵害ではない（レビ記4:2「人が主の戒めのどれかに誤って逆らい、不覚にも罪を犯すとき」と比較せよ）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “she will be[come] pure.”",
+        "ja": "[翻訳注] または「彼女は清くなる」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “from her source [i.e., spring] of blood,” possibly referring to the female genital area, not just the “flow of blood” itself (as suggested by J. Milgrom, Leviticus [AB], 1:761). Cf. ASV “from the fountain of her blood.”",
+        "ja": "[翻訳注] ヘブライ語では「彼女の源（すなわち泉）の血から」となっており、単なる「血の流出」自体だけでなく、女性器の領域を指している可能性がある（J. Milgrom, Leviticus [AB], 1:761が示唆している通り）。ASVの「彼女の血の泉から」を参照。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “If her hand cannot find the sufficiency of a sheep.” Many English versions render this as “lamb.”",
+        "ja": "[翻訳注] ヘブライ語では「もし彼女の手が羊に十分なものを見出すことができなければ」。多くの英訳版はこれを「小羊」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from the sons of the pigeon,” referring either to “young pigeons” or “various species of pigeon” (contrast J. Milgrom, Leviticus [AB], 1:168, with J. E. Hartley, Leviticus [WBC], 14; cf. Lev 1:14 and esp. 5:7-10).",
+        "ja": "[翻訳注] ヘブライ語では「ハトの子らから」となっており、「ハトの雛」または「様々な種類のハト」を指す（J. E. Hartley, Leviticus [WBC], 14と対照的な J. Milgrom, Leviticus [AB], 1:168を参照；レビ記1:14、特に5:7-10を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “she will be[come] pure.”",
+        "ja": "[翻訳注] または「彼女は清くなる」。"
+      }
+    ]
+  }
+}

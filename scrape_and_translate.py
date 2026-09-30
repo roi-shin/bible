@@ -171,8 +171,8 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
         f.write(json_str)
 
     prompt = (
+        f"Read the file '{temp_in}'. It contains a JSON array of Bible verses (id: v_X) and notes (id: n_X_Y). "
         f"Translate all English text in the provided JSON array to natural, dignified Japanese. "
-        f"The array contains Bible verses (id: v_X) and notes (id: n_X_Y). "
         f"CRITICAL INSTRUCTION 1 (Notes Context): Notes contain highly detailed translator's notes, study notes, and text-critical notes that justify the specific English translation choices. "
         f"When translating the verses, you MUST carefully cross-reference and incorporate the nuances and justifications provided in the corresponding notes for that verse. "
         f"Ensure that the Japanese translation of the verses accurately reflects the theological and grammatical insights detailed in the notes. "

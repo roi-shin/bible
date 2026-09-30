@@ -1,0 +1,904 @@
+{
+  "book": "Leviticus",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "The Lord spoke to Moses at Mount Sinai: ",
+      "ja": "主はシナイ山でモーセに告げられた。"
+    },
+    {
+      "verse": 2,
+      "en": "“Speak to the Israelites and tell them, ‘When you enter the land that I am giving you, the land must observe a Sabbath to the Lord. ",
+      "ja": "「イスラエルの人々に告げて言え。わたしがあなたがたに与える地に入るとき、その地は主への安息を守らなければならない。"
+    },
+    {
+      "verse": 3,
+      "en": "Six years you may sow your field, and six years you may prune your vineyard and gather the produce, ",
+      "ja": "六年の間あなたは畑に種を蒔き、六年の間ぶどう畑を刈り込み、その収穫物を集めることができる。"
+    },
+    {
+      "verse": 4,
+      "en": "but in the seventh year the land must have a Sabbath of complete rest—a Sabbath to the Lord. You must not sow your field or prune your vineyard. ",
+      "ja": "しかし七年目には、その地は主への完全な安息を持たなければならない。畑に種を蒔いたり、ぶどう畑を刈り込んだりしてはならない。"
+    },
+    {
+      "verse": 5,
+      "en": "You must not gather in the aftergrowth of your harvest, and you must not pick the grapes of your unpruned vines; the land must have a year of complete rest. ",
+      "ja": "収穫の落ち穂から生えた作物を刈り取ってはならず、手入れをしなかったぶどうの木のぶどうを摘んではならない。その地は完全な休息の年を持たなければならない。"
+    },
+    {
+      "verse": 6,
+      "en": "You may have the Sabbath produce of the land to eat—you, your male servant, your female servant, your hired worker, the resident foreigner who stays with you,",
+      "ja": "地の安息の産物は、あなたがたの食物とすることができる。すなわち、あなた、男奴隷、女奴隷、雇い人、あなたのもとに滞在する寄留者、"
+    },
+    {
+      "verse": 7,
+      "en": "your cattle, and the wild animals that are in your land—all its produce will be for you to eat. ",
+      "ja": "あなたの家畜、またあなたの地にいる野の獣のためにも、そのすべての産物が食物となる。"
+    },
+    {
+      "verse": 8,
+      "en": "“‘You must count off seven weeks of years, seven times seven years, and the days of the seven weeks of years will amount to 49 years. ",
+      "ja": "あなたは安息の年を七たび、すなわち七年を七回数えなければならない。その七回の安息の年の期間は四十九年となる。"
+    },
+    {
+      "verse": 9,
+      "en": "You must sound loud horn blasts—in the seventh month, on the tenth day of the month, on the Day of Atonement—you must sound the horn in your entire land. ",
+      "ja": "第七の月の十日、贖罪の日に、角笛を高く鳴り響かせなければならない。あなたがたの全土に角笛を響き渡らせなければならない。"
+    },
+    {
+      "verse": 10,
+      "en": "So you must consecrate the fiftieth year, and you must proclaim a release in the land for all its inhabitants. That year will be your Jubilee; each one of you must return to his property, and each one of you must return to his clan. ",
+      "ja": "第五十年を聖別し、その地のすべての住民に解放を宣言しなければならない。その年はあなたがたにとってヨベルの年となる。各自その所有地に帰り、各自その氏族に帰らなければならない。"
+    },
+    {
+      "verse": 11,
+      "en": "That fiftieth year will be your Jubilee; you must not sow the land, harvest its aftergrowth, or pick the grapes of its unpruned vines. ",
+      "ja": "その第五十年はあなたがたにとってヨベルの年である。地に種を蒔いてはならず、落ち穂から生えた作物を収穫してはならず、手入れをしなかったぶどうの木のぶどうを摘んではならない。"
+    },
+    {
+      "verse": 12,
+      "en": "Because that year is a Jubilee, it will be holy to you—you may eat its produce from the field. ",
+      "ja": "その年はヨベルの年であり、あなたがたにとって聖なる年である。あなたがたは野からその産物を食べることができる。"
+    },
+    {
+      "verse": 13,
+      "en": "“‘In this Year of Jubilee you must each return to your property. ",
+      "ja": "このヨベルの年には、各自その所有地に帰らなければならない。"
+    },
+    {
+      "verse": 14,
+      "en": "If you make a sale to your fellow citizen or buy from your fellow citizen, no one is to wrong his brother. ",
+      "ja": "同胞に土地を売る場合、あるいは同胞から買い取る場合、だれもその兄弟を欺いてはならない。"
+    },
+    {
+      "verse": 15,
+      "en": "You may buy it from your fellow citizen according to the number of years since the last Jubilee; he may sell it to you according to the years of produce that are left.",
+      "ja": "先のヨベルの年からの年数に応じて同胞から買い取り、相手は残された収穫の年数に応じてあなたに売らなければならない。"
+    },
+    {
+      "verse": 16,
+      "en": "The more years there are, the more you may make its purchase price, and the fewer years there are, the less you must make its purchase price, because he is only selling to you a number of years of produce. ",
+      "ja": "年数が多ければ買い取り価格を高くし、年数が少なければ買い取り価格を安くしなければならない。相手があなたに売っているのは収穫の年数であるからだ。"
+    },
+    {
+      "verse": 17,
+      "en": "No one is to oppress his fellow citizen, but you must fear your God, because I am the Lord your God. ",
+      "ja": "だれもその同胞を苦しめてはならない。あなたの神を恐れなさい。わたしはあなたがたの神、主である。"
+    },
+    {
+      "verse": 18,
+      "en": "You must obey my statutes and my regulations; you must be sure to keep them so that you may live securely in the land. ",
+      "ja": "わたしの掟と定めを守り行いなさい。これらを忠実に守るなら、あなたがたはその地に安らかに住むことができる。"
+    },
+    {
+      "verse": 19,
+      "en": "“‘The land will give its fruit, and you may eat until you are satisfied, and you may live securely in the land. ",
+      "ja": "地は実を結び、あなたがたは飽きるほど食べ、そこに安らかに住むことができる。"
+    },
+    {
+      "verse": 20,
+      "en": "If you say, “What will we eat in the seventh year if we do not sow and gather our produce?” ",
+      "ja": "もしあなたがたが、種も蒔かず、収穫物も集めないなら、七年目に何を食べればよいのかと言うなら、"
+    },
+    {
+      "verse": 21,
+      "en": "I will command my blessing for you in the sixth year so that it may yield the produce for three years, ",
+      "ja": "わたしは六年目に祝福を命じ、地が三年分の産物を生み出すようにする。"
+    },
+    {
+      "verse": 22,
+      "en": "and you may sow the eighth year and eat from that sixth year’s produce—old produce. Until you bring in the ninth year’s produce, you may eat old produce. ",
+      "ja": "八年目に種を蒔くときも、六年目の産物である古い作物を食べることになる。九年目の収穫を取り入れるまで、古い作物を食べることができる。"
+    },
+    {
+      "verse": 23,
+      "en": "The land must not be sold without reclaim because the land belongs to me, for you are foreign residents, temporary settlers, with me. ",
+      "ja": "地を買い戻しの権利なしに売ってはならない。地はわたしのものであり、あなたがたはわたしのもとにいる寄留者、一時滞在者にすぎないからである。"
+    },
+    {
+      "verse": 24,
+      "en": "In all your landed property you must provide for the right of redemption of the land. ",
+      "ja": "あなたがたの所有するすべての土地において、土地の買い戻しの権利を認めなければならない。"
+    },
+    {
+      "verse": 25,
+      "en": "“‘If your brother becomes impoverished and sells some of his property, his near redeemer is to come to you and redeem what his brother sold. ",
+      "ja": "兄弟が落ちぶれて所有地の一部を売る場合、最も近い買い戻しの権利を持つ親族が来て、兄弟の売った土地を買い戻さなければならない。"
+    },
+    {
+      "verse": 26,
+      "en": "If a man has no redeemer, but he prospers and gains enough for its redemption, ",
+      "ja": "買い戻してくれる親族がいない場合でも、本人が資力を得て、買い戻すのに十分な手段を得たなら、"
+    },
+    {
+      "verse": 27,
+      "en": "he is to calculate the value of the years it was sold, refund the balance to the man to whom he had sold it, and return to his property. ",
+      "ja": "売却後の年数を計算し、残額を買い手に払い戻して、自分の所有地に戻らなければならない。"
+    },
+    {
+      "verse": 28,
+      "en": "If he has not prospered enough to refund a balance to him, then what he sold will belong to the one who bought it until the Jubilee year, but it must revert in the Jubilee and the original owner may return to his property. ",
+      "ja": "払い戻す資力が得られない場合、売却した土地はヨベルの年まで買い手の所有となる。しかしヨベルの年には返還され、元の所有者は自分の所有地に戻ることができる。"
+    },
+    {
+      "verse": 29,
+      "en": "“‘If a man sells a residential house in a walled city, its right of redemption must extend until one full year from its sale; its right of redemption must extend to a full calendar year. ",
+      "ja": "城壁のある町の中にある住宅を売る場合、その買い戻しの権利は売却から満一年間有効である。買い戻しの権利は丸一年間に及ぶ。"
+    },
+    {
+      "verse": 30,
+      "en": "If it is not redeemed before the full calendar year is ended, the house in the walled city will belong without reclaim to the one who bought it throughout his generations; it will not revert in the Jubilee. ",
+      "ja": "もし丸一年が経過するまでに買い戻されないなら、城壁のある町の中の家は代々にわたり買い手に確定して属し、買い戻すことはできない。ヨベルの年にも返還されない。"
+    },
+    {
+      "verse": 31,
+      "en": "The houses of villages, however, which have no wall surrounding them must be considered as the field of the land; they will have the right of redemption and must revert in the Jubilee. ",
+      "ja": "しかし周囲に城壁のない村々の家は、野の畑と同様に見なされなければならない。これらには買い戻しの権利があり、ヨベルの年には返還されなければならない。"
+    },
+    {
+      "verse": 32,
+      "en": "As for the cities of the Levites, the houses in the cities which they possess, the Levites must have a perpetual right of redemption. ",
+      "ja": "レビ人の町々、すなわち彼らの所有地である町々の家については、レビ人は常に買い戻しの権利を持つ。"
+    },
+    {
+      "verse": 33,
+      "en": "Whatever someone among the Levites might redeem—the sale of a house which is his property in a city—must revert in the Jubilee, because the houses of the cities of the Levites are their property in the midst of the Israelites. ",
+      "ja": "レビ人の町にある所有地である家の売却において、レビ人のだれかが買い戻せるものもヨベルの年には返還されなければならない。レビ人の町々の家は、イスラエル人の間における彼らの所有地だからである。"
+    },
+    {
+      "verse": 34,
+      "en": "Moreover, the open field areas of their cities must not be sold, because that is their perpetual possession. ",
+      "ja": "さらに、彼らの町々の周囲の放牧地は売ってはならない。それは彼らの永久の所有地だからである。"
+    },
+    {
+      "verse": 35,
+      "en": "“‘If your brother becomes impoverished and is indebted to you, you must support him; he must live with you like a foreign resident. ",
+      "ja": "あなたの兄弟が落ちぶれ、あなたのもとで生活の手段を失ったなら、あなたは彼を支えなければならない。彼は寄留者のようにあなたのもとで生きなければならない。"
+    },
+    {
+      "verse": 36,
+      "en": "Do not take interest or profit from him, but you must fear your God, and your brother must live with you.",
+      "ja": "彼から利息や利得を取ってはならない。あなたの神を恐れ、兄弟があなたのもとで生きられるようにしなさい。"
+    },
+    {
+      "verse": 37,
+      "en": "You must not lend him your money at interest, and you must not sell him food for profit. ",
+      "ja": "利息を取って彼に金を貸してはならず、利益を得るために食糧を売ってはならない。"
+    },
+    {
+      "verse": 38,
+      "en": "I am the Lord your God who brought you out from the land of Egypt to give you the land of Canaan—to be your God. ",
+      "ja": "わたしはあなたがたの神、主である。あなたがたにカナンの地を与え、あなたがたの神となるために、あなたがたをエジプトの地から導き出した者である。"
+    },
+    {
+      "verse": 39,
+      "en": "“‘If your brother becomes impoverished with regard to you so that he sells himself to you, you must not subject him to slave service. ",
+      "ja": "あなたのもとにいる兄弟が落ちぶれて、あなたに身を売る場合、彼に奴隷としての労働を課してはならない。"
+    },
+    {
+      "verse": 40,
+      "en": "He must be with you as a hired worker, as a resident foreigner; he must serve with you until the Year of Jubilee, ",
+      "ja": "彼は雇い人や寄留者のようにあなたのもとにいなければならない。彼はヨベルの年まであなたのもとで仕え、"
+    },
+    {
+      "verse": 41,
+      "en": "but then he may go free, he and his children with him, and may return to his family and to the property of his ancestors. ",
+      "ja": "そのとき、彼とその子供たちは自由の身となり、自分の家族と先祖の所有地に戻ることができる。"
+    },
+    {
+      "verse": 42,
+      "en": "Since the Israelites are my servants whom I brought out from the land of Egypt, they must not be sold in a slave sale. ",
+      "ja": "イスラエルの人々は、わたしがエジプトの地から導き出したわたしの僕であるから、奴隷として売られてはならない。"
+    },
+    {
+      "verse": 43,
+      "en": "You must not rule over them harshly, but you must fear your God. ",
+      "ja": "彼らを過酷に支配してはならない。あなたの神を恐れなさい。"
+    },
+    {
+      "verse": 44,
+      "en": "“‘As for your male and female slaves who may belong to you—you may buy male and female slaves from the nations all around you.",
+      "ja": "あなたが所有する男女の奴隷については、あなたがたの周囲の諸国民から男女の奴隷を買い取ることができる。"
+    },
+    {
+      "verse": 45,
+      "en": "Also, you may buy slaves from the children of the foreigners who reside with you and from their families that are with you, whom they have fathered in your land; they may become your property. ",
+      "ja": "また、あなたがたのもとに滞在する外国人居留者の子供たちや、あなたがたの地で生まれた彼らの家族からも奴隷を買い取ることができる。彼らはあなたがたの所有物となる。"
+    },
+    {
+      "verse": 46,
+      "en": "You may give them as an inheritance to your children after you to possess as property. You may enslave them perpetually. However, as for your brothers the Israelites, no man may rule over his brother harshly. ",
+      "ja": "あなたがたは彼らを後の子孫に遺産として継がせ、恒久的な所有物とすることができる。彼らを永久に奴隷とすることができる。しかし同胞であるイスラエルの人々については、だれもその兄弟を過酷に支配してはならない。"
+    },
+    {
+      "verse": 47,
+      "en": "“‘If a resident foreigner who is with you prospers and your brother becomes impoverished with regard to him so that he sells himself to a resident foreigner who is with you or to a member of a foreigner’s family, ",
+      "ja": "あなたのもとにいる寄留者や滞在者が富を得て、彼のもとにいるあなたの兄弟が落ちぶれ、あなたのもとにいる寄留者や滞在者、あるいはその一族の者に身を売る場合、"
+    },
+    {
+      "verse": 48,
+      "en": "after he has sold himself he retains a right of redemption. One of his brothers may redeem him,",
+      "ja": "身を売った後でも、彼には買い戻しの権利がある。その兄弟の一人が彼を買い戻すことができる。"
+    },
+    {
+      "verse": 49,
+      "en": "or his uncle or his cousin may redeem him, or any one of the rest of his blood relatives—his family—may redeem him, or if he prospers, he may redeem himself. ",
+      "ja": "あるいは、おじ、あるいはおじの息子が彼を買い戻すことができる。また一族の血縁者のだれでも彼を買い戻すことができる。もし本人に資力ができれば、自分自身を買い戻すことができる。"
+    },
+    {
+      "verse": 50,
+      "en": "He must calculate with the one who bought him the number of years from the year he sold himself to him until the Jubilee year, and the cost of his sale must correspond to the number of years, according to the rate of wages a hired worker would have earned while with him.",
+      "ja": "彼は自分を買った者とともに、身を売った年からヨベルの年までの年数を計算しなければならない。その売却価格は、彼のもとで雇い人が得る賃金の割合に応じて、年数に応じたものでなければならない。"
+    },
+    {
+      "verse": 51,
+      "en": "If there are still many years, in keeping with them, he must refund most of the cost of his purchase for his redemption, ",
+      "ja": "もし残りの年数が多ければ、それに応じて買い戻しのために購入代金の大部分を払い戻さなければならない。"
+    },
+    {
+      "verse": 52,
+      "en": "but if only a few years remain until the Jubilee, he must calculate for himself in keeping with the remaining years and refund it for his redemption. ",
+      "ja": "しかしヨベルの年までわずかな年数しか残っていないなら、その残りの年数に応じて計算し、買い戻しのために払い戻さなければならない。"
+    },
+    {
+      "verse": 53,
+      "en": "He must be with the one who bought him like a yearly hired worker. The one who bought him must not rule over him harshly in your sight. ",
+      "ja": "彼は年雇いの労働者のように買い手のもとにいなければならない。買い手はあなたの目の前で彼を過酷に支配してはならない。"
+    },
+    {
+      "verse": 54,
+      "en": "If, however, he is not redeemed in these ways, he must go free in the Jubilee year, he and his children with him,",
+      "ja": "これらの方法で買い戻されない場合でも、彼とその子供たちはヨベルの年に自由の身とならなければならない。"
+    },
+    {
+      "verse": 55,
+      "en": "because the Israelites are my own servants; they are my servants whom I brought out from the land of Egypt. I am the Lord your God. ",
+      "ja": "イスラエルの人々はわたしの僕だからである。彼らはわたしがエジプトの地から導き出したわたしの僕である。わたしはあなたがたの神、主である。"
+    }
+  ],
+  "notes": {
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the land shall rest a Sabbath.”",
+        "ja": "[翻訳注] ヘブル語では「地は安息を休む」。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “its produce,” but the feminine pronoun “its” probably refers to the “land” (a feminine noun in Hebrew; cf. v. 2), not the “field” or the “vineyard,” both of which are normally masculine nouns (see B. A. Levine, Leviticus [JPSTC], 170).",
+        "ja": "[翻訳注] ヘブル語では「その産物」であるが、女性代名詞「その」はおそらく「畑」や「ぶどう畑」（ヘブル語では通常男性名詞）ではなく、「地」（ヘブル語で女性名詞。2節参照）を指している（B. A. Levine, Leviticus [JPSTC], 170 参照）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and in the seventh year a Sabbath of complete rest shall be to the land.” The expression “a Sabbath of complete rest” is superlative, emphasizing the full and all inclusive rest of the seventh year of the sabbatical cycle. Cf. ASV “a sabbath of solemn rest”; NAB “a complete rest.”",
+        "ja": "[翻訳注] ヘブル語では「そして七年目には全き安息の安息が地にある」。この「全き安息の安息」という表現は最上級表現であり、安息年周期の七年目の完全で包括的な休息を強調している。ASV「厳粛な休息の安息」、NAB「全き休息」参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and.” Here the Hebrew conjunction ו (vav, “and”) has an alternative sense (“or”).",
+        "ja": "[翻訳注] ヘブル語では「そして」。ここでのヘブル語接続詞 ו（ヴァヴ、「そして」）は選択の意味（「または」）を持つ。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “consecrated, devoted, forbidden” (נָזִיר, nazir). The same term is used for the “consecration” of the “Nazirite” (and his hair, Num 6:2, 18, etc.), a designation which, in turn, derives from the very same root.",
+        "ja": "[翻訳注] ヘブル語では「聖別された、捧げられた、禁じられた」（נָזִיר, nazir）。同じ語が「ナジル人」（およびその髪、民数記6:2、18等）の「聖別」にも用いられており、この呼称も同じ語根に由来している。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “produce” is not in the Hebrew text but is implied; cf. NASB “the sabbath products.”",
+        "ja": "[翻訳注] 「産物」という語はヘブル語本文にはないが、含意されている。NASB「安息の産物」参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  A “resident who stays” would be a foreign person who was probably residing as another kind of laborer in the household of a landowner (B. A. Levine, Leviticus [JPSTC], 170-71). See v. 35 below.",
+        "ja": "[翻訳注] 「滞在する寄留者」とは、土地所有者の世帯において別種の労働者として居住していた外国人を指すと考えられる（B. A. Levine, Leviticus [JPSTC], 170-71）。後述の35節参照。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “for you” are implied.",
+        "ja": "[翻訳注] 「あなたがたのための」という語は含意されている。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And you shall count off for yourself.”",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたは自分のために数えよ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “seven years seven times.”",
+        "ja": "[翻訳注] ヘブル語では「七年を七回」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “and they shall be for you, the days of the seven Sabbaths of years, forty-nine years.”",
+        "ja": "[翻訳注] ヘブル語では「そしてそれらはあなたにとって、安息の年の七つの週の日数、四十九年となる」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[解説]  On the “loud horn blasts” see the note on Lev 23:24, but unlike the language there, the Hebrew term for “horn” (שׁוֹפָר, shofar) actually appears here in this verse (twice).",
+        "ja": "[解説] 「角笛を高く鳴り響かせること」についてはレビ記23:24の注を参照。ただし、そこの表現とは異なり、ヘブル語で「角笛」（שׁוֹפָר, shofar）を意味する語がこの節に二度現れている。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the year of the fifty years,” or perhaps “the year, fifty years” (GKC 435 §134.o, note 2).",
+        "ja": "[翻訳注] ヘブル語では「五十年目の年」、あるいは「その年、五十年」（GKC 435 §134.o, 注2）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Cf. KJV, ASV, NAB, NIV, NRSV “liberty”; TEV, CEV “freedom.” The characteristics of this “release” are detailed in the following verses. For substantial summaries and bibliography on the biblical and ancient Near Eastern material regarding such a “release” see J. E. Hartley, Leviticus (WBC), 427-34, and B. A. Levine, Leviticus (JPSTC), 270-74.",
+        "ja": "[翻訳注] KJV、ASV、NAB、NIV、NRSV「自由」、TEV、CEV「解放」参照。この「解放」の特徴は続く節で詳述される。このような「解放」に関する聖書および古代近東の資料についての包括的な要約と文献目録は、J. E. Hartley, Leviticus (WBC), 427-34、および B. A. Levine, Leviticus (JPSTC), 270-74 を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “A jubilee that shall be to you.” Although there has been some significant debate about the original meaning of the Hebrew word translated “jubilee” (יוֹבֵל, yovel; see the summary in J. E. Hartley, Leviticus [WBC], 434), the term most likely means “ram” and can refer also to a “ram’s horn.” The fiftieth year would, therefore, be called the “jubilee” because of the associated sounding of the “ram’s horn” (see B. A. Levine, Leviticus [JPSTC], 172, and the literature cited there).",
+        "ja": "[翻訳注] ヘブル語では「あなたがたにとってヨベルがそれである」。「ヨベル」（יוֹבֵל, yovel）と訳されるヘブル語の本来の意味については議論があるが（J. E. Hartley, Leviticus [WBC], 434 の要約参照）、この語は「雄羊」を意味する可能性が高く、「雄羊の角笛」を指すこともある。したがって、第五十年は「雄羊の角笛」が吹き鳴らされることにちなんで「ヨベル」と呼ばれるようになったと考えられる（B. A. Levine, Leviticus [JPSTC], 172、およびそこで引用されている文献を参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “you [plural] shall return, a man.”",
+        "ja": "[翻訳注] ヘブル語では「あなたがた［複数］は帰る、人は」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you shall not sow and you shall not…and you shall not….”[解説]  See v. 5 above and the notes there.",
+        "ja": "[翻訳注] ヘブル語では「あなたがたは種を蒔いてはならない、そして…してはならない、そして…してはならない」。[解説] 上記の5節およびその注を参照。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  That is, the produce of the land (fem.; cf. v. 7 above).",
+        "ja": "[翻訳注] すなわち、地の産物（女性名詞。上記の7節参照）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you [plural] shall return, a man.”",
+        "ja": "[翻訳注] ヘブル語では「あなたがた［複数］は帰る、人は」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “sell a sale.”",
+        "ja": "[翻訳注] ヘブル語では「売り物を売る」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “to one of your countrymen” (NIV); NASB “to your friend.”",
+        "ja": "[翻訳注] または「あなたの同国人の一人に」（NIV）。NASB「あなたの友人に」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The Hebrew infinitive absolute קָנֹה (qanoh, “buying”) substitutes for the finite verb here in sequence with the previous finite verb “sell” at the beginning of the verse (see GKC 345 §113.z).",
+        "ja": "[翻訳注] ヘブル語の絶対不定詞 קָנֹה（qanoh、「買うこと」）は、本節の冒頭にある前の定動詞「売る」に続いて、定動詞の代わりとして用いられている（GKC 345 §113.z 参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “do not oppress a man his brother.” Here “brother” does not refer only to a sibling, but to a fellow Israelite.",
+        "ja": "[翻訳注] ヘブル語では「人はその兄弟を虐げてはならない」。ここでの「兄弟」は単に実の兄弟を指すのではなく、イスラエル人の同胞を指している。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “in the number of years after.”",
+        "ja": "[翻訳注] ヘブル語では「〜の後の年数において」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “that are left” are not in the Hebrew text, but are implied.[解説]  The purchaser is actually buying only the crops that the land will produce until the next jubilee, since the land will revert to the original owner at that time. The purchaser, therefore, is not actually buying the land itself.",
+        "ja": "[翻訳注] 「残された」という語はヘブル語本文にはないが、含意されている。[解説] 土地は次のヨベルの年に元の所有者に戻るため、買い手は実際には次のヨベルまでにその土地が生み出す収穫物を買っているにすぎない。したがって、買い手は実質的に土地そのものを買っているわけではない。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “To the mouth of the many years.”",
+        "ja": "[翻訳注] ヘブル語では「多い年数の口に応じて」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to the mouth of the few years.”",
+        "ja": "[翻訳注] ヘブル語では「少ない年数の口に応じて」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “a number of produce”; the words “years of” are implied. As an alternative this could be translated “a number of harvests” (cf. NRSV, NLT).",
+        "ja": "[翻訳注] ヘブル語では「産物の数」。「年数の」という語は含意されている。別訳として「収穫の回数」と訳すこともできる（NRSV、NLT 参照）。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And you shall not oppress a man his fellow citizen.”",
+        "ja": "[翻訳注] ヘブル語では「そして人はその同胞を虐げてはならない」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And you shall keep and do them.” This appears to be a kind of verbal hendiadys, where the first verb is a modifier of the action of the second verb (see GKC 386 §120.d, although שָׁמַר [shamar, “to keep”] is not cited there; cf. Lev 20:8, etc.).",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたがたはそれらを守り行え」。これは動詞の二重表現（ヘンディアディス）の一種であり、最初の動詞が二番目の動詞の動作を修飾している（GKC 386 §120.d 参照。ただし שָׁמַר [shamar,「守る」] はそこには挙げられていない。レビ記20:8等参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and you shall dwell on the land to security.”",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたがたはその地に安全に住む」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “eat to satisfaction”; KJV, ASV “ye shall eat your fill.”",
+        "ja": "[翻訳注] ヘブル語では「満ち足りるまで食べる」。KJV、ASV「満ち足りるまで食べるであろう」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and it [i.e., the land] shall make the produce.” The Hebrew term וְעָשָׂת (vÿ’asat, “and it shall make”) is probably an older third feminine singular form of the verb (GKC 210 §75.m). Smr has the normal form.",
+        "ja": "[翻訳注] ヘブル語では「そしてそれ［地］は産物を生み出す」。ヘブル語の וְעָשָׂת（vÿ’asat、「そしてそれは作る」）は、動詞の古い三人称女性単数形と考えられる（GKC 210 §75.m）。サマリア・ペンタテューク（Smr）には通常形がある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Smr and LXX have “its produce” (cf. 25:3, 7, etc.) rather than “the produce.”",
+        "ja": "[翻訳注] サマリア・ペンタテュークおよび七十人訳（LXX）は「その産物」ではなく「その産物を」（25:3、7等参照）としている。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the produce,” referring to “the produce” of the sixth year of v. 21. The words “sixth year” are supplied for clarity.",
+        "ja": "[翻訳注] ヘブル語では「産物」であり、21節の六年目の「産物」を指す。明確にするために「六年目の」という言葉を補っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “until the ninth year, until bringing [in] its produce.”",
+        "ja": "[翻訳注] ヘブル語では「九年目まで、その産物を収穫するまで」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The term rendered “without reclaim” means that the land has been bought for the full price and is, therefore, not subject to reclaim under any circumstances. This was not to be done with land in ancient Israel (contrast the final full sale of houses in v. 30; see the evidence cited in B. A. Levine, Leviticus [JPSTC], 174).",
+        "ja": "[翻訳注] 「買い戻しなしに」と訳された語は、土地が全額で買い取られ、いかなる状況下でも買い戻しの対象にならないことを意味する。これは古代イスラエルにおいて土地に対して行ってはならないことであった（30節の家屋の最終的な完全売却と対照的。B. A. Levine, Leviticus [JPSTC], 174 で引用されている証拠を参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  That is, the Israelites were strangers and residents who were attached to the Lord’s household. They did not own the land. Note the parallel to the “priest’s lodger” in Lev 22:10.",
+        "ja": "[翻訳注] すなわち、イスラエルの人々は主の世帯に属する滞在者であり寄留者であった。彼らは土地を所有していなかった。レビ記22:10の「祭司の居候」との類似に注目。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And in all the land of your property.”",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたがたの所有地のすべての地において」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “right of redemption you shall give to the land”; NAB “you must permit the land to be redeemed.”",
+        "ja": "[翻訳注] ヘブル語では「買い戻しの権利をあなたがたは地に与えよ」。NAB「あなたがたは土地が買い戻されることを許さなければならない」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the sale of his brother.”",
+        "ja": "[翻訳注] ヘブル語では「その兄弟の売り物」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and his hand reaches.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼の手が届く」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and he finds as sufficiency of its redemption.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼がその買い戻しに十分な額を見出す」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and he shall calculate its years of sale.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼はその売却年数を計算せよ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and return the excess.”",
+        "ja": "[翻訳注] ヘブル語では「そして余剰分を返却せよ」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if his hand has not found sufficiency of returning.” Although some versions take this to mean that he has not made enough to regain the land (e.g., NASB, NRSV; see also B. A. Levine, Leviticus [JPSTC], 176), the combination of terms in Hebrew corresponds to the portion of v. 27 that refers specifically to refunding the money (cf. v. 27; see NIV and G. J. Wenham, Leviticus [NICOT], 315).",
+        "ja": "[翻訳注] ヘブル語では「そして彼の手が返還するのに十分な額を見出さなかった場合」。一部の翻訳（例えば NASB、NRSV。B. A. Levine, Leviticus [JPSTC], 176 も参照）では、土地を取り戻すのに十分な稼ぎがなかったことを意味すると解釈されているが、ヘブル語の表現の組み合わせは、27節の代金の払い戻しを具体的に指す部分に対応している（27節参照。NIV および G. J. Wenham, Leviticus [NICOT], 315 参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “his sale.”",
+        "ja": "[翻訳注] ヘブル語では「彼の売り物」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “will be in the hand of.” This refers to the temporary control of the one who purchased its produce until the next year of jubilee, at which time it would revert to the original owner.",
+        "ja": "[翻訳注] ヘブル語では「〜の手中にある」。これは次のヨベルの年までその産物を買い取った者が一時的に管理することを指し、その時点で元の所有者に返還される。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “it shall go out” (so KJV, ASV; see B. A. Levine, Leviticus [JPSTC], 176).",
+        "ja": "[翻訳注] ヘブル語では「それは出て行く」（KJV、ASV。B. A. Levine, Leviticus [JPSTC], 176 参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “he”; the referent (the original owner of the land) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。指示対象（土地の元の所有者）を明確にするために訳文で補っている。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “a house of a residence of a walled city.”",
+        "ja": "[翻訳注] ヘブル語では「城壁のある町の住宅の家」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “shall be.”",
+        "ja": "[翻訳注] ヘブル語では「ある」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “of its sale.”",
+        "ja": "[翻訳注] ヘブル語では「その売却の」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “days its right of redemption shall be” (see B. A. Levine, Leviticus [JPSTC], 176).",
+        "ja": "[翻訳注] ヘブル語では「日々、その買い戻しの権利がある」（B. A. Levine, Leviticus [JPSTC], 176 参照）。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “until fulfilling to it a complete year.’",
+        "ja": "[翻訳注] ヘブル語では「彼にとって満一年が満ちるまで」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the house which [is] in the city which to it [is] a wall.” The Kethib has לֹא (lo’, “no, not”) rather than לוֹ (lo, “to it”) which is the Qere.",
+        "ja": "[翻訳注] ヘブル語では「城壁のある町にある家」。ケティヴ（本文）は לֹא（lo’、「ない」）であり、ケレ（欄外注）の לוֹ（lo、「それに」）ではない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on v. 23 above.",
+        "ja": "[翻訳注] 上記の23節の注を参照。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And the houses of the villages.”",
+        "ja": "[翻訳注] ヘブル語では「そして村々の家」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “which there is not to them a wall.”",
+        "ja": "[翻訳注] ヘブル語では「それらに城壁がない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “on the field.”",
+        "ja": "[翻訳注] ヘブル語では「野の上に」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And.”",
+        "ja": "[翻訳注] ヘブル語では「そして」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the houses of the cities of their property.”",
+        "ja": "[翻訳注] ヘブル語では「彼らの所有地である町々の家」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And which he shall redeem from the Levites shall go out, sale of house and city, his property in the jubilee.” Although the end of this verse is clear, the first part is notoriously difficult. There are five main views. (1) The first clause of the verse actually attaches to the previous verse, and refers to the fact that their houses retain a perpetual right of redemption (v. 32b), “which any of the Levites may exercise” (v. 33a; J. E. Hartley, Leviticus [WBC], 418, 421). (2) It refers to property that one Levite sells to another Levite, which is then redeemed by still another Levite (v. 33a). In such cases, the property reverts to the original Levite owner in the jubilee year (v. 33b; G. J. Wenham, Leviticus [NICOT], 321). (3) It refers to houses in a city that had come to be declared as a Levitical city but had original non-Levitical owners. Once the city was declared to belong to the Levites, however, an owner could only sell his house to a Levite, and he could only redeem it back from a Levite up until the time of the first jubilee after the city was declared to be a Levitical city. In this case the first part of the verse would be translated, “Such property as may be redeemed from the Levites” (NRSV, NJPS). At the first jubilee, however, all such houses became the property of the Levites (v. 33b; P. J. Budd, Leviticus [NCBC], 353). (4) It refers to property “which is appropriated from the Levites” (not “redeemed from the Levites,” v. 33a) by those who have bought it or taken it as security for debts owed to them by Levites who had fallen on bad times. Again, such property reverts back to the original Levite owners at the jubilee (B. A. Levine, Leviticus [JPSTC], 177). (5) It simply refers to the fact that a Levite has the option of redeeming his house (i.e., the prefix form of the verb is taken to be subjunctive, “may or might redeem”), which he had to sell because he had fallen into debt or perhaps even become destitute. Even if he never gained the resources to do so, however, it would still revert to him in the jubilee year. The present translation is intended to reflect this latter view.",
+        "ja": "[翻訳注] ヘブル語では「そしてレビ人から買い戻すものは出て行く、町にある彼の所有地である家の売却、ヨベルにおいて」。本節の結びは明確であるが、前半部分は解釈が分かれる難所である。主に五つの見解がある。(1) 最初の節は前の節に結びつき、レビ人の家屋が「レビ人のだれでも行使できる」（33節a; J. E. Hartley, Leviticus [WBC], 418, 421）恒久的な買い戻しの権利（32節b）を保持していることを指す。(2) あるレビ人が別のレビ人に売却し、さらに別のレビ人によって買い戻された財産を指す（33節a）。そのような場合、その財産はヨベルの年に元のレビ人所有者に返還される（33節b; G. J. Wenham, Leviticus [NICOT], 321）。(3) レビ人の町と宣言されるに至った町にある、当初は非レビ人が所有していた家屋を指す。町がレビ人のものと宣言されると、所有者はレビ人にのみ家を売却でき、町がレビ人の町と宣言されてから最初のヨベルの年までしかレビ人から買い戻すことができなかった。この場合、節の前半は「レビ人から買い戻されるような財産」（NRSV、NJPS）と訳される。最初のヨベルの年において、そのような家屋はすべてレビ人の所有となった（33節b; P. J. Budd, Leviticus [NCBC], 353）。(4) 困窮したレビ人が負った負債の担保として取得されたり買い取られたりして「レビ人から差し押さえられた」財産（33節aで「レビ人から買い戻された」のではない）を指す。この場合も、その財産はヨベルの年に元のレビ人所有者に返還される（B. A. Levine, Leviticus [JPSTC], 177）。(5) 負債を抱えたり困窮したりして売却せざるを得なくなった家屋を、レビ人が買い戻す選択肢を持つこと（すなわち動詞の接頭辞形が接続法「買い戻すことができる、あるいは買い戻すかもしれない」と解釈される）を単に指している。そうするための資力を得られなかったとしても、ヨベルの年には彼に返還される。本翻訳はこの最後の見解を反映している。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And.”",
+        "ja": "[翻訳注] ヘブル語では「そして」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This refers to the region of fields just outside and surrounding the city where cattle were kept and garden crops were grown (B. A. Levine, Leviticus [JPSTC], 177).",
+        "ja": "[解説] これは町のすぐ外側を取り囲む野原の地域を指し、家畜を飼育したり農作物を栽培したりした場所である（B. A. Levine, Leviticus [JPSTC], 177）。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  It is not clear to whom this refers. It is probably broader than “sibling” (cf. NRSV “any of your kin”; NLT “any of your Israelite relatives”) but some English versions take it to mean “fellow Israelite” (so TEV; cf. NAB, NIV “countrymen”) and others are ambiguous (cf. CEV “any of your people”).",
+        "ja": "[翻訳注] これがだれを指すのかは明確ではない。「兄弟」よりも広い意味である可能性が高いが（NRSV「あなたの親族のだれか」、NLT「あなたのイスラエル人の親族のだれか」参照）、一部の英語訳では「同胞のイスラエル人」を意味すると解釈され（TEV。NAB、NIV「同国人」参照）、曖昧な訳もある（CEV「あなたの民のだれか」参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and his hand slips with you.”",
+        "ja": "[翻訳注] ヘブル語では「そして彼の手があなたのもとで滑る」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “strengthen”; NASB “sustain.”",
+        "ja": "[翻訳注] ヘブル語では「強めよ」。NASB「支えよ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The form וָחַי (vakhay, “and shall live”) looks like the adjective “living,” but the MT form is simply the same verb written as a double ayin verb (see HALOT 309 s.v. חיה qal, and GKC 218 §76.i; cf. Lev 18:5).",
+        "ja": "[翻訳注] וָחַイ（vakhay、「そして生きる」）という形は形容詞「生きている」のように見えるが、マソラ本文の形は単に同根の重語根動詞（第二・第三語根が同一の動詞）として表記された同じ動詞である（HALOT 309 s.v. חיה qal、および GKC 218 §76.i 参照。レビ記18:5参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “a foreigner and resident,” which is probably to be combined (see B. A. Levine, Leviticus [JPSTC], 170-71).",
+        "ja": "[翻訳注] ヘブル語では「外国人および寄留者」であり、おそらく組み合わせて解釈されるべきである（B. A. Levine, Leviticus [JPSTC], 170-71 参照）。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The meaning of the terms rendered “interest” and “profit” is much debated (see the summaries in P. J. Budd, Leviticus [NCBC], 354-55 and B. A. Levine, Leviticus [JPSTC], 178). Verse 37, however, suggests that the first refers to a percentage of money and the second percentage of produce (see J. E. Hartley, Leviticus [WBC], 421).",
+        "ja": "[翻訳注] 「利息」および「利得」と訳される語の意味については多くの議論がある（P. J. Budd, Leviticus [NCBC], 354-55 および B. A. Levine, Leviticus [JPSTC], 178 の要約参照）。しかし37節から、前者は金銭の利息を指し、後者は食糧の利得を指していることが示唆される（J. E. Hartley, Leviticus [WBC], 421 参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  In form the Hebrew term וְחֵי (vÿkhey, “shall live”) is the construct plural noun (i.e., “the life of”), but here it is used as the finite verb (cf. v. 35 and GKC 218 §76.i).",
+        "ja": "[翻訳注] 形の上ではヘブル語の וְחֵי（vÿkhey、「生きる」）は連声形複数名詞（すなわち「〜の命」）であるが、ここでは定動詞として用いられている（35節および GKC 218 §76.i 参照）。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “your money” and “your food.” With regard to “interest” and “profit” see the note on v. 36 above.",
+        "ja": "[翻訳注] ヘブル語では「あなたの金」および「あなたの食糧」。「利息」と「利得」に関しては上記の36節の注を参照。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to be to you for a God.”",
+        "ja": "[翻訳注] ヘブル語では「あなたがたにとって神となるために」。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you shall not serve against him service of a slave.” A distinction is being made here between the status of slave and indentured servant.",
+        "ja": "[翻訳注] ヘブル語では「あなたは彼に対して奴隷の仕えをさせてはならない」。ここでは奴隷の身分と年季奉公人の身分とが区別されている。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  See the note on Lev 25:6 above.",
+        "ja": "[翻訳注] 上記のレビ記25:6の注を参照。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and.” The Hebrew conjunction ו (vav, “and”) can be considered to have adversative force here.",
+        "ja": "[翻訳注] ヘブル語では「そして」。ここでのヘブル語接続詞 ו（ヴァヴ、「そして」）は逆接の力を持つと考えられる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “may go out from you.”",
+        "ja": "[翻訳注] ヘブル語では「あなたから出て行くことができる」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “fathers.”",
+        "ja": "[翻訳注] ヘブル語では「父たち」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or perhaps reflexive Niphal rather than passive, “they shall not sell themselves [as in] a slave sale.”",
+        "ja": "[翻訳注] あるいは受動態ではなくニファル再帰形として、「彼らは奴隷の売買において自分自身を売ってはならない」。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “You shall not rule in him in violence”; cf. NASB “with severity”; NIV “ruthlessly.”",
+        "ja": "[翻訳注] ヘブル語では「あなたは暴虐をもって彼を支配してはならない」。NASB「厳格さをもって」、NIV「無慈悲に」参照。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And your male slave and your female slave.” Smr has these as plural terms, “slaves,” not singular.",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたの男奴隷と女奴隷」。サマリア・ペンタテューク（Smr）では単数形ではなく複数形の「奴隷たち」となっている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “ from the nations which surround you, from them you shall buy male slave and female slave.”",
+        "ja": "[翻訳注] ヘブル語では「あなたを取り囲む諸国民から、彼らから男奴隷と女奴隷を買い取らなければならない」。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “slaves” is not in the Hebrew text, but is implied here.",
+        "ja": "[翻訳注] 「奴隷」という語はヘブル語本文にはないが、ここでは含意されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “family which is” (i.e., singular rather than plural).",
+        "ja": "[翻訳注] ヘブル語では「〜である家族」（すなわち複数ではなく単数形）。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and your brothers, the sons of Israel, a man in his brother you shall not rule in him in violence.”",
+        "ja": "[翻訳注] ヘブル語では「そしてあなたがたの兄弟、イスラエルの子らについて、人はその兄弟を暴虐をもって支配してはならない」。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if the hand of a foreigner and resident with you reaches” (cf. v. 26 for this idiom).",
+        "ja": "[翻訳注] ヘブル語では「そしてもしあなたのもとにいる異邦人と寄留者の手が届き」（この慣用句については26節参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and.” The Hebrew conjunction ו (vav, “and”) can be considered to have resultative force here.",
+        "ja": "[翻訳注] ヘブル語では「そして」。ここでのヘブル語接続詞 ו（ヴァヴ、「そして」）は結果を表す力を持つと考えられる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “offshoot, descendant.”",
+        "ja": "[翻訳注] ヘブル語では「派生したもの、子孫」。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “right of redemption shall be to him.”",
+        "ja": "[翻訳注] ヘブル語では「買い戻しの権利が彼にある」。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the son of his uncle.”",
+        "ja": "[翻訳注] ヘブル語では「そのおじの息子」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “or from the remainder of his flesh from his family.”",
+        "ja": "[翻訳注] ヘブル語では「あるいは彼の一族の肉の残りの者から」。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  The LXX, followed by the Syriac, actually has “if,” which is not in the MT.",
+        "ja": "[写本注] 七十人訳（LXX）はシリア訳（ペシタ）に続き、マソラ本文（MT）にはない「もし」を置いている。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the years.”",
+        "ja": "[翻訳注] ヘブル語では「その年数」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “as days of a hired worker he shall be with him.” For this and the following verses see the explanation in P. J. Budd, Leviticus (NCBC), 358-59.",
+        "ja": "[翻訳注] ヘブル語では「雇い人の日々のように彼は彼のもとにいなければならない」。この節および続く節については、P. J. Budd, Leviticus (NCBC), 358-59 の解説を参照。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “to the mouth of them.”",
+        "ja": "[翻訳注] ヘブル語では「それらの口に応じて」。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “but if a little remains in the years.”",
+        "ja": "[翻訳注] ヘブル語では「しかし年数において残りがわずかであるなら」。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “be with him”; the referent (the one who bought him) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼のもとにいる」。指示対象（彼を買った者）を明確にするために訳文で補っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “As a hired worker year in year.”",
+        "ja": "[翻訳注] ヘブル語では「年ごとの雇い人のように」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “He”; the referent (the one who bought him) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ヘブル語では「彼」。指示対象（彼を買った者）を明確にするために訳文で補っている。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “And if.”",
+        "ja": "[翻訳注] ヘブル語では「そしてもし」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “go out.”",
+        "ja": "[翻訳注] ヘブル語では「出て行く」。"
+      }
+    ],
+    "55": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “because to me the sons of Israel are servants.”",
+        "ja": "[翻訳注] ヘブル語では「イスラエルの子らはわたしにとって僕であるから」。"
+      }
+    ]
+  }
+}
