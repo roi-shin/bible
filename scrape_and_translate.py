@@ -149,15 +149,21 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 
 def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
     """agy CLIを使ってJSON全体の英語を一括翻訳する"""
-    # 送信用のデータ構造を整理
-    payload = {
-        "verses": [{"verse": v["verse"], "text": BeautifulSoup(v["text"], 'html.parser').get_text()} for v in raw_data["text_data"]],
-        "notes": {}
-    }
+    # LLMの負担を減らすため、送信用のデータ構造をフラットなリストに整理（候補1の実装）
+    flat_payload = []
+    for v in raw_data["text_data"]:
+        flat_payload.append({
+            "id": f"v_{v['verse']}",
+            "text": BeautifulSoup(v["text"], 'html.parser').get_text()
+        })
     for vn, notes_list in raw_data["notes"].items():
-        payload["notes"][vn] = [{"pos": pos, "text": clean_note_html(text)} for pos, text in notes_list]
+        for pos, text in notes_list:
+            flat_payload.append({
+                "id": f"n_{vn}_{pos}",
+                "text": clean_note_html(text)
+            })
 
-    json_str = json.dumps(payload, ensure_ascii=False)
+    json_str = json.dumps(flat_payload, ensure_ascii=False)
     
     # テンポラリファイルに保存
     temp_in = temp_in_path if 'temp_in_path' in globals() else os.path.join(DATA_DIR, "temp_in.json")
@@ -165,18 +171,40 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
         f.write(json_str)
 
     prompt = (
-        f"Read the file '{temp_in}'. It contains a JSON object with 'verses' and 'notes'. "
-        f"Translate all English text in the 'verses' and 'notes' fields to natural, dignified Japanese. "
-        f"CRITICAL INSTRUCTION 1 (Notes Context): The 'notes' field contains highly detailed translator's notes (tn), study notes (sn), and text-critical notes (tc) that justify the specific English translation choices. "
-        f"When translating the 'verses', you MUST carefully cross-reference and incorporate the nuances and justifications provided in the corresponding notes for that verse. "
-        f"Ensure that the Japanese translation of the verses accurately reflects the theological and grammatical insights detailed in the notes, maintaining strict consistency between the verse text and its explanatory notes. "
+        f"Translate all English text in the provided JSON array to natural, dignified Japanese. "
+        f"The array contains Bible verses (id: v_X) and notes (id: n_X_Y). "
+        f"CRITICAL INSTRUCTION 1 (Notes Context): Notes contain highly detailed translator's notes, study notes, and text-critical notes that justify the specific English translation choices. "
+        f"When translating the verses, you MUST carefully cross-reference and incorporate the nuances and justifications provided in the corresponding notes for that verse. "
+        f"Ensure that the Japanese translation of the verses accurately reflects the theological and grammatical insights detailed in the notes. "
         f"CRITICAL INSTRUCTION 2 (Consistency & Tone): Maintain a consistent biblical tone across all chapters. Use the 'である/だ' (dearu/da) style consistently for the verse text, and polite 'です/ます' (desu/masu) or 'である/だ' style consistently for notes. Use standard Japanese Christian terminology (e.g. 神, 主, 創造, 恵み, 契約). "
-        f"Return the output in exactly the same JSON structure, replacing the English text with Japanese in the 'ja' fields for verses, and adding 'ja' fields for notes. "
-        f"Output ONLY raw JSON, do not use markdown code blocks."
+        f"Return the output as a JSON array of objects, where each object has exactly two keys: 'id' (copied exactly from the input) and 'ja' (the Japanese translation). "
+        f"Example output format: [{{\"id\": \"v_1\", \"ja\": \"...\"}}, {{\"id\": \"n_1_1\", \"ja\": \"...\"}}]\n"
+        f"Output ONLY raw JSON array, do not use markdown code blocks."
     )
 
     import time
     max_retries = 3
+    
+    def rebuild_translated_data(flat_response: list) -> dict:
+        """フラットなリストを元のネストされた構造に戻す"""
+        rebuilt = {"verses": [], "notes": {}}
+        for item in flat_response:
+            if not isinstance(item, dict):
+                continue
+            item_id = item.get("id", "")
+            ja_text = item.get("ja", item.get("text", ""))
+            if item_id.startswith("v_"):
+                parts = item_id.split("_")
+                if len(parts) >= 2:
+                    rebuilt["verses"].append({"verse": parts[1], "ja": ja_text})
+            elif item_id.startswith("n_"):
+                parts = item_id.split("_")
+                if len(parts) >= 3:
+                    verse_num, pos = parts[1], parts[2]
+                    if verse_num not in rebuilt["notes"]:
+                        rebuilt["notes"][verse_num] = []
+                    rebuilt["notes"][verse_num].append({"pos": int(pos), "ja": ja_text})
+        return rebuilt
 
     if use_api:
         # 優先順序: 3.5-flash-lite (RPD500) → 2.5-flash → 3.7-flash → 3.5-flash
@@ -201,7 +229,10 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
                     try:
                         text = resp.json()['candidates'][0]['content']['parts'][0]['text']
                         print(f"    [{model_name}] 成功")
-                        return json.loads(text)
+                        flat_resp = json.loads(text)
+                        if isinstance(flat_resp, dict) and "response" in flat_resp:
+                            flat_resp = json.loads(flat_resp["response"])
+                        return rebuild_translated_data(flat_resp)
                     except Exception as e:
                         print(f"    [{model_name}] レスポンス形式エラー: {e}")
                         break
@@ -248,6 +279,8 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
         outer_json_text = result.stdout.strip().split("\n")[-1] # エラーメッセージ等を無視して最後の行を取得
         outer_json = json.loads(outer_json_text)
         response_text = outer_json.get("response", "").strip()
+        flat_resp = json.loads(response_text)
+        return rebuild_translated_data(flat_resp)
         
         # Markdownのコードブロック記法 (```json ... ```) を除去
         if response_text.startswith("```json"):
