@@ -1,0 +1,97 @@
+# 1 Samuel 8 (English)
+
+## Text
+
+**1** In his old age Samuel appointed his sons as judges over Israel. 
+
+**2** The name of his firstborn son was Joel, and the name of his second son was Abijah. They were judges in Beer Sheba. 
+
+**3** But his sons did not follow his ways. Instead, they made money dishonestly, accepted bribes, and perverted justice. 
+
+**4** So all the elders of Israel gathered together and approached Samuel at Ramah. 
+
+**5** They said to him, “Look, you are old, and your sons don’t follow your ways. So now appoint over us a king to lead us, just like all the other nations have.”
+
+**6** But this request displeased Samuel, for they said, “Give us a king to lead us.” So Samuel prayed to the Lord. 
+
+**7** The Lord said to Samuel, “Do everything the people request of you. For it is not you that they have rejected, but it is me that they have rejected as their king. 
+
+**8** Just as they have done from the day that I brought them up from Egypt until this very day, they have rejected me and have served other gods. This is what they are also doing to you.
+
+**9** So now do as they say. But you must warn them and make them aware of the policies of the king who will rule over them.”
+
+**10** So Samuel spoke all the Lord’s words to the people who were asking him for a king. 
+
+**11** He said, “Here are the policies of the king who will rule over you: He will conscript your sons and put them in his chariot forces and in his cavalry; they will run in front of his chariot. 
+
+**12** He will appoint for himself leaders of thousands and leaders of fifties, as well as those who plow his ground, reap his harvest, and make his weapons of war and his chariot equipment. 
+
+**13** He will take your daughters to be ointment makers, cooks, and bakers. 
+
+**14** He will take your best fields, vineyards, and olive groves, and give them to his own servants. 
+
+**15** He will demand a tenth of your seed and of the produce of your vineyards and give it to his administrators and his servants. 
+
+**16** He will take your male and female servants, as well as your best cattle and your donkeys, and assign them for his own use. 
+
+**17** He will demand a tenth of your flocks, and you yourselves will be his servants. 
+
+**18** In that day you will cry out because of your king whom you have chosen for yourselves, but the Lord won’t answer you in that day.” 
+
+**19** But the people refused to heed Samuel’s warning. Instead they said, “No! There will be a king over us!
+
+**20** We will be like all the other nations. Our king will judge us and lead us and fight our battles.” 
+
+**21** So Samuel listened to everything the people said and then reported it to the Lord. 
+
+**22** The Lord said to Samuel, “Do as they say and install a king over them.” Then Samuel said to the men of Israel, “Each of you go back to his own city.” 
+
+## Notes
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “walk in” (also in v. 5).
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “and they turned aside after unjust gain and took bribes and perverted justice.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “judge” (also in v. 6).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “when.”
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “Listen to the voice of the people, to all which they say to you.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “according to all the deeds which they have done.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “and now, listen to their voice.”
+
+### Verse 9 - Note 2
+[翻訳注]  The infinitive absolute appears before the imperative for emphasis.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “and tell them the manner of the king who will rule over them.”
+
+### Verse 12 - Note 1
+[写本注]  The numbers of v. 12 are confused in the Greek and Syriac versions. For “fifties” the LXX has “hundreds.” The Syriac Peshitta has “heads of thousands and heads of hundreds and heads of fifties and heads of tens,” perhaps reflecting influence from Deut 1:15.
+
+### Verse 15 - Note 1
+[翻訳注]  Or “eunuchs” (so NAB); NIV “officials”; KJV, NASB, NRSV, NLT “officers.”
+
+### Verse 18 - Note 1
+[写本注]  The LXX adds “because you have chosen for yourselves a king.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “and the people refused to listen to the voice of Samuel.”
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “and go out before us.”
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “and Samuel heard all the words of the people and he spoke them into the ears of the Lord.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “listen to their voice.”

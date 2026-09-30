@@ -207,12 +207,14 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
         return rebuilt
 
     if use_api:
-        # 優先順序: 3.5-flash-lite (RPD500) → 2.5-flash → 3.7-flash → 3.5-flash
+        # 優先順序: 3.5-flash-lite (RPD500) → 3.8-flash → 3.7-flash → 3.6-flash → 3.5-flash → 3.0-flash
         fallback_models = [
             "gemini-3.5-flash-lite",
-            "gemini-2.5-flash",
+            "gemini-3.8-flash",
             "gemini-3.7-flash",
+            "gemini-3.6-flash",
             "gemini-3.5-flash",
+            "gemini-3.0-flash",
         ]
         api_prompt = prompt + "\n\nHere is the JSON data to translate:\n" + json_str
         for model_name in fallback_models:

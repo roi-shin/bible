@@ -1,0 +1,522 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he came and said before Jonathan.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;What is my guilt?&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (Jonathan) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the <i>Qere</i>, many medieval Hebrew <sc>mss</sc>, and the ancient versions in reading &#8220;he will not do,&#8221; rather than the <i>Kethib</i> of the MT (&#8220;do to him&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;without uncovering my ear.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX and the Syriac Peshitta lack the word &#8220;again.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The infinitive absolute appears before the finite verb for emphasis.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;said,&#8221; that is, to himself. So also in v. <span class=\"bibleref\" title=\"1 Samuel 20:25\">25</span>.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;whatever your soul says, I will do for you.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and I must surely sit with the king to eat.&#8221; The infinitive absolute appears before the finite verb for emphasis.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to run.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B4</a>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;good.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;know that the evil is completed from with him.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and you must do loyalty.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for into a covenant of the <sc>Lord</sc> you have brought your servant with you.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and if there is in me guilt.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text has simply &#8220;the <sc>Lord</sc> God of Israel.&#8221; On the basis of the Syriac version, many reconstruct the text to read &#8220;[is] my witness,&#8221; which may have fallen out of the text by homoioarcton (an error which is entirely possible if <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1461;&#1491;</font>, &#8217;<font face=\"Scholar\">ed</font>, &#8220;witness,&#8221; immediately followed <font face=\"Galaxie Unicode Hebrew\">&#1464;&#1463;&#1491;&#1493;&#1460;&#1491;</font>, &#8220;David,&#8221; in the original text).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and uncover your ear.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;uncover your ear.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in peace.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;cut.&#8221; The object of the verb (&#8220;covenant&#8221;) must be supplied.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word order is different in the Hebrew text, which reads &#8220;and Jonathan cut with the house of David, and the <sc>Lord</sc> will seek from the hand of the enemies of David.&#8221; The translation assumes that the main clauses of the verse have been accidentally transposed in the course of transmission. The first part of the verse (as it stands in MT) belongs with v. <span class=\"bibleref\" title=\"1 Samuel 20:17\">17</span>, while the second part of the verse actually continues v. <span class=\"bibleref\" title=\"1 Samuel 20:15\">15</span>.</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for [with] the love of his [own] life he loved him.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;you will do [something] a third time.&#8221; The translation assumes an emendation of the verb from <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1460;&#1500;&#1468;&#1463;&#1513;&#1473;&#1456;&#1514;&#1468;&#1464;</font> (<font face=\"Scholar\">shillashta</font>, &#8220;to do a third time&#8221;) to <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1460;&#1500;&#1468;&#1460;&#1497;&#1513;&#1473;&#1460;&#1497;&#1514;</font> (<font face=\"Scholar\">shillishit</font>, &#8220;[on the] third [day]&#8221;).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you must go down greatly.&#8221; See <span class=\"bibleref\" title=\"Judges 19:11\">Judg 19:11</span> for the same idiom.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;on the day of the deed.&#8221; This probably refers to the incident recorded in <span class=\"bibleref\" title=\"1 Samuel 19:2\">19:2</span>.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from you and here.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from you and onward.&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;the <sc>Lord</sc> [is] between me and between you forever.&#8221; The translation assumes that the original text read <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1461;&#1491; &#1506;&#1463;&#1491;&#1470;&#1506;&#1493;&#1465;&#1500;&#1464;&#1501;</font> (&#8217;<font face=\"Scholar\">ed</font> &#8217;<font face=\"Scholar\">ad-</font>&#8217;<font face=\"Scholar\">olam</font>), &#8220;a witness forever,&#8221; with the noun &#8220;a witness&#8221; accidentally falling out of the text by haplography. See P. K. McCarter, <i>I Samuel</i> (AB), 338.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;and Jonathan arose.&#8221; Instead of MT&#8217;s <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1463;&#1497;&#1468;&#1464;&#1511;&#1464;&#1501;</font> (<font face=\"Scholar\">vayyaqam</font>, &#8220;and he arose&#8221;; from the hollow verbal root <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1493;&#1468;&#1501;</font>, <font face=\"Scholar\">qum</font>), the translation assumes a reading <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1463;&#1497;&#1468;&#1460;&#1511;&#1463;&#1491;&#1468;&#1461;&#1501;</font> (<font face=\"Scholar\">vayyiqaddem</font>, &#8220;and he was in front of&#8221;; from the verbal root <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1491;&#1501;</font>, <font face=\"Scholar\">qdm</font>). See P. K. McCarter, <i>I Samuel</i> (AB), 338.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Abner sat at the side of Saul.&#8221;</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;about it&#8221; are not present in the Hebrew text, although they are implied.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;said,&#8221; that is, to himself.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;send me.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanded.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;be released [from duty].&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Many medieval Hebrew <sc>mss</sc> include the words &#8220;his son&#8221; here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;son of a perverse woman of rebelliousness.&#8221; But such an overly literal and domesticated translation of the Hebrew expression fails to capture the force of Saul&#8217;s unrestrained reaction. Saul, now incensed and enraged over Jonathan&#8217;s liaison with David, is actually hurling very coarse and emotionally charged words at his son. The translation of this phrase suggested by Koehler and Baumgartner is &#8220;bastard of a wayward woman&#8221; (<i>HALOT</i> 796 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1493;&#1492;</font>), but this is not an expression commonly used in English. A better English approximation of the sentiments expressed here by the Hebrew phrase would be &#8220;You stupid son of a bitch!&#8221; However, sensitivity to the various public formats in which the Bible is read aloud has led to a less startling English rendering which focuses on the semantic value of Saul&#8217;s utterance (i.e., the behavior of his own son Jonathan, which he viewed as both a personal and a political betrayal [= &#8220;traitor&#8221;]). But this concession should not obscure the fact that Saul is full of bitterness and frustration. That he would address his son Jonathan with such language, not to mention his apparent readiness even to kill his own son over this friendship with David (v. <span class=\"bibleref\" title=\"1 Samuel 20:33\">33</span>), indicates something of the extreme depth of Saul&#8217;s jealousy and hatred of David.</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the days that.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;some men&#8221; are supplied in the translation for stylistic reasons.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a son of death.&#8221;</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;him&#8221;; the referent (Jonathan) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;knew.&#8221;</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for he was upset concerning David for his father had humiliated him.&#8221; The referent of the pronoun &#8220;him&#8221; is not entirely clear, but the phrase &#8220;concerning David&#8221; suggests that it refers to David, rather than Jonathan.</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (Jonathan) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;called after&#8221; (also in v. <span class=\"bibleref\" title=\"1 Samuel 20:38\">38</span>).</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;knew the matter.&#8221;</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the LXX in reading &#8220;the mound,&#8221; rather than the MT&#8217;s &#8220;the south.&#8221; It is hard to see what meaning the MT reading &#8220;from beside the south&#8221; would have as it stands, since such a location lacks specificity. The NIV treats it as an elliptical expression, rendering the phrase as &#8220;from the south side of the stone (rock NCV).&#8221; This is perhaps possible, but it seems better to follow the LXX rather than the MT here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fell.&#8221;</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Beginning with <span class=\"bibleref\" title=\"1 Samuel 20:42\">20:42</span>b, the verse numbers through <span class=\"bibleref\" title=\"1 Samuel 21:15\">21:15</span> in the English Bible differ from the verse numbers in the Hebrew text (<i>BHS</i>), with <span class=\"bibleref\" title=\"1 Samuel 20:42\">20:42</span>b ET = <span class=\"bibleref\" title=\"1 Samuel 21:1\">21:1</span> HT, <span class=\"bibleref\" title=\"1 Samuel 21:1\">21:1</span> ET = <span class=\"bibleref\" title=\"1 Samuel 21:2\">21:2</span> HT, <span class=\"bibleref\" title=\"1 Samuel 21:2\">21:2</span> ET = <span class=\"bibleref\" title=\"1 Samuel 21:3\">21:3</span> HT, etc., through <span class=\"bibleref\" title=\"1 Samuel 21:15\">21:15</span> ET = 21:16 HT. With <span class=\"bibleref\" title=\"1 Samuel 22:1\">22:1</span> the verse numbers in the ET and HT are again the same.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (David) has been specified in the translation for clarity.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "1",
+      "text": "David fled from Naioth in Ramah. He came to Jonathan and asked, “What have I done? What is my offense? How have I sinned before your father, that he is seeking my life?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "2",
+      "text": "Jonathan said to him, “By no means are you going to die! My father does nothing large or small without making me aware of it. Why would my father hide this matter from me? It just won’t happen!”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "3",
+      "text": "Taking an oath, David again said, “Your father is very much aware of the fact that I have found favor with you, and he has thought, ‘Don’t let Jonathan know about this, or he will be upset.’ But as surely as the Lord lives and you live, there is about one step between me and death!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "4",
+      "text": "Jonathan replied to David, “Tell me what I can do for you.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "5",
+      "text": "David said to Jonathan, “Tomorrow is the new moon, and I am certainly expected to join the king for a meal. You must send me away so I can hide in the field until the third evening from now."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "6",
+      "text": "If your father happens to miss me, you should say, ‘David urgently requested me to let him go to his town Bethlehem, for there is an annual sacrifice there for his entire family.’ "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "7",
+      "text": "If he should then say, ‘That’s fine,’ then your servant is safe. But if he becomes very angry, be assured that he has decided to harm me. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "8",
+      "text": "You must be loyal to your servant, for you have made a covenant with your servant in the Lord’s name. If I am guilty, you yourself kill me! Why bother taking me to your father?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "9",
+      "text": "Jonathan said, “Far be it from you to suggest this! If I were at all aware that my father had decided to harm you, wouldn’t I tell you about it?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "10",
+      "text": "David said to Jonathan, “Who will tell me if your father answers you harshly?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "11",
+      "text": "Jonathan said to David, “Come on. Let’s go out to the field.”When the two of them had gone out into the field, "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "12",
+      "text": "Jonathan said to David, “The Lord God of Israel is my witness! I will feel out my father about this time the day after tomorrow. If he is favorably inclined toward David, will I not then send word to you and let you know? "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "13",
+      "text": "But if my father intends to do you harm, may the Lord do all this and more to Jonathan if I don’t let you know and send word to you, so you can go safely on your way. May the Lord be with you, as he was with my father. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "14",
+      "text": "While I am still alive, extend to me the loyalty of the Lord, or else I will die. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "15",
+      "text": "Don’t ever cut off your loyalty to my family, not even when the Lord has cut off every one of David’s enemies from the face of the earth "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "16",
+      "text": "and called David’s enemies to account.” So Jonathan made a covenant with the house of David. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "17",
+      "text": "Jonathan once again took an oath with David, because he loved him. In fact Jonathan loved him as much as he did his own life. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "18",
+      "text": "Jonathan said to him, “Tomorrow is the new moon, and you will be missed, for your seat will be empty."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "19",
+      "text": "On the third day you should go down quickly and come to the place where you hid yourself the day this all started. Stay near the stone Ezel. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "20",
+      "text": "I will shoot three arrows near it, as though I were shooting at a target. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "21",
+      "text": "When I send a boy after them, I will say, ‘Go and find the arrows.’ If I say to the boy, ‘Look, the arrows are on this side of you; get them,’ then come back. For as surely as the Lord lives, you will be safe and there will be no problem. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "22",
+      "text": "But if I say to the boy, ‘Look, the arrows are on the other side of you,’ then get away. For in that case the Lord has sent you away. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "23",
+      "text": "With regard to the matter that you and I discussed, the Lord is the witness between us forever.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "24",
+      "text": "So David hid in the field. When the new moon came, the king sat down to eat his meal."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "25",
+      "text": "The king sat down in his usual place by the wall, with Jonathan opposite him and Abner at his side. But David’s place was vacant. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "26",
+      "text": "However, Saul said nothing about it that day, for he thought, “Something has happened to make him ceremonially unclean. Yes, he must be unclean.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "27",
+      "text": "But the next morning, the second day of the new moon, David’s place was still vacant. So Saul said to his son Jonathan, “Why has Jesse’s son not come to the meal yesterday or today?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "28",
+      "text": "Jonathan replied to Saul, “David urgently requested that he be allowed to go to Bethlehem. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "29",
+      "text": "He said, ‘Permit me to go, for we are having a family sacrifice in the town, and my brother urged me to be there. So now, if I have found favor with you, let me go to see my brothers.’ For that reason he has not come to the king’s table.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "30",
+      "text": "Saul became angry with Jonathan and said to him, “You stupid traitor! Don’t I realize that to your own disgrace and to the disgrace of your mother’s nakedness you have chosen this son of Jesse? "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "31",
+      "text": "For as long as this son of Jesse is alive on the earth, you and your kingdom will not be established. Now, send some men and bring him to me. For he is as good as dead!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "32",
+      "text": "Jonathan responded to his father Saul, “Why should he be put to death? What has he done?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "33",
+      "text": "Then Saul threw his spear at Jonathan in order to strike him down. So Jonathan was convinced that his father had decided to kill David. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "34",
+      "text": "Jonathan got up from the table enraged. He did not eat any food on that second day of the new moon, for he was upset that his father had humiliated David. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "35",
+      "text": "The next morning Jonathan, along with a young servant, went out to the field to meet David. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "36",
+      "text": "He said to his servant, “Run, find the arrows that I am about to shoot.” As the servant ran, Jonathan shot the arrow beyond him."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "37",
+      "text": "When the servant came to the place where Jonathan had shot the arrow, Jonathan called out to the servant, “Isn’t the arrow farther beyond you?”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "38",
+      "text": "Jonathan called out to the servant, “Hurry! Go faster! Don’t delay!” Jonathan’s servant retrieved the arrow and came back to his master. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "39",
+      "text": "(Now the servant did not understand any of this. Only Jonathan and David knew what was going on.)"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "40",
+      "text": "Then Jonathan gave his equipment to the servant who was with him. He said to him, “Go, take these things back to the town.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "41",
+      "text": "When the servant had left, David got up from beside the mound, knelt with his face to the ground, and bowed three times. Then they kissed each other and they both wept, especially David. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "20",
+      "verse": "42",
+      "text": "Jonathan said to David, “Go in peace, for the two of us have sworn together in the name of the Lord saying, ‘The Lord will be between me and you and between my descendants and your descendants forever.’”(21:1) Then David got up and left, while Jonathan went back to the town of Naioth. "
+    }
+  ]
+}

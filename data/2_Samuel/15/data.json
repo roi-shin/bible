@@ -1,0 +1,525 @@
+{
+  "book": "2 Samuel",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Some time later Absalom managed to acquire a chariot and horses, as well as 50 men to serve as his royal guard. ",
+      "ja": "しばらくして後、アブサロムは戦車と馬、および自分の先導を務める50人の護衛を手に入れた。"
+    },
+    {
+      "verse": 2,
+      "en": "Now Absalom used to get up early and stand beside the road that led to the city gate. Whenever anyone came by who had a complaint to bring to the king for arbitration, Absalom would call out to him, “What city are you from?” The person would answer, “I, your servant, am from one of the tribes of Israel.” ",
+      "ja": "アブサロムは朝早く起きて、都の門に通じる道の傍らに立った。王に裁きを求めて訴えのある者が通りかかるたびに、アブサロムはその呼びかけ、尋ねた。「あなたはどの町の出身ですか」。その人は答えた。「下僕、あなたの仕え人はイスラエルの諸部族の一つの者です」。"
+    },
+    {
+      "verse": 3,
+      "en": "Absalom would then say to him, “Look, your claims are legitimate and appropriate. But there is no representative of the king who will listen to you.”",
+      "ja": "するとアブサロムは彼に言った。「見よ、あなたの申し立ては正しく、筋が通っている。だが、あなたの話に耳を傾ける王の代表者は誰もいない」。"
+    },
+    {
+      "verse": 4,
+      "en": "Absalom would then say, “If only they would make me a judge in the land! Then everyone who had a judicial complaint could come to me and I would make sure he receives a just settlement.” ",
+      "ja": "アブサロムはさらに言った。「ああ、私をこの国で裁きをする者にしてくれたらよいのに！ そうすれば、訴えや裁判のある者が皆私のもとにやって来て、私は確実に公正な裁きを受けさせられるのだが」。"
+    },
+    {
+      "verse": 5,
+      "en": "When someone approached to bow before him, Absalom would extend his hand and embrace him and kiss him.",
+      "ja": "人がアブサロムに近づいて身をかがめようとすると、彼は自分の手を差し伸べて抱き寄せ、口づけをした。"
+    },
+    {
+      "verse": 6,
+      "en": "Absalom acted this way toward everyone in Israel who came to the king for justice. In this way Absalom won the loyalty of the citizens of Israel. ",
+      "ja": "アブサロムは、裁きを求めて王のもとに来るイスラエルのすべての人に対してこのように振る舞った。こうしてアブサロムはイスラエルの人々の心を盗み取ったのである。"
+    },
+    {
+      "verse": 7,
+      "en": "After four years Absalom said to the king, “Let me go and repay my vow that I made to the Lord while I was in Hebron. ",
+      "ja": "4年が過ぎた後、アブサロムは王に言った。「どうかヘブロンに行かせて、私がヘブロンにいた時に主に対して立てた誓いを果たさせてください。"
+    },
+    {
+      "verse": 8,
+      "en": "For I made this vow when I was living in Geshur in Aram: ‘If the Lord really does allow me to return to Jerusalem, I will serve the Lord.’”",
+      "ja": "下僕である私がアラムのゲシュルに住んでいた時、『主が本当に私をエルサレムに帰してくださるなら、私は主に仕えます』というこの誓いを立てたのですから」。"
+    },
+    {
+      "verse": 9,
+      "en": "The king replied to him, “Go in peace.” So Absalom got up and went to Hebron. ",
+      "ja": "王は彼に「安心して行きなさい」と言った。そこでアブサロムは起きてヘブロンへ行った。"
+    },
+    {
+      "verse": 10,
+      "en": "Then Absalom sent spies through all the tribes of Israel who said, “When you hear the sound of the horn, you may assume that Absalom rules in Hebron.” ",
+      "ja": "しかしアブサロムは、イスラエルのすべての部族の中に密偵を遣わし、こう言わせた。「角笛の音が聞こえたなら、あなた方は『アブサロムがヘブロンで王として治めている』と言いなさい」。"
+    },
+    {
+      "verse": 11,
+      "en": "Now 200 men had gone with Absalom from Jerusalem. Since they were invited, they went naively and were unaware of what Absalom was planning. ",
+      "ja": "その時、200人の男たちがエルサロムからアブサロムと一緒に同行していた。彼らは招かれて行ったのであり、何も知らずに素朴について行ったため、アブサロムが何を企んでいるのか全く気づいていなかった。"
+    },
+    {
+      "verse": 12,
+      "en": "While he was offering sacrifices, Absalom sent for Ahithophel the Gilonite, David’s adviser, to come from his city, Giloh. The conspiracy was gaining momentum, and the people were starting to side with Absalom. ",
+      "ja": "アブサロムが生贄を献げている間、ダビデの助言者であるギロ人アヒトフェルを、その故郷の町ギロから呼び寄せた。陰謀は勢いを増し、民は次々とアブサロムの側に付くようになった。"
+    },
+    {
+      "verse": 13,
+      "en": "Then a messenger came to David and reported, “The men of Israel are loyal to Absalom!” ",
+      "ja": "その時、ある使者がダビデのもとに来て報告した。「イスラエルの人々の心がアブサロムに傾いています！」"
+    },
+    {
+      "verse": 14,
+      "en": "So David said to all his servants who were with him in Jerusalem, “Come on! Let’s escape! Otherwise no one will be delivered from Absalom! Go immediately, or else he will quickly overtake us and bring disaster on us and kill the city’s residents with the sword.” ",
+      "ja": "そこでダビデは、エルサロムに自分と一緒にいるすべての家臣たちに言った。「さあ、逃げよう！ そうしなければ、誰もアブサロムの手から救い出されない。今すぐ出発しなさい。さもないと、彼はすぐに私たちに追いつき、災いを下し、剣をもってこの都の住民を討ち滅ぼすだろう」。"
+    },
+    {
+      "verse": 15,
+      "en": "The king’s servants replied to the king, “We will do whatever our lord the king decides.”",
+      "ja": "王の家臣たちは王に答えた。「わが主である王が決断されることなら、私たちは何でも従います」。"
+    },
+    {
+      "verse": 16,
+      "en": "So the king and all the members of his royal court set out on foot, though the king left behind 10 concubines to attend to the palace. ",
+      "ja": "こうして王は、その全家族とともに歩み出した。ただし王は、宮殿を守らせるために10人のそばめたちをあとに残していった。"
+    },
+    {
+      "verse": 17,
+      "en": "The king and all the people set out on foot, pausing at a spot some distance away.",
+      "ja": "王とすべての民は歩み出し、少し離れたところで立ち止まった。"
+    },
+    {
+      "verse": 18,
+      "en": "All his servants were leaving with him, along with all the Kerethites, all the Pelethites, and all the Gittites—some 600 men who had come on foot from Gath. They were leaving with the king. ",
+      "ja": "彼のすべての家臣たちは彼とともに進み出ており、すべてのケレテ人、すべてのペレテ人、そしてガテから歩いてついて来たおよそ600人のガテ人もすべて、王とともに通り過ぎて行った。"
+    },
+    {
+      "verse": 19,
+      "en": "Then the king said to Ittai the Gittite, “Why should you come with us? Go back and stay with the new king, for you are a foreigner and an exile from your own country. ",
+      "ja": "王はガテ人イタイに言った。「なぜあなたも私たちと一緒に行くのか。引き返して、あの新しい王とともに留まりなさい。あなたは外国人で、自分の国から追放された身なのだから。"
+    },
+    {
+      "verse": 20,
+      "en": "It seems as if you arrived just yesterday. Today should I make you wander around by going with us? I go where I must go. But as for you, go back and take your men with you. May genuine loyal love protect you!”",
+      "ja": "あなたは昨日来たばかりではないか。今日になって、どうして私たちと一緒にあちこちをさまよわせることができようか。私は行かねばならないところへ行く。しかし、あなたの方こそ引き返し、仲間たちを連れて帰りなさい。どうか真実の愛と誠実があなたを守ってくださるように」。"
+    },
+    {
+      "verse": 21,
+      "en": "But Ittai replied to the king, “As surely as the Lord lives and as my lord the king lives, wherever my lord the king is, whether it means death or life, there I will be as well!” ",
+      "ja": "しかしイタイは王に答えた。「主の御名にかけて、またわが主である王のいのちにかけて誓います。わが主である王がおられるところなら、たとえ死であれ生であれ、下僕である私も必ずそこにいます！」"
+    },
+    {
+      "verse": 22,
+      "en": "So David said to Ittai, “Come along then.” So Ittai the Gittite went along, accompanied by all his men and all the dependents who were with him.",
+      "ja": "そこでダビデはイタイに言った。「では、共に行きなさい」。こうしてガテ人イタイは、彼のすべての部下たち、および彼と一緒にいたすべての子供たちを伴って進んで行った。"
+    },
+    {
+      "verse": 23,
+      "en": "All the land was weeping loudly as all these people were leaving. As the king was crossing over the Kidron Valley, all the people were leaving on the road that leads to the desert. ",
+      "ja": "これらの人々が通り過ぎる時、その全土には大きな泣き声が響き渡っていた。王がキドロンの谷を渡る間、民は皆、荒野へと通じる道を進んで行った。"
+    },
+    {
+      "verse": 24,
+      "en": "Zadok and all the Levites who were with him were carrying the ark of the covenant of God. When they positioned the ark of God, Abiathar offered sacrifices until all the people had finished leaving the city. ",
+      "ja": "ツァドクと、彼とともにいたすべてのレビ人たちは、神の契約の箱を担いでいた。彼らが神の箱を安置すると、民が皆都から出切るまで、アビヤタルが生贄を献げ続けた。"
+    },
+    {
+      "verse": 25,
+      "en": "Then the king said to Zadok, “Take the ark of God back to the city. If I find favor in the Lord’s sight he will bring me back and enable me to see both it and his dwelling place again.",
+      "ja": "その時、王はツァドクに言った。「神の箱を都へ持ち帰りなさい。もし私が主の目の前に見い出されるなら、主は私を連れ戻し、その箱と御住まいを再び見せてくださるだろう。"
+    },
+    {
+      "verse": 26,
+      "en": "However, if he should say, ‘I do not take pleasure in you,’ then he will deal with me in a way that he considers appropriate.” ",
+      "ja": "しかし、もし主が『わたしはあなたを喜ばない』と言われるなら、その時は、ご自身が良いと判断されるように私を扱ってくださるように」。"
+    },
+    {
+      "verse": 27,
+      "en": "The king said to Zadok the priest, “Are you a seer? Go back to the city in peace! Your son Ahimaaz and Abiathar’s son Jonathan may go with you and Abiathar. ",
+      "ja": "王は祭司ツァドクに言った。「あなたは先見者ではないか。安心して都へ帰りなさい。あなたの息子アヒマアツと、アビヤタルの息子ヨナタンの二人の息子が、あなた方とともに戻るが良い。"
+    },
+    {
+      "verse": 28,
+      "en": "Look, I will be waiting at the fords of the desert until word from you reaches me.”",
+      "ja": "見よ、私はあなた方からの知らせが届くまで、荒野の浅瀬で待機する」。"
+    },
+    {
+      "verse": 29,
+      "en": "So Zadok and Abiathar took the ark of God back to Jerusalem and remained there. ",
+      "ja": "こうしてツァドクとアビヤタルは神の箱をエルサレムに持ち帰り、そこに留まった。"
+    },
+    {
+      "verse": 30,
+      "en": "As David was going up the Mount of Olives, he was weeping as he went; his head was covered and his feet were bare. All the people who were with him also had their heads covered and were weeping as they went up. ",
+      "ja": "ダビデはオリーブ山を登りながら、泣き続け、頭を覆い、裸足で歩いていた。彼と一緒にいたすべての民も、それぞれの頭を覆い、泣きながら登っていった。"
+    },
+    {
+      "verse": 31,
+      "en": "Now David had been told, “Ahithophel has sided with the conspirators who are with Absalom.” So David prayed, “Make the advice of Ahithophel foolish, O Lord.”",
+      "ja": "その時、「アヒトフェルがアブサロムと一緒に陰謀を企てている者に加わった」という知らせがダビデにもたらされた。そこでダビデは祈った。「主よ、どうかアヒトフェルの助言を愚かなものにしてください」。"
+    },
+    {
+      "verse": 32,
+      "en": "When David reached the summit, where he used to worship God, Hushai the Arkite met him with his clothes torn and dirt on his head. ",
+      "ja": "ダビデが、かつてそこで神を礼拝していた頂上に着いた時、アルキ人フシャイが服を引き裂き、頭に土をかぶって彼に出会った。"
+    },
+    {
+      "verse": 33,
+      "en": "David said to him, “If you leave with me you will be a burden to me.",
+      "ja": "ダビデは彼に言った。「もし私と一緒に通り過ぎるなら、あなたは私の負担になってしまう。"
+    },
+    {
+      "verse": 34,
+      "en": "But you will be able to counter the advice of Ahithophel if you go back to the city and say to Absalom, ‘I will be your servant, O king! Previously I was your father’s servant, and now I will be your servant.’ ",
+      "ja": "だが、もし都に戻り、アブサロムに『王よ、私はあなたの家臣となります。かつて私はあなたのお父上の家臣でしたが、これからはあなたの家臣となります』と言うなら、あなたはアヒトフェルの助言を打ち破ることができるだろう。"
+    },
+    {
+      "verse": 35,
+      "en": "Zadok and Abiathar the priests will be there with you. Everything you hear in the king’s palace you must tell Zadok and Abiathar the priests. ",
+      "ja": "祭司ツァドクとアビヤタルがそこにはあなたと一緒にいる。王の宮殿で聞くことはすべて、祭司ツァドクとアビヤタルに告げなければならない。"
+    },
+    {
+      "verse": 36,
+      "en": "Furthermore, their two sons are there with them, Zadok’s son Ahimaaz and Abiathar’s son Jonathan. You must send them to me with any information you hear.” ",
+      "ja": "さらに、彼らと一緒にその二人の息子、ツァドクの息子アヒマアツとアビヤタルの息子ヨナタンもそこにいる。あなた方が聞き得たすべての情報を、彼らの手を通して私に送りなさい」。"
+    },
+    {
+      "verse": 37,
+      "en": "So David’s friend Hushai arrived in the city, just as Absalom was entering Jerusalem. ",
+      "ja": "こうしてダビデの友人フシャイは、ちょうどアブサロムがエルサレムに入城する時に、都に到着した。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “acquired for himself.”",
+        "ja": "ヘブル語では「自分自身のために獲得した」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to run ahead of him.”",
+        "ja": "ヘブル語では「彼の前を走らせるために」。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “your servant.” So also in vv. 8, 15, 21.",
+        "ja": "ヘブル語では「あなたの下僕」。8、15、21節でも同様である。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “good and straight.”",
+        "ja": "ヘブル語では「良い、かつ正しい」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Who will make me?”",
+        "ja": "ヘブル語では「誰が私を…にしてくれるだろうか」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “a complaint and a judgment.” The expression is a hendiadys.",
+        "ja": "ヘブル語では「訴えと裁き」。この表現はヘンディアデュス（一意両語）である。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Absalom) has been specified in the translation for clarity.",
+        "ja": "ヘブル語では単に「彼は」となっているが、文脈上の主語（アブサロム）を明確にするために翻訳で補った。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “stole the heart.”",
+        "ja": "ヘブル語では「心を盗んだ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the men.”",
+        "ja": "ヘブル語では「その男たち」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT has here “forty,” but this is presumably a scribal error for “four.” The context will not tolerate a period of forty years prior to the rebellion of Absalom. The Lucianic Greek recension (τέσσαρα ἔτη, tessara ete), the Syriac Peshitta (’arba’ sanin), and Vulgate (post quattuor autem annos) in fact have the expected reading “four years.” Most English translations follow the versions in reading “four” here, although some (e.g. KJV, ASV, NASB, NKJV), following the MT, read “forty.”",
+        "ja": "マソラ本文（MT）には「40年」とあるが、これはおそらく書写上の「4年」の誤りである。アブサロムの反逆より前の40年という期間は文脈上あり得ない。ルキアノス訳のギリシャ語写本、シリア語ペシタ訳、ラテン語ウルガタ訳には「4年」という本来の読みが残っている。ほとんどの英語翻訳はこれらに従って「4年」としているが、KJV、ASV、NASB、NKJVなどの一部の訳はマソラ本文に従い「40年」としている。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “for your servant vowed a vow.” The formal court style of referring to one’s self in third person (“your servant”) has been translated here as first person for clarity.",
+        "ja": "ヘブル語では「下僕が誓いを立てたので」となっている。自分自身を三人称（「あなたの下僕」）で呼ぶ格式張った宮廷表現を、明瞭にするために一人称に訳した。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "地理的位置についてはMap5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4を参照せよ。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he”; the referent (Absalom) has been specified in the translation for clarity.",
+        "ja": "ヘブル語では「彼は」となっているが、文脈上の主語（アブサロム）を明確にするために翻訳で補った。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “say.”",
+        "ja": "ヘブル語では「言って」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “being invited and going naively and they did not know anything.”",
+        "ja": "ヘブル語では「招かれて素朴に行き、彼らは何も知らなかった」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Traditionally, “counselor,” but this term is more often associated with psychological counseling today, so “adviser” was used in the translation instead.",
+        "ja": "伝統的には「カウンセラー（相談役）」であるが、現代ではこの用語は心理カウンセリングに関連付けられることが多いため、この翻訳では「アドバイザー（助言者）」を用いた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Absalom sent for Ahithophel the Gilonite, the adviser of David, from his city, from Giloh, while he was sacrificing.” It is not entirely clear who (Absalom or Ahithophel) was offering the sacrifices.",
+        "ja": "ヘブル語では「アブサロムは祭儀を行いながら、ギロの町からダビデの助言者であるギロ人アヒトフェルを呼び寄せた」となっている。犠牲を献げたのが誰（アブサロムかアヒトフェルか）であったのかは完全に明確ではない。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the heart of the men of Israel is with Absalom.”",
+        "ja": "ヘブル語では「イスラエルの男たちの心はアブサロムと共にある」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "地理的位置についてはMap5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4を参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “Arise!”",
+        "ja": "ヘブル語では「起者よ！」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “let’s flee.”",
+        "ja": "ヘブル語では「逃げよう」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Heb “thrust.”",
+        "ja": "ヘブル語では「突き刺す」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Heb “and strike the city with the edge of the sword.”",
+        "ja": "ヘブル語では「剣の刃をもって都を打つ」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “according to all that my lord the king will choose, behold your servants!”",
+        "ja": "ヘブル語では「わが主である王が選ばれることのすべてにおいて、見よ、あなたの家臣たちを！」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and all his house.”",
+        "ja": "ヘブル語では「彼の全家族」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “women, concubines.”",
+        "ja": "ヘブル語では「女たち、そばめたち」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and they stood.”",
+        "ja": "ヘブル語では「彼らは立った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “house.”",
+        "ja": "ヘブル語では「家」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “crossing over near his hand.”",
+        "ja": "ヘブル語では「彼の手のそばを通り過ぎて」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “crossing over near the face of.”",
+        "ja": "ヘブル語では「顔のそばを通り過ぎて」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “new” is not in the Hebrew text, but is supplied in the translation to make it clear that David refers to Absalom, not himself.",
+        "ja": "「新しい」という言葉はヘブル語本文にはないが、ダビデが自分自身ではなくアブサロムを指していることを明確にするために補われた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “place.”",
+        "ja": "ヘブル語では「場所」。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “brothers,” but see v. 22.",
+        "ja": "ヘブル語では「兄弟たち」だが、22節を参照せよ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “loyal love and truth.” The expression is a hendiadys.",
+        "ja": "ヘブル語では「愛と真実」。この表現はヘンディアデュス（一意両語）である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “be with.”",
+        "ja": "ヘブル語では「〜と共にいる」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “whether for death or for life.”",
+        "ja": "ヘブル語では「死のためであれ生のためであれ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “your servant.”",
+        "ja": "ヘブル語では「あなたの下僕」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Come and cross over.”",
+        "ja": "ヘブル語では「来て、通り過ぎよ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “crossed over.”",
+        "ja": "ヘブル語では「通り過ぎた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “all the little ones.”",
+        "ja": "ヘブル語では「すべての小さな子供たち」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “with a great voice.”",
+        "ja": "ヘブル語では「大きな声で」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “crossing over.”",
+        "ja": "ヘブル語では「通り過ぎること」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “crossing near the face of.”",
+        "ja": "ヘブル語では「〜の顔のそばを通り過ぎて」。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “crossing from.”",
+        "ja": "ヘブル語では「〜から通り過ぎる」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “as [is] good in his eyes.”",
+        "ja": "ヘブル語では「彼の目に良いように」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek tradition understands the Hebrew word as an imperative (“see”). Most Greek mss have ἴδετε (idete); the Lucianic recension has βλέπε (blepe). It could just as well be taken as a question: “Don’t you see what is happening?” The present translation takes the word as a question, with the implication that Zadok is a priest and not a prophet (i.e., “seer”) and therefore unable to know what the future holds.",
+        "ja": "ギリシャ語の伝統では、このヘブル語の単語を命令形（「見よ」）と解釈している。大半のギリシャ語写本にはἴδετε (idete)があり、ルキアノス改訂版にはβλέπε (blepe)がある。また、「何が起きているのか分からないのか」という疑問文として捉えることもできる。今回の翻訳では、ツァドクが預言者（すなわち「先見者」）ではなく祭司であり、それゆえに未来に何が起こるかを知ることができないという含意を持たせて、この言葉を疑問文として解釈している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “And Ahimaaz your son, and Jonathan the son of Abiathar, two of your sons, with you.” The pronominal suffix on the last word is plural, referring to Zadok and Abiathar.",
+        "ja": "ヘブル語では「そしてあなたの息子アヒマアツ、およびアビヤタルの息子ヨナタン、あなたの二人の息子が、あなたと共に」。最後の単語にある代名詞の接辞は複数形であり、ツァドクとアビヤタルを指している。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The pronoun is plural, referring to Zadok and Abiathar.",
+        "ja": "代名詞は複数形であり、ツァドクとアビヤタルを指している。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": ", part of the Greek tradition, the Syriac Peshitta, Targum, and Vulgate uldavid in reading “and to David,” rather than MT וְדָוִד (vÿdavid, “and David”). As Driver points out, the Hebrew verb הִגִּיד (higgid, “he related”) never uses the accusative for the person to whom something is told (S. R. Driver, Notes on the Hebrew Text and the Topography of the Books of Samuel, 316).",
+        "ja": "ギリシャ語の伝統の一部、シリア語ペシタ訳、タルグム、およびウルガタ訳では、マソラ本文のוְדָוִד (vÿdavid、「そしてダビデは」)ではなく、「そしてダビデに」と読んでいる。S. R. ドライヴァーが指摘するように、ヘブル語の動詞הִגִּיד (higgid、「彼は語った」)は、何かが告げられる相手に対して対格（直接目的語）を決して用いない（S. R. Driver, Notes on the Hebrew Text and the Topography of the Books of Samuel, 316）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “said.”",
+        "ja": "ヘブル語では「言った」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “cross over.”",
+        "ja": "ヘブル語では「通り過ぎる」。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “Will not Zadok and Abiathar the priests be there with you?” The rhetorical question draws attention to the fact that Hushai will not be alone.",
+        "ja": "ヘブル語では「祭司ツァドクとアビヤタルは、そこにあなたと一緒にいないだろうか」。この修辞疑問は、フシャイが一人ぼっちではないという事実に注意を喚起している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “from the house of the king.”",
+        "ja": "ヘブル語では「王の家から」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and you must send by their hand to me every word which you hear.” Both of the second person verb forms are plural with Zadok, Abiathar, and Hushai being the understood subjects.",
+        "ja": "ヘブル語では「そして、あなたが聞き取るすべての言葉を、彼らの手によって私に送らなければならない」。二人称の動詞の形はどちらも複数形であり、ツァドク、アビヤタル、およびフシャイがその主語として理解されている。"
+      }
+    ]
+  }
+}

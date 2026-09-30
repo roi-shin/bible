@@ -1,0 +1,268 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;delighted greatly in David.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;seeking.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;stay in.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and hide yourself.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;when I see.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;spoke good with respect to David.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;good.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he put his life into his hand.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Saul listened to the voice of Jonathan.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he was before him as before.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he struck them down with a great blow.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;[was] to.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text adds here &#8220;with his hand.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he drove the spear into the wall.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fled and escaped.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your life.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;teraphim&#8221; (also a second time in this verse and once in v. <span class=\"bibleref\" title=\"1 Samuel 19:16\">16</span>). These were statues that represented various deities. According to <span class=\"bibleref\" title=\"2 Kings 23:24\">2 Kgs 23:24</span> they were prohibited during the time of Josiah&#8217;s reform movement in the seventh century. The idol Michal placed under the covers was of sufficient size to give the mistaken impression that David lay in the bed, thus facilitating his escape.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The exact meaning of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1464;&#1489;&#1460;&#1497;&#1512;</font> (<font face=\"Scholar\">kavir</font>) is uncertain; it is found in the Hebrew Bible only here and in v. <span class=\"bibleref\" title=\"1 Samuel 19:16\">16</span>. It probably refers to a quilt made of goat&#8217;s hair, perhaps used as a fly net while one slept. See <i>HALOT</i> 458 s.v. *<font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1464;&#1489;&#1460;&#1497;&#1512;</font>. Cf. KJV, TEV &#8220;pillow&#8221;; NLT &#8220;cushion&#8221;; NAB, NRSV &#8220;net.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;at the place of its head.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Send me away! Why should I kill you?&#8221; The question has the force of a threat in this context. See P. K. McCarter, <i>I Samuel</i> (AB), 325, 26.</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221; (also in v. <span class=\"bibleref\" title=\"1 Samuel 19:23\">23</span>). the referent (Saul) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he fell down.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "1",
+      "text": "Then Saul told his son Jonathan and all his servants to kill David. But Saul’s son Jonathan liked David very much."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "2",
+      "text": "So Jonathan told David, “My father Saul is trying to kill you. So be careful tomorrow morning. Find a hiding place and stay in seclusion. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "3",
+      "text": "I will go out and stand beside my father in the field where you are. I will speak to my father about you. When I find out what the problem is, I will let you know.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "4",
+      "text": "So Jonathan spoke on David’s behalf to his father Saul. He said to him, “The king should not sin against his servant David, for he has not sinned against you. On the contrary, his actions have been very beneficial for you."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "5",
+      "text": "He risked his life when he struck down the Philistine, and the Lord gave all Israel a great victory. When you saw it, you were happy. So why would you sin against innocent blood by putting David to death for no reason?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "6",
+      "text": "Saul accepted Jonathan’s advice and took an oath, “As surely as the Lord lives, he will not be put to death.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "7",
+      "text": "Then Jonathan called David and told him all these things. Jonathan brought David to Saul, and he served him as he had done formerly. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "8",
+      "text": "Now once again there was war. So David went out to fight the Philistines. He defeated them thoroughly, and they ran away from him."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "9",
+      "text": "Then an evil spirit from the Lord came upon Saul. He was sitting in his house with his spear in his hand, while David was playing the lyre. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "10",
+      "text": "Saul tried to nail David to the wall with the spear, but he escaped from Saul’s presence, and the spear drove into the wall. David escaped quickly that night. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "11",
+      "text": "Saul sent messengers to David’s house to guard it and to kill him in the morning. Then David’s wife Michal told him, “If you do not save yourself tonight, tomorrow you will be dead!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "12",
+      "text": "So Michal lowered David through the window, and he ran away and escaped. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "13",
+      "text": "Then Michal took a household idol and put it on the bed. She put a quilt made of goats’ hair over its head and then covered the idol with a garment. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "14",
+      "text": "When Saul sent messengers to arrest David, she said, “He’s sick.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "15",
+      "text": "Then Saul sent the messengers back to see David, saying, “Bring him up to me on his bed so I can kill him.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "16",
+      "text": "When the messengers came, they found only the idol on the bed and the quilt made of goats’ hair at its head. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "17",
+      "text": "Saul said to Michal, “Why have you deceived me this way by sending my enemy away? Now he has escaped!” Michal replied to Saul, “He said to me, ‘Help me get away or else I will kill you!’”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "18",
+      "text": "Now David had run away and escaped. He went to Samuel in Ramah and told him everything that Saul had done to him. Then he and Samuel went and stayed at Naioth. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "19",
+      "text": "It was reported to Saul saying, “David is at Naioth in Ramah.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "20",
+      "text": "So Saul sent messengers to capture David. When they saw a company of prophets prophesying with Samuel standing there as their leader, the Spirit of God came upon Saul’s messengers, and they also prophesied. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "21",
+      "text": "When it was reported to Saul, he sent more messengers, but they prophesied too. So Saul sent messengers a third time, but they also prophesied. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "22",
+      "text": "Finally Saul himself went to Ramah. When he arrived at the large cistern that is in Secu, he asked, “Where are Samuel and David?” They said, “At Naioth in Ramah.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "23",
+      "text": "So Saul went to Naioth in Ramah. The Spirit of God came upon him as well, and he walked along prophesying until he came to Naioth in Ramah. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "19",
+      "verse": "24",
+      "text": "He even stripped off his clothes and prophesied before Samuel. He lay there naked all that day and night. (For that reason it is asked, “Is Saul also among the prophets?”) "
+    }
+  ]
+}

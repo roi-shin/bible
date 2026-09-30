@@ -1,0 +1,228 @@
+# 1 Samuel 25 (English)
+
+## Text
+
+**1** Samuel died, and all Israel assembled and mourned him. They buried him at his home in Ramah. Then David left and went down to the wilderness of Paran. 
+
+**2** There was a man in Maon whose business was in Carmel. This man was very wealthy; he owned 3,000 sheep and 1,000 goats. At that time he was shearing his sheep in Carmel. 
+
+**3** The man’s name was Nabal, and his wife’s name was Abigail. She was both wise and beautiful, but the man was harsh and his deeds were evil. He was a Calebite.
+
+**4** When David heard in the wilderness that Nabal was shearing his sheep, 
+
+**5** he sent 10 servants, saying to them, “Go up to Carmel to see Nabal and give him greetings in my name. 
+
+**6** Then you will say to my brother, ‘Peace to you and your house! Peace to all that is yours! 
+
+**7** Now I hear that they are shearing sheep for you. When your shepherds were with us, we neither insulted them nor harmed them the whole time they were in Carmel. 
+
+**8** Ask your own servants; they can tell you! May my servants find favor in your sight, for we have come at the time of a holiday. Please provide us—your servants and your son David—with whatever you can spare.’” 
+
+**9** So David’s servants went and spoke all these words to Nabal in David’s name. Then they paused. 
+
+**10** But Nabal responded to David’s servants, “Who is David, and who is this son of Jesse? This is a time when many servants are breaking away from their masters! 
+
+**11** Should I take my bread and my water and my meat that I have slaughtered for my shearers and give them to these men? I don’t even know where they came from!”
+
+**12** So David’s servants went on their way. When they had returned, they came and told David all these things. 
+
+**13** Then David instructed his men, “Each of you strap on your sword!” So each one strapped on his sword, and David also strapped on his sword. About 400 men followed David, while 200 stayed behind with the equipment. 
+
+**14** But one of the servants told Nabal’s wife Abigail, “David sent messengers from the wilderness to greet our lord, but he screamed at them.
+
+**15** These men were very good to us. They did not insult us, nor did we sustain any loss during the entire time we were together in the field. 
+
+**16** Both night and day they were a protective wall for us the entire time we were with them, while we were tending our flocks. 
+
+**17** Now be aware of this, and see what you can do. For disaster has been planned for our lord and his entire household. He is such a wicked person that no one tells him anything!”
+
+**18** So Abigail quickly took 200 loaves of bread, two containers of wine, five prepared sheep, five seahs of roasted grain, 100 bunches of raisins, and 200 lumps of pressed figs. She loaded them on donkeys 
+
+**19** and said to her servants, “Go on ahead of me. I will come after you.” But she did not tell her husband Nabal. 
+
+**20** Riding on her donkey, she went down under cover of the mountain. David and his men were coming down to meet her, and she encountered them.
+
+**21** Now David had been thinking, “In vain I guarded everything that belonged to this man in the wilderness. I didn’t take anything from him. But he has repaid my good with evil. 
+
+**22** God will severely punish David, if I leave alive until morning even one male from all those who belong to him!”
+
+**23** When Abigail saw David, she got down quickly from the donkey, threw herself facedown before David, and bowed to the ground. 
+
+**24** Falling at his feet, she said, “My lord, I accept all the guilt! But please let your female servant speak to you! Please listen to the words of your servant! 
+
+**25** My lord should not pay attention to this wicked man Nabal. He simply lives up to his name! His name means ‘fool,’ and he is indeed foolish! But I, your servant, did not see the servants my lord sent. 
+
+**26** “Now, my lord, as surely as the Lord lives and as surely as you live, it is the Lord who has kept you from shedding blood and taking matters into your own hands. Now may your enemies and those who seek to harm my lord be like Nabal. 
+
+**27** Now let this present that your servant has brought to my lord be given to the servants who follow my lord. 
+
+**28** Please forgive the sin of your servant, for the Lord will certainly establish a lasting dynasty for my lord, because my lord fights the battles of the Lord. May no evil be found in you all your days! 
+
+**29** When someone sets out to chase you and to take your life, the life of my lord will be wrapped securely in the bag of the living by the Lord your God. But he will sling away the lives of your enemies from the sling’s pocket! 
+
+**30** The Lord will do for my lord everything that he promised you, and he will make you a leader over Israel. 
+
+**31** Your conscience will not be overwhelmed with guilt for having poured out innocent blood and for having taken matters into your own hands. When the Lord has granted my lord success, please remember your servant.” 
+
+**32** Then David said to Abigail, “Praised be the Lord, the God of Israel, who has sent you this day to meet me!
+
+**33** Praised be your good judgment! May you yourself be rewarded for having prevented me this day from shedding blood and taking matters into my own hands! 
+
+**34** Otherwise, as surely as the Lord, the God of Israel, lives—he who has prevented me from harming you—if you had not come so quickly to meet me, by morning’s light not even one male belonging to Nabal would have remained alive!”
+
+**35** Then David took from her hand what she had brought to him. He said to her, “Go back to your home in peace. Be assured that I have listened to you and responded favorably.” 
+
+**36** When Abigail went back to Nabal, he was holding a banquet in his house like that of the king. Nabal was having a good time and was very intoxicated. She told him absolutely nothing until morning’s light. 
+
+**37** In the morning, when Nabal was sober, his wife told him about these matters. He had a stroke and was paralyzed. 
+
+**38** After about 10 days the Lord struck Nabal down and he died. 
+
+**39** When David heard that Nabal had died, he said, “Praised be the Lord who has vindicated me and avenged the insult that I suffered from Nabal! The Lord has kept his servant from doing evil, and he has repaid Nabal for his evil deeds.” Then David sent word to Abigail and asked her to become his wife. 
+
+**40** So the servants of David went to Abigail at Carmel and said to her, “David has sent us to you to bring you back to be his wife.” 
+
+**41** She arose, bowed her face toward the ground, and said, “Your female servant, like a lowly servant, will wash the feet of the servants of my lord.” 
+
+**42** Then Abigail quickly went and mounted her donkey, with five of her female servants accompanying her. She followed David’s messengers and became his wife. 
+
+**43** David had also married Ahinoam from Jezreel; the two of them became his wives. 
+
+**44** (Now Saul had given his daughter Michal, David’s wife, to Paltiel son of Laish, who was from Gallim.) 
+
+## Notes
+
+### Verse 1 - Note 1
+[写本注]  The LXX reads “Maon” here instead of “Paran,” perhaps because the following account of Nabal is said to be in Maon (v. 2). This reading is followed by a number of English versions (e.g., NAB, NIV, NCV, NLT). The MT, however, reads “Paran,” a location which would parallel this portion of David’s life with that of the nation Israel which also spent time in Paran (Num 10:12). Also, the desert of Paran was on the southern border of Judah’s territory and would be the most isolated location for hiding from Saul.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “great.”
+
+### Verse 3 - Note 1
+[解説]  The name נָבָל (Nabal) means “foolish” or “senseless” in Hebrew, and as an adjective the word is used especially of persons who have no perception of ethical or religious claims. It is an apt name for this character, who certainly typifies such behavior.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “good of insight”; KJV “of good understanding”; NAB, NIV, TEV “intelligent”; NRSV “clever.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “David”; for stylistic reasons the pronoun has been used in the translation.
+
+### Verse 5 - Note 2
+[翻訳注]  Or “young men.”
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “and David said to the young men.”
+
+### Verse 5 - Note 4
+[翻訳注]  Heb “and inquire concerning him in my name in regard to peace.”
+
+### Verse 6 - Note 1
+[写本注]  The text is difficult here. The MT and most of the early versions support the reading לֶחָי (lekhai, “to life,” or “to the one who lives”). Some of the older English versions (KJV, ASV; cf. NKJV) took the expression to mean “to him who lives (in prosperity),” but this translation requires reading a good deal into the words. While the expression could have the sense of “Long life to you!” (cf. NIV, NJPS) or perhaps “Good luck to you!” this seems somewhat redundant in light of the salutation that follows in the context. The Latin Vulgate has fratribus meis (“to my brothers”), which suggests that Jerome understood the Hebrew word to have an alef that is absent in the MT (i.e., לֶאֱחָי, le’ekhay). Jerome’s plural, however, remains a problem, since in the context David is addressing a single individual, namely Nabal, and not a group. However, it is likely that the Vulgate witnesses to a consonantal Hebrew text that is to be preferred here, especially if the word were to be revocalized as a singular rather than a plural. While it is impossible to be certain about this reading, the present translation essentially follows the Vulgate in reading “my brother” (so also NJB; cf. NAB, RSV, NRSV).
+
+### Verse 8 - Note 1
+[写本注]  The translation follows many medieval Hebrew mss in reading בָּאנוּ (ba’nu, “we have come”) rather than the MT’s בָּנוּ (banu, “we have built”).
+
+### Verse 8 - Note 2
+[翻訳注]  This refers to the ten servants sent by David.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “whatever your hand will find.”
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “him”; the referent (David) has been specified in the translation for clarity.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “bless.”
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “all the days we walked about with them when we were.”
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “all his house” (so ASV, NRSV); NAB, NLT “his whole family.”
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “he is a son of worthlessness.”
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “skins.”
+
+### Verse 18 - Note 2
+[解説]  The seah was a dry measure equal to one-third of an ephah, or not quite eleven quarts.
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “said.”
+
+### Verse 22 - Note 1
+[写本注]  Heb “Thus God will do to the enemies of David and thus he will add.” Most of the Old Greek ms tradition has simply “David,” with no reference to his enemies. In OT imprecations such as the one found in v. 22 it is common for the speaker to direct malediction toward himself as an indication of the seriousness with which he regards the matter at hand. In other words, the speaker invites on himself dire consequences if he fails to fulfill the matter expressed in the oath. However, in the situation alluded to in v. 22 the threat actually does not come to fruition due to the effectiveness of Abigail’s appeal to David in behalf of her husband Nabal. Instead, David is placated through Abigail’s intervention. It therefore seems likely that the reference to “the enemies of David” in the MT of v. 22 is the result of a scribal attempt to deliver David from the implied consequences of this oath. The present translation follows the LXX rather than the MT here.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “one who urinates against a wall” (also in v. 34); KJV “any that pisseth against the wall.”
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “and foolishness is with him.”
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “my lord’s servants, whom you sent.”
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “blessing.”
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “are walking at the feet of.”
+
+### Verse 29 - Note 1
+[翻訳注]  Cf. KJV, NAB, NIV, NRSV “bundle”; NLT “treasure pouch.”
+
+### Verse 30 - Note 1
+[翻訳注]  Heb “according to all which he spoke, the good concerning you.”
+
+### Verse 30 - Note 2
+[翻訳注]  Heb “appoint.”
+
+### Verse 31 - Note 1
+[翻訳注]  Heb “and this will not be for you for staggering and for stumbling of the heart of my lord.”
+
+### Verse 31 - Note 2
+[翻訳注]  Heb “and the Lord will do well for my lord.”
+
+### Verse 32 - Note 1
+[翻訳注]  Heb “blessed” (also in vv. 33, 39).
+
+### Verse 33 - Note 1
+[翻訳注]  Heb “blessed.”
+
+### Verse 35 - Note 1
+[翻訳注]  Heb “up.”
+
+### Verse 35 - Note 2
+[翻訳注]  Heb “your voice.”
+
+### Verse 35 - Note 3
+[翻訳注]  Heb “I have lifted up your face.”
+
+### Verse 36 - Note 1
+[翻訳注]  Heb “and the heart of Nabal was good upon him”; NASB, NRSV “Nabal’s heart was merry within him”; NIV “he was in high spirits”; NCV, TEV “was in a good mood”; CEV “was very drunk and feeling good.”
+
+### Verse 36 - Note 2
+[翻訳注]  Heb “and she did not tell him a thing, small or large.”
+
+### Verse 37 - Note 1
+[翻訳注]  Heb “when the wine had gone out from Nabal.”
+
+### Verse 37 - Note 2
+[翻訳注]  Heb “and his heart died within him and he became a stone.” Cf. TEV, NLT “stroke”; CEV “heart attack.” For an alternative interpretation than that presented above, see Marjorie O’Rourke Boyle, “The Law of the Heart: The Death of a Fool (),” JBL 120 (2001): 401-27, who argues that a medical diagnosis is not necessary here. Instead, the passage makes a connection between the heart and the law; Nabal dies for his lawlessness.
+
+### Verse 39 - Note 1
+[翻訳注]  Heb “who has argued the case of my insult from the hand of Nabal.”
+
+### Verse 39 - Note 2
+[翻訳注]  Heb “his servant he has held back from evil, and the evil of Nabal the Lord has turned back on his head.”
+
+### Verse 41 - Note 1
+[翻訳注]  Heb “Here is your maidservant, for a lowly servant to wash.”
+
+### Verse 42 - Note 1
+[翻訳注]  Heb “going at her feet.”
+
+### Verse 43 - Note 1
+[翻訳注]  Heb “taken.”
