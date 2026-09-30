@@ -288,8 +288,9 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
             text_data = raw_data["text_data"]
     else:
         notes, text_data = fetch_all_notes_for_chapter(book, chapter)
+        raw_data = {"notes": notes, "text_data": text_data}
         with open(raw_file, "w", encoding="utf-8") as f:
-            json.dump({"notes": notes, "text_data": text_data}, f, ensure_ascii=False, indent=2)
+            json.dump(raw_data, f, ensure_ascii=False, indent=2)
 
     # テンポラリファイル用にパスを上書き (translate_with_agy 内で使用するため)
     global temp_in_path
@@ -297,7 +298,7 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
 
     # 翻訳
     print(f"  翻訳中 (agy使用): {book} {chapter}")
-    translated_data = translate_with_agy(raw_data, use_api) if "raw_data" in locals() else translate_with_agy({"notes": notes, "text_data": text_data}, use_api)
+    translated_data = translate_with_agy(raw_data, use_api)
 
     result = {
         "book": book,
