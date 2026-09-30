@@ -313,9 +313,36 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
         vn = int(v.get("verse_num", v.get("verse", 0)))
         en_text_map[vn] = v.get("text", "")
 
+    # raw_dataからノートの英語原文マップを作成
+    en_notes_map = {}
+    for v_num_str, notes_list in raw_data.get("notes", {}).items():
+        v_num = int(v_num_str) if str(v_num_str).strip().isdigit() else 0
+        en_notes_map[v_num] = {}
+        for pos, text in notes_list:
+            en_notes_map[v_num][pos] = text
+
+    def extract_text(value):
+        if isinstance(value, str):
+            return value
+        if isinstance(value, list):
+            return " ".join(extract_text(v) for v in value)
+        if isinstance(value, dict):
+            return " ".join(extract_text(v) for v in value.values())
+        return str(value)
+
     # 翻訳結果の構築
-    for v in translated_data.get("verses", []):
-        verse_num = int(v["verse"])
+    for i, v in enumerate(translated_data.get("verses", [])):
+        verse_num_raw = v.get("verse", v.get("verse_num"))
+        if verse_num_raw is not None:
+            verse_num = int(verse_num_raw)
+        else:
+            # モデルが節番号を省略した場合、元のテキストデータの順番から推測
+            raw_verses = raw_data.get("text_data", [])
+            if i < len(raw_verses):
+                verse_num = int(raw_verses[i].get("verse_num", raw_verses[i].get("verse", 0)))
+            else:
+                continue
+        
         ja_text = v.get("ja", v.get("text", ""))
         # 英語原文はAPIレスポンスに頼らず、raw_dataから確実に取得
         en_text = en_text_map.get(verse_num, v.get("text", v.get("en", "")))
@@ -326,8 +353,8 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
             "ja": ja_text,
         })
 
-    raw_notes = translated_data.get("notes", {})
     # モデルによっては notes が list[{verse_num, pos, ja, text}] 形式で返る場合があるため正規化
+    raw_notes = translated_data.get("notes", {})
     if isinstance(raw_notes, list):
         normalized = {}
         for n in raw_notes:
@@ -339,18 +366,40 @@ def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
             normalized[key].append(n)
         raw_notes = normalized
 
-    for verse_num_str, verse_notes in raw_notes.items():
+    # raw_dataのnotesをベースに結果を構築（モデル出力の欠落・省略を防ぐため）
+    for v_num_str, notes_list in raw_data.get("notes", {}).items():
         translated_notes = []
-        for n in verse_notes:
-            ja_note = n.get("ja", n.get("text", ""))
-            en_note = n.get("text", "")
-            pos = n.get("pos", n.get("note_pos", len(translated_notes) + 1))
+        # モデルが返した対応する節のノート
+        model_verse_notes = raw_notes.get(str(v_num_str), [])
+        
+        for i, raw_note in enumerate(notes_list):
+            pos = raw_note[0]
+            en_note = raw_note[1]
+            
+            # モデルの出力から対応するposのjaを探す
+            ja_note = ""
+            found = False
+            for mn in model_verse_notes:
+                if isinstance(mn, dict):
+                    mn_pos = mn.get("pos", mn.get("note_pos"))
+                    if str(mn_pos) == str(pos):
+                        ja_note = extract_text(mn.get("ja", mn.get("text", "")))
+                        found = True
+                        break
+            
+            # posでマッチしなかった場合、順番でフォールバック
+            if not found and i < len(model_verse_notes):
+                mn = model_verse_notes[i]
+                if isinstance(mn, dict):
+                    ja_note = extract_text(mn.get("ja", mn.get("text", "")))
+            
             translated_notes.append({
                 "pos": pos,
                 "en": en_note,
                 "ja": ja_note,
             })
-        result["notes"][str(verse_num_str)] = translated_notes
+            
+        result["notes"][str(v_num_str)] = translated_notes
 
     # キャッシュ保存
     with open(data_file, "w", encoding="utf-8") as f:

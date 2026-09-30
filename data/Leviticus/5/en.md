@@ -43,58 +43,175 @@
 ## Notes
 
 ### Verse 1 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;And a person when he sins.&#8221; Most English versions translate this as the protasis of a conditional clause: &#8220;if a person sins&#8221; (NASB, NIV).<p class="note"><span class="notetype">sn</span> The same expression occurs in <span class="bibleref" title="Leviticus 4:2">Lev 4:2</span> where it introduces sins done &#8220;by straying unintentionally from any of the commandments of the <sc>Lord</sc> which must not be done&#8221; (see the notes there). <span class="bibleref" title="Leviticus 5:1-13">Lev 5:1-13</span> is an additional section of sin offering regulations directed at violations other than those referred to by this expression in <span class="bibleref" title="Leviticus 4:2">Lev 4:2</span> (see esp. <span class="bibleref" title="Leviticus 5:1-6">5:1-6</span>), and expanding on the offering regulations for the common person in <span class="bibleref" title="Leviticus 4:27-35">Lev 4:27-35</span> with concessions to the poor common person (<span class="bibleref" title="Leviticus 5:7-13">5:7-13</span>).</p></div>
 
+### Verse 1 - Note 2
+<div class="note"><span class="notetype">tn</span> The words &#8220;against one who fails to testify&#8221; are not in the Hebrew text, but have been supplied to make sense of the remark about the &#8220;curse&#8221; (&#8220;imprecation&#8221; or &#8220;oath&#8221;; cf. ASV &#8220;adjuration&#8221;; NIV &#8220;public charge&#8221;) for the modern reader. For the interpretation of this verse reflected in the present translation see J. Milgrom, <i>Leviticus</i> (AB), 1:292-97.</div>
+
+### Verse 1 - Note 3
+<div class="note"><span class="notetype">tn</span> The words &#8220;what had happened&#8221; are not in the Hebrew text, but are implied.</div>
+
+### Verse 1 - Note 4
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and hears a voice of curse, and he is a witness or he saw or he knew, if he does not declare.&#8221;</div>
+
+### Verse 1 - Note 5
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he shall bear his iniquity.&#8221; The rendering &#8220;bear the punishment (for the iniquity)&#8221; reflects the use of the word &#8220;iniquity&#8221; to refer to the punishment for iniquity (cf. NRSV, NLT &#8220;subject to punishment&#8221;). It is sometimes referred to as the consequential use of the term (cf. <span class="bibleref" title="Leviticus 5:17;7:18;10:17">Lev 5:17; 7:18; 10:17</span>; etc.).</div>
 
 ### Verse 2 - Note 1
+<div class="note"><span class="notetype">tc</span> The insertion of the words &#8220;when there is&#8221; is a reflection of the few Hebrew <sc>mss</sc>, Smr, and LXX that have <font face="Galaxie Unicode Hebrew">&#1499;&#1468;&#1460;&#1497;</font> (<font face="Scholar">ki</font>, &#8220;when, if&#8221;; cf. vv. <span class="bibleref" title="Leviticus 5:3">3</span> and esp. 4) rather than the MT&#8217;s <font face="Galaxie Unicode Hebrew">&#1488;&#1458;&#1513;&#1473;&#1462;&#1512;</font> (&#8217;<font face="Scholar">asher</font>, &#8220;who&#8221;). Many English versions render this as a conditional clause (&#8220;if&#8221;).</div>
 
+### Verse 2 - Note 2
+<div class="note"><span class="notetype">tn</span> The word &#8220;ceremonially&#8221; has been supplied in the translation to clarify that the uncleanness involved is ritual or ceremonial in nature.</div>
+
+### Verse 2 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and it is hidden from him,&#8221; meaning that the person who contracted the ceremonial uncleanness was not aware at the time what had happened, but later found out that he had become ceremonially unclean. This same phrase occurs again in both vv. <span class="bibleref" title="Leviticus 5:3,4">3 and 4</span>.</div>
+
+### Verse 2 - Note 4
+<div class="note"><span class="notetype">sn</span> <span class="bibleref" title="Leviticus 5:2-3">Lev 5:2-3</span> are parallel laws of uncleanness (contracted from animals and people, respectively), and both seem to assume that the contraction of uncleanness was originally unknown to the person (vv. <span class="bibleref" title="Leviticus 5:2,3">2 and 3</span>) but became known to him or her at a later time (v. <span class="bibleref" title="Leviticus 5:3">3</span>; i.e., &#8220;has come to know&#8221; in v. <span class="bibleref" title="Leviticus 5:3">3</span> is to be assumed for v. <span class="bibleref" title="Leviticus 5:2">2</span> as well). Uncleanness itself did not make a person &#8220;guilty&#8221; unless he or she failed to handle it according to the normal purification regulations (see, e.g., &#8220;wash his clothes and bathe with water, and he will be unclean till evening,&#8221; <span class="bibleref" title="Leviticus 15:5">Lev 15:5</span> NIV; cf. <span class="bibleref" title="Leviticus 11:39-40;15:5-12,16-24">Lev 11:39-40; 15:5-12, 16-24</span>; , etc.). The problem here in <span class="bibleref" title="Leviticus 5:2-3">Lev 5:2-3</span> is that, because the person had not been aware of his or her uncleanness, he or she had incurred guilt for not carrying out these regular procedures, and it would now be too late for that. Thus, the unclean person needs to bring a sin offering to atone for the contamination caused by his or her neglect of the purity regulations.</div>
 
 ### Verse 3 - Note 1
-
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;or if he touches uncleanness of mankind to any of his uncleanness which he becomes unclean in it.&#8221;</div>
 
 ### Verse 4 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;to speak thoughtlessly&#8221;; cf. NAB &#8220;rashly utters an oath.&#8221;</div>
 
+### Verse 4 - Note 2
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and is guilty to one from these,&#8221; probably referring here to any of &#8220;these&#8221; things about which one might swear a thoughtless oath (J. E. Hartley, <i>Leviticus</i> [WBC], 45), with the word &#8220;oath&#8221; supplied in the translation for clarity. Another possibility is that &#8220;to one from these&#8221; is a dittography from v. <span class="bibleref" title="Leviticus 5:5">5</span> (cf. the note on v. <span class="bibleref" title="Leviticus 5:5">5</span>a), and that v. <span class="bibleref" title="Leviticus 5:4">4</span> ends with &#8220;and is guilty&#8221; like vv. <span class="bibleref" title="Leviticus 5:2,3">2 and 3</span> (J. Milgrom, <i>Leviticus</i> [AB], 1:300).</div>
 
 ### Verse 5 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and it shall happen when he becomes guilty to one from these,&#8221; referring to any of &#8220;these&#8221; possible transgressions in <span class="bibleref" title="Leviticus 5:1-4">Lev 5:1-4</span>. <i>Tg. Onq.</i>, the original Greek translation, and the Latin Vulgate omit this clause, possibly due to homoioteleuton because of the repetition of &#8220;to one from these&#8221; from the end of v. <span class="bibleref" title="Leviticus 5:4">4</span> in v. <span class="bibleref" title="Leviticus 5:5">5</span>a (cf. the note on v. <span class="bibleref" title="Leviticus 5:4">4</span>b).<p class="note"><span class="notetype">sn</span> What all the transgressions in <span class="bibleref" title="Leviticus 5:1-4">Lev 5:1-4</span> have in common is that the time is past for handling the original situation properly (i.e., testifying in court, following purity regulations, or fulfilling an oath), so now the person has become guilty and needs to follow corrective sacrificial procedures.</p></div>
 
+### Verse 5 - Note 2
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;which he sinned on it&#8221;; cf. ASV &#8220;confess that wherein he hath sinned&#8221;; NCV &#8220;must tell how he sinned.&#8221;</div>
 
 ### Verse 6 - Note 1
+<div class="note"><span class="notetype">tn</span> In this context the word for &#8220;guilt&#8221; (<font face="Galaxie Unicode Hebrew">&#1488;&#1464;&#1513;&#1473;&#1464;&#1501;</font>, &#8217;<font face="Scholar">asham</font>) refers to the &#8220;penalty&#8221; for incurring guilt, the so-called consequential <font face="Galaxie Unicode Hebrew">&#1488;&#1464;&#1513;&#1473;&#1464;&#1501;</font> (J. Milgrom, <i>Leviticus</i> [AB], 1:303; cf. the note on <span class="bibleref" title="Leviticus 5:1">Lev 5:1</span>).</div>
 
+### Verse 6 - Note 2
+<div class="note"><span class="notetype">sn</span> The focus of sin offering &#8220;atonement&#8221; was purging impurities from the tabernacle (see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>).</div>
+
+### Verse 6 - Note 3
+<div class="note"><span class="notetype">tn</span> See the note on <span class="bibleref" title="Leviticus 4:26">4:26</span> regarding the use of <font face="Galaxie Unicode Hebrew">&#1502;&#1460;&#1503;</font> (<font face="Scholar">min</font>).</div>
 
 ### Verse 7 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and if his hand does not reach enough of a flock animal&#8221; (see the note on v. <span class="bibleref" title="Leviticus 5:11">11</span> below). The term translated &#8220;animal from the flock&#8221; (<font face="Galaxie Unicode Hebrew">&#1513;&#1474;&#1462;&#1492;</font>, <font face="Scholar">seh</font>) is often translated &#8220;lamb&#8221; (e.g., KJV, NASB, NIV, NCV) or &#8220;sheep&#8221; (e.g., NRSV, TEV, NLT), but it clearly includes either a sheep or a goat here (cf. v. <span class="bibleref" title="Leviticus 5:6">6</span>), referring to the smaller pasture animals as opposed to the larger ones (i.e., cattle; cf. <span class="bibleref" title="Leviticus 4:3">4:3</span>). Some English versions use the more generic &#8220;animal&#8221; (e.g., NAB, CEV).</div>
 
+### Verse 7 - Note 2
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he shall bring his guilt which he sinned,&#8221; which is an abbreviated form of <span class="bibleref" title="Leviticus 5:6">Lev 5:6</span>, &#8220;and he shall bring his [penalty for] guilt to the <sc>Lord</sc> for his sin which he committed.&#8221; The words &#8220;for his sin&#8221; have been left out in v. <span class="bibleref" title="Leviticus 5:7">7</span>, and &#8220;to the <sc>Lord</sc>&#8221; has been moved so that it follows the mention of the birds.</div>
+
+### Verse 7 - Note 3
+<div class="note"><span class="notetype">tn</span> See the note on <span class="bibleref" title="Leviticus 1:14">Lev 1:14</span> above.</div>
 
 ### Verse 8 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;he.&#8221; The subject (&#8220;he&#8221;) refers to the priest here, not the offerer who presented the birds to the priest (cf. v. <span class="bibleref" title="Leviticus 5:8">8</span>a).</div>
 
+### Verse 8 - Note 2
+<div class="note"><span class="notetype">sn</span> The action seems to involve both a twisting action, breaking the neck of the bird and severing its vertebrae, as well as pinching or nipping the skin, but in this case not severing the head from the main body (note the rest of this verse).</div>
+
+### Verse 8 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;he shall not divide [it]&#8221; (see J. Milgrom, <i>Leviticus</i> [AB], 1:305).</div>
 
 ### Verse 9 - Note 1
+<div class="note"><span class="notetype">tn</span> The Hebrew verb <font face="Galaxie Unicode Hebrew">&#1493;&#1456;&#1492;&#1460;&#1494;&#1468;&#1464;&#1492;</font> (<font face="Scholar">v&#255;hizzah</font>, Hiphil of <font face="Galaxie Unicode Hebrew">&#1504;&#1464;&#1494;&#1464;&#1492;</font>, <font face="Scholar">nazah</font>) does indeed mean &#8220;sprinkle&#8221; or &#8220;splatter&#8221; (cf. <span class="bibleref" title="Leviticus 4:6,17">Lev 4:6, 17</span>). Contrast &#8220;splash&#8221; in <span class="bibleref" title="Leviticus 1:5">Lev 1:5</span>, etc. (<font face="Galaxie Unicode Hebrew">&#1494;&#1464;&#1512;&#1464;&#1511;</font>, <font face="Scholar">zaraq</font>).</div>
 
+### Verse 9 - Note 2
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;the remainder in the blood.&#8221; The Heb. preposition &#8220;in&#8221; (<font face="Galaxie Unicode Hebrew">&#1489;&#1468;&#1456;</font>, <font face="Scholar">b&#255;</font>) is used here to mean &#8220;some among&#8221; a whole collection of something.</div>
 
 ### Verse 10 - Note 1
+<div class="note"><span class="notetype">tn</span> The word &#8220;bird&#8221; is not in the Hebrew text, but is supplied in the translation for clarity.</div>
 
+### Verse 10 - Note 2
+<div class="note"><span class="notetype">sn</span> The term &#8220;[standard] regulation&#8221; (<font face="Galaxie Unicode Hebrew">&#1502;&#1460;&#1513;&#1473;&#1456;&#1508;&#1468;&#1464;&#1496;</font>, <font face="Scholar">mishppat</font>) here refers to the set of regulations for burnt offering birds in <span class="bibleref" title="Leviticus 1:14-17">Lev 1:14-17</span>.</div>
+
+### Verse 10 - Note 3
+<div class="note"><span class="notetype">sn</span> The focus of sin offering &#8220;atonement&#8221; was purging impurities from the tabernacle (see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>).</div>
+
+### Verse 10 - Note 4
+<div class="note"><span class="notetype">tn</span> See the note on <span class="bibleref" title="Leviticus 4:26">4:26</span> with regard to <font face="Galaxie Unicode Hebrew">&#1502;&#1460;&#1503;</font>, <font face="Scholar">min</font>.</div>
+
+### Verse 10 - Note 5
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;there shall be forgiveness to him&#8221; or &#8220;it shall be forgiven to him&#8221; (KJV similar).</div>
 
 ### Verse 11 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and if his hand does not reach [or is not sufficient] to&#8221;; cf. NASB &#8220;if his means are insufficient for.&#8221; The expression is the same as that in <span class="bibleref" title="Leviticus 5:7">Lev 5:7</span> above except for the verb: <font face="Galaxie Unicode Hebrew">&#1504;&#1464;&#1513;&#1474;&#1463;&#1490;</font> (<font face="Scholar">nasag</font>, &#8220;to collect, to reach, to be sufficient&#8221;) is used here, but <font face="Galaxie Unicode Hebrew">&#1504;&#1464;&#1490;&#1463;&#1506;</font> (<font face="Scholar">nagah</font>, &#8220;to touch, to reach&#8221;) is used in v. <span class="bibleref" title="Leviticus 5:7">7</span>. Smr has the former in both v. <span class="bibleref" title="Leviticus 5:7,11">7 and 11</span>.</div>
 
+### Verse 11 - Note 2
+<div class="note"><span class="notetype">tn</span> See the note on <span class="bibleref" title="Leviticus 1:14">Lev 1:14</span> above (cf. also <span class="bibleref" title="Leviticus 5:7">5:7</span>).</div>
+
+### Verse 11 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he shall bring his offering which he sinned.&#8221; Like the similar expression in v. <span class="bibleref" title="Leviticus 5:7">7</span> above (see the note there), this is an abbreviated form of <span class="bibleref" title="Leviticus 5:6">Lev 5:6</span>, &#8220;and he shall bring his [penalty for] guilt to the <sc>Lord</sc> for his sin which he committed.&#8221; Here the words &#8220;to the <sc>Lord</sc> for his sin&#8221; have been left out, and &#8220;his [penalty for] guilt&#8221; has been changed to &#8220;his offering.&#8221;</div>
+
+### Verse 11 - Note 4
+<div class="note"><span class="notetype">sn</span> <i>A tenth of an ephah</i> would be about 2.3 liters, one day&#8217;s ration for a single person (J. Milgrom, <i>Leviticus</i> [AB], 1:306). English versions handle the amount somewhat differently, cf. NCV &#8220;about two quarts&#8221;; TEV &#8220;one kilogramme&#8221;; CEV &#8220;two pounds.&#8221;</div>
+
+### Verse 11 - Note 5
+<div class="note"><span class="notetype">tn</span> See the note on <span class="bibleref" title="Leviticus 2:1">Lev 2:1</span> above.</div>
 
 ### Verse 12 - Note 1
-
+<div class="note"><span class="notetype">sn</span> The &#8220;memorial portion&#8221; (<font face="Galaxie Unicode Hebrew">&#1488;&#1463;&#1494;&#1456;&#1499;&#1468;&#1464;&#1512;&#1464;&#1492;</font>, &#8217;<font face="Scholar">azkkarah</font>) was the part of the grain offering that was burnt on the altar (<span class="bibleref" title="Leviticus 2:2">Lev 2:2</span>), as opposed to the remainder, which was normally consumed by the priests (<span class="bibleref" title="Leviticus 2:3">Lev 2:3</span>; see the full regulations in <span class="bibleref" title="Leviticus 6:14-23">Lev 6:14-23</span> [<span class="bibleref" title="Leviticus 6:7-16">6:7-16</span> HT]). It was probably intended to call to mind (i.e., memorialize) before the <sc>Lord</sc> the reason for the presentation of the particular offering (see the remarks in R. E. Averbeck, <i>NIDOTTE</i> 1:335-39).</div>
 
 ### Verse 13 - Note 1
+<div class="note"><span class="notetype">sn</span> The focus of sin offering &#8220;atonement&#8221; was purging impurities from the tabernacle (see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>).</div>
 
+### Verse 13 - Note 2
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;from one from these,&#8221; referring to the four kinds of violations of the law delineated in <span class="bibleref" title="Leviticus 5:1-4">Lev 5:1-4</span> (see the note on <span class="bibleref" title="Leviticus 5:5">Lev 5:5</span> above and cf. <span class="bibleref" title="Leviticus 4:27">Lev 4:27</span>).</div>
+
+### Verse 13 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;there shall be forgiveness to him&#8221; or &#8220;it shall be forgiven to him&#8221; (KJV similar).</div>
+
+### Verse 13 - Note 4
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and it&#8221;; the referent (the remaining portion of the offering) has been specified in the translation for clarity.</div>
+
+### Verse 13 - Note 5
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and it shall be to the priest like the grain offering,&#8221; referring to the rest of the grain that was not offered on the altar (cf. the regulations in <span class="bibleref" title="Leviticus 2:3,10">Lev 2:3, 10</span>).</div>
 
 ### Verse 14 - Note 1
-
+<div class="note"><span class="notetype">sn</span> The quotation introduced here extends from <span class="bibleref" title="Leviticus 5:14">Lev 5:14</span> through <span class="bibleref" title="Leviticus 5:19">5:19</span>, encompassing the first main section of guilt offering regulations. Compare the notes on <span class="bibleref" title="Leviticus 1:1;4:1;6:1">Lev 1:1; 4:1; and 6:1</span> [5:20 HT].</div>
 
 ### Verse 15 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;trespasses a trespass&#8221; (verb and direct object from the same Hebrew root, <font face="Galaxie Unicode Hebrew">&#1502;&#1463;&#1506;&#1463;&#1500;</font>, <font face="Scholar">ma</font>&#8217;<font face="Scholar">al</font>); cf. NIV &#8220;commits a violation.&#8221; The word refers to some kind of overstepping of the boundary between that which is common (i.e., available for common use by common people) and that which is holy (i.e., to be used only for holy purposes because it has been consecrated to the <sc>Lord</sc>, see further below). See the note on <span class="bibleref" title="Leviticus 10:10">Lev 10:10</span>.</div>
 
+### Verse 15 - Note 2
+<div class="note"><span class="notetype">tn</span> See <span class="bibleref" title="Leviticus 4:2">Lev 4:2</span> above for a note on &#8220;straying.&#8221;</div>
+
+### Verse 15 - Note 3
+<div class="note"><span class="notetype">sn</span> <i>Heb</i> &#8220;from the holy things of the <sc>Lord</sc>.&#8221; The Hebrew expression here has the same structure as <span class="bibleref" title="Leviticus 4:2">Lev 4:2</span>, &#8220;from any of the commandments of the <sc>Lord</sc>.&#8221; The latter introduces the sin offering regulations and the former the guilt offering regulations. The sin offering deals with violations of &#8220;any of the commandments,&#8221; whereas the guilt offering focuses specifically on violations of regulations regarding &#8220;holy things&#8221; (i.e., things that have been consecrated to the <sc>Lord</sc>; see the full discussion in J. Milgrom, <i>Leviticus</i> [AB], 1:320-27).</div>
+
+### Verse 15 - Note 4
+<div class="note"><span class="notetype">tn</span> Here the word for &#8220;guilt&#8221; (<font face="Galaxie Unicode Hebrew">&#1488;&#1464;&#1513;&#1473;&#1464;&#1501;</font>, &#8217;<font face="Scholar">asham</font>) refers to the &#8220;penalty&#8221; for incurring guilt, the so-called consequential use of <font face="Galaxie Unicode Hebrew">&#1488;&#1464;&#1513;&#1473;&#1464;&#1501;</font> (&#8217;<font face="Scholar">asham</font>; see J. Milgrom, <i>Leviticus</i> [AB], 1:303).</div>
+
+### Verse 15 - Note 5
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;in your valuation, silver of shekels, in the shekel of the sanctuary.&#8221; The translation offered here suggests that, instead of a ram, the guilt offering could be presented in the form of money (see, e.g., NRSV; J. Milgrom, <i>Leviticus</i> [AB], 1:326-27). Others still maintain the view that it refers to the value of the ram that was offered (see, e.g., NIV &#8220;of the proper value in silver, according to the sanctuary shekel&#8221;; also NAB, NLT; J. E. Hartley, <i>Leviticus</i> [WBC], 72-73, 81).<p class="note"><span class="notetype">sn</span> The <i>sanctuary</i> <i>shekel</i> was about 10 grams (= ca. two fifths of an ounce; J. E. Shepherd, <i>NIDOTTE</i> 4:237-38).</p></div>
+
+### Verse 15 - Note 6
+<div class="note"><span class="notetype">tn</span> The word for &#8220;guilt offering&#8221; (sometimes translated &#8220;reparation offering&#8221;) is the same as &#8220;guilt&#8221; earlier in the verse (rendered there &#8220;[penalty for] guilt&#8221;). One can tell which is intended only by the context.<p class="note"><span class="notetype">sn</span> The primary purpose of the <i>guilt offering</i> was to &#8220;atone&#8221; (see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span> above) for &#8220;trespassing&#8221; on the <sc>Lord</sc>&#8217;s &#8220;holy things&#8221; (see later in this verse) or the property of others in the community (<span class="bibleref" title="Leviticus 6:1-7">Lev 6:1-7</span> [5:20-26 HT]; <span class="bibleref" title="Leviticus 19:20-22">19:20-22</span>; <span class="bibleref" title="Numbers 5:5-10">Num 5:5-10</span>). It was closely associated with reconsecration of the <sc>Lord</sc>&#8217;s sacred things or his sacred people (see, e.g., <span class="bibleref" title="Leviticus 14:12-18">Lev 14:12-18</span>; <span class="bibleref" title="Numbers 6:11">Num 6:11</span>b-12). Moreover, there was usually an associated reparation made for the trespass, including restitution of that which was violated plus one fifth of its value as a fine (<span class="bibleref" title="Leviticus 5:16;6:5">Lev 5:16; 6:5</span> [5:24 HT]). See R. E. Averbeck, <i>NIDOTTE</i> 1:557-66.</p></div>
 
 ### Verse 16 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and which he sinned from the holy thing.&#8221;</div>
 
+### Verse 16 - Note 2
+<div class="note"><span class="notetype">sn</span> Regarding &#8220;make atonement&#8221; see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>.</div>
+
+### Verse 16 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;there shall be forgiveness to him&#8221; or &#8220;it shall be forgiven to him&#8221; (KJV similar).</div>
 
 ### Verse 17 - Note 1
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and does one from all of the commandments of the <sc>Lord</sc> which must not be done.&#8221;</div>
 
+### Verse 17 - Note 2
+<div class="note"><span class="notetype">tn</span> The words &#8220;at the time&#8221; are not in the Hebrew text, but are implied.</div>
+
+### Verse 17 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;and he did not know, and he shall be guilty and he shall bear his iniquity&#8221; (for the rendering &#8220;bear his punishment [for iniquity]&#8221;) see the note on <span class="bibleref" title="Leviticus 5:1">Lev 5:1</span>.) This portion of v. <span class="bibleref" title="Leviticus 5:17">17</span> is especially difficult. The translation offered here suggests (as in many other English versions) that the offender did not originally know that he had violated the <sc>Lord</sc>&#8217;s commandments, but then came to know it and dealt with it accordingly (cf. the corresponding sin offering section in <span class="bibleref" title="Leviticus 5:1-4">Lev 5:1-4</span>). Another possibility is that it refers to a situation where a person suspects that he violated something although he does not recollect it. Thus, he brings a guilt offering for his suspected violation (J. Milgrom, <i>Leviticus</i> [AB], 1:331-34, 361-63). See also R. E. Averbeck, <i>NIDOTTE</i> 1:561-62.</div>
 
 ### Verse 18 - Note 1
+<div class="note"><span class="notetype">tn</span> The statement here is condensed. See the full expression in <span class="bibleref" title="Leviticus 5:15">5:15</span> and the note there.</div>
 
+### Verse 18 - Note 2
+<div class="note"><span class="notetype">sn</span> Regarding &#8220;make atonement&#8221; see the note on <span class="bibleref" title="Leviticus 1:4">Lev 1:4</span>.</div>
 
-### Verse 19 - Note 1
+### Verse 18 - Note 3
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;on his straying which he strayed.&#8221; See the note on <span class="bibleref" title="Leviticus 4:2">Lev 4:2</span>.</div>
 
+### Verse 18 - Note 4
+<div class="note"><span class="notetype">tn</span> <i>Heb</i> &#8220;there shall be forgiveness to him&#8221; or &#8220;it shall be forgiven to him&#8221; (KJV and NASB both similar).</div>
