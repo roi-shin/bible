@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NET Bible 日本語対訳</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="top-nav">
+      <a href="index.html" class="nav-home">NET Bible 対訳</a>
+      <span class="nav-title">目次</span>
+      <div class="nav-controls">
+        <a href="guide.html" class="nav-btn" style="text-decoration:none;">📖 聖書ガイド</a>
+      </div>
+    </nav>
+  </header>
+
+  <div class="index-container">
+    <h1>NET Bible 日本語対訳</h1>
+    <p class="index-subtitle">NET Bible (New English Translation) の本文と翻訳者注を日本語翻訳で閲覧<br>
+    <a href="guide.html" style="color:var(--accent-gold); font-weight:bold; margin-top:10px; display:inline-block;">👉 聖書の構造・年表・人物辞典を見る（聖書コンプリートガイド）</a></p>
+
+    <div class="book-section">
+      <h2 class="section-title open">旧約聖書 (Old Testament) <span class="toggle-icon">▼</span></h2>
+      <div class="section-content">
+        {% for book in ot_books %}
+        <div class="book-item">
+            <h3 class="{% if book.rank != 'C' %}book-title open{% else %}book-title{% endif %}">
+                <div class="title-left">
+                    <span class="rank-badge {{ book.rank_class }}">{{ book.rank }}</span>
+                    {{ book.ja_name }} <span class="book-en">({{ book.en_name }})</span>
+                </div>
+                <span class="toggle-icon">▼</span>
+            </h3>
+            <div class="book-comment"{% if book.rank == 'C' %} style="display:none;"{% endif %}>{{ book.comment }}</div>
+            <div class="{% if book.rank != 'C' %}chapter-grid{% else %}chapter-grid collapsed{% endif %}">
+                {% for ch in range(1, book.total_chapters + 1) %}
+                    {% set is_available = book.en_name in available_chapters and ch in available_chapters[book.en_name] %}
+                    <a href="{% if is_available %}{{ book.en_name | replace(' ', '_') }}_{{ ch }}.html{% else %}#{% endif %}" class="chapter-link {% if is_available %}available{% else %}unavailable{% endif %}">{{ ch }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="book-section">
+      <h2 class="section-title open">新約聖書 (New Testament) <span class="toggle-icon">▼</span></h2>
+      <div class="section-content">
+        {% for book in nt_books %}
+        <div class="book-item">
+            <h3 class="{% if book.rank != 'C' %}book-title open{% else %}book-title{% endif %}">
+                <div class="title-left">
+                    <span class="rank-badge {{ book.rank_class }}">{{ book.rank }}</span>
+                    {{ book.ja_name }} <span class="book-en">({{ book.en_name }})</span>
+                </div>
+                <span class="toggle-icon">▼</span>
+            </h3>
+            <div class="book-comment"{% if book.rank == 'C' %} style="display:none;"{% endif %}>{{ book.comment }}</div>
+            <div class="{% if book.rank != 'C' %}chapter-grid{% else %}chapter-grid collapsed{% endif %}">
+                {% for ch in range(1, book.total_chapters + 1) %}
+                    {% set is_available = book.en_name in available_chapters and ch in available_chapters[book.en_name] %}
+                    <a href="{% if is_available %}{{ book.en_name | replace(' ', '_') }}_{{ ch }}.html{% else %}#{% endif %}" class="chapter-link {% if is_available %}available{% else %}unavailable{% endif %}">{{ ch }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -13,6 +13,8 @@ import re
 import sys
 import time
 import requests
+from jinja2 import Environment, FileSystemLoader
+import shutil
 import subprocess
 from bs4 import BeautifulSoup
 
@@ -283,7 +285,7 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
             "gemini-3.7-flash",
             "gemini-3.6-flash",
             "gemini-3.5-flash",
-            "gemini-3.0-flash",
+            "gemini-3-flash",
         ]
         api_prompt = prompt + "\n\nHere is the JSON data to translate:\n" + json_str
         for model_name in fallback_models:
@@ -562,1005 +564,6 @@ def export_markdown(data: dict):
     print(f"  Markdown出力完了: {en_file}, {ja_file}")
 
 
-def generate_chapter_html(data: dict, available_chapters: dict) -> str:
-    """1章分のHTMLを生成"""
-    book = data["book"]
-    chapter = data["chapter"]
-
-    verses_html = ""
-    for v in data["verses"]:
-        vn = v["verse"]
-        note_markers = ""
-        if str(vn) in data["notes"]:
-            for n in data["notes"][str(vn)]:
-                note_markers += f'<sup class="note-ref" data-verse="{vn}" data-pos="{n["pos"]}">{n["pos"]}</sup>'
-
-        verses_html += f"""
-        <div class="verse" id="v{vn}">
-          <div class="verse-num">{vn}</div>
-          <div class="verse-content">
-            <div class="verse-ja">{v["ja"]}</div>
-            <div class="verse-en">{v["en"]}</div>
-            <div class="verse-markers">{note_markers}</div>
-          </div>
-        </div>"""
-
-    notes_html = ""
-    for verse_num_str, verse_notes in sorted(data["notes"].items(), key=lambda x: int(x[0]) if x[0].strip().isdigit() else 0):
-        for n in verse_notes:
-            notes_html += f"""
-            <div class="note" id="note-{verse_num_str}-{n['pos']}">
-              <div class="note-header">{verse_num_str}:{n['pos']}</div>
-              <div class="note-ja">{n['ja']}</div>
-              <div class="note-en">{n['en']}</div>
-            </div>"""
-
-    ja_book = JA_BOOK_NAMES.get(book, book)
-    title_ja = f"{ja_book} {chapter}"
-    title_en = f"{book} {chapter}"
-    
-    prev_ch_available = book in available_chapters and (chapter - 1) in available_chapters[book]
-    next_ch_available = book in available_chapters and (chapter + 1) in available_chapters[book]
-
-    prev_disabled = "" if prev_ch_available else " disabled"
-    next_disabled = "" if next_ch_available else " disabled"
-    prev_link = f"{book.replace(' ', '_')}_{chapter-1}.html"
-    next_link = f"{book.replace(' ', '_')}_{chapter+1}.html"
-
-    return f"""<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title_ja} - NET Bible 日本語対訳</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body class="lang-ja-only">
-  <header>
-    <nav class="top-nav">
-      <a href="index.html" class="nav-home">NET Bible 対訳</a>
-      <span class="nav-title">
-        <a href="{prev_link}" class="nav-arrow{prev_disabled}">&#8249;</a>
-        <span class="title-ja">{title_ja}</span>
-        <span class="title-en">{title_en}</span>
-        <a href="{next_link}" class="nav-arrow{next_disabled}">&#8250;</a>
-      </span>
-      <div class="nav-controls">
-        <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
-        <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
-        <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
-      </div>
-    </nav>
-  </header>
-
-  <main class="reader">
-    <section class="text-panel" id="textPanel">
-      <h1><span class="title-ja">{title_ja}</span><span class="title-en">{title_en}</span></h1>
-      <div class="verses">
-        {verses_html}
-      </div>
-    </section>
-
-    <aside class="notes-panel" id="notesPanel">
-      <div class="notes-mobile-handle" id="notesHandle"></div>
-      <h2>NET Notes (翻訳者注)</h2>
-      <div class="notes-content">
-        {notes_html}
-      </div>
-    </aside>
-  </main>
-
-  <script src="app.js"></script>
-</body>
-</html>"""
-
-
-def generate_css() -> str:
-    """共通CSSを生成"""
-    return """@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;700&family=Inter:wght@300;400;500;600&display=swap');
-
-:root {
-  --bg-primary: #f9f8f6;
-  --bg-secondary: #ffffff;
-  --bg-card: #ffffff;
-  --bg-card-hover: #f2f0eb;
-  --text-primary: #2d2c2a;
-  --text-secondary: #666560;
-  --text-muted: #999894;
-  --accent-gold: #a67c00;
-  --accent-gold-dim: #e8dfc8;
-  --accent-blue: #366493;
-  --accent-red: #9c3535;
-  --border-color: #e6e4df;
-  --note-bg: #f5f4f0;
-  --note-border: #dedcd5;
-  --verse-ja-color: #2d2c2a;
-  --verse-en-color: #73726d;
-  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
-  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
-  --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
-  --radius-sm: 2px;
-  --radius-md: 4px;
-  --radius-lg: 6px;
-}
-
-* { margin: 0; padding: 0; box-sizing: border-box; }
-
-html {
-  scroll-behavior: smooth;
-  font-size: 16px;
-}
-
-body {
-  font-family: 'Noto Sans JP', 'Inter', sans-serif;
-  background: var(--bg-primary);
-  color: var(--text-primary);
-  line-height: 1.8;
-  min-height: 100vh;
-}
-
-/* --- Header --- */
-header {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  background: rgba(249, 248, 246, 0.85);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border-color);
-}
-
-.top-nav {
-  max-width: 1600px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0.75rem 1.5rem;
-}
-
-.nav-home {
-  color: var(--accent-gold);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1.1rem;
-  letter-spacing: 0.02em;
-  transition: opacity 0.2s;
-}
-
-.nav-home:hover { opacity: 0.8; }
-
-.nav-title {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.2rem;
-  color: var(--text-primary);
-  font-weight: 400;
-}
-
-.nav-controls {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.nav-btn {
-  background: var(--bg-card);
-  border: 1px solid var(--border-color);
-  color: var(--text-secondary);
-  padding: 0.4rem 0.7rem;
-  border-radius: var(--radius-sm);
-  cursor: pointer;
-  font-size: 1rem;
-  transition: all 0.2s;
-}
-
-.nav-btn:hover {
-  background: var(--bg-card-hover);
-  color: var(--text-primary);
-}
-
-.nav-btn.active {
-  background: var(--accent-gold-dim);
-  border-color: var(--accent-gold);
-  color: var(--accent-gold);
-}
-
-/* --- Main Layout --- */
-.reader {
-  max-width: 1600px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 380px;
-  gap: 0;
-  min-height: calc(100vh - 60px);
-}
-
-.reader.notes-hidden {
-  grid-template-columns: 1fr;
-}
-
-.reader.notes-hidden .notes-panel {
-  display: none;
-}
-
-.reader.layout-reversed {
-  grid-template-columns: 380px 1fr;
-}
-
-.reader.layout-reversed .notes-panel {
-  order: -1;
-}
-
-/* --- Text Panel --- */
-.text-panel {
-  padding: 2rem 2.5rem;
-}
-
-.text-panel h1 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: var(--accent-gold);
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid var(--border-color);
-}
-
-/* --- Verse --- */
-.verse {
-  display: flex;
-  gap: 1rem;
-  padding: 0.8rem 0;
-  border-bottom: 1px solid rgba(42, 42, 58, 0.5);
-  transition: background 0.2s;
-}
-
-.verse:hover {
-  background: rgba(42, 42, 58, 0.3);
-  border-radius: var(--radius-sm);
-}
-
-.verse-num {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--accent-gold);
-  min-width: 2rem;
-  text-align: right;
-  padding-top: 0.3rem;
-  user-select: none;
-}
-
-.verse-content {
-  flex: 1;
-}
-
-.verse-ja {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.05rem;
-  line-height: 1.9;
-  color: var(--verse-ja-color);
-  margin-bottom: 0.4rem;
-}
-
-.verse-en {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.85rem;
-  line-height: 1.7;
-  color: var(--verse-en-color);
-}
-
-.verse-markers {
-  margin-top: 0.3rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem;
-}
-
-.note-ref {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.2em;
-  height: 1.2em;
-  font-size: 0.65rem;
-  background: var(--accent-gold-dim);
-  color: var(--accent-gold);
-  border-radius: 50%;
-  margin-left: 2px;
-  cursor: pointer;
-  vertical-align: super;
-  transition: all 0.2s;
-  font-weight: 600;
-}
-
-.note-ref:hover {
-  background: var(--accent-gold);
-  color: var(--bg-primary);
-  transform: scale(1.2);
-}
-
-/* --- Notes Panel --- */
-.notes-panel {
-  background: var(--bg-secondary);
-  border-left: 1px solid var(--border-color);
-  padding: 1.5rem;
-  overflow-y: auto;
-  max-height: calc(100vh - 60px);
-  position: sticky;
-  top: 60px;
-}
-
-.notes-panel h2 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1rem;
-  color: var(--accent-gold);
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid var(--border-color);
-  font-weight: 500;
-}
-
-.note {
-  background: var(--note-bg);
-  border: 1px solid var(--note-border);
-  border-radius: var(--radius-md);
-  padding: 1rem;
-  margin-bottom: 0.75rem;
-  transition: all 0.2s;
-}
-
-.note:hover {
-  border-color: var(--accent-gold-dim);
-  box-shadow: var(--shadow-sm);
-}
-
-.note.highlight {
-  border-color: var(--accent-gold);
-  box-shadow: 0 0 0 1px var(--accent-gold-dim);
-}
-
-.note-header {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--accent-gold);
-  margin-bottom: 0.5rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.note-header::before {
-  content: '§';
-  opacity: 0.5;
-}
-
-.note-ja {
-  font-size: 0.9rem;
-  line-height: 1.7;
-  color: var(--text-primary);
-  margin-bottom: 0.5rem;
-}
-
-.note-en {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.78rem;
-  line-height: 1.6;
-  color: var(--text-muted);
-}
-
-/* --- Index Page --- */
-.index-container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 3rem 2rem;
-}
-
-.index-container h1 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 2.2rem;
-  color: var(--accent-gold);
-  text-align: center;
-  margin-bottom: 0.5rem;
-}
-
-.index-subtitle {
-  text-align: center;
-  color: var(--text-secondary);
-  margin-bottom: 3rem;
-  font-size: 0.95rem;
-}
-
-.book-section {
-  margin-bottom: 2.5rem;
-}
-
-.book-section h2 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.3rem;
-  color: var(--accent-gold);
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border-color);
-  cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.book-section h2 .toggle-icon {
-  font-size: 0.8rem;
-  color: var(--text-muted);
-  transition: transform 0.2s;
-}
-
-.book-section h2.open .toggle-icon {
-  transform: rotate(-180deg);
-}
-
-.section-content {
-  overflow: hidden;
-}
-
-.section-content.collapsed {
-  display: none;
-}
-
-.book-item { margin-bottom: 0.5rem; }
-.book-title {
-  cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: var(--bg-card);
-  padding: 0.8rem 1rem;
-  border-radius: var(--radius-sm);
-  margin: 0.5rem 0;
-  font-size: 1rem;
-  color: var(--text-secondary);
-  font-weight: 500;
-  transition: background-color 0.2s;
-  border: 1px solid var(--border-color);
-}
-.book-title:hover { background-color: var(--bg-card-hover); }
-.toggle-icon {
-  font-size: 0.8rem;
-  transition: transform 0.3s ease;
-}
-.book-title.open .toggle-icon {
-  transform: rotate(-180deg);
-}
-
-.title-left {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.book-en {
-  font-size: 0.85em;
-  color: var(--text-muted);
-}
-
-.rank-badge {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.5rem;
-  height: 1.5rem;
-  border-radius: 4px;
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: white;
-}
-.rank-s { background-color: #ef4444; }
-.rank-a { background-color: #f59e0b; }
-.rank-b { background-color: #3b82f6; }
-.rank-c { background-color: #9ca3af; }
-.rank-none { background-color: transparent; color: transparent; }
-
-.book-comment {
-  font-size: 0.85rem;
-  color: var(--text-secondary);
-  padding: 0 1rem 0.8rem;
-  line-height: 1.5;
-  background-color: var(--bg-primary);
-  border-bottom: 1px solid var(--border-color);
-  margin-bottom: 0.5rem;
-}
-
-.chapter-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  padding: 0.2rem 0.5rem 1rem;
-  overflow: hidden;
-  max-height: 2000px;
-  transition: max-height 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
-  opacity: 1;
-}
-.chapter-grid.collapsed {
-  max-height: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-  opacity: 0;
-  margin: 0;
-}
-
-.chapter-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2.5rem;
-  height: 2.5rem;
-  background: var(--bg-card);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-sm);
-  color: var(--text-secondary);
-  text-decoration: none;
-  font-size: 0.85rem;
-  font-weight: 500;
-  transition: all 0.2s;
-}
-
-.chapter-link:hover {
-  background: var(--accent-gold-dim);
-  border-color: var(--accent-gold);
-  color: var(--accent-gold);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-sm);
-}
-
-.chapter-link.available {
-  border-color: var(--accent-gold-dim);
-  color: var(--accent-gold);
-}
-
-.chapter-link.unavailable {
-  opacity: 0.3;
-  pointer-events: none;
-}
-
-/* --- Responsive --- */
-@media (min-width: 1025px) {
-  .notes-mobile-handle { display: none; }
-}
-
-@media (max-width: 1024px) {
-  .reader {
-    display: flex;
-    flex-direction: column;
-    height: calc(100dvh - 60px);
-    overflow: hidden;
-  }
-
-  .text-panel {
-    flex: 1;
-    overflow-y: auto;
-    padding: 1.5rem 1rem;
-  }
-
-  .notes-panel {
-    flex: none;
-    border-left: none;
-    border-top: 1px solid var(--border-color);
-    position: relative;
-    max-height: none;
-    height: 25dvh; /* コンパクト表示 */
-    overflow-y: auto;
-    transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 0 -4px 12px rgba(0,0,0,0.05);
-    padding-top: 0;
-  }
-
-  .reader.notes-expanded .notes-panel {
-    height: 65dvh; /* 拡大表示 */
-  }
-
-  .reader.notes-hidden .notes-panel {
-    height: 0;
-    padding: 0;
-    border: none;
-    overflow: hidden;
-  }
-
-  /* スマホ用ドラッグハンドル（タップ領域） */
-  .notes-mobile-handle {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-    background: var(--bg-primary);
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    cursor: pointer;
-    border-bottom: 1px solid var(--border-color);
-    margin: 0 -1.5rem 1.5rem -1.5rem;
-  }
-  
-  .notes-mobile-handle::before {
-    content: '';
-    display: block;
-    width: 40px;
-    height: 5px;
-    background: var(--border-color);
-    border-radius: 3px;
-  }
-
-}
-
-@media (max-width: 600px) {
-  .text-panel {
-    padding: 1rem;
-  }
-
-  .text-panel h1 {
-    font-size: 1.4rem;
-  }
-
-  .verse {
-    flex-direction: column;
-    gap: 0.3rem;
-  }
-
-  .verse-num {
-    text-align: left;
-  }
-
-  .verse-ja { font-size: 0.95rem; }
-  .verse-en { font-size: 0.8rem; }
-}
-
-/* --- Scrollbar --- */
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: var(--bg-primary); }
-::-webkit-scrollbar-thumb {
-  background: var(--border-color);
-  border-radius: 3px;
-}
-::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
-
-/* --- Language Toggle --- */
-body.lang-ja-only .verse-en, body.lang-ja-only .note-en, body.lang-ja-only .title-en { display: none; }
-body.lang-en-only .verse-ja, body.lang-en-only .note-ja, body.lang-en-only .title-ja { display: none; }
-
-.nav-arrow {
-  color: var(--text-primary);
-  text-decoration: none;
-  padding: 0 0.5rem;
-  font-size: 1.2rem;
-  line-height: 1;
-  transition: color 0.2s;
-  vertical-align: middle;
-}
-.nav-arrow:hover { color: var(--accent-gold); }
-.nav-arrow.disabled {
-  color: var(--text-muted);
-  pointer-events: none;
-}
-"""
-
-
-def generate_js() -> str:
-    """共通JavaScriptを生成"""
-    return """// 注の参照クリック → 右パネルでハイライト
-document.querySelectorAll('.note-ref').forEach(ref => {
-  ref.addEventListener('click', () => {
-    const verse = ref.dataset.verse;
-    const pos = ref.dataset.pos;
-    const noteId = `note-${verse}-${pos}`;
-    const noteEl = document.getElementById(noteId);
-
-    if (noteEl) {
-      // 全ハイライト解除
-      document.querySelectorAll('.note.highlight').forEach(n => n.classList.remove('highlight'));
-      // ハイライト
-      noteEl.classList.add('highlight');
-      
-      // スマホの場合は自動で拡大パネルにする
-      const reader = document.querySelector('.reader');
-      reader.classList.remove('notes-hidden');
-      if (window.innerWidth <= 1024) {
-        reader.classList.add('notes-expanded');
-      }
-      
-      noteEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    }
-  });
-});
-
-// スマホ用: 注のハンドルをタップで開閉
-const notesHandle = document.getElementById('notesHandle');
-if (notesHandle) {
-  notesHandle.addEventListener('click', () => {
-    document.querySelector('.reader').classList.toggle('notes-expanded');
-  });
-}
-
-// 注パネル表示切替 ([注] ボタン)
-const toggleNotesBtn = document.getElementById('toggleNotes');
-if (toggleNotesBtn) {
-  toggleNotesBtn.addEventListener('click', () => {
-    document.querySelector('.reader').classList.toggle('notes-hidden');
-    toggleNotesBtn.classList.toggle('active');
-  });
-}
-
-// レイアウト切替
-const toggleLayoutBtn = document.getElementById('toggleLayout');
-if (toggleLayoutBtn) {
-  toggleLayoutBtn.addEventListener('click', () => {
-    document.querySelector('.reader').classList.toggle('layout-reversed');
-    toggleLayoutBtn.classList.toggle('active');
-  });
-}
-
-// 言語切替
-const toggleLangBtn = document.getElementById('toggleLang');
-if (toggleLangBtn) {
-  const langs = ['ja-only', 'both', 'en-only'];
-  let currentLangIdx = 0;
-  toggleLangBtn.addEventListener('click', () => {
-    document.body.classList.remove('lang-' + langs[currentLangIdx]);
-    currentLangIdx = (currentLangIdx + 1) % langs.length;
-    if (langs[currentLangIdx] !== 'both') {
-      document.body.classList.add('lang-' + langs[currentLangIdx]);
-    }
-    toggleLangBtn.classList.toggle('active', currentLangIdx !== 0);
-  });
-}
-"""
-
-
-def generate_index_html(available_chapters: dict) -> str:
-    """目次ページを生成"""
-    ot_books = list(BOOKS.keys())[:39]
-    nt_books = list(BOOKS.keys())[39:]
-
-    def make_book_section(book_name, total_chapters):
-        ja_book = JA_BOOK_NAMES.get(book_name, book_name)
-        review = BOOK_REVIEWS.get(book_name, {"rank": "-", "comment": ""})
-        rank = review["rank"]
-        comment = review["comment"]
-        rank_class = f"rank-{rank.lower()}" if rank in ["S", "A", "B", "C"] else "rank-none"
-
-        title_class = "book-title open" if rank != "C" else "book-title"
-        comment_style = "" if rank != "C" else ' style="display:none;"'
-        grid_class = "chapter-grid" if rank != "C" else "chapter-grid collapsed"
-
-        links = ""
-        for ch in range(1, total_chapters + 1):
-            fname = f"{book_name.replace(' ', '_')}_{ch}.html"
-            is_available = book_name in available_chapters and ch in available_chapters[book_name]
-            cls = "chapter-link available" if is_available else "chapter-link unavailable"
-            href = fname if is_available else "#"
-            links += f'<a href="{href}" class="{cls}">{ch}</a>\n'
-            
-        return f"""
-        <div class="book-item">
-            <h3 class="{title_class}">
-                <div class="title-left">
-                    <span class="rank-badge {rank_class}">{rank}</span>
-                    {ja_book} <span class="book-en">({book_name})</span>
-                </div>
-                <span class="toggle-icon">▼</span>
-            </h3>
-            <div class="book-comment"{comment_style}>{comment}</div>
-            <div class="{grid_class}">{links}</div>
-        </div>"""
-
-    ot_html = "\n".join(make_book_section(b, BOOKS[b]) for b in ot_books)
-    nt_html = "\n".join(make_book_section(b, BOOKS[b]) for b in nt_books)
-
-    return f"""<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NET Bible 日本語対訳</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <nav class="top-nav">
-      <a href="index.html" class="nav-home">NET Bible 対訳</a>
-      <span class="nav-title">目次</span>
-      <div class="nav-controls">
-        <a href="guide.html" class="nav-btn" style="text-decoration:none;">📖 聖書ガイド</a>
-      </div>
-    </nav>
-  </header>
-
-  <div class="index-container">
-    <h1>NET Bible 日本語対訳</h1>
-    <p class="index-subtitle">NET Bible (New English Translation) の本文と翻訳者注を日本語翻訳で閲覧<br>
-    <a href="guide.html" style="color:var(--accent-gold); font-weight:bold; margin-top:10px; display:inline-block;">👉 聖書の構造・年表・人物辞典を見る（聖書コンプリートガイド）</a></p>
-
-    <div class="book-section">
-      <h2 class="section-title open">旧約聖書 (Old Testament) <span class="toggle-icon">▼</span></h2>
-      <div class="section-content">
-        {ot_html}
-      </div>
-    </div>
-
-    <div class="book-section">
-      <h2 class="section-title open">新約聖書 (New Testament) <span class="toggle-icon">▼</span></h2>
-      <div class="section-content">
-        {nt_html}
-      </div>
-    </div>
-  </div>
-  <script>
-    // セクション（旧約・新約）の折りたたみ
-    document.querySelectorAll('.section-title').forEach(title => {{
-      title.addEventListener('click', () => {{
-        title.classList.toggle('open');
-        const content = title.nextElementSibling;
-        if (content) content.classList.toggle('collapsed');
-      }});
-    }});
-
-    // 各書物の折りたたみ
-    document.querySelectorAll('.book-title').forEach(title => {{
-      title.addEventListener('click', () => {{
-        title.classList.toggle('open');
-        const grid = title.nextElementSibling.nextElementSibling;
-        const comment = title.nextElementSibling;
-        if (grid) grid.classList.toggle('collapsed');
-        if (title.classList.contains('open')) {{
-            comment.style.display = 'block';
-        }} else {{
-            comment.style.display = 'none';
-        }}
-      }});
-    }});
-  </script>
-</body>
-</html>"""
-
-
-def generate_guide_html() -> str:
-    """聖書コンプリートガイドのHTMLを生成"""
-    return """<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>聖書コンプリートガイド - NET Bible</title>
-  <link rel="stylesheet" href="style.css">
-  <style>
-    .guide-container { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; line-height: 1.8; color: var(--text-primary); }
-    .guide-container h1 { color: var(--accent-gold); border-bottom: 2px solid var(--accent-gold-dim); padding-bottom: 0.5rem; }
-    .guide-container h2 { color: var(--accent-gold); margin-top: 2.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem; }
-    .guide-container h3 { color: var(--text-secondary); margin-top: 1.5rem; }
-    .guide-container table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
-    .guide-container th, .guide-container td { border: 1px solid var(--border-color); padding: 0.8rem; text-align: left; }
-    .guide-container th { background-color: var(--bg-card-hover); color: var(--text-secondary); }
-    .guide-container ul { padding-left: 1.5rem; }
-    .guide-container li { margin-bottom: 0.5rem; }
-    .guide-container strong { color: var(--text-secondary); }
-  </style>
-</head>
-<body>
-  <header>
-    <nav class="top-nav">
-      <a href="index.html" class="nav-home">NET Bible 対訳</a>
-      <span class="nav-title">聖書コンプリートガイド</span>
-      <div class="nav-controls">
-        <a href="index.html" class="nav-btn" style="text-decoration:none;">◀ 目次へ戻る</a>
-      </div>
-    </nav>
-  </header>
-  <div class="guide-container">
-    <h1>📖 聖書コンプリートガイド：構造・年表・人物・用語リファレンス</h1>
-    <p>聖書（The Bible）は、単一の「本」ではなく、数千年の歴史の中で約40人の著者によって書かれた<strong>「66巻の書物のライブラリ（図書室）」</strong>です。</p>
-    <p>このページは、聖書を読んでいる途中で「今はどの時代の話だっけ？」「この人誰だっけ？」と迷子になった時に戻ってくるための<strong>リファレンス（地図）</strong>としてご利用ください。</p>
-    
-    <h2>1. 全体構造とNET Bibleの特徴</h2>
-    <p>聖書は大きく分けて「旧約聖書（Old Testament）」と「新約聖書（New Testament）」の2つのセクションで構成されています。「約」とは「神との契約（Covenant）」を意味します。</p>
-    <ul>
-      <li><strong>tn (Translator's Note):</strong> なぜこの英単語を選んだのか、原文（ヘブライ語/ギリシャ語）の文法的なニュアンスは何か。</li>
-      <li><strong>sn (Study Note):</strong> 歴史的背景、神学的な意味、地理的な解説。</li>
-      <li><strong>tc (Text-critical Note):</strong> 古代の写本同士の微妙な違いと、採用した理由。</li>
-    </ul>
-
-    <h2>2. 旧約聖書（Old Testament）の世界</h2>
-    <p>キリスト誕生以前に書かれた、古代イスラエル民族と神との「古い契約」の記録。主にヘブライ語で書かれています。</p>
-    
-    <h3>📅 旧約聖書 略年表</h3>
-    <table>
-      <tr><th>時代</th><th>出来事</th><th>主な該当書簡</th></tr>
-      <tr><td><strong>太古〜族長時代</strong><br>(〜前2000年頃)</td><td>天地創造、ノアの洪水。アブラハムが神から約束を受け、イサク、ヤコブ、ヨセフへと一族がエジプトへ移住。</td><td>創世記</td></tr>
-      <tr><td><strong>出エジプトと荒野</strong><br>(前1400年頃)</td><td>モーセに率いられエジプトの奴隷状態から脱出。シナイ山で「十戒」を与えられ、40年間荒野をさまよう。</td><td>出エジプト記〜申命記</td></tr>
-      <tr><td><strong>カナン定着と士師</strong><br>(前1300〜1050年頃)</td><td>ヨシュアの指揮で約束の地カナンを征服。その後、王がおらず「士師（リーダー）」たちが民族を救う時代。</td><td>ヨシュア記、士師記</td></tr>
-      <tr><td><strong>統一王国時代</strong><br>(前1050〜930年頃)</td><td>最初の王サウル、偉大な王ダビデ、栄華を極めたソロモンによる繁栄の時代。エルサレムに神殿建設。</td><td>サムエル記、列王記前半</td></tr>
-      <tr><td><strong>分裂王国時代</strong><br>(前930〜586年頃)</td><td>北イスラエル王国と南ユダ王国に分裂。多くの「預言者」が現れ、神への反逆を警告する。</td><td>列王記後半、多くの預言書</td></tr>
-      <tr><td><strong>捕囚と帰還</strong><br>(前586〜400年頃)</td><td>他国に滅ぼされ、強制連行（捕囚）される。数十年後に帰還し、神殿と城壁を再建する。</td><td>エズラ記、ネヘミヤ記など</td></tr>
-    </table>
-
-    <h3>👤 旧約聖書の主要登場人物</h3>
-    <ul>
-      <li><strong>アブラハム:</strong> 信仰の父。神の命令で故郷を離れ、「あなたの子孫を星のように増やす」という契約を受ける。</li>
-      <li><strong>ヤコブ（イスラエル）:</strong> アブラハムの孫。彼から12人の息子が生まれ、これがイスラエル12部族となる。</li>
-      <li><strong>ヨセフ:</strong> ヤコブの息子。兄弟の嫉妬で奴隷に売られるが、夢解きの才能でエジプトの総理大臣まで出世する。</li>
-      <li><strong>モーセ:</strong> 奴隷となっていた民族を脱出させた偉大なリーダー。海を割り、シナイ山で「十戒」を受け取る。</li>
-      <li><strong>ダビデ:</strong> 羊飼いから身を起こし巨人ゴリアテを倒した2代目の王。イスラエルの全盛期を築き、多くの「詩篇」を書いた。</li>
-      <li><strong>ソロモン:</strong> ダビデの息子。並外れた「知恵」で国を治め巨大な神殿を建設したが、晩年は偶像礼拝に陥る。</li>
-    </ul>
-
-    <h2>3. 新約聖書（New Testament）の世界</h2>
-    <p>キリスト誕生以後に書かれた、イエス・キリストと初代教会の「新しい契約」の記録。主にギリシャ語で書かれています。</p>
-    
-    <h3>📅 新約聖書 略年表</h3>
-    <table>
-      <tr><th>時代</th><th>出来事</th><th>主な該当書簡</th></tr>
-      <tr><td><strong>イエスの生涯</strong><br>(前4年頃〜後30年頃)</td><td>処女マリヤから誕生。30歳頃からガリラヤを中心に奇跡や教えを行い、十字架で処刑されるが3日目に復活。</td><td>4つの福音書</td></tr>
-      <tr><td><strong>教会の誕生と発展</strong><br>(後30〜60年頃)</td><td>ペンテコステに聖霊が下り初代教会が誕生。ペテロらを中心に伝道し、パウロがローマ帝国全土へ伝道旅行を行う。</td><td>使徒の働き、パウロ書簡</td></tr>
-      <tr><td><strong>迫害と終末の預言</strong><br>(後60〜90年頃)</td><td>ローマ帝国による激しい迫害が始まる。使徒ヨハネがパトモス島に流され、世界の終わりの幻を見る。</td><td>公同書簡、黙示録</td></tr>
-    </table>
-
-    <h3>👤 新約聖書の主要登場人物</h3>
-    <ul>
-      <li><strong>イエス・キリスト:</strong> 旧約聖書で約束されたメシア（救い主）。人類の罪を背負って十字架で死に、復活した。</li>
-      <li><strong>ペテロ（シモン）:</strong> イエスの12使徒のリーダー格。漁師出身で血の気が多いが、初代教会の中心的な指導者となる。</li>
-      <li><strong>パウロ（サウロ）:</strong> 元々はキリスト教徒を激しく迫害していたが、復活のイエスと出会って回心。「異邦人のための使徒」として新約聖書の半分を執筆した。</li>
-    </ul>
-
-    <h2>4. 聖書理解の鍵となる重要用語</h2>
-    <ul>
-      <li><strong>契約（Covenant）:</strong> 神と人との間の絶対的な約束。旧約は「律法（掟）を守るなら祝福する」、新約は「キリストを信じるなら無条件で罪を赦す」という恵みの契約。</li>
-      <li><strong>メシア / キリスト:</strong> 「油注がれた者」の意味。世界を救う究極の王。メシアはヘブライ語、キリストはギリシャ語。</li>
-      <li><strong>罪（Sin）:</strong> 単なる犯罪ではなく、本来の神の目的から逸れること、神との関係の断絶を指す。</li>
-      <li><strong>贖い（Redemption）:</strong> 代価を払って買い戻すこと。キリストの十字架の死が「究極のいけにえ」となり、永遠の贖いが完成した。</li>
-    </ul>
-    
-    <h2>5. 【一般教養・エンタメ向け】全66巻 読むべき度＆おすすめの順番</h2>
-    <p>宗教的な目的ではなく、「西洋文学の土台」「歴史大河ドラマ」「純粋な物語」として聖書を楽しみたい方向けのガイドです。</p>
-    
-    <h3>📊 面白さ・教養としての評価基準</h3>
-    <ul>
-      <li><strong>【S】必読の傑作。</strong> 映画化されがちな有名エピソードの宝庫。西洋文化の基礎。</li>
-      <li><strong>【A】かなり面白い。</strong> 人間のドロドロした愛憎劇、劇的な展開、現代に通じる名言が多い。</li>
-      <li><strong>【B】拾い読み推奨。</strong> 有名な箇所だけ読むか、歴史のあらすじを追うためにサラッと読む。</li>
-      <li><strong>【C】完全にスルーでOK。</strong> 延々と続く生贄のルール、誰かの家系図、説教など。</li>
-    </ul>
-
-    <h3>🗺️ おすすめの読む順番（新旧問わず）</h3>
-    <h4>STEP 1: 「超メジャー級」の物語を押さえる（ここだけ読めば教養は完璧）</h4>
-    <ol>
-      <li><strong>創世記【S】:</strong> 天地創造、アダムとエバ、ノアの箱舟、バベルの塔など、ファンタジーやSFの元ネタの宝庫。後半のヨセフのサクセスストーリーも必読。</li>
-      <li><strong>出エジプト記【A】（※前半のみ）:</strong> 海が真っ二つに割れる「十戒」のハイライトまで読めばOK。後半の「幕屋（テント）の作り方」は【C】なので容赦なく飛ばす。</li>
-      <li><strong>マタイの福音書 または ルカの福音書【S】:</strong> 新約からどれか1つ読むならこのどちらか。「最後の晩餐」「ユダの裏切り」「ゴルゴタの丘」など、レオナルド・ダ・ヴィンチの名画などの背景が全てわかる。</li>
-    </ol>
-    
-    <h4>STEP 2: 「大河ドラマ」としての中東戦記を楽しむ</h4>
-    <ol start="4">
-      <li><strong>ヨシュア記【B】〜 士師記【A】:</strong> エリコ（城壁）の陥落や、怪力サムソンの暴れっぷりなど、血生臭い古代の英雄譚。</li>
-      <li><strong>Ⅰ・Ⅱサムエル記【S】:</strong> 羊飼いの少年ダビデが巨人ゴリアテを倒し、やがて王になり、不倫して部下を殺し、息子に反逆される…という、海外ドラマ顔負けの愛憎劇。聖書の中で最も面白い歴史書。</li>
-      <li><strong>Ⅰ列王記【A】（※前半のみ）:</strong> ソロモン王の栄華と堕落。</li>
-      <li><strong>使徒の働き【B】:</strong> 初期キリスト教徒たちが、ローマ帝国の中でどうやって勢力を拡大していったかの熱いドキュメンタリー。</li>
-    </ol>
-
-    <h4>STEP 3: 「文学・哲学」としての傑作をつまみ食い</h4>
-    <ol start="8">
-      <li><strong>伝道者の書（コヘレトの言葉）【S】:</strong> 「空の空、すべては空である」。数千年前に書かれたとは思えないほどの虚無主義的で鋭い人間観察。現代人にもグサグサ刺さる文学的傑作。</li>
-      <li><strong>ヨブ記【A】:</strong> 「なぜ善人に理不尽な不幸が降りかかるのか？」という哲学的なテーマに挑んだ長編詩。</li>
-      <li><strong>ヨハネの黙示録【A】:</strong> 「ハルマゲドン」「666の獣」「四騎士」など、中二病心をくすぐる象徴表現のオンパレード。ファンタジー作品の元ネタ探しとして非常に面白い。</li>
-    </ol>
-
-    <h4>⚠️ 容赦なく飛ばしていい【C】の書物たち</h4>
-    <ul>
-      <li><strong>レビ記、民数記、申命記:</strong> 「カビが生えた服の洗い方」や「羊の焼き方」のルールが延々と続くため、通読の最大の挫折ポイント。スルー推奨。</li>
-      <li><strong>歴代誌:</strong> サムエル記や列王記の「総集編・美化バージョン」なので、読まなくていい。</li>
-      <li><strong>預言書（イザヤ書など）の大半:</strong> 歴史的背景を知らないとポエムにしか聞こえないため退屈。ただし<strong>『ヨナ書』【A】</strong>だけは、巨大な魚に飲み込まれるおじさんのコミカルなショートストーリーなのでおすすめ。</li>
-      <li><strong>パウロの書簡（ローマ人への手紙など）:</strong> 教義（神学）の論文や説教なので、キリスト教徒以外には退屈。スルーでOK。</li>
-    </ul>
-  </div>
-</body>
-</html>"""
-
-
 def main():
     import sys
 
@@ -1596,11 +599,16 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    # CSS, JS生成
-    with open(os.path.join(OUTPUT_DIR, "style.css"), "w", encoding="utf-8") as f:
-        f.write(generate_css())
-    with open(os.path.join(OUTPUT_DIR, "app.js"), "w", encoding="utf-8") as f:
-        f.write(generate_js())
+    # CSS, JS, ガイドは templates/ から直接コピーまたはそのまま書き出す
+    shutil.copy(os.path.join("templates", "style.css"), os.path.join(OUTPUT_DIR, "style.css"))
+    shutil.copy(os.path.join("templates", "app.js"), os.path.join(OUTPUT_DIR, "app.js"))
+    shutil.copy(os.path.join("templates", "guide.html"), os.path.join(OUTPUT_DIR, "guide.html"))
+    print("CSS, JS, ガイド出力: 完了")
+
+    # Jinja2 環境の設定
+    env = Environment(loader=FileSystemLoader("templates"))
+    chapter_template = env.get_template("chapter.html")
+    index_template = env.get_template("index.html")
 
     # 処理 (データ取得)
     # ここでは自分自身の担当分だけを処理・保存する
@@ -1615,7 +623,6 @@ def main():
             traceback.print_exc()
 
     # 自分の処理が全て終わった後、HTML生成の直前で「現在のディスク上の最新状態」をスキャンする
-    # こうすることで、自分が処理している間に別の並列プロセスが保存した章も全て漏れなく認識できる
     available_chapters = {}
     if os.path.exists(DATA_DIR):
         for b_dir in os.listdir(DATA_DIR):
@@ -1642,24 +649,73 @@ def main():
                 if os.path.exists(ch_path):
                     with open(ch_path, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                    html = generate_chapter_html(data, available_chapters)
-                    fname = f"{b_name.replace(' ', '_')}_{ch}.html"
+                    
+                    book = data["book"]
+                    chapter = data["chapter"]
+                    ja_book = JA_BOOK_NAMES.get(book, book)
+                    title_ja = f"{ja_book} {chapter}"
+                    title_en = f"{book} {chapter}"
+                    
+                    prev_ch_available = book in available_chapters and (chapter - 1) in available_chapters[book]
+                    next_ch_available = book in available_chapters and (chapter + 1) in available_chapters[book]
+                    prev_link = f"{book.replace(' ', '_')}_{chapter-1}.html" if prev_ch_available else None
+                    next_link = f"{book.replace(' ', '_')}_{chapter+1}.html" if next_ch_available else None
+
+                    sorted_notes = sorted(data.get("notes", {}).items(), key=lambda x: int(x[0]) if x[0].strip().isdigit() else 0)
+
+                    html = chapter_template.render(
+                        title_ja=title_ja,
+                        title_en=title_en,
+                        prev_link=prev_link,
+                        next_link=next_link,
+                        verses=data.get("verses", []),
+                        notes=data.get("notes", {}),
+                        sorted_notes=sorted_notes
+                    )
+                    
+                    fname = f"{book.replace(' ', '_')}_{ch}.html"
                     with open(os.path.join(OUTPUT_DIR, fname), "w", encoding="utf-8") as f:
                         f.write(html)
             except Exception as e:
                 print(f"  HTML生成エラー ({b_name} {ch}): {e}")
 
     # 目次生成
-    index_html = generate_index_html(available_chapters)
+    ot_books_data = []
+    for b in list(BOOKS.keys())[:39]:
+        review = BOOK_REVIEWS.get(b, {"rank": "-", "comment": ""})
+        rank = review["rank"]
+        rank_class = f"rank-{rank.lower()}" if rank in ["S", "A", "B", "C"] else "rank-none"
+        ot_books_data.append({
+            "en_name": b,
+            "ja_name": JA_BOOK_NAMES.get(b, b),
+            "total_chapters": BOOKS[b],
+            "rank": rank,
+            "rank_class": rank_class,
+            "comment": review["comment"]
+        })
+        
+    nt_books_data = []
+    for b in list(BOOKS.keys())[39:]:
+        review = BOOK_REVIEWS.get(b, {"rank": "-", "comment": ""})
+        rank = review["rank"]
+        rank_class = f"rank-{rank.lower()}" if rank in ["S", "A", "B", "C"] else "rank-none"
+        nt_books_data.append({
+            "en_name": b,
+            "ja_name": JA_BOOK_NAMES.get(b, b),
+            "total_chapters": BOOKS[b],
+            "rank": rank,
+            "rank_class": rank_class,
+            "comment": review["comment"]
+        })
+
+    index_html = index_template.render(
+        ot_books=ot_books_data,
+        nt_books=nt_books_data,
+        available_chapters=available_chapters
+    )
     with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
-    print(f"\n目次出力: index.html")
-    
-    # ガイド生成
-    guide_html = generate_guide_html()
-    with open(os.path.join(OUTPUT_DIR, "guide.html"), "w", encoding="utf-8") as f:
-        f.write(guide_html)
-    print("ガイド出力: guide.html")
+    print("\n目次出力: index.html")
     
     print("完了!")
 

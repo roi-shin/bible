@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title_ja }} - NET Bible 日本語対訳</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="lang-ja-only">
+  <header>
+    <nav class="top-nav">
+      <a href="index.html" class="nav-home">NET Bible 対訳</a>
+      <span class="nav-title">
+        <a href="{% if prev_link %}{{ prev_link }}{% else %}#{% endif %}" class="nav-arrow{% if not prev_link %} disabled{% endif %}">&#8249;</a>
+        <span class="title-ja">{{ title_ja }}</span>
+        <span class="title-en">{{ title_en }}</span>
+        <a href="{% if next_link %}{{ next_link }}{% else %}#{% endif %}" class="nav-arrow{% if not next_link %} disabled{% endif %}">&#8250;</a>
+      </span>
+      <div class="nav-controls">
+        <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
+        <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
+        <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="reader">
+    <section class="text-panel" id="textPanel">
+      <h1><span class="title-ja">{{ title_ja }}</span><span class="title-en">{{ title_en }}</span></h1>
+      <div class="verses">
+        {% for v in verses %}
+        <div class="verse" id="v{{ v.verse }}">
+          <div class="verse-num">{{ v.verse }}</div>
+          <div class="verse-content">
+            <div class="verse-ja">{{ v.ja }}</div>
+            <div class="verse-en">{{ v.en }}</div>
+            <div class="verse-markers">
+                {% for n in notes.get(v.verse | string, []) %}
+                <sup class="note-ref" data-verse="{{ v.verse }}" data-pos="{{ n.pos }}">{{ n.pos }}</sup>
+                {% endfor %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <aside class="notes-panel" id="notesPanel">
+      <div class="notes-mobile-handle" id="notesHandle"></div>
+      <h2>NET Notes (翻訳者注)</h2>
+      <div class="notes-content">
+        {% for verse_num_str, verse_notes in sorted_notes %}
+            {% for n in verse_notes %}
+            <div class="note" id="note-{{ verse_num_str }}-{{ n.pos }}">
+              <div class="note-header">{{ verse_num_str }}:{{ n.pos }}</div>
+              <div class="note-ja">{{ n.ja }}</div>
+              <div class="note-en">{{ n.en }}</div>
+            </div>
+            {% endfor %}
+        {% endfor %}
+      </div>
+    </aside>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
