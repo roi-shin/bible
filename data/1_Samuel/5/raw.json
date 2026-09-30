@@ -1,0 +1,172 @@
+{
+  "notes": {
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX adds &#8220;they entered the temple of Dagon and saw.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;only Dagon was left.&#8221; We should probably read the word <font face=\"Galaxie Unicode Hebrew\">&#1490;&#1468;&#1461;&#1493;</font> (<font face=\"Scholar\">gev</font>, &#8220;back&#8221;) before Dagon, understanding it to have the sense of the similar word <font face=\"Galaxie Unicode Hebrew\">&#1490;&#1468;&#1456;&#1493;&#1460;&#1497;&#1468;&#1464;&#1492;</font> (<font face=\"Scholar\">g&#255;viyyah</font>, &#8220;body&#8221;). This variant is supported by the following evidence: The LXX has <font face=\"Galaxie Unicode Greek\">&#7969; &#8165;&#940;&#967;&#953;&#962;</font> (<font face=\"Greektl\">Jh rJacis</font><font face=\"Scholar\">,</font> &#8220;the back&#8221; or &#8220;trunk&#8221;); the Syriac Peshitta has <font face=\"Scholar\">wegusmeh</font> (&#8220;and the body of&#8221;); the Targum has <font face=\"Scholar\">gupyeh</font> (&#8220;the body of&#8221;); the Vulgate has <font face=\"Scholar\">truncus</font> (&#8220;the trunk of,&#8221; cf. NAB, NASB, NRSV, NLT). On the strength of this evidence the present translation employs the phrase &#8220;Dagon&#8217;s body.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the hand of the <sc>Lord</sc> was heavy upon.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;the people of&#8221; are supplied in the translation for clarification.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX and Vulgate add the following: &#8220;And mice multiplied in their land, and the terror of death was throughout the entire city.&#8221;<p class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;tumors&#8221; (so ASV, NASB, NIV, NRSV, NLT); NCV &#8220;growths on their skin&#8221;; KJV &#8220;emerods&#8221;; NAB &#8220;hemorrhoids.&#8221;</p></div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;men.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for his hand is severe upon.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they sent and gathered.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the hand of the <sc>Lord</sc> was against the city.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he struck the men of the city from small and to great.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> See the note on this term in v. <span class=\"bibleref\" title=\"1 Samuel 5:6\">6</span>. Cf. KJV &#8220;and they had emerods in their secret parts.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to me.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;my.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they sent and gathered.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;me.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;my.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;panic.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the hand of God was very heavy there.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;men.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "1",
+      "text": "Now the Philistines had captured the ark of God and brought it from Ebenezer to Ashdod. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "2",
+      "text": "The Philistines took the ark of God and brought it into the temple of Dagon, where they positioned it beside Dagon. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "3",
+      "text": "When the residents of Ashdod got up early the next day, Dagon was lying on the ground before the ark of the Lord. So they took Dagon and set him back in his place. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "4",
+      "text": "But when they got up early the following day, Dagon was again lying on the ground before the ark of the Lord. The head of Dagon and his two hands were sheared off and were lying at the threshold. Only Dagon’s body was left intact. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "5",
+      "text": "(For this reason, to this very day, neither Dagon’s priests nor anyone else who enters Dagon’s temple steps on Dagon’s threshold in Ashdod.) "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "6",
+      "text": "The Lord attacked the residents of Ashdod severely, bringing devastation on them. He struck the people of both Ashdod and the surrounding area with sores. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "7",
+      "text": "When the people of Ashdod saw what was happening, they said, “The ark of the God of Israel should not remain with us, for he has attacked both us and our god Dagon!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "8",
+      "text": "So they assembled all the leaders of the Philistines and asked, “What should we do with the ark of the God of Israel?” They replied, “The ark of the God of Israel should be moved to Gath.” So they moved the ark of the God of Israel. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "9",
+      "text": "But after it had been moved the Lord attacked that city as well, causing a great deal of panic. He struck all the people of that city with sores. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "10",
+      "text": "So they sent the ark of God to Ekron. But when the ark of God arrived at Ekron, the residents of Ekron cried out saying, “They have brought the ark of the God of Israel here to kill our people!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "11",
+      "text": "So they assembled all the leaders of the Philistines and said, “Get the ark of the God of Israel out of here! Let it go back to its own place so that it won’t kill us and our people!” The terror of death was throughout the entire city; God was attacking them very severely there. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "5",
+      "verse": "12",
+      "text": "The people who did not die were struck with sores; the city’s cry for help went all the way up to heaven. "
+    }
+  ]
+}

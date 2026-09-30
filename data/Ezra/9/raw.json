@@ -1,0 +1,196 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the peoples of the lands.&#8221; So also in v. <span class=\"bibleref\" title=\"Ezra 9:2\">2</span>.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the holy seed,&#8221; referring to the Israelites as God&#8217;s holy people.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who trembled at the words of the God of Israel.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the exile&#8221;; the words &#8220;the people&#8221; are not in the Hebrew text, but are supplied in the translation for clarity.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew word used here is a <i>hapax legomenon</i>. It refers to the self-abasement that accompanies religious sorrow and fasting.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;I said.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT lacks &#8220;and&#8221; here, but see the LXX and Vulgate.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the kings of the lands.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;according to a little moment.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a peg&#8221; or &#8220;tent peg.&#8221; The imagery behind this word is drawn from the experience of nomads who put down pegs as they pitched their tents and made camp after times of travel.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to cause our eyes to shine.&#8221; The expression is a figure of speech for &#8220;to revive.&#8221; See <i>DCH</i> 1:160 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1493;&#1512;</font> Hi.7.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;has granted us reviving.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to cause to stand.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;through your servants the prophets, saying.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the peoples of the lands.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;sons&#8221;; cf. KJV, NAB, NIV, NLT &#8220;children&#8221;; NCV, TEV &#8220;descendants.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;held back downwards from&#8221;; KJV &#8220;hast punished us less than our iniquities deserve&#8221; (NIV, NRSV, NLT all similar).</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;this&#8221;; the referent (the guilt mentioned previously) has been specified in the translation for clarity.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "1",
+      "text": "Now when these things had been completed, the leaders approached me and said, “The people of Israel, the priests, and the Levites have not separated themselves from the local residents who practice detestable things similar to those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "2",
+      "text": "Indeed, they have taken some of their daughters as wives for themselves and for their sons, so that the holy race has become intermingled with the local residents. Worse still, the leaders and the officials have been at the forefront of all this unfaithfulness!” "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "3",
+      "text": "When I heard this report, I tore my tunic and my robe and ripped out some of the hair from my head and beard. Then I sat down, quite devastated. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "4",
+      "text": "Everyone who held the words of the God of Israel in awe gathered around me because of the unfaithful acts of the people of the exile. Devastated, I continued to sit there until the evening offering. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "5",
+      "text": "At the time of the evening offering I got up from my self-abasement, with my tunic and robe torn, and then dropped to my knees and spread my hands to the Lord my God. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "6",
+      "text": "I prayed: “O my God, I am ashamed and embarrassed to lift my face to you, my God! For our iniquities have climbed higher than our heads, and our guilt extends to the heavens. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "7",
+      "text": "From the days of our fathers until this very day our guilt has been great. Because of our iniquities we, along with our kings and priests, have been delivered over by the local kings to sword, captivity, plunder, and embarrassment—right up to the present time. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "8",
+      "text": "“But now briefly we have received mercy from the Lord our God, in that he has left us a remnant and has given us a secure position in his holy place. Thus our God has enlightened our eyes and has given us a little relief in our time of servitude. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "9",
+      "text": "Although we are slaves, our God has not abandoned us in our servitude. He has extended kindness to us in the sight of the kings of Persia, in that he has revived us to restore the temple of our God and to raise up its ruins and to give us a protective wall in Judah and Jerusalem. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "10",
+      "text": "“And now what are we able to say after this, our God? For we have forsaken your commandments "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "11",
+      "text": "which you commanded us through your servants the prophets with these words: ‘The land that you are entering to possess is a land defiled by the impurities of the local residents! With their abominations they have filled it from one end to the other with their filthiness. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "12",
+      "text": "Therefore do not give your daughters in marriage to their sons, and do not take their daughters in marriage for your sons. Do not ever seek their peace or welfare, so that you may be strong and may eat the good of the land and may leave it as an inheritance for your children forever.’ "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "13",
+      "text": "“Everything that has happened to us has come about because of our wicked actions and our great guilt. Even so, our God, you have exercised restraint toward our iniquities and have given us a remnant such as this. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "14",
+      "text": "Shall we once again break your commandments and intermarry with these abominable peoples? Would you not be so angered by us that you would wipe us out, with no survivor or remnant? "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "9",
+      "verse": "15",
+      "text": "O Lord God of Israel, you are righteous, for we are left as a remnant this day. Indeed, we stand before you in our guilt. However, because of this guilt no one can really stand before you.” "
+    }
+  ]
+}

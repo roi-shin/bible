@@ -1,0 +1,616 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The list of names and numbers in this chapter of Ezra has a parallel account in <span class=\"bibleref\" title=\"Nehemiah 7:6-73\">Neh 7:6-73</span>. The fact that the two lists do not always agree in specific details suggests that various textual errors have crept into the accounts during the transmission process.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1464;&#1506;&#1465;&#1500;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">ha</font>&#8217;<font face=\"Scholar\">olim</font>, &#8220;those who were going up&#8221; [Qal active participle]) refers to continual action in the past. Most translations render this as a simple past: &#8220;went up&#8221; (KJV), &#8220;came up&#8221; (RSV, ASV, NASV, NIV), &#8220;came&#8221; (NRSV). CEV paraphrases: &#8220;were on their way back.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;men of the people of Israel.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;was as follows&#8221; are not in the Hebrew text but are used in the translation for clarity.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to the sons of.&#8221; Cf. v. <span class=\"bibleref\" title=\"Ezra 2:40\">40</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT reads <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1465;&#1488;&#1464;&#1489;</font> (<font face=\"Scholar\">yo</font>&#8217;<font face=\"Scholar\">av</font>, &#8220;Joab&#8221;). However, syntax demands the reading <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1497;&#1493;&#1465;&#1488;&#1464;&#1489;</font> (<font face=\"Scholar\">v&#255;yo</font>&#8217;<font face=\"Scholar\">av</font>, &#8220;and Joab&#8221;) which is reflected in the LXX and Syriac.</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to.&#8221; So also in vv. <span class=\"bibleref\" title=\"Ezra 2:36,40\">36, 40</span>.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the suggestion in BHS and reads <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1463;&#1504;&#1456;&#1513;&#1473;&#1461;&#1497;</font> (&#8217;<font face=\"Scholar\">anshe</font>, &#8220;the men of&#8221;) here rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497;</font> (<font face=\"Scholar\">b&#255;ne</font>, &#8220;the sons of&#8221;) found in the MT. So also in vv. <span class=\"bibleref\" title=\"Ezra 2:25,26,33,34\">25, 26, 33, 34</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B4</a>.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the suggestion in BHS and reads <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1463;&#1513;&#1473;&#1456;&#1504;&#1461;&#1497; &#1489;&#1468;&#1461;&#1497;&#1514;</font> (&#8217;<font face=\"Scholar\">ashne bet</font>, &#8220;men of the house of&#8221;) here rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497;</font> (<font face=\"Scholar\">b&#255;ne</font>, &#8220;the sons of&#8221;) found in the MT.<p class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the men of the house of Azmaveth&#8221;; some regard <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1461;&#1497;&#1514;</font> (<font face=\"Scholar\">bet</font>, &#8220;house of&#8221;) as a part of the place name: NAB, NLT &#8220;Beth-azmaveth.&#8221;</p></div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation, with the support of many manuscripts, reads <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1456;&#1506;&#1464;&#1512;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">y&#255;</font>&#8217;<font face=\"Scholar\">arim</font>) here rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1512;&#1460;&#1497;&#1501;</font> (&#8217;<font face=\"Scholar\">arim</font>) of the MT.</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-G4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-C1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-D1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-G3</a>.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the house of.&#8221;</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Here it is preferable to delete the reading <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497;</font> (<font face=\"Scholar\">b&#255;ne</font>, &#8220;the sons of&#8221;) found in the MT.</div>"
+      ]
+    ],
+    "46": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the <i>Qere</i> reading &#8220;Shalmai&#8221; (so KJV, NASB, NIV, NLT) rather than the MT <i>Kethib</i> &#8220;Shamlai&#8221; (so ASV, NAB, NRSV).</div>"
+      ]
+    ],
+    "59": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;relate.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the house of their fathers.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their seed.&#8221;</div>"
+      ]
+    ],
+    "61": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation reads <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1468;&#1502;&#1460;&#1503;</font> (<font face=\"Scholar\">umin</font>, &#8220;and from&#8221;) rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1468;&#1502;&#1460;&#1489;&#1468;&#1504;&#1461;&#1497;</font> (<font face=\"Scholar\">umibb&#255;ney</font>, &#8220;and from the sons of&#8221;) found in the MT.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their.&#8221;</div>"
+      ]
+    ],
+    "62": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;these.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their records were searched for in the genealogical materials, but were not found.&#8221; This passive construction has been translated as active for stylistic reasons.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they were desecrated.&#8221;</div>"
+      ]
+    ],
+    "63": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1514;&#1468;&#1460;&#1512;&#1456;&#1513;&#1473;&#1464;&#1514;&#1464;&#1488;</font> (<font face=\"Scholar\">tirshata</font>&#8217;) is an official title of the Persian governor in Judea, perhaps similar in meaning to &#8220;excellency&#8221; (BDB 1077 s.v.; <i>HALOT</i> 1798 s.v.; W. L. Holladay, <i>Concise Hebrew and Aramaic Lexicon</i>, 395).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to stand.&#8221;</div>"
+      ]
+    ],
+    "64": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The same total is given in <span class=\"bibleref\" title=\"Nehemiah 7:66\">Neh 7:66</span>, but it is difficult to understand how this number is reached, since the numbers of people listed in the constituent groups do not add up to 42,360. The list in vv. <span class=\"bibleref\" title=\"Ezra 2:3-60\">3-60</span> apparently is not intended to be exhaustive, but the basis of the selectivity is unclear.</div>"
+      ]
+    ],
+    "65": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;besides&#8221; or &#8220;in addition to.&#8221;</div>"
+      ]
+    ],
+    "68": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the heads of the fathers.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;cause it to stand.&#8221;</div>"
+      ]
+    ],
+    "69": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;according to their strength.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The meaning of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1491;&#1468;&#1463;&#1512;&#1456;&#1499;&#1468;&#1456;&#1502;&#1493;&#1465;&#1504;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">dark&#255;monim</font>, cf. <span class=\"bibleref\" title=\"Nehemiah 7:69,70,71\">Neh 7:69, 70, 71</span>) is uncertain. It may be a Greek loanword meaning &#8220;drachmas&#8221; (the view adopted here and followed also by NAB, NASB, NIV) or a Persian loanword &#8220;daric,&#8221; referring to a Persian gold coin (BDB 204 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1491;&#1468;&#1463;&#1512;&#1456;&#1499;&#1468;&#1456;&#1502;&#1493;&#1465;&#1503;</font>; <i>HALOT</i> 232 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1504;&#1460;&#1497;&#1501;</font>(<font face=\"Galaxie Unicode Hebrew\">&#1493;&#1465;</font>)<font face=\"Galaxie Unicode Hebrew\">&#1491;&#1468;&#1463;&#1512;&#1456;&#1499;&#1468;&#1456;&#1502;&#1465;</font>; cf. ASV, NRSV). For further study, see R. de Vaux, <i>Ancient Israel</i>, 206-9.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1464;&#1504;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">manim</font>, cf. <span class=\"bibleref\" title=\"Nehemiah 7:71,72\">Neh 7:71, 72</span>) is a measuring weight for valuable metals, equal to 1/60 of a talent or 60 shekels (BDB 584 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1464;&#1504;&#1462;&#1492;</font>; <i>HALOT</i> 599 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1464;&#1504;&#1462;&#1492;</font>). For further study, see R. de Vaux, <i>Ancient Israel</i>, 203-6.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;garments.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "1",
+      "text": " These are the people of the province who were going up, from the captives of the exile whom King Nebuchadnezzar of Babylon had forced into exile in Babylon. They returned to Jerusalem and Judah, each to his own city. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "2",
+      "text": "They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of Israelites was as follows: "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "3",
+      "text": "the descendants of Parosh: 2,172;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "4",
+      "text": "the descendants of Shephatiah: 372;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "5",
+      "text": "the descendants of Arah: 775;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "6",
+      "text": "the descendants of Pahath Moab (from the line of Jeshua and Joab): 2,812;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "7",
+      "text": "the descendants of Elam: 1,254;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "8",
+      "text": "the descendants of Zattu: 945;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "9",
+      "text": "the descendants of Zaccai: 760;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "10",
+      "text": "the descendants of Bani: 642;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "11",
+      "text": "the descendants of Bebai: 623;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "12",
+      "text": "the descendants of Azgad: 1,222;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "13",
+      "text": "the descendants of Adonikam: 666;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "14",
+      "text": "the descendants of Bigvai: 2,056;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "15",
+      "text": "the descendants of Adin: 454;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "16",
+      "text": "the descendants of Ater (through Hezekiah): 98;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "17",
+      "text": "the descendants of Bezai: 323;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "18",
+      "text": "the descendants of Jorah: 112;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "19",
+      "text": "the descendants of Hashum: 223;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "20",
+      "text": "the descendants of Gibbar: 95."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "21",
+      "text": "The men of Bethlehem: 123;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "22",
+      "text": "the men of Netophah: 56;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "23",
+      "text": "the men of Anathoth: 128;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "24",
+      "text": "the men of the family of Azmaveth: 42;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "25",
+      "text": "the men of Kiriath Jearim, Kephirah and Beeroth: 743;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "26",
+      "text": "the men of Ramah and Geba: 621;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "27",
+      "text": "the men of Micmash: 122;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "28",
+      "text": "the men of Bethel and Ai: 223;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "29",
+      "text": "the descendants of Nebo: 52;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "30",
+      "text": "the descendants of Magbish: 156;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "31",
+      "text": "the descendants of the other Elam: 1,254;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "32",
+      "text": "the descendants of Harim: 320;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "33",
+      "text": "the men of Lod, Hadid, and Ono: 725;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "34",
+      "text": "the men of Jericho: 345;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "35",
+      "text": "the descendants of Senaah: 3,630. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "36",
+      "text": "The priests: the descendants of Jedaiah (through the family of Jeshua): 973;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "37",
+      "text": "the descendants of Immer: 1,052;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "38",
+      "text": "the descendants of Pashhur: 1,247;"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "39",
+      "text": "the descendants of Harim: 1,017."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "40",
+      "text": "The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah): 74."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "41",
+      "text": "The singers: the descendants of Asaph: 128."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "42",
+      "text": "The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai: 139."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "43",
+      "text": "The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "44",
+      "text": "the descendants of Keros, the descendants of Siaha, the descendants of Padon, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "45",
+      "text": "the descendants of Lebanah, the descendants of Hagabah, the descendants of Akkub, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "46",
+      "text": "the descendants of Hagab, the descendants of Shalmai, the descendants of Hanan, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "47",
+      "text": "the descendants of Giddel, the descendants of Gahar, the descendants of Reaiah, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "48",
+      "text": "the descendants of Rezin, the descendants of Nekoda, the descendants of Gazzam, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "49",
+      "text": "the descendants of Uzzah, the descendants of Paseah, the descendants of Besai, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "50",
+      "text": "the descendants of Asnah, the descendants of Meunim, the descendants of Nephussim, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "51",
+      "text": "the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "52",
+      "text": "the descendants of Bazluth, the descendants of Mehida, the descendants of Harsha, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "53",
+      "text": "the descendants of Barkos, the descendants of Sisera, the descendants of Temah, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "54",
+      "text": "the descendants of Neziah, and the descendants of Hatipha. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "55",
+      "text": "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "56",
+      "text": "the descendants of Jaala, the descendants of Darkon, the descendants of Giddel, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "57",
+      "text": "the descendants of Shephatiah, the descendants of Hattil, the descendants of Pokereth Hazzebaim, and the descendants of Ami. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "58",
+      "text": "All the temple servants and the descendants of the servants of Solomon: 392."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "59",
+      "text": "These are the ones that came up from Tel Melah, Tel Harsha, Kerub, Addon, and Immer (although they were unable to certify their family connection or their ancestry, as to whether they really were from Israel): "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "60",
+      "text": "the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda: 652."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "61",
+      "text": "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had taken a wife from the daughters of Barzillai the Gileadite and was called by that name). "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "62",
+      "text": "They searched for their records in the genealogical materials, but did not find them. They were therefore excluded from the priesthood. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "63",
+      "text": "The governor instructed them not to eat any of the sacred food until there was a priest who could consult the Urim and Thummim. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "64",
+      "text": "The entire group numbered 42,360,"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "65",
+      "text": "not counting their male and female servants, who numbered 7,337. They also had 200 male and female singers "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "66",
+      "text": "and 736 horses, 245 mules, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "67",
+      "text": "435 camels, and 6,720 donkeys. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "68",
+      "text": "When they came to the Lord’s temple in Jerusalem, some of the family leadersoffered voluntary offerings for the temple of God in order to rebuild it on its site. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "69",
+      "text": "As they were able, they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver, and 100 priestly robes. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "2",
+      "verse": "70",
+      "text": "The priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their towns, and all the rest of Israel lived in their towns. "
+    }
+  ]
+}

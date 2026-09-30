@@ -1,0 +1,166 @@
+# Deuteronomy 23 (English)
+
+## Text
+
+**1** A man with crushed or severed genitals may not enter the assembly of the Lord. 
+
+**2** A person of illegitimate birth may not enter the assembly of the Lord; to the tenth generation no one related to him may do so.
+
+**3** No Ammonite or Moabite may enter the assembly of the Lord; to the tenth generation none of their descendants shall ever do so,
+
+**4** for they did not meet you with food and water on the way as you came from Egypt, and furthermore, they hired Balaam son of Beor of Pethor in Aram Naharaim to curse you.
+
+**5** But the Lord your God refused to listen to Balaam and changed the curse to a blessing, for the Lord your God loves you.
+
+**6** You must not seek peace and prosperity for them through all the ages to come.
+
+**7** You must not hate an Edomite, for he is your relative; you must not hate an Egyptian, for you lived as a foreigner in his land. 
+
+**8** Children of the third generation born to them may enter the assembly of the Lord. 
+
+**9** When you go out as an army against your enemies, guard yourselves against anything impure. 
+
+**10** If there is someone among you who is impure because of some nocturnal emission, he must leave the camp; he may not reenter it immediately.
+
+**11** When evening arrives he must wash himself with water, and then at sunset he may reenter the camp. 
+
+**12** You are to have a place outside the camp to serve as a latrine. 
+
+**13** You must have a spade among your other equipment, and when you relieve yourself outside you must dig a hole with the spade and then turn and cover your excrement. 
+
+**14** For the Lord your God walks about in the middle of your camp to deliver you and defeat your enemies for you. Therefore your camp should be holy, so that he does not see anything indecent among you and turn away from you. 
+
+**15** You must not return an escaped slave to his master when he has run away to you. 
+
+**16** Indeed, he may live among you in any place he chooses, in whichever of your villages he prefers; you must not oppress him.
+
+**17** There must never be a sacred prostitute among the young women of Israel nor a sacred male prostitute among the young men of Israel. 
+
+**18** You must never bring the pay of a female prostitute or the wage of a male prostitute into the temple of the Lord your God in fulfillment of any vow, for both of these are abhorrent to the Lord your God. 
+
+**19** You must not charge interest on a loan to your fellow Israelite, whether on money, food, or anything else that has been loaned with interest. 
+
+**20** You may lend with interest to a foreigner, but not to your fellow Israelite; if you keep this command the Lord your God will bless you in all you undertake in the land you are about to enter to possess. 
+
+**21** When you make a vow to the Lord your God you must not delay in fulfilling it, for otherwise he will surely hold you accountable as a sinner. 
+
+**22** If you refrain from making a vow, it will not be sinful. 
+
+**23** Whatever you vow, you must be careful to do what you have promised, such as what you have vowed to the Lord your God as a freewill offering. 
+
+**24** When you enter the vineyard of your neighbor you may eat as many grapes as you please, but you must not take away any in a container. 
+
+**25** When you go into the ripe grain fields of your neighbor you may pluck off the kernels with your hand, but you must not use a sickle on your neighbor’s ripe grain. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “bruised by crushing,” which many English versions take to refer to crushed testicles (NAB, NRSV, NLT); TEV “who has been castrated.”
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “cut off with respect to the penis”; KJV, ASV “hath his privy member cut off”; English versions vary in their degree of euphemism here; cf. NAB, NRSV, TEV, NLT “penis”; NASB “male organ”; NCV “sex organ”; CEV “private parts”; NIV “emasculated by crushing or cutting.”
+
+### Verse 1 - Note 3
+[解説]  The Hebrew term translated “assembly” (קָהָל, qahal) does not refer here to the nation as such but to the formal services of the tabernacle or temple. Since emasculated or other sexually abnormal persons were commonly associated with pagan temple personnel, the thrust here may be primarily polemical in intent. One should not read into this anything having to do with the mentally and physically handicapped as fit to participate in the life and ministry of the church.
+
+### Verse 2 - Note 1
+[翻訳注]  Or “a person born of an illegitimate marriage.”
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “enter the assembly of the Lord.” The phrase “do so” has been used in the translation for stylistic reasons to avoid redundancy.
+
+### Verse 3 - Note 1
+[解説]  An Ammonite or Moabite. These descendants of Lot by his two daughters (cf. Gen 19:30-38) were thereby the products of incest and therefore excluded from the worshiping community. However, these two nations also failed to show proper hospitality to Israel on their way to Canaan (v. 4).
+
+### Verse 3 - Note 2
+[翻訳注]  The Hebrew term translated “ever” (עַד־עוֹלָם, ’ad-’olam) suggests that “tenth generation” (vv. 2, 3) also means “forever.” However, in the OT sense “forever” means not “for eternity” but for an indeterminate future time. See A. Tomasino, NIDOTTE 3:346.
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “enter the assembly of the Lord.” The phrase “do so” has been used in the translation for stylistic reasons to avoid redundancy.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “hired against you.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “the Lord your God changed.” The phrase “the Lord your God” has not been included in the translation here for stylistic reasons to avoid redundancy. Moreover, use of the pronoun “he” could create confusion regarding the referent (the Lord or Balaam).
+
+### Verse 5 - Note 2
+[翻訳注]  The verb אָהַב (’ahav, “love”) here and commonly elsewhere in the Book of Deuteronomy speaks of God’s elective grace toward Israel. See note on the word “loved” in Deut 4:37.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “brother.”
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “sojourner.”
+
+### Verse 8 - Note 1
+[解説]  Concessions were made to the Edomites and Egyptians (as compared to the others listed in vv. 1-6) because the Edomites (i.e., Esauites) were full “brothers” of Israel and the Egyptians had provided security and sustenance for Israel for more than four centuries.
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “evil.” The context makes clear that this is a matter of ritual impurity, not moral impurity, so it is “evil” in the sense that it disbars one from certain religious activity.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “nocturnal happening.” The Hebrew term קָרֶה (qareh) merely means “to happen” so the phrase here is euphemistic (a “night happening”) for some kind of bodily emission such as excrement or semen. Such otherwise normal physical functions rendered one ritually unclean whether accidental or not. See Lev 15:16-18; 22:4.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “so that one may go outside there.” This expression is euphemistic.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “sit.” This expression is euphemistic.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “with it”; the referent (the spade mentioned at the beginning of the verse) has been specified in the translation for clarity.
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “what comes from you,” a euphemism.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “give [over] your enemies.”
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “nakedness of a thing”; NLT “any shameful thing.” The expression עֶרְוַת דָּבָר (’ervat davar) refers specifically to sexual organs and, by extension, to any function associated with them. There are some aspects of human life that are so personal and private that they ought not be publicly paraded. Cultically speaking, even God is offended by such impropriety (cf. Gen 9:22-23; Lev 18:6-12, 16-19; 20:11, 17-21). See B. Seevers, NIDOTTE 3:528-30.
+
+### Verse 15 - Note 1
+[翻訳注]  The Hebrew text includes “from his master,” but this would be redundant in English style.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “gates.”
+
+### Verse 17 - Note 1
+[翻訳注]  The Hebrew term translated “sacred prostitute” here (קְדֵשָׁה [qÿdeshah], from קַדֵשׁ [qadesh, “holy”]; cf. NIV “shrine prostitute”; NASB “cult prostitute”; NRSV, TEV, NLT “temple prostitute”) refers to the pagan fertility cults that employed female and male prostitutes in various rituals designed to evoke agricultural and even human fecundity (cf. Gen 38:21-22; 1 Kgs 14:24; 15:12; 22:47; 2 Kgs 23:7; Hos 4:14). The Hebrew term for a regular, noncultic (i.e., “secular”) female prostitute is זוֹנָה (zonah).
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “daughters.”
+
+### Verse 17 - Note 3
+[翻訳注]  The male cultic prostitute was called קָדֵשׁ (qadesh; see note on the phrase “sacred prostitute” earlier in this verse). The colloquial Hebrew term for a “secular” male prostitute (i.e., a sodomite) is the disparaging epithet כֶּלֶב (kelev, “dog”) which occurs in the following verse (cf. KJV, ASV, NAB, NASB).
+
+### Verse 17 - Note 4
+[翻訳注]  Heb “sons.”
+
+### Verse 18 - Note 1
+[翻訳注]  Here the Hebrew term זוֹנָה (zonah) refers to a noncultic (i.e., “secular”) female prostitute; see note on the phrase “sacred prostitute” in v. 17.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “of a dog.” This is the common Hebrew term for a noncultic (i.e., “secular”) male prostitute. See note on the phrase “sacred male prostitute” in v. 17.
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “to your brother” (likewise in the following verse). Since this is not limited to actual siblings, “fellow Israelite” is used in the translation (cf. NAB, NASB “countrymen”).
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “the Lord your God.” The pronoun has been used in the translation for stylistic reasons to avoid redundancy.
+
+### Verse 21 - Note 2
+[翻訳注]  The Hebrew text uses the infinitive absolute for emphasis, which is reflected in the translation by “surely.”
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “and it will be a sin to you”; NIV, NCV, NLT “be guilty of sin.”
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “grapes according to your appetite, your fullness.”
+
+### Verse 24 - Note 2
+[翻訳注]  Heb “in your container”; NAB, NIV “your basket.”
+
+### Verse 25 - Note 1
+[解説]  For the continuation of these practices into NT times see Matt 12:1-8; Mark 2:23-28; Luke 6:1-5.

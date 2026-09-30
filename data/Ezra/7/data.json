@@ -1,0 +1,338 @@
+{
+  "book": "Ezra",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now after these things had happened, during the reign of King Artaxerxes of Persia, Ezra came up from Babylon. Ezra was the son of Seraiah, who was the son of Azariah, who was the son of Hilkiah, ",
+      "ja": "これらの出来事の後、ペルシア王アルタクセルクセスの治世に、エズラはバビロンから上った。エズラはセラヤの子、セラヤはアザリヤの子、アザリヤはヒルキヤの子、"
+    },
+    {
+      "verse": 2,
+      "en": "who was the son of Shallum, who was the son of Zadok, who was the son of Ahitub, ",
+      "ja": "ヒルキヤはシャルムの子、シャルムはツァドクの子、ツァドクはアヒトブの子、"
+    },
+    {
+      "verse": 3,
+      "en": "who was the son of Amariah, who was the son of Azariah, who was the son of Meraioth, ",
+      "ja": "アヒトブはアマリヤの子、アマリヤはアザリヤの子、アザリヤはメライオテの子、"
+    },
+    {
+      "verse": 4,
+      "en": "who was the son of Zerahiah, who was the son of Uzzi, who was the son of Bukki, ",
+      "ja": "メライオテはゼラヒヤの子、ゼラヒヤはウジの子、ウジはブッキの子、"
+    },
+    {
+      "verse": 5,
+      "en": "who was the son of Abishua, who was the son of Phinehas, who was the son of Eleazar, who was the son of Aaron the chief priest. ",
+      "ja": "ブッキはアビシュアの子、アビシュアはピネハスの子、ピネハスはエルアザルの子、エルアザルは最高祭司アロンの子であった。"
+    },
+    {
+      "verse": 6,
+      "en": "This Ezra is the one who came up from Babylon. He was a scribe who was skilled in the law of Moses which the Lord God of Israel had given. The king supplied him with everything he requested, for the hand of the Lord his God was on him.",
+      "ja": "このエズラこそ、バビロンから上ってきた者である。彼はイスラエルの神、主が与えられたモーセの律法に通じた学者であった。彼の神、主の手が彼の上にあったので、王は彼の求めるものをすべて与えた。"
+    },
+    {
+      "verse": 7,
+      "en": "In the seventh year of King Artaxerxes, Ezra brought up to Jerusalem some of the Israelites and some of the priests, the Levites, the attendants, the gatekeepers, and the temple servants. ",
+      "ja": "アルタクセルクセス王の第7年に、エズラはイスラエルの人々、祭司たち、レビ人、聖歌隊員、門衛、宮の仕え人たちの一部をエルサレムへ連れて上った。"
+    },
+    {
+      "verse": 8,
+      "en": "He entered Jerusalem in the fifth month of the seventh year of the king. ",
+      "ja": "彼は王の第7年の第5月にエルサレムに到着した。"
+    },
+    {
+      "verse": 9,
+      "en": "On the first day of the first month he had determined to make the ascent from Babylon, and on the first day of the fifth month he arrived at Jerusalem, for the good hand of his God was on him.",
+      "ja": "第1の月の1日に彼はバビロンからの旅立ちを固く決意し、第5の月の1日にエルサレムに到着した。彼の神の恵み深い手が彼の上にあったからである。"
+    },
+    {
+      "verse": 10,
+      "en": "Now Ezra had dedicated himself to the study of the law of the Lord, to its observance, and to teaching its statutes and judgments in Israel. ",
+      "ja": "エズラは主の律法を学び、それを実践し、イスラエルの中で定めと法を教えることに自らを献げていた。"
+    },
+    {
+      "verse": 11,
+      "en": "What follows is a copy of the letter that King Artaxerxes gave to Ezra the priestly scribe. Ezra was a scribe in matters pertaining to the commandments of the Lord and his statutes over Israel: ",
+      "ja": "アルタクセルクセス王が祭司であり学者であるエズラに与えた手紙の写しは以下のとおりである。エズラは、主の戒めと、イスラエルに対する主の定めに関する事柄に通じた学者であった。"
+    },
+    {
+      "verse": 12,
+      "en": " “Artaxerxes, king of kings, to Ezra the priest, a scribe of the law of the God of heaven: ",
+      "ja": "「王の王アルタクセルクセスから、天の神の律法に通じた学者である祭司エズラへ。"
+    },
+    {
+      "verse": 13,
+      "en": "I have now issued a decree that anyone in my kingdom from the people of Israel—even the priests and Levites—who wishes to do so may go up with you to Jerusalem. ",
+      "ja": "私は今、こう布告する。私の王国にいるイスラエルの民のうち、祭司やレビ人をも含めて、進んであなたと共にエルサレムへ行きたいと願う者は誰でも行ってよい。"
+    },
+    {
+      "verse": 14,
+      "en": "You are authorized by the king and his seven advisers to inquire concerning Judah and Jerusalem, according to the law of your God which is in your possession, ",
+      "ja": "あなたには、あなたの手元にあるあなたの神の律法に基づき、ユダとエルサレムについて調査することが、王および7人の顧問官から委任されている。"
+    },
+    {
+      "verse": 15,
+      "en": "and to bring silver and gold which the king and his advisers have freely contributed to the God of Israel, who resides in Jerusalem, ",
+      "ja": "また、王と顧問官たちが、エルサレムに住まわれるイスラエルの神に自発的に献げた銀と金を携えて行くためである。"
+    },
+    {
+      "verse": 16,
+      "en": "along with all the silver and gold that you may collect throughout all the province of Babylon and the contributions of the people and the priests for the temple of their God which is in Jerusalem. ",
+      "ja": "さらに、バビロニアの全州であなたが集めることのできるすべての銀と金、および民と祭司たちがエルサレムにある自分たちの神の宮のために進んで献げる物も携えて行きなさい。"
+    },
+    {
+      "verse": 17,
+      "en": "With this money you should be sure to purchase bulls, rams, and lambs, along with the appropriate meal offerings and libations. You should bring them to the altar of the temple of your God which is in Jerusalem. ",
+      "ja": "この資金をもって、雄牛、雄羊、小羊、ならびにそれに伴う穀物の捧げ物と注ぎの酒を確実に購入し、エルサレムにあるあなたたちの神の宮の祭壇に献げなさい。"
+    },
+    {
+      "verse": 18,
+      "en": "You may do whatever seems appropriate to you and your colleagues with the rest of the silver and the gold, in keeping with the will of your God. ",
+      "ja": "残りの銀と金については、あなたとその同僚たちが神の御心に適うと考えるとおりに用いてよい。"
+    },
+    {
+      "verse": 19,
+      "en": "Deliver to the God of Jerusalem the vessels that are given to you for the service of the temple of your God. ",
+      "ja": "あなたの神の宮での儀式のためにゆだねられた容器は、エルサレムの神の前に差し出しなさい。"
+    },
+    {
+      "verse": 20,
+      "en": "The rest of the needs for the temple of your God that you may have to supply, you may do so from the royal treasury. ",
+      "ja": "あなたの神の宮のために、ほかに備える必要が生じたものがあれば、王室の宝物庫から支給してよい。"
+    },
+    {
+      "verse": 21,
+      "en": "“I, King Artaxerxes, hereby issue orders to all the treasurers of Trans-Euphrates that you precisely execute all that Ezra the priestly scribe of the law of the God of heaven may request of you—",
+      "ja": "この私、アルタクセルクセス王は、ユーラガフラ西側のすべての財務官に対し、天の神の律法に通じた祭司であり学者であるエズラがあなた方に求めるものはすべて、正確に実行するよう命じる。"
+    },
+    {
+      "verse": 22,
+      "en": "up to 100 talents of silver, 100 cors of wheat, 100 baths of wine, 100 baths of olive oil, and unlimited salt. ",
+      "ja": "銀100タラント、小麦100コル、ぶどう酒100バテ、オリーブ油100バテ、および塩は無制限に与えよ。"
+    },
+    {
+      "verse": 23,
+      "en": "Everything that the God of heaven has required should be precisely done for the temple of the God of heaven. Why should there be wrath against the empire of the king and his sons? ",
+      "ja": "天の神が要求されることはすべて、天の神の宮のために正確に行われなければならない。なぜなら、王とその子孫たちの王国に神の怒りが臨むことがあってはならないからである。"
+    },
+    {
+      "verse": 24,
+      "en": "Furthermore, be aware of the fact that you have no authority to impose tax, tribute, or toll on any of the priests, the Levites, the musicians, the doorkeepers, the temple servants, or the attendants at the temple of this God. ",
+      "ja": "さらに、この神の宮の祭司、レビ人、聖歌隊員、門衛、宮の仕え人、あるいは宮の作業員に対しては、税金、貢ぎ物、通行税を課す権限が誰にもないことを承知しておきなさい。"
+    },
+    {
+      "verse": 25,
+      "en": "“Now you, Ezra, in keeping with the wisdom of your God which you possess, appoint judges and court officials who can arbitrate cases on behalf of all the people who are in Trans-Euphrates who know the laws of your God. Those who do not know this law should be taught. ",
+      "ja": "エズラよ、あなたに備わっている神の知恵に従い、ユーラガフラ西側にいるすべての民、すなわちあなたの神の律法を知る者たちを裁くことのできる裁判官や役人たちを任命しなさい。この律法を知らない者たちには、あなたが教えなければならない。"
+    },
+    {
+      "verse": 26,
+      "en": "Everyone who does not observe both the law of your God and the law of the king will be completely liable to the appropriate penalty, whether it is death or banishment or confiscation of property or detainment in prison.” ",
+      "ja": "あなたの神の律法と王の律法の双方を守らない者は誰であれ、死刑、追放、財産の没収、あるいは投獄のいずれであれ、その者にふさわしい刑罰に厳しく処せられる。」"
+    },
+    {
+      "verse": 27,
+      "en": " Blessed be the Lord God of our fathers, who so moved in the heart of the king to so honor the temple of the Lord which is in Jerusalem! ",
+      "ja": "われらの父祖たちの神、主をたたえよ。主は王の心に働きかけ、エルサレムにある主の宮をそのように美しく飾らせてくださった。"
+    },
+    {
+      "verse": 28,
+      "en": "He has also conferred his favor on me before the king, his advisers, and all the influential leaders of the king. I gained strength as the hand of the Lord my God was on me, and I gathered leaders from Israel to go up with me.",
+      "ja": "主はまた、王、その顧問官たち、および王のすべての有力な指導者たちの前で、私に慈愛を示してくださった。私の神、主の手が私の上にあったので私は勇気を得、私と共に上るイスラエルの指導者たちを召集した。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  If the Artaxerxes of Ezra 7:1 is Artaxerxes I Longimanus (ca. 464–423 B.C.), Ezra must have arrived in Jerusalem ca. 458 B.C., since Ezra 7:7-8 connects the time of his arrival to the seventh year of the king. The arrival of Nehemiah is then linked to the twentieth year of the king (Neh 1:1), or ca. 445 B.C. Some scholars, however, have suggested that Ezra 7:7 should be read as “the thirty-seventh year” rather than “the seventh year.” This would have Ezra coming to Jerusalem after, rather than before, the arrival of Nehemiah. Others have taken the seventh year of Ezra 7:7-8 to refer not to Artaxerxes I but to Artaxerxes II, who ruled ca. 404–358 B.C. In this understanding Ezra would have returned to Jerusalem ca. 398 B.C., a good many years after the return of Nehemiah. Neither of these views is certain, however, and it seems better to retain the traditional understanding of the chronological sequence of returns by Ezra and Nehemiah. With this understanding there is a gap of about fifty-eight years between chapter six, which describes the dedication of the temple in 516 b.c., and chapter seven, which opens with Ezra’s coming to Jerusalem in 458 b.c.",
+        "ja": "エズラ記7章1節のアルタクセルクセスがアルタクセルクセス1世ロングマヌス（紀元前464〜423年頃）であるならば、エズラ記7章7〜8節が彼の治世の第7年に関連づけていることから、エズラは紀元前458年頃にエルサレムに到着したはずである。ネヘミヤの到着は、王の治世の第20年（ネヘミヤ1:1）、すなわち紀元前445年頃に関連づけられる。しかし、学者の中には、エズラ記7章7節を「第7年」ではなく「第37年」と読むべきだと主張する者もいる。これによれば、エズラはネヘミヤの到着前ではなく、到着後にエルサレムに来たことになる。また、エズラ記7章7〜8節の第7年をアルタクセルクセス1世ではなく、紀元前404〜358年頃に統治したアルタクセルクセス2世を指すと解釈する者もいる。この理解では、エズラはネヘミヤの帰還よりもかなり後の紀元前398年頃にエルサレムへ帰還したことになる。しかし、これらの見解はいずれも確実ではなく、エズラとネヘミヤの帰還の年代順序に関する伝統的な理解を維持する方が妥当であるように思われる。この理解によれば、紀元前516年の神殿の献堂式を描く第6章と、紀元前458年のエズラのエルサレム帰還で始まる第7章の間には、約58年の空白が存在することになる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “came up from Babylon” do not appear in the Hebrew text until v. 6. They have been supplied here for the sake of clarity.",
+        "ja": "「バビロンから上った」という言葉は、6節までヘブライ語本文には現れないが、明確さのためにここで補われている。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads the Hiphil singular וַיַּעֲל (vayya’al, “he [Ezra] brought up”) rather than the Qal plural וַיַּעַלוּ (vayya’alu, “they came up”) of the MT.[翻訳注]  Heb “he brought”; the referent (Ezra) has been specified in the translation for clarity.",
+        "ja": "この翻訳では、マソラ本文（MT）のQal（基本態）複数形「ヴァヤアルー」（彼らは上った）ではなく、Hiphil（使役態）単数形「ヴァヤアル」（彼は［エズラは］上らせた／連れて上った）を採用している。［翻訳注］ヘブライ語では「彼は連れて上った」であるが、翻訳の明確化のために、指示対象（エズラ）を明示した。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "位置については、Map5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4を参照。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads יִסַּד (yissad, “he appointed” [= determined]) rather than the reading יְסֻד (yÿsud, “foundation”) of the MT. (The words “to make” are supplied in the translation for clarity and for stylistic reasons.)",
+        "ja": "この翻訳では、マソラ本文（MT）の読み方「イェスド」（基礎）ではなく、「イッサド」（彼は定めた［＝決意した］）という読み方を採用している（「作るために」という言葉は、明確さと文体上の理由から翻訳に補われている）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Apparently it took the caravan almost four months to make the five hundred mile journey.",
+        "ja": "キャラバンが500マイル（約800キロメートル）の旅程を完了するのに、およそ4ヶ月かかったようである。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “established his heart.”",
+        "ja": "ヘブライ語で「心を定めた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “to do and to teach.” The expression may be a hendiadys, in which case it would have the sense of “effectively teaching.”",
+        "ja": "ヘブライ語で「行うことと教えること」。この表現は一義二語（ヘンディアディス）である可能性があり、その場合「効果的に教えること」という意味合いを持つ。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “this.”",
+        "ja": "ヘブライ語で「これ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the priest, the scribe.” So also in v. 21.",
+        "ja": "ヘブライ語で「祭司、学者」。21節でも同様である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “Ezra was” are not in the Hebrew text but have been added in the translation for clarity.",
+        "ja": "「エズラは」という言葉はヘブライ語本文にはないが、明確にするために翻訳に追加された。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  Ezra 7:12-26 is written in Aramaic rather than Hebrew.",
+        "ja": "エズラ記7章12〜26節はヘブライ語ではなくアラム語で書かれている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from me is placed a decree.” So also in v. 21.",
+        "ja": "アラム語で「私から布告が下されている」。21節でも同様である。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "位置については、Map5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4を参照。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “sent.”",
+        "ja": "アラム語で「送られた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Aram “in your hand.”",
+        "ja": "アラム語で「あなたの手において」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “find.”",
+        "ja": "アラム語で「見出す」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “their meal offerings and their libations.”",
+        "ja": "アラム語で「彼らの穀物の捧げ物と彼らの注ぎの酒」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “brothers.”",
+        "ja": "アラム語で「兄弟たち」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “before.”",
+        "ja": "あるいは「の前に」。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “may fall to you to give.”",
+        "ja": "アラム語で「与えるためにあなたに降りかかるかもしれない」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “who are in.”",
+        "ja": "アラム語で「～にいる」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The translation reads מְשַׁח בַּתִּין (mÿshakh battin) rather than מְשַׁח בַּתִּין (battin mÿshakh) of the MT.",
+        "ja": "この翻訳では、マソラ本文（MT）の「バッティン・ムシャフ」ではなく、「ムシャフ・バッティン」という読み方を採用している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Aram “he did not write.”",
+        "ja": "アラム語で「彼は書かなかった」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Aramaic word used here for “wrath” (קְצַף, qÿtsaf; cf. Heb קָצַף, qatsaf) is usually used in the Hebrew Bible for God’s anger as opposed to human anger (but contra Eccl 5:17 [MT 5:16]; Esth 1:18; 2 Kgs 3:27). The fact that this word is used in v. 23 may have theological significance, pointing to the possibility of divine judgment if the responsible parties should fail to make available these provisions for the temple.",
+        "ja": "ここで「怒り」に対して使用されているアラム語（クツァフ；ヘブライ語のカタツフに対応）は、ヘブライ語聖書において通常、人間の怒りではなく神の怒りに対して用いられる（ただし、伝道の書5:16、エステル記1:18、列王記下3:27は例外）。23節でこの言葉が使われていることは、責任ある者たちが神殿のためのこれらの調達品を提供し損ねた場合に、神の裁きが下る可能性を指し示す神学的な意味を持っている可能性がある。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “we are making known to you.”",
+        "ja": "アラム語で「我々はあなたに知らせている」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Aram “in your hand.”",
+        "ja": "アラム語で「あなたの手において」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  For the MT reading שָׁפְטִין (shoftim, “judges”) the LXX uses the noun γραμματεῖς (grammatei\", “scribes”).",
+        "ja": "マソラ本文（MT）の読み方「ショフティーン」（「裁判官」）に対し、七十人訳（LXX）は名詞「グランマテイン」（「学者、書記」）を使用している。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  On the meaning of this word see HALOT 1820-21 s.v. אָסְפַּרְנָא; E. Vogt, Lexicon linguae aramaicae, 14.",
+        "ja": "この言葉の意味については、HALOT 1820-21頁、およびE. Vogtの『アラム語辞典』14頁を参照せよ。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  At this point the language of the book reverts from Aramaic (7:12-26) back to Hebrew.",
+        "ja": "この箇所において、書の言語はアラム語（7:12-26）から再びヘブライ語に戻る。"
+      }
+    ]
+  }
+}

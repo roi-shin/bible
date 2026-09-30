@@ -1,0 +1,321 @@
+# Ruth 2 (English)
+
+## Text
+
+**1** Now Naomi had a relative on her husband’s side of the family named Boaz. He was a wealthy, prominent man from the clan of Elimelech.
+
+**2** One day Ruth the Moabite said to Naomi, “Let me go to the fields so I can gather grain behind whoever permits me to do so.” Naomi replied, “You may go, my daughter.” 
+
+**3** So Ruth went and gathered grain in the fields behind the harvesters. Now she just happened to end up in the portion of the field belonging to Boaz, who was from the clan of Elimelech. 
+
+**4** Now at that very moment, Boaz arrived from Bethlehem and greeted the harvesters, “May the Lord be with you!” They replied, “May the Lord bless you!”
+
+**5** Boaz asked his servant in charge of the harvesters, “To whom does this young woman belong?”
+
+**6** The servant in charge of the harvesters replied, “She’s the young Moabite woman who came back with Naomi from the region of Moab. 
+
+**7** She asked, ‘May I follow the harvesters and gather grain among the bundles?’ Since she arrived she has been working hard from this morning until now—except for sitting in the resting hut a short time.” 
+
+**8** So Boaz said to Ruth, “Listen carefully, my dear! Do not leave to gather grain in another field. You need not go beyond the limits of this field. You may go along beside my female workers.
+
+**9** Take note of the field where the men are harvesting and follow behind with the female workers. I will tell the men to leave you alone. When you are thirsty, you may go to the water jars and drink some of the water the servants draw.” 
+
+**10** Ruth knelt before him with her forehead to the ground and said to him, “Why are you so kind and so attentive to me, even though I am a foreigner?” 
+
+**11** Boaz replied to her, “I have been given a full report of all that you have done for your mother-in-law following the death of your husband—how you left your father and your mother, as well as your homeland, and came to live among people you did not know previously. 
+
+**12** May the Lord reward your efforts! May your acts of kindness be repaid fully by the Lord God of Israel, from whom you have sought protection.” 
+
+**13** She said, “You really are being kind to me, sir, for you have reassured and encouraged me, your servant, even though I will never be like one of your servants.” 
+
+**14** Later during the mealtime Boaz said to her, “Come here and have some food! Dip your bread in the vinegar.” So she sat down beside the harvesters. Then he handed her some roasted grain. She ate until she was full and saved the rest. 
+
+**15** When she got up to gather grain, Boaz told his male servants, “Let her gather grain even among the bundles. Don’t chase her off! 
+
+**16** Make sure you pull out ears of grain for her and drop them so she can gather them up. Don’t tell her not to!”
+
+**17** So she gathered grain in the field until evening. When she threshed what she had gathered, it came to about 30 pounds of barley. 
+
+**18** She carried it back to town, and her mother-in-law saw how much grain she had gathered. Then Ruth gave her the roasted grain she had saved from mealtime. 
+
+**19** Her mother-in-law asked her, “Where did you gather grain today? Where did you work? May the one who took notice of you be rewarded!” So Ruth told her mother-in-law with whom she had worked. She said, “The name of the man with whom I worked today is Boaz.” 
+
+**20** Naomi said to her daughter-in-law, “May he be rewarded by the Lord because he has shown loyalty to the living on behalf of the dead!” Then Naomi said to her, “This man is a close relative of ours; he is our guardian.” 
+
+**21** Ruth the Moabite replied, “He even told me, ‘You may go along beside my servants until they have finished gathering all my harvest!’” 
+
+**22** Naomi then said to her daughter-in-law Ruth, “It is good, my daughter, that you should go out to work with his female servants. That way you will not be harmed, which could happen in another field.” 
+
+**23** So Ruth worked beside Boaz’s female servants, gathering grain until the end of the barley harvest as well as the wheat harvest. After that she stayed home with her mother-in-law. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The disjunctive clause (note the vav [ו] + prepositional phrase structure) provides background information essential to the following narrative.
+
+### Verse 1 - Note 2
+[写本注]  The marginal reading (Qere) is מוֹדַע (moda’, “relative”), while the consonantal text (Kethib) has מְיֻדָּע (miyudda’, “friend”). The textual variant was probably caused by orthographic confusion between consonantal מְיֻדָּע and מוֹדַע. Virtually all English versions follow the marginal reading (Qere), e.g., KJV, NAB, NASB, NRSV “kinsman”; NIV, NCV, NLT “relative.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “and [there was] to Naomi a relative, to her husband, a man mighty in substance, from the clan of Elimelech, and his name [was] Boaz.”
+
+### Verse 2 - Note 1
+[翻訳注]  The cohortative here (“Let me go”) expresses Ruth’s request. Note Naomi’s response, in which she gives Ruth permission to go to the field.
+
+### Verse 2 - Note 2
+[翻訳注]  Following the preceding cohortative, the cohortative with vav conjunctive indicates purpose/result.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “anyone in whose eyes I may find favor” (ASV, NIV similar). The expression אֶמְצָא־חֵן בְּעֵינָיו (’emtsa’-khen bÿ’enayv, “to find favor in the eyes of [someone]”) appears in Ruth 2:2, 10, 13. It is most often used when a subordinate or servant requests permission for something from a superior (BDB 336 s.v. חֵן). Ruth will play the role of the subordinate servant, seeking permission from a landowner, who then could show benevolence by granting her request to glean in his field behind the harvest workers.
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “she”; the referent (Naomi) has been specified in the translation for clarity.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “and she went and entered [a field] and gleaned in the field behind the harvesters.” Cf. KJV, NASB, NRSV “the reapers”; TEV “the workers.”
+
+### Verse 3 - Note 3
+[解説]  The text is written from Ruth’s limited perspective. As far as she was concerned, she randomly picked a spot in the field. But God was providentially at work and led her to the portion of the field belonging to Boaz, who, as a near relative of Elimelech, was a potential benefactor.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “and look”; NIV, NRSV “Just then.” The narrator invites the audience into the story, describing Boaz’s arrival as if it were witnessed by the audience.
+
+### Verse 4 - Note 2
+[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “said to.” Context indicates that the following expression is a greeting, the first thing Boaz says to his workers.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “said to him.” For stylistic reasons “replied” is used in the present translation.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “said to.” Since what follows is a question, “asked” is appropriate in this context.
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “young man.” Cf. NAB “overseer”; NIV, NLT “foreman.”
+
+### Verse 5 - Note 3
+[解説]  In this patriarchal culture Ruth would “belong” to either her father (if unmarried) or her husband (if married).
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “said.” What follows is a question, so “asked” is used in the translation.
+
+### Verse 7 - Note 2
+[翻訳注]  On the use of the perfect with vav consecutive after the cohortative, see IBHS 530 §32.2.2b.
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “May I glean and gather among the bundles behind the harvesters?” Others translate, “May I glean and gather [grain] in bundles behind the harvesters?” (cf. NAB; see F. W. Bush, Ruth, Esther [WBC], 117). For discussion of the terminology and process of harvesting, see O. Borowski, Agriculture in Iron Age Israel, 59-61.
+
+### Verse 7 - Note 4
+[翻訳注]  Heb “and she came and she has persisted.” The construction וַתָּבוֹא וַתַעֲמוֹד (vattavo’ vata’amod) forms a dependent temporal sequence: “since she came, she has persisted.” Because עָמַד (’amad, “to stand, remain, persist”; BDB 764 s.v. עָמַד; HALOT 840-42 s.v. עמד) has a broad range of meanings, וַתַעֲמוֹד has been understood in various ways: (1) Ruth had stood all morning waiting to receive permission from Boaz to glean in his field: “she has stood (here waiting)”; (2) Ruth had remained in the field all morning: “she has remained here” (NAB, NASB, NCV); and (3) Ruth had worked hard all morning: “she has worked steadily” (REB), “she has been working” (TEV, CEV), “she has been on her feet (all morning)” (JPS, NJPS, NRSV). For discussion, see F. W. Bush, Ruth, Esther (WBC), 118-19.
+
+### Verse 7 - Note 5
+[翻訳注]  Heb “and she came and she stood, from then, the morning, and until now, this, her sitting [in] the house a little.” The syntax of the Hebrew text is awkward and the meaning uncertain. For discussion see F. W. Bush, Ruth, Esther (WBC), 118-19.
+
+### Verse 7 - Note 6
+[翻訳注]  Heb “except this.” The function and meaning of the demonstrative adjective זֶה (zeh, “this”) is difficult: (1) MT accentuation joins זֶה withשִׁבְתָּהּ (shivtah, “this her sitting”), suggesting that זֶה שִׁבְתָּהּ functions as subject complement (see BDB 261 s.v. זֶה 2.a and Josh 9:12). (2) Others suggest that זֶה functions as an emphasizing adverb of time (“just now”; BDB 261 s.v. 4.h) and connect it with עַתָּה (’attah, “now”) to form the idiom עַתָּה זֶה (zeh ’attah, “now, just now”; BDB 261 s.v. 4.h; GKC 442-43 §136.d; see F. W. Bush, Ruth, Esther [WBC], 118-19). The entire line is translated variously: KJV “until now, (+ save ASV) that she tarried a little in the house”; NASB “she has been sitting in the house for a little while”; NIV “except for a short rest in the shelter”; NJPS “she has rested but little in the hut”; “her sitting (= resting) in the house (has only been) for a moment.” A paraphrase would be: “She came and has kept at it (= gleaning) from this morning until now, except for this: She has been sitting in the hut only a little while.” The clause as a whole is an exceptive clause: “except for this….”
+
+### Verse 7 - Note 7
+[写本注]  The MT vocalizes consonantal שבתה as שִׁבְתָּהּ (shivtah, “her sitting”; Qal infinitive construct from יָשַׁב (yashav), “to sit” + 3rd person feminine singular suffix), apparently taking the 3rd person feminine singular suffix as a subjective genitive: “she sat [in the hut only a little while]” (so KJV, ASV, NASB, NIV, REB, TEV, NCV, NJPS). On the other hand, LXX κατέπαυσεν (“she rested”) reflects the vocalization שָׁבְתָה (shavtah, “she rested”; Qal perfect 3rd person feminine singular from שָׁבַת (shavat), “to rest”): “she rested [in the hut only a little while]” (so RSV, NRSV, NAB, CEV, NJB, JPS). The MT reading is more difficult and is therefore probably original.[翻訳注]  Heb “and she came and she stood, from then, the morning, and until now, this, her sitting [in] the house a little.” The syntax of the Hebrew text is awkward here and the meaning uncertain. F. W. Bush (Ruth, Esther [WBC], 118-19) takes עָמַד (’amad, “to stand”) in the sense “to stay, remain,” connects זֶה (zeh, “this”) with the preceding עַתָּה (’attah, “now”) as an emphasizing adverb of time (“just now”), and emends שִׁבְתָּהּ הַבַּיִת (shivtah habbayit, “her sitting [in] the house”) to שָׁבְתָה (shavtah, “she rested”), omitting הַבַּיִת (habbayit) as dittographic. Another option is to translate, “She came and has stood here from this morning until now. She’s been sitting in the house for a short time.” According to this view the servant has made Ruth wait to get permission from Boaz. It is difficult, however, to envision a “house” being in the barley field.
+
+### Verse 7 - Note 8
+[写本注]  Several English versions (NAB, NEB, RSV, NRSV, JB, CEV) suggest deleting MT הַבַּיִת (habbayit, lit. “the house”) due to dittography with בתה in שִׁבְתָּהּ (shivtah) which precedes; however, several ancient textual witnesses support the MT (medieval Hebrew manuscripts, Syriac, Targum). The LXX reading ἐν τῷ ἀργῷ (en tw argw, “in the field”) probably does not represent an alternate Hebrew textual tradition, but merely the translator’s attempt to smooth out a difficult Hebrew text.[翻訳注]  “[in] the house.” The noun הַבַּיִת (lit. “the house”) functions as an adverbial accusative of location, and probably refers to a “hut, shelter,” providing shade for workers in the field, such as those still used by harvesters in modern Israel (H. A. Hoffner, TDOT 2:111-15). This kind of structure is probably referred to using different terms in Isaiah 1:8, “like a shelter (כְּסֻכָּה, kÿsukkah) in a vineyard, like a hut (כִּמְלוּנָה, kimlunah) in a field of melons.” Some translations render הַבַּיִת (habbayit) literally as “the house” (KJV, NKJV, NASB), while others nuance it as “the shelter” (NIV, NCV, TEV, NLT).
+
+### Verse 7 - Note 9
+[翻訳注]  Heb “a little while.” The adjective מְעָט (me’at) functions in a temporal sense (“a little while”; e.g., Job 24:24) or a comparative sense (“a little bit”); see BDB 589-90 s.v. The foreman’s point is that Ruth was a hard worker who only rested a short time.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “Have you not heard?” The idiomatic, negated rhetorical question is equivalent to an affirmation (see F. W. Bush, Ruth, Esther [WBC], 119, and GKC 474 §150.e).
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “my daughter.” This form of address is a mild form of endearment, perhaps merely rhetorical. It might suggest that Boaz is older than Ruth, but not necessarily significantly so. A few English versions omit it entirely (e.g., TEV, CEV).
+
+### Verse 8 - Note 3
+[翻訳注]  The switch from the negative particle אַל (’al, see the preceding statement, “do not leave”) to לֹא (lo’) may make this statement more emphatic. It may indicate that the statement is a policy applicable for the rest of the harvest (see v. 21).
+
+### Verse 8 - Note 4
+[翻訳注]  Heb “and thus you may stay close with.” The imperfect has a permissive nuance here.
+
+### Verse 8 - Note 5
+[解説]  The female workers would come along behind those who cut the grain and bundle it up. Staying close to the female workers allowed Ruth to collect more grain than would normally be the case (see O. Borowski, Agriculture in Iron Age Israel, 61, and F. W. Bush, Ruth, Esther [WBC], 121).
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “let your eyes be upon” (KJV, NASB similar).
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “they.” The verb is masculine plural, indicating that the male workers are the subject here.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “and go after them.” The pronominal suffix (“them”) is feminine plural, indicating that the female workers are referred to here.
+
+### Verse 9 - Note 4
+[翻訳注]  Male servants are in view here, as the masculine plural form of the noun indicates (cf. KJV, NAB, NRSV “the young men”).
+
+### Verse 9 - Note 5
+[翻訳注]  Heb “Have I not commanded the servants not to touch [i.e., “harm”] you?” The idiomatic, negated rhetorical question is equivalent to an affirmation (see v. 8). The perfect is either instantaneous, indicating completion of the action concurrent with the statement (see F. W. Bush, Ruth, Esther [WBC], 107, 121-22, who translates, “I am herewith ordering”) or emphatic/rhetorical, indicating the action is as good as done.
+
+### Verse 9 - Note 6
+[翻訳注]  The juxtaposition of two perfects, each with vav consecutive, here indicates a conditional sentence (see GKC 337 §112.kk).
+
+### Verse 9 - Note 7
+[翻訳注]  Heb “vessels (so KJV, NAB, NRSV), receptacles”; NCV “water jugs.”
+
+### Verse 9 - Note 8
+[翻訳注]  Heb “drink [some] of that which” (KJV similar); in the context “water” is implied.
+
+### Verse 9 - Note 9
+[翻訳注]  The imperfect here either indicates characteristic or typical activity, or anterior future, referring to a future action (drawing water) which logically precedes another future action (drinking).
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “she fell upon her face and bowed to the ground” (KJV, NASB similar).
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “Why do I find favor in your eyes…?” The expression מָצַא חֵן בְּעֵינֶי (matsa’ khen bÿ’eney, “to find favor in the eyes of [someone]”) is often characterized by the following features: (1) A subordinate or servant is requesting permission for something from a superior (master, owner, king). (2) The granting of the request is not a certainty but dependent on whether or not the superior is pleased with the subordinate to do so. (3) The granting of the request by the superior is an act of kindness or benevolence; however, it sometimes reciprocates loyalty previously shown by the subordinate to the superior (e.g., Gen 30:27; 32:6; 33:8, 10, 15; 34:11; 39:4; 47:25, 29; 50:4; Num 32:5; Deut 24:1; 1 Sam 1:18; 16:22; 20:3, 29; 27:3; 2 Sam 14:22; 16:4; 1 Kgs 11:19; Esth 5:8; 7:3; BDB 336 s.v. חֵן). While Boaz had granted her request for permission to glean in his field, she is amazed at the degree of kindness he had shown – especially since she had done nothing, in her own mind, to merit such a display. However, Boaz explains that she had indeed shown kindness to him indirectly through her devotion to Naomi (v. 11).
+
+### Verse 10 - Note 4
+[翻訳注]  Heb “Why do I find favor in your eyes by [you] recognizing me.” The infinitive construct with prefixed לְ (lamed) here indicates manner (“by”).
+
+### Verse 10 - Note 5
+[翻訳注]  Heb “and I am a foreigner.” The disjunctive clause (note the pattern vav + subject + predicate nominative) here has a circumstantial (i.e., concessive) function (“even though”).
+
+### Verse 10 - Note 6
+[解説]  The similarly spelled Hebrew terms נָכַר (nakhar, “to notice”) and נָכְרִי (nokhriy, “foreigner”) in this verse form a homonymic wordplay. This highlights the unexpected nature of the attentiveness and concern Boaz displayed to Ruth.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “answered and said to her” (so NASB). For stylistic reasons this has been translated as “replied to her.”
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “it has been fully reported to me.” The infinitive absolute here emphasizes the following finite verb from the same root. Here it emphasizes either the clarity of the report or its completeness. See R. L. Hubbard, Jr., Ruth (NICOT), 153, n. 6. Most English versions tend toward the nuance of completeness (e.g., KJV “fully been shewed”; NAB “a complete account”; NASB, NRSV “All that you have done”).
+
+### Verse 11 - Note 3
+[翻訳注]  The vav (ו) consecutive construction here has a specifying function. This and the following clause elaborate on the preceding general statement and explain more specifically what she did for her mother-in-law.
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “yesterday and the third day.” This Hebrew idiom means “previously, in the past” (Exod 5:7,8,14; Exod 21:29,36; Deut 4:42; 19:4,6; Josh 3:4; 1 Sam 21:5; 2 Sam 3:17; 1 Chr 11:2).
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “repay your work”; KJV, ASV “recompense thy work.” The prefixed verbal form is understood as a jussive of prayer (note the jussive form in the next clause).
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “may your wages be complete”; NCV “May your wages be paid in full.” The prefixed verbal form is a distinct jussive form, indicating that this is a prayer for blessing.
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “under whose wings you have sought shelter”; NIV, NLT “have come to take refuge.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “I am finding favor in your eyes.” In v. 10, where Ruth uses the perfect, she simply states the fact that Boaz is kind. Here the Hebrew text switches to the imperfect, thus emphasizing the ongoing attitude of kindness displayed by Boaz. Many English versions treat this as a request: KJV “Let me find favour in thy sight”; NAB “May I prove worthy of your kindness”; NIV “May I continue to find favor in your eyes.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “my master”; KJV, NAB, NASB, NIV, NRSV “my lord.”
+
+### Verse 13 - Note 3
+[翻訳注]  Or “comforted” (so NAB, NASB, NRSV, NLT).
+
+### Verse 13 - Note 4
+[翻訳注]  Heb “spoken to the heart of.” As F. W. Bush points out, the idiom here means “to reassure, encourage” (Ruth, Esther [WBC], 124).
+
+### Verse 13 - Note 5
+[翻訳注]  Ruth here uses a word (שִׁפְחָה, shifkhah) that describes the lowest level of female servant (see 1 Sam 25:41). Note Ruth 3:9 where she uses the word אָמָה (’amah), which refers to a higher class of servant.
+
+### Verse 13 - Note 6
+[翻訳注]  The imperfect verbal form of הָיָה (hayah) is used here. F. W. Bush shows from usage elsewhere that the form should be taken as future (Ruth, Esther [WBC], 124-25).
+
+### Verse 13 - Note 7
+[翻訳注]  The disjunctive clause (note the pattern vav [ו] + subject + verb) is circumstantial (or concessive) here (“even though”).
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “eat” (so KJV, NRSV).
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “your portion”; NRSV “your morsel.”
+
+### Verse 14 - Note 3
+[翻訳注]  The Hebrew verb צָבַט (tsavat) occurs only here in the OT. Cf. KJV, ASV “he reached her”; NASB “he served her”; NIV “he offered her”; NRSV “he heaped up for her.” For discussion of its meaning, including the etymological evidence, see BDB 840 s.v.; R. L. Hubbard, Jr., Ruth (NICOT), 174; and F. W. Bush, Ruth, Esther (WBC), 125-26.
+
+### Verse 14 - Note 4
+[翻訳注]  Heb “and she ate and she was satisfied and she had some left over” (NASB similar).
+
+### Verse 15 - Note 1
+[翻訳注]  Or “commanded” (so KJV, NASB, NCV).
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “even between”; NCV “even around.”
+
+### Verse 15 - Note 3
+[翻訳注]  Heb “do not humiliate her”; cf. KJV “reproach her not”; NASB “do not insult her”; NIV “don’t embarrass her.” This probably refers to a verbal rebuke which would single her out and embarrass her (see v. 16). See R. L. Hubbard, Jr., Ruth (NICOT), 176-77, and F. W. Bush, Ruth, Esther (WBC), 126.
+
+### Verse 16 - Note 1
+[翻訳注]  The infinitive absolute precedes the finite verb for emphasis. Here שָׁלַל (shalal, “pull out”) is a homonym of the more common Hebrew verb meaning “to plunder.” An Arabic cognate is used of drawing a sword out of a scabbard (see BDB 1021 s.v.).
+
+### Verse 16 - Note 2
+[翻訳注]  Heb “do not rebuke her” (so NASB, NRSV); CEV “don’t speak harshly to her”; NLT “don’t give her a hard time.”
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “she beat out” (so NAB, NASB, NRSV, NLT). Ruth probably used a stick to separate the kernels of grain from the husks. See O. Borowski, Agriculture in Iron Age Israel, 63.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “there was an ephah.” An ephah was a dry measure, equivalent to one-tenth of a homer (see HALOT 43 s.v. אֵיפָה). An ephah was equivalent to a “bath,” a liquid measure. Jars labeled “bath” found at archaeological sites in Israel could contain approximately 5.8 gallons, or one-half to two-thirds of a bushel. Thus an ephah of barley would have weighed about 29 to 30 pounds (just over 13 kg). See R. L. Hubbard, Jr., Ruth (NICOT), 179.[解説]  This was a huge amount of barley for one woman to gather in a single day. It testifies both to Ruth’s industry and to Boaz’s generosity.
+
+### Verse 18 - Note 1
+[写本注]  MT vocalizes ותרא as the Qal verb וַתֵּרֶא (vattere’, “and she saw”), consequently of “her mother-in-law” as subject and “what she gathered” as the direct object: “her mother-in-law saw what she gathered.” A few medieval Hebrew mss (also reflected in Syriac and Vulgate) have the Hiphil וַתַּרְא (vattar’, “and she showed”), consequently taking “her mother-in-law” as the direct object and “what she gathered” as the double direct-object: “she showed her mother-in-law what she had gathered” (cf. NAB, TEV, CEV, NLT). Although the latter has the advantage of making Ruth the subject of all the verbs in this verse, it would be syntactically difficult. For one would expect the accusative sign אֶת (’et) before “her mother-in-law” if it were the direct object of a Hiphil verb in a sentence with a double direct object introduced by the accusative sign אֶת, e.g., “to show (Hiphil of רָאָה, ra’ah) your servant (direct object marked by accusative sign אֶת) your greatness (double direct object marked by accusative sign אֶת) (Deut 3:24). Therefore the MT reading is preferred.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “that which”; the referent (how much grain) has been specified in the translation for clarity.
+
+### Verse 18 - Note 3
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 18 - Note 4
+[翻訳注]  Heb “and she brought out and gave to her that which she had left over from her being satisfied.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “said to her.” Since what follows is a question, the translation uses “asked her” here.
+
+### Verse 19 - Note 2
+[翻訳注]  Or “blessed” (so NAB, NIV, NRSV). The same expression occurs in the following verse.
+
+### Verse 19 - Note 3
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 20 - Note 1
+[翻訳注]  Many English versions translate this statement, “May he [Boaz] be blessed by the Lord, who has not abandoned his loyalty to the living and dead.” In this case the antecedent of אֲשֶׁר (’asher, “who”) would be the immediately preceding “the Lord.” However, this understanding of the construction is not accurate. The antecedent of אֲשֶׁר is Boaz, not the Lord. Elsewhere when אֲשֶׁר follows the blessing formula בָּרוּךְ (barukh, Qal passive participle) + proper name/pronoun, it always introduces the reason the recipient of the blessing deserves a reward. (For this reason one could analyze אֲשֶׁר as a causal conjunction in this construction.) If אֲשֶׁר refers to the Lord here, then this verse, unlike others using the construction, gives no such reason for the recipient being blessed. 2 Sam 2:5, which provides the closest structural parallel to Ruth 2:20, supports this interpretation: בְּרֻכִים אַתֶּם לַיהוָה אֲשֶׁר עֲשִׂיתֶם הַחֶסֶד הַזֶּה עִם־אֲדֹנֵיכֶם עִם־שָׁאוּל, “May you [plural] be blessed by the Lord, you who [plural]/because you [plural] have extended such kindness to your master Saul.” Here אֲשֶׁר refers back to the second plural pronoun אַתֶּם (’atem, “you”) in the formula, as the second plural verb עֲשִׂיתֶם(’asitem) after אֲשֶׁר indicates. Though יְהוָה (yÿhvah) is in closer proximity to אֲשֶׁר, it is not the antecedent. The evidence suggests that Ruth 2:20 should be translated and interpreted as follows: “May he [Boaz] be blessed by the Lord, he who [i.e., Boaz]/because he [i.e., Boaz] has not abandoned his loyalty to the living and dead.” Cf. NIV, NCV, CEV, NLT. See B. A. Rebera, “Yahweh or Boaz? Ruth 2.20 Reconsidered,” BT 36 (1985): 317-27, and F. W. Bush, Ruth, Esther (WBC), 134-36. By caring for the impoverished widows’ physical needs, Boaz had demonstrated loyalty to both the living (the impoverished widows) and the dead (their late husbands). See R. B. Chisholm, From Exegesis to Exposition, 72.
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “to the living and the dead” (so KJV, NASB).
+
+### Verse 20 - Note 3
+[翻訳注]  The Hebrew term גָּאַל (ga’al) is sometimes translated “redeemer” here (NIV “one of our kinsman-redeemers”; NLT “one of our family redeemers”). In this context Boaz, as a “redeemer,” functions as a guardian of the family interests who has responsibility for caring for the widows of his deceased kinsmen.
+
+### Verse 21 - Note 1
+[翻訳注]  On the force of the phrase גָּם כִּי (gam ki) here, see F. W. Bush, Ruth, Esther (WBC), 138-39.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “with the servants who are mine you may stay close.” The imperfect has a permissive nuance here. The word “servants” is masculine plural.
+
+### Verse 21 - Note 3
+[翻訳注]  Heb “until they have finished all the harvest which is mine”; NIV “until they finish harvesting all my grain.”
+
+### Verse 22 - Note 1
+[翻訳注]  Naomi uses the feminine form of the word “servant” (as Boaz did earlier, see v. 8), in contrast to Ruth’s use of the masculine form in the preceding verse. Since she is concerned for Ruth’s safety, she may be subtly reminding Ruth to stay with the female workers and not get too close to the men.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “and they will not harm you in another field”; NRSV “otherwise you might be bothered in another field.”
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “and she stayed close with”; NIV, NRSV, CEV “stayed close to”; NCV “continued working closely with.”
+
+### Verse 23 - Note 3
+[解説]  Barley was harvested from late March through late April, wheat from late April to late May (O. Borowski, Agriculture in Ancient Israel, 88, 91).
+
+### Verse 23 - Note 4
+[翻訳注]  Heb “and she lived with her mother-in-law” (so NASB). Some interpret this to mean that she lived with her mother-in-law while working in the harvest. In other words, she worked by day and then came home to Naomi each evening. Others understand this to mean that following the harvest she stayed at home each day with Naomi and no longer went out looking for work (see F. W. Bush, Ruth, Esther [WBC], 140). Others even propose that she lived away from home during this period, but this seems unlikely. A few Hebrew mss (so also Latin Vulgate) support this view by reading, “and she returned to her mother-in-law.”

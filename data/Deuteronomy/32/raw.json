@@ -1,0 +1,684 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;mist,&#8221; &#8220;light drizzle.&#8221; In some contexts the term appears to refer to light rain, rather than dew.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Smr and Tg read &#8220;in the name.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX reads <font face=\"Galaxie Unicode Greek\">&#920;&#949;&#972;&#962;</font> (<font face=\"Greektl\">qeos</font>, &#8220;God&#8221;) for the MT&#8217;s &#8220;Rock.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> The Hebrew term depicts God as a rocky summit where one may find safety and protection. Within a covenantal context it serves as a reminder to the people that their God has committed himself to their protection in return for their allegiance.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;just&#8221; (KJV, NAB, NRSV, NLT) or &#8220;righteous&#8221; (NASB).</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The 3rd person masculine singular <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1495;&#1463;&#1514;</font> (<font face=\"Scholar\">shakhat</font>) is rendered as 3rd person masculine plural by Smr, a reading supported by the plural suffix on <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1493;&#1468;&#1501;</font> (<font face=\"Scholar\">mum</font>, &#8220;defect&#8221;) as well as the plural of <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1461;&#1503;</font> (<font face=\"Scholar\">ben</font>, &#8220;sons&#8221;).<p class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;have acted corruptly&#8221; (so NASB, NIV, NLT); NRSV &#8220;have dealt falsely.&#8221;</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;(they are) not his sons.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;defect&#8221; (so NASB). This highly elliptical line suggests that Israel&#8217;s major fault was its failure to act like God&#8217;s people; in fact, they acted quite the contrary.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;twisted,&#8221; &#8220;crooked.&#8221; See <span class=\"bibleref\" title=\"Psalms 18:26\">Ps 18:26</span>.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;treat&#8221; (TEV).</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Syriac, Targum, and Vulgate read 2nd person masculine singular whereas the MT has 2nd person masculine plural. The former is preferred, the latter perhaps being a misreading (<font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1460;&#1497;&#1504;&#1493;&#1468;</font> [<font face=\"Scholar\">binu</font>] for <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1460;&#1497;&#1504;&#1464;&#1492;</font> [<font face=\"Scholar\">binah</font>]). Both the preceding (&#8220;remember&#8221;) and following (&#8220;ask&#8221;) imperatives are singular forms in the Hebrew text.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;generation and generation.&#8221; The repetition of the singular noun here singles out each of the successive past generations. See <i>IBHS</i> 116 &#167;7.2.3b.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1462;&#1500;&#1497;&#1493;&#1465;&#1503;</font> (&#8217;<font face=\"Scholar\">elyon</font>) is an abbreviated form of the divine name <i>El Elyon</i>, frequently translated &#8220;God Most High&#8221; (so here NCV, CEV) or something similar. This full name (or epithet) occurs only in , though the two elements are parallel in <span class=\"bibleref\" title=\"Psalms 73:11;107:11\">Ps 73:11; 107:11</span>; etc. Here it is clear that Elyon has to do with the nations in general whereas in v. <span class=\"bibleref\" title=\"Deuteronomy 32:9\">9</span>, by contrast, Yahweh relates specifically to Israel. See T. Fretheim, <i>NIDOTTE</i> 1:400-401. The title depicts God as the sovereign ruler of the world, who is enthroned high above his dominion.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of man&#8221; (so NASB); or &#8220;the sons of Adam&#8221; (so KJV).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;the sons of Israel.&#8221; The idea, perhaps, is that Israel was central to Yahweh&#8217;s purposes and all other nations were arranged and distributed according to how they related to Israel. See S. R. Driver, <i>Deuteronomy</i> (ICC), 355-56. For the MT <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1460;&#1513;&#1474;&#1456;&#1512;&#1464;&#1488;&#1461;&#1500;</font> <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497;</font> (<font face=\"Scholar\">b&#255;ney yisra</font>&#8217;<font face=\"Scholar\">el</font>, &#8220;sons of Israel&#8221;) a Qumran fragment has &#8220;sons of God,&#8221; while the LXX reads <font face=\"Galaxie Unicode Greek\">&#7936;&#947;&#947;&#941;&#955;&#969;&#957; &#952;&#949;&#959;&#8166;</font> (<font face=\"Greektl\">angelwn qeou</font>, &#8220;angels of God&#8221;), presupposing <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497; &#1488;&#1461;&#1500;</font> (<font face=\"Scholar\">b&#255;ney</font> &#8217;<font face=\"Scholar\">el</font>) or <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1504;&#1461;&#1497; &#1488;&#1461;&#1500;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">beney</font> &#8217;<font face=\"Scholar\">elim</font>). &#8220;Sons of God&#8221; is undoubtedly the original reading; the MT and LXX have each interpreted it differently. MT assumes that the expression &#8220;sons of God&#8221; refers to Israel (cf. <span class=\"bibleref\" title=\"Hosea 1:10\">Hos. 1:10</span>), while LXX has assumed that the phrase refers to the angelic heavenly assembly (<span class=\"bibleref\" title=\"Psalms 29:1;89:6\">Pss 29:1; 89:6</span>; cf. as well ). The phrase is also attested in Ugaritic, where it refers to the high god El&#8217;s divine assembly. According to the latter view, which is reflected in the translation, the Lord delegated jurisdiction over the nations to his angelic host (cf. <span class=\"bibleref\" title=\"Daniel 10:13-21\">Dan. 10:13-21</span>), while reserving for himself Israel, over whom he rules directly. For a defense of the view taken here, see M. S. Heiser, &#8220;<span class=\"bibleref\" title=\"Deuteronomy 32:8\">Deuteronomy 32:8</span> and the Sons of God,&#8221; <i>BSac</i> 158 (2001): 52-74.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;the portion of his inheritance.&#8221; The LXX and Smr add &#8220;Israel&#8221; and <i>BHS</i> suggests the reconstruction: &#8220;The <sc>Lord</sc>&#8217;s allotment is Jacob, the portion of his inheritance is Israel&#8221; (cf. NAB). While providing good parallelism, it destroys a fine chiastic structure: &#8220;allotment&#8221; (a), &#8220;his people&#8221; (b), &#8220;Jacob (b&#8217;), and &#8220;inheritance&#8221; (a&#8217;).</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he.&#8221; The referent (the Lord) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The reference is to &#8220;his people/Jacob&#8221; (cf. v. <span class=\"bibleref\" title=\"Deuteronomy 32:9\">9</span>), that is, Israel (using a collective singular). The singular pronouns are replaced by plural ones throughout vv. <span class=\"bibleref\" title=\"Deuteronomy 32:10-14\">10-14</span> by some English versions as an aid to the modern reader (cf. NAB, NCV, TEV, NLT).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in an empty, howling wasteland.&#8221; The word &#8220;howling&#8221; is derived from a verbal root that typically refers to the wailing of mourners. Here it likely refers to the howling of desert animals, or perhaps to the howling wind, in which case one may translate, &#8220;in an empty, windy wasteland.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;was surrounding him.&#8221; The distinctive form of the suffix on this verb form indicates that the verb is an imperfect, not a preterite. As such it draws attention to God&#8217;s continuing care during the period in view. See A. F. Rainey, &#8220;The Ancient Hebrew Prefix Conjugation in the Light of Amarnah Canaanite,&#8221; <i>Hebrew Studies</i> 27 (1986): 15-16.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he gave him understanding.&#8221; The form of the suffix on this verb form indicates that the verb is a preterite, not an imperfect. As such it simply states the action factually. See A. F. Rainey, &#8220;The Ancient Hebrew Prefix Conjugation in the Light of Amarnah Canaanite,&#8221; <i>Hebrew Studies</i> 27 (1986): 15-16.</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The distinctive form of the suffix on this verb form indicates that the verb is an imperfect, not a preterite. As such it draws attention to God&#8217;s continuing protection during the period in view. See A. F. Rainey, &#8220;The Ancient Hebrew Prefix Conjugation in the Light of Amarnah Canaanite,&#8221; <i>Hebrew Studies</i> 27 (1986): 15-16.</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the little man.&#8221; The term <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1460;&#1497;&#1513;&#1473;&#1493;&#1465;&#1503;</font> (&#8217;<font face=\"Scholar\">ishon</font>) means literally &#8220;little man,&#8221; perhaps because when one looks into another&#8217;s eyes he sees himself reflected there in miniature. See A. Harman, <i>NIDOTTE</i> 1:391.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The prefixed verbal form is an imperfect, indicating habitual or typical behavior. The parallel verb (cf. &#8220;hovers&#8221; in the next line) is used in the same manner.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (the <sc>Lord</sc>) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The form of the suffix on this and the following verb forms (cf. &#8220;lifted him up&#8221;) indicates that the verbs are preterites, not imperfects. As such they simply state the action factually. The use of the preterite here suggests that the preceding verb (cf. &#8220;spread out&#8221;) is preterite as well.</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The distinctive form of the suffix on this verb form indicates that the verb is an imperfect, not a preterite. As such it draws attention to God&#8217;s continuing guidance during the period in view.</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The form of the suffix on this verbal form indicates that the verb is a preterite, not an imperfect. As such it simply states the action factually. Note as well the preterites with <i>vav</i> (<font face=\"Galaxie Unicode Hebrew\">&#1493;</font>) consecutive that follow in the verse.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he made him suck honey from the rock.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;oil,&#8221; but this probably refers to olive oil; see note on the word &#8220;rock&#8221; at the end of this verse.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;flinty.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Olive oil</i> from <i>rock</i> probably suggests olive trees growing on rocky ledges and yet doing so productively. See E. H. Merrill, <i>Deuteronomy</i> (NAC), 415; cf. TEV &#8220;their olive trees flourished in stony ground.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> To make the continuity of the referent clear, some English versions substitute &#8220;Jacob&#8221; here (NAB, NRSV) while others replace &#8220;Jeshurun&#8221; with &#8220;Israel&#8221; (NCV, CEV, NLT) or &#8220;the Lord&#8217;s people&#8221; (TEV).<p class=\"note\"><span class=\"notetype\">sn</span> <i>Jeshurun</i> is a term of affection derived from the Hebrew verb <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1464;&#1513;&#1473;&#1463;&#1512;</font> (<font face=\"Scholar\">yashar</font>, &#8220;be upright&#8221;). Here it speaks of Israel &#8220;in an ideal situation, with its &#8216;uprightness&#8217; due more to God&#8217;s help than his own efforts&#8221; (M. Mulder, <i>TDOT</i> 6:475).</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX reads the third person masculine singular (&#8220;he&#8221;) for the MT second person masculine singular (&#8220;you&#8221;), but such alterations are unnecessary in Hebrew poetic texts where subjects fluctuate frequently and without warning.</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;with strange (things).&#8221; The Vulgate actually supplies <font face=\"Scholar\">diis</font> (&#8220;gods&#8221;).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;abhorrent (things)&#8221; (cf. NRSV). A number of English versions understand this as referring to &#8220;idols&#8221; (NAB, NIV, NCV, CEV), while NLT supplies &#8220;acts.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your fathers.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Hebrew text is corrupt here; the translation follows the suggestion offered in <i>HALOT</i> 1477 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1497;&#1492;</font>. Cf. NASB, NLT &#8220;You neglected&#8221;; NIV &#8220;You deserted&#8221;; NRSV &#8220;You were unmindful of.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;I will hide my face from them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;sons&#8221; (so NAB, NASB); TEV &#8220;unfaithful people.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>They have made me jealous</i>. The &#8220;jealousy&#8221; of God is not a spirit of pettiness prompted by his insecurity, but righteous indignation caused by the disloyalty of his people to his covenant grace (see note on the word &#8220;God&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 4:24\">Deut 4:24</span>). The jealousy of Israel, however (see next line), will be envy because of God&#8217;s lavish attention to another nation. This is an ironic wordplay. See H. Peels, <i>NIDOTTE</i> 3:938-39.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;what is not a god,&#8221; or a &#8220;nondeity.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their empty (things).&#8221; The Hebrew term used here to refer pejoratively to the false gods is <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1462;&#1489;&#1462;&#1500;</font> (<font face=\"Scholar\">hevel</font>, &#8220;futile&#8221; or &#8220;futility&#8221;), used frequently in Ecclesiastes (e.g., <span class=\"bibleref\" title=\"Ecclesiastes 1:1\">Eccl 1:1</span>, &#8220;Futile! Futile!&#8221; laments the Teacher, &#8220;Absolutely futile! Everything is futile!&#8221;).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;what is not a people,&#8221; or a &#8220;nonpeople.&#8221; The &#8220;nonpeople&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1500;&#1465;&#1488;&#1470;&#1506;&#1464;&#1501;</font>, <font face=\"Scholar\">lo</font>&#8217;<font face=\"Scholar\">-</font>&#8217;<font face=\"Scholar\">am</font>) referred to here are Gentiles who someday would become God&#8217;s people in the fullest sense (cf. <span class=\"bibleref\" title=\"Hosea 1:9;2:23\">Hos 1:9; 2:23</span>).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a foolish nation&#8221; (so KJV, NAB, NRSV); NIV &#8220;a nation that has no understanding&#8221;; NLT &#8220;I will provoke their fury by blessing the foolish Gentiles.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;to the lowest depths of the earth&#8221;; cf. NAB &#8220;to the depths of the nether world&#8221;; NIV &#8220;to the realm of death below&#8221;; NLT &#8220;to the depths of the grave.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> <i>Sheol</i> refers here not to hell and hell-fire &#8211; a much later concept &#8211; but to the innermost parts of the earth, as low down as one could get. The parallel with &#8220;the foundations of the mountains&#8221; makes this clear (cf. <span class=\"bibleref\" title=\"Psalms 9:17;16:10;139:8\">Pss 9:17; 16:10; 139:8</span>; <span class=\"bibleref\" title=\"Isaiah 14:9,15\">Isa 14:9, 15</span>; <span class=\"bibleref\" title=\"Amos 9:2\">Amos 9:2</span>).</p></div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;upon them.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <i><font face=\"Galaxie Unicode Hebrew\">&#1511;&#1462;&#1496;&#1462;&#1489;</font></i> (<font face=\"Scholar\">qetev</font>) is probably metaphorical here for the sting of a disease (<i>HALOT</i> 1091-92 s.v.).</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> A verb is omitted here in the Hebrew text; for purposes of English style one suitable to the context is supplied.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX reads &#8220;I said I would scatter them.&#8221; This reading is followed by a number of English versions (e.g., KJV, ASV, NIV, NCV, NRSV, NLT, CEV).</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;anger.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lest.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Our hand is high.&#8221; Cf. NAB &#8220;Our own hand won the victory.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;man&#8221; and &#8220;of them&#8221; are not in the Hebrew text, but are supplied in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;sold them&#8221; (so NAB, NIV, NRSV, NLT).</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their,&#8221; but the referent (enemies) is specified in the translation for the sake of clarity.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;vine.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Sodom&#8230;Gomorrah</i>. The term &#8220;vine&#8221; is a reference to the pagan deities which, the passage says, find their ultimate source in Sodom and Gomorrah, that is, in the soil of perversion exemplified by these places (cf. <span class=\"bibleref\" title=\"Genesis 18:20;19:4-28\">Gen 18:20; 19:4-28</span>; <span class=\"bibleref\" title=\"Isaiah 1:10;3:9\">Isa 1:10; 3:9</span>; <span class=\"bibleref\" title=\"Jeremiah 23:14\">Jer 23:14</span>; <span class=\"bibleref\" title=\"Lamentations 4:6\">Lam 4:6</span>; <span class=\"bibleref\" title=\"Ezekiel 16:44-52\">Ezek 16:44-52</span>; <span class=\"bibleref\" title=\"Matthew 10:15;11:23-24\">Matt 10:15; 11:23-24</span>).</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Verses <span class=\"bibleref\" title=\"Deuteronomy 32:34-35\">34-35</span> appear to be a quotation of the <sc>Lord</sc> and so the introductory phrase &#8220;says the <sc>Lord</sc>&#8221; is supplied in the translation.</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;prepared things,&#8221; &#8220;impending things.&#8221; See BDB 800 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1514;&#1460;&#1497;&#1491;</font>.</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The translation understands the verb in the sense of &#8220;be grieved, relent&#8221; (cf. <i>HALOT</i> 689 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1504;&#1495;&#1501;</font> hitp 2); cf. KJV, ASV &#8220;repent himself&#8221;; NLT &#8220;will change his mind.&#8221; Another option is to translate &#8220;will show compassion to&#8221; (see BDB 637 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1504;&#1495;&#1501;</font>); cf. NASB, NIV, NRSV.</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Verses <span class=\"bibleref\" title=\"Deuteronomy 32:39-42\">39-42</span> appear to be a quotation of the <sc>Lord</sc> and so the introductory phrase &#8220;says the <sc>Lord</sc>&#8221; is supplied in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;deliver from&#8221; (so NRSV, NLT).</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;judgment.&#8221; This is a metonymy, a figure of speech in which the effect (judgment) is employed as an instrument (sword, spear, or the like), the means, by which it is brought about.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <i><font face=\"Galaxie Unicode Hebrew\">&#1513;&#1474;&#1464;&#1504;&#1461;&#1488;</font></i> (<font face=\"Scholar\">sane</font>&#8217;, &#8220;hate&#8221;) in this covenant context speaks of those who reject Yahweh&#8217;s covenant overtures, that is, who disobey its stipulations (see note on the word &#8220;rejecting&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 5:9\">Deut 5:9</span>; also see <span class=\"bibleref\" title=\"Deuteronomy 7:10\">Deut 7:10</span>; <span class=\"bibleref\" title=\"2 Chronicles 19:2\">2 Chr 19:2</span>; <span class=\"bibleref\" title=\"Psalms 81:15;139:20-21\">Ps 81:15; 139:20-21</span>).</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;head&#8221; (the same Hebrew word can mean &#8220;head&#8221; in the sense of &#8220;leader, chieftain&#8221; or &#8220;head&#8221; in the sense of body part).</div>"
+      ]
+    ],
+    "44": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Hoshea&#8221; (so KJV, ASV), another name for the same individual (cf. <span class=\"bibleref\" title=\"Numbers 13:8,16\">Num 13:8, 16</span>).</div>"
+      ]
+    ],
+    "49": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Abarim</i>. This refers to the high plateau region of the Transjordan, the highest elevation of which is Mount Pisgah (or Nebo; cf. <span class=\"bibleref\" title=\"Deuteronomy 34:1\">Deut 34:1</span>). See also the note on the name &#8220;Pisgah&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 3:17\">Deut 3:17</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</div>"
+      ]
+    ],
+    "50": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In the Hebrew text the forms translated &#8220;you will die&#8230;and join&#8221; are imperatives, but the actions in view cannot really be commanded. The imperative is used here in a rhetorical, emphatic manner to indicate the certainty of Moses&#8217; death on the mountain. On the rhetorical use of the imperative see <i>IBHS</i> 572 &#167;34.4c.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;be gathered to your people.&#8221; The same phrase occurs again later in this verse.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Mount Hor</i>. See note on the name &#8220;Moserah&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 10:6\">Deut 10:6</span>.</div>"
+      ]
+    ],
+    "51": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The use of the plural (&#8220;you&#8221;) in the Hebrew text suggests that Moses and Aaron are both in view here, since both had rebelled at some time or other, if not at Meribah Kadesh then elsewhere (cf. <span class=\"bibleref\" title=\"Numbers 20:24;27:14\">Num 20:24; 27:14</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;did not esteem me holy.&#8221; Cf. NIV &#8220;did not uphold my holiness&#8221;; NLT &#8220;failed to demonstrate my holiness.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "1",
+      "text": "Listen, O heavens, and I will speak; hear, O earth, the words of my mouth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "2",
+      "text": "My teaching will drop like the rain, my sayings will drip like the dew, as rain drops upon the grass, and showers upon new growth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "3",
+      "text": "For I will proclaim the name of the Lord; you must acknowledge the greatness of our God. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "4",
+      "text": "As for the Rock, his work is perfect, for all his ways are just. He is a reliable God who is never unjust, he is fair and upright. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "5",
+      "text": "His people have been unfaithful to him; they have not acted like his children—this is their sin. They are a perverse and deceitful generation. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "6",
+      "text": "Is this how you repay the Lord, you foolish, unwise people? Is he not your father, your Creator? He has made you and established you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "7",
+      "text": "Remember the ancient days; bear in mind the years of past generations. Ask your father and he will inform you, your elders, and they will tell you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "8",
+      "text": "When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "9",
+      "text": "For the Lord’s allotment is his people, Jacob is his special possession. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "10",
+      "text": "The Lord found him in a desolate land, in an empty wasteland where animals howl. He continually guarded him and taught him; he continually protected him like the pupil of his eye. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "11",
+      "text": "Like an eagle that stirs up its nest, that hovers over its young, so the Lord spread out his wings and took him, he lifted him up on his pinions. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "12",
+      "text": "The Lord alone was guiding him, no foreign god was with him."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "13",
+      "text": "He enabled him to travel over the high terrain of the land, and he ate of the produce of the fields. He provided honey for him from the cliffs, and olive oil from the hardest of rocks, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "14",
+      "text": "butter from the herd and milk from the flock, along with the fat of lambs, rams and goats of Bashan, along with the best of the kernels of wheat; and from the juice of grapes you drank wine. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "15",
+      "text": "But Jeshurun became fat and kicked; you got fat, thick, and stuffed! Then he deserted the God who made him, and treated the Rock who saved him with contempt. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "16",
+      "text": "They made him jealous with other gods, they enraged him with abhorrent idols."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "17",
+      "text": "They sacrificed to demons, not God, to gods they had not known; to new gods who had recently come along, gods your ancestors had not known about."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "18",
+      "text": "You forgot the Rock who fathered you, and put out of mind the God who gave you birth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "19",
+      "text": "But the Lord took note and despised them because his sons and daughters enraged him."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "20",
+      "text": "He said, “I will reject them. I will see what will happen to them; for they are a perverse generation, children who show no loyalty. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "21",
+      "text": "They have made me jealous with false gods, enraging me with their worthless gods; so I will make them jealous with a people they do not recognize, with a nation slow to learn I will enrage them."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "22",
+      "text": "For a fire has been kindled by my anger, and it burns to lowest Sheol; it consumes the earth and its produce, and ignites the foundations of the mountains. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "23",
+      "text": "I will increase their disasters; I will use up my arrows on them. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "24",
+      "text": "They will be starved by famine, eaten by plague, and bitterly stung; I will send the teeth of wild animals against them, along with the poison of creatures that crawl in the dust. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "25",
+      "text": "The sword will make people childless outside, and terror will do so inside; they will destroy both the young man and the virgin, the infant and the gray-haired man. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "26",
+      "text": "“I said, ‘I want to cut them in pieces. I want to make people forget they ever existed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "27",
+      "text": "But I fear the reaction of their enemies, for their adversaries would misunderstand and say, “Our power is great, and the Lord has not done all this!”’ "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "28",
+      "text": "They are a nation devoid of wisdom, and there is no understanding among them."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "29",
+      "text": "I wish that they were wise and could understand this, and that they could comprehend what will happen to them.”"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "30",
+      "text": "How can one man chase a thousand of them, and two pursue ten thousand, unless their Rock had delivered them up— and the Lord had handed them over?"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "31",
+      "text": "For our enemies’ rock is not like our Rock, as even our enemies concede. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "32",
+      "text": "For their vine is from the stock of Sodom, and from the fields of Gomorrah. Their grapes contain venom; their clusters of grapes are bitter. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "33",
+      "text": "Their wine is snakes’ poison, the deadly venom of cobras. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "34",
+      "text": "“Is this not stored up with me?” says the Lord, “Is it not sealed up in my storehouses? "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "35",
+      "text": "I will get revenge and pay them back at the time their foot slips; for the day of their disaster is near, and the impending judgment is rushing upon them!”"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "36",
+      "text": "The Lord will judge his people, and will change his plans concerning his servants; when he sees that their power has disappeared, and that no one is left, whether confined or set free. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "37",
+      "text": "He will say, “Where are their gods, the rock in whom they sought security,"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "38",
+      "text": "who ate the best of their sacrifices, and drank the wine of their drink offerings? Let them rise and help you; let them be your refuge! "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "39",
+      "text": "“See now that I, indeed I, am he!” says the Lord, “and there is no other god besides me. I kill and give life, I smash and I heal, and none can resist my power. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "40",
+      "text": "For I raise up my hand to heaven, and say, ‘As surely as I live forever, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "41",
+      "text": "I will sharpen my lightning-like sword, and my hand will grasp hold of the weapon of judgment; I will execute vengeance on my foes, and repay those who hate me!"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "42",
+      "text": "I will make my arrows drunk with blood, and my sword will devour flesh— the blood of the slaughtered and captured, the chief of the enemy’s leaders.’” "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "43",
+      "text": "Cry out, O nations, with his people, for he will avenge his servants’ blood; he will take vengeance against his enemies, and make atonement for his land and people. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "44",
+      "text": "Then Moses went with Joshua son of Nun and recited all the words of this song to the people. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "45",
+      "text": "When Moses finished reciting all these words to all Israel "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "46",
+      "text": "he said to them, “Keep in mind all the words I am solemnly proclaiming to you today; you must command your children to observe carefully all the words of this law. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "47",
+      "text": "For this is no idle word for you—it is your life! By this word you will live a long time in the land you are about to cross the Jordan to possess.” "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "48",
+      "text": "Then the Lord said to Moses that same day, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "49",
+      "text": "“Go up to this Abarim hill country, to Mount Nebo (which is in the land of Moab opposite Jericho), and look at the land of Canaan that I am giving to the Israelites as a possession. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "50",
+      "text": "You will die on the mountain that you ascend and join your deceased ancestors, just as Aaron your brother died on Mount Hor and joined his deceased ancestors, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "51",
+      "text": "for both of you rebelled against me among the Israelites at the waters of Meribah Kadesh in the wilderness of Zin when you did not show me proper respect among the Israelites. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "32",
+      "verse": "52",
+      "text": "You will see the land before you, but you will not enter the land that I am giving to the Israelites.” "
+    }
+  ]
+}

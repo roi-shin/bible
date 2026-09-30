@@ -1,0 +1,662 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> These technical Hebrew terms (<font face=\"Galaxie Unicode Hebrew\">&#1495;&#1467;&#1511;&#1468;&#1460;&#1497;&#1501;</font> [<font face=\"Scholar\">khuqqim</font>] and <i><font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1513;&#1473;&#1456;&#1508;&#1468;&#1464;&#1496;&#1460;&#1497;&#1501;</font></i> [<font face=\"Scholar\">mishpatim</font>]) occur repeatedly throughout the Book of Deuteronomy to describe the covenant stipulations to which Israel had been called to subscribe (see, in this chapter alone, vv. <span class=\"bibleref\" title=\"Deuteronomy 4:1,5,6,8\">1, 5, 6, 8</span>). The word <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1467;&#1511;&#1468;&#1460;&#1497;&#1501;</font> derives from the verb <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1465;&#1511;</font> (<font face=\"Scholar\">khoq</font>, &#8220;to inscribe; to carve&#8221;) and <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1513;&#1473;&#1456;&#1508;&#1468;&#1464;&#1496;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">mishpatim</font>) from <i><font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1508;&#1463;&#1496;</font></i> (<font face=\"Scholar\">shafat</font>, &#8220;to judge&#8221;). They are virtually synonymous and are used interchangeably in Deuteronomy.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fathers&#8221; (also in vv. <span class=\"bibleref\" title=\"Deuteronomy 4:31,37\">31, 37</span>).</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanding.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX and Syriac read &#8220;to Baal Peor,&#8221; that is, the god worshiped at that place; see note on the name &#8220;Beth Peor&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 3:29\">Deut 3:29</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God.&#8221; The pronoun has been used in the translation for stylistic reasons to avoid redundancy.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;<sc>followed the Baal of Peor</sc>&#8221; (so NAB, NIV, NRSV), referring to the pagan god Baal.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the midst of&#8221; (so ASV).</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;it is wisdom and understanding.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;wise and understanding.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;pure&#8221;; or &#8220;fair&#8221;; <i>Heb</i> &#8220;righteous.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew phrase <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1463;&#1514;&#1468;&#1493;&#1465;&#1512;&#1464;&#1492; &#1492;&#1463;&#1494;&#1468;&#1465;&#1488;&#1514;</font> (<font face=\"Scholar\">hattorah hazzo</font>&#8217;<font face=\"Scholar\">t</font>), in this context, refers specifically to the Book of Deuteronomy. That is, it is the collection of all the <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1467;&#1511;&#1468;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">khuqqim</font>, &#8220;statutes,&#8221; <span class=\"bibleref\" title=\"Deuteronomy 4:1\">4:1</span>) and <i><font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1513;&#1473;&#1456;&#1508;&#1468;&#1464;&#1496;&#1460;&#1497;&#1501;</font></i> (<font face=\"Scholar\">mishpatim</font>, &#8220;ordinances,&#8221; <span class=\"bibleref\" title=\"Deuteronomy 4:1\">4:1</span>) to be included in the covenant text. In a full canonical sense, of course, it pertains to the entire Pentateuch or Torah.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;place before.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;watch yourself and watch your soul carefully.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The text begins with &#8220;(the) day (in) which.&#8221; In the Hebrew text v. <span class=\"bibleref\" title=\"Deuteronomy 4:10\">10</span> is subordinate to v. <span class=\"bibleref\" title=\"Deuteronomy 4:11\">11</span>, but for stylistic reasons the translation treats v. <span class=\"bibleref\" title=\"Deuteronomy 4:10\">10</span> as an independent clause, necessitating the omission of the subordinating temporal phrase at the beginning of the verse.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc>.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 4:3\">4:3</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;my words.&#8221; See v. <span class=\"bibleref\" title=\"Deuteronomy 4:13\">13</span>; in Hebrew the &#8220;ten commandments&#8221; are the &#8220;ten words.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a mountain burning with fire as far as the heart of the heavens.&#8221; The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1497;&#1460;&#1501;</font> (<font face=\"Scholar\">shamayim</font>) may be translated &#8220;heaven(s)&#8221; or &#8220;sky&#8221; depending on the context.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;darkness, cloud, and heavy cloud.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;was heard&#8221; are supplied in the translation to avoid the impression that the voice was seen.</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This is the first occurrence of the word <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1512;&#1460;&#1497;&#1514;</font> (<font face=\"Scholar\">b&#255;rit</font>, &#8220;covenant&#8221;) in the Book of Deuteronomy but it appears commonly hereafter (<span class=\"bibleref\" title=\"Deuteronomy 4:23,31;5:2,3;7:9,12;8:18;9:9,10,11,15;10:2,4,5,8;17:2;29:1,9,12,14,15,18,21,25;31:9,16,20,25,26;33:9\">4:23, 31; 5:2, 3; 7:9, 12; 8:18; 9:9, 10, 11, 15; 10:2, 4, 5, 8; 17:2; 29:1, 9, 12, 14, 15, 18, 21, 25; 31:9, 16, 20, 25, 26; 33:9</span>). Etymologically, it derives from the notion of linking or yoking together. See M. Weinfeld, <i>TDOT</i> 2:255.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the ten words.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to which you are crossing over to possess it.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;give great care to your souls.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;I say this&#8221; are supplied in the translation for stylistic reasons. In the Hebrew text v. <span class=\"bibleref\" title=\"Deuteronomy 4:16\">16</span> is subordinated to &#8220;Be careful&#8221; in v. <span class=\"bibleref\" title=\"Deuteronomy 4:15\">15</span>, but this makes for an unduly long sentence in English.</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;creeping thing.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the earth.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lest you lift up your eyes.&#8221; In the Hebrew text vv. <span class=\"bibleref\" title=\"Deuteronomy 4:16-19\">16-19</span> are subordinated to &#8220;Be careful&#8221; in v. <span class=\"bibleref\" title=\"Deuteronomy 4:15\">15</span>, but this makes for an unduly long sentence in English.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;heavens.&#8221; The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1497;&#1460;&#1501;</font> (<font face=\"Scholar\">shamayim</font>) may be translated &#8220;heaven(s)&#8221; or &#8220;sky&#8221; depending on the context.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the host of heaven.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In the Hebrew text the verbal sequence in v. <span class=\"bibleref\" title=\"Deuteronomy 4:19\">19</span> is &#8220;lest you look up&#8230;and see&#8230;and be seduced&#8230;and worship them&#8230;and serve them.&#8221; However, the first two actions are not prohibited in and of themselves. The prohibition pertains to the final three actions. The first two verbs describe actions that are logically subordinate to the following actions and can be treated as temporal or circumstantial: &#8220;lest, looking up&#8230;and seeing&#8230;, you are seduced.&#8221; See Jo&#252;on 2:635 &#167;168.<i>h</i>.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;allotted.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;nations.&#8221;</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under all the heaven.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> The OT views the heavenly host as God&#8217;s council, which surrounds his royal throne ready to do his bidding (see <span class=\"bibleref\" title=\"1 Kings 22:19\">1 Kgs 22:19</span>). God has given this group, sometimes called the &#8220;sons of God&#8221; (cf. <span class=\"bibleref\" title=\"Job 1:6;38:7\">Job 1:6; 38:7</span>; <span class=\"bibleref\" title=\"Psalms 89:6\">Ps 89:6</span>), jurisdiction over the nations. See <span class=\"bibleref\" title=\"Deuteronomy 32:8\">Deut 32:8</span> (LXX). Some also see this assembly as the addressee in . While God delegated his council to rule over the nations, he established a theocratic government over Israel and ruled directly over his chosen people via the Mosaic covenant. See v. <span class=\"bibleref\" title=\"Deuteronomy 4:20\">20</span>, as well as <span class=\"bibleref\" title=\"Deuteronomy 32:9\">Deut 32:9</span>.</p></div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> A <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1493;&#1468;&#1512;</font> (<font face=\"Scholar\">kur</font>) was not a source of heat but a crucible (&#8220;iron-smelting furnace&#8221;) in which precious metals were melted down and their impurities burned away (see I. Cornelius, <i>NIDOTTE</i> 2:618-19); cf. NAB &#8220;that iron foundry, Egypt.&#8221; The term is a metaphor for intense heat. Here it refers to the oppression and suffering Israel endured in Egypt. Since a crucible was used to burn away impurities, it is possible that the metaphor views Egypt as a place of refinement to bring Israel to a place of submission to divine sovereignty.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to be his people of inheritance.&#8221; The Lord compares his people to valued property inherited from one&#8217;s ancestors and passed on to one&#8217;s descendants.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 4:3\">4:3</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text includes &#8220;(as) an inheritance,&#8221; or &#8220;(as) a possession.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;this.&#8221; The translation uses &#8220;that&#8221; to avoid confusion; earlier in the verse Moses refers to Transjordan as &#8220;this land.&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 4:3\">4:3</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanded.&#8221;</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The juxtaposition of the Hebrew terms <i><font face=\"Galaxie Unicode Hebrew\">&#1488;&#1461;&#1513;&#1473;</font></i> (&#8217;<font face=\"Scholar\">esh</font>, &#8220;fire&#8221;) and <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1463;&#1504;&#1468;&#1464;&#1488;</font> (<font face=\"Scholar\">qanna</font>&#8217;, &#8220;jealous&#8221;) is interesting in light of <span class=\"bibleref\" title=\"Deuteronomy 6:15\">Deut 6:15</span> where the <sc>Lord</sc> is seen as a jealous God whose anger bursts into a destructive fire. For God to be &#8220;jealous&#8221; means that his holiness and uniqueness cannot tolerate pretended or imaginary rivals. It is not petty envy but response to an act of insubordination that must be severely judged (see H. Peels, <i>NIDOTTE</i> 3:937-40).</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;have grown old in the land,&#8221; i.e., been there for a long time.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a form of anything.&#8221; Cf. NAB, NASB, NRSV, TEV &#8220;an idol.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The infinitive construct is understood here as indicating the result, not the intention, of their actions.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>I invoke heaven and earth as witnesses against you</i>. This stock formula introduces what is known form-critically as a <font face=\"Galaxie Unicode Hebrew\">&#1512;&#1460;&#1497;&#1489;</font> (<font face=\"Scholar\">riv</font>) or controversy pattern. It is commonly used in the ancient Near Eastern world in legal contexts and in the OT as a forensic or judicial device to draw attention to Israel&#8217;s violation of the <sc>Lord</sc>&#8217;s covenant with them (see <span class=\"bibleref\" title=\"Deuteronomy 30:19\">Deut 30:19</span>; <span class=\"bibleref\" title=\"Isaiah 1:2;3:13\">Isa 1:2; 3:13</span>; <span class=\"bibleref\" title=\"Jeremiah 2:9\">Jer 2:9</span>). Since court proceedings required the testimony of witnesses, the <sc>Lord</sc> here summons heaven and earth (that is, all creation) to testify to his faithfulness, Israel&#8217;s disobedience, and the threat of judgment.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;be destroyed&#8221;; KJV &#8220;utterly perish&#8221;; NLT &#8220;will quickly disappear&#8221;; CEV &#8220;you won&#8217;t have long to live.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;be completely&#8221; (so NCV, TEV). It is not certain here if the infinitive absolute indicates the certainty of the following action (cf. NIV) or its degree.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you will be left men (i.e., few) of number.&#8221;</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;mind and being.&#8221; See <span class=\"bibleref\" title=\"Deuteronomy 6:5\">Deut 6:5</span>.</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The phrase is not used here in a technical sense for the eschaton, but rather refers to a future time when Israel will be punished for its sin and experience exile. See <span class=\"bibleref\" title=\"Deuteronomy 31:29\">Deut 31:29</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hear his voice.&#8221; The expression is an idiom meaning &#8220;obey,&#8221; occurring in <span class=\"bibleref\" title=\"Deuteronomy 8:20;9:23;13:18;21:18,20;26:14,17;27:10;28:1-2,15,45,62;30:2,8,10,20\">Deut 8:20; 9:23; 13:18; 21:18, 20; 26:14, 17; 27:10; 28:1-2, 15, 45, 62; 30:2, 8, 10, 20</span>.</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 4:3\">4:3</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he will not drop you,&#8221; i.e., &#8220;will not abandon you&#8221; (cf. NAB, NIV, NRSV, NLT).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;will not.&#8221; The translation understands the imperfect verbal form to have an added nuance of capability here.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1464;&#1491;&#1464;&#1501;</font> (&#8217;<font face=\"Scholar\">adam</font>) may refer either to Adam or, more likely, to &#8220;man&#8221; in the sense of the human race (&#8220;mankind,&#8221; &#8220;humankind&#8221;). The idea here seems more universal in scope than reference to Adam alone would suggest.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verb is not present in the Hebrew text but has been supplied in the translation for clarification. The challenge has both temporal and geographical dimensions. The people are challenged to (1) inquire about the entire scope of past history and (2) conduct their investigation on a worldwide scale.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The translation assumes the reference is to Israel&#8217;s God in which case the point is this: God&#8217;s intervention in Israel&#8217;s experience is unique in the sense that he has never intervened in such power for any other people on earth. The focus is on the uniqueness of Israel&#8217;s experience. Some understand the divine name here in a generic sense, &#8220;a god,&#8221; or &#8220;any god.&#8221; In this case God&#8217;s incomparability is the focus (cf. v. <span class=\"bibleref\" title=\"Deuteronomy 4:35\">35</span>, where this theme is expressed).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;tried to go to take for himself.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;by testings.&#8221; The reference here is the judgments upon Pharaoh in the form of plagues. See <span class=\"bibleref\" title=\"Deuteronomy 7:19\">Deut 7:19</span> (cf. v. <span class=\"bibleref\" title=\"Deuteronomy 4:18\">18</span>) and <span class=\"bibleref\" title=\"Deuteronomy 29:3\">29:3</span> (cf. v. <span class=\"bibleref\" title=\"Deuteronomy 4:2\">2</span>).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;by strong hand and by outstretched arm.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and his words you heard from the midst of the fire.&#8221;</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The concept of love here is not primarily that of emotional affection but of commitment or devotion. This verse suggests that God chose Israel to be his special people because he loved the patriarchs (Abraham, Isaac, Jacob) and had promised to bless their descendants. See as well <span class=\"bibleref\" title=\"Deuteronomy 7:7-9\">Deut 7:7-9</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX, Smr, Syriac, Targum, and Vulgate read a third person masculine plural suffix for the MT&#8217;s 3rd person masculine singular, &#8220;his descendants.&#8221; Cf. <span class=\"bibleref\" title=\"Deuteronomy 10:15\">Deut 10:15</span>. Quite likely the MT should be emended in this instance.</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;(as) an inheritance,&#8221; that is, landed property that one can pass on to one&#8217;s descendants.</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanding&#8221; (so NRSV).</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the slayer who slew his neighbor without knowledge.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;yesterday and a third (day).&#8221; The point is that there was no animosity between the two parties at the time of the accident and therefore no motive for the killing.</div>"
+      ]
+    ],
+    "44": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of Israel&#8221; (likewise in the following verse).</div>"
+      ]
+    ],
+    "48": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;their territory extended&#8221; are supplied in the translation for stylistic reasons. In the Hebrew text vv. <span class=\"bibleref\" title=\"Deuteronomy 4:47-49\">47-49</span> are all one sentence, but for the sake of English style and readability the translation divides the text into two sentences.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Mount Siyon</i> (the Hebrew name is <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1474;&#1460;&#1497;&#1488;&#1465;&#1503;</font> [<font face=\"Scholar\">si</font>&#8217;<font face=\"Scholar\">on</font>], not to be confused with Zion [<font face=\"Galaxie Unicode Hebrew\">&#1510;&#1460;&#1497;&#1468;&#1493;&#1465;&#1503;</font>, <font face=\"Scholar\">tsiyyon</font>]) is another name for Mount Hermon, also called Sirion and Senir (cf. <span class=\"bibleref\" title=\"Deuteronomy 3:9\">Deut 3:9</span>).</div>"
+      ]
+    ],
+    "49": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>The sea of the Arabah</i> refers to the Dead Sea, also known as the Salt Sea in OT times (cf. <span class=\"bibleref\" title=\"Deuteronomy 3:17\">Deut 3:17</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The meaning of the Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1463;&#1513;&#1473;&#1456;&#1491;&#1468;&#1465;&#1514;</font> (&#8217;<font face=\"Scholar\">ashdot</font>) is unclear. It is usually translated either &#8220;slopes&#8221; (ASV, NAB, NIV, NRSV, NLT) or &#8220;watershed&#8221; (NEB).</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "1",
+      "text": "Now, Israel, pay attention to the statutes and ordinances I am about to teach you, so that you might live and go on to enter and take possession of the land that the Lord, the God of your ancestors, is giving you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "2",
+      "text": "Do not add a thing to what I command you nor subtract from it, so that you may keep the commandments of the Lord your God that I am delivering to you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "3",
+      "text": "You have witnessed what the Lord did at Baal Peor, how he eradicated from your midst everyone who followed Baal Peor. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "4",
+      "text": "But you who remained faithful to the Lord your God are still alive to this very day, every one of you. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "5",
+      "text": "Look! I have taught you statutes and ordinances just as the Lord my God told me to do, so that you might carry them out in the land you are about to enter and possess. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "6",
+      "text": "So be sure to do them, because this will testify of your wise understanding to the people who will learn of all these statutes and say, “Indeed, this great nation is a very wise people.” "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "7",
+      "text": "In fact, what other great nation has a god so near to them like the Lord our God whenever we call on him? "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "8",
+      "text": "And what other great nation has statutes and ordinances as just as this whole law that I am about to share with you today? "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "9",
+      "text": "Again, however, pay very careful attention, lest you forget the things you have seen and disregard them for the rest of your life; instead teach them to your children and grandchildren. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "10",
+      "text": "You stood before the Lord your God at Horeb and he said to me, “Assemble the people before me so that I can tell them my commands. Then they will learn to revere me all the days they live in the land, and they will instruct their children.” "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "11",
+      "text": "You approached and stood at the foot of the mountain, a mountain ablaze to the sky above it and yet dark with a thick cloud. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "12",
+      "text": "Then the Lord spoke to you from the middle of the fire; you heard speech but you could not see anything—only a voice was heard. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "13",
+      "text": "And he revealed to you the covenant he has commanded you to keep, the Ten Commandments, writing them on two stone tablets. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "14",
+      "text": "Moreover, at that same time the Lord commanded me to teach you statutes and ordinances for you to keep in the land that you are about to enter and possess. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "15",
+      "text": "Be very careful, then, because you saw no form at the time the Lord spoke to you at Horeb from the middle of the fire. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "16",
+      "text": "I say this so you will not corrupt yourselves by making an image in the form of any kind of figure. This includes the likeness of a human male or female, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "17",
+      "text": "any kind of land animal, any bird that flies in the sky, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "18",
+      "text": "anything that crawls on the ground, or any fish in the deep waters under the earth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "19",
+      "text": "When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for the Lord your God has assigned them to all the people of the world."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "20",
+      "text": "You, however, the Lord has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "21",
+      "text": "But the Lord became angry with me because of you and vowed that I would never cross the Jordan nor enter the good land that he is about to give you. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "22",
+      "text": "So I must die here in this land; I will not cross the Jordan. But you are going over and will possess that good land. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "23",
+      "text": "Be on guard so that you do not forget the covenant of the Lord your God that he has made with you, and that you do not make an image of any kind, just as he has forbidden you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "24",
+      "text": "For the Lord your God is a consuming fire; he is a jealous God. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "25",
+      "text": "After you have produced children and grandchildren and have been in the land a long time, if you become corrupt and make an image of any kind and do other evil things before the Lord your God that enrage him,"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "26",
+      "text": "I invoke heaven and earth as witnesses against you today that you will surely and swiftly be removed from the very land you are about to cross the Jordan to possess. You will not last long there because you will surely be annihilated. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "27",
+      "text": "Then the Lord will scatter you among the peoples and there will be very few of you among the nations where the Lord will drive you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "28",
+      "text": "There you will worship gods made by human hands—wood and stone that can neither see, hear, eat, nor smell. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "29",
+      "text": "But if you seek the Lord your God from there, you will find him, if, indeed, you seek him with all your heart and soul. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "30",
+      "text": "In your distress when all these things happen to you in future days, if you return to the Lord your God and obey him "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "31",
+      "text": "(for he is a merciful God), he will not let you down or destroy you, for he cannot forget the covenant with your ancestors that he confirmed by oath to them."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "32",
+      "text": "Indeed, ask about the distant past, starting from the day God created humankind on the earth, and ask from one end of heaven to the other, whether there has ever been such a great thing as this, or even a rumor of it."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "33",
+      "text": "Have a people ever heard the voice of God speaking from the middle of fire, as you yourselves have, and lived to tell about it?"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "34",
+      "text": "Or has God ever before tried to deliver a nation from the middle of another nation, accompanied by judgments, signs, wonders, war, strength, power, and other very terrifying things like the Lord your God did for you in Egypt before your very eyes? "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "35",
+      "text": "You have been taught that the Lord alone is God—there is no other besides him."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "36",
+      "text": "From heaven he spoke to you in order to teach you, and on earth he showed you his great fire from which you also heard his words. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "37",
+      "text": "Moreover, because he loved your ancestors, he chose their descendants who followed them and personally brought you out of Egypt with his great power "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "38",
+      "text": "to dispossess nations greater and stronger than you and brought you here this day to give you their land as your property. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "39",
+      "text": "Today realize and carefully consider that the Lord is God in heaven above and on earth below—there is no other! "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "40",
+      "text": "Keep his statutes and commandments that I am setting forth today so that it may go well with you and your descendants and that you may enjoy longevity in the land that the Lord your God is about to give you as a permanent possession."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "41",
+      "text": "Then Moses selected three cities in the Transjordan, toward the east. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "42",
+      "text": "Anyone who accidentally killed someone without hating him at the time of the accident could flee to one of those cities and be safe. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "43",
+      "text": "These cities are Bezer, in the wilderness plateau, for the Reubenites; Ramoth in Gilead for the Gadites; and Golan in Bashan for the Manassehites. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "44",
+      "text": "This is the law that Moses set before the Israelites. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "45",
+      "text": "These are the stipulations, statutes, and ordinances that Moses spoke to the Israelites after he had brought them out of Egypt, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "46",
+      "text": "in the Transjordan, in the valley opposite Beth Peor, in the land of King Sihon of the Amorites, who lived in Heshbon. (It is he whom Moses and the Israelites attacked after they came out of Egypt. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "47",
+      "text": "They possessed his land and that of King Og of Bashan—both of whom were Amorite kings in the Transjordan, to the east. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "48",
+      "text": "Their territory extended from Aroer at the edge of the Arnon valley as far as Mount Siyon—that is, Hermon—"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "4",
+      "verse": "49",
+      "text": "including all the rift valley of the Transjordan in the east to the sea of the rift valley, beneath the slopes of Pisgah.) "
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text uses the infinitive absolute for emphasis, which the translation indicates with &#8220;indeed.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanding&#8221;; NAB &#8220;which I enjoin on you today&#8221; (likewise in v. <span class=\"bibleref\" title=\"Deuteronomy 28:15\">15</span>).</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;come upon you and overtake you&#8221; (so NASB, NRSV); NIV &#8220;come upon you and accompany you.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;in the country&#8221; (so NAB, NIV, NLT). This expression also occurs in v. <span class=\"bibleref\" title=\"Deuteronomy 28:15\">15</span>.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the fruit of your womb&#8221; (so NAB, NIV, NRSV).</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Come in&#8230;go out</i>. To &#8220;come in&#8221; and &#8220;go out&#8221; is a figure of speech (merism) indicating all of life and its activities.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who rise up against&#8221; (so NIV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;way&#8221; (also later in this verse and in v. <span class=\"bibleref\" title=\"Deuteronomy 28:25\">25</span>).</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God.&#8221; Because English would not typically reintroduce the proper name following a relative pronoun (&#8220;he will bless&#8230;the <sc>Lord</sc> your God is giving&#8221;), the pronoun (&#8220;he&#8221;) has been employed here in the translation.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the commandments of the <sc>Lord</sc> your God.&#8221; See note on &#8220;he&#8221; in the previous verse.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and walk in his ways&#8221; (so NAB, NASB, NIV, NRSV, NLT).</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the name of the Lord is called over you.&#8221; The Hebrew idiom indicates ownership; see <span class=\"bibleref\" title=\"2 Samuel 12:28\">2 Sam 12:28</span>; <span class=\"bibleref\" title=\"Isaiah 4:1\">Isa 4:1</span>, as well as BDB 896 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1512;&#1464;&#1488;</font> Niph. 2.d.(4).</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the fruit of your womb&#8221; (so NAB, NIV, NRSV); CEV &#8220;will give you a lot of children.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc>.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 28:8\">28:8</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fathers&#8221; (also in vv. <span class=\"bibleref\" title=\"Deuteronomy 28:36,64\">36, 64</span>).</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the work of your hands.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> your God&#8217;s.&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 28:8\">28:8</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanding&#8221; (so NRSV); NASB &#8220;which I charge you today.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from all the words which I am commanding.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in order to serve.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;do not hear the voice of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and overtake you&#8221; (so NIV, NRSV); NAB, NLT &#8220;and overwhelm you.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the fruit of your womb&#8221; (so NAB, NIV, NRSV).</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See note on the similar expression in v. <span class=\"bibleref\" title=\"Deuteronomy 28:6\">6</span>.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the curse, the confusion, and the rebuke&#8221; (NASB and NIV similar); NRSV &#8220;disaster, panic, and frustration.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in all the stretching out of your hand.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> For the MT first person common singular suffix (&#8220;me&#8221;), the LXX reads either &#8220;Lord&#8221; (Lucian) or third person masculine singular suffix (&#8220;him&#8221;; various codices). The MT&#8217;s more difficult reading probably represents the original text.<p class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the evil of your doings wherein you have forsaken me&#8221;; CEV &#8220;all because you rejected the Lord.&#8221;</p></div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will cause pestilence to cling to you.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;The <sc>Lord.</sc>&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 28:8\">28:8</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or perhaps &#8220;consumption&#8221; (so KJV, NASB, NRSV). The term is from a verbal root that indicates a weakening of one&#8217;s physical strength (cf. NAB &#8220;wasting&#8221;; NIV, NLT &#8220;wasting disease&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hot fever&#8221;; NIV &#8220;scorching heat.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;drought&#8221; (so NIV, NRSV, NLT).</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT reads &#8220;Your.&#8221; The LXX reads &#8220;Heaven will be to you.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;heavens&#8221; (also in the following verse). The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1497;&#1460;&#1501;</font> (<font face=\"Scholar\">shamayim</font>) may be translated &#8220;heaven(s)&#8221; or &#8220;sky&#8221; depending on the context.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The meaningless MT reading <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1463;&#1506;&#1458;&#1493;&#1464;&#1492;</font> (<font face=\"Scholar\">za</font>&#8217;<font face=\"Scholar\">avah</font>) is clearly a transposition of the more commonly attested Hebrew noun <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1456;&#1493;&#1464;&#1506;&#1464;&#1492;</font> (<font face=\"Scholar\">z&#255;va</font>&#8217;<font face=\"Scholar\">ah</font>, &#8220;terror&#8221;).</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heart&#8221; (so KJV, NASB).</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you will not cause your ways to prosper.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> For MT reading <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1490;&#1463;&#1500;</font> (<font face=\"Scholar\">shagal</font>, &#8220;ravish; violate&#8221;), the Syriac, Targum, and Vulgate presume the less violent <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1499;&#1463;&#1489;</font> (<font face=\"Scholar\">shakhav</font>, &#8220;lie with&#8221;). The unexpected counterpart to betrothal here favors the originality of the MT.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and there will be no power in your hand&#8221;; NCV &#8220;there will be nothing you can do.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX reads the plural &#8220;kings.&#8221;</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your olives will drop off&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1504;&#1464;&#1513;&#1473;&#1463;&#1500;</font>, <font face=\"Scholar\">nashal</font>), referring to the olives dropping off before they ripen.</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term denotes some sort of buzzing or whirring insect; some have understood this to be a type of locust (KJV, NIV, CEV), but other insects have also been suggested: &#8220;buzzing insects&#8221; (NAB); &#8220;the cricket&#8221; (NASB); &#8220;the cicada&#8221; (NRSV).</div>"
+      ]
+    ],
+    "43": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the foreigner.&#8221; This is a collective singular and has therefore been translated as plural; this includes the pronouns in the following verse, which are also singular in the Hebrew text.</div>"
+      ]
+    ],
+    "45": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;commanded&#8221;; NAB, NIV, TEV &#8220;he gave you.&#8221;</div>"
+      ]
+    ],
+    "46": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they&#8221;; the referent (the curses mentioned previously) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;seed&#8221; (so KJV, ASV).</div>"
+      ]
+    ],
+    "48": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lack of everything.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221; (also later in this verse). The pronoun is a collective singular referring to the enemies (cf. CEV, NLT). Many translations understand the singular pronoun to refer to the <sc>Lord</sc> (cf. NAB, NASB, NIV, NCV, NRSV, TEV).</div>"
+      ]
+    ],
+    "49": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from the end of the earth.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Some translations understand this to mean &#8220;like an eagle swoops down&#8221; (e.g., NAB, NASB, NIV, NRSV, NLT), comparing the swift attack of an eagle to the attack of the Israelites&#8217; enemies.</div>"
+      ]
+    ],
+    "51": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;it&#8221; (so NRSV), a collective singular referring to the invading nation (several times in this verse and v. <span class=\"bibleref\" title=\"Deuteronomy 28:52\">52</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;increase of herds.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;growth of flocks.&#8221;</div>"
+      ]
+    ],
+    "52": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;gates,&#8221; also in vv. <span class=\"bibleref\" title=\"Deuteronomy 28:55,57\">55, 57</span>.</div>"
+      ]
+    ],
+    "53": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the fruit of your womb&#8221; (so NAB, NRSV); NASB &#8220;the offspring of your own body.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;siege and stress.&#8221;</div>"
+      ]
+    ],
+    "55": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;besiege,&#8221; redundant with the noun &#8220;siege.&#8221;</div>"
+      ]
+    ],
+    "56": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX adds <font face=\"Galaxie Unicode Greek\">&#963;&#966;&#972;&#948;&#961;&#945;</font> (<font face=\"Greektl\">sfodra</font>, &#8220;very&#8221;) to bring the description into line with v. <span class=\"bibleref\" title=\"Deuteronomy 28:54\">54</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;delicateness and tenderness.&#8221;</div>"
+      ]
+    ],
+    "57": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> includes &#8220;that which comes out from between her feet.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;her sons that she will bear.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> includes &#8220;in her need for everything.&#8221;</div>"
+      ]
+    ],
+    "58": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;If you are not careful to do.&#8221;</div>"
+      ]
+    ],
+    "60": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> These are the plagues the <sc>Lord</sc> inflicted on the Egyptians prior to the exodus which, though they did not fall upon the Israelites, must have caused great terror (cf. <span class=\"bibleref\" title=\"Exodus 15:26\">Exod 15:26</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will cling to you&#8221; (so NIV); NLT &#8220;will claim you.&#8221;</div>"
+      ]
+    ],
+    "61": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1514;&#1468;&#1493;&#1465;&#1512;&#1464;&#1492;</font> (<font face=\"Scholar\">torah</font>) can refer either (1) to the whole Pentateuch or, more likely, (2) to the book of Deuteronomy or even (3) only to this curse section of the covenant text. &#8220;Scroll&#8221; better reflects the actual document, since &#8220;book&#8221; conveys the notion of a bound book with pages to the modern English reader. Cf. KJV, NASB, NRSV &#8220;the book of this law&#8221;; NIV, NLT &#8220;this Book of the Law&#8221;; TEV &#8220;this book of God&#8217;s laws and teachings.&#8221;</div>"
+      ]
+    ],
+    "62": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;heavens.&#8221; The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1497;&#1460;&#1501;</font> (<font face=\"Scholar\">shamayim</font>) may be translated &#8220;heaven(s)&#8221; or &#8220;sky&#8221; depending on the context.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;have not listened to the voice of.&#8221;</div>"
+      ]
+    ],
+    "63": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord.</sc>&#8221; See note on &#8220;he&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 28:8\">28:8</span>.</div>"
+      ]
+    ],
+    "66": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you will not be confident in your life.&#8221; The phrase &#8220;from one day to the next&#8221; is implied by the following verse.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "1",
+      "text": "“If you indeed obey the Lord your God and are careful to observe all his commandments I am giving you today, the Lord your God will elevate you above all the nations of the earth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "2",
+      "text": "All these blessings will come to you in abundance if you obey the Lord your God: "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "3",
+      "text": "You will be blessed in the city and blessed in the field. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "4",
+      "text": "Your children will be blessed, as well as the produce of your soil, the offspring of your livestock, the calves of your herds, and the lambs of your flocks. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "5",
+      "text": "Your basket and your mixing bowl will be blessed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "6",
+      "text": "You will be blessed when you come in and blessed when you go out. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "7",
+      "text": "The Lord will cause your enemies who attack you to be struck down before you; they will attack you from one direction but flee from you in seven different directions. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "8",
+      "text": "The Lord will decree blessing for you with respect to your barns and in everything you do—yes, he will bless you in the land he is giving you. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "9",
+      "text": "The Lord will designate you as his holy people just as he promised you, if you keep his commandments and obey him."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "10",
+      "text": "Then all the peoples of the earth will see that you belong to the Lord, and they will respect you. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "11",
+      "text": "The Lord will greatly multiply your children, the offspring of your livestock, and the produce of your soil in the land that he promised your ancestors he would give you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "12",
+      "text": "The Lord will open for you his good treasure house, the heavens, to give you rain for the land in its season and to bless all you do; you will lend to many nations but you will not borrow from any."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "13",
+      "text": "The Lord will make you the head and not the tail, and you will always end up at the top and not at the bottom, if you obey his commandments that I am urging you today to be careful to do. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "14",
+      "text": "But you must not turn away from all the commandments I am giving you today, to either the right or left, nor pursue other gods and worship them."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "15",
+      "text": "“But if you ignore the Lord your God and are not careful to keep all his commandments and statutes I am giving you today, then all these curses will come upon you in full force: "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "16",
+      "text": "You will be cursed in the city and cursed in the field. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "17",
+      "text": "Your basket and your mixing bowl will be cursed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "18",
+      "text": "Your children will be cursed, as well as the produce of your soil, the calves of your herds, and the lambs of your flocks. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "19",
+      "text": "You will be cursed when you come in and cursed when you go out. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "20",
+      "text": "“The Lord will send on you a curse, confusing you and opposing you in everything you undertake until you are destroyed and quickly perish because of the evil of your deeds, in that you have forsaken me. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "21",
+      "text": "The Lord will plague you with deadly diseases until he has completely removed you from the land you are about to possess. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "22",
+      "text": "He will afflict you with weakness, fever, inflammation, infection, sword, blight, and mildew; these will attack you until you perish. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "23",
+      "text": "The sky above your heads will be bronze and the earth beneath you iron. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "24",
+      "text": "The Lord will make the rain of your land powder and dust; it will come down on you from the sky until you are destroyed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "25",
+      "text": "“The Lord will allow you to be struck down before your enemies; you will attack them from one direction but flee from them in seven directions and will become an object of terror to all the kingdoms of the earth. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "26",
+      "text": "Your carcasses will be food for every bird of the sky and wild animal of the earth, and there will be no one to chase them off. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "27",
+      "text": "The Lord will afflict you with the boils of Egypt and with tumors, eczema, and scabies, all of which cannot be healed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "28",
+      "text": "The Lord will also subject you to madness, blindness, and confusion of mind. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "29",
+      "text": "You will feel your way along at noon like the blind person does in darkness and you will not succeed in anything you do; you will be constantly oppressed and continually robbed, with no one to save you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "30",
+      "text": "You will be engaged to a woman, and another man will rape her. You will build a house but not live in it. You will plant a vineyard but not even begin to use it."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "31",
+      "text": "Your ox will be slaughtered before your very eyes, but you will not eat of it. Your donkey will be stolen from you as you watch and will not be returned to you. Your flock of sheep will be given to your enemies, and there will be no one to save you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "32",
+      "text": "Your sons and daughters will be given to another people while you look on in vain all day, and you will be powerless to do anything about it."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "33",
+      "text": "As for the produce of your land and all your labor, a people you do not know will consume it, and you will be nothing but oppressed and crushed for the rest of your lives."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "34",
+      "text": "You will go insane from seeing all this. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "35",
+      "text": "The Lord will afflict you in your knees and on your legs with painful, incurable boils—from the soles of your feet to the top of your head. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "36",
+      "text": "The Lord will force you and your king whom you will appoint over you to go away to a people whom you and your ancestors have not known, and you will serve other gods of wood and stone there. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "37",
+      "text": "You will become an occasion of horror, a proverb, and an object of ridicule to all the peoples to whom the Lord will drive you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "38",
+      "text": "“You will take much seed to the field but gather little harvest, because locusts will consume it."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "39",
+      "text": "You will plant vineyards and cultivate them, but you will not drink wine or gather in grapes, because worms will eat them."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "40",
+      "text": "You will have olive trees throughout your territory, but you will not anoint yourself with olive oil, because the olives will drop off the trees while still unripe."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "41",
+      "text": "You will bear sons and daughters but not keep them, because they will be taken into captivity. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "42",
+      "text": "Whirring locusts will take over every tree and all the produce of your soil. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "43",
+      "text": "The resident foreigners who reside among you will become higher and higher over you, and you will become lower and lower. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "44",
+      "text": "They will lend to you, but you will not lend to them; they will become the head, and you will become the tail! "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "45",
+      "text": "“All these curses will fall on you, pursuing and overtaking you until you are destroyed, because you would not obey the Lord your God by keeping his commandments and statutes that he has given you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "46",
+      "text": "These curses will be a perpetual sign and wonder with reference to you and your descendants. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "47",
+      "text": "“Because you have not served the Lord your God joyfully and wholeheartedly with the abundance of everything you have,"
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "48",
+      "text": "instead in hunger, thirst, nakedness, and poverty you will serve your enemies whom the Lord will send against you. They will place an iron yoke on your neck until they have destroyed you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "49",
+      "text": "The Lord will raise up a distant nation against you, one from the other side of the earth as the eagle flies, a nation whose language you will not understand, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "50",
+      "text": "a nation of stern appearance that will have no regard for the elderly or pity for the young. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "51",
+      "text": "They will devour the offspring of your livestock and the produce of your soil until you are destroyed. They will not leave you with any grain, new wine, olive oil, calves of your herds, or lambs of your flocks until they have destroyed you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "52",
+      "text": "They will besiege all of your villages until all of your high and fortified walls collapse—those in which you put your confidence throughout the land. They will besiege all your villages throughout the land the Lord your God has given you. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "53",
+      "text": "You will then eat your own offspring, the flesh of the sons and daughters the Lord your God has given you, because of the severity of the siege by which your enemies will constrict you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "54",
+      "text": "The man among you who is by nature tender and sensitive will turn against his brother, his beloved wife, and his remaining children. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "55",
+      "text": "He will withhold from all of them his children’s flesh that he is eating (since there is nothing else left), because of the severity of the siege by which your enemy will constrict you in your villages. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "56",
+      "text": "Likewise, the most tender and delicate of your women, who would never think of putting even the sole of her foot on the ground because of her daintiness, will turn against her beloved husband, her sons and daughters, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "57",
+      "text": "and will secretly eat her afterbirth and her newborn children (since she has nothing else), because of the severity of the siege by which your enemy will constrict you in your villages. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "58",
+      "text": "“If you refuse to obey all the words of this law, the things written in this scroll, and refuse to fear this glorious and awesome name, the Lord your God, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "59",
+      "text": "then the Lord will increase your punishments and those of your descendants—great and long-lasting afflictions and severe, enduring illnesses. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "60",
+      "text": "He will infect you with all the diseases of Egypt that you dreaded, and they will persistently afflict you."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "61",
+      "text": "Moreover, the Lord will bring upon you every kind of sickness and plague not mentioned in this scroll of commandments, until you have perished. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "62",
+      "text": "There will be very few of you left, though at one time you were as numerous as the stars in the sky, because you will have disobeyed the Lord your God. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "63",
+      "text": "This is what will happen: Just as the Lord delighted to do good for you and make you numerous, so he will also take delight in destroying and decimating you. You will be uprooted from the land you are about to possess. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "64",
+      "text": "The Lord will scatter you among all nations, from one end of the earth to the other. There you will worship other gods that neither you nor your ancestors have known, gods of wood and stone. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "65",
+      "text": "Among those nations you will have no rest, nor will there be a place of peaceful rest for the soles of your feet, for there the Lord will give you an anxious heart, failing eyesight, and a spirit of despair. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "66",
+      "text": "Your life will hang in doubt before you; you will be terrified by night and day and will have no certainty of surviving from one day to the next."
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "67",
+      "text": "In the morning you will say, ‘If only it were evening!’ And in the evening you will say, ‘I wish it were morning!’ because of the things you will fear and the things you will see. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "28",
+      "verse": "68",
+      "text": "Then the Lord will make you return to Egypt by ship, over a route I said to you that you would never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”"
+    }
+  ]
+}

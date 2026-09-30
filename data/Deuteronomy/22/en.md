@@ -1,0 +1,230 @@
+# Deuteronomy 22 (English)
+
+## Text
+
+**1** When you see your neighbor’s ox or sheep going astray, do not ignore it; you must return it without fail to your neighbor. 
+
+**2** If the owner does not live near you or you do not know who the owner is, then you must corral the animal at your house and let it stay with you until the owner looks for it; then you must return it to him.
+
+**3** You shall do the same to his donkey, his clothes, or anything else your neighbor has lost and you have found; you must not refuse to get involved. 
+
+**4** When you see your neighbor’s donkey or ox fallen along the road, do not ignore it; instead, you must be sure to help him get the animal on its feet again.
+
+**5** A woman must not wear men’s clothing, nor should a man dress up in women’s clothing, for anyone who does this is offensive to the Lord your God. 
+
+**6** If you happen to notice a bird’s nest along the road, whether in a tree or on the ground, and there are chicks or eggs with the mother bird sitting on them, you must not take the mother that is with her young. 
+
+**7** You must be sure to let the mother go, but you may take the young for yourself. Do this so that it may go well with you and you may have a long life. 
+
+**8** If you build a new house, you must construct a guardrail around your roof to avoid being culpable in the event someone should fall from it.
+
+**9** You must not plant your vineyard with two kinds of seed; otherwise the entire yield, both of the seed you plant and the produce of the vineyard, will be defiled.
+
+**10** You must not plow with an ox and a donkey harnessed together. 
+
+**11** You must not wear clothing made with wool and linen meshed together. 
+
+**12** You shall make yourselves tassels for the four corners of the clothing you wear.
+
+**13** Suppose a man marries a woman, sleeps with her, and then rejects her,
+
+**14** accusing her of impropriety and defaming her reputation by saying, “I married this woman but when I approached her for marital relations I discovered she was not a virgin!” 
+
+**15** Then the father and mother of the young woman must produce the evidence of virginity for the elders of the city at the gate. 
+
+**16** The young woman’s father must say to the elders, “I gave my daughter to this man and he has rejected her. 
+
+**17** Moreover, he has raised accusations of impropriety by saying, ‘I discovered your daughter was not a virgin,’ but this is the evidence of my daughter’s virginity!” The cloth must then be spread out before the city’s elders. 
+
+**18** The elders of that city must then seize the man and punish him.
+
+**19** They will fine him 100 shekels of silver and give them to the young woman’s father, for the man who made the accusation ruined the reputation of an Israelite virgin. She will then become his wife, and he may never divorce her as long as he lives. 
+
+**20** But if the accusation is true and the young woman was not a virgin, 
+
+**21** the men of her city must bring the young woman to the door of her father’s house and stone her to death, for she has done a disgraceful thing in Israel by behaving like a prostitute while living in her father’s house. In this way you will purge the evil from among you.
+
+**22** If a man is discovered in bed with a married woman, both the man lying in bed with the woman and the woman herself must die; in this way you will purge the evil from Israel. 
+
+**23** If a virgin is engaged to a man and another man meets her in the city and goes to bed with her,
+
+**24** you must bring the two of them to the gate of that city and stone them to death, the young woman because she did not cry out though in the city and the man because he violated his neighbor’s fiancée; in this way you will purge evil from among you.
+
+**25** But if the man came across the engaged woman in the field and overpowered her and raped her, then only the rapist must die. 
+
+**26** You must not do anything to the young woman—she has done nothing deserving of death. This case is the same as when someone attacks another person and murders him,
+
+**27** for the man met her in the field and the engaged woman cried out, but there was no one to rescue her.
+
+**28** Suppose a man comes across a virgin who is not engaged and takes hold of her and sleeps with her and they are discovered. 
+
+**29** The man who has slept with her must pay her father 50 shekels of silver and she must become his wife. Because he has humiliated her, he may never divorce her as long as he lives. 
+
+**30** (23:1) A man may not marry his father’s former wife and in this way dishonor his father. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “you must not see,” but, if translated literally into English, the statement is misleading.
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “brother’s” (also later in this verse). In this context it is not limited to one’s siblings, however; cf. NAB “your kinsman’s.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “hide yourself.”
+
+### Verse 1 - Note 4
+[翻訳注]  The Hebrew text uses the infinitive absolute for emphasis, which the translation indicates with the words “without fail.”
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “your brother” (also later in this verse).
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “is not.” The idea of “residing” is implied.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “and you do not know him.”
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “it”; the referent (the ox or sheep mentioned in v. 1) has been specified in the translation for clarity.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “your brother” (also in v. 4).
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “you must not hide yourself.”
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “you must not see.” See note at 22:1.
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “and (must not) hide yourself from them.”
+
+### Verse 4 - Note 3
+[翻訳注]  The Hebrew text uses the infinitive absolute for emphasis, which the translation indicates with “be sure.”
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “help him to lift them up.” In keeping with English style the singular is used in the translation, and the referent (“the animal”) has been specified for clarity.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “a man’s clothing.”
+
+### Verse 5 - Note 2
+[翻訳注]  The Hebrew term תּוֹעֵבָה (to’evah, “offense”) speaks of anything that runs counter to ritual or moral order, especially (in the OT) to divine standards. Cross-dressing in this covenant context may suggest homosexuality, fertility cult ritual, or some other forbidden practice.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “and the mother sitting upon the chicks or the eggs.”
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “sons,” used here in a generic sense for offspring.
+
+### Verse 7 - Note 1
+[翻訳注]  The Hebrew text uses the infinitive absolute for emphasis, which the translation seeks to reflect with “be sure.”
+
+### Verse 8 - Note 1
+[翻訳注]  Or “a parapet” (so NAB, NIV, NRSV); KJV “a battlement”; NLT “a barrier.”
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “that you not place bloodshed in your house.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “set apart.” The verb קָדַשׁ (qadash) in the Qal verbal stem (as here) has the idea of being holy or being treated with special care. Some take the meaning as “be off-limits, forfeited,” i.e., the total produce of the vineyard, both crops and grapes, have to be forfeited to the sanctuary (cf. Exod 29:37; 30:29; Lev 6:18, 27; Num 16:37-38; Hag 2:12).
+
+### Verse 11 - Note 1
+[翻訳注]  The Hebrew term שַׁעַטְנֵז (sha’atnez) occurs only here and in Lev 19:19. HALOT 1610-11 s.v. takes it to be a contraction of words (שַׁשׁ [shash, “headdress”] + עַטְנַז [’atnaz, “strong”]). BDB 1043 s.v. שַׁעַטְנֵז offers the translation “mixed stuff” (cf. NEB “woven with two kinds of yarn”; NAB, NIV, NRSV, NLT “woven together”). The general meaning is clear even if the etymology is not.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “twisted threads” (גְּדִלִים, gÿdilim) appears to be synonymous with צִיצִת (tsitsit) which, in Num 15:38, occurs in a passage instructing Israel to remember the covenant. Perhaps that is the purpose of the tassels here as well. Cf. KJV, ASV “fringes”; NAB “twisted cords.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “goes to her,” a Hebrew euphemistic idiom for sexual relations.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “hate.” See note on the word “other” in Deut 21:15. Cf. NAB “comes to dislike”; NASB “turns against”; TEV “decides he doesn’t want.”
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “deeds of things”; NRSV “makes up charges against her”; NIV “slanders her.”
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “brings against her a bad name”; NIV “gives her a bad name.”
+
+### Verse 14 - Note 3
+[翻訳注]  Heb “drew near to her.” This is another Hebrew euphemism for having sexual relations.
+
+### Verse 15 - Note 1
+[解説]  In light of v. 17 this would evidently be blood-stained sheets indicative of the first instance of intercourse. See E. H. Merrill, Deuteronomy (NAC), 302-3.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “hated.” See note on the word “other” in Deut 21:15.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “they will spread the garment.”
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “discipline.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “for he”; the referent (the man who made the accusation) has been specified in the translation to avoid confusion with the young woman’s father, the last-mentioned male.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “brought forth a bad name.”
+
+### Verse 21 - Note 1
+[翻訳注]  The Hebrew term נְבָלָה (nÿvalah) means more than just something stupid. It refers to a moral lapse so serious as to jeopardize the whole covenant community (cf. Gen 34:7; Judg 19:23; 20:6, 10; Jer 29:23). See C. Pan, NIDOTTE 3:11-13. Cf. NAB “she committed a crime against Israel.”
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “burn.” See note on Deut 21:21.
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “lying with” (so KJV, NASB), a Hebrew idiom for sexual relations.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “a woman married to a husband.”
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “burn.” See note on the phrase “purge out” in Deut 21:21.
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “finds.”
+
+### Verse 23 - Note 2
+[翻訳注]  Heb “lies with.”
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “humbled.”
+
+### Verse 24 - Note 2
+[翻訳注]  Heb “wife.”
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “burn.” See note on the phrase “purge out” in Deut 21:21.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “found,” also in vv. 27, 28.
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “lay with” here refers to a forced sexual relationship, as the accompanying verb “seized” (חָזַק, khazaq) makes clear.
+
+### Verse 25 - Note 3
+[翻訳注]  Heb “the man who lay with her, only him.”
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “his neighbor.”
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “he”; the referent (the man who attacked the woman) has been specified in the translation for clarity.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “lies with.”
+
+### Verse 30 - Note 1
+[解説]  Beginning with 22:30, the verse numbers through 23:25 in the English Bible differ from the verse numbers in the Hebrew text (BHS), with 22:30 ET = 23:1 HT, 23:1 ET = 23:2 HT, 23:2 ET = 23:3 HT, etc., through 23:25 ET = 23:26 HT. With 24:1 the verse numbers in the ET and HT are again the same.
+
+### Verse 30 - Note 2
+[翻訳注]  Heb “take.” In context this refers to marriage, as in the older English expression “take a wife.”
+
+### Verse 30 - Note 3
+[解説]  This presupposes either the death of the father or their divorce since it would be impossible for one to marry his stepmother while his father was still married to her.
+
+### Verse 30 - Note 4
+[翻訳注]  Heb “uncover his father’s skirt” (so ASV, NASB). This appears to be a circumlocution for describing the dishonor that would come to a father by having his own son share his wife’s sexuality (cf. NAB, NIV “dishonor his father’s bed”).

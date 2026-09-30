@@ -1,0 +1,320 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;the house of the archives.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation reads <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1460;&#1497;&#1512;&#1456;&#1514;&#1464;&#1488;</font> (<font face=\"Scholar\">birta</font>&#8217;, citadel&#8221;) rather than the reading <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1456;&#1489;&#1460;&#1497;&#1512;&#1456;&#1514;&#1464;&#1488;</font> (<font face=\"Scholar\">b&#255;vireta</font>&#8217;, &#8220;in the citadel&#8221;) found in the MT. The MT probably experienced dittography here.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;In the first year of Cyrus the king.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;raised&#8221;; or perhaps &#8220;retained&#8221; (so NASB; cf. NLT), referring to the original foundations of Solomon&#8217;s temple.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The Syriac Peshitta reads &#8220;twenty cubits&#8221; here, a measurement probably derived from dimensions given elsewhere for Solomon&#8217;s temple. According to <span class=\"bibleref\" title=\"1 Kings 6:2\">1 Kgs 6:2</span> the dimensions of the Solomonic temple were as follows: length, 60 cubits; width, 20 cubits; height, 30 cubits. Since one would expect the dimensions cited in <span class=\"bibleref\" title=\"Ezra 6:3\">Ezra 6:3</span> to correspond to those of Solomon&#8217;s temple, it is odd that no dimension for length is provided. The Syriac has apparently harmonized the width dimension provided here (&#8220;twenty cubits&#8221;) to that given in <span class=\"bibleref\" title=\"1 Kings 6:2\">1 Kgs 6:2</span>.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;Its height sixty cubits and its width sixty cubits.&#8221; The standard cubit in the OT is assumed by most authorities to be about eighteen inches (45 cm) long.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;stones of rolling.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the LXX reading <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1463;&#1491;</font> (<font face=\"Scholar\">khad</font>, &#8220;one&#8221;) rather than the MT <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1458;&#1491;&#1463;&#1514;</font> (<font face=\"Scholar\">khadat</font>, &#8220;new&#8221;). If the MT reading &#8220;new&#8221; is understood to mean freshly cut timber that has not yet been seasoned it would seem to be an odd choice for construction material.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;let be given.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;house.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> For the MT reading &#8220;the work on this temple of God&#8221; the LXX reads &#8220;the servant of the Lord Zurababel&#8221; [= Zerubbabel].</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;of the work&#8221; are not in the Aramaic, but are supplied in the translation for clarity.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;according to the word of.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;for the life of the king and his sons.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The practice referred to in v. <span class=\"bibleref\" title=\"Ezra 6:11\">11</span> has been understood in various ways: hanging (cf. 1 Esd 6:32 and KJV); flogging (cf. NEB, NLT); impalement (BDB 1091 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1456;&#1511;&#1463;&#1507;</font>; <i>HALOT</i> 1914 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1495;&#1488;</font> hitpe; cf. NAB, NIV, NRSV). The latter seems the most likely.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;made.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;a dunghill.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;for this.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;people.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;who sends forth his hand.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;sent.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;in&#8221; or &#8220;by,&#8221; in the sense of accompaniment.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>sixth year of the reign of Darius</i> would be ca. 516 <sc>B.C</sc>.</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;sons of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;sons of the exile.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Aram</i> &#8220;according to the writing of.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> At this point the language of the book reverts from Aramaic (<span class=\"bibleref\" title=\"Ezra 4:8\">4:8</span>&#8211;6:18) back to Hebrew. Aramaic will again be used in <span class=\"bibleref\" title=\"Ezra 7:12-26\">Ezra 7:12-26</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of the exile.&#8221; So also in v. <span class=\"bibleref\" title=\"Ezra 6:20\">20</span>.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;as one.&#8221; The expression is best understood as referring to the unity shown by the religious leaders in preparing themselves for the observance of Passover. On the meaning of the Hebrew phrase see <i>DCH</i> 1:182 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1495;&#1464;&#1491;</font> 3b. See also <i>HALOT</i> 30 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1495;&#1464;&#1491;</font> 5.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;brothers.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;who had separated from the uncleanness of the nations of the land to them.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;heart.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The expression &#8220;king of Assyria&#8221; is anachronistic, since Assyria fell in 612 <sc>b.c.</sc>, long before the events of this chapter. Perhaps the expression is intended subtly to contrast earlier kings of Assyria who were hostile toward Israel with this Persian king who showed them favor.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to strengthen their hands.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "1",
+      "text": "So Darius the king issued orders, and they searched in the archives of the treasury which were deposited there in Babylon. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "2",
+      "text": "A scroll was found in the citadel of Ecbatana which is in the province of Media, and it was inscribed as follows:“Memorandum:"
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "3",
+      "text": "In the first year of his reign, King Cyrus gave orders concerning the temple of God in Jerusalem: ‘Let the temple be rebuilt as a place where sacrifices are offered. Let its foundations be set in place. Its height is to be 90 feet and its width 90 feet, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "4",
+      "text": "with three layers of large stones and one layer of timber. The expense is to be subsidized by the royal treasury. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "5",
+      "text": "Furthermore, let the gold and silver vessels of the temple of God, which Nebuchadnezzar brought from the temple in Jerusalem and carried to Babylon, be returned and brought to their proper place in the temple in Jerusalem. Let them be deposited in the temple of God.’ "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "6",
+      "text": "“Now Tattenai governor of Trans-Euphrates, Shethar-Bozenai, and their colleagues, the officials of Trans-Euphrates—all of you stay far away from there. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "7",
+      "text": "Leave the work on this temple of God alone. Let the governor of the Jews and the elders of the Jews rebuild this temple of God in its proper place. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "8",
+      "text": "“I also hereby issue orders as to what you are to do with those elders of the Jews in order to rebuild this temple of God. From the royal treasury, from the taxes of Trans-Euphrates, the complete costs are to be given to these men so that there may be no interruption of the work. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "9",
+      "text": "Whatever is needed—whether oxen or rams or lambs for burnt offerings for the God of heaven or wheat or salt or wine or oil, as required by the priests who are in Jerusalem—must be given to them daily without any neglect, "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "10",
+      "text": "so that they may be offering incense to the God of heaven and may be praying for the good fortune of the king and his family. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "11",
+      "text": "“I hereby give orders that if anyone changes this directive a beam is to be pulled out from his house and he is to be raised up and impaled on it, and his house is to be reduced to a rubbish heap for this indiscretion."
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "12",
+      "text": "May God who makes his name to reside there overthrow any king or nation who reaches out to cause such change so as to destroy this temple of God in Jerusalem. I, Darius, have given orders. Let them be carried out with precision!” "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "13",
+      "text": "Then Tattenai governor of Trans-Euphrates, Shethar-Bozenai, and their colleagues acted accordingly—with precision, just as Darius the king had given instructions. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "14",
+      "text": "The elders of the Jews continued building and prospering, while at the same time Haggai the prophet and Zechariah the son of Iddo continued prophesying. They built and brought it to completion by the command of the God of Israel and by the command of Cyrus and Darius and Artaxerxes king of Persia. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "15",
+      "text": "They finished this temple on the third day of the month Adar, which is the sixth year of the reign of King Darius. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "16",
+      "text": "The people of Israel—the priests, the Levites, and the rest of the exiles—observed the dedication of this temple of God with joy. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "17",
+      "text": "For the dedication of this temple of God they offered 100 bulls, 200 rams, 400 lambs, and 12 male goats for the sin of all Israel, according to the number of the tribes of Israel. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "18",
+      "text": "They appointed the priests by their divisions and the Levites by their divisions over the worship of God at Jerusalem, in accord with the book of Moses. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "19",
+      "text": " The exiles observed the Passover on the fourteenth day of the first month. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "20",
+      "text": "The priests and the Levites had purified themselves, every last one, and they all were ceremonially pure. They sacrificed the Passover lamb for all the exiles, for their colleagues the priests, and for themselves. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "21",
+      "text": "The Israelites who were returning from the exile ate it, along with all those who had joined them in separating themselves from the uncleanness of the nations of the land to seek the Lord God of Israel. "
+    },
+    {
+      "bookname": "Ezra",
+      "chapter": "6",
+      "verse": "22",
+      "text": "They observed the Feast of Unleavened Bread for seven days with joy, for the Lord had given them joy and had changed the opinion of the king of Assyria toward them so that he assisted them in the work on the temple of God, the God of Israel. "
+    }
+  ]
+}

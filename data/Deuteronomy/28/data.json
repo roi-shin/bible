@@ -1,0 +1,783 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 28,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "“If you indeed obey the Lord your God and are careful to observe all his commandments I am giving you today, the Lord your God will elevate you above all the nations of the earth. ",
+      "ja": "「もしあなたが、あなたの神である主の声にしっかりと聞き従い、今日わたしが命じる主のすべての戒めを忠実に守るなら、あなたの神である主は、地上のすべての国々の上にあなたを高く上げられる。"
+    },
+    {
+      "verse": 2,
+      "en": "All these blessings will come to you in abundance if you obey the Lord your God: ",
+      "ja": "もしあなたがあなたの神である主の声に聞き従うなら、これらすべての祝福があなたに臨み、豊かに満ちあふれる。"
+    },
+    {
+      "verse": 3,
+      "en": "You will be blessed in the city and blessed in the field. ",
+      "ja": "あなたは町でも祝福され、野でも祝福される。"
+    },
+    {
+      "verse": 4,
+      "en": "Your children will be blessed, as well as the produce of your soil, the offspring of your livestock, the calves of your herds, and the lambs of your flocks. ",
+      "ja": "あなたの身から生まれる子らが祝福され、地の産物が祝福され、家畜の初子、すなわち牛の群れの子や羊の群れの小羊が祝福される。"
+    },
+    {
+      "verse": 5,
+      "en": "Your basket and your mixing bowl will be blessed. ",
+      "ja": "あなたのかごも、あなたのこね鉢も祝福される。"
+    },
+    {
+      "verse": 6,
+      "en": "You will be blessed when you come in and blessed when you go out. ",
+      "ja": "あなたが入るときも祝福され、出て行くときも祝福される。"
+    },
+    {
+      "verse": 7,
+      "en": "The Lord will cause your enemies who attack you to be struck down before you; they will attack you from one direction but flee from you in seven different directions. ",
+      "ja": "主は、あなたに立ち向かってくる敵を、あなたの前で打ち倒される。彼らは一方向からあなたに向かって攻め寄せてくるが、あなたの前から七つの方向に逃げ散る。"
+    },
+    {
+      "verse": 9,
+      "en": "The Lord will designate you as his holy people just as he promised you, if you keep his commandments and obey him.",
+      "ja": "あなたがあなたの神である主の戒めを守り、その道を歩むなら、主は誓われたとおり、あなたをご自身の聖なる民として立てられる。"
+    },
+    {
+      "verse": 10,
+      "en": "Then all the peoples of the earth will see that you belong to the Lord, and they will respect you. ",
+      "ja": "地上のすべての民は、主の名があなたの上に唱えられているのを見て、あなたを恐れ慄く。"
+    },
+    {
+      "verse": 11,
+      "en": "The Lord will greatly multiply your children, the offspring of your livestock, and the produce of your soil in the land that he promised your ancestors he would give you.",
+      "ja": "主は、先祖たちに与えると誓われたその地で、あなたの身から生まれる子ら、家畜の初子、地の産物を豊かに増やしてくださる。"
+    },
+    {
+      "verse": 12,
+      "en": "The Lord will open for you his good treasure house, the heavens, to give you rain for the land in its season and to bless all you do; you will lend to many nations but you will not borrow from any.",
+      "ja": "主はあなたのために、その麗しい宝庫である天を開き、ときに適ってあなたの地に雨を降らせ、あなたの手で行うすべてのことを祝福してくださる。あなたは多くの国々に貸し付けるが、自分はどこからも借りることはない。"
+    },
+    {
+      "verse": 13,
+      "en": "The Lord will make you the head and not the tail, and you will always end up at the top and not at the bottom, if you obey his commandments that I am urging you today to be careful to do. ",
+      "ja": "もしあなたが、今日わたしが心して行うよう勧めている主の戒めに聞き従い、それを守るなら、主はあなたを尾ではなく頭とし、常に上にあって下に落ちることがないようにしてくださる。"
+    },
+    {
+      "verse": 14,
+      "en": "But you must not turn away from all the commandments I am giving you today, to either the right or left, nor pursue other gods and worship them.",
+      "ja": "しかし、今日わたしが命じるすべての戒めから離れて右にも左にもそれてはならない。他の神々に従ってそれに仕えてはならない。"
+    },
+    {
+      "verse": 15,
+      "en": "“But if you ignore the Lord your God and are not careful to keep all his commandments and statutes I am giving you today, then all these curses will come upon you in full force: ",
+      "ja": "「しかし、もしあなたがあなたの神である主の声に聞き従わず、今日わたしが命じるすべての戒めと定めを忠実に守らないなら、これらすべての呪いがあなたに臨み、容赦なく襲いかかる。"
+    },
+    {
+      "verse": 16,
+      "en": "You will be cursed in the city and cursed in the field. ",
+      "ja": "あなたは町で呪われ、野で呪われる。"
+    },
+    {
+      "verse": 17,
+      "en": "Your basket and your mixing bowl will be cursed. ",
+      "ja": "あなたのかごも、あなたのこね鉢も呪われる。"
+    },
+    {
+      "verse": 18,
+      "en": "Your children will be cursed, as well as the produce of your soil, the calves of your herds, and the lambs of your flocks. ",
+      "ja": "あなたの身から生まれる子らが呪われ、地の産物が呪われ、牛の群れの子や羊の群れの小羊が呪われる。"
+    },
+    {
+      "verse": 19,
+      "en": "You will be cursed when you come in and cursed when you go out. ",
+      "ja": "あなたが入るときも呪われ、出て行くときも呪われる。"
+    },
+    {
+      "verse": 20,
+      "en": "“The Lord will send on you a curse, confusing you and opposing you in everything you undertake until you are destroyed and quickly perish because of the evil of your deeds, in that you have forsaken me. ",
+      "ja": "主はあなたの上に、呪いと、混乱と、叱責を送られ、あなたが手掛けるすべてのことに混乱と挫折をもたらされる。それは、あなたがわたしを捨てたその悪しき行いのゆえに、あなたが速やかに滅び失せるまで続く。"
+    },
+    {
+      "verse": 21,
+      "en": "The Lord will plague you with deadly diseases until he has completely removed you from the land you are about to possess. ",
+      "ja": "主は悪疫をあなたにつきまとわせ、ついに、あなたが入って所有しようとしているその地からあなたを絶滅させられる。"
+    },
+    {
+      "verse": 22,
+      "en": "He will afflict you with weakness, fever, inflammation, infection, sword, blight, and mildew; these will attack you until you perish. ",
+      "ja": "主はあなたを、消耗病、熱病、炎症、高熱、旱魃、立ち枯れ病、黒穂病で撃たれる。これらがあなたを襲い、ついにあなたを滅ぼし尽くす。"
+    },
+    {
+      "verse": 23,
+      "en": "The sky above your heads will be bronze and the earth beneath you iron. ",
+      "ja": "あなたの頭の上の空は青銅のように硬くなり、あなたの下の地は鉄のように硬くなる。"
+    },
+    {
+      "verse": 24,
+      "en": "The Lord will make the rain of your land powder and dust; it will come down on you from the sky until you are destroyed. ",
+      "ja": "主はあなたの地の雨を塵と灰塵にされ、それが天からあなたの上に降り下ろして、ついにあなたを滅ぼし尽くす。"
+    },
+    {
+      "verse": 25,
+      "en": "“The Lord will allow you to be struck down before your enemies; you will attack them from one direction but flee from them in seven directions and will become an object of terror to all the kingdoms of the earth. ",
+      "ja": "主はあなたを敵の前に打ち負かされる。あなたは一方向から彼らに攻め寄せるが、七つの方向に逃げ散り、地上のすべての王国にとって恐怖の的となる。"
+    },
+    {
+      "verse": 26,
+      "en": "Your carcasses will be food for every bird of the sky and wild animal of the earth, and there will be no one to chase them off. ",
+      "ja": "あなたの死体は空のすべての鳥や地の野獣の餌食となるが、それを追い払う者は誰もいない。"
+    },
+    {
+      "verse": 27,
+      "en": "The Lord will afflict you with the boils of Egypt and with tumors, eczema, and scabies, all of which cannot be healed. ",
+      "ja": "主はエジプトの腫物、出来物、湿疹、疥癬であなたを撃たれる。あなたはそれらの治らない病に悩まされる。"
+    },
+    {
+      "verse": 28,
+      "en": "The Lord will also subject you to madness, blindness, and confusion of mind. ",
+      "ja": "主はあなたを狂気と失明と心の混乱で撃たれる。"
+    },
+    {
+      "verse": 29,
+      "en": "You will feel your way along at noon like the blind person does in darkness and you will not succeed in anything you do; you will be constantly oppressed and continually robbed, with no one to save you.",
+      "ja": "あなたは盲人が暗闇の中で手探りするように、真昼に手探りすることになる。あなたのなすことは何一つ成功せず、あなたは常に虐げられ、略奪され続け、あなたを救う者は誰もいない。"
+    },
+    {
+      "verse": 30,
+      "en": "You will be engaged to a woman, and another man will rape her. You will build a house but not live in it. You will plant a vineyard but not even begin to use it.",
+      "ja": "あなたは女と婚約するが、別の男が彼女を暴行する。家を建ててもそこに住むことはできない。ぶどう園を造っても、その実を楽しむことはできない。"
+    },
+    {
+      "verse": 31,
+      "en": "Your ox will be slaughtered before your very eyes, but you will not eat of it. Your donkey will be stolen from you as you watch and will not be returned to you. Your flock of sheep will be given to your enemies, and there will be no one to save you.",
+      "ja": "あなたの牛は目の前でほふられるが、あなたはそれを食べることはできない。あなたのろばは目の前で奪い去られ、戻ってくることはない。あなたの羊の群れは敵に渡され、あなたを救う者は誰もいない。"
+    },
+    {
+      "verse": 32,
+      "en": "Your sons and daughters will be given to another people while you look on in vain all day, and you will be powerless to do anything about it.",
+      "ja": "あなたの息子や娘は別の民に引き渡され、あなたは一日中彼らを待ち焦がれて目を痛めるが、あなたにはどうすることもできない。"
+    },
+    {
+      "verse": 33,
+      "en": "As for the produce of your land and all your labor, a people you do not know will consume it, and you will be nothing but oppressed and crushed for the rest of your lives.",
+      "ja": "あなたの地の産物とあなたのすべての労苦の果実は、あなたの知らない民が食い尽くす。あなたは生涯、虐げられ、踏みにじられ続ける。"
+    },
+    {
+      "verse": 34,
+      "en": "You will go insane from seeing all this. ",
+      "ja": "あなたはこの目に見るもののゆえに狂気のようになる。"
+    },
+    {
+      "verse": 35,
+      "en": "The Lord will afflict you in your knees and on your legs with painful, incurable boils—from the soles of your feet to the top of your head. ",
+      "ja": "主はあなたの膝とすねを、足の裏から頭のてっぺんまで、決して治らない痛ましい腫物で撃たれる。"
+    },
+    {
+      "verse": 36,
+      "en": "The Lord will force you and your king whom you will appoint over you to go away to a people whom you and your ancestors have not known, and you will serve other gods of wood and stone there. ",
+      "ja": "主はあなたを、そしてあなたが立てる王を、あなたもあなたの先祖も知らなかった民のところへ連れて行かれる。あなたはそこで、木や石の他の神々に仕えるようになる。"
+    },
+    {
+      "verse": 37,
+      "en": "You will become an occasion of horror, a proverb, and an object of ridicule to all the peoples to whom the Lord will drive you.",
+      "ja": "主があなたを追い散らすすべての国々の間で、あなたは驚愕の的、ことわざ、笑いものとなる。"
+    },
+    {
+      "verse": 38,
+      "en": "“You will take much seed to the field but gather little harvest, because locusts will consume it.",
+      "ja": "あなたは多くの種を畑に携えて出て行くが、収穫はごくわずかとなる。いなごがそれを食い尽くすからである。"
+    },
+    {
+      "verse": 39,
+      "en": "You will plant vineyards and cultivate them, but you will not drink wine or gather in grapes, because worms will eat them.",
+      "ja": "あなたはぶどう園を造り、手入れをするが、ぶどう酒を飲むことも、ぶどうを収穫することもできない。虫がそれを食うからである。"
+    },
+    {
+      "verse": 40,
+      "en": "You will have olive trees throughout your territory, but you will not anoint yourself with olive oil, because the olives will drop off the trees while still unripe.",
+      "ja": "あなたの領土全体にオリーブの木はあるが、あなたはそれで身を潤すことはできない。実がまだ熟さないうちに落ちてしまうからである。"
+    },
+    {
+      "verse": 41,
+      "en": "You will bear sons and daughters but not keep them, because they will be taken into captivity. ",
+      "ja": "あなたは息子や娘をもうけるが、彼らを自分のものとして保つことはできない。捕囚として連れて行かれてしまうからである。"
+    },
+    {
+      "verse": 42,
+      "en": "Whirring locusts will take over every tree and all the produce of your soil. ",
+      "ja": "ぶんぶんと音を立てる虫たちが、あなたのすべての木と地の産物を占領する。"
+    },
+    {
+      "verse": 43,
+      "en": "The resident foreigners who reside among you will become higher and higher over you, and you will become lower and lower. ",
+      "ja": "あなたの中に住む寄留者たちはますますあなたの上へと昇りつめ、あなたはますます下へと落ちぶれていく。"
+    },
+    {
+      "verse": 44,
+      "en": "They will lend to you, but you will not lend to them; they will become the head, and you will become the tail! ",
+      "ja": "彼らはあなたに貸し付けるが、あなたは彼らに貸し付けることができない。彼らは頭となり、あなたは尾となる。"
+    },
+    {
+      "verse": 45,
+      "en": "“All these curses will fall on you, pursuing and overtaking you until you are destroyed, because you would not obey the Lord your God by keeping his commandments and statutes that he has given you.",
+      "ja": "これらすべての呪いがあなたに臨み、あなたを追いかけ、ついにあなたを滅ぼし尽くす。あなたがあなたの神である主の声に聞き従わず、主が与えられた戒めと定めを守らなかったからである。"
+    },
+    {
+      "verse": 46,
+      "en": "These curses will be a perpetual sign and wonder with reference to you and your descendants. ",
+      "ja": "これらの呪いは、あなたとあなたの子孫にとって、永遠のしるしおよび驚異となる。"
+    },
+    {
+      "verse": 47,
+      "en": "“Because you have not served the Lord your God joyfully and wholeheartedly with the abundance of everything you have,",
+      "ja": "すべてのものが豊かにあったにもかかわらず、あなたは喜びと心からの楽しさをもって、あなたの神である主君に仕えなかった。"
+    },
+    {
+      "verse": 48,
+      "en": "instead in hunger, thirst, nakedness, and poverty you will serve your enemies whom the Lord will send against you. They will place an iron yoke on your neck until they have destroyed you.",
+      "ja": "それゆえあなたは、飢え、渇き、裸、あらゆるものの欠乏の中で、主があなたに向かって遣わされる敵に仕えるようになる。敵はあなたを滅ぼし尽くすまで、あなたの首に鉄のくびきを負わせる。"
+    },
+    {
+      "verse": 49,
+      "en": "The Lord will raise up a distant nation against you, one from the other side of the earth as the eagle flies, a nation whose language you will not understand, ",
+      "ja": "主は遠くから、地の果てから、鷲が飛ぶような勢いで一つの国をあなたに向かって立ち上がらせる。それはあなたが言葉を理解しない国であり、"
+    },
+    {
+      "verse": 50,
+      "en": "a nation of stern appearance that will have no regard for the elderly or pity for the young. ",
+      "ja": "冷酷な顔つきをし、老人を敬わず、子供を憐れまない国である。"
+    },
+    {
+      "verse": 51,
+      "en": "They will devour the offspring of your livestock and the produce of your soil until you are destroyed. They will not leave you with any grain, new wine, olive oil, calves of your herds, or lambs of your flocks until they have destroyed you.",
+      "ja": "彼らはあなたを滅ぼし尽くすまで、あなたの家畜の初子と地の産物を食い尽くす。また、あなたを滅ぼし尽くすまで、穀物、新しいぶどう酒、オリーブ油、牛の群れの子、羊の群れの小羊を何一つ残さない。"
+    },
+    {
+      "verse": 52,
+      "en": "They will besiege all of your villages until all of your high and fortified walls collapse—those in which you put your confidence throughout the land. They will besiege all your villages throughout the land the Lord your God has given you. ",
+      "ja": "彼らはあなたの国内のすべての町を包囲し、あなたが信頼している、国中の高く堅固な城壁をすべて打ち壊す。あなたの神である主があなたに与えられた地にあるすべての町で、彼らはあなたを包囲する。"
+    },
+    {
+      "verse": 53,
+      "en": "You will then eat your own offspring, the flesh of the sons and daughters the Lord your God has given you, because of the severity of the siege by which your enemies will constrict you.",
+      "ja": "あなたは敵の容赦ない包囲と締めつけの中で、あなたの神である主が与えられた自分の身から出た子ら、自分の息子や娘の肉を食べるようになる。"
+    },
+    {
+      "verse": 54,
+      "en": "The man among you who is by nature tender and sensitive will turn against his brother, his beloved wife, and his remaining children. ",
+      "ja": "あなたの中で最も心優しく繊細な男でさえ、自分の兄弟、愛する妻、生き残った子供たちに対して冷酷な目を向けるようになる。"
+    },
+    {
+      "verse": 55,
+      "en": "He will withhold from all of them his children’s flesh that he is eating (since there is nothing else left), because of the severity of the siege by which your enemy will constrict you in your villages. ",
+      "ja": "彼は、敵がすべての町であなたを締めつける過酷な包囲の中で、ほかに食べるものが何もないため、自分が食べている子どもたちの肉を、家族の誰にも分け与えようとはしなくなる。"
+    },
+    {
+      "verse": 56,
+      "en": "Likewise, the most tender and delicate of your women, who would never think of putting even the sole of her foot on the ground because of her daintiness, will turn against her beloved husband, her sons and daughters, ",
+      "ja": "また、あなたの中で最も気高く華奢な女であり、その優雅さと繊細さゆえに足の裏を地面につけることすらしなかった女でさえ、自分の愛する夫や息子や娘に対し、"
+    },
+    {
+      "verse": 57,
+      "en": "and will secretly eat her afterbirth and her newborn children (since she has nothing else), because of the severity of the siege by which your enemy will constrict you in your villages. ",
+      "ja": "自分の足の間から出る胎盤や、産み落とした子どもたちを、敵が町々で締めつける過酷な包囲の中で、ほかに食べるものが全くないため、密かに食べるようになる。"
+    },
+    {
+      "verse": 58,
+      "en": "“If you refuse to obey all the words of this law, the things written in this scroll, and refuse to fear this glorious and awesome name, the Lord your God, ",
+      "ja": "もしあなたがこの律法のすべての言葉、すなわちこの書物に書かれている事柄を守り行わず、この栄光に満ちて恐るべき御名、すなわちあなたの神である主を恐れないなら、"
+    },
+    {
+      "verse": 59,
+      "en": "then the Lord will increase your punishments and those of your descendants—great and long-lasting afflictions and severe, enduring illnesses. ",
+      "ja": "主はあなたとあなたの子孫に対する災害を、大いなる長く続く災いと、重く永続する病をもって、甚だしく増し加えられる。"
+    },
+    {
+      "verse": 60,
+      "en": "He will infect you with all the diseases of Egypt that you dreaded, and they will persistently afflict you.",
+      "ja": "主はあなたが恐れていたエジプトのすべての病気をあなたに降りかからせ、それらをあなたにつきまとわせる。"
+    },
+    {
+      "verse": 61,
+      "en": "Moreover, the Lord will bring upon you every kind of sickness and plague not mentioned in this scroll of commandments, until you have perished. ",
+      "ja": "また主は、この律法の書に記されていないあらゆる病気や災害をもあなたに臨ませ、ついにあなたを滅ぼし尽くされる。"
+    },
+    {
+      "verse": 62,
+      "en": "There will be very few of you left, though at one time you were as numerous as the stars in the sky, because you will have disobeyed the Lord your God. ",
+      "ja": "あなたがたはかつて天の星のように数多かったが、あなたの神である主の声に聞き従わなかったゆえに、残される者はごくわずかとなる。"
+    },
+    {
+      "verse": 63,
+      "en": "This is what will happen: Just as the Lord delighted to do good for you and make you numerous, so he will also take delight in destroying and decimating you. You will be uprooted from the land you are about to possess. ",
+      "ja": "かつて主があなたがたに良くすることを喜びとし、あなたがたを増やされたように、今度は主があなたがたを滅ぼし、絶滅させることを喜びとされるようになる。あなたがたは、これから入って所有しようとする地から引き抜かれる。"
+    },
+    {
+      "verse": 64,
+      "en": "The Lord will scatter you among all nations, from one end of the earth to the other. There you will worship other gods that neither you nor your ancestors have known, gods of wood and stone. ",
+      "ja": "主はあなたを、地の端から地の端まで、すべての民の中に散らす。あなたはそこで、あなたもあなたの先祖も知らなかった木や石の他の神々に仕えるようになる。"
+    },
+    {
+      "verse": 65,
+      "en": "Among those nations you will have no rest, nor will there be a place of peaceful rest for the soles of your feet, for there the Lord will give you an anxious heart, failing eyesight, and a spirit of despair. ",
+      "ja": "それらの国々の間で、あなたに安らぎはなく、足の裏が休まる場所もない。主はそこであなたに、おびえる心、衰えた目、絶望の魂を与えられる。"
+    },
+    {
+      "verse": 66,
+      "en": "Your life will hang in doubt before you; you will be terrified by night and day and will have no certainty of surviving from one day to the next.",
+      "ja": "あなたの命は目の前で常に脅かされ、あなたは夜も昼も恐怖におののき、自分の命が明日まで保つという確信を持てなくなる。"
+    },
+    {
+      "verse": 67,
+      "en": "In the morning you will say, ‘If only it were evening!’ And in the evening you will say, ‘I wish it were morning!’ because of the things you will fear and the things you will see. ",
+      "ja": "朝には「ああ、夜になればいいのに」と言い、夜には「ああ、朝になればいいのに」と言う。それは、恐ろしい恐怖が心を捉え、この目で恐ろしい光景を見るからである。"
+    },
+    {
+      "verse": 68,
+      "en": "Then the Lord will make you return to Egypt by ship, over a route I said to you that you would never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”",
+      "ja": "そして主は、かつてわたしが「二度と見ることはない」と言った道を通らせ、船に乗せてあなたをエジプトへ連れ戻される。そこであなたがたは、男女の奴隷として自分の敵に売り渡そうとしても、買い手すらいない。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew text uses the infinitive absolute for emphasis, which the translation indicates with “indeed.”",
+        "ja": "ヘブル語テキストは強調のために不定詞絶対形を使用しており、翻訳では「indeed（確かに）」で示されています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “commanding”; NAB “which I enjoin on you today” (likewise in v. 15).",
+        "ja": "ヘブル語では「命じつつある」；NABでは「今日あなたに課している」（15節も同様）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “come upon you and overtake you” (so NASB, NRSV); NIV “come upon you and accompany you.”",
+        "ja": "ヘブル語では「あなたに臨み、あなたを追い越す」（NASB、NRSVと同様）；NIVでは「あなたに臨み、あなたにつきまとう」。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “in the country” (so NAB, NIV, NLT). This expression also occurs in v. 15.",
+        "ja": "または「田園で」（NAB、NIV、NLTと同様）。この表現は15節にも現れます。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fruit of your womb” (so NAB, NIV, NRSV).",
+        "ja": "ヘブル語では「あなたの胎の果実」（NAB、NIV、NRSVと同様）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  Come in…go out. To “come in” and “go out” is a figure of speech (merism) indicating all of life and its activities.",
+        "ja": "「入る…出て行く」。「入る」と「出て行く」は、人生とそのすべての活動を示す比喩表現（両端言及法）です。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “who rise up against” (so NIV).",
+        "ja": "ヘブル語では「立ち向かってくる者たち」（NIVと同様）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “way” (also later in this verse and in v. 25).",
+        "ja": "ヘブル語では「道」（本節の後半および25節も同様）。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord your God.” Because English would not typically reintroduce the proper name following a relative pronoun (“he will bless…the Lord your God is giving”), the pronoun (“he”) has been employed here in the translation.",
+        "ja": "ヘブル語では「あなたの神である主」。英語では関係代名詞の後に固有名詞を重ねて用いることが通常ないため（「主が…祝福される、あなたの神である主が与えておられる」）、ここでは代名詞「彼」が翻訳に採用されています。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the commandments of the Lord your God.” See note on “he” in the previous verse.",
+        "ja": "ヘブル語では「あなたの神である主の戒め」。前節の「彼」に関する注記を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and walk in his ways” (so NAB, NASB, NIV, NRSV, NLT).",
+        "ja": "ヘブル語では「その道を歩む」（NAB、NASB、NIV、NRSV、NLTと同様）。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the name of the Lord is called over you.” The Hebrew idiom indicates ownership; see 2 Sam 12:28; Isa 4:1, as well as BDB 896 s.v. קָרָא Niph. 2.d.(4).",
+        "ja": "ヘブル語では「主の名があなたの上に呼びかけられる（唱えられる）」。このヘブル語の慣用句は所有を示しています。サムエル記下12:28、イザヤ4:1、およびBDB 896 s.v. קָרָא Niph. 2.d.(4)を参照してください。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fruit of your womb” (so NAB, NIV, NRSV); CEV “will give you a lot of children.”",
+        "ja": "ヘブル語では「あなたの胎の果実」（NAB、NIV、NRSVと同様）；CEVでは「多くの子供たちを与えてくださる」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “the Lord.” See note on “he” in 28:8.",
+        "ja": "ヘブル語では「主」。28:8の「彼」に関する注記を参照してください。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “fathers” (also in vv. 36, 64).",
+        "ja": "ヘブル語では「父たち」（36節、64節も同様）。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “all the work of your hands.”",
+        "ja": "ヘブル語では「あなたの手のすべての労苦」。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord your God’s.” See note on “he” in 28:8.",
+        "ja": "ヘブル語では「あなたの神である主の」。28:8の「彼」に関する注記を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “commanding” (so NRSV); NASB “which I charge you today.”",
+        "ja": "ヘブル語では「命じつつある」（NRSVと同様）；NASBでは「今日あなたに課している」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from all the words which I am commanding.”",
+        "ja": "ヘブル語では「わたしが命じているすべての言葉から」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in order to serve.”",
+        "ja": "ヘブル語では「仕えるために」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “do not hear the voice of.”",
+        "ja": "ヘブル語では「の声に聞き従わない」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “and overtake you” (so NIV, NRSV); NAB, NLT “and overwhelm you.”",
+        "ja": "ヘブル語では「そしてあなたを追い越し」（NIV、NRSVと同様）；NAB、NLTでは「そしてあなたを圧倒し」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fruit of your womb” (so NAB, NIV, NRSV).",
+        "ja": "ヘブル語では「あなたの胎の果実」（NAB、NIV、NRSVと同様）。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  See note on the similar expression in v. 6.",
+        "ja": "6節の類似表現に関する注記を参照してください。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the curse, the confusion, and the rebuke” (NASB and NIV similar); NRSV “disaster, panic, and frustration.”",
+        "ja": "ヘブル語では「呪い、混乱、および叱責」（NASBおよびNIVも同様）；NRSVでは「災害、パニック、フラストレーション」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “in all the stretching out of your hand.”",
+        "ja": "ヘブル語では「あなたの手を差し伸べることのすべてにおいて」。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  For the MT first person common singular suffix (“me”), the LXX reads either “Lord” (Lucian) or third person masculine singular suffix (“him”; various codices). The MT’s more difficult reading probably represents the original text.[翻訳注]  Heb “the evil of your doings wherein you have forsaken me”; CEV “all because you rejected the Lord.”",
+        "ja": "マソラ本文（MT）の一人称共通単数接尾辞（「わたしを」）に対して、七十人訳（LXX）は「主」（ルキアヌス写本）、あるいは三人称男性単数接尾辞（「彼を」；諸写本）を読みます。マソラ本文のより難しい読み方が、おそらく原典を表しています。ヘブル語では「あなたがわたしを捨てたそのあなたの行いの悪さゆえに」；CEVでは「すべてあなたが主を拒んだゆえに」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “will cause pestilence to cling to you.”",
+        "ja": "ヘブル語では「疫病をあなたにしがみつかせる」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “The Lord.” See note on “he” in 28:8.",
+        "ja": "ヘブル語では「主」。28:8の「彼」に関する注記を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or perhaps “consumption” (so KJV, NASB, NRSV). The term is from a verbal root that indicates a weakening of one’s physical strength (cf. NAB “wasting”; NIV, NLT “wasting disease”).",
+        "ja": "あるいは「肺病」（KJV、NASB、NRSVと同様）。この用語は、肉体的な力の衰えを示す動詞の語根に由来しています（cf. NAB “wasting”；NIV, NLT “wasting disease”）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “hot fever”; NIV “scorching heat.”",
+        "ja": "ヘブル語では「熱い熱」；NIVでは「焼けるような暑さ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “drought” (so NIV, NRSV, NLT).",
+        "ja": "あるいは「干ばつ」（NIV、NRSV、NLTと同様）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The MT reads “Your.” The LXX reads “Heaven will be to you.”",
+        "ja": "マソラ本文（MT）は「あなたの」と読みます。七十人訳（LXX）は「天はあなたにとって…となる」と読みます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “heavens” (also in the following verse). The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.",
+        "ja": "または「天」（次の節も同様）。ヘブル語の用語שָׁמַיִם（シャマイム）は、文脈に応じて「天」または「空」と翻訳されます。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The meaningless MT reading זַעֲוָה (za’avah) is clearly a transposition of the more commonly attested Hebrew noun זְוָעָה (zÿva’ah, “terror”).",
+        "ja": "意味をなさないマソラ本文の読みザアヴァ（זַעֲוָה）は、より一般的に証拠立てられているヘブル語の名詞ズヴァアヴァ（זְוָעָה、「恐怖」）の明らかに書き誤り（転置）です。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “heart” (so KJV, NASB).",
+        "ja": "ヘブル語では「心」（KJV、NASBと同様）。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you will not cause your ways to prosper.”",
+        "ja": "ヘブル語では「あなたは自分の道を繁栄させることができない」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[写本注]  For MT reading שָׁגַל (shagal, “ravish; violate”), the Syriac, Targum, and Vulgate presume the less violent שָׁכַב (shakhav, “lie with”). The unexpected counterpart to betrothal here favors the originality of the MT.",
+        "ja": "マソラ本文のシャガル（שָׁגַל、「犯す、強姦する」）に対して、シリア語訳、タルグム、ウルガタ訳は、より穏やかなシャカブ（שָׁכַב、「共寝する」）を想定しています。ここでの婚約に対する予想外の対比は、マソラ本文の原初性を支持しています。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “and there will be no power in your hand”; NCV “there will be nothing you can do.”",
+        "ja": "ヘブル語では「そしてあなたの手には力がない」；NCVでは「あなたにできることは何もない」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The LXX reads the plural “kings.”",
+        "ja": "七十人訳（LXX）は複数形の「王たち」と読みます。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “your olives will drop off” (נָשַׁל, nashal), referring to the olives dropping off before they ripen.",
+        "ja": "ヘブル語では「あなたのオリーブが落ちる」（ナシャル、נָשַׁל）であり、オリーブが熟す前に落ちることを指しています。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew term denotes some sort of buzzing or whirring insect; some have understood this to be a type of locust (KJV, NIV, CEV), but other insects have also been suggested: “buzzing insects” (NAB); “the cricket” (NASB); “the cicada” (NRSV).",
+        "ja": "ヘブル語の用語は、何らかのぶんぶんうなる、あるいは羽音を立てる昆虫を指しています。これを一種のいなごとして理解する人々もいますが（KJV、NIV、CEV）、他の昆虫も提案されています。「羽音を立てる昆虫」（NAB）；「コオロギ」（NASB）；「セミ」（NRSV）。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the foreigner.” This is a collective singular and has therefore been translated as plural; this includes the pronouns in the following verse, which are also singular in the Hebrew text.",
+        "ja": "ヘブル語では「外国人」。これは集合的単数形であるため複数形として翻訳されており、次の節の代名詞も含まれます（これらもヘブル語テキストでは単数形です）。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “commanded”; NAB, NIV, TEV “he gave you.”",
+        "ja": "ヘブル語では「命じた」；NAB、NIV、TEVでは「彼はあなたに与えた」。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “they”; the referent (the curses mentioned previously) has been specified in the translation for clarity.",
+        "ja": "ヘブル語では「それら」；明確にするために、翻訳では指示対象（前述の呪い）が明示されています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “seed” (so KJV, ASV).",
+        "ja": "ヘブル語では「子孫（種）」（KJV、ASVと同様）。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “lack of everything.”",
+        "ja": "ヘブル語では「すべてのものの欠乏」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “he” (also later in this verse). The pronoun is a collective singular referring to the enemies (cf. CEV, NLT). Many translations understand the singular pronoun to refer to the Lord (cf. NAB, NASB, NIV, NCV, NRSV, TEV).",
+        "ja": "ヘブル語では「彼」（この節の後段も同様）。この代名詞は敵を指す集合的単数形です（cf. CEV, NLT）。多くの翻訳では、この単数代名詞が主を指すと理解されています（cf. NAB, NASB, NIV, NCV, NRSV, TEV）。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “from the end of the earth.”",
+        "ja": "ヘブル語では「地の果てから」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Some translations understand this to mean “like an eagle swoops down” (e.g., NAB, NASB, NIV, NRSV, NLT), comparing the swift attack of an eagle to the attack of the Israelites’ enemies.",
+        "ja": "いくつかの翻訳では、これを「鷲が急降下するように」（例：NAB、NASB、NIV、NRSV、NLT）と理解し、イスラエルの敵の攻撃の素早さを鷲の攻撃になぞらえています。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “it” (so NRSV), a collective singular referring to the invading nation (several times in this verse and v. 52).",
+        "ja": "ヘブル語では「それ」（NRSVと同様）、侵略する民を指す集合的単数形です（この節と52節で何度か使用されています）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “increase of herds.”",
+        "ja": "ヘブル語では「牛の増加」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb “growth of flocks.”",
+        "ja": "ヘブル語では「羊の繁茂」。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “gates,” also in vv. 55, 57.",
+        "ja": "ヘブル語では「門」、55、57節でも同様です。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the fruit of your womb” (so NAB, NRSV); NASB “the offspring of your own body.”",
+        "ja": "ヘブル語では「あなたの胎の果実」（NAB、NRSVと同様）；NASBでは「あなた自身の身体の子孫」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “siege and stress.”",
+        "ja": "ヘブル語では「包囲と圧迫」。"
+      }
+    ],
+    "55": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “besiege,” redundant with the noun “siege.”",
+        "ja": "ヘブル語では「包囲する」であり、名詞「包囲」と同義語の繰り返しとなっています。"
+      }
+    ],
+    "56": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The LXX adds σφόδρα (sfodra, “very”) to bring the description into line with v. 54.",
+        "ja": "七十人訳（LXX）は、描写を54節に合わせるためにスフォドラ（σφόδρα、「非常に」）を追加しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “delicateness and tenderness.”",
+        "ja": "ヘブル語では「繊細さと優美さ」。"
+      }
+    ],
+    "57": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb includes “that which comes out from between her feet.”",
+        "ja": "ヘブル語には「彼女の足の間から出てくるもの」が含まれます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “her sons that she will bear.”",
+        "ja": "ヘブル語では「彼女が産む息子たち」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Heb includes “in her need for everything.”",
+        "ja": "ヘブル語には「彼女のすべての欠乏（必要）において」が含まれます。"
+      }
+    ],
+    "58": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “If you are not careful to do.”",
+        "ja": "ヘブル語では「もしあなたが守り行うことに心を配らないなら」。"
+      }
+    ],
+    "60": [
+      {
+        "pos": 1,
+        "en": "[解説]  These are the plagues the Lord inflicted on the Egyptians prior to the exodus which, though they did not fall upon the Israelites, must have caused great terror (cf. Exod 15:26).",
+        "ja": "これらは、出エジプトの前に主がエジプト人にもたらした災いであり、イスラエル人には降りかからなかったものの、大きな恐怖を与えたに違いありません（cf. 出エジプト15:26）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “will cling to you” (so NIV); NLT “will claim you.”",
+        "ja": "ヘブル語では「あなたにしがみつく」（NIVと同様）；NLTでは「あなたを捉える」。"
+      }
+    ],
+    "61": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Hebrew term תּוֹרָה (torah) can refer either (1) to the whole Pentateuch or, more likely, (2) to the book of Deuteronomy or even (3) only to this curse section of the covenant text. “Scroll” better reflects the actual document, since “book” conveys the notion of a bound book with pages to the modern English reader. Cf. KJV, NASB, NRSV “the book of this law”; NIV, NLT “this Book of the Law”; TEV “this book of God’s laws and teachings.”",
+        "ja": "ヘブル語の用語トーラー（תּוֹרָה）は、（1）モーセ五書全体、あるいはより可能性としては（2）申命記、さらには（3）この契約文書の呪いの部分のみを指す場合があります。「書物」という語は、現代の英語読者が持つ「ページのある製本された本」という概念よりも実際の文書をよく反映しています（cf. KJV, NASB, NRSV “the book of this law”；NIV, NLT “this Book of the Law”；TEV “this book of God’s laws and teachings”）。"
+      }
+    ],
+    "62": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “heavens.” The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.",
+        "ja": "または「天」。ヘブル語の用語שָׁמַיִם（シャマイム）は、文脈に応じて「天」または「空」と翻訳されます。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Heb “have not listened to the voice of.”",
+        "ja": "ヘブル語では「の声に聞き従わなかった」。"
+      }
+    ],
+    "63": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “the Lord.” See note on “he” in 28:8.",
+        "ja": "ヘブル語では「主」。28:8の「彼」に関する注記を参照してください。"
+      }
+    ],
+    "66": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “you will not be confident in your life.” The phrase “from one day to the next” is implied by the following verse.",
+        "ja": "ヘブル語では「あなたは自分の命に確信を持てない」。「明日まで（一日から次の一日へと）」というフレーズは、次の節によって暗示されています。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"> and Josephus (<i>Ant.</i> 6.68-71) attest to a longer form of text at this point. The addition explains Nahash&#8217;s practice of enemy mutilation, and by so doing provides a smoother transition to the following paragraph than is found in the MT. The NRSV adopts this reading, with the following English translation: &#8220;Now Nahash, king of the Ammonites, had been grievously oppressing the Gadites and the Reubenites. He would gouge out the right eye of each of them and would not grant Israel a deliverer. No one was left of the Israelites across the Jordan whose right eye Nahash, king of the Ammonites, had not gouged out. But there were seven thousand men who had escaped from the Ammonites and had entered Jabesh-gilead.&#8221; This reading should not be lightly dismissed; it may in fact provide a text superior to that of the MT and the ancient versions. But the external evidence for it is so limited as to induce caution; the present translation instead follows the MT. However, for a reasonable case for including this reading in the text see the discussions in P. K. McCarter, <i>I Samuel</i> (AB), 199, and R. W. Klein, <i>1 Samuel</i> (WBC), 103.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The name &#8220;Nahash&#8221; means &#8220;serpent&#8221; in Hebrew.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;went up and camped&#8221;; NIV, NRSV &#8220;went up and besieged.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to Gibeah of Saul.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lifted their voice and wept.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or perhaps, &#8220;his oxen.&#8221; On this use of the definite article see Jo&#252;on 2:506-7 &#167;137.f.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the matters of.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;yoke.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;like one man.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX and two Old Latin <sc>mss</sc> read 600,000 here, rather than the MT&#8217;s 300,000.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX, two Old Latin <sc>mss</sc>, and a Qumran <sc>ms</sc> read 70,000 here, rather than the MT&#8217;s 30,000.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The second masculine plural forms in this quotation indicate that Nahash and his army are addressed.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;according to all that is good in your eyes.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Ammon.&#8221; By metonymy the name &#8220;Ammon&#8221; is used collectively for the soldiers in the Ammonite army.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and there in Gilgal.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "1",
+      "text": " Nahash the Ammonite marched against Jabesh Gilead. All the men of Jabesh Gilead said to Nahash, “Make a treaty with us and we will serve you.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "2",
+      "text": "But Nahash the Ammonite said to them, “The only way I will make a treaty with you is if you let me gouge out the right eye of every one of you and in so doing humiliate all Israel!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "3",
+      "text": "The elders of Jabesh said to him, “Leave us alone for seven days so that we can send messengers throughout the territory of Israel. If there is no one who can deliver us, we will come out voluntarily to you.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "4",
+      "text": "When the messengers went to Gibeah (where Saul lived) and informed the people of these matters, all the people wept loudly. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "5",
+      "text": "Now Saul was walking behind the oxen as he came from the field. Saul asked, “What has happened to the people? Why are they weeping?” So they told him about the men of Jabesh. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "6",
+      "text": "The Spirit of God rushed upon Saul when he heard these words, and he became very angry. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "7",
+      "text": "He took a pair of oxen and cut them up. Then he sent the pieces throughout the territory of Israel by the hand of messengers, who said, “Whoever does not go out after Saul and after Samuel should expect this to be done to his oxen!” Then the terror of the Lord fell on the people, and they went out as one army."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "8",
+      "text": "When Saul counted them at Bezek, the Israelites were 300,000 strong and the men of Judah numbered 30,000."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "9",
+      "text": "They said to the messengers who had come, “Here’s what you should say to the men of Jabesh Gilead: ‘Tomorrow deliverance will come to you when the sun is fully up.’” When the messengers went and told the men of Jabesh Gilead, they were happy. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "10",
+      "text": "The men of Jabesh said, “Tomorrow we will come out to you and you can do with us whatever you wish.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "11",
+      "text": "The next day Saul placed the people in three groups. They went to the Ammonite camp during the morning watch and struck them down until the hottest part of the day. The survivors scattered; no two of them remained together. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "12",
+      "text": "Then the people said to Samuel, “Who were the ones asking, ‘Will Saul reign over us?’ Hand over those men so we may execute them!”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "13",
+      "text": "But Saul said, “No one will be killed on this day. For today the Lord has given Israel a victory!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "14",
+      "text": "Samuel said to the people, “Come on! Let’s go to Gilgal and renew the kingship there.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "11",
+      "verse": "15",
+      "text": "So all the people went to Gilgal, where they established Saul as king in the Lord’s presence. They offered up peace offerings there in the Lord’s presence. Saul and all the Israelites were very happy. "
+    }
+  ]
+}

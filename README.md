@@ -38,6 +38,17 @@ python scrape_and_translate.py Genesis
 ```bash
 python scrape_and_translate.py Genesis 4-10 --api
 ```
+### 5. 空白を含む場合
+「1 Samuel」のように名前に空白（スペース）が含まれる書物を指定する場合は、ダブルクォーテーション " またはシングルクォーテーション ' で書名を囲んで実行します。
+
+以下のようにコマンドを入力してください！
+
+bash
+#### 1章のみ実行する場合
+python scrape_and_translate.py "1 Samuel" 1 --api
+#### 1〜10章を範囲指定で実行する場合
+python scrape_and_translate.py "1 Samuel" 1-10 --api
+
 
 > **💡 効率的な並列処理の目安**
 > APIの制限（1分間に5リクエストまで）を回避するため、ターミナルを複数開いて並列実行する場合は**「2並列（ターミナル2つ）」まで**に留めるのが最も安全かつ効率的です。1日20章まで

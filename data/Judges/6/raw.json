@@ -1,0 +1,684 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;gave them into the hand of.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the hand of Midian.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;The hand of Midian was strong against Israel.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or possibly &#8220;secret storage places.&#8221; The Hebrew word occurs only here in the Hebrew Bible.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Whenever Israel sowed seed.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Midian, Amalek, and the sons of the east would go up, they would go up against him.&#8221; The translation assumes that <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1506;&#1464;&#1500;&#1493;&#1468;</font> (<font face=\"Scholar\">v&#255;</font>&#8217;<font face=\"Scholar\">alu</font>) is dittographic (note the following <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1464;&#1500;&#1464;&#1497;&#1493;</font>, &#8217;<font face=\"Scholar\">alayv</font>).</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;They encamped against them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;destroyed.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the crops of the land.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;They left no sustenance in Israel.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;they took away&#8221; are supplied in the translation for clarification.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;came up.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;numerous.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;To them and to their camels there was no number.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;destroy.&#8221; The translation &#8220;devour&#8221; carries through the imagery of a locust plague earlier in this verse.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc>&#8221;; the proper name has been replaced by the pronoun (&#8220;he&#8221;) in the translation for stylistic reasons.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a man, a prophet.&#8221; Hebrew idiom sometimes puts a generic term before a more specific designation.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Some ancient witnesses read &#8220;from the land of Egypt.&#8221; <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1461;&#1488;&#1462;&#1512;&#1462;&#1509;</font> (<font face=\"Scholar\">me</font>&#8217;<font face=\"Scholar\">erets</font>, &#8220;from the land [of]&#8221;) could have been accidentally omitted by homoioarcton (note the following <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1502;&#1468;&#1460;&#1510;&#1456;&#1512;&#1463;&#1497;&#1460;&#1501;</font> [<font face=\"Scholar\">mimmitsrayim</font>, &#8220;from Egypt&#8221;]).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;of the house of slavery.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;hand&#8221; (also a second time later in this verse).</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Do not fear.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you have not listened to my voice.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The adjective &#8220;angelic&#8221; is interpretive.<p class=\"note\"><span class=\"notetype\">sn</span> <i>The</i> <sc>Lord</sc><i>&#8217;s angelic messenger</i> is also mentioned in <span class=\"bibleref\" title=\"Judges 2:1\">Judg 2:1</span>.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Now Gideon his son&#8230;&#8221; The Hebrew circumstantial clause (note the pattern <i>vav</i> [<font face=\"Galaxie Unicode Hebrew\">&#1493;</font>] + subject + predicate) breaks the narrative sequence and indicates that the angel&#8217;s arrival coincided with Gideon&#8217;s threshing.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;beating out.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Threshing wheat in a winepress</i>. One would normally thresh wheat at the threshing floor outside the city. Animals and a threshing sledge would be employed. Because of the Midianite threat, Gideon was forced to thresh with a stick in a winepress inside the city. For further discussion see O. Borowski, <i>Agriculture in Iron Age Israel</i>, 63.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Midian.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;But my lord.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all this.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;saying.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Some interpreters equate the <sc>Lord</sc> and the messenger in this story, but they are more likely distinct. In vv. <span class=\"bibleref\" title=\"Judges 6:22-23\">22-23</span> the <sc>Lord</sc> and Gideon continue to carry on a conversation after the messenger has vanished (v. <span class=\"bibleref\" title=\"Judges 6:21\">21</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Go in this strength of yours.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the hand of Midian.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (Gideon) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Note the switch to <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1458;&#1491;&#1465;&#1504;&#1464;&#1497;</font> (&#8217;<font face=\"Scholar\">adonay</font>, &#8220;Lord&#8221;). Gideon seems aware that he is speaking to someone other than, and superior to, the messenger, whom he addressed as <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1458;&#1491;&#1465;&#1504;&#1460;&#1497;</font> (&#8217;<font face=\"Scholar\">adoniy</font>, &#8220;my lord&#8221;) in v. <span class=\"bibleref\" title=\"Judges 6:13\">13</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;with what.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in my father&#8217;s house.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;certainly.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;You will strike down Midian as one man.&#8221; The idiom &#8220;as one man&#8221; emphasizes the collective unity of a group (see <span class=\"bibleref\" title=\"Judges 20:8,11\">Judg 20:8, 11</span>). Here it may carry the force, &#8220;as if they were just one man.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (Gideon) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;If I have found favor in your eyes.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;perform for me.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text adds &#8220;to you,&#8221; but this has not been included in the translation for stylistic reasons.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and I will bring out my gift.&#8221; The precise nuance of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1460;&#1504;&#1456;&#1495;&#1464;&#1492;</font> (<font face=\"Scholar\">minkhah</font>, &#8220;gift&#8221;) is uncertain in this context. It may refer to a gift offered as a sign of goodwill or submission. In some cases it is used of a gift offered to appease someone whom the offerer has offended. The word can also carry a sacrificial connotation.</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a kid from among the goats.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;the food&#8221; are not in the Hebrew text (an implied direct object). They are supplied in the translation for clarification and for stylistic reasons.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Take the meat&#8230;and put [it] on this rock.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he did so.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;extended the tip of the staff which was in his hand and touched the meat and unleavened bread.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;went from his eyes.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;saw.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Gideon.&#8221; The proper name has been replaced by the pronoun (&#8220;he&#8221;) in the translation for stylistic reasons.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Ah!&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text reads <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1458;&#1491;&#1465;&#1504;&#1463;&#1497; &#1497;&#1456;&#1492;&#1493;&#1460;&#1492;</font> (&#8217;<font face=\"Scholar\">adonay y&#255;hvih</font>, &#8220;Lord [the same title used in v. <span class=\"bibleref\" title=\"Judges 6:15\">15</span>], <sc>Lord&#8221;)</sc>.</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Peace to you.&#8221; For a similar use of this idiom to introduce a reassuring word, see <span class=\"bibleref\" title=\"Genesis 43:23\">Gen 43:23</span>.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;The <sc>Lord</sc> is peace.&#8221; Gideon&#8217;s name for the altar plays on the <sc>Lord</sc>&#8217;s reassuring words to him, &#8220;Peace to you.&#8221;</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Take a bull from your father&#8217;s herd, the second one, the one seven years old.&#8221; Apparently Gideon would need the bulls to pull down the altar.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Possibly &#8220;in a row&#8221; or &#8220;in a layer,&#8221; perhaps referring to the arrangement of the stones used in the altar&#8217;s construction.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;men from among his servants.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;house.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so he did it at night.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;look!&#8221; The narrator uses this word to invite his audience/readers to view the scene through the eyes of the men.</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;each one to his neighbor.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;this thing.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they inquired and searched.&#8221; The synonyms are joined to emphasize the care with which they conducted their inquiry.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and said.&#8221; Perhaps the plural subject is indefinite. If so, it could be translated, &#8220;they were told.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and let him die.&#8221; The jussive form with <i>vav</i> after the imperative is best translated as a purpose clause.</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to all who stood against him.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Do you fight for Baal?&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fights for him.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Whoever takes up his cause will die by morning</i>. This may be a warning to the crowd that Joash intends to defend his son and to kill anyone who tries to execute Gideon. Then again, it may be a sarcastic statement about Baal&#8217;s apparent inability to defend his own honor. Anyone who takes up Baal&#8217;s cause may end up dead, perhaps by the same hand that pulled down the pagan god&#8217;s altar.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;fight for himself.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for he pulled down his altar.&#8221; The subject of the verb, if not Gideon, is indefinite (in which case a passive translation is permissible).</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;He called him on that day Jerub-Baal.&#8221; The name means, at least by popular etymology, &#8220;Let Baal fight!&#8221;</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Midian, Amalek, and the sons of the east.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;the Jordan River&#8221; are not in the Hebrew text, but are supplied in the translation for clarification.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;clothed.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> That is, &#8220;mustered an army.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Abiezer was summoned after him.&#8221;</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he also was summoned after him.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> More literally, &#8220;you are about to deliver Israel by my hand.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;then give me a sign as proof&#8221; are supplied in the translation for clarification.</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the ground.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;know.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;you will deliver Israel by my hand.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And it was so.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;dew dripped from the fleece &#8211; a bowl full of water.&#8221;</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Let your anger not rage at me, so that I might speak only this once.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;let the fleece alone be dry, while dew is on all the ground.&#8221;</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;God did so that night.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "1",
+      "text": "The Israelites did evil in the Lord’s sight, so the Lord turned them over to Midian for seven years. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "2",
+      "text": "The Midianites overwhelmed Israel. Because of Midian the Israelites made shelters for themselves in the hills, caves, and strongholds. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "3",
+      "text": "Whenever the Israelites planted their crops, the Midianites, Amalekites, and the people from the east would attack them."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "4",
+      "text": "They invaded the land and devoured its crops all the way to Gaza. They left nothing for the Israelites to eat, and they took away the sheep, oxen, and donkeys. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "5",
+      "text": "When they invaded with their cattle and tents, they were as thick as locusts. Neither they nor their camels could be counted. They came to devour the land. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "6",
+      "text": "Israel was so severely weakened by Midian that the Israelites cried out to the Lord for help."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "7",
+      "text": "When the Israelites cried out to the Lord for help because of Midian, "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "8",
+      "text": "the Lord sent a prophet to the Israelites. He said to them, “This is what the Lord God of Israel has said: ‘I brought you up from Egypt and took you out of that place of slavery. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "9",
+      "text": "I rescued you from Egypt’s power and from the power of all who oppressed you. I drove them out before you and gave their land to you."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "10",
+      "text": "I said to you, “I am the Lord your God! Do not worship the gods of the Amorites, in whose land you are now living.” But you have disobeyed me.’”"
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "11",
+      "text": "The angel of the Lord came and sat down under the oak tree in Ophrah owned by Joash the Abiezrite. He arrived while Joash’s son Gideon was threshing wheat in a winepress so he could hide it from the Midianites. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "12",
+      "text": "The angel of the Lord appeared and said to him, “The Lord is with you, courageous warrior!” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "13",
+      "text": "Gideon said to him, “Pardon me, but if the Lord is with us, why has such disaster overtaken us? Where are all his miraculous deeds our ancestors told us about? They said, ‘Did the Lord not bring us up from Egypt?’ But now the Lord has abandoned us and handed us over to Midian.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "14",
+      "text": "Then the Lord himself turned to him and said, “You have the strength. Deliver Israel from the power of the Midianites! Have I not sent you?”"
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "15",
+      "text": "Gideon said to him, “But Lord, how can I deliver Israel? Just look! My clan is the weakest in Manasseh, and I am the youngest in my family.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "16",
+      "text": "The Lord said to him, “Ah, but I will be with you! You will strike down the whole Midianite army.”"
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "17",
+      "text": "Gideon said to him, “If you really are pleased with me, then give me a sign as proof that it is really you speaking with me."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "18",
+      "text": "Do not leave this place until I come back with a gift and present it to you.” The Lord said, “I will stay here until you come back.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "19",
+      "text": "Gideon went and prepared a young goat, along with unleavened bread made from an ephah of flour. He put the meat in a basket and the broth in a pot. He brought the food to him under the oak tree and presented it to him. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "20",
+      "text": "God’s angel said to him, “Put the meat and unleavened bread on this rock, and pour out the broth.” Gideon did as instructed. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "21",
+      "text": "The angel of the Lord touched the meat and the unleavened bread with the tip of his staff. Fire flared up from the rock and consumed the meat and unleavened bread. The angel of the Lord then disappeared. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "22",
+      "text": "When Gideon realized that it was the angel of the Lord, he said, “Oh no! Sovereign Lord! I have seen the angel of the Lord face-to-face!” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "23",
+      "text": "The Lord said to him, “You are safe! Do not be afraid. You are not going to die!” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "24",
+      "text": "Gideon built an altar for the Lord there, and named it “The Lord is on friendly terms with me.” To this day it is still there in Ophrah of the Abiezrites. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "25",
+      "text": "That night the Lord said to him, “Take the bull from your father’s herd, as well as a second bull, one that is seven years old. Pull down your father’s Baal altar and cut down the nearby Asherah pole. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "26",
+      "text": "Then build an altar for the Lord your God on the top of this stronghold according to the proper pattern. Take the second bull and offer it as a burnt sacrifice on the wood from the Asherah pole that you cut down.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "27",
+      "text": "So Gideon took 10 of his servants and did just as the Lord had told him. He was too afraid of his father’s family and the men of the city to do it in broad daylight, so he waited until nighttime. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "28",
+      "text": "When the men of the city got up the next morning, they saw the Baal altar pulled down, the nearby Asherah pole cut down, and the second bull sacrificed on the newly built altar. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "29",
+      "text": "They said to one another, “Who did this?” They investigated the matter thoroughly and concluded that Gideon son of Joash had done it."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "30",
+      "text": "The men of the city said to Joash, “Bring out your son, so we can execute him! He pulled down the Baal altar and cut down the nearby Asherah pole.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "31",
+      "text": "But Joash said to all those who confronted him, “Must you fight Baal’s battles? Must you rescue him? Whoever takes up his cause will die by morning! If he really is a god, let him fight his own battles! After all, it was his altar that was pulled down.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "32",
+      "text": "That very day Gideon’s father named him Jerub Baal, because he had said, “Let Baal fight with him, for it was his altar that was pulled down.”"
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "33",
+      "text": "All the Midianites, Amalekites, and the people from the east assembled. They crossed the Jordan River and camped in the Jezreel Valley. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "34",
+      "text": "The Lord’s Spirit took control of Gideon. He blew a trumpet, summoning the Abiezrites to follow him."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "35",
+      "text": "He sent messengers throughout Manasseh and summoned them to follow him as well. He also sent messengers throughout Asher, Zebulun, and Naphtali, and they came up to meet him."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "36",
+      "text": "Gideon said to God, “If you really intend to use me to deliver Israel, as you promised, then give me a sign as proof."
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "37",
+      "text": "Look, I am putting a wool fleece on the threshing floor. If there is dew only on the fleece, and the ground around it is dry, then I will be sure that you will use me to deliver Israel, as you promised.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "38",
+      "text": "The Lord did as he asked. When he got up the next morning, he squeezed the fleece, and enough dew dripped from it to fill a bowl. "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "39",
+      "text": "Gideon said to God, “Please do not get angry at me, when I ask for just one more sign. Please allow me one more test with the fleece. This time make only the fleece dry, while the ground around it is covered with dew.” "
+    },
+    {
+      "bookname": "Judges",
+      "chapter": "6",
+      "verse": "40",
+      "text": "That night God did as he asked. Only the fleece was dry and the ground around it was covered with dew. "
+    }
+  ]
+}

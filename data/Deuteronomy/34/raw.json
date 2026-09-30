@@ -1,0 +1,144 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> For the geography involved, see note on the term &#8220;Pisgah&#8221; in <span class=\"bibleref\" title=\"Deuteronomy 3:17\">Deut 3:17</span>.<p class=\"note\"><span class=\"notetype\">map</span> For the location of Jericho see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-E3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map11\">Map11-A1</a>.</p></div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;western&#8221; (so NAB, NASB, NIV, NRSV); <i>Heb</i> &#8220;latter,&#8221; a reference to the Mediterranean Sea (cf. NCV, TEV, CEV, NLT).</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;seed&#8221; (so KJV, ASV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text includes &#8220;with your eyes,&#8221; but this is redundant in English and is left untranslated.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Smr and some LXX <sc>mss</sc> read &#8220;they buried him,&#8221; that is, the Israelites. The MT reads &#8220;he buried him,&#8221; meaning in the context that &#8220;the <sc>Lord</sc> buried him.&#8221; This understanding, combined with the statement at the end of the verse that Moses&#8217; burial place is unknown, gave rise to traditions during the intertestamental period that are reflected in the NT in <span class=\"bibleref\" title=\"Jude 1:9\">Jude 9</span> and in OT pseudepigraphic works like the <i>Assumption of Moses</i>.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;dimmed.&#8221; The term could refer to dull appearance or to dimness caused by some loss of visual acuity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;sap.&#8221; That is, he was still in possession of his faculties or liveliness.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See <span class=\"bibleref\" title=\"Numbers 27:18\">Num 27:18</span>.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See <span class=\"bibleref\" title=\"Numbers 12:8\">Num 12:8</span>; <span class=\"bibleref\" title=\"Deuteronomy 18:15-18\">Deut 18:15-18</span>.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to,&#8221; &#8220;with respect to.&#8221; In the Hebrew text vv. <span class=\"bibleref\" title=\"Deuteronomy 34:10-12\">10-12</span> are one long sentence. For stylistic reasons the translation divides this into two, using the verb &#8220;he did&#8221; at the beginning of v. <span class=\"bibleref\" title=\"Deuteronomy 34:11\">11</span> and &#8220;he displayed&#8221; at the beginning of v. <span class=\"bibleref\" title=\"Deuteronomy 34:12\">12</span>.</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;strong hand.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew text of v. <span class=\"bibleref\" title=\"Deuteronomy 34:12\">12</span> reads literally, &#8220;with respect to all the strong hand and with respect to all the awesome greatness which Moses did before the eyes of all Israel.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "1",
+      "text": "Then Moses ascended from the rift valley plains of Moab to Mount Nebo, to the summit of Pisgah, which is opposite Jericho. The Lord showed him the whole land—Gilead to Dan, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "2",
+      "text": "and all of Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the distant sea, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "3",
+      "text": "the Negev, and the plain of the Valley of Jericho, the city of date palm trees, as far as Zoar. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "4",
+      "text": "Then the Lord said to him, “This is the land I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it, but you will not cross over there.” "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "5",
+      "text": "So Moses, the servant of the Lord, died there in the land of Moab as the Lord had said. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "6",
+      "text": "He buried him in the valley in the land of Moab near Beth Peor, but no one knows his exact burial place to this very day. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "7",
+      "text": "Moses was 120 years old when he died, but his eye was not dull nor had his vitality departed. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "8",
+      "text": "The Israelites mourned for Moses in the rift valley plains of Moab for thirty days; then the days of mourning for Moses ended. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "9",
+      "text": "Now Joshua son of Nun was full of the spirit of wisdom, for Moses had placed his hands on him; and the Israelites listened to him and did just what the Lord had commanded Moses. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "10",
+      "text": "No prophet ever again arose in Israel like Moses, who knew the Lord face to face. "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "11",
+      "text": "He did all the signs and wonders the Lord had sent him to do in the land of Egypt, to Pharaoh, all his servants, and the whole land, "
+    },
+    {
+      "bookname": "Deuteronomy",
+      "chapter": "34",
+      "verse": "12",
+      "text": "and he displayed great power and awesome might in view of all Israel. "
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The translation follows the MT. The LXX reads &#8220;a man from Ramathaim, a Zuphite&#8221;; this is followed by a number of recent English translations. It is possible the MT reading <font face=\"Galaxie Unicode Hebrew\">&#1510;&#1493;&#1465;&#1508;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">tsofim</font>) arose from dittography of the <i>mem</i> (<font face=\"Galaxie Unicode Hebrew\">&#1502;</font>) at the beginning of the following word.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;from days to days.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The exact sense of the Hebrew word <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1463;&#1508;&#1468;&#1464;&#1497;&#1460;&#1501;</font> (&#8217;<font face=\"Scholar\">appayim</font>, &#8220;two faces&#8221;) is not certain here. It is most likely used with the preceding expression (&#8220;one portion of two faces&#8221;) to mean a portion double than normally received. Although evidence for this use of the word derives primarily from Aramaic rather than from Hebrew usage, it provides an understanding that fits the context here better than other suggestions for the word do. The meaning &#8220;double&#8221; is therefore adopted in the present translation. Other possibilities for the meaning of the word include the following: &#8220;heavily&#8221; (cf. Vulg., <font face=\"Scholar\">tristis</font>) and &#8220;worthy&#8221; or &#8220;choice&#8221; (cf. KJV and Targum). Some scholars have followed the LXX here, emending the word to <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1462;&#1508;&#1462;&#1505;</font> (&#8217;<font face=\"Scholar\">efes</font>) and translating it as &#8220;but&#8221; or &#8220;however.&#8221; This seems unnecessary. The translators of the LXX may simply have been struggling to make sense of the word rather than following a Hebrew text that was different from the MT here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for Hannah he loved.&#8221; Repetition of the proper name would seem redundant in contemporary English, so the pronoun (&#8220;her&#8221;) has been used here for clarity. The translation also adds the adverb &#8220;especially&#8221; to clarify the meaning of the text. Without this addition one might get the impression that only Hannah, not Peninnah, was loved by her husband. But the point of the text is that Hannah was his favorite.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the <sc>Lord</sc> had closed her womb.&#8221; So also in v. <span class=\"bibleref\" title=\"1 Samuel 1:6\">6</span>. The disjunctive clause provides supplemental information that is pertinent to the story.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and her rival wife grieved her, even [with] grief so as to worry her.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The MT has a masculine form of the verb here <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1463;&#1506;&#1458;&#1513;&#1474;&#1462;&#1492;</font> (<font face=\"Scholar\">ya</font>&#8217;<font face=\"Scholar\">aseh</font>, &#8220;he used to do&#8221;); the subject in that case would presumably be Elkanah. But this leads to an abrupt change of subject in the following part of the verse, where the subject is the rival wife who caused Hannah anxiety. In light of v. <span class=\"bibleref\" title=\"1 Samuel 1:6\">6</span> one expects the statement of v. <span class=\"bibleref\" title=\"1 Samuel 1:7\">7</span> to refer to the ongoing actions of the rival wife: &#8220;she used to behave in this way year after year.&#8221; Some scholars have proposed retaining the masculine form but changing the vocalization of the verb so as to read a Niphal rather than a Qal (i.e., <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1461;&#1506;&#1458;&#1513;&#1474;&#1462;&#1492;</font>, <font face=\"Scholar\">ye</font>&#8217;<font face=\"Scholar\">aseh</font>, &#8220;so it used to be done&#8221;). But the problem here is lack of precedent for such a use of the Niphal of this verb. It seems best in light of the context to understand the reference to be to Hannah&#8217;s rival Peninnah and to read here, with the Syriac Peshitta, a feminine form of the verb (&#8220;she used to do&#8221;). In the translation the referent (Peninnah) has been specified for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;she&#8221;; the referent (Hannah) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;she&#8221;; the referent (Peninnah) has been specified in the translation for clarity.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;why is your heart displeased?&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Like the number seven, the number ten is sometimes used in the OT as an ideal number (see, for example, <span class=\"bibleref\" title=\"Daniel 1:20\">Dan 1:20</span>, <span class=\"bibleref\" title=\"Zechariah 8:23\">Zech 8:23</span>).</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The LXX adds &#8220;and stood before the Lord,&#8221; but this is probably a textual expansion due to the terseness of the statement in the Hebrew text.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or perhaps, &#8220;on his throne.&#8221; See Jo&#252;on 2:506-7 &#167;137.f.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;she [was in] bitterness of soul.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and weeping, she was weeping.&#8221; The infinitive absolute emphasizes the extent of her sorrow. The imperfect verbal form emphasizes the continuation of the action in past time.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;if looking you look.&#8221; The expression can refer, as here, to looking favorably upon another, in this case with compassion.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;handmaid.&#8221; The use of this term (translated two more times in this verse and once each in vv. <span class=\"bibleref\" title=\"1 Samuel 1:16,17\">16, 17</span> simply as &#8220;servant&#8221; for stylistic reasons) is an expression of humility.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;seed of men.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a razor will not go up upon his head.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;before.&#8221; Many medieval Hebrew manuscripts read &#8220;to.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Eli.&#8221; The pronoun (&#8220;he&#8221;) has been used in the translation in keeping with contemporary English style.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;No.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;I am a woman difficult of spirit.&#8221; The LXX has &#8220;for whom the day is difficult,&#8221; apparently mistaking the Hebrew word for &#8220;spirit&#8221; <font face=\"Galaxie Unicode Hebrew\">&#1512;&#1493;&#1468;&#1495;&#1463;</font> (<font face=\"Scholar\">ruakh</font>) to be the word for &#8220;day&#8221; <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1465;&#1501;</font> (<font face=\"Scholar\">yom</font>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;before.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;daughter of worthlessness.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Several medieval Hebrew <sc>mss</sc> and the Syriac Peshitta lack the words &#8220;and got something to eat.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Elkanah knew his wife.&#8221; The Hebrew expression is a euphemism for sexual relations.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Lord &#8220;remembered&#8221; her in the sense of granting her earlier request for a child. The Hebrew verb is often used in the OT for considering the needs or desires of people with favor and kindness.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;because from the <sc>Lord</sc> I asked him.&#8221; The name &#8220;Samuel&#8221; sounds like the Hebrew verb translated &#8220;asked.&#8221; The explanation of the meaning of the name &#8220;Samuel&#8221; that is provided in v. <span class=\"bibleref\" title=\"1 Samuel 1:20\">20</span> is not a strict etymology. It seems to suggest that the first part of the name is derived from the Hebrew root <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1488;&#1500;</font> (<font face=\"Scholar\">sh</font>&#8217;<font face=\"Scholar\">l</font>, &#8220;to ask&#8221;), but the consonants do not support this. Nor is it likely that the name comes from the root <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1502;&#1488;</font> (<font face=\"Scholar\">shm</font>&#8217;, &#8220;to hear&#8221;), for the same reason. It more probably derives from <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1462;&#1501;</font> (<font face=\"Scholar\">shem</font>, &#8220;name&#8221;), so that &#8220;Samuel&#8221; means &#8220;name of God.&#8221; Verse <span class=\"bibleref\" title=\"1 Samuel 1:20\">20</span> therefore does not set forth a linguistic explanation of the meaning of the name, but rather draws a parallel between similar sounds. This figure of speech is known as paronomasia.</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The disjunctive clause is contrastive here. The words &#8220;with them&#8221; have been supplied in the translation for stylistic reasons.</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;what is good in your eyes.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;establish his word.&#8221; This apparently refers to the promise inherent in Eli&#8217;s priestly blessing (see v. <span class=\"bibleref\" title=\"1 Samuel 1:17\">17</span>).</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <font face=\"Scholar\">ephah</font> was a standard dry measure in OT times; it was the equivalent of one-tenth of the OT measure known as a homer. The ephah was equal to approximately one-half to two-thirds of a bushel.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term translated &#8220;container&#8221; may denote either a clay storage jar (cf. CEV &#8220;a clay jar full of wine&#8221;) or a leather container (cf. NAB, NIV, NRSV &#8220;a skin of wine&#8221;; NCV &#8220;a leather bag filled with (full of TEV) wine.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> <i>Heb</i> &#8220;and the boy was a boy.&#8221; If the MT is correct the meaning apparently is that the boy was quite young at the time of these events. On the other hand, some scholars have suspected a textual problem, emending the text to read either &#8220;and the boy was with them&#8221; (so LXX) or &#8220;and the boy was with her&#8221; (a conjectural emendation). In spite of the difficulty it seems best to stay with the MT here.</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he,&#8221; apparently referring to Samuel (but cf. CEV &#8220;Elkanah&#8221;). A few medieval manuscripts and some ancient versions take the verb as plural (cf. TEV, NLT).</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "1",
+      "text": "There was a man from Ramathaim Zophim, from the hill country of Ephraim. His name was Elkanah. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "2",
+      "text": "He had two wives; the name of the first was Hannah and the name of the second was Peninnah. Peninnah had children, but Hannah had no children. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "3",
+      "text": "This man would go up from his city year after year to worship and to sacrifice to the Lord of Heaven’s Armies at Shiloh. (It was there that the two sons of Eli, Hophni and Phinehas, served as the Lord’s priests.) "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "4",
+      "text": "The day came, and Elkanah sacrificed. (Now he used to give meat portions to his wife Peninnah and to all her sons and daughters. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "5",
+      "text": "But to Hannah he would give a double portion because he loved Hannah, although the Lord had not enabled her to have children. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "6",
+      "text": "Her rival used to aggravate her to the point of exasperation, just to irritate her, since the Lord had not enabled her to have children. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "7",
+      "text": "This is how it would go year after year. As often as she went up to the Lord’s house, Peninnah would offend her in that way.) So she cried and refused to eat. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "8",
+      "text": "Then her husband Elkanah said to her, “Hannah, why are you crying and why won’t you eat? Why are you so upset? Am I not better to you than 10 sons?” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "9",
+      "text": "So Hannah got up after they had finished eating and drinking in Shiloh. At the time Eli the priest was sitting in his chair by the doorpost of the Lord’s sanctuary."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "10",
+      "text": "As for Hannah, she was very distressed. She prayed to the Lord and was, in fact, weeping."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "11",
+      "text": "She made a vow saying, “O Lord of Heaven’s Armies, if you would truly look on the suffering of your servant, and would keep me in mind and not neglect your servant, and give your servant a male child, then I will dedicate him to the Lord all the days of his life. His hair will never be cut.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "12",
+      "text": "It turned out that she did a great deal of praying before the Lord. Meanwhile Eli was watching her mouth. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "13",
+      "text": "As for Hannah, she was speaking in her mind. Only her lips were moving; her voice could not be heard. So Eli thought she was a drunkard."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "14",
+      "text": "Then he said to her, “How much longer do you intend to get drunk? Put away your wine!” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "15",
+      "text": "But Hannah replied, “Not so, my lord! I am a woman under a great deal of stress. I haven’t drunk wine or beer. But I have poured out my soul before the Lord. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "16",
+      "text": "Don’t consider your servant a wicked woman. It’s just that, to this point, I have spoken from my deep pain and anguish.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "17",
+      "text": "Eli replied, “Go in peace, and may the God of Israel grant the request that you have asked of him.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "18",
+      "text": "She said, “May I, your servant, find favor in your sight.” So the woman went her way and got something to eat. Her face no longer looked sad."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "19",
+      "text": "They got up early the next morning. Then they worshiped the Lord and returned to their home at Ramathaim. Elkanah was intimate with his wife Hannah, and the Lord called her to mind. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "20",
+      "text": "Then Hannah became pregnant. In the course of time she gave birth to a son. And she named him Samuel, thinking, “I asked the Lord for him.”"
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "21",
+      "text": "Then the man Elkanah and all his family went up to make the yearly sacrifice to the Lord and to keep his vow. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "22",
+      "text": "But Hannah did not go up with them, because she had told her husband, “Not until the boy is weaned. Then I will bring him so that he may appear before the Lord. And he will remain there from then on.” "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "23",
+      "text": "Then her husband Elkanah said to her, “Do what you think best. Stay until you have weaned him. Only may the Lord fulfill his promise.” So the woman stayed and nursed her son until she had weaned him."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "24",
+      "text": "Then she took him up with her as soon as she had weaned him, along with three bulls, an ephah of flour, and a container of wine. She came to the Lord’s house at Shiloh, and the boy was with them."
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "25",
+      "text": "They slaughtered the bull, then brought the boy to Eli. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "26",
+      "text": "She said, “My lord. Just as surely as you are alive, my lord, I am the woman who previously stood here with you in order to pray to the Lord. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "27",
+      "text": "For this boy I prayed, and the Lord has given me the request that I asked of him. "
+    },
+    {
+      "bookname": "1 Samuel",
+      "chapter": "1",
+      "verse": "28",
+      "text": "So I also dedicate him to the Lord. For all the days of his life he is dedicated to the Lord.” Then he bowed down there in worship to the Lord. "
+    }
+  ]
+}

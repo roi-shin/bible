@@ -1,0 +1,280 @@
+# Ruth 1 (English)
+
+## Text
+
+**1** During the time of the judges, there was a famine in the land of Judah. So a man from Bethlehem in Judah went to live as a resident foreigner in the region of Moab, along with his wife and two sons. 
+
+**2** (Now the man’s name was Elimelech, his wife was Naomi, and his two sons were Mahlon and Kilion. They were of the clan of Ephrath from Bethlehem in Judah.) They entered the region of Moab and settled there. 
+
+**3** Sometime later Naomi’s husband Elimelech died, so she and her two sons were left alone.
+
+**4** Both her sons married Moabite women. (One was named Orpah and the other Ruth.) And they continued to live there about 10 years. 
+
+**5** Then Naomi’s two sons, Mahlon and Kilion, also died. So the woman was left all alone—bereaved of her two children as well as her husband! 
+
+**6** So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that the Lord had shown concern for his people, reversing the famine by providing abundant crops. 
+
+**7** Now as she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah, 
+
+**8** Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home. May the Lord show you the same kind of devotion that you have shown to your deceased husbands and to me.
+
+**9** May the Lord enable each of you to find security in the home of a new husband.” Then she kissed them goodbye, and they wept loudly. 
+
+**10** But they said to her, “No! We will return with you to your people.” 
+
+**11** But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me. I am no longer capable of giving birth to sons who might become your husbands! 
+
+**12** Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons, 
+
+**13** surely you would not want to wait until they were old enough to marry. Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the Lord is afflicting me!”
+
+**14** Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her.
+
+**15** So Naomi said, “Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!”
+
+**16** But Ruth replied, “Stop urging me to abandon you! For wherever you go, I will go. Wherever you live, I will live. Your people will become my people, and your God will become my God. 
+
+**17** Wherever you die, I will die—and there I will be buried. May the Lord punish me severely if I do not keep my promise! Only death will be able to separate me from you!”
+
+**18** When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her. 
+
+**19** So the two of them journeyed together until they arrived in Bethlehem.When they entered Bethlehem, the whole village was excited about their arrival. The women of the village said, “Can this be Naomi?”
+
+**20** But she replied to them, “Don’t call me ‘Naomi’! Call me ‘Mara’ because the Sovereign One has treated me very harshly. 
+
+**21** I left here full, but the Lord has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the Lord has opposed me, and the Sovereign One has caused me to suffer?”
+
+**22** So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.) 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Heb “in the days of the judging of the judges.” The LXX simply reads “when the judges judged,” and Syriac has “in the days of the judges.” Cf. NASB “in the days when the judges governed (ruled NRSV).”[解説]  Many interpreters, reading this statement in the light of the Book of Judges which describes a morally corrupt period, assume that the narrator is painting a dark backdrop against which Ruth’s exemplary character and actions will shine even more brightly. However, others read this statement in the light of the book’s concluding epilogue which traces the full significance of the story to the time of David, the chosen king of Judah (4:18-22).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “in the land.” The phrase “of Judah” is supplied in the translation to clarify the referent.
+
+### Verse 1 - Note 3
+[解説]  The name Bethlehem (בֵּית לֶחֶם, bet lekhem) is from “house, place” (בֵּית) and “bread, food” (לֶחֶם), so the name literally means “House of Bread” or “Place of Food.” Perhaps there is irony here: One would not expect a severe famine in such a location. This would not necessarily indicate that Bethlehem was under divine discipline, but merely that the famine was very severe, explaining the reason for the family’s departure.[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.
+
+### Verse 1 - Note 4
+[翻訳注]  Or “to live temporarily.” The verb גּוּר (gur, “sojourn”) may refer to (1) temporary dwelling in a location (Deut 18:6; Judg 17:7) or (2) permanent dwelling in a location (Judg 5:17; Ps 33:8). When used of a foreign land, it can refer to (1) temporary dwelling as a visiting foreigner (Gen 12:10; 20:1; 21:34; 2 Kgs 8:1-2; Jer 44:14) or (2) permanent dwelling as a resident foreigner (Gen 47:4; Exod 6:4; Num 15:14; Deut 26:5; 2 Sam 4:3; Jer 49:18,33; 50:40; Ezek 47:22-23). Although Naomi eventually returned to Judah, there is some ambiguity whether or not Elimelech intended the move to make them permanent resident foreigners. Cf. NASB “to sojourn” and NIV “to live for a while,” both of which imply the move was temporary, while “to live” (NCV, NRSV, NLT) is more neutral about the permanence of the relocation.[解説]  Some interpreters view Elimelech’s departure from Judah to sojourn in Moab as lack of faith in the covenant God of Israel to provide for his family’s needs in the land of promise; therefore his death is consequently viewed as divine judgment. Others note that God never prohibited his people from seeking food in a foreign land during times of famine but actually sent his people to a foreign land during a famine in Canaan on at least one occasion as an act of deliverance (Gen 37-50). In this case, Elimelech’s sojourn to Moab was an understandable act by a man concerned for the survival of his family, perhaps even under divine approval, so their death in Moab was simply a tragedy, a bad thing that happened to a godly person.
+
+### Verse 1 - Note 5
+[翻訳注]  Heb “he and his wife and his two sons.” The LXX omits “two.”
+
+### Verse 2 - Note 1
+[解説]  The name “Elimelech” literally means “My God [is] king.” The narrator’s explicit identification of his name seems to cast him in a positive light.
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “and the name of his wife [was] Naomi.” This has been simplified in the translation for stylistic reasons.[解説]  The name Naomi (נָעֳמִי, na’omi) is from the adjective נֹעַם (noam, “pleasant, lovely”) and literally means “my pleasant one” or “my lovely one.” Her name will become the subject of a wordplay in 1:20-21 when she laments that she is no longer “pleasant” but “bitter” because of the loss of her husband and two sons.
+
+### Verse 2 - Note 3
+[翻訳注]  Heb “and the name[s] of his two sons [were] Mahlon and Kilion.”[解説]  The name Mahlon (מַחְלוֹן, makhlon) is from מָלָה (malah, “to be weak, sick”) and Kilion (כִליוֹן, khilyon) is from כָלָה (khalah, “to be frail”). The rate of infant mortality was so high during the Iron Age that parents typically did not name children until they survived infancy and were weaned. Naomi and Elimelech might have named their two sons Mahlon and Kilion to reflect their weak condition in infancy due to famine – which eventually prompted the move to Moab where food was abundant.
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “[They were] Ephrathites.” Ephrathah is a small village (Ps 132:6) in the vicinity of Bethlehem (Gen 35:16), so close in proximity that it is often identified with the larger town of Bethlehem (Gen 35:19; 48:7; Ruth 4:11; Mic 5:2 [MT 5:1]; HALOT 81 s.v. אֶפְרָתָה); see F. W. Bush, Ruth, Esther (WBC), 64. The designation “Ephrathites” might indicate that they were residents of Ephrathah. However, the adjectival form אֶפְרָתִים (ephratim, “Ephrathites”) used here elsewhere refers to someone from the clan of Ephrath (cf. 1 Chr 4:4) which lived in the region of Bethlehem: “Now David was the son of an Ephrathite from Bethlehem in Judah whose name was Jesse” (1 Sam 17:12; cf. Mic 5:2 [MT 5:1]). So it is more likely that the virtually identical expression here – “Ephrathites from Bethlehem in Judah” – refers to the clan of Ephrath in Bethlehem (see R. L. Hubbard, Jr., Ruth [NICOT], 91).
+
+### Verse 2 - Note 5
+[翻訳注]  Heb “and were there”; KJV “continued there”; NRSV “remained there”; TEV “were living there.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “And Elimelech, the husband of Naomi, died.” The vav (ו) functions in a consecutive sense (“then”), but the time-frame is not explicitly stated.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “they.” The verb rd person masculine plural referring to Naomi’s sons, as the translation indicates.
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “and they lifted up for themselves Moabite wives.” When used with the noun “wife,” the verb נָשָׂא (nasa’, “to lift up, carry, take”) forms the idiom “to take a wife,” that is, to marry (BDB 673 s.v. Qal.3.d; 2 Chr 11:21; 13:21; 24:3; Ezra 9:2,12; 10:44; Neh 13:25).
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “the name of the one [was] Orpah and the name of the second [was] Ruth.”[解説]  The name Orpah (עָרְפָּה, ’orpah) is from the noun עֹרֶף (’oref, “back of the neck”) and the related verb (“to turn one’s back”). The name Ruth (רוּת, rut) is from the noun רְעוּת (rÿ’ut, “friendship”), derived from the root רֵעַ (rea’, “friend, companion”). Ironically, Orpah will eventually turn her back on Naomi, while Ruth will display extraordinary friendship as her life-long companion (see 1:14). Since they seem to mirror the most definitive action of these women, perhaps they designate character types (as is the case with the name Mara in 1:21 and Peloni Almoni in 4:2) rather than their original birth names.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “and the two of them also died, Mahlon and Kilion.”
+
+### Verse 5 - Note 2
+[翻訳注]  The term יֶלֶד (yeled, “offspring”), from the verb יָלַד (yalad, “to give birth to”), is used only here of a married man. By shifting to this word from the more common term בֵּן (ben, “son”; see vv. 1-5a) and then using it in an unusual manner, the author draws attention to Naomi’s loss and sets up a verbal link with the story’s conclusion (cf. 4:16). Although grown men, they were still her “babies” (see E. F. Campbell, Ruth [AB], 56; F. W. Bush, Ruth, Esther [WBC], 66).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “and she arose, along with her daughters-in-law, and she returned from the region of Moab.”
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “in the region of Moab”; KJV, NRSV “in the country of Moab.” Since this is a repetition of the phrase found earlier in the verse, it has been shortened to “in Moab” in the present translation for stylistic reasons.
+
+### Verse 6 - Note 3
+[翻訳注]  Heb “had visited” or “taken note of.” The basic meaning of פָּקַד (paqad) is “observe, examine, take note of” (T. F. Williams, NIDOTTE 3:658), so it sometimes appears with זָכַר (zakhar, “to remember”; Pss 8:4 []; 106:4; Jer 14:10; 15:15; Hos 8:13; 9:9) and רָאָה (ra’ah, “to see”; Exod 4:31; Ps 80:14 []; NIDOTTE 3:659). It often emphasizes the cause/effect response to what is seen (NIDOTTE 3:659). When God observes people in need, it is glossed “be concerned about, care for, attend to, help” (Gen 21:1; 50:24, 25; Exod 4:31; Ruth 1:6; 1 Sam 2:21; Jer 15:15; Zeph 2:7; Zech 10:3b; NIDOTTE 3:661). When humans are the subject, it sometimes means “to visit” needy people to bestow a gift (Judg 15:1; 1 Sam 17:18). Because it has such a broad range of meanings, its use here has been translated variously: (1) “had visited” (KJV, ASV, NASV, RSV; so BDB 823-24 s.v. פָּקַד); (2) “had considered” (NRSV) and “had taken note of” (TNK; so HALOT 955-57 s.v. פקד); and (3) “had come to the aid of” (NIV), “had blessed” (TEV), and “had given” (CEV; so NIDOTTE 3:657). When God observed the plight of his people, he demonstrated his concern by benevolently giving them food.
+
+### Verse 6 - Note 4
+[翻訳注]  Heb “by giving to them food.” The translation “reversing the famine and providing abundant crops” attempts to clarify the referent of לֶחֶם (lekhem, “food”) as “crops” and highlights the reversal of the famine that began in v. 1. The infinitive construct לָתֵת לָהֶם לָחֶם (latet lahem lakhem) may denote (1) purpose: “[he visited his people] to give them food” or (2) complementary sense explaining the action of the main verb: “[he visited his people] by giving them food.” The term לֶחֶם (lakhem) here refers to agricultural fertility, the reversal of the famine in v. 1.
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “and she went out from the place she had been, and her two daughters-in-law with her, and they went on the way to return to the land of Judah.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “each to the house of her mother.” Naomi’s words imply that it is more appropriate for the two widows to go home to their mothers, rather than stay with their mother-in-law (see F. W. Bush, Ruth, Esther [WBC], 75).
+
+### Verse 8 - Note 2
+[写本注]  The MT (Kethib) has the imperfect יַעֲשֶׂה (ya’aseh, “[the Lord] will do”), but the marginal reading (Qere) has the shortened jussive form יַעַשׂ (ya’as, “may [the Lord] do”), which is more probable in this prayer of blessing. Most English versions adopt the jussive form (KJV, ASV, NAB, NASB, NIV, NRSV, JPS, TEV, CEV, NLT).
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “do with you”; NRSV “deal kindly with you”; NLT “reward you for your kindness.” The pronominal suffix “you” appears to be a masculine form, but this is likely a preservation of an archaic dual form (see E. F. Campbell, Ruth [AB], 65; F. W. Bush, Ruth, Esther [WBC], 75-76).
+
+### Verse 8 - Note 4
+[翻訳注]  Heb “the dead” (so KJV, NRSV); NLT “your husbands.” This refers to their deceased husbands.
+
+### Verse 8 - Note 5
+[翻訳注]  Heb “devotion as you have done with the dead and with me.” The noun חֶסֶד (khesed, “devotion”) is a key thematic term in the book of Ruth (see 2:20; 3:10). G. R. Clark suggests that חֶסֶד “is not merely an attitude or an emotion; it is an emotion that leads to an activity beneficial to the recipient”; an act of חֶסֶד is “a beneficent action performed, in the context of a deep and enduring commitment between two persons or parties, by one who is able to render assistance to the needy party who in the circumstances is unable to help him – or herself” (The Word Hesed in the Hebrew Bible [JSOTSup], 267). HALOT 336-37 s.v. II חֶסֶד defines the word as “loyalty” or “faithfulness.” Other appropriate glosses might be “commitment” and “devotion.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “may the Lord give to you, and find rest, each [in] the house of her husband.” The syntax is unusual, but following the jussive (“may he give”), the imperative with vav (ו) conjunctive (“and find”) probably indicates the purpose or consequence of the preceding action: “May he enable you to find rest.”
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “rest.” While the basic meaning of מְנוּחָה (mÿnukhah) is “rest,” it often refers to “security,” such as provided in marriage (BDB 629-30 s.v.; HALOT 600 s.v.). Thus English versions render it in three different but related ways: (1) the basic sense: “rest” (KJV, ASV, NASV, NIV); (2) the metonymical cause/effect sense: “security” (NRSV, NJPS, REB, NLT, GW); and (3) the referential sense: “home” (RSV, TEV, CEV, NCV).
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “in the house of her husband” (so KJV, NASB); NRSV “your husband.”
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “they lifted their voice[s] and wept” (KJV, ASV, NASB all similar). This refers to loud weeping characteristic of those mourning a tragedy (Judg 21:2; 2 Sam 13:36; Job 2:12).
+
+### Verse 10 - Note 1
+[翻訳注]  The particle כִּי (ki) here has the force of “no, on the contrary” (see Gen 31:26; Ps 44:22; HALOT 470 s.v. II כִּי 3).
+
+### Verse 10 - Note 2
+[翻訳注]  Or perhaps “we want to” (so NCV, CEV, NLT), if the imperfect is understood in a modal sense indicating desire.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “Why would you want to come with me?” Naomi’s rhetorical question expects a negative answer. The phrase “to Judah” is added in the translation for clarification.
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “Do I still have sons in my inner parts that they might become your husbands?” Again Naomi’s rhetorical question expects a negative answer.
+
+### Verse 12 - Note 1
+[解説]  Too old to get married again. Naomi may be exaggerating for the sake of emphasis. Her point is clear, though: It is too late to roll back the clock.
+
+### Verse 12 - Note 2
+[翻訳注]  Verse 12b contains the protasis (“if” clause) of a conditional sentence, which is completed by the rhetorical questions in v. 13. For a detailed syntactical analysis, see F. W. Bush, Ruth, Esther (WBC), 78-79.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “For them would you wait until they were grown?” Some understand הֲלָהֵן (halahen) as an interrogative he (ה) with an Aramaic particle meaning “therefore” (see GKC 301 §103.b.2 [n. 4]; cf. ASV, NASB), while others understand the form to consist of an interrogative he, the preposition ל (lamed, “for”), and an apparent third person feminine plural pronominal suffix (CEV, NLT “for them”). The feminine suffix is problematic, for its antecedent is the hypothetical “sons” mentioned at the end of v. 12. For this reason some emend the form to הלתם (“for them,” a third person masculine plural suffix). R. L. Hubbard raises the possibility that the nunated suffix is an archaic Moabite masculine dual form (Ruth [NICOT], 111, n. 31). In any case, Naomi’s rhetorical question expects a negative answer.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “For them would you hold yourselves back so as not to be for a man?” Again Naomi’s rhetorical question expects a negative answer. The verb עָגַן (’agan, “hold back”; cf. KJV, ASV “stay”; NRSV “refrain”) occurs only here in the OT. For discussion of its etymology and meaning, see HALOT 785-86 s.v. עגן, and F. W. Bush, Ruth, Esther (WBC), 79-80.
+
+### Verse 13 - Note 3
+[翻訳注]  The negative is used here in an elliptical manner for emphasis (see HALOT 48 s.v. I אַל; GKC 479-80 §152.g).
+
+### Verse 13 - Note 4
+[翻訳注]  Heb “No, my daughters.” Naomi is not answering the rhetorical questions she has just asked. In light of the explanatory clause that follows, it seems more likely that she is urging them to give up the idea of returning with her. In other words, the words “no, my daughters” complement the earlier exhortation to “go back.” To clarify this, the words “you must not return with me” are added in the translation.
+
+### Verse 13 - Note 5
+[翻訳注]  Heb “bitterness to me.” The term מָרַר (marar) can refer to emotional bitterness: “to feel bitter” (1 Sam 30:6; 2 Kgs 4:27; Lam 1:4) or a grievous situation: “to be in bitter circumstances” (Jer 4:18) (BDB 600 s.v.; HALOT 638 s.v. I מרר). So the expression מַר־לִי (mar-li) can refer to emotional bitterness (KJV, NKJV, ASV, RSV, NASB, NIV, NJPS, CEV, NLT) or a grievous situation (cf. NRSV, NAB, NCV, CEV margin). Although Naomi and her daughters-in-law had reason for emotional grief, the issue at hand was Naomi’s lamentable situation, which she did not want them to experience: being a poor widow in a foreign land.
+
+### Verse 13 - Note 6
+[翻訳注]  Heb “for there is bitterness to me exceedingly from you.” The clause כִּי־מַר־לִי מְאֹד מִכֶּם (ki-mar-li me’od mikkem) is notoriously difficult to interpret. It has been taken in three different ways: (1) “For I am very bitter for me because of you,” that is, because of your widowed condition (cf. KJV, NKJV, ASV, RSV, NJB, REB, JB, TEV). This does not fit well, however, with the following statement (“for the LORD has attacked me”) nor with the preceding statement (“You must not return with me”). (2) “For I am far more bitter than for you” (cf. NASB, NIV, NJPS, NEB, CEV, NLT). This does not provide an adequate basis, however, for the preceding statement (“You must not return with me”). (3) “For my bitterness is too much for you [to bear]” (cf. NAB, NRSV, NCV, CEV margin). This is preferable because it fits well with both the preceding and following statements. These three options reflect the three ways the preposition מן may be taken here: (1) causal: “because of, on account of” (BDB 580 s.v. מִן 2.f; HALOT 598 s.v. מִן 6), not that Orpah and Ruth were the cause of her calamity, but that Naomi was grieved because they had become widows; (2) comparative: “more [bitter] than you” (BDB 581 s.v. 6.a; HALOT 598 s.v. 5b), meaning that Naomi’s situation was more grievous than theirs – while they could remarry, her prospects were much more bleak; and (3) elative, describing a situation that is too much for a person to bear: “too [bitter] for you” (BDB 581 s.v. 6.d; HALOT 598 s.v. 5a; IBHS 267 §14.4f; e.g., Gen 4:13; Exod 18:18; Deut 17:8; 1 Kgs 19:17), meaning that Naomi’s plight was too bitter for her daughters-in-law to share. While all three options are viable, the meaning adopted must fit two criteria: (1) The meaning of this clause (1:13b) must provide the grounds for Naomi’s emphatic rejection of the young women’s refusal to separate themselves from her (1:13a); and (2) it must fit the following clause: “for the hand of the LORD has gone out against me” (1:13c). The first and second options do not provide adequate reasons for sending her daughters-in-law back home, nor do they fit her lament that the LORD had attached her (not them); however, the third option (elative sense) fits both criteria. Naomi did not want her daughters-in-law to share her sad situation, that is, to be poor, childless widows in a foreign land with no prospect for marriage. If they accompanied her back to Judah, they would be in the same kind of situation in which she found herself in Moab. If they were to find the “rest” (security of home and husband) she wished for them, it would be in Moab, not in Judah. The Lord had already deprived her of husband and sons. She could do nothing for them in this regard because she had no more sons to give them as husbands, and she was past the age of child-bearing to raise up new husbands for them in the future – as if they could wait that long anyway (1:13a). For a discussion of these three options and defense of the approach adopted here, see F. W. Bush, Ruth, Esther (WBC), 80-81.
+
+### Verse 13 - Note 7
+[翻訳注]  Heb “for the hand of the Lord has gone out against me” (KJV, ASV, NASB, NIV all similar). The expression suggests opposition and hostility, perhaps picturing the Lord as the Divine Warrior who is bringing calamity upon Naomi. See R. L. Hubbard, Jr., Ruth (NICOT), 113.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “they lifted their voice[s] and wept” (so NASB; see v. 9). The expression refers to loud weeping employed in mourning tragedy (Judg 21:2; 2 Sam 13:36; Job 2:12).
+
+### Verse 14 - Note 2
+[写本注]  The LXX adds, “and she returned to her people” (cf. TEV “and went back home”). Translating the Greek of the LXX back to Hebrew would read a consonantal text of ותשׁב אל־עמה. Most dismiss this as a clarifying addition added under the influence of v. 15, but this alternative reading should not be rejected too quickly. It is possible that a scribe’s eye jumped from the initial vav on ותשׁב (“and she returned”) to the initial vav on the final clause (וְרוּת [vÿrut], “and Ruth”), inadvertently leaving out the intervening words, “and she returned to her people.” Or a scribe’s eye could have jumped from the final he on לַחֲמוֹתָהּ (lakhamotah, “to her mother-in-law”) to the final he on עַמָּהּ (’ammah, “her people”), leaving out the intervening words, “and she returned to her people.”
+
+### Verse 14 - Note 3
+[翻訳注]  The clause is disjunctive. The word order is conjunction + subject + verb, highlighting the contrast between the actions of Orpah and Ruth.[解説]  Orpah is a literary foil for Ruth. Orpah is a commendable and devoted person (see v. 8); after all she is willing to follow Naomi back to Judah. However, when Naomi bombards her with good reasons why she should return, she relents. But Ruth is special. Despite Naomi’s bitter tirade, she insists on staying. Orpah is a good person, but Ruth is beyond good – she possesses an extra measure of devotion and sacrificial love that is uncommon.
+
+### Verse 14 - Note 4
+[解説]  Clung tightly. The expression suggests strong commitment (see R. L. Hubbard, Jr., Ruth [NICOT], 115).
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “she”; the referent (Naomi) has been specified in the translation for clarity.
+
+### Verse 15 - Note 2
+[翻訳注]  Or “gods” (so KJV, NASB, NIV, NRSV, CEV, NLT), if the plural form is taken as a numerical plural. However, it is likely that Naomi, speaking from Orpah’s Moabite perspective, uses the plural of majesty of the Moabite god Chemosh. For examples of the plural of majesty being used of a pagan god, see BDB 43 s.v. אֱלֹהִים 1.d. Note especially 1 Kgs 11:33, where the plural form is used of Chemosh.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “do not urge me to abandon you to turn back from after you.” Most English versions, following the lead of the KJV, use “leave” here. The use of עזב (“abandon”) reflects Ruth’s perspective. To return to Moab would be to abandon Naomi and to leave her even more vulnerable than she already is.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “Thus may the Lord do to me and thus may he add…” The construction וְכֹה יֹסִיף…כֹּה יַעֲשֶׂה (koh ya’aseh...vÿkhoh yosif, “May he do thus…and may he do even more so…!”) is an oath formula of self-imprecation (e.g., 1 Sam 3:17; 14:44; 20:13; 25:22; 2 Sam 3:9,35; 19:14; 1 Kgs 2:23; 2 Kgs 6:31). In this formula the exact curse is understood but not expressed (GKC 472 §149.d; BDB 462 s.v. כֹּה 1.b). In ancient Near Eastern imprecations, when the curse was so extreme, it was not uttered because it was unspeakably awful: “In the twelve uses of this formula, the calamity which the speaker invokes is never named, since OT culture (in keeping with the rest of the ancient Near East) accorded such power to the spoken word” (F. W. Bush, Ruth, Esther [WBC], 82). Ruth here pronounces a curse upon herself, elevating the preceding promise to a formal, unconditional level. If she is not faithful to her promise, she agrees to become an object of divine judgment. As in other occurrences of this oath/curse formula, the specific punishment is not mentioned. As Bush explains, the particle כִּי (ki) here is probably asseverative (“indeed, certainly”) and the statement that follows expresses what underscores the seriousness of her promise by invoking divine judgment, as it were, if she does otherwise. Of course, the Lord would not have been obligated to judge her if she had abandoned Naomi – this is simply an ancient idiomatic way of expressing her commitment to her promise.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “certainly death will separate me and you.” Ruth’s vow has been interpreted two ways: (1) Not even death will separate her from Naomi – because they will be buried next to one another (e.g., NRSV, NCV; see E. F. Campbell, Ruth [AB], 74-75). However, for the statement to mean, “Not even death will separate me and you,” it would probably need to be introduced by אִם (’im, “if”) or negated by לֹא (lo’, “not”; see F. W. Bush, Ruth, Esther [WBC], 83). (2) Nothing except death will separate her from Naomi (e.g., KJV, ASV, RSV, NASB, NIV, TEV, NJPS, REB, NLT, GW; see Bush, 83). The particle כִּי introduces the content of the vow, which – if violated – would bring about the curse uttered in the preceding oath (BDB 472 s.v. כִּי 1.c; e.g., Gen 42:16; Num 14:22; 1 Sam 20:3; 26:16; 29:6; 2 Sam 3:35; 1 Kgs 2:23; Isa 49:18). Some suggest that כּי is functioning as an asseverative (“indeed, certainly”) to express what the speaker is determined will happen (Bush, 83; see 1 Sam 14:44; 2 Sam 3:9; 1 Kgs 2:23; 19:2). Here כִּי probably functions in a conditional sense: “if” or “if…except, unless” (BDB 473 s.v. כִּי2.b). So her vow may essentially mean “if anything except death should separate me from you!” The most likely view is (2): Ruth is swearing that death alone will separate her from Naomi.[解説]  Ruth’s devotion to Naomi is especially apparent here. Instead of receiving a sure blessing and going home (see v. 8), Ruth instead takes on a serious responsibility and subjects herself to potential divine punishment. Death, a power beyond Ruth’s control, will separate the two women, but until that time Ruth will stay by Naomi’s side and she will even be buried in the same place as Naomi.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “she”; the referent (Naomi) has been specified in the translation for clarity.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “she”; the referent (Ruth) has been specified in the translation for clarity.
+
+### Verse 18 - Note 3
+[翻訳注]  Heb “she ceased speaking to her.” This does not imply that Naomi was completely silent toward Ruth. It simply means that Naomi stopped trying to convince her to go back to Moab (see F. W. Bush, Ruth, Esther [WBC], 84-85).
+
+### Verse 19 - Note 1
+[翻訳注]  The suffix “them” appears to be masculine, but it is probably an archaic dual form (E. F. Campbell, Ruth [AB], 65; F. W. Bush, Ruth, Esther [WBC], 75-76).
+
+### Verse 19 - Note 2
+[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.
+
+### Verse 19 - Note 3
+[翻訳注]  The temporal indicator וַיְהִי (vayÿhi, “and it was”) here introduces a new scene.
+
+### Verse 19 - Note 4
+[地図]  For location see Map5-B1; Map7-E2; Map8-E2; Map10-B4.
+
+### Verse 19 - Note 5
+[翻訳注]  Heb “because of them” (so NASB, NIV, NRSV); CEV “excited to see them.”
+
+### Verse 19 - Note 6
+[翻訳注]  Heb “they said,” but the verb form is third person feminine plural, indicating that the women of the village are the subject.
+
+### Verse 19 - Note 7
+[翻訳注]  Heb “Is this Naomi?” (so KJV, NASB, NRSV). The question here expresses surprise and delight because of the way Naomi reacts to it (F. W. Bush, Ruth, Esther [WBC], 92).
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “said.” For stylistic reasons the present translation employs “replied” here.
+
+### Verse 20 - Note 2
+[翻訳注]  The third person feminine plural form of the pronominal suffix indicates the women of the village (see v. 19) are the addressees.
+
+### Verse 20 - Note 3
+[解説]  The name Naomi means “pleasant.”
+
+### Verse 20 - Note 4
+[解説]  The name Mara means “bitter.”
+
+### Verse 20 - Note 5
+[翻訳注]  Heb “Shaddai”; traditionally “the Almighty.” The etymology and meaning of this divine name is uncertain. It may be derived from: (1) שָׁדַד (shadad, “to be strong”), cognate to Arabic sdd, meaning “The Strong One” or “Almighty”; (2) שָׁדָה (shadah, “mountain”), cognate to Akkadian shadu, meaning “The Mountain Dweller” or “God of the Mountains”; (3) שָׁדַד (shadad, “to devastate”) and שַׁד (shad, “destroyer”), Akkadian Shedum, meaning “The Destroyer” or “The Malevolent One”; or (4) שֶׁ (she, “who”) plus דִּי (diy, “sufficient”), meaning “The One Who is Sufficient” or “All-Sufficient One” (HALOT 1420-22 s.v. שַׁדַּי, שַׁדָּי). In terms of use, Shaddai (or El Shaddai) is presented as the sovereign king/judge of the world who grants life/blesses and kills/judges. In Genesis he blesses the patriarchs with fertility and promises numerous descendants. Outside Genesis he blesses/protects and also takes away life/happiness. In light of Naomi’s emphasis on God’s sovereign, malevolent deprivation of her family, one can understand her use of this name for God. For discussion of this divine name, see T. N. D. Mettinger, In Search of God, 69-72.
+
+### Verse 20 - Note 6
+[翻訳注]  Or “caused me to be very bitter”; NAB “has made it very bitter for me.”
+
+### Verse 21 - Note 1
+[解説]  I left here full. That is, with a husband and two sons.
+
+### Verse 21 - Note 2
+[翻訳注]  Heb “but empty the Lord has brought me back.” The disjunctive clause structure (vav + adverb + verb + subject) highlights the contrast between her former condition and present situation. Cf. TEV “has brought me back without a thing.”[解説]  Empty-handed. This statement is highly ironic, for ever-loyal Ruth stands by her side even as she speaks these words. These words reflect Naomi’s perspective, not the narrator’s, for Ruth will eventually prove to be the one who reverses Naomi’s plight and “fills” her “emptiness.” Naomi’s perspective will prove to be inaccurate and the women will later correct Naomi’s faulty view of Ruth’s value (see 4:15).
+
+### Verse 21 - Note 3
+[翻訳注]  The disjunctive clause structure (vav [ו] + subject + verb) here introduces either an attendant circumstance (“when the Lord has opposed me”) or an explanation (“seeing that the Lord has opposed me”).
+
+### Verse 21 - Note 4
+[写本注]  The LXX reads “humbled me” here, apparently understanding the verb as a Piel (עָנָה, ’anah) from a homonymic root meaning “afflict.” However, עָנָה (“afflict”) never introduces its object with בְּ (bet); when the preposition בְּ is used with this verb, it is always adverbial (“in, with, through”). To defend the LXX reading one would have to eliminate the preposition.[翻訳注]  Heb “has testified against me” (KJV, ASV both similar); NAB “has pronounced against me.” The idiom עָנַה בִי (’anah viy, “testify against”) is well attested elsewhere in legal settings (see BDB 773 s.v. עָנָה Qal.3.a; HALOT 852 s.v. I ענה qal.2). Naomi uses a legal metaphor and depicts the Lord as testifying against her in court.
+
+### Verse 21 - Note 5
+[解説]  The divine name translated Sovereign One is שַׁדַּי (shadday, “Shaddai”). See further the note on this term in Ruth 1:20.
+
+### Verse 21 - Note 6
+[翻訳注]  Or “brought disaster upon me”; NIV “brought misfortune (calamity NRSV) upon me”; NLT “has sent such tragedy.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “and Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, the one who returned from the region of Moab.”[解説]  This summarizing statement provides closure to the first part of the story. By highlighting Ruth’s willingness to return with Naomi, it also contrasts sharply with Naomi’s remark about being empty-handed.
+
+### Verse 22 - Note 2
+[翻訳注]  The pronoun appears to be third person masculine plural in form, but it is probably an archaic third person dual form (see F. W. Bush, Ruth, Esther [WBC], 94).
+
+### Verse 22 - Note 3
+[翻訳注]  This statement, introduced with a disjunctive structure (vav [ו] + subject + verb) provides closure for the previous scene, while at the same time making a transition to the next scene, which takes place in the barley field. The reference to the harvest also reminds the reader that God has been merciful to his people by replacing the famine with fertility. In the flow of the narrative the question is now, “Will he do the same for Naomi and Ruth?”[解説]  The barley harvest began in late March. See O. Borowski, Agriculture in Iron Age Israel, 91.

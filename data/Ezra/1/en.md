@@ -1,0 +1,120 @@
+# Ezra 1 (English)
+
+## Text
+
+**1** In the first year of King Cyrus of Persia, in fulfillment of the Lord’s message spoken through Jeremiah, the Lord motivated King Cyrus of Persia to issue a proclamation throughout his kingdom and also to put it in writing. It read:
+
+**2** “This is what King Cyrus of Persia says: “‘The Lord God of heaven has given me all the kingdoms of the earth. He has appointed me to build a temple for him in Jerusalem, which is in Judah. 
+
+**3** Anyone of his people among you (may his God be with him!) may go up to Jerusalem, which is in Judah, and may build the temple of the Lord God of Israel—he is the God who is in Jerusalem. 
+
+**4** Anyone who survives in any of those places where he is a resident foreigner must be helped by his neighbors with silver, gold, equipment, and animals, along with voluntary offerings for the temple of God which is in Jerusalem.’” 
+
+**5** Then the leaders of Judah and Benjamin, along with the priests and the Levites—all those whose mind God had stirred—got ready to go up in order to build the temple of the Lord in Jerusalem. 
+
+**6** All their neighbors assisted them with silver utensils, gold, equipment, animals, and expensive gifts, not to mention all the voluntary offerings.
+
+**7** Then King Cyrus brought out the vessels of the Lord’s temple which Nebuchadnezzar had brought from Jerusalem and had displayed in the temple of his gods. 
+
+**8** King Cyrus of Persia entrusted them to Mithredath the treasurer, who counted them out to Sheshbazzar the leader of the Judahite exiles.
+
+**9** The inventory of these items was as follows: 30 gold basins, 1,000 silver basins, 29 silver utensils, 
+
+**10** 30 gold bowls, 410 other silver bowls, and 1,000 other vessels. 
+
+**11** All these gold and silver vessels totaled 5,400. Sheshbazzar brought them all along when the captives were brought up from Babylon to Jerusalem. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  In addition to the canonical books of Ezra and Nehemiah, there are two deuterocanonical books that are also called “Ezra.” Exactly how these books are designated varies in ancient literature. In the Septuagint (LXX) canonical Ezra is called Second Esdras, but in the Latin Vulgate it is called First Esdras. Our Nehemiah is called Third Esdras in some manuscripts of the LXX, but it is known as Second Esdras in the Latin Vulgate. (In the earliest LXX manuscripts Ezra and Nehemiah were regarded as one book, as they were in some Hebrew manuscripts.) The deuterocanonical books of Ezra are called First and Fourth Esdras in the LXX, but Third and Fourth Esdras in the Latin Vulgate. The titles for the so-called books of Ezra are thus rather confusing, a fact that one must keep in mind when consulting this material.
+
+### Verse 1 - Note 2
+[解説]  The first year of Cyrus would be ca. 539 B.C. Cyrus reigned in Persia from ca. 539-530 B.C.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “the word of the Lord.”
+
+### Verse 1 - Note 4
+[写本注]  The MT reads מִפִּי (mippi, “from the mouth of”), but this should probably be emended to בְּפִי (bÿfi, “by the mouth of”), which is the way the parallel passage in 2 Chr 36:22 reads. This is also reflected in the LXX, which is either reflecting an alternate textual tradition of בְּפִי or is attempting to harmonize Ezra 1:1 in light of 2 Chronicles.[翻訳注]  Heb “from the mouth of.”
+
+### Verse 1 - Note 5
+[解説]  Cf. Jer 29:10; 25:11-14. Jeremiah had prophesied that after a time of seventy years the Jews would return “to this place.” How these seventy years are to be reckoned is a matter of debate among scholars. Some understand the period to refer to the approximate length of Babylon’s ascendancy as a world power, beginning either with the fall of Nineveh (612 b.c.) or with Nebuchadnezzar’s coronation (605 b.c.) and continuing till the fall of Babylon to the Persians in 539 b.c. Others take the seventy years to refer to the period from the destruction of the temple in 586 b.c. till its rebuilding in 516 b.c.
+
+### Verse 1 - Note 6
+[翻訳注]  Heb “spirit.” The Hebrew noun רוּחַ (ruakh, “spirit”) has a broad range of meanings (see BDB 924-26 s.v.). Here, it probably refers to (1) “mind” as the seat of mental acts (e.g., Exod 28:3; Deut 34:9; Isa 29:24; 40:13; Ezek 11:5; 20:32; 1 Chr 28:12; cf. BDB 925 s.v. 6) or (2) “will” as the seat of volitional decisions (e.g., Exod 35:5, 22; Pss 51:12, 14; 57:8; 2 Chr 29:31; cf. BDB 925 s.v. 7). So also in v. 5.
+
+### Verse 1 - Note 7
+[翻訳注]  Heb “caused to pass.”
+
+### Verse 1 - Note 8
+[翻訳注]  Heb “a voice.” The Hebrew noun קוֹל (qol, “voice, sound”) has a broad range of meanings, including the metonymical (cause – effect) nuance “proclamation” (e.g., Exod 36:6; 2 Chr 24:9; 30:5; 36:22; Ezra 1:1; 10:7; Neh 8:15). See BDB 877 s.v. 3.a.2.
+
+### Verse 1 - Note 9
+[解説]  For an interesting extrabiblical parallel to this edict see the Cyrus cylinder (ANET 315-16).
+
+### Verse 1 - Note 10
+[翻訳注]  Heb “in writing, saying.”
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “house.” The Hebrew noun בַּיִת (bayit, “house”) is often used in reference to the temple of Yahweh (BDB 108 s.v. 1.a). This is also frequent elsewhere in Ezra and Nehemiah (e.g., Ezra 1:3, 4, 5, 7; 2:68; 3:8, 9, 11, 12; 4:3; 6:22; 7:27; 8:17, 25, 29, 30, 33, 36; 9:9; 10:1, 6, 9).
+
+### Verse 2 - Note 2
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “from all.”
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “the men of his place.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “the heads of the fathers.”
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “arose.”
+
+### Verse 5 - Note 3
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “strengthened their hands.”
+
+### Verse 6 - Note 2
+[写本注]  The MT reads בִּכְלֵי־כֶסֶף (bikhley khesef, “with silver vessels”). However, part of the LXX manuscript tradition reads ἐν πᾶσιν ἀργυρίῳ (en pasin arguriw), which reflects an alternate Hebrew reading of בַּכֹּל־בַּכֶּסֶף (bakkol-bakkesef, “everywhere, with silver”). The textual variant involves (1) simple omission of yod (י) between two words, a common scribal mistake; (2) haplography of the preposition bet (בּ); and (3) an alternate vocalization tradition of the first term.
+
+### Verse 6 - Note 3
+[翻訳注]  Heb “besides” or “in addition to.”
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “and he gave them.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “brought them forth.”
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “upon the hand of.”
+
+### Verse 8 - Note 3
+[解説]  A Persian name meaning “gift of Mithras.” See HALOT 656 s.v. מִתְרְדָת.
+
+### Verse 8 - Note 4
+[解説]  A Babylonian name with the probable meaning “Shamash protect the father.” See HALOT 1664-65 s.v. שֵׁשְׁבַּצַּר.
+
+### Verse 8 - Note 5
+[翻訳注]  Heb “Sheshbazzar the prince to Judah”; TEV, CEV “the governor of Judah.”
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “these are their number.”
+
+### Verse 9 - Note 2
+[翻訳注]  The exact meaning of the Hebrew noun אֲגַרְטָל (’agartal, which occurs twice in this verse) is somewhat uncertain. The lexicons suggest that it is related to a common Semitic root (the Hebrew derivative has a prosthetic prefixed א [aleph] and interchange between ג [gimel] and ק [kof]): Judean Aramaic and Syriac qartalla, Arabic qirtallat, Ethiopic qartalo, all meaning “basket” (BDB 173-74 s.v.; HALOT 11 s.v.). There is debate whether this is a loanword from Greek κάρταλλος (kartallo", “basket”), Persian hirtal (“leather bag”) or Hittite kurtal (“container”). The term is traditionally understood as a kind of vessel, such as “basket, basin” (BDB 173-74 s.v.; HALOT 11 s.v.); but some suggest “leather bag” or a basket-shaped container of some sort (P. Humbert, “En marge du dictionnaire hébraïque,” ZAW 62 [1950]: 199-207; DCH 1:118 s.v.). The LXX translated it as ψυκτήρ (yukthr, “metal bowl”). The precise meaning depends on whether the nouns כֶּסֶף (kesef, “silver”) and זָהָב (zahav, “gold”), which follow each use of this plural construct noun, are genitives of content (“containers full of silver” and “containers full of gold”) or genitives of material (“silver containers” and “gold containers” = containers made from silver and gold). If they are genitives of content, the term probably means “baskets” or “leather bags” (filled with silver and gold); however, if they are genitives of material, the term would mean “basins” (made of silver and gold). Elsewhere in , the nouns כֶּסֶף (“silver”) and זָהָב (“gold”) are used as genitives or material, not genitives of contents; therefore, the translation “gold basins” and “silver basins” is preferred.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “knives.” The Hebrew noun מַחֲלָפִים (makhalafim, “knives”) is found only here in the OT. While the basic meaning of the term is fairly clear, what it refers to here is unclear. The verb II חָלַף (khalaf) means “to pass through” (BDB 322 s.v. חָלַף) or “to cut through” (HALOT 321 s.v. II חלף; see also Judg 5:26; Job 20:24); thus, the lexicons suggest מַחֲלָפִים means “knives” (BDB 322 s.v. מַחֲלָף; HALOT 569 s.v. *מַחֲלָף). The related noun חֲלָפוֹת (khalafot, “knife”) is used in Mishnaic Hebrew (HALOT 321 s.v. II חלף), and חֲלִיפוֹת (khalifot, “knives”) appears in the Talmud. The noun appears in the cognate languages: Ugaritic khlpnm (“knives”; UT 19) and Syriac khalofta (“shearing knife”; HALOT 321 s.v. II חלף). The Vulgate translated it as “knives,” while the LXX understood it as referring to replacement pieces for the offering basins. The English translations render it variously; some following the Vulgate and others adopting the approach of the LXX: “knives” (KJV, NKJV, NRSV), “censers” (RSV), “duplicates” (NASV), “silver pans” (NIV), “bowls” (TEV), “other dishes” (CEV). Verse 11 lists these twenty-nine objects among the “gold and silver vessels” brought back to Jerusalem for temple worship. The translation above offers the intentionally ambiguous “silver utensils” (the term מַחֲלָפִים [“knives”] would hardly refer to “gold” items, but could refer to “silver items”).
+
+### Verse 10 - Note 1
+[翻訳注]  The meaning of the Hebrew term מִשְׁנִים (mishnim) is uncertain. The noun מִשְׁנֶה (mishneh) means “double, second” (BDB 1041 s.v.), “what is doubled, two-fold” (HALOT 650 s.v. מִשְׁנֶה 3). The translations reflect a diversity of approaches: “410 silver bowls of a second kind” (KJV, NASV, RSV margin), “410 other silver bowls” (NRSV) and “410 matching silver bowls” (NIV). BDB 1041 s.v. משׁנה 3.a suggests it was originally a numeral that was garbled in the transmission process, as reflected in the LXX: “two thousand” (so RSV: “two thousand four hundred and ten bowls of silver”). The BHS editor suggests revocalizing the term to מְשֻׁנִים (mÿshunim, “changed”).
+
+### Verse 11 - Note 1
+[解説]  The total number as given in the MT does not match the numbers given for the various items in v. 9. It is not clear whether the difference is due to error in textual transmission or whether the constituent items mentioned are only a selection from a longer list, in which case the total from that longer list may have been retained. The numbers provided in 1 Esdras come much closer to agreeing with the number in Ezra 1:9-11, but this does not necessarily mean that 1 Esdras has been better preserved here than Ezra. 1 Esdras 2:13-15 (RSV) says, “The number of these was: a thousand gold cups, a thousand silver cups, twenty-nine silver censures, thirty gold bowls, two thousand four hundred and ten silver bowls, and a thousand other vessels. All the vessels were handed over, gold and silver, five thousand four hundred and sixty-nine, and they were carried back by Shesbazzar with the returning exiles from Babylon to Jerusalem.”
