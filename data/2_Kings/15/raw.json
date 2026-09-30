@@ -1,0 +1,506 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he did what was proper in the eyes of the <sc>Lord</sc>, according to all which Amaziah his father had done.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Traditionally, &#8220;he was a leper.&#8221; But see the note at <span class=\"bibleref\" title=\"2 Kings 5:1\">5:1</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The precise meaning of <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1461;&#1497;&#1514; &#1492;&#1463;&#1495;&#1464;&#1508;&#1456;&#1513;&#1473;&#1460;&#1497;&#1514;</font> (<font face=\"Scholar\">bet hakhof&#255;shit</font>), &#8220;house of [&#8230;?],&#8221; is uncertain. For a discussion of various proposals, see M. Cogan and H. Tadmor, <i>II Kings</i> (AB), 166-67.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Azariah, and all which he did, are they not written on the scroll of the events of the days of the kings of Judah?&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lay down with his fathers.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they buried him.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-D3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-A4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-C1</a>.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;turn away from.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT reads, &#8220;and he struck him down before the people and killed him&#8221; (cf. KJV, ASV, NASB, NIV, NRSV, NLT). However, the reading <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1489;&#1464;&#1500; &#1506;&#1464;&#1501;</font> (<font face=\"Scholar\">qaval</font> &#8217;<font face=\"Scholar\">am</font>), &#8220;before the people,&#8221; is problematic to some because <font face=\"Galaxie Unicode Hebrew\">&#1511;&#1464;&#1489;&#1464;&#1500;</font> is a relatively late Aramaic term. Nevertheless, the Aramaic term <i>qobel</i> certainly antedates the writing of Kings. The bigger problem seems to be the unnecessary intrusion of an Aramaic word at all here. Most interpreters prefer to follow Lucian&#8217;s Greek version and read &#8220;in Ibleam&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1489;&#1456;&#1497;&#1460;&#1489;&#1456;&#1500;&#1456;&#1506;&#1464;&#1501;</font>, <font face=\"Scholar\">b&#255;ivle</font>&#8217;<font face=\"Scholar\">am</font>). Cf. NAB, TEV.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Jeroboam, look, they are written on the scroll of the events of the days of the kings of Israel.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;It was the word of the <sc>Lord</sc> which he spoke to Jehu, saying.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;sons of four generations will sit for you on the throne of Israel.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> See the note at <span class=\"bibleref\" title=\"2 Kings 10:30\">2 Kgs 10:30</span>.</p></div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and it was so.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Azariah was also known by the name Uzziah.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;a month of days.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and came to.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;went up from Tirzah and arrived in Samaria and attacked Shallum son of Jabesh in Samaria.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Shallum, and his conspiracy which he conspired, look, they are written on the scroll of the events of the days of the kings of Israel.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;then Menahem attacked Tiphsah and all who were in it and its borders from Tirzah, for it would not open, and he attacked.&#8221;<p class=\"note\"><span class=\"notetype\">tn</span> Instead of &#8220;Tiphsah,&#8221; the LXX has &#8220;Tirzah,&#8221; while Lucian&#8217;s Greek version reads &#8220;Tappuah.&#8221; For discussion see M. Cogan and H. Tadmor, <i>II Kings</i> (AB), 171.</p></div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-D3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-A4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-C1</a>.</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;turn away from.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT of v. <span class=\"bibleref\" title=\"2 Kings 15:18\">18</span> ends with the words, &#8220;all his days.&#8221; If this phrase is taken with what precedes, then one should translate, &#8220;[who encouraged Israel to sin] throughout his reign.&#8221; However, it may be preferable to emend the text to <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1456;&#1497;&#1465;&#1502;&#1464;&#1497;&#1493;</font> (<font face=\"Scholar\">b&#255;yomav</font>), &#8220;in his days,&#8221; and join the phrase to what follows. The translation assumes this change.</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Pul</i> was a nickname of Tiglath-pileser III (cf. <span class=\"bibleref\" title=\"2 Kings 15:29\">15:29</span>). See M. Cogan and H. Tadmor, <i>II Kings</i> (AB), 171-72.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;gave.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Pul.&#8221; The proper name has been replaced by the pronoun (&#8220;him&#8221;) in the translation for stylistic reasons.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Hebrew term <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1460;&#1499;&#1468;&#1464;&#1512;</font> (<font face=\"Scholar\">kikkar</font>, &#8220;circle&#8221;) refers generally to something that is round. When used of metals it can refer to a disk-shaped weight made of the metal or to a standard unit of weight, generally regarded as a talent. Since the accepted weight for a talent of metal is about 75 pounds, this would have amounted to about 75,000 pounds of silver (cf. NCV &#8220;about seventy-four thousand pounds&#8221;); NLT &#8220;thirty-seven tons&#8221;; CEV &#8220;over thirty tons&#8221;; TEV &#8220;34,000 kilogrammes.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;so his hands would be with him.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;to keep hold of the kingdom in his hand.&#8221;</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and Menahem brought out the silver over Israel, over the prominent men of means, to give to the king of Assyria, fifty shekels of silver for each man.&#8221;</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Menahem, and all which he did, are they not written on the scroll of the events of the days of the kings of Israel?&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lay down with his fathers.&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-D3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-A4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-C1</a>.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;turn away from.&#8221;</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and he struck him down in Samaria in the fortress of the house of the king, Argob and Arieh, and with him fifty men from the sons of the Gileadites, and they killed him.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> The precise identity of <i>Argob</i> and <i>Arieh</i>, as well as their relationship to the king, are uncertain. The usual assumption is that they were officials assassinated along with Pekahiah, or that they were two of the more prominent Gileadites involved in the revolt. For discussion see M. Cogan and H. Tadmor, <i>II Kings</i> (AB), 173.</p></div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Pekahiah, and all which he did, look, they are written on the scroll of the events of the days of the kings of Israel.&#8221;</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-D3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-A4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-C1</a>.</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in the eyes of.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;turn away from.&#8221;</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map1\">Map1-D2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-D3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map3\">Map3-A2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-C1</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;them.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and struck him down and killed him.&#8221;</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Pekah, and all which he did, look, they are written on the scroll of the events of the days of the kings of Israel.&#8221;</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he did what was proper in the eyes of the <sc>Lord</sc>, according to all which Uzziah his father had done.&#8221;</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As for the rest of the events of Jotham, and that which he did, are they not written on the scroll of the events of the days of the kings of Judah?&#8221;</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the <sc>Lord</sc> began to send against Judah Rezin&#8230;and Pekahiah&#8230;.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;lay down with his fathers.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "1",
+      "text": "In the twenty-seventh year of King Jeroboam’s reign over Israel, Amaziah’s son Azariah became king over Judah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "2",
+      "text": "He was sixteen years old when he began to reign, and he reigned for 52 years in Jerusalem. His mother’s name was Jecholiah, who was from Jerusalem. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "3",
+      "text": "He did what the Lord approved, just as his father Amaziah had done. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "4",
+      "text": "But the high places were not eliminated; the people continued to offer sacrifices and burn incense on the high places. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "5",
+      "text": "The Lord afflicted the king with an illness; he suffered from a skin disease until the day he died. He lived in separate quarters, while his son Jotham was in charge of the palace and ruled over the people of the land. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "6",
+      "text": "The rest of the events of Azariah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "7",
+      "text": "Azariah passed away and was buried with his ancestors in the City of David. His son Jotham replaced him as king. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "8",
+      "text": "In the thirty-eighth year of King Azariah’s reign over Judah, Jeroboam’s son Zechariah became king over Israel. He reigned in Samaria for six months. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "9",
+      "text": "He did evil in the sight of the Lord, as his ancestors had done. He did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin."
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "10",
+      "text": "Shallum son of Jabesh conspired against him; he assassinated him in Ibleam and took his place as king. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "11",
+      "text": "The rest of the events of Zechariah’s reign are recorded in the scroll called the Annals of the Kings of Israel. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "12",
+      "text": "His assassination fulfilled the Lord’s message to Jehu, “Four generations of your descendants will rule on Israel’s throne.” And that is how it happened. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "13",
+      "text": "Shallum son of Jabesh became king in the thirty-ninth year of King Uzziah’s reign over Judah. He reigned for one month in Samaria. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "14",
+      "text": "Menahem son of Gadi went up from Tirzah to Samaria and attacked Shallum son of Jabesh. He killed him and took his place as king. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "15",
+      "text": "The rest of the events of Shallum’s reign, including the conspiracy he organized, are recorded in the scroll called the Annals of the Kings of Israel. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "16",
+      "text": "At that time Menahem came from Tirzah and attacked Tiphsah. He struck down all who lived in the city and the surrounding territory, because they would not surrender. He even ripped open the pregnant women. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "17",
+      "text": "In the thirty-ninth year of King Azariah’s reign over Judah, Menahem son of Gadi became king over Israel. He reigned for 10 years in Samaria. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "18",
+      "text": "He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat, who encouraged Israel to sin. During his reign,"
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "19",
+      "text": "Pul king of Assyria invaded the land, and Menahem paid him 1,000 talents of silver to gain his support and to solidify his control of the kingdom. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "20",
+      "text": "Menahem got this silver by taxing all the wealthy men in Israel; he took 50 shekels of silver from each one of them and paid it to the king of Assyria. Then the king of Assyria left; he did not stay there in the land. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "21",
+      "text": "The rest of the events of Menahem’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "22",
+      "text": "Menahem passed away and his son Pekahiah replaced him as king. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "23",
+      "text": "In the fiftieth year of King Azariah’s reign over Judah, Menahem’s son Pekahiah became king over Israel. He reigned in Samaria for two years. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "24",
+      "text": "He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin."
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "25",
+      "text": "His officer Pekah son of Remaliah conspired against him. He and 50 Gileadites assassinated Pekahiah, as well as Argob and Arieh, in Samaria in the fortress of the royal palace. Pekah then took his place as king. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "26",
+      "text": "The rest of the events of Pekahiah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "27",
+      "text": "In the fifty-second year of King Azariah’s reign over Judah, Pekah son of Remaliah became king over Israel. He reigned in Samaria for twenty years. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "28",
+      "text": "He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin."
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "29",
+      "text": "During Pekah’s reign over Israel, King Tiglath-Pileser of Assyria came and captured Ijon, Abel Beth Maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, including all the territory of Naphtali. He deported the people to Assyria. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "30",
+      "text": "Hoshea son of Elah conspired against Pekah son of Remaliah. He assassinated him and took his place as king, in the twentieth year of the reign of Jotham son of Uzziah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "31",
+      "text": "The rest of the events of Pekah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "32",
+      "text": "In the second year of the reign of Israel’s King Pekah son of Remaliah, Uzziah’s son Jotham became king over Judah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "33",
+      "text": "He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. His mother was Jerusha the daughter of Zadok. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "34",
+      "text": "He did what the Lord approved, just as his father Uzziah had done. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "35",
+      "text": "But the high places were not eliminated; the people continued to offer sacrifices and burn incense on the high places. He built the Upper Gate to the Lord’s temple. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "36",
+      "text": "The rest of the events of Jotham’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "37",
+      "text": "In those days the Lord prompted King Rezin of Syria and Pekah son of Remaliah to attack Judah. "
+    },
+    {
+      "bookname": "2 Kings",
+      "chapter": "15",
+      "verse": "38",
+      "text": "Jotham passed away and was buried with his ancestors in the city of his ancestor David. His son Ahaz replaced him as king. "
+    }
+  ]
+}

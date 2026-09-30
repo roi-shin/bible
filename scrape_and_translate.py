@@ -915,17 +915,47 @@ header {
   border-bottom: 1px solid var(--border-color);
 }
 
-.book-section h3 {
+.book-item { margin-bottom: 0.5rem; }
+.book-title {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-card);
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius-sm);
+  margin: 0.5rem 0;
   font-size: 1rem;
   color: var(--text-secondary);
-  margin: 1rem 0 0.5rem;
   font-weight: 500;
+  transition: background-color 0.2s;
+  border: 1px solid var(--border-color);
+}
+.book-title:hover { background-color: var(--bg-card-hover); }
+.toggle-icon {
+  font-size: 0.8rem;
+  transition: transform 0.3s ease;
+}
+.book-title.open .toggle-icon {
+  transform: rotate(-180deg);
 }
 
 .chapter-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+  padding: 0.2rem 0.5rem 1rem;
+  overflow: hidden;
+  max-height: 2000px;
+  transition: max-height 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
+  opacity: 1;
+}
+.chapter-grid.collapsed {
+  max-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  opacity: 0;
+  margin: 0;
 }
 
 .chapter-link {
@@ -1168,7 +1198,7 @@ def generate_index_html(available_chapters: dict) -> str:
             cls = "chapter-link available" if is_available else "chapter-link unavailable"
             href = fname if is_available else "#"
             links += f'<a href="{href}" class="{cls}">{ch}</a>\n'
-        return f"""<h3>{ja_book} ({book_name})</h3><div class="chapter-grid">{links}</div>"""
+        return f"""<div class="book-item"><h3 class="book-title open">{ja_book} ({book_name})<span class="toggle-icon">▼</span></h3><div class="chapter-grid">{links}</div></div>"""
 
     ot_html = "\n".join(make_book_section(b, BOOKS[b]) for b in ot_books)
     nt_html = "\n".join(make_book_section(b, BOOKS[b]) for b in nt_books)
@@ -1203,6 +1233,15 @@ def generate_index_html(available_chapters: dict) -> str:
       {nt_html}
     </div>
   </div>
+  <script>
+    document.querySelectorAll('.book-title').forEach(title => {{
+      title.addEventListener('click', () => {{
+        title.classList.toggle('open');
+        const grid = title.nextElementSibling;
+        if (grid) grid.classList.toggle('collapsed');
+      }});
+    }});
+  </script>
 </body>
 </html>"""
 

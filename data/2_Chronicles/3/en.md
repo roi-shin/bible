@@ -1,0 +1,123 @@
+# 2 Chronicles 3 (English)
+
+## Text
+
+**1** Solomon began building the Lord’s temple in Jerusalem on Mount Moriah, where the Lord had appeared to his father David. This was the place that David prepared at the threshing floor of Ornan the Jebusite. 
+
+**2** He began building on the second day of the second month of the fourth year of his reign. 
+
+**3** Solomon laid the foundation for God’s temple; its length (determined according to the old standard of measure) was 90 feet, and its width 30 feet. 
+
+**4** The porch in front of the main hall was 30 feet long, corresponding to the width of the temple, and its height was 30 feet. He plated the inside with pure gold. 
+
+**5** He paneled the main hall with boards made from evergreen trees and plated it with fine gold, decorated with palm trees and chains. 
+
+**6** He decorated the temple with precious stones; the gold he used came from Parvaim. 
+
+**7** He overlaid the temple’s rafters, thresholds, walls and doors with gold; he carved decorative cherubim on the walls. 
+
+**8** He made the Most Holy Place; its length was 30 feet, corresponding to the width of the temple, and its width 30 feet. He plated it with 600 talents of fine gold. 
+
+**9** The gold nails weighed 50 shekels; he also plated the upper areas with gold. 
+
+**10** In the Most Holy Place he made two images of cherubim and plated them with gold. 
+
+**11** The combined wing span of the cherubim was 30 feet. One of the first cherub’s wings was 7½ feet long and touched one wall of the temple; its other wing was also 7½ feet long and touched one of the second cherub’s wings. 
+
+**12** Likewise one of the second cherub’s wings was 7½ feet long and touched the other wall of the temple; its other wing was also 7½ feet long and touched one of the first cherub’s wings. 
+
+**13** The combined wingspan of these cherubim was 30 feet. They stood upright, facing inward. 
+
+**14** He made the curtain out of blue, purple, crimson, and white fabrics, and embroidered on it decorative cherubim. 
+
+**15** In front of the temple he made two pillars which had a combined length of 52½ feet, with each having a plated capital 7½ feet high.
+
+**16** He made ornamental chains and put them on top of the pillars. He also made 100 pomegranate-shaped ornaments and arranged them within the chains. 
+
+**17** He set up the pillars in front of the temple, one on the right side and the other on the left. He named the one on the right Yakin and the one on the left Boaz. 
+
+## Notes
+
+### Verse 1 - Note 1
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 1 - Note 2
+[翻訳注]  In 2 Sam 24:16 this individual is called אֲרַוְנָא (“Aravna”; traditionally “Araunah”). The form of the name found here also occurs in 1 Chr 21:15; 18-28.
+
+### Verse 2 - Note 1
+[解説]  This would be April-May, 966 b.c. by modern reckoning.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “and these are the founding of Solomon to build the house of God.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “the length [in] cubits by the former measure was sixty cubits, and a width of twenty cubits.” Assuming a length of 18 inches (45 cm) for the standard cubit, the length of the foundation would be 90 feet (27 m) and its width 30 feet (9 m).
+
+### Verse 4 - Note 1
+[写本注]  Heb “and the porch which was in front of the length corresponding to the width of the house, twenty cubits.” The phrase הֵיכַל הַבַּיִת (heykhal habbayit, “the main hall of the temple,” which appears in the parallel account in 1 Kgs 6:3) has been accidentally omitted by homoioarcton after עַל־פְּנֵי (’al-pÿney, “in front of”). Note that the following form, הָאֹרֶךְ (ha’orekh, “the length”), also begins with the Hebrew letter he (ה). A scribe’s eye probably jumped from the initial he on הֵיכַל to the initial he on הָאֹרֶךְ, leaving out the intervening letters in the process.
+
+### Verse 4 - Note 2
+[写本注]  The Hebrew text has “one hundred and twenty cubits,” i.e. (assuming a cubit of 18 inches) 180 feet (54 m). An ancient Greek witness and the Syriac version read “twenty cubits,” i.e., 30 feet (9 m). It is likely that מֵאָה (me’ah, “a hundred”), is a corruption of an original אַמּוֹת (’ammot, “cubits”).
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “covered.”
+
+### Verse 5 - Note 2
+[翻訳注]  Heb “the large house.”
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “wood of evergreens.”
+
+### Verse 5 - Note 4
+[翻訳注]  Heb “and he put up on it palm trees and chains.”
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “and he plated the house [with] precious stone for beauty, and the gold was the gold of Parvaim.”[解説]  The location of Parvaim, the source of the gold for Solomon’s temple, is uncertain. Some have identified it with modern Farwa in Yemen; others relate it to the Sanskrit parvam and understand it to be a general term for the regions east of Palestine.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “the house of the holy place of holy places.”
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “twenty cubits.” Assuming a cubit of 18 inches (45 cm), this would give a length of 30 feet (9 m).
+
+### Verse 8 - Note 3
+[写本注]  Heb “twenty cubits.” Some suggest adding, “and its height twenty cubits” (see 1 Kgs 6:20). The phrase could have been omitted by homoioteleuton.
+
+### Verse 8 - Note 4
+[翻訳注]  The Hebrew word כִּכַּר (kikar, “circle”) refers generally to something that is round. When used of metals it can refer to a disk-shaped weight made of the metal or, by extension, to a standard unit of weight. According to the older (Babylonian) standard the “talent” weighed 130 lbs. (58.9 kg), but later this was lowered to 108.3 lbs. (49.1 kg). More recent research suggests the “light” standard talent was 67.3 lbs. (30.6 kg). Using this as the standard for calculation, the weight of the gold plating was 40,380 lbs. (18,360 kg).
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “and the wings of the cherubs, their length was twenty cubits.” Assuming a cubit of 18 inches (45 cm), the wingspan of the cherubs would have been 30 feet (9 m).
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “the wing of the one was five cubits from the touching of the wall of the house, and the other wing was five cubits from the touching of the wing of the other cherub.” Assuming a cubit of 18 inches (45 cm), each wing would have been 7.5 feet (2.25 m) long.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “and the wing of the one (הָאֶחָד, ha’ekhad, “the one”; this should probably be emended to הָאַחֵר, ha’akher, “the other”) cherub was five cubits, touching the wall of the house, and the other wing was five cubits, clinging to the wing of the other cherub.”
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “the wings of these cherubs were spreading twenty cubits.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “and they were standing on their feet, with their faces to the house.” An alternative translation of the last clause would be, “with their faces to the main hall.”
+
+### Verse 15 - Note 1
+[解説]  The figure given here appears to refer to the combined length of both pillars (perhaps when laid end-to-end on the ground prior to being set up; cf. v. 17); the figure given for the height of the pillars in 1 Kgs 7:15, 2 Kgs 25:17, and Jer 52:21 is half this (i.e., eighteen cubits).
+
+### Verse 15 - Note 2
+[写本注]  The Syriac reads “eighteen cubits” (twenty-seven feet). This apparently reflects an attempt at harmonization with 1 Kgs 7:15, 2 Kgs 25:17, and Jer 52:21.
+
+### Verse 15 - Note 3
+[翻訳注]  Heb “and he made before the house two pillars, thirty-five cubits [in] length, and the plated capital which was on its top [was] five cubits.” The significance of the measure “thirty-five cubits” (52.5 feet or 15.75 m, assuming a cubit of 18 inches) for the “length” of the pillars is uncertain. According to 1 Kgs 7:15, each pillar was eighteen cubits (27 feet or 8.1 m) high. Perhaps the measurement given here was taken with the pillars lying end-to-end on the ground before they were set up.
+
+### Verse 16 - Note 1
+[翻訳注]  The Hebrew text adds here, “in the inner sanctuary,” but the description at this point is of the pillars, not the inner sanctuary.
+
+### Verse 17 - Note 1
+[翻訳注]  Or “one on the south and the other on the north.”
+
+### Verse 17 - Note 2
+[翻訳注]  The name “Jachin” appears to be a verbal form and probably means, “he establishes.”
+
+### Verse 17 - Note 3
+[翻訳注]  The meaning of the name “Boaz” is uncertain. For various proposals, see BDB 126-27 s.v. בֹּעַז. One attractive option is to revocalize the name asבְּעֹז (bÿ’oz, “in strength”) and to understand it as completing the verbal form on the first pillar. Taking the words together and reading from right to left, one can translate the sentence, “he establishes [it] in strength.”

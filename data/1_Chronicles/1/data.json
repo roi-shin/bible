@@ -1,0 +1,462 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Adam, Seth, Enosh, ",
+      "ja": "アダム、セツ、エノシュ、"
+    },
+    {
+      "verse": 2,
+      "en": "Kenan, Mahalalel, Jered, ",
+      "ja": "ケナン、マハラレル、エレデ、"
+    },
+    {
+      "verse": 3,
+      "en": "Enoch, Methuselah, Lamech, ",
+      "ja": "エノク、メトシェラ、レメク、"
+    },
+    {
+      "verse": 4,
+      "en": "Noah, Shem, Ham, and Japheth. ",
+      "ja": "ノア、セム、ハム、ヤペテ。"
+    },
+    {
+      "verse": 5,
+      "en": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. ",
+      "ja": "ヤペテの子らは、ゴメル、マゴグ、マダイ、ヤワン、トバル、メシェク、ティラス。"
+    },
+    {
+      "verse": 6,
+      "en": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah. ",
+      "ja": "ゴメルの子らは、アシケナズ、リパテ、トガルマ。"
+    },
+    {
+      "verse": 7,
+      "en": "The sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites. ",
+      "ja": "ヤワンの子らは、エリシャ、タルシシュ、キティム人、ロダニム人。"
+    },
+    {
+      "verse": 8,
+      "en": "The sons of Ham: Cush, Mizraim, Put, and Canaan. ",
+      "ja": "ハムの子らは、クシュ、ミツライム、プテ、カナアン。"
+    },
+    {
+      "verse": 9,
+      "en": "The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca.The sons of Raamah: Sheba and Dedan. ",
+      "ja": "クシュの子らは、セバ、ハビラ、サブタ、ラアマ、サブテカ。ラアマの子らは、シェバとデダン。"
+    },
+    {
+      "verse": 10,
+      "en": "Cush was the father of Nimrod, who established himself as a mighty warrior on earth. ",
+      "ja": "クシュはニムロデを生んだ。ニムロデは地上で力ある勇士となった。"
+    },
+    {
+      "verse": 11,
+      "en": "Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites, ",
+      "ja": "ミツライムは、ルディム人、アナミム人、レハビム人、ナフトヒム人、"
+    },
+    {
+      "verse": 12,
+      "en": "Pathrusites, Casluhites (from whom the Philistines descended) , and the Caphtorites. ",
+      "ja": "パトルシム人、カスルヒム人（彼らからペリシテ人が出た）、カフトリム人を生んだ。"
+    },
+    {
+      "verse": 13,
+      "en": "Canaan was the father of Sidon—his firstborn—and Heth, ",
+      "ja": "カナアンは長子シドン、およびヘテを生み、"
+    },
+    {
+      "verse": 14,
+      "en": "as well as the Jebusites, Amorites, Girgashites, ",
+      "ja": "さらにエブス人、アモリ人、ギルガシ人、"
+    },
+    {
+      "verse": 15,
+      "en": "Hivites, Arkites, Sinites, ",
+      "ja": "ヒビ人、アルキ人、シニ人、"
+    },
+    {
+      "verse": 16,
+      "en": "Arvadites, Zemarites, and Hamathites. ",
+      "ja": "アルワデ人、ツェマリ人、ハマテ人をも生んだ。"
+    },
+    {
+      "verse": 17,
+      "en": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.The sons of Aram: Uz, Hul, Gether, and Meshech. ",
+      "ja": "セムの子らは、エラム、アシュル、アルパクシャデ、ルデ、アラム。アラムの子らは、ウツ、フル、ゲテル、メシェク。"
+    },
+    {
+      "verse": 18,
+      "en": "Arphaxad was the father of Shelah, and Shelah was the father of Eber. ",
+      "ja": "アルパクシャデはシェラを生み、シェラはエベルを生んだ。"
+    },
+    {
+      "verse": 19,
+      "en": "Two sons were born to Eber: the first was named Peleg, for during his lifetime the earth was divided; his brother’s name was Joktan. ",
+      "ja": "エベルに二人の息子が生まれた。一人の名はペレグであった。その時代に地が分けられたからである。その弟の名はヨクタンであった。"
+    },
+    {
+      "verse": 20,
+      "en": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah, ",
+      "ja": "ヨクタンは、アルモダデ、シェレフ、ハツァルマベテ、エラ、"
+    },
+    {
+      "verse": 21,
+      "en": "Hadoram, Uzal, Diklah, ",
+      "ja": "ハドラム、ウザル、ディクラ、"
+    },
+    {
+      "verse": 22,
+      "en": "Ebal, Abimael, Sheba, ",
+      "ja": "エバル、アビマエル、シェバ、"
+    },
+    {
+      "verse": 23,
+      "en": "Ophir, Havilah, and Jobab. All these were the sons of Joktan. ",
+      "ja": "オピル、ハビラ、ヨバブを生んだ。これらはみなヨクタンの子らである。"
+    },
+    {
+      "verse": 24,
+      "en": "Shem, Arphaxad, Shelah, ",
+      "ja": "セム、アルパクシャデ、シェラ、"
+    },
+    {
+      "verse": 25,
+      "en": "Eber, Peleg, Reu, ",
+      "ja": "エベル、ペレグ、レウ、"
+    },
+    {
+      "verse": 26,
+      "en": "Serug, Nahor, Terah, ",
+      "ja": "セルグ、ナホル、テラ、"
+    },
+    {
+      "verse": 27,
+      "en": "Abram (that is, Abraham). ",
+      "ja": "アブラム、すなわちアブラハム。"
+    },
+    {
+      "verse": 28,
+      "en": "The sons of Abraham: Isaac and Ishmael. ",
+      "ja": "アブラハムの子らは、イサクとイシュマエル。"
+    },
+    {
+      "verse": 29,
+      "en": "These were their descendants:Ishmael’s firstborn son was Nebaioth; the others were Kedar, Adbeel, Mibsam,",
+      "ja": "これらが彼らの系図である。イシュマエルの長子はネバヨテ、次いでケダル、アドベエル、ミブサム、"
+    },
+    {
+      "verse": 30,
+      "en": "Mishma, Dumah, Massa, Hadad, Tema, ",
+      "ja": "ミシュマ、ドマ、マサ、ハダデ、テマ、"
+    },
+    {
+      "verse": 31,
+      "en": "Jetur, Naphish, and Kedemah. These were the sons of Ishmael.",
+      "ja": "エトル、ナフィシュ、ケデマ。これらがイシュマエルの子らである。"
+    },
+    {
+      "verse": 32,
+      "en": "The sons to whom Keturah, Abraham’s concubine, gave birth: Zimran, Jokshan, Medan, Midian, Ishbak, Shuah.The sons of Jokshan: Sheba and Dedan.",
+      "ja": "アブラハムのそばめケトラが生んだ子らは、ジムラン、ヨクシャン、メダン、ミディアン、イシュバク、シュアハ。ヨクシャンの子らは、シェバとデダン。"
+    },
+    {
+      "verse": 33,
+      "en": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah. ",
+      "ja": "ミディアンの子らは、エファ、エフェル、エノク、アビダ、エルダア。これらはみなケトラの子孫である。"
+    },
+    {
+      "verse": 34,
+      "en": "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel. ",
+      "ja": "アブラハムはイサクを生んだ。イサクの子らは、エサウとイスラエル。"
+    },
+    {
+      "verse": 35,
+      "en": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah. ",
+      "ja": "エサウの子らは、エリパズ、レウエル、エウシュ、ヤラム、コラ。"
+    },
+    {
+      "verse": 36,
+      "en": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, and (by Timna) Amalek. ",
+      "ja": "エリパズの子らは、テマン、オマル、ツェフィ、ガタム、ケナズ、そしてティムナによるアマレク。"
+    },
+    {
+      "verse": 37,
+      "en": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. ",
+      "ja": "レウエルの子らは、ナハテ、ゼラ、シャマ、ミザ。"
+    },
+    {
+      "verse": 38,
+      "en": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. ",
+      "ja": "セイルの子らは、ロタン、ショバル、ツィブオン、アナ、ディション、エツェル、ディシャン。"
+    },
+    {
+      "verse": 39,
+      "en": "The sons of Lotan: Hori and Homam. (Timna was Lotan’s sister.) ",
+      "ja": "ロタンの子らは、ホリとホマム。ロタンの妹はティムナであった。"
+    },
+    {
+      "verse": 40,
+      "en": "The sons of Shobal: Alyan, Manahath, Ebal, Shephi, and Onam.The sons of Zibeon: Aiah and Anah. ",
+      "ja": "ショバルの子らは、アルヤン、マナハテ、エバル、シェフィ、オナム。ツィブオンの子らは、アヤとアナ。"
+    },
+    {
+      "verse": 41,
+      "en": "The son of Anah: Dishon.The sons of Dishon: Hamran, Eshban, Ithran, and Keran. ",
+      "ja": "アナの子はディション。ディションの子らは、ハムラン、エシュバン、イトラン、ケラン。"
+    },
+    {
+      "verse": 42,
+      "en": "The sons of Ezer: Bilhan, Zaavan, Jaakan. The sons of Dishan: Uz and Aran. ",
+      "ja": "エツェルの子らは、ビルハン、ザアワン、ヤアカン。ディシャンの子らは、ウツとアラン。"
+    },
+    {
+      "verse": 43,
+      "en": "These were the kings who reigned in the land of Edom before any king ruled over the Israelites: Bela son of Beor; the name of his city was Dinhabah. ",
+      "ja": "イスラエルの人々を治める王がいまだいなかった時代に、エドムの地で治めた王たちは次のとおりである。ベオルの子ベラ。その都の名はディンハバであった。"
+    },
+    {
+      "verse": 44,
+      "en": "When Bela died, Jobab son of Zerah from Bozrah succeeded him.",
+      "ja": "ベラが死ぬと、ボツラ出身のゼラの子ヨバブが代わって王となった。"
+    },
+    {
+      "verse": 45,
+      "en": "When Jobab died, Husham from the land of the Temanites succeeded him.",
+      "ja": "ヨバブが死ぬと、テマン人の地の出身であるフシャムが代わって王となった。"
+    },
+    {
+      "verse": 46,
+      "en": "When Husham died, Hadad son of Bedad succeeded him. He struck down the Midianites in the plains of Moab; the name of his city was Avith. ",
+      "ja": "フシャムが死ぬと、ベダデの子ハダデが代わって王となった。彼はモアブの野でミディアン人を討った。その都の名はアビテであった。"
+    },
+    {
+      "verse": 47,
+      "en": "When Hadad died, Samlah from Masrekah succeeded him.",
+      "ja": "ハダデが死ぬと、マスレカ出身のサムラが代わって王となった。"
+    },
+    {
+      "verse": 48,
+      "en": "When Samlah died, Shaul from Rehoboth on the River succeeded him.",
+      "ja": "サムラが死ぬと、川のほとりのレホボテ出身のシャウルが代わって王となった。"
+    },
+    {
+      "verse": 49,
+      "en": "When Shaul died, Baal Hanan son of Achbor succeeded him.",
+      "ja": "シャウルが死ぬと、アクボルの子バアル・ハナンが代わって王となった。"
+    },
+    {
+      "verse": 50,
+      "en": "When Baal Hanan died, Hadad succeeded him; the name of his city was Pai. His wife was Mehetabel, daughter of Matred, daughter of Me-Zahab. ",
+      "ja": "バアル・ハナンが死ぬと、ハダデが代わって王となった。その都の名はパイであった。彼の妻の名はメヘタベルといい、メ・ザハブの娘マトレデの娘であった。"
+    },
+    {
+      "verse": 51,
+      "en": "Hadad died.Tribal Chiefs of EdomThe tribal chiefs of Edom were: Timna, Alvah, Jetheth, ",
+      "ja": "ハダデが死んだ。エドムの首長たち。エドムの首長たちは次のとおりである。ティムナ、アルワ、エテテ、"
+    },
+    {
+      "verse": 52,
+      "en": "Oholibamah, Elah, Pinon, ",
+      "ja": "オホリバマ、エラ、ピノン、"
+    },
+    {
+      "verse": 53,
+      "en": "Kenaz, Teman, Mibzar, ",
+      "ja": "ケナズ、テマン、ミブツァル、"
+    },
+    {
+      "verse": 54,
+      "en": "Magdiel, and Iram. These were the tribal chiefs of Edom. ",
+      "ja": "マグディエル、イラム。これらがエドムの首長たちであった。"
+    }
+  ],
+  "notes": {
+    "4": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The LXX reads “Noah; the sons of Noah [were] Shem, Ham, and Japheth.” Several English translations (e.g., NIV, NLT) follow the LXX.[解説]  Shem, Ham, and Japheth were Noah’s three sons (Gen 6:10).",
+        "ja": "[写本注] 七十人訳（LXX）は「ノア。ノアの子らはセム、ハム、ヤペテ」と読んでいる。いくつかの英語訳（NIV、NLTなど）はLXXに従っている。[解説] セム、ハム、ヤペテはノアの三人の息子であった（創世記6:10）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Many medieval Hebrew mss, along with the LXX and Vulgate, read “Riphath” (see Gen 10:3). This is followed by several English translations (e.g., NAB, NIV, NLT), while others (e.g., ASV, NASB, NRSV) follow the MT reading (“Diphath”).",
+        "ja": "[写本注] 多くの中世ヘブライ語写本は、七十人訳やウルガタ訳とともに「リパテ」と読んでいる（創世記10:3参照）。いくつかの英語訳（NAB、NIV、NLTなど）がこれに従っているが、他の翻訳（ASV、NASB、NRSVなど）はマソラ本文の読み（「ディパテ」）に従っている。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or in this case, “descendants.”",
+        "ja": "[翻訳注] あるいはこの場合、「子孫」。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The Kethiv has “Rodanim,” which probably refers to the island of Rhodes. The Qere has “Dodanim,” which refers to one of the most ancient and revered locations in ancient Greece. The MT and most medieval Hebrew mss of the parallel list in Gen 10:4 read “Dodanim,” but a few have “Rodanim.”[翻訳注]  Heb “Kittim and Rodanim.”",
+        "ja": "[写本注] ケティヴ（書かれている語）は「ロダニム」であり、おそらくロドス島を指している。ケレ（読まれるべき語）は「ドダニム」であり、古代ギリシャで最も古く尊ばれた場所の一つを指している。創世記10:4の並行記事におけるマソラ本文および多くの中世ヘブライ語写本は「ドダニム」と読んでいるが、少数ながら「ロダニム」とするものもある。[翻訳注] ヘブライ語では「キティムとロダニム」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  That is, “Egypt.”",
+        "ja": "[翻訳注] すなわち「エジプト」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “he began to be a mighty warrior in the earth.”",
+        "ja": "[翻訳注] ヘブライ語では「彼は地において力ある勇士となり始めた」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “came forth.”",
+        "ja": "[翻訳注] ヘブライ語では「出た」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[写本注]  The words “the sons of Aram” do not appear in the Hebrew text. Apparently the phrase וּבְנֵי אֲרָם (uvÿney ’aram) has accidentally dropped out of the text by homoioteleuton (note the presence of אֲרָם just before this). The phrase is included in Gen 10:23.",
+        "ja": "[写本注] 「アラムの子らは」という言葉はヘブライ語本文には現れない。その直前にある אֲרָם の存在による類似語尾脱落によって、וּבְנֵי אֲרָם（ウヴネイ・アラム）という句が本文から脱落したと見られる。この句は創世記10:23に含まれている。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT of the parallel geneaology in Gen 10:23 reads “Mash,” but the LXX there reads “Meshech” in agreement with 1 Chr 1:17.",
+        "ja": "[写本注] 創世記10:23の並行系図のマソラ本文は「マシュ」と読んでいるが、そこの七十人訳は歴代誌第一1:17と一致して「メシェク」と読んでいる。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  Perhaps this refers to the scattering of the people at Babel (Gen 11:1-9).",
+        "ja": "[解説] おそらくこれは、バベルにおける人々の分散を指している（創世記11:1-9）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some medieval Hebrew mss and the Syriac read “Obal” (see Gen 10:28).",
+        "ja": "[写本注] 一部の中世ヘブライ語写本およびシリア語訳は「オバル」と読んでいる（創世記10:28参照）。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some LXX mss read “Arphaxad, Cainan, Shelah” (see also the notes on Gen 10:24; 11:12-13).",
+        "ja": "[写本注] 一部の七十人訳写本は「アルパクシャデ、カイナン、シェラ」と読んでいる（創世記10:24、11:12-13の注も参照）。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “the others were” are supplied in the translation for stylistic reasons.",
+        "ja": "[翻訳注] 「次いで」という言葉は、文体上の理由から訳出にあたって補われたものである。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[解説]  A concubine was a slave woman in ancient Near Eastern societies who was the legal property of her master, but who could have legitimate sexual relations with her master. A concubine’s status was more elevated than a mere servant, but she was not free and did not have the legal rights of a free wife. The children of a concubine could, in some instances, become equal heirs with the children of the free wife. After the period of the Judges concubines may have become more of a royal prerogative (2 Sam 21:10-14; 1 Kgs 11:3).",
+        "ja": "[解説] そばめは、古代近東社会において主人の法的所有物であった奴隷の女性であるが、主人と正当な性的関係を持つことができた。そばめの地位は単なる召使いより高かったが、自由の身ではなく、自由人である正妻の法的権利は持たなかった。そばめの子は、場合によっては正妻の子と同等の相続人となることもあった。士師の時代の後、そばめを持つことは王の特権的な傾向を強めた可能性がある（サムエル記第二21:10-14、列王記第一11:3）。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Many medieval Hebrew mss, along with some LXX mss and the Syriac, read “Zepho” (see Gen 36:11).",
+        "ja": "[写本注] 多くの中世ヘブライ語写本は、一部の七十人訳写本やシリア語訳とともに「ツェフォ」と読んでいる（創世記36:11参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Hebrew text has simply, “and Timna and Amalek,” but Gen 36:12 indicates that Timna, a concubine of Eliphaz, was the mother of Amalek. See also v. 39 below, which states that Timna was the sister of Lotan.",
+        "ja": "[翻訳注] ヘブライ語本文には単に「そしてティムナとアマレク」とあるが、創世記36:12はエリパズのそばめティムナがアマレクの母であったことを示している。ティムナがロタンの妹であったと述べる下記の39節も参照。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Perhaps this is the Timna mentioned in v. 36.",
+        "ja": "[翻訳注] おそらくこれは36節で言及されているティムナである。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Some medieval Hebrew mss and a few LXX mss read “Alvan” (see Gen 36:23).",
+        "ja": "[写本注] 一部の中世ヘブライ語写本および少数の七十人訳写本は「アルワン」と読んでいる（創世記36:23参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  A few medieval Hebrew mss read “Shepho” (see Gen 36:23).",
+        "ja": "[写本注] 少数の中世ヘブライ語写本は「シェフォ」と読んでいる（創世記36:23参照）。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “sons.” The Hebrew text has the plural, but only one son is listed. For stylistic reasons the singular “son” was used in the translation.",
+        "ja": "[翻訳注] ヘブライ語では「息子たち」。ヘブライ語本文では複数形になっているが、一人の息子しか挙げられていない。文体上の理由から、翻訳では単数形の「子」が用いられている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The parallel geneaology in Gen 36:26 has the variant spelling “Hemdan.” Some English versions follow the variant spelling here (e.g., NAB, NIV, NCV, CEV, NLT).",
+        "ja": "[翻訳注] 創世記36:26の並行系図には「ヘムダン」という異綴りがある。英語訳の中にはここでもその異綴りに従っているものがある（NAB、NIV、NCV、CEV、NLTなど）。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The parallel geneaology in Gen 36:27 has the variant spelling “Akan.” Among English versions that use the variant spelling here are NIV, NCV, NLT.",
+        "ja": "[翻訳注] 創世記36:27の並行系図には「アカン」という異綴りがある。ここでもその異綴りを用いている英語訳にはNIV、NCV、NLTなどがある。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The MT reads “Dishon” here, but this should be emended to “Dishan.” See the list in v. 38 and Gen 36:28.",
+        "ja": "[写本注] マソラ本文はここで「ディション」と読んでいるが、これは「ディシャン」と校訂されるべきである。38節のリストおよび創世記36:28を参照。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Heb “ruled in his place,” here and in vv. 45-50.",
+        "ja": "[翻訳注] 本節および45-50節において、ヘブライ語では「彼の代わりに治めた」。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “near the river.”[解説]  The river may refer to the Euphrates River (cf. NRSV, CEV, NLT).",
+        "ja": "[翻訳注] あるいは「川の近くの」。[解説] この川はユーフラテス川を指している可能性がある（NRSV、CEV、NLT参照）。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[写本注]  Many medieval Hebrew mss, along with some LXX mss, the Syriac, and Vulgate, read “Pau.” See also Gen 36:39.",
+        "ja": "[写本注] 多くの中世ヘブライ語写本は、一部の七十人訳写本、シリア語訳、ウルガタ訳とともに「パウ」と読んでいる。創世記36:39も参照。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The parallel genealogy in Gen 36:42 has the variant spelling “Temam.”",
+        "ja": "[翻訳注] 創世記36:42の並行系図には「テマム」という異綴りがある。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Each of the names in this list is preceded by the word “chief” in the Hebrew text. This has not been included in the translation because it would appear very redundant to the modern reader.",
+        "ja": "[翻訳注] ヘブライ語本文では、この一覧の各名の前に「首長」という言葉が付いている。現代の読者にとって冗長に見えるため、翻訳には含められていない。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "notes": {
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The phrase <i>the City of David</i> refers here to the fortress of Zion in Jerusalem, not to Bethlehem. See <span class=\"bibleref\" title=\"2 Samuel 5:7\">2 Sam 5:7</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Then Solomon convened the elders of Israel, the heads of the tribes, the chiefs of the fathers belonging to the sons of Israel to Jerusalem to bring up the ark of the covenant of the <sc>Lord</sc> from the City of David (it is Zion).&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This <i>festival in the seventh month</i> was the Feast of Tabernacles, see <span class=\"bibleref\" title=\"Leviticus 23:34\">Lev 23:34</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>seventh month</i> would be September-October in modern reckoning.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the tent of assembly.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> See <span class=\"bibleref\" title=\"Exodus 33:7-11\">Exod 33:7-11</span>.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and they carried the ark of the <sc>Lord</sc>&#8230;. The priests and the Levites carried them.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;And King Solomon and all the assembly of Israel, those who had been gathered to him, [were] before the ark, sacrificing sheep and cattle which could not be counted or numbered because of the abundance.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;assigned&#8221; is supplied in the translation for clarification.</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> These <i>poles</i> were used to carry the ark. The Levites were to carry it with the poles on their shoulders. See <span class=\"bibleref\" title=\"Exodus 25:13-15\">Exod 25:13-15</span>; <span class=\"bibleref\" title=\"1 Chronicles 15:15\">1 Chr 15:15</span>.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;they could not be seen outside.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Horeb</i> is another name for Mount Sinai (cf. <span class=\"bibleref\" title=\"Exodus 3:1\">Exod 3:1</span>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in Horeb where.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and when the priests went from the holy place.&#8221; The syntactical relationship of this temporal clause to the following context is unclear. Perhaps the thought is completed in v. <span class=\"bibleref\" title=\"2 Chronicles 5:14\">14</span> after a lengthy digression.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Indeed [or &#8220;for&#8221;] all the priests who were found consecrated themselves without guarding divisions.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;like one were the trumpeters and the musicians, causing one voice to be heard, praising and giving thanks to the <sc>Lord</sc>, and while raising a voice with trumpets and with cymbals and with instruments of music, and while praising the <sc>Lord</sc>.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and the house was filled with a cloud, the house of the <sc>Lord</sc>.&#8221;</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;were not able to stand to serve.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "1",
+      "text": "When Solomon had finished constructing the Lord’s temple, he put the holy items that belonged to his father David (the silver, gold, and all the other articles) in the treasuries of God’s temple. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "2",
+      "text": "Then Solomon convened Israel’s elders—all the leaders of the Israelite tribes and families—in Jerusalem, so they could witness the transferal of the ark of the covenant of the Lord from the City of David (that is, Zion). "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "3",
+      "text": "All the men of Israel assembled before the king during the festival in the seventh month. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "4",
+      "text": "When all Israel’s elders had arrived, the Levites lifted the ark. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "5",
+      "text": "The priests and Levites carried the ark, the tent where God appeared to his people, and all the holy items in the tent. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "6",
+      "text": "Now King Solomon and all the Israelites who had assembled with him went on ahead of the ark and sacrificed more sheep and cattle than could be counted or numbered."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "7",
+      "text": "The priests brought the ark of the covenant of the Lord to its assigned place in the inner sanctuary of the temple, in the Most Holy Place under the wings of the cherubim."
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "8",
+      "text": "The cherubim’s wings extended over the place where the ark sat; the cherubim overshadowed the ark and its poles. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "9",
+      "text": "The poles were so long their ends extending out from the ark were visible from in front of the inner sanctuary, but they could not be seen from beyond that point. They have remained there to this very day. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "10",
+      "text": "There was nothing in the ark except the two tablets Moses had placed there in Horeb. (It was there that the Lord made a covenant with the Israelites after he brought them out of the land of Egypt.) "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "11",
+      "text": "The priests left the Holy Place. All the priests who participated had consecrated themselves, no matter which division they represented. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "12",
+      "text": "All the Levites who were musicians, including Asaph, Heman, Jeduthun, and their sons and relatives, wore linen. They played cymbals and stringed instruments as they stood east of the altar. They were accompanied by 120 priests who blew trumpets. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "13",
+      "text": "The trumpeters and musicians played together, praising and giving thanks to the Lord. Accompanied by trumpets, cymbals, and other instruments, they loudly praised the Lord, singing: “Certainly he is good; certainly his loyal love endures!” Then a cloud filled the Lord’s temple. "
+    },
+    {
+      "bookname": "2 Chronicles",
+      "chapter": "5",
+      "verse": "14",
+      "text": "The priests could not carry out their duties because of the cloud; the Lord’s splendor filled God’s temple. "
+    }
+  ]
+}

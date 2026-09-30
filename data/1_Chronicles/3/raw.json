@@ -1,0 +1,208 @@
+{
+  "notes": {
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;him&#8221;; the referent (David) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> &#8220;Shimea&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1460;&#1502;&#1456;&#1506;&#1464;&#1488;</font>, <font face=\"Scholar\">shim</font>&#8217;<font face=\"Scholar\">a</font>&#8217;) is a variant spelling of &#8220;Shammua&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1463;&#1502;&#1468;&#1493;&#1468;&#1506;&#1463;</font>, <font face=\"Scholar\">shammua</font>&#8217;; see <span class=\"bibleref\" title=\"2 Samuel 5:14\">2 Sam 5:14</span>). Some English versions use the spelling &#8220;Shammua&#8221; here (e.g., NIV, NCV).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Most Hebrew <sc>mss</sc> read &#8220;Bathshua&#8221; here, but <span class=\"bibleref\" title=\"2 Samuel 12:24\">2 Sam 12:24</span> makes it clear Bathsheba was Solomon&#8217;s mother. &#8220;Bathsheba&#8221; is read by one Hebrew <sc>ms</sc> and the Vulgate. Many English translations (e.g., NAB, NIV, NLT) render the name &#8220;Bathsheba&#8221; to avoid confusion.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In <span class=\"bibleref\" title=\"2 Samuel 11:3\">2 Sam 11:3</span> Bathsheba is called &#8220;the daughter of Eliam,&#8221; while here her father&#8217;s name is given as &#8220;Ammiel.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> All but two Hebrew <sc>mss</sc> read &#8220;Elishama&#8221; here, but <span class=\"bibleref\" title=\"1 Chronicles 14:5\">1 Chr 14:5</span> lists the name as &#8220;Elishua,&#8221; and is followed by a number of English versions here (e.g., NAB, NIV, NCV, TEV, CEV, NLT). Another son named &#8220;Elishama&#8221; is listed in <span class=\"bibleref\" title=\"1 Chronicles 3:8\">3:8</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The MT reads &#8220;Eliphelet&#8221; here, but <span class=\"bibleref\" title=\"1 Chronicles 14:5\">1 Chr 14:5</span> lists the name as &#8220;Elpelet&#8221; and is followed by some English versions here (e.g., TEV, NLT). Another son named &#8220;Eliphelet&#8221; is listed in <span class=\"bibleref\" title=\"1 Chronicles 3:8\">3:8</span>.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See the note on the word &#8220;concubine&#8221; in <span class=\"bibleref\" title=\"1 Chronicles 1:32\">1:32</span>.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Joram</i> is a variant spelling of the name &#8220;Jehoram.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Jeconiah,&#8221; a variation of the name &#8220;Jehoiachin&#8221; (also in v. <span class=\"bibleref\" title=\"1 Chronicles 3:17\">17</span>).</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;prisoner.&#8221; Jehoiachin was carried off to Babylon as a prisoner. See <span class=\"bibleref\" title=\"2 Chronicles 36:10\">2 Chr 36:10</span>.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "1",
+      "text": "These were the sons of David who were born to him in Hebron: The firstborn was Amnon, whose mother was Ahinoam from Jezreel; the second was Daniel, whose mother was Abigail from Carmel; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "2",
+      "text": "the third was Absalom, whose mother was Maacah, daughter of King Talmai of Geshur;the fourth was Adonijah, whose mother was Haggith; "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "3",
+      "text": "the fifth was Shephatiah, whose mother was Abital;the sixth was Ithream, whose mother was Eglah, David’s wife."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "4",
+      "text": "These six were born to David in Hebron, where he ruled for seven years and six months.He ruled thirty-three years in Jerusalem. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "5",
+      "text": "These were the sons born to him in Jerusalem:Shimea, Shobab, Nathan, and Solomon—the mother of these four was Bathsheba the daughter of Ammiel. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "6",
+      "text": "The other nine were Ibhar, Elishua, Elpelet, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "7",
+      "text": "Nogah, Nepheg, Japhia, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "8",
+      "text": "Elishama, Eliada, and Eliphelet. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "9",
+      "text": "These were all the sons of David, not counting the sons of his concubines. Tamar was their sister. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "10",
+      "text": "Solomon’s son was Rehoboam,followed by Abijah his son,Asa his son,Jehoshaphat his son, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "11",
+      "text": "Joram his son,Ahaziah his son,Joash his son, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "12",
+      "text": "Amaziah his son,Azariah his son,Jotham his son, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "13",
+      "text": "Ahaz his son,Hezekiah his son,Manasseh his son, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "14",
+      "text": "Amon his son,Josiah his son. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "15",
+      "text": "The sons of Josiah: Johanan was the firstborn; Jehoiakim was born second; Zedekiah third, and Shallum fourth. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "16",
+      "text": "The sons of Jehoiakim: his son Jehoiachin and his son Zedekiah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "17",
+      "text": "The sons of Jehoiachin the exile: Shealtiel his son, "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "18",
+      "text": "Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "19",
+      "text": "The sons of Pedaiah: Zerubbabel and Shimei.The sons of Zerubbabel: Meshullam and Hananiah. Shelomith was their sister. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "20",
+      "text": "The five others were Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "21",
+      "text": "The descendants of Hananiah: Pelatiah, Jeshaiah, the sons of Rephaiah, of Arnan, of Obadiah, and of Shecaniah. "
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "22",
+      "text": "The descendants of Shecaniah: Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat—six in all."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "23",
+      "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three in all."
+    },
+    {
+      "bookname": "1 Chronicles",
+      "chapter": "3",
+      "verse": "24",
+      "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all."
+    }
+  ]
+}
