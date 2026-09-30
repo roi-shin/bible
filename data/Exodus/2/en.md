@@ -1,0 +1,340 @@
+# Exodus 2 (English)
+
+## Text
+
+**1**  A man from the household of Levi married a woman who was a descendant of Levi. 
+
+**2** The woman became pregnant and gave birth to a son. When she saw that he was a healthy child, she hid him for three months. 
+
+**3** But when she was no longer able to hide him, she took a papyrus basket for him and sealed it with bitumen and pitch. She put the child in it and set it among the reeds along the edge of the Nile. 
+
+**4** His sister stationed herself at a distance to find out what would happen to him.
+
+**5** Then the daughter of Pharaoh came down to wash herself by the Nile, while her attendants were walking alongside the river, and she saw the basket among the reeds. She sent one of her attendants, took it,
+
+**6** opened it, and saw the child—a boy, crying!—and she felt compassion for him and said, “This is one of the Hebrews’ children.” 
+
+**7** Then his sister said to Pharaoh’s daughter, “Shall I go and get a nursing woman for you from the Hebrews, so that she may nurse the child for you?”
+
+**8** Pharaoh’s daughter said to her, “Yes, do so.” So the young girl went and got the child’s mother. 
+
+**9** Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the child and nursed him.
+
+**10** When the child grew older she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, saying, “Because I drew him from the water.” 
+
+**11**  In those days, when Moses had grown up, he went out to his people and observed their hard labor, and he saw an Egyptian man attacking a Hebrew man, one of his own people. 
+
+**12** He looked this way and that and saw that no one was there, and then he attacked the Egyptian and concealed the body in the sand. 
+
+**13** When he went out the next day, there were two Hebrew men fighting. So he said to the one who was in the wrong, “Why are you attacking your fellow Hebrew?” 
+
+**14** The man replied, “Who made you a ruler and a judge over us? Are you planning to kill me like you killed that Egyptian?” Then Moses was afraid, thinking, “Surely what I did has become known.” 
+
+**15** When Pharaoh heard about this event, he sought to kill Moses. So Moses fled from Pharaoh and settled in the land of Midian, and he settled by a certain well. 
+
+**16** Now a priest of Midian had seven daughters, and they came and began to draw water and fill the troughs in order to water their father’s flock. 
+
+**17** When some shepherds came and drove them away, Moses came up and defended them and then watered their flock. 
+
+**18** So when they came home to their father Reuel, he asked, “Why have you come home so early today?” 
+
+**19** They said, “An Egyptian man rescued us from the shepherds, and he actually drew water for us and watered the flock!” 
+
+**20** He said to his daughters, “So where is he? Why in the world did you leave the man? Call him, so that he may eat a meal with us.”
+
+**21** Moses agreed to stay with the man, and he gave his daughter Zipporah to Moses in marriage.
+
+**22** When she bore a son, Moses named him Gershom, for he said, “I have become a resident foreigner in a foreign land.” 
+
+**23**  During that long period of time the king of Egypt died, and the Israelites groaned because of the slave labor. They cried out, and their desperate cry because of their slave labor went up to God. 
+
+**24** God heard their groaning; God remembered his covenant with Abraham, with Isaac, and with Jacob. 
+
+**25** God saw the Israelites, and God understood. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The chapter records the exceptional survival of Moses under the decree of death by Pharaoh (vv. 1-10), the flight of Moses from Pharaoh after killing the Egyptian (vv. 11-15), the marriage of Moses (vv. 16-22), and finally a note about the Lord’s hearing the sighing of the people in bondage (vv. 23-25). The first part is the birth. The Bible has several stories about miraculous or special births and deliverances of those destined to lead Israel. Their impact is essentially to authenticate the individual’s ministry. If the person’s beginning was providentially provided and protected by the Lord, then the mission must be of divine origin too. In this chapter the plot works around the decree for the death of the children – a decree undone by the women. The second part of the chapter records Moses’ flight and marriage. Having introduced the deliverer Moses in such an auspicious way, the chapter then records how this deliverer acted presumptuously and had to flee for his life. Any deliverance God desired had to be supernatural, as the chapter’s final note about answering prayer shows.
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “house.” In other words, the tribe of Levi.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “went and took”; NASB “went and married.”
+
+### Verse 1 - Note 4
+[翻訳注]  Heb “a daughter of Levi.” The word “daughter” is used in the sense of “descendant” and connects the new account with Pharaoh’s command in 1:22. The words “a woman who was” are added for clarity in English.[解説]  The first part of this section is the account of hiding the infant (vv. 1-4). The marriage, the birth, the hiding of the child, and the positioning of Miriam, are all faith operations that ignore the decree of Pharaoh or work around it to preserve the life of the child.
+
+### Verse 2 - Note 1
+[翻訳注]  Or “conceived” (KJV, ASV, NAB, NASB, NRSV).
+
+### Verse 2 - Note 2
+[翻訳注]  A preterite form with the vav consecutive can be subordinated to a following clause. What she saw stands as a reason for what she did: “when she saw…she hid him three months.”
+
+### Verse 2 - Note 3
+[翻訳注]  After verbs of perceiving or seeing there are frequently two objects, the formal accusative (“she saw him”) and then a noun clause that explains what it was about the child that she perceived (“that he was healthy”). See GKC 365 §117.h.
+
+### Verse 2 - Note 4
+[翻訳注]  Or “fine” (טוֹב, tov). The construction is parallel to phrases in the creation narrative (“and God saw that it was good,” Gen 1:4, 10, 12, 17, 21, 25, 31). B. Jacob says, “She looked upon her child with a joy similar to that of God upon His creation (Gen 1.4ff.)” (Exodus, 25).
+
+### Verse 3 - Note 1
+[解説]  See on the meaning of this basket C. Cohen, “Hebrew tbh: Proposed Etymologies,” JANESCU 9 (1972): 36-51. This term is used elsewhere only to refer to the ark of Noah. It may be connected to the Egyptian word for “chest.”
+
+### Verse 3 - Note 2
+[解説]  The circumstances of the saving of the child Moses have prompted several attempts by scholars to compare the material to the Sargon myth. See R. F. Johnson, IDB 3:440-50; for the text see L. W. King, Chronicles concerning Early Babylonian Kings, 2:87-90. Those who see the narrative using the Sargon story’s pattern would be saying that the account presents Moses in imagery common to the ancient world’s expectations of extraordinary achievement and deliverance. In the Sargon story the infant’s mother set him adrift in a basket in a river; he was loved by the gods and destined for greatness. Saying Israel used this to invent the account in Exodus would undermine its reliability. But there are other difficulties with the Sargon comparison, not the least of which is the fact that the meaning and function of the Sargon story are unclear. Second, there is no outside threat to the child Sargon. The account simply shows how a child was exposed, rescued, nurtured, and became king (see B. S. Childs, Exodus [OTL], 8-12). Third, other details do not fit: Moses’ father is known, Sargon’s is not; Moses is never abandoned, since he is never out of the care of his parents, and the finder is a princess and not a goddess. Moreover, without knowing the precise function and meaning of the Sargon story, it is almost impossible to explain its use as a pattern for the biblical account. By itself, the idea of a mother putting a child by the river if she wants him to be found would have been fairly sensible, for that is where the women of the town would be washing their clothes or bathing. If someone wanted to be sure the infant was discovered by a sympathetic woman, there would be no better setting (see R. A. Cole, Exodus [TOTC], 57). While there need not be a special genre of storytelling here, it is possible that  might have drawn on some of the motifs and forms of the other account to describe the actual event in the sparing of Moses – if they knew of it. If so it would show that Moses was cast in the form of the greats of the past.
+
+### Verse 4 - Note 1
+[翻訳注]  Or “stood.” The verb is the Hitpael preterite of יָצַב (yatsav), although the form is anomalous and perhaps should be spelled as in the Samaritan Pentateuch (see GKC 193 §71). The form yields the meaning of “take a stand, position or station oneself.” His sister found a good vantage point to wait and see what might become of the infant.
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “to know”; many English versions have “to see.”
+
+### Verse 4 - Note 3
+[翻訳注]  The verb is a Niphal imperfect; it should be classified here as a historic future, future from the perspective of a point in a past time narrative.
+
+### Verse 5 - Note 1
+[解説]  It is impossible, perhaps, to identify with certainty who this person was. For those who have taken a view that Rameses was the pharaoh, there were numerous daughters for Rameses. She is named Tharmuth in Jub. 47:5; Josephus spells it Thermouthis (Ant. 2.9.5 [2.224]), but Eusebius has Merris (Praep. Ev. ix. 27). E. H. Merrill (Kingdom of Priests, 60) makes a reasonable case for her identification as the famous Hatshepsut, daughter of Thutmose I. She would have been there about the time of Moses’ birth, and the general picture of her from history shows her to be the kind of princess with enough courage to countermand a decree of her father.
+
+### Verse 5 - Note 2
+[翻訳注]  Or “bathe.”
+
+### Verse 5 - Note 3
+[解説]  A disjunctive vav initiates here a circumstantial clause. The picture is one of a royal entourage coming down to the edge of a tributary of the river, and while the princess was bathing, her female attendants were walking along the edge of the water out of the way of the princess. They may not have witnessed the discovery or the discussion.
+
+### Verse 5 - Note 4
+[翻訳注]  The word here is אָמָה (’amah), which means “female slave.” The word translated “attendants” earlier in the verse is נַעֲרֹת (na’arot, “young women”), possibly referring here to an assortment of servants and companions.
+
+### Verse 5 - Note 5
+[翻訳注]  The verb is preterite, third person feminine singular, with a pronominal suffix, from לָקַח (laqakh, “to take”). The form says literally “and she took it,” and retains the princess as the subject of the verb.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “and she opened.”
+
+### Verse 6 - Note 2
+[翻訳注]  The grammatical construction has a pronominal suffix on the verb as the direct object along with the expressed object: “and she saw him, the child.” The second object defines the previous pronominal object to avoid misunderstanding (see GKC 425 §131.m).
+
+### Verse 6 - Note 3
+[翻訳注]  The text has נַעַר (na’ar, “lad, boy, young man”), which in this context would mean a baby boy.
+
+### Verse 6 - Note 4
+[翻訳注]  This clause is introduced with a disjunctive vav and the deictic particle הִנֵּה (hinneh, “behold” in the KJV). The particle in this kind of clause introduces the unexpected – what Pharaoh’s daughter saw when she opened the basket: “and look, there was a baby boy crying.” The clause provides a parenthetical description of the child as she saw him when she opened the basket and does not advance the narrative. It is an important addition, however, for it puts readers in the position of looking with her into the basket and explains her compassion.
+
+### Verse 6 - Note 5
+[翻訳注]  The verb could be given a more colloquial translation such as “she felt sorry for him.” But the verb is stronger than that; it means “to have compassion, to pity, to spare.” What she felt for the baby was strong enough to prompt her to spare the child from the fate decreed for Hebrew boys. Here is part of the irony of the passage: What was perceived by many to be a womanly weakness – compassion for a baby – is a strong enough emotion to prompt the woman to defy the orders of Pharaoh. The ruler had thought sparing women was safe, but the midwives, the Hebrew mother, the daughter of Pharaoh, and Miriam, all work together to spare one child – Moses (cf. 1 Cor 1:27-29).
+
+### Verse 7 - Note 1
+[解説]  The text uses קָרָא (qara’), meaning “to call” or “summon.” Pharaoh himself will “summon” Moses many times in the plague narratives. Here the word is used for the daughter summoning the child’s mother to take care of him. The narratives in the first part of the book of Exodus include a good deal of foreshadowing of events that occur in later sections of the book (see M. Fishbane, Biblical Text and Texture).
+
+### Verse 7 - Note 2
+[翻訳注]  The object of the verb “get/summon” is “a woman.” But מֵינֶקֶת (meneqet, “nursing”), the Hiphil participle of the verb יָנַק (yanaq, “to suck”), is in apposition to it, clarifying what kind of woman should be found – a woman, a nursing one. Of course Moses’ mother was ready for the task.
+
+### Verse 7 - Note 3
+[翻訳注]  The form וְתֵינִק (vÿteniq) is the Hiphil imperfect/jussive, third feminine singular, of the same root as the word for “nursing.” It is here subordinated to the preceding imperfect (“shall I go”) and perfect with vav (ו) consecutive (“and summon”) to express the purpose: “in order that she may.”[解説]  No respectable Egyptian woman of this period would have undertaken the task of nursing a foreigner’s baby, and so the suggestion by Miriam was proper and necessary. Since she was standing a small distance away from the events, she was able to come forward when the discovery was made.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “Go” (so KJV, ASV); NASB “Go ahead”; TEV “Please do.”
+
+### Verse 8 - Note 2
+[解説]  The word used to describe the sister (Miriam probably) is עַלְמָה (’alma), the same word used in Isa 7:14, where it is usually translated either “virgin” or “young woman.” The word basically means a young woman who is ripe for marriage. This would indicate that Miriam is a teenager and so about fifteen years older than Moses.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb קָרָא (qara’, “called”).
+
+### Verse 8 - Note 4
+[解説]  During this period of Egyptian history the royal palaces were in the northern or Delta area of Egypt, rather than up the Nile as in later periods. The proximity of the royal residences to the Israelites makes this and the plague narratives all the more realistic. Such direct contact would have been unlikely if Moses had had to travel up the Nile to meet with Pharaoh. In the Delta area things were closer. Here all the people would have had access to the tributaries of the Nile near where the royal family came, but the royal family probably had pavilions and hunting lodges in the area. See also N. Osborn, “Where on Earth Are We? Problems of Position and Movement in Space,” BT 31 (1980): 239-42.
+
+### Verse 9 - Note 1
+[翻訳注]  The verb is the Hiphil imperative of the verb הָלַךְ (halakh), and so is properly rendered “cause to go” or “take away.”
+
+### Verse 9 - Note 2
+[翻訳注]  The possessive pronoun on the noun “wage” expresses the indirect object: “I will pay wages to you.”
+
+### Verse 10 - Note 1
+[翻訳注]  The verb is the preterite of גָּדַל (gadal), and so might be rendered “and he became great.” But the context suggests that it refers to when he was weaned and before he was named, perhaps indicating he was three or four years old (see Gen 21:8).
+
+### Verse 10 - Note 2
+[翻訳注]  The idiomatic expression literally reads: “and he was to her for a son.” In this there are two prepositions lamed. The first expresses possession: “he was to her” means “she had.” The second is part of the usage of the verb: הָיָה (haya) with the lamed (ל) preposition means “to become.”
+
+### Verse 10 - Note 3
+[解説]  The naming provides the climax and summary of the story. The name of “Moses” (מֹשֶׁה, mosheh) is explained by “I have drawn him (מְשִׁיתִהוּ, mÿshitihu) from the water.” It appears that the name is etymologically connected to the verb in the saying, which is from מָשָׁה (mashah, “to draw out”). But commentators have found it a little difficult that the explanation of the name by the daughter of Pharaoh is in Hebrew when the whole background is Egyptian (U. Cassuto, Exodus, 20). Moreover, the Hebrew spelling of the name is the form of the active participle (“the one who draws out”); to be a precise description it should have been spelled מָשׁוּי (mashuy), the passive participle (“the one drawn out”). The etymology is not precise; rather, it is a wordplay (called paronomasia). Either the narrator merely attributed words to her (which is unlikely outside of fiction), or the Hebrew account simply translated what she had said into Hebrew, finding a Hebrew verb with the same sounds as the name. Such wordplays on names (also popular etymology) are common in the Bible. Most agree that the name is an Egyptian name. Josephus attempted to connect the biblical etymology with the name in Greek, Mouses, stating that Mo is Egyptian for water, and uses means those rescued from it (Ant. 2.9.6 [2.228]; see also J. Gwyn Griffiths, “The Egyptian Derivation of the Name Moses,” JNES 12 [1953]: 225). But the solution to the name is not to be derived from the Greek rendering. Due to the estimation Egyptians had of the Nile, the princess would have thought of the child from the river as a supernatural provision. The Egyptian hieroglyphic ms can be the noun “child” or the perfective verb “be born.” This was often connected with divine elements for names: Ptah-mose, “Ptah is born.” Also the name Rameses (R’-m-sw) means “[the god] Re’ is he who has born him.” If the name Moses is Egyptian, there are some philological difficulties (see the above article for their treatment). The significance of all this is that when the child was named by the princess, an Egyptian word related to ms was used, meaning something like “child” or “born.” The name might have even been longer, perhaps having a theophoric element (divine name) with it – “child of [some god].” The name’s motivation came from the fact that she drew him from the Nile, the source of life in Egypt. But the sound of the name recalled for the Hebrews the verb “to draw out” in their own language. Translating the words of the princess into Hebrew allowed for the effective wordplay to capture the significance of the story in the sound of the name. The implication for the Israelites is something to this effect: “You called him ‘born one’ in your language and after your custom, but in our language that name means ‘drawing out’ – which is what was to become of him. You drew him out of the water, but he would draw us out of Egypt through the water.” So the circumstances of the story show Moses to be a man of destiny, and this naming episode summarizes how divine providence was at work in Israel. To the Israelites the name forever commemorated the portent of this event in the early life of the great deliverer (see Isa 63:11).
+
+### Verse 11 - Note 1
+[解説]  Chapter  described how Israel was flourishing in spite of the bondage. Chapter  first told how God providentially provided the deliverer, but now when this deliverer attempted to deliver one of his people, it turned out badly, and he had to flee for his life. This section makes an interesting study in the presumption of the leader, what Christian expositors would rightly describe as trying to do God’s work by the flesh. The section has two parts to it: the flight from Egypt over the failed attempt to deliver (vv. 11-15), and Moses’ introduction to life as the deliverer in Midian (vv. 16-22).
+
+### Verse 11 - Note 2
+[解説]  The expression “those days” refers to the days of bondage.
+
+### Verse 11 - Note 3
+[翻訳注]  The preterite with the vav (ו) consecutive is here subordinated to the next and main idea of the verse. This is the second use of this verb in the chapter. In v. 10 the verb had the sense of “when he began to grow” or “when he got older,” but here it carries the nuance of “when he had grown up.”
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “brothers.” This term does not require them to be literal siblings, or even close family members. It simply refers to fellow Hebrews, people with whom Moses has begun to feel close ties of kinship. They are “brothers” in a broad sense, ultimately fellow members of the covenant community.
+
+### Verse 11 - Note 5
+[翻訳注]  The verb רָאָה (ra’a, “to see”) followed by the preposition bet (ב) can indicate looking on something as an overseer, or supervising, or investigating. Here the emphasis is on Moses’ observing their labor with sympathy or grief. It means more than that he simply saw the way his fellow Hebrews were being treated (cf. 2:25).[解説]  This journey of Moses to see his people is an indication that he had become aware of his destiny to deliver them. This verse says that he looked on their oppression; the next section will say that the Lord looked on it.
+
+### Verse 11 - Note 6
+[翻訳注]  The verb מַכֶּה (makkeh) is the Hiphil participle of the root נָכָה (nakha). It may be translated “strike, smite, beat, attack.” It can be used with the sense of killing (as in the next verse, which says Moses hid the body), but it does not necessarily indicate here that the Egyptian killed the Hebrew.
+
+### Verse 11 - Note 7
+[翻訳注]  Heb “brothers.” This kinship term is used as a means of indicating the nature of Moses’ personal concern over the incident, since the appositional clause adds no new information.
+
+### Verse 12 - Note 1
+[翻訳注]  The text literally says, “and he turned thus and thus” (וַיִּפֶן כֹּה וָכֹה, vayyifen koh vakhoh). It may indicate that he turned his gaze in all directions to ascertain that no one would observe what he did. Or, as B. Jacob argues, it may mean that he saw that there was no one to do justice and so he did it himself (Exodus, 37-38, citing Isa 59:15-16).
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “he saw that there was no man.”
+
+### Verse 12 - Note 3
+[解説]  The verb וַיַּךְ (vayyakh) is from the root נָכָה (nakhah, “to smite, attack”) which is used in v. 11. This new attack is fatal. The repetition of the verb, especially in Exodus, anticipates the idea of “eye for eye, tooth for tooth.” The problem is, however, that Moses was not authorized to take this matter into his own hands in this way. The question the next day was appropriate: “Who made you a ruler and a judge over us?” The answer? No one – yet.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “him”; for stylistic reasons the referent has been specified as “the body.”
+
+### Verse 13 - Note 1
+[翻訳注]  The preterite with the vav consecutive is subordinated to the main idea of the verse.
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “the second day” (so KJV, ASV).
+
+### Verse 13 - Note 3
+[翻訳注]  The deictic particle is used here to predicate existence, as in “here were” or “there were.” But this use of הִנֵּה (hinneh) indicates also that what he encountered was surprising or sudden – as in “Oh, look!”
+
+### Verse 13 - Note 4
+[翻訳注]  The word רָשָׁע (rasha’) is a legal term, meaning the guilty. This guilty man rejects Moses’ intervention for much the same reason Pharaoh will later (5:2) – he does not recognize his authority. Later Pharaoh will use this term to declare himself as in the wrong (9:27) and God in the right.
+
+### Verse 13 - Note 5
+[翻訳注]  This is the third use of the verb נָכָה (nakha) in the passage; here it is the Hiphil imperfect. It may be given a progressive imperfect nuance – the attack was going on when Moses tried to intervene.
+
+### Verse 13 - Note 6
+[解説]  Heb “your neighbor.” The word רֵעֶךָ (re’ekha) appears again in 33:11 to describe the ease with which God and Moses conversed. The Law will have much to say about how the Israelites were to treat their “neighbors, fellow citizens” (Exod 20:16-17; 21:14, 18, 35; 22:7-11, 14, 26; cf. Luke 10:25-37).
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “And he”; the referent (the man) has been specified in the translation for clarity.
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “Who placed you for a man, a ruler and a judge over us?” The pleonasm does not need to be translated. For similar constructions see Lev 21:9; Judg 6:8; 2 Sam 1:13; Esth 7:6.
+
+### Verse 14 - Note 3
+[翻訳注]  The line reads “[is it] to kill me you are planning?” The form אֹמֵר (’omer) is the active participle used verbally; it would literally be “[are you] saying,” but in this context it conveys the meaning of “thinking, planning.” The Qal infinitive then serves as the object of this verbal form – are you planning to kill me?
+
+### Verse 14 - Note 4
+[翻訳注]  Heb “the Egyptian.” Here the Hebrew article functions in an anaphoric sense, referring back to the individual Moses killed.
+
+### Verse 14 - Note 5
+[翻訳注]  The verb form is “and he said.” But the intent of the form is that he said this within himself, and so it means “he thought, realized, said to himself.” The form, having the vav consecutive, is subordinated to the main idea of the verse, that he was afraid.
+
+### Verse 14 - Note 6
+[翻訳注]  The term הַדָּבָר (haddavar, “the word [thing, matter, incident]”) functions here like a pronoun to refer in brief to what Moses had done. For clarity this has been specified in the translation with the phrase “what I did.”
+
+### Verse 15 - Note 1
+[翻訳注]  The form with the vav consecutive is here subordinated to the main idea that Pharaoh sought to punish Moses.
+
+### Verse 15 - Note 2
+[翻訳注]  Heb הַדָּבָר (haddavar, “the word [thing, matter, incident]”) functions here like a pronoun to refer in brief to what Moses had done.
+
+### Verse 15 - Note 3
+[翻訳注]  The vav (ו) consecutive with the preterite shows result – as a result of Pharaoh’s search for him, he fled.
+
+### Verse 15 - Note 4
+[解説]  The location of Midyan or Midian is uncertain, but it had to have been beyond the Egyptian borders on the east, either in the Sinai or beyond in the Arabah (south of the Dead Sea) or even on the east side of the Gulf of Aqaba. The Midianites seem to have traveled extensively in the desert regions. R. A. Cole (Exodus [TOTC], 60) reasons that since they later were enemies of Israel, it is unlikely that these traditions would have been made up about Israel’s great lawgiver; further, he explains that “Ishmaelite” and “Kenite” might have been clan names within the region of Midian. But see, from a different point of view, G. W. Coats, “Moses and Midian,” JBL 92 (1973): 3-10.
+
+### Verse 15 - Note 5
+[翻訳注]  The verb reads “and he sat” or “and he lived.” To translate it “he sat by a well” would seem anticlimactic and unconnected. It probably has the same sense as in the last clause, namely, that he lived in Midian, and he lived near a well, which detail prepares for what follows.
+
+### Verse 15 - Note 6
+[翻訳注]  The word has the definite article, “the well.” Gesenius lists this use of the article as that which denotes a thing that is yet unknown to the reader but present in the mind under the circumstances (GKC 407-8 §126.q-r). Where there was a well, people would settle, and as R. A. Cole says it, for people who settled there it was “the well” (Exodus [TOTC], 60).
+
+### Verse 16 - Note 1
+[翻訳注]  The preterites describing their actions must be taken in an ingressive sense, since they did not actually complete the job. Shepherds drove them away, and Moses watered the flocks.
+
+### Verse 16 - Note 2
+[翻訳注]  The object “water” is not in the Hebrew text, but is implied.
+
+### Verse 16 - Note 3
+[翻訳注]  This also has the ingressive sense, “began to fill,” but for stylistic reasons is translated simply “fill” here.
+
+### Verse 17 - Note 1
+[翻訳注]  The definite article here is the generic use; it simply refers to a group of shepherds.
+
+### Verse 17 - Note 2
+[翻訳注]  The actions of the shepherds are subordinated to the main statement about what Moses did.[解説]  The verb is וַיְגָרְשׁוּם (vaygorshum). Some shepherds came and drove the daughters away. The choice of this verb in the narrative has a tie with the name of Moses’ first son, Gershom. Moses senses very clearly that he is a sojourner in a strange land – he has been driven away.
+
+### Verse 17 - Note 3
+[解説]  The verb used here is וַיּוֹשִׁעָן (vayyoshi’an, “and he saved them”). The word means that he came to their rescue and delivered them. By the choice of words the narrator is portraying Moses as the deliverer – he is just not yet ready to deliver Israel from its oppressors.
+
+### Verse 18 - Note 1
+[翻訳注]  The verb means “to go, to come, to enter.” In this context it means that they returned to their father, or came home.
+
+### Verse 18 - Note 2
+[解説]  The name “Reuel” is given here. In other places (e.g., chap. ) he is called Jethro (cf. CEV, which uses “Jethro” here). Some suggest that this is simply a confusion of traditions. But it is not uncommon for ancients, like Sabean kings and priests, to have more than one name. Several of the kings of Israel, including Solomon, did. “Reuel” means “friend of God.”
+
+### Verse 18 - Note 3
+[翻訳注]  The sentence uses a verbal hendiadys construction: מִהַרְתֶּן בֹּא (miharten bo’, “you have made quick [to] come”). The finite verb functions as if it were an adverb modifying the infinitive, which becomes the main verb of the clause.[解説]  Two observations should be made at this point. First, it seems that the oppression at the well was a regular part of their routine because their father was surprised at their early return, and their answer alluded to the shepherds rather automatically. Secondly, the story is another meeting-at-the-well account. Continuity with the patriarchs is thereby kept in the mind of the reader (cf. Gen 24; 29:1-12).
+
+### Verse 19 - Note 1
+[解説]  Continuing the theme of Moses as the deliverer, the text now uses another word for salvation (נָצַל, natsal, “to deliver, rescue”) in the sense of plucking out or away, snatching out of danger.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “from the hand of the shepherds” (so NASB); NAB “saved us from the interference of the shepherds.” Most recent English versions translate simply “from the shepherds.”
+
+### Verse 19 - Note 3
+[翻訳注]  The construction is emphatic with the use of the perfect tense and its infinitive absolute: דָלָה דָּלֹה (daloh dalah). B. Jacob says, “They showed their enthusiasm through the use of the infinitive absolute – And think of that, he even drew water for us; a man did this for us girls” (Exodus, 41).
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “And he said.”
+
+### Verse 20 - Note 2
+[翻訳注]  The conjunction vav (ו) joins Reuel’s question to what the daughters said as logically following with the idea, “If he has done all that you say, why is he not here for me to meet?” (see GKC 485 §154.b).
+
+### Verse 20 - Note 3
+[翻訳注]  This uses the demonstrative pronoun as an enclitic, for emphasis (R. J. Williams, Hebrew Syntax, 24, §118). The question reads more literally, “Why [is] this [that] you left him?”
+
+### Verse 20 - Note 4
+[翻訳注]  The imperfect tense coming after the imperative indicates purpose.
+
+### Verse 20 - Note 5
+[翻訳注]  Heb “bread,” i.e., “food.”
+
+### Verse 21 - Note 1
+[翻訳注]  Or “and Moses was willing” to stay with Reuel. The Talmud understood this to mean that he swore, and so when it came time to leave he had to have a word from God and permission from his father-in-law (Exod 4:18-19).
+
+### Verse 21 - Note 2
+[翻訳注]  The words “in marriage” are implied, and have been supplied in the translation for clarity.
+
+### Verse 22 - Note 1
+[翻訳注]  The preterite with the vav (ו) consecutive is subordinated to the next clause, which reports the naming and its motivation.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “and he called”; the referent (Moses) has been specified in the translation for clarity.
+
+### Verse 22 - Note 3
+[解説]  Like the naming of Moses, this naming that incorporates a phonetic wordplay forms the commemorative summary of the account just provided. Moses seems to have settled into a domestic life with his new wife and his father-in-law. But when the first son is born, he named him גֵּרְשֹׁם (gerÿshom). There is little information available about what the name by itself might have meant. If it is linked to the verb “drive away” used earlier (גָרַשׁ, garash), then the final mem (מ) would have to be explained as an enclitic mem. It seems most likely that that verb was used in the narrative to make a secondary wordplay on the name. The primary explanation is the popular etymology supplied by Moses himself. He links the name to the verb גּוּר (gur, “to sojourn, to live as an alien”). He then adds that he was a sojourner (גֵּר, ger, the participle) in a foreign land. The word “foreign” (נָכְרִיּה, nokhriyyah) adds to the idea of his being a resident alien. The final syllable in the name would then be connected to the adverb “there” (שָׁם, sham). Thus, the name is given the significance in the story of “sojourner there” or “alien there.” He no doubt knew that this was not the actual meaning of the name; the name itself had already been introduced into the family of Levi (1 Chr 6:1, 16). He chose the name because its sounds reflected his sentiment at that time. But to what was Moses referring? In view of naming customs among the Semites, he was most likely referring to Midian as the foreign land. If Egypt had been the strange land, and he had now found his place, he would not have given the lad such a name. Personal names reflect the present or recent experiences, or the hope for the future. So this naming is a clear expression by Moses that he knows he is not where he is supposed to be. That this is what he meant is supported in the NT by Stephen (Acts 7:29). So the choice of the name, the explanation of it, and the wordplay before it, all serve to stress the point that Moses had been driven away from his proper place of service.
+
+### Verse 23 - Note 1
+[解説]  The next section of the book is often referred to as the “Call of Moses,” and that is certainly true. But it is much more than that. It is the divine preparation of the servant of God, a servant who already knew what his destiny was. In this section Moses is shown how his destiny will be accomplished. It will be accomplished because the divine presence will guarantee the power, and the promise of that presence comes with the important “I AM” revelation. The message that comes through in this, and other “I will be with you” passages, is that when the promise of God’s presence is correctly appropriated by faith, the servant of God can begin to build confidence for the task that lies ahead. It will no longer be, “Who am I that I should go?” but “I AM with you” that matters. The first little section, 2:23-25, serves as a transition and introduction, for it records the Lord’s response to Israel in her affliction. The second part is the revelation to Moses at the burning bush (3:1-10), which is one of the most significant theological sections in the Torah. Finally, the record of Moses’ response to the call with his objections (3:11-22), makes up the third part, and in a way, is a transition to the next section, where God supplies proof of his power.
+
+### Verse 23 - Note 2
+[翻訳注]  The verse begins with the temporal indicator “And it was” (cf. KJV, ASV “And it came to pass”). This has been left untranslated for stylistic reasons.
+
+### Verse 23 - Note 3
+[翻訳注]  Heb “in those many days.”
+
+### Verse 23 - Note 4
+[翻訳注]  Heb “the sons of Israel.”
+
+### Verse 23 - Note 5
+[翻訳注]  “They cried out” is from זָעַק (za’aq), and “desperate cry” is from שַׁוְעָה (shava’h).
+
+### Verse 24 - Note 1
+[解説]  The word for this painfully intense “groaning” appears elsewhere to describe a response to having two broken arms (Ezek 30:24).
+
+### Verse 24 - Note 2
+[解説]  The two verbs “heard” and “remembered,” both preterites, say far more than they seem to say. The verb שָׁמַע (shama’, “to hear”) ordinarily includes responding to what is heard. It can even be found in idiomatic constructions meaning “to obey.” To say God heard their complaint means that God responded to it. Likewise, the verb זָכַר (zakhar, “to remember”) means to begin to act on the basis of what is remembered. A prayer to God that says, “Remember me,” is asking for more than mere recollection (see B. S. Childs, Memory and Tradition in Israel [SBT], 1-8). The structure of this section at the end of the chapter is powerful. There are four descriptions of the Israelites, with a fourfold reaction from God. On the Israelites’ side, they groaned (אָנַח [’anakh], נְאָקָה [nÿ’aqah]) and cried out (זָעַק [za’aq], שַׁוְעָה [shav’ah]) to God. On the divine side God heard (שָׁמָע, shama’) their groaning, remembered (זָכַר, zakhar) his covenant, looked (רָאָה, ra’ah) at the Israelites, and took notice (יָדַע, yada’) of them. These verbs emphasize God’s sympathy and compassion for the people. God is near to those in need; in fact, the deliverer had already been chosen. It is important to note at this point the repetition of the word “God.” The text is waiting to introduce the name “Yahweh” in a special way. Meanwhile, the fourfold repetition of “God” in vv. 24-25 is unusual and draws attention to the statements about his attention to Israel’s plight.
+
+### Verse 25 - Note 1
+[翻訳注]  Heb “and God saw.”
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “and God knew” (יָדַע, yada’). The last clause contains a widely used verb for knowing, but it leaves the object unexpressed within the clause, so as to allow all that vv. 23-24 have described to serve as the compelling content of God’s knowing. (Many modern English versions supply an object for the verb following the LXX, which reads “knew them.”) The idea seems to be that God took personal knowledge of, noticed, or regarded them. In other passages the verb “know” is similar in meaning to “save” or “show pity.” See especially Gen 18:21, Ps 1:6; 31:7, and Amos 3:2. Exodus has already provided an example of the results of not knowing in 1:8 (cf. 5:2).

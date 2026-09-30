@@ -1,0 +1,313 @@
+# Exodus 14 (English)
+
+## Text
+
+**1**  The Lord spoke to Moses, 
+
+**2** “Tell the Israelites that they must turn and camp before Pi Hahiroth, between Migdol and the sea; you are to camp by the sea before Baal Zephon opposite it.
+
+**3** Pharaoh will think regarding the Israelites, ‘They are wandering around confused in the land—the desert has closed in on them.’
+
+**4** I will harden Pharaoh’s heart, and he will chase after them. I will gain honor because of Pharaoh and because of all his army, and the Egyptians will know that I am the Lord.” So this is what they did. 
+
+**5** When it was reported to the king of Egypt that the people had fled, the heart of Pharaoh and his servants was turned against the people, and the king and his servants said, “What in the world have we done? For we have released the people of Israel from serving us!”
+
+**6** Then he prepared his chariots and took his army with him.
+
+**7** He took 600 select chariots, and all the rest of the chariots of Egypt, and officers on all of them.
+
+**8** But the Lord hardened the heart of Pharaoh king of Egypt, and he chased after the Israelites. Now the Israelites were going out defiantly. 
+
+**9** The Egyptians chased after them, and all the horses and chariots of Pharaoh and his horsemen and his army overtook them camping by the sea, beside Pi Hahiroth, before Baal Zephon. 
+
+**10** When Pharaoh got closer, the Israelites looked up, and there were the Egyptians marching after them, and they were terrified. The Israelites cried out to the Lord, 
+
+**11** and they said to Moses, “Is it because there are no graves in Egypt that you have taken us away to die in the desert? What in the world have you done to us by bringing us out of Egypt? 
+
+**12** Isn’t this what we told you in Egypt, ‘Leave us alone so that we can serve the Egyptians, because it is better for us to serve the Egyptians than to die in the desert!’” 
+
+**13** Moses said to the people, “Do not fear! Stand firm and see the salvation of the Lord that he will provide for you today; for the Egyptians that you see today you will never, ever see again. 
+
+**14** The Lord will fight for you, and you can be still.” 
+
+**15** The Lord said to Moses, “Why do you cry out to me? Tell the Israelites to move on.
+
+**16** And as for you, lift up your staff and extend your hand toward the sea and divide it, so that the Israelites may go through the middle of the sea on dry ground. 
+
+**17** And as for me, I am going to harden the hearts of the Egyptians so that they will come after them, that I may be honored because of Pharaoh and his army and his chariots and his horsemen. 
+
+**18** And the Egyptians will know that I am the Lord when I have gained my honor because of Pharaoh, his chariots, and his horsemen.” 
+
+**19** The angel of God, who was going before the camp of Israel, moved and went behind them, and the pillar of cloud moved from before them and stood behind them.
+
+**20** It came between the Egyptian camp and the Israelite camp; it was a dark cloud and it lit up the night so that one camp did not come near the other the whole night. 
+
+**21** Moses stretched out his hand toward the sea, and the Lord drove the sea apart by a strong east wind all that night, and he made the sea into dry land, and the water was divided. 
+
+**22** So the Israelites went through the middle of the sea on dry ground, the water forming a wall for them on their right and on their left. 
+
+**23** The Egyptians chased them and followed them into the middle of the sea—all the horses of Pharaoh, his chariots, and his horsemen. 
+
+**24** In the morning watch the Lord looked down on the Egyptian army through the pillar of fire and cloud, and he threw the Egyptian army into a panic. 
+
+**25** He jammed the wheels of their chariots so that they had difficulty driving, and the Egyptians said, “Let’s flee from Israel, for the Lord fights for them against Egypt!” 
+
+**26** The Lord said to Moses, “Extend your hand toward the sea, so that the waters may flow back on the Egyptians, on their chariots, and on their horsemen!” 
+
+**27** So Moses extended his hand toward the sea, and the sea returned to its normal state when the sun began to rise. Now the Egyptians were fleeing before it, but the Lord overthrew the Egyptians in the middle of the sea. 
+
+**28** The water returned and covered the chariots and the horsemen and all the army of Pharaoh that was coming after the Israelites into the sea—not so much as one of them survived! 
+
+**29** But the Israelites walked on dry ground in the middle of the sea, the water forming a wall for them on their right and on their left. 
+
+**30** So the Lord saved Israel on that day from the power of the Egyptians, and Israel saw the Egyptians dead on the shore of the sea. 
+
+**31** When Israel saw the great power that the Lord had exercised over the Egyptians, they feared the Lord, and they believed in the Lord and in his servant Moses. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The account recorded in this chapter is one of the best known events in all of Scripture. In the argument of the book it marks the division between the bondage in Egypt and the establishment of the people as a nation. Here is the deliverance from Egypt. The chapter divides simply in two, vv. 1-14 giving the instructions, and vv. 15-31 reporting the victory. See among others, G. Coats, “History and Theology in the Sea Tradition,” ST 29 (1975): 53-62); A. J. Ehlen, “Deliverance at the Sea: Diversity and Unity in a Biblical Theme,” CTM 44 (1973): 168-91; J. B. Scott, “God’s Saving Acts,” The Presbyterian Journal 38 (1979): 12-14; W. Wifall, “The Sea of Reeds as Sheol,” ZAW 92 (1980): 325-32.
+
+### Verse 2 - Note 1
+[翻訳注]  The two imperfects follow the imperative and therefore express purpose. The point in the verses is that Yahweh was giving the orders for the direction of the march and the encampment by the sea.
+
+### Verse 2 - Note 2
+[解説]  The places have been tentatively identified. W. C. Kaiser summarizes the suggestions that Pi-Hahiroth as an Egyptian word may mean “temple of the [Syrian god] Hrt” or “The Hir waters of the canal” or “The Dwelling of Hator” (“Exodus,” EBC 2:387; see the literature on these names, including C. DeWit, The Date and Route of the Exodus, 17).
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “and Pharaoh will say.”
+
+### Verse 3 - Note 2
+[解説]  The word translated “wandering around confused” indicates that Pharaoh thought the Israelites would be so perplexed and confused that they would not know which way to turn in order to escape – and they would never dream of crossing the sea (S. R. Driver, Exodus, 115).
+
+### Verse 3 - Note 3
+[翻訳注]  The expression has also been translated “the desert has shut [the way] for them,” and more freely “[the Israelites are] hemmed in by the desert.”
+
+### Verse 4 - Note 1
+[翻訳注]  In this place the verb חָזַק (hazaq) is used; it indicates that God would make Pharaoh’s will strong or firm.
+
+### Verse 4 - Note 2
+[翻訳注]  The form is וְאִכָּבְדָה (vÿ’ikkavÿda), the Niphal cohortative; coming after the perfect tenses with vav (ו) consecutives expressing the future, this cohortative indicates the purpose of the hardening and chasing. Yahweh intended to gain glory by this final and great victory over the strength of Pharaoh. There is irony in this expression since a different form of the word was used frequently to describe Pharaoh’s hard heart. So judgment will not only destroy the wicked – it will reveal the glory and majesty of the sovereignty of God.
+
+### Verse 4 - Note 3
+[翻訳注]  This is the perfect tense with the vav (ו) consecutive. But it announces the fulfillment of an long standing purpose – that they might know.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “and they did so.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “and it was told.” The present translation uses “reported,” since this involves information given to a superior.
+
+### Verse 5 - Note 2
+[翻訳注]  The verb must be given a past perfect translation because the fleeing occurred before the telling.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “and they said.” The referent (the king and his servants) is supplied for clarity.
+
+### Verse 5 - Note 4
+[翻訳注]  The question literally is “What is this we have done?” The demonstrative pronoun is used as an enclitic particle for emphasis (R. J. Williams, Hebrew Syntax, 24, §118).
+
+### Verse 5 - Note 5
+[翻訳注]  Heb “released Israel.” By metonymy the name of the nation is used collectively for the people who constitute it (the Israelites).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “bound.”
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “his people.”
+
+### Verse 7 - Note 1
+[翻訳注]  The passive participle of the verb “to choose” means that these were “choice” or superb chariots.
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “every chariot of Egypt.” After the mention of the best chariots, the meaning of this description is “all the other chariots.”
+
+### Verse 7 - Note 3
+[翻訳注]  The word שָׁלִשִׁם (shalishim) means “officers” or some special kind of military personnel. At one time it was taken to mean a “three man chariot,” but the pictures of Egyptian chariots only show two in a chariot. It may mean officers near the king, “men of the third rank” (B. Jacob, Exodus, 394). So the chariots and the crew represented the elite. See the old view by A. E. Cowley that linked it to a Hittite word (“A Hittite Word in Hebrew,” JTS 21 [1920]: 326), and the more recent work by P. C. Craigie connecting it to Egyptian “commander” (“An Egyptian Expression in the Song of the Sea: Exodus XV.4,” VT 20 [1970]: 85).
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “with a high hand”; the expression means “defiantly,” “boldly,” or “with confidence.” The phrase is usually used for arrogant sin and pride, the defiant fist, as it were. The image of the high hand can also mean the hand raised to deliver a blow (Job 38:15). So the narrative here builds tension between these two resolute forces.
+
+### Verse 10 - Note 1
+[翻訳注]  The disjunctive vav introduces a circumstantial clause here.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “drew near.”
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “lifted up their eyes,” an expression that indicates an intentional and careful looking – they looked up and fixed their sights on the distance.
+
+### Verse 10 - Note 4
+[翻訳注]  The construction uses הִנֵּה (hinneh) with the participle, traditionally rendered “and behold, the Egyptians were marching after them.” The deictic particle calls attention in a dramatic way to what was being seen. It captures the surprise and the sudden realization of the people.
+
+### Verse 10 - Note 5
+[翻訳注]  The verb “feared” is intensified by the adverb מְאֹד (mÿ’od): “they feared greatly” or “were terrified.” In one look their defiant boldness seems to have evaporated.
+
+### Verse 10 - Note 6
+[解説]  Their cry to the Lord was proper and necessary. But their words to Moses were a rebuke and disloyal, showing a lack of faith and understanding. Their arrogance failed them in the crisis because it was built on the arm of flesh. Moses would have to get used to this murmuring, but here he takes it in stride and gives them the proper instructions. They had cried to the Lord, and now the Lord would deliver.
+
+### Verse 11 - Note 1
+[解説]  B. Jacob (Exodus, 396-97) notes how the speech is overly dramatic and came from a people given to using such exaggerations (Num 16:14), even using a double negative. The challenge to Moses brings a double irony. To die in the desert would be without proper burial, but in Egypt there were graves – it was a land of tombs and graves! Gesenius notes that two negatives in the sentence do not nullify each other but make the sentence all the more emphatic: “Is it because there were no graves…?” (GKC 483 §152.y).
+
+### Verse 11 - Note 2
+[翻訳注]  The demonstrative pronoun has the enclitic use again, giving a special emphasis to the question (R. J. Williams, Hebrew Syntax, 24, §118).
+
+### Verse 11 - Note 3
+[翻訳注]  The Hebrew term לְהוֹצִּיאָנוּ (lÿhotsi’anu) is the Hiphil infinitive construct with a suffix, “to bring us out.” It is used epexegetically here, explaining the previous question.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “Is not this the word that we spoke to you.”
+
+### Verse 12 - Note 2
+[解説]  U. Cassuto (Exodus, 164) explains this statement by the people as follows: “The question appears surprising at first, for we have not read previously that such words were spoken to Moses. Nor is the purport of the protest of the Israelite foremen (v 21 [5:21]) identical with that of the words uttered now. However, from a psychological standpoint the matter can be easily explained. In the hour of peril the children of Israel remember that remonstrance, and now it seems to them that it was of a sharper character and flowed from their foresight, and that the present situation justifies it, for death awaits them at this moment in the desert.” This declaration that “we told you so,” born of fright, need not have been strictly accurate or logical.
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “better for us to serve.”
+
+### Verse 12 - Note 4
+[翻訳注]  Since Hebrew does not use quotation marks to indicate the boundaries of quotations, there is uncertainty about whether the Israelites’ statement in Egypt includes the end of v. 12 or consists solely of “leave us alone so that we can serve the Egyptians.” In either case, the command to Moses to leave them alone rested on the assumption, spoken or unspoken, that serving Egypt would be less risky than what Moses was proposing. Now with the Egyptian army on the horizon, the Israelites are sure that their worst predictions are about to take place.
+
+### Verse 13 - Note 1
+[翻訳注]  The use of אַל (’al) with the jussive has the force of “stop fearing.” It is a more immediate negative command than לֹא (lo’) with the imperfect (as in the Decalogue).
+
+### Verse 13 - Note 2
+[翻訳注]  The force of this verb in the Hitpael is “to station oneself” or “stand firm” without fleeing.
+
+### Verse 13 - Note 3
+[翻訳注]  The form is an imperative with a vav (ו). It could also be rendered “stand firm and you will see” meaning the result, or “stand firm that you may see” meaning the purpose.
+
+### Verse 13 - Note 4
+[翻訳注]  Or “victory” (NAB) or “deliverance” (NIV, NRSV).
+
+### Verse 13 - Note 5
+[翻訳注]  Heb “do,” i.e., perform or accomplish.
+
+### Verse 13 - Note 6
+[翻訳注]  The construction uses a verbal hendiadys consisting of a Hiphil imperfect (“you will not add”) and a Qal infinitive construct with a suffix (“to see them”) – “you will no longer see them.” Then the clause adds “again, for ever.”[解説]  U. Cassuto (Exodus, 164) notes that the antithetical parallelism between seeing salvation and seeing the Egyptians, as well as the threefold repetition of the word “see” cannot be accidental; so too the alliteration of the last three words beginning with ayin (ע).
+
+### Verse 14 - Note 1
+[翻訳注]  The word order places emphasis on “the Lord” (Heb “Yahweh”).
+
+### Verse 14 - Note 2
+[翻訳注]  The imperfect tense needs to be interpreted in contrast to all that Yahweh will be doing. It may be given a potential imperfect nuance (as here), or it may be obligatory to follow the command to stand firm: “you must be still.”
+
+### Verse 15 - Note 1
+[翻訳注]  The text literally says, “speak to the Israelites that they may journey.” The intent of the line, using the imperative with the subordinate jussive or imperfect expressing purpose is that the speaking is the command to move.
+
+### Verse 16 - Note 1
+[翻訳注]  The conjunction plus pronoun (“and you”) is emphatic – “and as for you” – before the imperative “lift up.” In contrast, v. 17 begins with “and as for me, I….”
+
+### Verse 16 - Note 2
+[翻訳注]  The imperfect (or jussive) with the vav (ו) is sequential, coming after the series of imperatives instructing Moses to divide the sea; the form then gives the purpose (or result) of the activity – “that they may go.”
+
+### Verse 17 - Note 1
+[翻訳注]  הִנְנִי (hinni) before the participle gives it the force of a futur instans participle, meaning “I am about to harden” or “I am going to harden” their heart.
+
+### Verse 17 - Note 2
+[翻訳注]  The form again is the imperfect tense with vav (ו) to express the purpose or the result of the hardening. The repetition of the verb translated “come” is interesting: Moses is to divide the sea in order that the people may cross, but God will harden the Egyptians’ hearts in order that they may follow.
+
+### Verse 17 - Note 3
+[翻訳注]  For the comments on this verb see the discussion in v. 4. God would get glory by defeating Egypt.
+
+### Verse 17 - Note 4
+[翻訳注]  Or “I will get glory over.”
+
+### Verse 18 - Note 1
+[翻訳注]  The construction is unusual in that it says, “And Egypt will know.” The verb is plural, and so “Egypt” must mean “the Egyptians.” The verb is the perfect tense with the vav consecutive, showing that this recognition or acknowledgment by Egypt will be the result or purpose of the defeat of them by God.
+
+### Verse 18 - Note 2
+[翻訳注]  The form is בְּהִכָּבְדִי (bÿhikkavÿdi), the Niphal infinitive construct with a preposition and a suffix. For the suffix on a Niphal, see GKC 162-63 §61.c. The word forms a temporal clause in the line.
+
+### Verse 19 - Note 1
+[解説]  B. Jacob (Exodus, 400-401) makes a good case that there may have been only one pillar, one cloud; it would have been a dark cloud behind it, but in front of it, shining the way, a pillar of fire. He compares the manifestation on Sinai, when the mountain was on fire but veiled by a dark cloud (Deut 4:11; 5:22). See also Exod 13:21; Num 14:14; Deut 1:33; Neh 9:12, 19; Josh 24:7; Pss 78:14; 105:39.
+
+### Verse 20 - Note 1
+[翻訳注]  The two nouns “cloud” and “darkness” form a nominal hendiadys: “and it was the cloud and the darkness” means “and it was the dark cloud.” Perhaps this is what the Egyptians saw, preventing them from observing Moses and the Israelites.
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “this to this”; for the use of the pronouns in this reciprocal sense of “the one to the other,” see GKC 448 §139.e, n. 3.
+
+### Verse 20 - Note 3
+[写本注]  The LXX reads very differently at the end of this verse: “and there was darkness and blackness and the night passed.” B. S. Childs (Exodus [OTL], 218) summarizes three proposals: (1) One takes the MT as it stands and explains it along the lines of the Targum and Jewish exegesis, that there was one cloud that was dark to one group and light to the other. (2) Another tries to reconstruct a verb from the noun “darkness” or make some use of the Greek verb. (3) A third seeks a different meaning for the verb “lit,” “gave light” by comparative philology, but no consensus has been reached. Given that there is no easy solution apart from reconstructing the text, and given that the MT can be interpreted as it is, the present translation follows the MT.
+
+### Verse 21 - Note 1
+[翻訳注]  Or “drove the sea back” (NIV, NCV, NRSV, TEV). The verb is simply the Hiphil of הָלַךְ (halakh, “to walk, go”). The context requires that it be interpreted along the lines of “go back, go apart.”
+
+### Verse 22 - Note 1
+[翻訳注]  The clause literally reads, “and the waters [were] for them a wall.” The word order in Hebrew is disjunctive, with the vav (ו) on the noun introducing a circumstantial clause.[解説]  S. R. Driver (Exodus, 119), still trying to explain things with natural explanations, suggests that a northeast wind is to be thought of (an east wind would be directly in their face he says), such as a shallow ford might cooperate with an ebb tide in keeping a passage clear. He then quotes Dillmann about the “wall” of water: “A very summary poetical and hyperbolical (xv. 8) description of the occurrence, which at most can be pictured as the drying up of a shallow ford, on both sides of which the basin of the sea was much deeper, and remained filled with water.” There is no way to “water down” the text to fit natural explanations; the report clearly shows a miraculous work of God making a path through the sea – a path that had to be as wide as half a mile in order for the many people and their animals to cross between about 2:00 a.m. and 6:00 a.m. (W. C. Kaiser, Jr., “Exodus,” EBC 2:389). The text does not say that they actually only started across in the morning watch, however.
+
+### Verse 24 - Note 1
+[翻訳注]  The night was divided into three watches of about four hours each, making the morning watch about 2:00-6:00 a.m. The text has this as “the watch of the morning,” the genitive qualifying which of the night watches was meant.
+
+### Verse 24 - Note 2
+[翻訳注]  This particular verb, שָׁקַף (shaqaf) is a bold anthropomorphism: Yahweh looked down. But its usage is always with some demonstration of mercy or wrath. S. R. Driver (Exodus, 120) suggests that the look might be with fiery flashes to startle the Egyptians, throwing them into a panic. Ps 77:17-19 pictures torrents of rain with lightning and thunder.
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “camp.” The same Hebrew word is used in Exod 14:20. Unlike the English word “camp,” it can be used of a body of people at rest (encamped) or on the move.
+
+### Verse 24 - Note 4
+[翻訳注]  Heb “camp.”
+
+### Verse 24 - Note 5
+[翻訳注]  The verb הָמַם (hamam) means “throw into confusion.” It is used in the Bible for the panic and disarray of an army before a superior force (Josh 10:10; Judg 4:15).
+
+### Verse 25 - Note 1
+[翻訳注]  The word in the text is וַיָּסַר (vayyasar), which would be translated “and he turned aside” with the sense perhaps of removing the wheels. The reading in the LXX, Smr, and Syriac suggests a root אָסַר (’asar, “to bind”). The sense here might be “clogged – presumably by their sinking in the wet sand” (S. R. Driver, Exodus, 120).
+
+### Verse 25 - Note 2
+[翻訳注]  The clause is וַיְנַהֲגֵהוּ בִּכְבֵדֻת (vaynahagehu bikhvedut). The verb means “to drive a chariot”; here in the Piel it means “cause to drive.” The suffix is collective, and so the verbal form can be translated “and caused them to drive.” The idea of the next word is “heaviness” or “hardship”; it recalls the previous uses of related words to describe Pharaoh’s heart. Here it indicates that the driving of the crippled chariots was with difficulty.
+
+### Verse 25 - Note 3
+[翻訳注]  The cohortative has the hortatory use here, “Let’s flee.” Although the form is singular, the sense of it is plural and so hortatory can be used. The form is singular to agree with the singular subject, “Egypt,” which obviously means the Egyptian army. The word for “flee” is used when someone runs from fear of immanent danger and is a different word than the one used in 14:5.
+
+### Verse 25 - Note 4
+[翻訳注]  The form is the Niphal participle; it is used as the predicate here, that is, the verbal use: “the Lord is fighting.” This corresponds to the announcement in v. 14.
+
+### Verse 26 - Note 1
+[翻訳注]  The verb, “and they will return,” is here subordinated to the imperative preceding it, showing the purpose of that act.
+
+### Verse 27 - Note 1
+[翻訳注]  The Hebrew term לְאֵיתָנוֹ (lÿ’etano) means “to its place,” or better, “to its perennial state.” The point is that the sea here had a normal level, and now when the Egyptians were in the sea on the dry ground the water would return to that level.
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “at the turning of the morning”; NASB, NIV, TEV, CEV “at daybreak.”
+
+### Verse 27 - Note 3
+[翻訳注]  The clause begins with the disjunctive vav (ו) on the noun, signaling either a circumstantial clause or a new beginning. It could be rendered, “Although the Egyptians…Yahweh…” or “as the Egyptians….”
+
+### Verse 27 - Note 4
+[翻訳注]  The verb means “shake out” or “shaking off.” It has the significance of “throw downward.” See Neh 5:13 or Job 38:13.
+
+### Verse 28 - Note 1
+[翻訳注]  Heb “that was coming after them into the sea.” The referent of “them” (the Israelites) has been specified in the translation for clarity.
+
+### Verse 28 - Note 2
+[翻訳注]  Heb “not was left among them as much as one.”
+
+### Verse 30 - Note 1
+[翻訳注]  The Hebrew term וַיּוֹשַׁع (vayyosha’) is the key summation of the chapter, and this part of the book: “So Yahweh saved Israel.” This is the culmination of all the powerful works of God through these chapters.
+
+### Verse 30 - Note 2
+[翻訳注]  Heb “the hand,” with “hand” being a metonymy for power.
+
+### Verse 30 - Note 3
+[翻訳注]  The participle “dead” is singular, agreeing in form with “Egypt.”
+
+### Verse 31 - Note 1
+[翻訳注]  The preterite with the vav (ו) consecutive introduces a clause that is subordinate to the main points that the verse is making.
+
+### Verse 31 - Note 2
+[翻訳注]  Heb “the great hand,” with “hand” being a metonymy for work or power. The word play using “hand” contrasts the Lord’s hand/power at work on behalf of the Israelites with the hand/power of Egypt that would have killed them.
+
+### Verse 31 - Note 3
+[翻訳注]  Heb “did, made.”
+
+### Verse 31 - Note 4
+[翻訳注]  Heb “and the people feared.”
+
+### Verse 31 - Note 5
+[翻訳注]  The verb is the Hiphil preterite of אָמַן (’aman).[解説]  S. R. Driver says that the belief intended here is not simply a crediting of a testimony concerning a person or a thing, but a laying firm hold morally on a person or a thing (Exodus, 122). Others take the Hiphil sense to be declarative, and that would indicate a considering of the object of faith trustworthy or dependable, and therefore to be acted on. In this passage it does not mean that here they came to faith, but that they became convinced that he would save them in the future.
+
+### Verse 31 - Note 6
+[解説]  Here the title of “servant” is given to Moses. This is the highest title a mortal can have in the OT – the “servant of Yahweh.” It signifies more than a believer; it describes the individual as acting on behalf of God. For example, when Moses stretched out his hand, God used it as his own (Isa 63:12). Moses was God’s personal representative. The chapter records both a message of salvation and of judgment. Like the earlier account of deliverance at the Passover, this chapter can be a lesson on deliverance from present troubles – if God could do this for Israel, there is no trouble too great for him to overcome. The passage can also be understood as a picture (at least) of the deliverance at the final judgment on the world. But the Israelites used this account for a paradigm of the power of God: namely, God is able to deliver his people from danger because he is the sovereign Lord of creation. His people must learn to trust him, even in desperate situations; they must fear him and not the situation. God can bring any threat to an end by bringing his power to bear in judgment on the wicked.

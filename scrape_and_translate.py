@@ -141,7 +141,13 @@ def clean_note_html(note_text: str) -> str:
             
     return soup.get_text().strip()
 
-def translate_with_agy(raw_data: dict) -> dict:
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+API_KEY = os.getenv("GEMINI_API_KEY")
+
+def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
     """agy CLIを使ってJSON全体の英語を一括翻訳する"""
     # 送信用のデータ構造を整理
     payload = {
@@ -169,26 +175,56 @@ def translate_with_agy(raw_data: dict) -> dict:
         f"Output ONLY raw JSON, do not use markdown code blocks."
     )
 
-    # agy コマンドの構築
-    cmd = [
-        "agy", "-p",
-        prompt,
-        "--model", "gemini-3.7-flash-medium",
-        "--output-format", "json",
-        "--dangerously-skip-permissions"
-    ]
-    
-    print("    agy CLI を呼び出して一括翻訳中...")
     import time
     max_retries = 3
-    for attempt in range(max_retries):
-        result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
-        if result.returncode == 0:
-            break
-        print(f"    [警告] agyコマンドエラー (試行 {attempt + 1}/{max_retries}):\n{result.stderr}")
-        if attempt < max_retries - 1:
-            print("    10秒待機して再試行します...")
-            time.sleep(10)
+
+    if use_api:
+        print("    Gemini API (3.7-flash) を直接呼び出して翻訳中...")
+        import requests
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent?key={API_KEY}"
+        payload = {
+            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+            "generationConfig": {"responseMimeType": "application/json"}
+        }
+        max_retries_api = 10
+        for attempt in range(max_retries_api):
+            resp = requests.post(url, json=payload)
+            if resp.status_code == 200:
+                try:
+                    text = resp.json()['candidates'][0]['content']['parts'][0]['text']
+                    return json.loads(text)
+                except Exception as e:
+                    print(f"    [警告] APIレスポンス形式エラー: {e}")
+            else:
+                print(f"    [警告] APIエラー (試行 {attempt + 1}/{max_retries_api}): {resp.status_code}")
+            
+            if attempt < max_retries_api - 1:
+                print("    15秒待機して再試行します (混雑回避)...")
+                time.sleep(15)
+            else:
+                raise Exception("API translation failed after retries")
+
+    else:
+        # agy コマンドの構築
+        cmd = [
+            "agy", "-p",
+            prompt,
+            "--model", "gemini-3.7-flash-medium",
+            "--output-format", "json",
+            "--dangerously-skip-permissions"
+        ]
+        
+        print("    agy CLI を呼び出して一括翻訳中...")
+        for attempt in range(max_retries):
+            result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+            if result.returncode == 0:
+                break
+            print(f"    [警告] agyコマンドエラー (試行 {attempt + 1}/{max_retries}):\n{result.stderr}")
+            if attempt < max_retries - 1:
+                print("    10秒待機して再試行します...")
+                time.sleep(10)
+            else:
+                raise Exception("agy CLI translation failed after retries")
         else:
             raise Exception("agy CLI translation failed after retries")
         
@@ -215,7 +251,7 @@ def translate_with_agy(raw_data: dict) -> dict:
         raise
 
 
-def process_chapter(book: str, chapter: int) -> dict:
+def process_chapter(book: str, chapter: int, use_api: bool = False) -> dict:
     """1章分のデータを取得・翻訳"""
     book_dir_name = book.replace(" ", "_")
     chap_dir = os.path.join(DATA_DIR, book_dir_name, str(chapter))
@@ -248,7 +284,7 @@ def process_chapter(book: str, chapter: int) -> dict:
 
     # 翻訳
     print(f"  翻訳中 (agy使用): {book} {chapter}")
-    translated_data = translate_with_agy(raw_data) if "raw_data" in locals() else translate_with_agy({"notes": notes, "text_data": text_data})
+    translated_data = translate_with_agy(raw_data, use_api) if "raw_data" in locals() else translate_with_agy({"notes": notes, "text_data": text_data}, use_api)
 
     result = {
         "book": book,
@@ -413,6 +449,7 @@ def generate_chapter_html(data: dict, available_chapters: dict) -> str:
     </section>
 
     <aside class="notes-panel" id="notesPanel">
+      <div class="notes-mobile-handle" id="notesHandle"></div>
       <h2>NET Notes (翻訳者注)</h2>
       <div class="notes-content">
         {notes_html}
@@ -802,21 +839,72 @@ header {
 }
 
 /* --- Responsive --- */
+@media (min-width: 1025px) {
+  .notes-mobile-handle { display: none; }
+}
+
 @media (max-width: 1024px) {
   .reader {
-    grid-template-columns: 1fr;
-  }
-
-  .notes-panel {
-    border-left: none;
-    border-top: 1px solid var(--border-color);
-    position: static;
-    max-height: none;
+    display: flex;
+    flex-direction: column;
+    height: calc(100dvh - 60px);
+    overflow: hidden;
   }
 
   .text-panel {
-    padding: 1.5rem;
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.5rem 1rem;
   }
+
+  .notes-panel {
+    flex: none;
+    border-left: none;
+    border-top: 1px solid var(--border-color);
+    position: relative;
+    max-height: none;
+    height: 25dvh; /* コンパクト表示 */
+    overflow-y: auto;
+    transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 -4px 12px rgba(0,0,0,0.05);
+    padding-top: 0;
+  }
+
+  .reader.notes-expanded .notes-panel {
+    height: 65dvh; /* 拡大表示 */
+  }
+
+  .reader.notes-hidden .notes-panel {
+    height: 0;
+    padding: 0;
+    border: none;
+    overflow: hidden;
+  }
+
+  /* スマホ用ドラッグハンドル（タップ領域） */
+  .notes-mobile-handle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background: var(--bg-primary);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-color);
+    margin: 0 -1.5rem 1.5rem -1.5rem;
+  }
+  
+  .notes-mobile-handle::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 5px;
+    background: var(--border-color);
+    border-radius: 3px;
+  }
+
 }
 
 @media (max-width: 600px) {
@@ -886,12 +974,28 @@ document.querySelectorAll('.note-ref').forEach(ref => {
       document.querySelectorAll('.note.highlight').forEach(n => n.classList.remove('highlight'));
       // ハイライト
       noteEl.classList.add('highlight');
+      
+      // スマホの場合は自動で拡大パネルにする
+      const reader = document.querySelector('.reader');
+      reader.classList.remove('notes-hidden');
+      if (window.innerWidth <= 1024) {
+        reader.classList.add('notes-expanded');
+      }
+      
       noteEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   });
 });
 
-// 注パネル表示切替
+// スマホ用: 注のハンドルをタップで開閉
+const notesHandle = document.getElementById('notesHandle');
+if (notesHandle) {
+  notesHandle.addEventListener('click', () => {
+    document.querySelector('.reader').classList.toggle('notes-expanded');
+  });
+}
+
+// 注パネル表示切替 ([注] ボタン)
 const toggleNotesBtn = document.getElementById('toggleNotes');
 if (toggleNotesBtn) {
   toggleNotesBtn.addEventListener('click', () => {
@@ -982,11 +1086,17 @@ def generate_index_html(available_chapters: dict) -> str:
 def main():
     import sys
 
+    args = sys.argv[1:]
+    use_api = False
+    if "--api" in args:
+        use_api = True
+        args.remove("--api")
+
     # コマンドライン引数: python scrape_and_translate.py Genesis 1
     # 範囲指定: python scrape_and_translate.py Genesis 4-10 (または 4~10)
-    if len(sys.argv) >= 3:
-        book = sys.argv[1]
-        ch_arg = sys.argv[2]
+    if len(args) >= 2:
+        book = args[0]
+        ch_arg = args[1]
         if "-" in ch_arg or "~" in ch_arg:
             delimiter = "-" if "-" in ch_arg else "~"
             try:
@@ -998,8 +1108,8 @@ def main():
         else:
             chapter = int(ch_arg)
             books_to_process = [(book, chapter)]
-    elif len(sys.argv) >= 2:
-        book = sys.argv[1]
+    elif len(args) == 1:
+        book = args[0]
         books_to_process = [(book, ch) for ch in range(1, BOOKS.get(book, 1) + 1)]
     else:
         # デフォルト: Genesis 1
@@ -1019,7 +1129,7 @@ def main():
     for book, chapter in books_to_process:
         print(f"\n=== {book} {chapter} ===")
         try:
-            data = process_chapter(book, chapter)
+            data = process_chapter(book, chapter, use_api)
             export_markdown(data)
         except Exception as e:
             print(f"  エラー: {e}")

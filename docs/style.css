@@ -373,21 +373,72 @@ header {
 }
 
 /* --- Responsive --- */
+@media (min-width: 1025px) {
+  .notes-mobile-handle { display: none; }
+}
+
 @media (max-width: 1024px) {
   .reader {
-    grid-template-columns: 1fr;
-  }
-
-  .notes-panel {
-    border-left: none;
-    border-top: 1px solid var(--border-color);
-    position: static;
-    max-height: none;
+    display: flex;
+    flex-direction: column;
+    height: calc(100dvh - 60px);
+    overflow: hidden;
   }
 
   .text-panel {
-    padding: 1.5rem;
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.5rem 1rem;
   }
+
+  .notes-panel {
+    flex: none;
+    border-left: none;
+    border-top: 1px solid var(--border-color);
+    position: relative;
+    max-height: none;
+    height: 25dvh; /* コンパクト表示 */
+    overflow-y: auto;
+    transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 -4px 12px rgba(0,0,0,0.05);
+    padding-top: 0;
+  }
+
+  .reader.notes-expanded .notes-panel {
+    height: 65dvh; /* 拡大表示 */
+  }
+
+  .reader.notes-hidden .notes-panel {
+    height: 0;
+    padding: 0;
+    border: none;
+    overflow: hidden;
+  }
+
+  /* スマホ用ドラッグハンドル（タップ領域） */
+  .notes-mobile-handle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background: var(--bg-primary);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-color);
+    margin: 0 -1.5rem 1.5rem -1.5rem;
+  }
+  
+  .notes-mobile-handle::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 5px;
+    background: var(--border-color);
+    border-radius: 3px;
+  }
+
 }
 
 @media (max-width: 600px) {

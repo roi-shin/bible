@@ -11,12 +11,28 @@ document.querySelectorAll('.note-ref').forEach(ref => {
       document.querySelectorAll('.note.highlight').forEach(n => n.classList.remove('highlight'));
       // ハイライト
       noteEl.classList.add('highlight');
+      
+      // スマホの場合は自動で拡大パネルにする
+      const reader = document.querySelector('.reader');
+      reader.classList.remove('notes-hidden');
+      if (window.innerWidth <= 1024) {
+        reader.classList.add('notes-expanded');
+      }
+      
       noteEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   });
 });
 
-// 注パネル表示切替
+// スマホ用: 注のハンドルをタップで開閉
+const notesHandle = document.getElementById('notesHandle');
+if (notesHandle) {
+  notesHandle.addEventListener('click', () => {
+    document.querySelector('.reader').classList.toggle('notes-expanded');
+  });
+}
+
+// 注パネル表示切替 ([注] ボタン)
 const toggleNotesBtn = document.getElementById('toggleNotes');
 if (toggleNotesBtn) {
   toggleNotesBtn.addEventListener('click', () => {

@@ -1,0 +1,271 @@
+# Exodus 3 (English)
+
+## Text
+
+**1** Now Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian, and he led the flock to the far side of the desert and came to the mountain of God, to Horeb. 
+
+**2** The angel of the Lord appeared to him in a flame of fire from within a bush. He looked, and the bush was ablaze with fire, but it was not being consumed! 
+
+**3** So Moses thought, “I will turn aside to see this amazing sight. Why does the bush not burn up?” 
+
+**4** When the Lord saw that he had turned aside to look, God called to him from within the bush and said, “Moses, Moses!” And Moses said, “Here I am.”
+
+**5** God said, “Do not approach any closer! Take your sandals off your feet, for the place where you are standing is holy ground.” 
+
+**6** He added, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Then Moses hid his face, because he was afraid to look at God. 
+
+**7** The Lord said, “I have surely seen the affliction of my people who are in Egypt. I have heard their cry because of their taskmasters, for I know their sorrows. 
+
+**8** I have come down to deliver them from the hand of the Egyptians and to bring them up from that land to a land that is both good and spacious, to a land flowing with milk and honey, to the region of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. 
+
+**9** And now indeed the cry of the Israelites has come to me, and I have also seen how severely the Egyptians oppress them.
+
+**10** So now go, and I will send you to Pharaoh to bring my people, the Israelites, out of Egypt.” 
+
+**11** Moses said to God, “Who am I that I should go to Pharaoh, or that I should bring the Israelites out of Egypt?” 
+
+**12** He replied, “Surely I will be with you, and this will be the sign to you that I have sent you: When you bring the people out of Egypt, you and they will serve God at this mountain.” 
+
+**13** Moses said to God, “If I go to the Israelites and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’—what should I say to them?”
+
+**14** God said to Moses, “I AM that I AM.” And he said, “You must say this to the Israelites, ‘I AM has sent me to you.’”
+
+**15** God also said to Moses, “You must say this to the Israelites, ‘The Lord—the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you. This is my name forever, and this is my memorial from generation to generation.’ 
+
+**16** “Go and bring together the elders of Israel and tell them, ‘The Lord, the God of your fathers, appeared to me—the God of Abraham, Isaac, and Jacob—saying, “I have attended carefully to you and to what has been done to you in Egypt, 
+
+**17** and I have promised that I will bring you up out of the affliction of Egypt to the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites, to a land flowing with milk and honey.”’ 
+
+**18** “The elders will listen to you, and then you and the elders of Israel must go to the king of Egypt and tell him, ‘The Lord, the God of the Hebrews, has met with us. So now, let us go three days’ journey into the wilderness, so that we may sacrifice to the Lord our God.’ 
+
+**19** But I know that the king of Egypt will not let you go, not even under force. 
+
+**20** So I will extend my hand and strike Egypt with all my wonders that I will do among them, and after that he will release you. 
+
+**21** “I will grant this people favor with the Egyptians, so that when you depart you will not leave empty-handed. 
+
+**22** Every woman will ask her neighbor and the one who happens to be staying in her house for items of silver and gold and for clothing. You will put these articles on your sons and daughters—thus you will plunder Egypt!” 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The vav (ו) disjunctive with the name “Moses” introduces a new and important starting point. The Lord’s dealing with Moses will fill the next two chapters.
+
+### Verse 1 - Note 2
+[翻訳注]  Or “west of the desert,” taking אַחַר (’akhar, “behind”) as the opposite of עַל־פְּנֵי (’al-pÿne, “on the face of, east of”; cf. Gen 16:12; 25:18).
+
+### Verse 1 - Note 3
+[解説]  “Horeb” is another name for Mount Sinai. There is a good deal of foreshadowing in this verse, for later Moses would shepherd the people of Israel and lead them to Mount Sinai to receive the Law. See D. Skinner, “Some Major Themes of Exodus,” Mid-America Theological Journal 1 (1977): 31-42.
+
+### Verse 2 - Note 1
+[解説]  The designation “the angel of the Lord” (Heb “the angel of Yahweh”) occurred in Genesis already (16:7-13; 21:17; 22:11-18). There is some ambiguity in the expression, but it seems often to be interchangeable with God’s name itself, indicating that it refers to the Lord.
+
+### Verse 2 - Note 2
+[翻訳注]  The verb וַיֵּרָא (vayyera’) is the Niphal preterite of the verb “to see.” For similar examples of רָאָה (ra’ah) in Niphal where the subject “appears,” that is, allows himself to be seen, or presents himself, see Gen 12:7; 35:9; 46:29; Exod 6:3; and 23:17. B. Jacob notes that God appears in this way only to individuals and never to masses of people; it is his glory that appears to the masses (Exodus, 49).
+
+### Verse 2 - Note 3
+[翻訳注]  Gesenius rightly classifies this as a bet (ב) essentiae (GKC 379 §119.i); it would then indicate that Yahweh appeared to Moses “as a flame.”
+
+### Verse 2 - Note 4
+[解説]  Fire frequently accompanies the revelation of Yahweh in Exodus as he delivers Israel, guides her, and purifies her. The description here is unique, calling attention to the manifestation as a flame of fire from within the bush. Philo was the first to interpret the bush as Israel, suffering under the persecution of Egypt but never consumed. The Bible leaves the interpretation open. However, in this revelation the fire is coming from within the bush, not from outside, and it represents the Lord who will deliver his people from persecution. See further E. Levine, “The Evolving Symbolism of the Burning Bush,” Dor le Dor 8 (1979): 185-93.
+
+### Verse 2 - Note 5
+[翻訳注]  Heb “And he saw.”
+
+### Verse 2 - Note 6
+[翻訳注]  The text again uses the deictic particle with vav, וְהִנֵּה (vÿhinneh), traditionally rendered “and behold.” The particle goes with the intense gaze, the outstretched arm, the raised eyebrow – excitement and intense interest: “look, over there.” It draws the reader into the immediate experience of the subject.
+
+### Verse 2 - Note 7
+[翻訳注]  The construction uses the suffixed negative אֵינֶנּוּ (’enennu) to convey the subject of the passive verb: “It was not” consumed. This was the amazing thing, for nothing would burn faster in the desert than a thornbush on fire.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “And Moses said.” The implication is that Moses said this to himself.
+
+### Verse 3 - Note 2
+[翻訳注]  The construction uses the cohortative אָסֻרָה־נָּא (’asura-nna’) followed by an imperfect with vav (וְאֶרְאֶה, vÿ’er’eh) to express the purpose or result (logical sequence): “I will turn aside in order that I may see.”
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “great.” The word means something extraordinary here. In using this term Moses revealed his reaction to the strange sight and his anticipation that something special was about to happen. So he turned away from the flock to investigate.
+
+### Verse 3 - Note 4
+[翻訳注]  The verb is an imperfect. Here it has the progressive nuance – the bush is not burning up.
+
+### Verse 4 - Note 1
+[翻訳注]  The preterite with the vav (ו) is subordinated as a temporal clause to the main point of the verse, that God called to him. The language is anthropomorphic, as if God’s actions were based on his observing what Moses did.
+
+### Verse 4 - Note 2
+[翻訳注]  The particle כִּי (ki, “that”) introduces the noun clause that functions as the direct object of the verb “saw” (R. J. Williams, Hebrew Syntax, 81, §490).
+
+### Verse 4 - Note 3
+[解説]  The repetition of the name in God’s call is emphatic, making the appeal direct and immediate (see also Gen 22:11; 46:2). The use of the personal name shows how specifically God directed the call and that he knew this person. The repetition may have stressed even more that it was indeed he whom the Lord wanted. It would have been an encouragement to Moses that this was in fact the Lord who was meeting him.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “And he said”; the referent (Moses) has been specified in the translation for clarity.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “And he”; the referent (God) has been specified in the translation for clarity.
+
+### Verse 5 - Note 2
+[解説]  Even though the Lord was drawing near to Moses, Moses could not casually approach him. There still was a barrier between God and human, and God had to remind Moses of this with instructions. The removal of sandals was, and still is in the East, a sign of humility and reverence in the presence of the Holy One. It was a way of excluding the dust and dirt of the world. But it also took away personal comfort and convenience and brought the person more closely in contact with the earth.
+
+### Verse 5 - Note 3
+[解説]  The word קֹדֶשׁ (qodesh, “holy”) indicates “set apart, distinct, unique.” What made a mountain or other place holy was the fact that God chose that place to reveal himself or to reside among his people. Because God was in this place, the ground was different – it was holy.
+
+### Verse 5 - Note 4
+[翻訳注]  The causal clause includes within it a typical relative clause, which is made up of the relative pronoun, then the independent personal pronoun with the participle, and then the preposition with the resumptive pronoun. It would literally be “which you are standing on it,” but the relative pronoun and the resumptive pronoun are combined and rendered, “on which you are standing.”
+
+### Verse 6 - Note 1
+[解説]  This self-revelation by Yahweh prepares for the revelation of the holy name. While no verb is used here, the pronoun and the predicate nominative are a construction used throughout scripture to convey the “I am” disclosures – “I [am] the God of….” But the significant point here is the naming of the patriarchs, for this God is the covenant God, who will fulfill his promises.
+
+### Verse 6 - Note 2
+[翻訳注]  The clause uses the Hiphil infinitive construct with a preposition after the perfect tense: יָרֵא מֵהַבִּיט (yare’ mehabbit, “he was afraid from gazing”) meaning “he was afraid to gaze.” The preposition min (מִן) is used before infinitives after verbs like the one to complete the verb (see BDB 583 s.v. 7b).
+
+### Verse 7 - Note 1
+[翻訳注]  The use of the infinitive absolute with the perfect tense intensifies the statement: I have surely seen – there is no doubt that I have seen and will do something about it.
+
+### Verse 7 - Note 2
+[解説]  Two new words are introduced now to the report of suffering: “affliction” and “pain/suffering.” These add to the dimension of the oppression of God’s people.
+
+### Verse 8 - Note 1
+[解説]  God’s coming down is a frequent anthropomorphism in Genesis and Exodus. It expresses his direct involvement, often in the exercise of judgment.
+
+### Verse 8 - Note 2
+[翻訳注]  The Hiphil infinitive with the suffix is לְהַצִּילוֹ (lÿhatsilo, “to deliver them”). It expresses the purpose of God’s coming down. The verb itself is used for delivering or rescuing in the general sense, and snatching out of danger for the specific.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “to a land good and large”; NRSV “to a good and broad land.” In the translation the words “that is both” are supplied because in contemporary English “good and” combined with any additional descriptive term can be understood as elative (“good and large” = “very large”; “good and spacious” = “very spacious”; “good and ready” = “very ready”). The point made in the Hebrew text is that the land to which they are going is both good (in terms of quality) and large (in terms of size).
+
+### Verse 8 - Note 4
+[翻訳注]  This vibrant description of the promised land is a familiar one. Gesenius classifies “milk and honey” as epexegetical genitives because they provide more precise description following a verbal adjective in the construct state (GKC 418-19 §128.x). The land is modified by “flowing,” and “flowing” is explained by the genitives “milk and honey.” These two products will be in abundance in the land, and they therefore exemplify what a desirable land it is. The language is hyperbolic, as if the land were streaming with these products.
+
+### Verse 8 - Note 5
+[翻訳注]  Each people group is joined to the preceding by the vav conjunction, “and.” Each also has the definite article, as in other similar lists (3:17; 13:5; 34:11). To repeat the conjunction and article in the translation seems to put more weight on the list in English than is necessary to its function in identifying what land God was giving the Israelites.
+
+### Verse 9 - Note 1
+[翻訳注]  The particle הִנֵּה (hinneh) focuses attention on what is being said as grounds for what follows.
+
+### Verse 9 - Note 2
+[翻訳注]  The word is a technical term for the outcry one might make to a judge. God had seen the oppression and so knew that the complaints were accurate, and so he initiated the proceedings against the oppressors (B. Jacob, Exodus, 59).
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “seen the oppression with which the Egyptians oppress them.” The word for the oppression is now לַחַץ (lakhats), which has the idea of pressure with the oppression – squeezing, pressuring – which led to its later use in the Semitic languages for torture. The repetition in the Hebrew text of the root in the participle form after this noun serves to stress the idea. This emphasis has been represented in the translation by the expression “seen how severely the Egyptians oppress them.”
+
+### Verse 10 - Note 1
+[翻訳注]  The verse has a sequence of volitives. The first form is the imperative לְכָה (lÿkha, “go”). Then comes the cohortative/imperfect form with the vav (ו), “and I will send you” or more likely “that I may send you” (וְאֶשְׁלָחֲךָ, vÿ’eshlakhakha), which is followed by the imperative with the vav, “and bring out” or “that you may bring out” (וְהוֹצֵא, vÿhotse’). The series of actions begins with Moses going. When he goes, it will be the Lord who sends him, and if the Lord sends him, it will be with the purpose of leading Israel out of Egypt.[解説]  These instructions for Moses are based on the preceding revelation made to him. The deliverance of Israel was to be God’s work – hence, “I will send you.” When God commissioned people, often using the verb “to send,” it indicated that they went with his backing, his power, and his authority. Moses could not have brought Israel out without this. To name this incident a commissioning, then, means that the authority came from God to do the work (compare John 3:2).
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “And Moses said.”
+
+### Verse 11 - Note 2
+[解説]  When he was younger, Moses was confident and impulsive, but now that he is older the greatness of the task makes him unsure. The remainder of this chapter and the next chapter record the four difficulties of Moses and how the Lord answers them (11-12, 13-22; then 4:1-9; and finally 4:10-17).
+
+### Verse 11 - Note 3
+[翻訳注]  The imperfect tense אֵלֵךְ (’elekh) carries the modal nuance of obligatory imperfect, i.e., “that I should go.” Moses at this point is overwhelmed with the task of representing God, and with his personal insufficiency, and so in honest humility questions the choice.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “And he said”; the word “replied” clarifies for English readers that speaker is God.
+
+### Verse 12 - Note 2
+[翻訳注]  The particle כִּי (ki) has the asseverative use here, “surely, indeed,” which is frequently found with oaths (R. J. Williams, Hebrew Syntax, 73, §449). The imperfect tense אֶהְיֶה (’ehyeh) could be rendered as the future tense, “I will be” or the present tense “I am” with you. The future makes the better sense in this case, since the subject matter is the future mission. But since it is a stative verb, the form will also lend itself nicely to explaining the divine name – he is the One who is eternally present – “I am with you always.”[解説]  Here is the introduction of the main motif of the commission, which will be the explanation of the divine name. It will make little difference who the servant is or what that servant’s abilities might be, if God is present. The mention of God’s presence is not a simple catch-phrase; it represents abundant provisions to the believer (see below on v. 14).
+
+### Verse 12 - Note 3
+[解説]  In view of Moses’ hesitancy, a sign is necessary to support the promise. A sign is often an unusual or miraculous event that introduces, authenticates, or illustrates the message. One expects a direct connection between the sign and the message (for a helpful discussion, see S. Porúbcan, “The Word ’OT in Isaia 7,14,” CBQ 22 [1960]: 144-49). In this passage the sign is a confirming one, i.e., when Israel worships at the mountain that will be the proof that God delivered them from Egypt. Thus, the purpose of the exodus that makes possible the worship will be to prove that it was God who brought it about. In the meantime, Moses will have to trust in Yahweh.
+
+### Verse 12 - Note 4
+[翻訳注]  The verb תַּעַבְדוּן (ta’avdun, “you will serve”) is one of the foremost words for worship in the Torah. Keeping the commandments and serving Yahweh usually sum up the life of faith; the true worshiper seeks to obey him. The highest title anyone can have in the OT is “the servant of Yahweh.” The verb here could be rendered interpretively as “worship,” but it is better to keep it to the basic idea of serving because that emphasizes an important aspect of worship, and it highlights the change from Israel’s serving Egypt, which has been prominent in the earlier chapters. The words “and they” are supplied to clarify for English readers that the subject of the verb is plural (Moses and the people), unlike the other second person forms in vv. 10 and 12, which are singular.[解説]  This sign is also a promise from God – “you will serve God on this mountain.” It is given to Moses here as a goal, but a goal already achieved because it was a sign from God. Leading Israel out of Egypt would not be completed until they came to this mountain and served God. God does not give Moses details of what will take place on the road to Sinai, but he does give him the goal and glimpses of the defeat of Pharaoh. The rest will require Moses and the people to trust in this God who had a plan and who had the power to carry it out.
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “And Moses said.”
+
+### Verse 13 - Note 2
+[翻訳注]  The particle הִנֵּה (hinneh) in this clause introduces the foundation for what comes later – the question. Moses is saying, “Suppose I do all this and they ask this question – what should I say?”
+
+### Verse 13 - Note 3
+[解説]  There has been considerable debate about the name of Yahweh in the Pentateuch, primarily because of theories that have maintained that the name Yahweh was not known in antiquity (see also 6:3 and notes there). The argument of this whole section nullifies that view. The idea that God’s name was revealed only here raises the question of what he was called earlier. The word “God” is not a name. “El Shaddai” is used only a few times in Genesis. But Israel would not have had a nameless deity – especially since Genesis says that from the very beginning people were making proclamation of the name of Yahweh (Gen 4:26; 12:8). It is possible that they did not always need a name if they were convinced that only he existed and there was no other God. But probably what Moses was anticipating was the Israelites’ wanting to be sure that Moses came with a message from their God, and that some sign could prove it. They would have known his name (Yahweh), and they would have known the ways that he had manifested himself. It would do no good for Moses to come with a new name for God, for that would be like introducing them to a new God. That would in no way authenticate to them Moses’ call, only confuse; after all, they would not be expecting a new name – they had been praying to their covenant God all along. They would want to be sure that their covenant God actually had sent Moses. To satisfy the Israelites Moses would have had to have been familiar with the name Yahweh – as they were – and know that he appeared to individuals. They would also want to know if Yahweh had sent Moses, how this was going to work in their deliverance, because they had been crying to him for deliverance. As it turned out, the Israelites had less problem with this than Moses anticipated – they were delighted when he came. It is likely that much of this concern was Moses’ own need for assurance that this was indeed the God of the fathers and that the promised deliverance was now to take place.
+
+### Verse 13 - Note 4
+[翻訳注]  The imperfect tense here has a deliberative nuance (“should”), for Moses is wondering what would be best to say when the Israelites want proof of the calling.
+
+### Verse 14 - Note 1
+[翻訳注]  The verb form used here is אֶהְיֶה (’ehyeh), the Qal imperfect, first person common singular, of the verb הָיָה (haya, “to be”). It forms an excellent paronomasia with the name. So when God used the verb to express his name, he used this form saying, “I am.” When his people refer to him as Yahweh, which is the third person masculine singular form of the same verb, they say “he is.” Some commentators argue for a future tense translation, “I will be who I will be,” because the verb has an active quality about it, and the Israelites lived in the light of the promises for the future. They argue that “I am” would be of little help to the Israelites in bondage. But a translation of “I will be” does not effectively do much more except restrict it to the future. The idea of the verb would certainly indicate that God is not bound by time, and while he is present (“I am”) he will always be present, even in the future, and so “I am” would embrace that as well (see also Ruth 2:13; Ps 50:21; Hos 1:9). The Greek translation of the OT used a participle to capture the idea, and several times in the Gospels Jesus used the powerful “I am” with this significance (e.g., John 8:58). The point is that Yahweh is sovereignly independent of all creation and that his presence guarantees the fulfillment of the covenant (cf. Isa 41:4; 42:6, 8; 43:10-11; 44:6; 45:5-7). Others argue for a causative Hiphil translation of “I will cause to be,” but nowhere in the Bible does this verb appear in Hiphil or Piel. A good summary of the views can be found in G. H. Parke-Taylor, Yahweh, the Divine Name in the Bible. See among the many articles: B. Beitzel, “Exodus 3:14 and the Divine Name: A Case of Biblical Paronomasia,” TJ 1 (1980): 5-20; C. D. Isbell, “The Divine Name ehyeh as a Symbol of Presence in Israelite Tradition,” HAR 2 (1978): 101-18; J. G. Janzen, “What’s in a Name? Yahweh in  and the Wider Biblical Context,” Int 33 (1979): 227-39; J. R. Lundbom, “God’s Use of the Idem per Idem to Terminate Debate,” HTR 71 (1978): 193-201; A. R. Millard, “Yw and Yhw Names,” VT 30 (1980): 208-12; and R. Youngblood, “A New Occurrence of the Divine Name ‘I AM,’” JETS 15 (1972): 144-52.
+
+### Verse 14 - Note 2
+[翻訳注]  Or “Thus you shall say” (also in the following verse). The word “must” in the translation conveys the instructional and imperatival force of the statement.
+
+### Verse 15 - Note 1
+[解説]  Heb “Yahweh,” traditionally rendered “the Lord.” First the verb “I AM” was used (v. 14) in place of the name to indicate its meaning and to remind Moses of God’s promise to be with him (v. 12). Now in v. 15 the actual name is used for clear identification: “Yahweh…has sent me.” This is the name that the patriarchs invoked and proclaimed in the land of Canaan.
+
+### Verse 15 - Note 2
+[解説]  The words “name” and “memorial” are at the heart of the two parallel clauses that form a poetic pair. The Hebrew word “remembrance” is a poetical synonym for “name” (cf. Job 18:17; Ps 135:13; Prov 10:7; Isa 26:8) and conveys the idea that the nature or character of the person is to be remembered and praised (S. R. Driver, Exodus, 24).
+
+### Verse 15 - Note 3
+[翻訳注]  The repetition of “generation” in this expression serves as a periphrasis for the superlative: “to the remotest generation” (GKC 432 §133.l).
+
+### Verse 16 - Note 1
+[翻訳注]  The form is the perfect tense with the sequential vav (ו) linking the nuance to the imperative that precedes it. Since the imperative calls for immediate action, this form either carries the same emphasis, or instructs action that immediately follows it. This applies likewise to “say,” which follows.
+
+### Verse 16 - Note 2
+[解説]  “The God of your fathers” is in simple apposition to the name “the Lord” (Heb “Yahweh”) as a recognizable identification. If the holy name were a new one to the Israelites, an explanation would have been needed. Meanwhile, the title “God of my/your/our father(s)” was widely used in the ancient Near East and also in Genesis (26:24; 28:13; 31:5, 29; 46:1, 3; N. M. Sarna, Exodus [JPSTC], 268).
+
+### Verse 16 - Note 3
+[翻訳注]  The form is the Niphal perfect of the verb “to see.” See the note on “appeared” in 3:2.
+
+### Verse 16 - Note 4
+[翻訳注]  The verb פָּקַד (paqad) has traditionally been rendered “to visit.” This only partially communicates the point of the word. When God “visited” someone, it meant that he intervened in their lives to change their circumstances or their destiny. When he visited the Amalekites, he destroyed them (1 Sam 15:2). When he visited Sarah, he provided the long awaited child (Gen 21:1). It refers to God’s active involvement in human affairs for blessing or for cursing. Here it would mean that God had begun to act to deliver the Israelites from bondage and give them the blessings of the covenant. The form is joined here with the infinitive absolute to underscore the certainty – “I have indeed visited you.” Some translate it “remember”; others say “watch over.” These do not capture the idea of intervention to bless, and often with the idea of vengeance or judgment on the oppressors. If God were to visit what the Egyptians did, he would stop the oppression and also bring retribution for it. The nuance of the perfect tense could be a perfect of resolve (“I have decided to visit”), or an instantaneous perfect ( “I hereby visit”), or a prophetic perfect (“I have visited” = “I will visit”). The infinitive absolute reinforces the statement (so “carefully”), the rendering “attended to” attempts to convey the ideas of personal presence, mental awareness, and action, as when a nurse or physician “attends” a patient.[解説]  The same word was used in the same kind of construction at the end of Genesis (50:24) when Joseph promised, “God will surely visit you” (but there the imperfect tense with the infinitive absolute). Here is another link to the patriarchal narratives. This work of Moses would be interpreted as a fulfillment of Joseph’s prophecy.
+
+### Verse 16 - Note 5
+[翻訳注]  The second object for the verb is the passive participle הֶעָשׂוּי (he’asuy). To say that God has visited the oppression (or “attended to” it) affirms that God has decided to judge the oppressing people as he blesses Israel.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “And I said.”
+
+### Verse 17 - Note 2
+[翻訳注]  See the note on this list in 3:8.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “And they will listen”; the referent (the elders) has been specified in the translation for clarity.
+
+### Verse 18 - Note 2
+[翻訳注]  This is the combination of the verb שָׁמַע (shama’) followed by לְקֹלֶךָ (lÿqolekha), an idiomatic formation that means “listen to your voice,” which in turn implies a favorable response.
+
+### Verse 18 - Note 3
+[翻訳注]  The verb נִקְרָה (niqra) has the idea of encountering in a sudden or unexpected way (S. R. Driver, Exodus, 25).
+
+### Verse 18 - Note 4
+[翻訳注]  The form used here is the cohortative of הָלַךְ (halakh). It could be a resolve, but more likely before Pharaoh it is a request.[解説]  Was this a deceptive request if they were not planning on coming back? Since no one knows what the intent was, that question is not likely to be resolved. The request may have been intended to test the waters, so to speak – How did Pharaoh feel about the Israelites? Would he let them go and worship their God as they saw fit? In any case, it gave him the opportunity to grant to the Israelites a permission that other groups are known to have received (N. M. Sarna, Exodus [JPSTC], 19).
+
+### Verse 18 - Note 5
+[翻訳注]  Here a cohortative with a vav (ו) follows a cohortative; the second one expresses purpose or result: “let us go…in order that we may.”
+
+### Verse 19 - Note 1
+[翻訳注]  After verbs of perception, as with “I know” here, the object may be a noun clause introduced with the particle כִּי (ki) – “I know that….” Gesenius observes that the object clause may have a kind of accusative and an infinitive construction (especially after נָתַן [natan] with the idea of “allow”): “he will not permit you to go” (see GKC 491 §157.b, n. 2).
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “and not with a mighty hand.” This expression (וְלֹא בְּיָד חֲזָקָה, vÿlo’ vÿyad khazaqa) is unclear, since v. 20 says that God will stretch out his hand and do his wonders. Some have taken v. 19b to refer to God’s mighty hand also, meaning that the king would not let them go unless a mighty hand compels him (NIV). The expression “mighty hand” is used of God’s rescuing Israel elsewhere (Exod 6:1, 13:9, 32:11; but note also Num 20:20). This idea is a rather general interpretation of the words; it owes much to the LXX, which has “except by a mighty hand,” though “and not with” does not have the meaning of “except” or “unless” in other places. In view of these difficulties, others have suggested that v. 19b means “strong [threats]” from the Israelites (as in 4:24ff. and 5:3; see B. Jacob, Exodus, 81). This does not seem as convincing as the first view. Another possibility is that the phrase conveys Pharaoh’s point of view and intention; the Lord knows that Pharaoh plans to resist letting the Israelites go, regardless of the exercise of a strong hand against him (P. Addinall, “Exodus III 19B and the Interpretation of Biblical Narrative,” VT 49 [1999]: 289-300; see also the construction “and not with” in Num 12:8; 1 Sam 20:15 and elsewhere). If that is the case, v. 20 provides an ironic and pointed contradiction to Pharaoh’s plans as the Lord announces the effect that his hand will have. At any rate, Pharaoh will have to be forced to let Israel go.
+
+### Verse 20 - Note 1
+[解説]  The outstretched arm is a bold anthropomorphism. It describes the power of God. The Egyptians will later admit that the plagues were by the hand of God (Exod 8:19).
+
+### Verse 20 - Note 2
+[翻訳注]  The word נִפְלְאֹתַי (niflÿ’otay) does not specify what the intervention will be. As the text unfolds it will be clear that the plagues are intended. Signs and portents could refer to things people might do, but “wonders” only God could do. The root refers to that which is extraordinary, surpassing, amazing, difficult to comprehend. See Isa 9:6; Gen 18:14; Ps 139:6.
+
+### Verse 20 - Note 3
+[解説]  The two uses of the root שָׁלָח (shalakh) in this verse contribute to its force. When the Lord “sends” (Qal) his hand, Pharaoh will “send” (Piel) the Israelites out of Egypt.
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “in the eyes of.” This idiom usually means that someone will be treated well by the observer. It is unlikely that it means here that the Egyptians will like the Hebrews. Rather, it means that the Egyptians will give things to the Hebrews free – gratis (see 12:35-36). Not only will God do mighty works to make the king yield, but also he will work in the minds of the Egyptian people so that they will be favorably disposed to give Israel wealth.
+
+### Verse 21 - Note 2
+[翻訳注]  The temporal indicator (here future) with the particle ki (וְהָיָה כִּי, vÿhaya ki) introduces a temporal clause.
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “a woman,” one representing all.
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “from the sojourner.” Both the “neighbor” and the “sojourner” (“one who happens to be staying in her house”) are feminine. The difference between them seems to be primarily that the second is temporary, “a lodger” perhaps or “visitor,” while the first has permanent residence.
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “vessels of silver and vessels of gold.” These phrases both use genitives of material, telling what the vessels are made of.
+
+### Verse 22 - Note 4
+[解説]  It is clear that God intended the Israelites to plunder the Egyptians, as they might a defeated enemy in war. They will not go out “empty.” They will “plunder” Egypt. This verb (וְנִצַּלְתֶּם [vÿnitsaltem] from נָצַל [natsal]) usually means “rescue, deliver,” as if plucking out of danger. But in this stem it carries the idea of plunder. So when the text says that they will ask (וְשָׁאֲלָה, vÿsha’alah) their neighbors for things, it implies that they will be making many demands, and the Egyptians will respond like a defeated nation before victors. The spoils that Israel takes are to be regarded as back wages or compensation for the oppression (see also Deut 15:13). See further B. Jacob, “The Gifts of the Egyptians, a Critical Commentary,” Journal of Reformed Judaism 27 (1980): 59-69; and T. C. Vriezen, “A Reinterpretation of Exodus 3:21-22 and Related Texts,” Ex Oriente Lux 23 (1975): 389-401.
