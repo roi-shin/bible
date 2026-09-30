@@ -1,0 +1,346 @@
+# Mark 10 (English)
+
+## Text
+
+**1** Then Jesus left that place and went to the region of Judea and beyond the Jordan River. Again crowds gathered to him, and again, as was his custom, he taught them. 
+
+**2** Then some Pharisees came, and to test him they asked, “Is it lawful for a man to divorce his wife?” 
+
+**3** He answered them, “What did Moses command you?” 
+
+**4** They said, “Moses permitted a man to write <b>a certificate of dismissal</b> and to divorce her.”
+
+**5** But Jesus said to them, “He wrote this commandment for you because of your hard hearts. 
+
+**6** But from the beginning of creation <b>he</b> <b>made them male and female</b>. 
+
+**7** <b>For</b> <b>this reason a man will leave his father and mother,</b> 
+
+**8** <b>and</b> <b>the two will become one flesh</b>. So they are no longer two, but one flesh. 
+
+**9** Therefore what God has joined together, let no one separate.” 
+
+**10** In the house once again, the disciples asked him about this. 
+
+**11** So he told them, “Whoever divorces his wife and marries another commits adultery against her. 
+
+**12** And if she divorces her husband and marries another, she commits adultery.” 
+
+**13** Now people were bringing little children to him for him to touch, but the disciples scolded those who brought them. 
+
+**14** But when Jesus saw this, he was indignant and said to them, “Let the little children come to me and do not try to stop them, for the kingdom of God belongs to such as these. 
+
+**15** I tell you the truth, whoever does not receive the kingdom of God like a child will never enter it.” 
+
+**16** After he took the children in his arms, he placed his hands on them and blessed them. 
+
+**17** Now as Jesus was starting out on his way, someone ran up to him, fell on his knees, and said, “Good teacher, what must I do to inherit eternal life?” 
+
+**18** Jesus said to him, “Why do you call me good? No one is good except God alone. 
+
+**19** You know the commandments: ‘<b>Do not murder, do not commit adultery, do not steal, do not give false testimony,</b> do not defraud,<b> honor your father and mother</b>.’” 
+
+**20** The man said to him, “Teacher, I have wholeheartedly obeyed all these laws since my youth.” 
+
+**21** As Jesus looked at him, he felt love for him and said, “You lack one thing. Go, sell whatever you have and give the money to the poor, and you will have treasure in heaven. Then come, follow me.” 
+
+**22** But at this statement, the man looked sad and went away sorrowful, for he was very rich. 
+
+**23** Then Jesus looked around and said to his disciples, “How hard it is for the rich to enter the kingdom of God!”
+
+**24** The disciples were astonished at these words. But again Jesus said to them, “Children, how hard it is to enter the kingdom of God! 
+
+**25** It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” 
+
+**26** They were even more astonished and said to one another, “Then who can be saved?” 
+
+**27** Jesus looked at them and replied, “This is impossible for mere humans, but not for God; all things are possible for God.” 
+
+**28** Peter began to speak to him, “Look, we have left everything to follow you!” 
+
+**29** Jesus said, “I tell you the truth, there is no one who has left home or brothers or sisters or mother or father or children or fields for my sake and for the sake of the gospel 
+
+**30** who will not receive in this age a hundred times as much—homes, brothers, sisters, mothers, children, fields, all with persecutions—and in the age to come, eternal life. 
+
+**31** But many who are first will be last, and the last first.” 
+
+**32** They were on the way, going up to Jerusalem. Jesus was going ahead of them, and they were amazed, but those who followed were afraid. He took the twelve aside again and began to tell them what was going to happen to him. 
+
+**33** “Look, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and experts in the law. They will condemn him to death and will turn him over to the Gentiles. 
+
+**34** They will mock him, spit on him, flog him severely, and kill him. Yet after three days, he will rise again.”
+
+**35** Then James and John, the sons of Zebedee, came to him and said, “Teacher, we want you to do for us whatever we ask.” 
+
+**36** He said to them, “What do you want me to do for you?” 
+
+**37** They said to him, “Permit one of us to sit at your right hand and the other at your left in your glory.” 
+
+**38** But Jesus said to them, “You don’t know what you are asking! Are you able to drink the cup I drink or be baptized with the baptism I experience?” 
+
+**39** They said to him, “We are able.” Then Jesus said to them, “You will drink the cup I drink, and you will be baptized with the baptism I experience, 
+
+**40** but to sit at my right or at my left is not mine to give. It is for those for whom it has been prepared.” 
+
+**41** Now when the other 10 heard this, they became angry with James and John. 
+
+**42** Jesus called them and said to them, “You know that those who are recognized as rulers of the Gentiles lord it over them, and those in high positions use their authority over them. 
+
+**43** But it is not this way among you. Instead whoever wants to be great among you must be your servant, 
+
+**44** and whoever wants to be first among you must be the slave of all. 
+
+**45** For even the Son of Man did not come to be served but to serve, and to give his life as a ransom for many.” 
+
+**46** They came to Jericho. As Jesus and his disciples and a large crowd were leaving Jericho, Bartimaeus the son of Timaeus, a blind beggar, was sitting by the road. 
+
+**47** When he heard that it was Jesus the Nazarene, he began to shout, “Jesus, Son of David, have mercy on me!” 
+
+**48** Many scolded him to get him to be quiet, but he shouted all the more, “Son of David, have mercy on me!” 
+
+**49** Jesus stopped and said, “Call him.” So they called the blind man and said to him, “Have courage! Get up! He is calling you.” 
+
+**50** He threw off his cloak, jumped up, and came to Jesus. 
+
+**51** Then Jesus said to him, “What do you want me to do for you?” The blind man replied, “Rabbi, let me see again.”
+
+**52** Jesus said to him, “Go, your faith has healed you.” Immediately he regained his sight and followed him on the road. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 1 - Note 2
+[翻訳注]  Grk “He”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 1 - Note 3
+28 565 579 1241 al) read πέραν (simply “beyond”). It is difficult to decide between the Alexandrian and Western readings here, but since the parallel in Matt 19:1 omits καί the weight is slightly in favor of including it here; scribes may have omitted the word here to harmonize this passage to the Matthean passage. Because of the perceived geographical difficulties found in the earlier readings (omission of the word “and” would make it seem as though Judea is beyond the Jordan), the majority of the witnesses (A Ï) read διὰ τοῦ πέραν (dia tou peran, “through the other side”), perhaps trying to indicate the direction of Jesus’ travel.
+
+### Verse 1 - Note 4
+[翻訳注]  “River” is not in the Greek text but is supplied for clarity. The region referred to here is sometimes known as Transjordan (i.e., “across the Jordan”).
+
+### Verse 2 - Note 1
+700 892). Another consideration is the possibility that very early in the transmissional history, scribes naturally inserted the most obvious subject (the Pharisees would be the obvious candidates as the ones to test Jesus). This may account for the reading with δέ, since Mark nowhere else uses this conjunction to introduce the Pharisees into the narrative. As solid as the internal arguments against the longer reading seem to be, the greatest weakness is the witnesses that support it. The Western mss are prone to alter the text by adding, deleting, substituting, or rearranging large amounts of material. There are times when the rationale for this seems inexplicable. In light of the much stronger evidence for “the Pharisees came,” even though it occurs in various permutations, it is probably wisest to retain the words. This judgment, however, is hardly certain.[解説]  See the note on Pharisees in 2:16.
+
+### Verse 2 - Note 2
+[翻訳注]  In Greek this phrase occurs at the end of the sentence. It has been brought forward to conform to English style.
+
+### Verse 2 - Note 3
+[翻訳注]  The personal pronoun “his” is not in the Greek text, but is certainly implied and has been supplied in the English translation to clarify the sense of the statement (cf. “his wife” in 10:7).
+
+### Verse 2 - Note 4
+[翻訳注]  The particle εἰ (ei) is often used to introduce both indirect and direct questions. Thus, another possible translation is to take this as an indirect question: “They asked him if it were lawful for a man to divorce his wife.” See BDF §440.3.[解説]  The question of the Pharisees was anything but sincere; they were asking it to test him. Jesus was now in the jurisdiction of Herod Antipas (i.e., Judea and beyond the Jordan) and it is likely that the Pharisees were hoping he might answer the question of divorce in a way similar to John the Baptist and so suffer the same fate as John, i.e., death at the hands of Herod (cf. 6:17-19). Jesus answered the question not on the basis of rabbinic custom and the debate over Deut 24:1, but rather from the account of creation and God’s original design.
+
+### Verse 3 - Note 1
+[翻訳注]  Grk “But answering, he said to them.”
+
+### Verse 4 - Note 1
+[翻訳注]  Grk “to divorce.” The pronoun has been supplied in the translation for clarity.[解説]  An allusion to Deut 24:1. The Pharisees were all in agreement that the OT permitted a man to write a certificate of dismissal and divorce his wife (not vice-versa) and that remarriage was therefore sanctioned. But the two rabbinic schools of Shammai and Hillel differed on the grounds for divorce. Shammai was much stricter than Hillel and permitted divorce only in the case of sexual immorality. Hillel permitted divorce for almost any reason (cf. the Mishnah, m. Gittin 9.10).
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “heart” (a collective singular).
+
+### Verse 6 - Note 1
+Ï lat sy), while the most important witnesses, along with a few others, lack ὁ θεός (א B C L Δ 579 2427 co). On the one hand, it is possible that the shorter reading is an assimilation to the wording of the LXX of Gen 1:27b where ὁ θεός is lacking. However, since it is mentioned at the beginning of the verse (Gen 1:27a) with ἐποίησεν scribes may have been motivated to add it in Mark to make the subject clear. Further, confusion could easily arise in this dominical saying, because Moses was the previously mentioned subject (v. 5) and inattentive readers might regard him as the subject of ἐποίησεν in v. 6. Thus, both on internal and external grounds, the most probable wording of the original text here lacked ὁ θεός.
+
+### Verse 6 - Note 2
+[解説]  A quotation from Gen 1:27; 5:2.
+
+### Verse 7 - Note 1
+has the longer reading in brackets, indicating doubts as to its authenticity.
+
+### Verse 8 - Note 1
+[解説]  A quotation from Gen 2:24. The “two” refers to husband and wife, not father and mother mentioned in the previous verse. See the tc note on “mother” in v. 7 for discussion.
+
+### Verse 11 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “So” to indicate that Jesus’ statement is in response to the disciples’ question (v. 10).
+
+### Verse 12 - Note 1
+[解説]  It was not uncommon in Jesus’ day for a Jewish man to divorce his wife, but it was extremely rare for a wife to initiate such an action against her husband, since among many things it would have probably left her destitute and without financial support. Mark’s inclusion of the statement And if she divorces her husband and marries another, she commits adultery (v. 12) reflects more the problem of the predominantly Gentile church in Rome to which he was writing. As such it may be an interpretive and parenthetical comment by the author rather than part of the saying by Jesus, which would stop at the end of v. 11. As such it should then be placed in parentheses. Further NT passages that deal with the issue of divorce and remarriage are Matt 5:31-32; 19:1-12; Luke 16:18; .
+
+### Verse 13 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 13 - Note 2
+[翻訳注]  Grk “so that he would touch them.” Here the touch is connected with (or conveys) a blessing (cf. v. 16; also BDAG 126 s.v. ἅπτω 2.c).
+
+### Verse 13 - Note 3
+] Ï lat sy), but it is probably a motivated reading. Since the subject is not explicit in the earliest and best witnesses as well as several others (א B C L Δ Ψ 579 892 2427), scribes would be prone to add “those who brought them” here to clarify that the children were not the ones being scolded. It could be argued that the masculine pronoun αὐτοῖς (autois, “them”) only rarely was used with the neuter antecedent παιδία (paidia, “children”), and thus the longer reading was not motivated by scribal clarification. However, such rare usage is found in Mark (cf. 5:41; 9:24-26); further, scribes routinely added clarifications when such were not necessary. Thus, both on external and internal grounds, the shorter reading is strongly preferred. Similar motivations are behind the translation here, namely, “those who brought them” has been supplied to ensure that the parents who brought the children are in view, not the children themselves.[翻訳注]  Grk “the disciples scolded them.”
+
+### Verse 14 - Note 1
+[解説]  The kingdom of God belongs to such as these. Children are a picture of those whose simple trust illustrates what faith is all about. The remark illustrates how everyone is important to God, even those whom others regard as insignificant.
+
+### Verse 15 - Note 1
+[翻訳注]  Grk “Truly (ἀμήν, amhn), I say to you.”
+
+### Verse 15 - Note 2
+[解説]  On receive see John 1:12.
+
+### Verse 15 - Note 3
+[解説]  The point of the comparison receive the kingdom of God like a child has more to do with a child’s trusting spirit and willingness to be dependent and receive from others than any inherent humility the child might possess.
+
+### Verse 15 - Note 4
+[翻訳注]  The negation in Greek (οὐ μή, ou mh) is very strong here.
+
+### Verse 17 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 17 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.[解説]  Mark 10:17-31. The following unit, Mark 10:17-31, can be divided up into three related sections: (1) the rich man’s question (vv. 17-22); (2) Jesus’ teaching on riches and the kingdom of God (vv. 23-27); and (3) Peter’s statement and Jesus’ answer (vv. 28-31). They are all tied together around the larger theme of the relationship of wealth to the kingdom Jesus had been preaching. The point is that it is impossible to attain to the kingdom by means of riches. The passage as a whole is found in the section 8:27-10:52 in which Mark has been focusing on Jesus’ suffering and true discipleship. In vv. 28-31 Jesus does not deny great rewards to those who follow him, both in the present age and in the age to come, but it must be thoroughly understood that suffering will be integral to the mission of the disciples and the church, for in the very next section (10:32-34) Jesus reaffirmed the truth about his coming rejection, suffering, death, and resurrection.
+
+### Verse 17 - Note 3
+[解説]  The rich man wanted to know what he must do to inherit eternal life, but Jesus had just finished teaching that eternal life was not earned but simply received (10:15).
+
+### Verse 18 - Note 1
+[解説]  Jesus’ response, Why do you call me good?, was designed to cause the young man to stop and think for a moment about who Jesus really was. The following statement No one is good except God alone seems to point the man in the direction of Jesus’ essential nature and the demands which logically follow on the man for having said it.
+
+### Verse 19 - Note 1
+[解説]  A quotation from Exod 20:12-16; Deut 5:16-20, except for do not defraud, which is an allusion to Deut 24:14.
+
+### Verse 20 - Note 1
+[翻訳注]  Grk “He”; the referent (the man who asked the question in v. 17) has been specified in the translation for clarity.
+
+### Verse 20 - Note 2
+[翻訳注]  Grk “kept.” The implication of this verb is that the man has obeyed the commandments without fail throughout his life, so the adverb “wholeheartedly” has been added to the translation to bring out this nuance.
+
+### Verse 20 - Note 3
+[翻訳注]  Grk “these things.” The referent of the pronoun (the laws mentioned by Jesus) has been specified in the translation for clarity.[解説]  While the rich man was probably being sincere when he insisted I have wholeheartedly obeyed all these laws, he had confined his righteousness to external obedience. The rich man’s response to Jesus’ command to give away all he had revealed that internally he loved money more than God.
+
+### Verse 20 - Note 4
+[解説]  Since my youth. Judaism regarded the age of thirteen as the age when a man would have become responsible to live by God’s commands.
+
+### Verse 21 - Note 1
+[翻訳注]  The words “the money” are not in the Greek text, but are implied. Direct objects were often omitted in Greek when clear from the context.
+
+### Verse 21 - Note 2
+[解説]  The call for sacrifice comes with a promise of eternal reward: You will have treasure in heaven. Jesus’ call is a test to see how responsive the man is to God’s direction through him. Will he walk the path God’s agent calls him to walk? For a rich person who got it right, see Zacchaeus in Luke 19:1-10.
+
+### Verse 22 - Note 1
+[翻訳注]  Grk “he”; the referent (the man who asked the question in v. 17) has been specified in the translation for clarity.
+
+### Verse 22 - Note 2
+[翻訳注]  Grk “he had many possessions.” This term (κτῆμα, kthma) is often used for land as a possession.
+
+### Verse 23 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 24 - Note 1
+[翻訳注]  Grk “But answering, Jesus again said to them.” The participle ἀποκριθείς (apokriqeis) is redundant and has not been translated.
+
+### Verse 24 - Note 2
+28 565 2427 Ï lat sy) have here “for those who trust in riches” (τοὺς πεποιθότας ἐπὶ [τοῖς] χρήμασιν, tou" pepoiqota" epi [toi"] crhmasin); W has πλούσιον (plousion) later in the verse, producing the same general modification on the dominical saying (“how hard it is for the rich to enter…”). But such qualifications on the Lord’s otherwise harsh and absolute statements are natural scribal expansions, intended to soften the dictum. Further, the earliest and best witnesses, along with a few others (א B Δ Ψ sa), lack any such qualifications. That W lacks the longer expansion and only has πλούσιον suggests that its archetype agreed with א B here; its voice should be heard with theirs. Thus, both on external and internal grounds, the shorter reading is preferred.
+
+### Verse 25 - Note 1
+28 579 pc) read κάμιλον (kamilon, “rope”) for κάμηλον (kamhlon, “camel”), either through accidental misreading of the text or intentionally so as to soften Jesus’ words.
+
+### Verse 25 - Note 2
+[解説]  The referent of the eye of a needle is a sewing needle. (The gate in Jerusalem known as “The Needle’s Eye” was built during the middle ages and was not in existence in Jesus’ day.) Jesus was speaking rhetorically to point out that apart from God’s intervention, salvation is impossible (v. 27).
+
+### Verse 26 - Note 1
+[翻訳注]  Grk “But they were even more astonished, saying.” The participle λέγονες (legontes) has been translated here as a finite verb to emphasize the sequence of events: The disciples were astonished, then they spoke.
+
+### Verse 26 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of thought.
+
+### Verse 26 - Note 3
+[解説]  The assumption is that the rich are blessed, so if they risk exclusion, who is left to be saved?
+
+### Verse 27 - Note 1
+[翻訳注]  The plural Greek term ἄνθρωποις (anqrwpois) is used here in a generic sense, referring to both men and women (cf. NASB 1995 update, “people”). Because of the contrast here between mere mortals and God (“impossible for men…all things are possible for God”) the phrase “mere humans” has been used in the translation.
+
+### Verse 28 - Note 1
+[解説]  Peter wants reassurance that the disciples’ response and sacrifice has been noticed.
+
+### Verse 28 - Note 2
+[翻訳注]  Grk “We have left everything and followed you.” Koine Greek often used paratactic structure when hypotactic was implied.
+
+### Verse 29 - Note 1
+[翻訳注]  Grk “Truly (ἀμήν, amhn), I say to you.”
+
+### Verse 30 - Note 1
+[翻訳注]  Grk “this time” (καιρός, kairos), but for stylistic reasons this has been translated “this age” here.
+
+### Verse 30 - Note 2
+[翻訳注]  Grk “with persecutions.” The “all” has been supplied to clarify that the prepositional phrase belongs not just to the “fields.”
+
+### Verse 30 - Note 3
+[解説]  Note that Mark (see also Matt 19:29; Luke 10:25, 18:30) portrays eternal life as something one receives in the age to come, unlike John, who emphasizes the possibility of receiving eternal life in the present (John 5:24).
+
+### Verse 32 - Note 1
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 33 - Note 1
+[翻訳注]  Or “chief priests and scribes.” See the note on the phrase “experts in the law” in 1:22.
+
+### Verse 34 - Note 1
+[翻訳注]  Traditionally, “scourge him” (the term means to beat severely with a whip, L&N 19.9). BDAG 620 s.v. μαστιγόω 1.a states, “The ‘verberatio’ is denoted in the passion predictions and explicitly as action by non-Israelites Mt 20:19; Mk 10:34; Lk 18:33”; the verberatio was the beating given to those condemned to death in the Roman judicial system. Here the term μαστιγόω (mastigow) has been translated “flog…severely” to distinguish it from the term φραγελλόω (fragellow) used in Matt 27:26; Mark 15:15.
+
+### Verse 34 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “yet” to indicate the contrast present in this context.
+
+### Verse 34 - Note 3
+Ï sy), have “on the third day” (τῇ τρίτῃ ἡμέρᾳ, th trith Jhmera) instead of “after three days.” But not only does Mark nowhere else speak of the resurrection as occurring on the third day, the idiom he uses is a harder reading (cf. Mark 8:31; 9:31, though in the latter text the later witnesses also have τῇ τρίτῃ ἡμέρᾳ). Further, τῇ τρίτῃ ἡμέρᾳ conforms to the usage that is almost universally used in Matthew and Luke, and is found in the parallels to this text (Matt 20:19; Luke 18:33). Thus, scribes would be doubly motivated to change the wording. The most reliable witnesses, along with several other mss (א B C D L Δ Ψ 579 892 2427 it co), have resisted this temptation.
+
+### Verse 35 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 38 - Note 1
+[翻訳注]  Grk “baptism I am baptized with.” This same change has been made in v. 39.
+
+### Verse 39 - Note 1
+[解説]  No more naïve words have ever been spoken as those found here coming from James and John, “We are able.” They said it with such confidence and ease, yet they had little clue as to what they were affirming. In the next sentence Jesus confirms that they will indeed suffer for his name.
+
+### Verse 40 - Note 1
+[解説]  After the first passion prediction in 8:31 Jesus rebuked Peter as having been used by Satan. After the second passion prediction in 9:31 the disciples were concerned about who would be the greatest in the kingdom. After the third passion prediction in 10:33 James and John asked for positions of honor and rulership in the kingdom, revealing their complete misunderstanding of the nature of the kingdom and exposing their inadequacy as true disciples of Jesus. Jesus replied that such positions were for those for whom it has been prepared.
+
+### Verse 41 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 41 - Note 2
+[翻訳注]  Grk “the ten.”
+
+### Verse 41 - Note 3
+[翻訳注]  The word “this” is not in the Greek text, but is supplied. Direct objects were often omitted in Greek when clear from the context.
+
+### Verse 44 - Note 1
+[翻訳注]  Though δοῦλος (doulos) is normally translated “servant,” the word does not bear the connotation of a free individual serving another. BDAG notes that “‘servant’ for ‘slave’ is largely confined to Biblical transl. and early American times…in normal usage at the present time the two words are carefully distinguished” (BDAG 260 s.v. 1). The most accurate translation is “bondservant” (sometimes found in the ASV for δοῦλος), in that it often indicates one who sells himself into slavery to another. But as this is archaic, few today understand its force.
+
+### Verse 45 - Note 1
+[解説]  The Greek word for ransom (λύτρον, lutron) is found here and in Matt 20:28 and refers to the payment of a price in order to purchase the freedom of a slave. The idea of Jesus as the “ransom” is that he paid the price with his own life by standing in humanity’s place as a substitute, enduring the judgment that was deserved for sin.
+
+### Verse 46 - Note 1
+[地図]  For location see Map5-B2; Map6-E1; Map7-E1; Map8-E3; Map10-A2; Map11-A1.
+
+### Verse 46 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 47 - Note 1
+[翻訳注]  Grk “to shout and to say.” The infinitive λέγειν (legein) is redundant here and has not been translated.
+
+### Verse 47 - Note 2
+[解説]  Jesus was more than a Nazarene to this blind person, who saw quite well that Jesus was Son of David. There was a tradition in Judaism that the Son of David (Solomon) had great powers of healing (Josephus, Ant. 8.2.5 [8.42-49]).
+
+### Verse 47 - Note 3
+[解説]  Have mercy on me is a request for healing. It is not owed the man. He simply asks for God’s kind grace.
+
+### Verse 48 - Note 1
+[翻訳注]  Or “rebuked.” The crowd’s view was that surely Jesus would not be bothered with someone as unimportant as a blind beggar.
+
+### Verse 49 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.
+
+### Verse 51 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 51 - Note 2
+[翻訳注]  Grk “And answering, Jesus said to him.” The participle ἀποκριθείς is redundant and has not been translated.
+
+### Verse 51 - Note 3
+[翻訳注]  Or “Master”; Grk ῥαββουνί (rabbouni).
+
+### Verse 51 - Note 4
+[翻訳注]  Grk “that I may see [again].” The phrase can be rendered as an imperative of request, “Please, give me sight.” Since the man is not noted as having been blind from birth (as the man in  was) it is likely the request is to receive back the sight he once had.
+
+### Verse 52 - Note 1
+[翻訳注]  Or “received” (see the note on the phrase “let me see again” in v. 51).

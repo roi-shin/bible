@@ -1,0 +1,210 @@
+# Ecclesiastes 5 (English)
+
+## Text
+
+**1** (4:17) Be careful what you do when you go to the temple of God; draw near to listen rather than to offer a sacrifice like fools, for they do not realize that they are doing wrong. 
+
+**2** (5:1) Do not be rash with your mouth or hasty in your heart to bring up a matter before God, for God is in heaven and you are on earth! Therefore, let your words be few. 
+
+**3** Just as dreams come when there are many cares, so the rash vow of a fool occurs when there are many words. 
+
+**4** When you make a vow to God, do not delay in paying it. For God takes no pleasure in fools: Pay what you vow! 
+
+**5** It is better for you not to vow than to vow and not pay it.
+
+**6** Do not let your mouth cause you to sin, and do not tell the priest, “It was a mistake!” Why make God angry at you so that he would destroy the work of your hands? 
+
+**7** Just as there is futility in many dreams, so also in many words. Therefore, fear God. 
+
+**8** If you see the extortion of the poor, or the perversion of justice and fairness in the government, do not be astonished by the matter. For the high official is watched by a higher official, and there are higher ones over them!
+
+**9** The produce of the land is seized by all of them, even the king is served by the fields. 
+
+**10** The one who loves money will never be satisfied with money; he who loves wealth will never be satisfied with his income. This also is futile. 
+
+**11** When someone’s prosperity increases, those who consume it also increase; so what does its owner gain, except that he gets to see it with his eyes? 
+
+**12** The sleep of the laborer is pleasant—whether he eats little or much— but the wealth of the rich will not allow him to sleep. 
+
+**13** Here is a misfortune on earth that I have seen: Wealth hoarded by its owner to his own misery. 
+
+**14** Then that wealth was lost through bad luck; although he fathered a son, he has nothing left to give him.
+
+**15** Just as he came forth from his mother’s womb, naked will he return as he came, and he will take nothing in his hand that he may carry away from his toil. 
+
+**16** This is another misfortune: Just as he came, so will he go. What did he gain from toiling for the wind? 
+
+**17** Surely, he ate in darkness every day of his life, and he suffered greatly with sickness and anger. 
+
+**18** I have seen personally what is the only beneficial and appropriate course of action for people: to eat and drink, and find enjoyment in all their hard work on earth during the few days of their life that God has given them, for this is their reward. 
+
+**19** To every man whom God has given wealth and possessions, he has also given him the ability to eat from them, to receive his reward, and to find enjoyment in his toil; these things are the gift of God. 
+
+**20** For he does not think much about the fleeting days of his life because God keeps him preoccupied with the joy he derives from his activity.
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Beginning with 5:1, the verse numbers through 5:20 in the English Bible differ by one from the verse numbers in the Hebrew text (BHS), with 5:1 ET = 4:17 HT, 5:2 ET = 5:1 HT, etc., through 5:20 ET = 5:19 HT. Beginning with 6:1 the verse numbers in the English Bible and the Hebrew Bible are again the same.
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “Guard your feet.” The Kethib is the plural רַגְלֶיךָ (raglekha, “your feet”), while the Qere is the singular רַגְלְךָ (raglÿkha, “your foot”), which is preserved in several medieval Hebrew mss and is reflected in the versions (LXX, Aramaic Targum, Vulgate, Syriac Peshitta). For example, the LXX reads πόδα σου (poda sou, “your foot”) which reflects רַגְלְךָ.[解説]  The exhortation, “Guard your feet” is an idiom for “Watch your steps,” i.e., “Be careful what you do.” This is a compound figure: “foot” is a metonymy for “step,” and “step” is a metonymy for “action” (e.g., Job 12:5; 23:11; 31:5; Pss 119:59, 101, 105; Prov 1:16; 3:23; 4:26-27; 6:18; 19:2; Isa 58:13; 59:7; Jer 14:10). For example, “I have refrained my feet from every evil way” (Ps 119:101); see E. W. Bullinger, Figures of Speech, 648.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “the house of God.” The term “house” (בַּיִת, bayit) is a synecdoche of general (i.e., house) for specific (i.e., temple), e.g., 1 Kgs 6:3; 7:12; 1 Chr 9:11; 2 Chr 3:8; 28:11. See E. W. Bullinger, Figures of Speech, 620.
+
+### Verse 1 - Note 4
+[翻訳注]  Alternately, “to obey.” The term לִשְׁמֹעַ (lishmoa’, preposition + Qal infinitive construct from שָׁמַע, shama’, “to hear”) may be taken in one of two ways: (1) literal: “to listen” in contrast to speak or (2) figurative (metonymy of cause for effect) “to obey” in contrast to sacrifice (HALOT 1572 s.v. שׁמע 4; BDB 1033–34 s.v. שָׁמַע). The LXX took the term in the literal sense: τοῦ ἀκούειν (tou akouein, “to listen”). The English versions reflect both literal and figurative options: “obedience” (NJPS, Douay, NAB, NEB) versus “to hear [or listen]” (KJV, ASV, YLT, MLB, RSV, NASB, NIV, NRSV). The section warns against rash vows therefore, the nuance “to listen” is more appropriate: the wise man will be slow to speak and quick to listen in the presence of God; however, the fool is unrestrained and speaks rashly.
+
+### Verse 1 - Note 5
+[翻訳注]  The term “sacrifice” (זֶבַח, zevakh) is the general term that refers to the thank offering and free will offering (Lev 7:12, 16). This section focuses on making vows in prayer and fulfilling them, such as the vow offering. The term “sacrifice” functions as a synecdoche of general (i.e., sacrifice) for specific (i.e., vow offering).
+
+### Verse 1 - Note 6
+[翻訳注]  Heb “the fools, a sacrifice.” The term “fools” (הַכְּסִילִים, hakkÿsilim) is an adverbial accusative of comparison (e.g., GKC 375 §118.r): “rather than giving a sacrifice like fools” (מִתֵּת הַכְּסִילִים זָבַח, mittet hakkÿsilim zavakh). Contextually, the “sacrifice” is a rash vow made to God that is not fulfilled. The rash vow is referred to in 5:2 as the “voice of a fool.” Qoheleth admonishes the fool against making a rash vow that is not paid: “When you make a vow to God, do not delay in paying it; for God takes no pleasure in fools: Pay what you vow! It is better for you not to vow than to vow and not pay it” (vv. 4-5 [3-4 HT]).
+
+### Verse 3 - Note 1
+[翻訳注]  The term עִנְיַן (’inyan) means “business; affair; task; occupation” (HALOT 857 s.v. עִנְיָן; BDB 775 s.v. עִנְיָן). HALOT nuances עִנְיַן בְּרֹב (bÿrov ‘inyan) as “excessive activity” (HALOT 857 s.v. עִנְיָן). Here, it is used as a metonymy of cause (i.e., tasks) for effect (i.e., cares). The term is nuanced variously: (1) literal sense: “business” (KJV, ASV, YLT, NEB, RSV) and “effort” (NASB), and (2) metonymical: “cares” (NAB, NIV, NRSV), “concerns” (MLB, Douay), “worries” (Moffatt) and “brooding” (NJPS). The LXX mistakenly related עִנְיַן to the root II עָנַה (’anah) “to afflict,” and rendered it as πειρασμοῦ (peirasmou, “trial”).
+
+### Verse 3 - Note 2
+[翻訳注]  The juxtaposition of the two lines joined by vav (“just as…so…”) suggests a comparison (BDB 253 s.v. ו 1.j); see R. J. Williams, Hebrew Syntax, 71, §437.
+
+### Verse 3 - Note 3
+[翻訳注]  Heb “voice.” The Hebrew term קוֹל (qol, “voice”) is used as a metonymy of cause (i.e., voice) for the contents (i.e., the thing said), e.g., Gen 3:17; 4:23; Exod 3:18; 4:1, 9; Deut 1:45; 21:18, 20; 1 Sam 2:25; 8:7, 9; 2 Sam 12:18); see HALOT 1084 s.v. קוֹל 4.b; BDB 877 s.v. קוֹל 3.a; also E. W. Bullinger, Figures of Speech, 545–46. Contextually, this refers to a rash vow made by a fool who made a mistake in making it because he is unable to fulfill it.
+
+### Verse 3 - Note 4
+[翻訳注]  The word “occurs” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “vow a vow.” The phrase תִּדֹּר נֶדֶר (tiddor neder, “to vow a vow”) is a Hebrew idiom in which the root נדר is repeated for emphasis. The construction is a cognate accusative (see IBHS 166-67 §10.2.1f). The verb נָדַר (nadar, “to vow”) refers to the action of making a solemn promise to the Lord to perform an action or offer a sacrifice, e.g., Lev 27:8; Num 6:21; 30:11; Deut 23:23-24; Jonah 2:10; Mal 1:14; Pss 76:12; 132:2; see HALOT 674 s.v. נדר. The noun נֶדֶר (“vow”) was a gift or offering promised to be given to the Lord (Num 30:3; Deut 12:11; 23:19; Isa 19:12; Nah 2:1 [ET 1:15]; Ps 61:6, 9); see HALOT 674–75 s.v. נֵדֶר. It usually was a sacrifice or free-will offering (Deut 12:6; Ps 66:13) that was often promised during times of pressure (Judg 11:30; 1 Sam 1:11; 2 Sam 15:7-8; Pss 22:25; 66:13; 116:14, 18; Jonah 2:9).
+
+### Verse 4 - Note 2
+[翻訳注]  The term לְשַׁלְּמוֹ (lÿshallÿmo, preposition + Piel infinitive construct from שָׁלַם, shalam + 3rd person masculine singular suffix) is derived from the root שׁלם which is used in a general sense of paying a debt (2 Kgs 4:7; Ps 37:21; Prov 22:27; Job 41:3), and more specifically of fulfilling a vow to the Lord (Deut 23:22; 2 Sam 15:7; Pss 22:26; 50:14; 61:9; 66:13; 76:12; 116:14, 18; Prov 7:14; Job 22:27; Isa 19:21; Jonah 2:10; Nah 2:1); see HALOT 1535 s.v. שׁלם 3a; BDB 1022 s.v. שָׁלֵם 4. An Israelite was never required to make a vow, but once made, it had to be paid (Lev 22:18-25; 27:1-13; Num 15:2-10; Nah 1:15 [2:1 HT]).
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “he”; the referent (“God”) has been specified in the translation for clarity.
+
+### Verse 5 - Note 1
+[翻訳注]  The word “it” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “your flesh.” The term בָּשָׂר (basar, “flesh”) is a synecdoche of part (i.e., flesh) for the whole (i.e., whole person), e.g., Gen 2:21; 6:12; Ps 56:4[5]; 65:2[3]; 145:21; Isa 40:5, 6; see HALOT 164 s.v. בָּשָׂר; E. W. Bullinger, Figures of Speech, 642.
+
+### Verse 6 - Note 2
+[写本注]  The MT reads הַמַּלְאָךְ (hammal’akh, “messenger”), while the LXX reads τοῦ θεοῦ (tou qeou, “God”) which reflects an alternate textual tradition of הָאֱלֹהִים (ha’elohim, “God”). The textual problem was caused by orthographic confusion between similarly spelled words. The LXX might have been trying to make sense of a difficult expression. The MT is preferred as the original. All the major translations follow the MT except for Moffatt (“God”).[翻訳注]  Heb “the messenger.” The term מַלְאָךְ (mal’akh, “messenger”) refers to a temple priest (e.g., Mal 2:7; cf. HALOT 585 s.v. מַלְאָךְ 2.b; BDB 521 s.v. מַלְאָךְ 1.c). The priests recorded what Israelite worshipers vowed (Lev 27:14-15). When an Israelite delayed in fulfilling a vow, a priest would remind him to pay what he had vowed. Although the traditional rabbinic view is that Qoheleth refers to an angelic superintendent over the temple, Rashi suggested that it is a temple-official. Translations reflect both views: “his representative” (NAB), “the temple messenger” (NIV), “the messenger” (RSV, NRSV, NASB, MLB, NJPS), “the angel” (KJV, ASV, Douay) and “the angel of God” (NEB).
+
+### Verse 6 - Note 3
+[翻訳注]  The Hebrew noun שְׁגָגָה (shÿgagah) denotes “error; mistake” and refers to a sin of inadvertence or unintentional sin (e.g., Lev 4:2, 22, 27; 5:18; 22:14; Num 15:24-29; 35:11, 15; Josh 20:3, 9; Eccl 5:5; 10:5); see HALOT 1412 s.v. שְׁגָגָה; BDB 993 s.v. שְׁגָגָה. In this case, it refers to a rash vow thoughtlessly made, which the foolish worshiper claims was a mistake (e.g., Prov 20:25).
+
+### Verse 6 - Note 4
+[翻訳注]  Heb “at your voice.” This is an example of metonymy (i.e., your voice) of association (i.e., you).
+
+### Verse 7 - Note 1
+[翻訳注]  The syntax of this verse is difficult. Perhaps the best approach is to classify the vav on וַהֲבָלִים (vahavalim, “futilities”) as introducing the predicate (e.g., Gen 40:9; 2 Sam 23:3; Prov 10:25; Isa 34:12; Job 4:6; 36:26); BDB 255 s.v. ו 5.c.γ: “There is futility….” The phrase בְרֹב הֲלֹמוֹת (vÿrob halomot) is an adverbial modifier (“in many dreams”), as is דְבָרִים הַרְבֵּה (dÿvarim harbeh, “many words”). The vav prefixed to וּדְבָרִים (udÿvarim) and the juxtaposition of the two lines suggests a comparison: “just as…so also…” (BDB 253 s.v. ו 1.j). The English versions reflect a variety of approaches: “In the multitude of dreams and many words there are also diverse vanities” (KJV); “In the multitude of dreams there are vanities, and in many words” (ASV); “When dreams increase, empty words grow many” (RSV); “In many dreams and follies and many words” (MLB); “In the abundance of dreams both vanities and words abound” (YLT); “Where there are many dreams, there are many vanities, and words without number” (Douay); “Many dreams and words mean many a vain folly” (Moffatt); “Much dreaming leads to futility and to superfluous talk” (NJPS); “In many dreams and in many words there is emptiness” (NASB); “Much dreaming and many words are meaningless” (NIV); “With many dreams comes vanities and a multitude of words” (NRSV).
+
+### Verse 8 - Note 1
+[翻訳注]  Alternately, “oppression.” The term עֹשֶׁק (’osheq) has a basic two-fold range of meaning: (1) “oppression; brutality” (e.g., Isa 54:14); and (2) “extortion” (e.g., Ps 62:11); see HALOT 897 s.v. עֹשֶׁק; BDB 799 s.v. עֹשֶׁק. The LXX understands the term as “oppression,” as the translation συκοφαντίαν (sukofantian, “oppression”) indicates. Likewise, HALOT 897 s.v. עֹשֶׁק 1 classifies this usage as “oppression” against the poor. However, the context of 5:8-9 [7-8 HT] focuses on corrupt government officials robbing people of the fruit of their labor through extortion and the perversion of justice.
+
+### Verse 8 - Note 2
+[翻訳注]  Heb “robbery.” The noun גֵזֶל (gezel, “robbery”) refers to the wrestling away of righteousness or the perversion of justice (HALOT 186 s.v. גֵּזֶל). The related forms of the root גזל mean “to rob; to loot” (HALOT 186 s.v. גֵּזֶל). The term “robbery” is used as a figure for the perversion of justice (hypocatastasis): just as a thief robs his victims through physical violence, so corrupt government officials “rob” the poor through the perversion of justice.
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “in the province.”
+
+### Verse 8 - Note 4
+[翻訳注]  The word “official” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 8 - Note 5
+[解説]  And there are higher ones over them! This may describe a corrupt system of government in which each level of hierarchy exploits its subordinates, all the way down to the peasants: “Set in authority over the people is an official who enriches himself at their expense; he is watched by a more authoritative governor who also has his share of the spoils; and above them are other officers of the State who likewise have to be satisfied”; see A. Cohen, The Five Megilloth (SoBB), 141.
+
+### Verse 9 - Note 1
+[翻訳注]  The phrase “is seized” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 9 - Note 2
+[翻訳注]  The function of the term נֶעֱבָד (ne’evar, Niphal participle ms from עָבַד, ’avar, “to serve”) has been understood in four ways: (1) adjectival use of the participle, modifying the noun שָׂדֶה (sadeh, “field”): “cultivated field” (RSV, NRSV, NJPS, NAB); (2) adjectival use of the participle, modifying מֶלֶךְ (melekh, “king”): “the king who cultivates” (NASB); (3) verbal use of the participle, taking שָׂדֶה (“field”) as the subject: “field is cultivated” (NEB); and (4) verbal use of the participle, taking מֶלֶךְ (“king”) as the subject: “the king is served” (KJV, NASB); also “the king profits” (NIV). BDB 713 s.v. עָבַד 2 lists both the adjectival and verbal options: “a king for [i.e., devoted to] the cultivated field” and “a king that makes himself servant to the field [i.e., devoted to agriculture].” HALOT 774 s.v. עבד suggests the line be rendered as “a king who serves the land.” In the Qal stem the verb עָבַד (’avar) is sometimes used in reference to tribute imposed upon a king’s subjects (e.g., Jer 25:14; 27:7; 30:8; Ezek 34:27) and in reference to subjects serving a king (e.g., Judg 9:28, 38; 1 Sam 11:1; 1 Kgs 5:1; 2 Sam 22:44; Jer 27:7; 28:14; 2 Kgs 25:24); cf. BDB 713 s.v. עָבַד 3; HALOT 773 s.v. עבד 3. Likewise, it is also used in reference to tilling the ground (e.g., Gen 2:5; 4:2, 12; 2 Sam 9:10; Isa 30:24; Jer 27:11; Zech 13:5; Prov 12:11; 28:19) and a vineyard or garden (Gen 2:15; Deut 28:39); cf. HALOT 773 s.v. עבד 3; BDB 713 s.v. עָבַד 3.
+
+### Verse 9 - Note 3
+[翻訳注]  The syntax and exegesis of the line is difficult. There are three basic interpretive options: (1) the king takes care of the security of the cultivated land: “in any case, the advantage of a country is that there is a king for the cultivated land”; (2) the king is in favor of a prosperous agricultural policy: “in any case, the advantage of a country is that there is a king who is obeyed for the sake of the agriculture”; and (3) the king exploits the poor farmers: “the produce of the land is [seized] by all, even the king is served by the fields.” Perhaps the best option in the light of the context is to take the referent of כֹּל (kol, “all”) to the government officials of 5:8 rather than to the people as a whole. The verse depicts the exploitation of the poor farmers by corrupt government officials. This is reflected in two English versions: “the increase from the land is taken by all; the king himself profits from the fields” (NIV); “the profit of the land is among all of them; a cultivated field has a king” (RSV margin). On the other hand, the LXX treated the syntax so the king is viewed in a neutral sense: και περισσεια γης ἐπι παντι ἐστι, βασιλευς του αργου εἰργασμενου (“The abundance of the earth is for everyone; the king is dependent on the tilled field”). Most English versions deal with the syntax so that the king is viewed in a neutral or positive sense: “the profit of the earth is for all; the king himself is served by the field” (KJV); “a king who cultivates the field is an advantage to the land” (NASB); “this is an advantage for a land: a king for a plowed field” (NRSV); “the greatest advantage in all the land is his: he controls a field that is cultivated” (NJPS); “a country prospers with a king who has control” (Moffatt); “a king devoted to the field is an advantage to the land” (MLB); “a king is an advantage to a land with cultivated fields” (RSV); “the best thing for a country is a king whose own lands are well tilled” (NEB); and “an advantage for a country in every respect is a king for the arable land” (NAB). See D. Barthélemy, ed., Preliminary and Interim Report on the Hebrew Old Testament Text Project, 3:576–77.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “silver.” The Hebrew term כֶּסֶף (kesef, “silver”) refers to “money” (HALOT 490–91 s.v. כֶּסֶף 3). It is a synecdoche of specific (i.e., silver) for the general (i.e., money); see E. W. Bullinger, Figures of Speech, 625-29.
+
+### Verse 10 - Note 2
+[解説]  The Hebrew term “silver” (translated “money”) is repeated twice in this line for rhetorical emphasis.
+
+### Verse 10 - Note 3
+[翻訳注]  The term הָמוֹן (hamon, “abundance; wealth”) has a wide range of meanings: (1) agitation; (2) turmoil; (3) noise; (4) pomp; (5) multitude; crowd = noisy crowd; and (6) abundance; wealth (HALOT 250 s.v. הָמוֹן 1–6). Here, it refers to abundant wealth (related to “pomp”); cf. HALOT 250 s.v. הָמוֹן 6, that is, lavish abundant wealth (Ezek 29:19; 30:4; 1 Chr 29:16).
+
+### Verse 10 - Note 4
+[翻訳注]  The phrase “will never be satisfied” does not appear in the Hebrew text, but is supplied in the translation for clarity. Note the previous line.
+
+### Verse 10 - Note 5
+[翻訳注]  The word “his” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 11 - Note 1
+[翻訳注]  The word “someone’s” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 11 - Note 2
+[翻訳注]  The term טוֹבָה (tovah, “good”) connotes “prosperity” (Deut 23:7; Job 9:25; 21:25; Ps 106:5; Lam 3:17; Eccl 4:8; 5:10, 17; 6:3, 6; 7:14; 9:18; Neh 2:10; Sir 6:11; 41:13); cf. HALOT 372 s.v. טוֹבָה 2. The related term טוֹב (tov, “good”) connotes “prosperity” as well (Prov 11:10; Job 20:21; 21:16); cf. HALOT 372 s.v. טוֹבָה 1.b. Here, it refers to the possessions and wealth a person acquires as the fruit of his labors. This nuance is well reflected in several English versions: “The more a man gains, the more there are to spend it” (Moffatt); “When riches multiply, so do those who live off them” (NEB); “As his substance increase, so do those who consume it” (NJPS); and “Where there are great riches, there are also many to devour them” (NAB). The line does not describe the economic law of “supply and demand,” as some versions seem to imply, e.g., “As goods increase, so do those who consume them” (NIV); “When goods increase, those who eat them increase” (NRSV); cf. also KJV, ASV, RSV, MLB, NASB.
+
+### Verse 11 - Note 3
+[翻訳注]  The form is plural in the Hebrew text, but the plural is one of intensification; it is used here to emphasize the owner’s authority over his wealth. See GKC 399 §124.i. See v 13 as well.
+
+### Verse 11 - Note 4
+[翻訳注]  The rhetorical question is an example of negative affirmation, expecting a negative answer: “There is no ultimate advantage!” (see E. W. Bullinger, Figures of Speech, 947-48).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “there is.” The term יֵשׁ (yesh, “there is”) is often used in aphorisms to assert the existence of a particular situation that occurs sometimes. It may indicate that the situation is not the rule but that it does occur on occasion, and may be nuanced “sometimes” (e.g., Prov 11:24; 13:7, 23; 14:12; 16:25; 18:24; 20:15; Eccl 2:21; 4:8; 5:12; 6:1; 7:15 [2x]; 8:14 [3x]).
+
+### Verse 13 - Note 2
+[翻訳注]  The noun רָעָה (ra’ah, “evil”) probably means “misfortune” (HALOT 1263 s.v. רָעָה 4) or “injustice, wrong” (HALOT 1262 s.v. רָעָה 2.b). The phrase רָעָה רַבָּה (ra’ah rabbah) connotes “grave injustice” or “great misfortune” (Eccl 2:17; 5:12, 15; 6:1; 10:5).
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “under the sun.”
+
+### Verse 14 - Note 1
+[翻訳注]  Or “through a bad business deal.” The basic meaning of עִנְיַן (’inyan) is “business; affair” (HALOT 857 s.v. עִנְיָן) or “occupation; task” (BDB 775 s.v. עִנְיָן). The term is used in a specific sense in reference to business activity (Eccl 8:16), as well as in a more general sense in reference to events that occur on earth (Eccl 1:13; 4:8). BDB suggests that the phrase עִנְיַן רָע (’inyan ra’) in 5:13 refers to a bad business deal (BDB 775 s.v. עִנְיָן); however, HALOT suggests that it means “bad luck” (HALOT 857 s.v. עִנְיָן). The English versions reflect the same two approaches: (1) bad luck: “some misfortune” (NAB, NIV) and (2) a bad business deal: “a bad investment” (NASB), “a bad venture” (RSV, NRSV, MLB), “some unlucky venture” (Moffatt, NJPS), “an unlucky venture” (NEB), “an evil adventure” (ASV).
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “there is nothing in his hand.”
+
+### Verse 16 - Note 1
+[翻訳注]  See the note on the phrase “depressing misfortune” in v. 13.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “all his days.” The phrase “of his life” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “Behold, that which I have seen, I, good which is beautiful.” The phrase “for people” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 2
+[解説]  The phrase “to eat and to drink” is a common idiom in Ecclesiastes for a person enjoying the fruit of his labor (e.g., 2:24; 3:13).
+
+### Verse 18 - Note 3
+[翻訳注]  Heb “his,” and three times later in the verse.
+
+### Verse 18 - Note 4
+[翻訳注]  Heb “the toil which one toils.”
+
+### Verse 18 - Note 5
+[翻訳注]  Heb “under the sun.”
+
+### Verse 18 - Note 6
+[翻訳注]  The term חֵלֶק (kheleq, “lot”) has a wide range of meanings: (1) “share of spoils” (Gen 14:24; Num 31:36; 1 Sam 30:24), (2) “portion of food” (Lev 6:10; Deut 18:8; Hab 1:16), (3) “portion [or tract] of land” (Deut 10:9; 12:12; Josh 19:9), (4) “portion” or “possession” (Num 18:20; Deut 32:9), (5) “inheritance” (2 Kgs 9:10; Amos 7:4), (6) “portion” or “award” (Job 20:29; 27:13; 31:2; Isa 17:14) or “profit; reward” (Eccl 2:10, 21; 3:22; 5:17-18; 9:6, 9); see HALOT 323 s.v. II חֵלֶק; BDB 324 s.v. חֵלֶק. Throughout Ecclesiastes, the term is used in reference to man’s temporal profit from his labor and his reward from God (e.g., Eccl 3:22; 9:9).
+
+### Verse 19 - Note 1
+[翻訳注]  The syntax of this verse is difficult. The best approach is to view הִשְׁלִיטוֹ (hishlito, “he has given him the ability”) as governing the three following infinitives: לֶאֱכֹל (le’ekhol, “to eat”), וְלָשֵׂאת (vÿlase’t, “and to lift” = “to accept [or receive]”), and וְלִשְׂמֹחַ (vÿlismoakh, “and to rejoice”). This statement parallels 2:24-26 which states that no one can find enjoyment in life unless God gives him the ability to do so.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “this.” The feminine singular demonstrative pronoun זֹה (zoh, “this”) refers back to all that preceded it in the verse (e.g., GKC 440-41 §135.p), that is, the ability to enjoy the fruit of one’s labor is the gift of God (e.g., Eccl 2:24-26). The phrase “these things” is used in the translation for clarity.
+
+### Verse 20 - Note 1
+[翻訳注]  The verb זָכַר (zakhar, “to remember”) may be nuanced “to call to mind; to think about,” that is, “to reflect upon” (e.g., Isa 47:7; Lam 1:9; Job 21:6; 36:24; 40:32; Eccl 11:8); cf. BDB 270 s.v. זָכַר 5; HALOT 270 s.v. I זכר 2.
+
+### Verse 20 - Note 2
+[翻訳注]  The word “fleeting” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 20 - Note 3
+[翻訳注]  The term מַעֲנֵה (ma’aneh, Hiphil participle ms from II עָנָה, ’anah, “to be occupied”) refers to activity that keeps a person physically busy and mentally preoccupied, e.g., Eccl 1:13; 3:10; 5:19 (HALOT 854; BDB 775 s.v. עָנָה II). The related noun עִנְיַן (’inyan,“business; occupation; task”) refers to activity that keeps man busy and occupies his time, e.g., Eccl 1:13; 2:26; 3:10 (HALOT 857; BDB 775 s.v. עִנְיָן). The participle form is used to emphasize durative, uninterrupted, continual action.
+
+### Verse 20 - Note 4
+[翻訳注]  Heb “with the joy of his heart.” The words “he derives from his activity” do not appear in the Hebrew, but they are added to clarify the Teacher’s point in light of what he says right before this.

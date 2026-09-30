@@ -1,0 +1,133 @@
+# Ecclesiastes 11 (English)
+
+## Text
+
+**1** Send your grain overseas, for after many days you will get a return. 
+
+**2** Divide your merchandise among seven or even eight investments, for you do not know what calamity may happen on earth. 
+
+**3** If the clouds are full of rain, they will empty themselves on the earth, and whether a tree falls to the south or to the north, the tree will lie wherever it falls. 
+
+**4** He who watches the wind will not sow, and he who observes the clouds will not reap. 
+
+**5** Just as you do not know the path of the wind or how the bones form in the womb of a pregnant woman, so you do not know the work of God who makes everything. 
+
+**6** Sow your seed in the morning, and do not stop working until the evening; for you do not know which activity will succeed— whether this one or that one, or whether both will prosper equally. 
+
+**7** Light is sweet, and it is pleasant for a person to see the sun. 
+
+**8** So, if a man lives many years, let him rejoice in them all, but let him remember that the days of darkness will be many—all that is about to come is obscure. 
+
+**9** Rejoice, young man, while you are young, and let your heart cheer you in the days of your youth. Follow the impulses of your heart and the desires of your eyes, but know that God will judge your motives and actions.
+
+**10** Banish emotional stress from your mind and put away pain from your body; for youth and the prime of life are fleeting. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The verb שָׁלַח (shalakh, “to send; to cast”) refers to the action of sending something to someone (e.g., Neh 8:12; HALOT 1995 s.v. שׁלח). The term is traditionally rendered here as “cast” (KJV, NAB, RES, ASV, NASB, NIV); however, some render it “send” (NJPS, NRSV, NEB). LXX uses ἀπόστειλον (aposteilon, “send”).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “your bread.” The term לֶחֶם (lekhem) is traditionally rendered “bread” (KJV, NAB, RSV, NRSV, ASV, NASB, NIV, NJPS). However, 11:1-2 seems to deal with exporting goods overseas (D. R. Glenn, “Ecclesiastes,” BKCOT, 1002-3). It is better to take לֶחֶם (“bread”) as a metonymy of product, standing for the grain and wheat from which bread is produced (e.g., Gen 41:54-55; 47:13, 15, 17, 19; 49:20; Num 15:19; 2 Kgs 18:32; Isa 28:28; 30:23; 36:17; 55:10; Jer 5:17; Ezek 48:18; Job 28:5; Ps 104:14; Prov 28:3); see HALOT 526 s.v. 1; BDB 537 s.v. 1.b. It is taken this way by several translations: “grain” (NEB) and “goods” (Moffatt). Qoheleth encouraged the export of grain products overseas in international trade.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “upon the surface of the waters.” This is traditionally viewed as extolling generosity from which a reward will be reaped. On the other hand, some scholars suggest that the imagery deals with commercial business through maritime trade. M. Jastrow took this verse as advice to take risks in business by trusting one’s goods or ships that will after many days return with a profit (A. Cohen, The Five Megilloth [SoBB], 181). Sea trade was risky in the ancient Near East, but it brought big returns to its investors (e.g., 1 Kgs 9:26-28; 10:22; Ps 107:23); see D. R. Glenn, “Ecclesiastes,” BKCOT, 1002-3. The verse is rendered thus: “Send your grain across the seas, and in time you will get a return” (NEB); or “Trust your goods far and wide at sea, till you get a good return after a while” (Moffatt).
+
+### Verse 1 - Note 4
+[翻訳注]  Heb “find it.”
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “give a portion.”
+
+### Verse 2 - Note 2
+[翻訳注]  The phrase “seven or eight” is a graded numerical saying depicting an indefinite plurality: “The collocation of a numeral with the next above it is a rhetorical device employed in numerical sayings to express a number, which need not, or cannot, be more exactly specified. It must be gathered from the context whether such formulae are intended to denote only an insignificant number (e.g., Is 17:6 “two” or at the most “three”) or a considerable number (e.g., Mi 5:4). Sometimes, however, this juxtaposition serves to express merely an indefinite total, without the collateral idea of intensifying the lower by means of the higher number” (GKC 437 §134.s). Examples: “one” or “two” (Deut 32:30; Jer 3:14; Job 33:14; 40:5; Ps 62:12); “two” or “three” (2 Kgs 9:32; Isa 17:6; Hos 6:2; Amos 4:8; Sir 23:16; 26:28; 50:25); “three” or “four” (Jer 36:23; Amos 1:3-11; Prov 21:19; 30:15, 18; Sir 26:5); “four” or “five” (Isa 17:6); “six” or “seven” (Job 5:19; Prov 6:16); “seven” or “eight” (Mic 5:4; Eccl 11:2).
+
+### Verse 2 - Note 3
+[翻訳注]  The word “investments” is not in the Hebrew text; it is added here for clarity. This line is traditionally understood as an exhortation to be generous to a multitude of people (KJV, NAB, ASV, NASB, RSV, NRSV, NIV, NJPS); however, it is better taken as shrewd advice to not commit all one’s possessions to a single venture (A. Cohen, The Five Megilloth [SoBB], 181). D. R. Glenn (“Ecclesiastes,” BKCOT, 1003) writes: “In view of the possibility of disaster, a person should make prudent investments in numerous ventures rather than put all his ‘eggs in one basket’ (e.g., Gen 32:7-8 for a practical example of this advice).” Several translations reflect this: “Divide your merchandise among seven ventures, eight maybe” (NEB); “Take shares in several ventures” (Moffatt).
+
+### Verse 2 - Note 4
+[解説]  The phrase you do not know is repeated throughout this section (11:2, 5-6). Human beings are ignorant of the future. This should motivate a person to invest their financial resources wisely (11:1-3) and to work diligently (11:4-6).
+
+### Verse 2 - Note 5
+[翻訳注]  The term רעה (lit. “evil”) refers to calamity (e.g., Eccl 5:13; 7:14; 9:12).
+
+### Verse 4 - Note 1
+[解説]  This proverb criticizes those who are overly cautious. The farmer who waits for the most opportune moment to plant when there is no wind to blow away the seed, and to reap when there is no rain to ruin a ripe harvest, will never do anything but sit around waiting for the right moment.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “what is the way of the wind.” Some take these words with what follows: “how the spirit comes to the bones in the womb of a pregnant woman.” There is debate whether הָרוּחַ מַה־דֶּרֶךְ (mah-derekh haruakh) refers to the wind (“the path of the wind”) or the human spirit of a child in the mother’s womb (“how the spirit comes”). The LXX understood it as the wind: “the way of the wind” (ἡ ὁδὸς τοῦ πνεύματος, Jh Jodos tou pneumatos); however, the Targum and Vulgate take it as the human spirit. The English versions are divided: (1) spirit: “the way of the spirit” (KJV, YLT, Douay); “the breath of life” (NAB); “how a pregnant woman comes to have…a living spirit in her womb” (NEB); “how the lifebreath passes into the limbs within the womb of the pregnant woman” (NJPS); “how the spirit comes to the bones in the womb of a woman with child” (RSV); “how the breath comes to the bones in the mother’s womb” (NRSV); and (2) wind: “the way of the wind” (ASV, RSV margin); “the path of the wind” (NASB, NIV); and “how the wind blows” (MLB, Moffatt).
+
+### Verse 5 - Note 2
+[翻訳注]  The term “form” does not appear in the Hebrew text, but is supplied in the translation for clarity and smoothness.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “the one who is full.” The feminine adjective מְלֵאָה (mÿle’ah, from מָלֵא, male’, “full”) is used as a substantive referring to a pregnant woman whose womb is filled with her infant (HALOT 584 s.v. מָלֵא 2; BDB 571 s.v. מָלֵא). This term is used in reference to a pregnant woman in later Hebrew (HALOT 584 s.v. מָלֵא). The LXX understood the term in this sense: κυοφορούσης (kuoforoushs, “pregnant woman”).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “do not let your hand rest.” The Hebrew phrase “do not let your hand rest” is an idiom that means “do not stop working” or “do not be idle” (e.g., Eccl 7:18); cf. BDB 628 s.v. נוּחַ B.1. Several English versions capture the sense of the idiom well: “do not stop working” (NEB); “do not be idle” (MLB); “let not your hand be idle” (NAB); “let not your hands be idle” (NIV); “stay not your hand” (Moffatt). The term “hand” is a synecdoche of part (i.e., do not let your hand rest) for the whole person (i.e., do not allow yourself to stop working).
+
+### Verse 6 - Note 2
+[翻訳注]  The terms “morning” (בֹּקֶר, boqer) and “evening” (עֶרֶב, ’erev) form a merism (a figure of speech using two polar extremes to include everything in between) that connotes “from morning until evening.” The point is not that the farmer should plant at two times in the day (morning and evening), but that he should plant all day long (from morning until evening). This merism is reflected in several translations: “in the morning…until evening” (NEB, Moffatt).
+
+### Verse 6 - Note 3
+[翻訳注]  The term “activity” does not appear in the Hebrew text, but is supplied in the translation for clarity and smoothness.
+
+### Verse 6 - Note 4
+[翻訳注]  The verb כָּשֵׁר (kasher, “to prosper”) is used metonymically to denote “will succeed.” In 11:10, it means “skill in work.”
+
+### Verse 6 - Note 5
+[翻訳注]  Or “together.”
+
+### Verse 7 - Note 1
+[翻訳注]  The term “light” (הָאוֹר, ha’or) is used figuratively (metonymy of association) in reference to “life” (e.g., Job 3:20; 33:30; Ps 56:14). By contrast, death is described as “darkness” (e.g., Eccl 11:8; 12:6-7).
+
+### Verse 7 - Note 2
+[翻訳注]  The Hebrew term מָתוֹק (matoq, “sweet”) is often used elsewhere in reference to honey. The point is that life is sweet and should be savored like honey.
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “to the eyes.” The term “eyes” is a synecdoche of part (i.e., eyes) for the whole person. Used with the idiom “to see the sun” (i.e., to be alive), Qoheleth is simply saying that the experience of a life is a pleasant thing that should be savored.
+
+### Verse 7 - Note 4
+[翻訳注]  The idiom “to see the sun” (both רָאָה הָשָּׁמֶשׁ, ra’ah hashamesh, and חָזָה הַשָּׁמֶשׁ, khazah hashamesh) is an idiom meaning “to be alive” (e.g., Ps 58:9; Eccl 6:5; 7:11; 11:7); cf. BDB 1039 s.v. שֶׁמֶשׁ 4.b. The opposite idiom, “the sun is darkened,” refers to the onset of old age and death (Eccl 12:2).
+
+### Verse 8 - Note 1
+[翻訳注]  The phrase “the days of darkness” refers to the onset of old age (Eccl 12:1-5) and the inevitable experience of death (Eccl 11:7-8; 12:6-7). Elsewhere, “darkness” is a figure of speech (metonymy of association) for death (Job 10:21-22; 17:13; 18:18).
+
+### Verse 8 - Note 2
+[翻訳注]  The term הֶבֶל (hevel) here means “obscure,” that is, unknown. This sense is derived from the literal concept of breath, vapor or wind that cannot be seen; thus, the idea of “obscure; dark; difficult to understand; enigmatic” (see HALOT 236–37 s.v. I הֶבֶל; BDB 210–11 s.v. I הֶבֶל). It is used in this sense in reference to enigmas in life (6:2; 8:10, 14) and the future which is obscure (11:8).
+
+### Verse 9 - Note 1
+[翻訳注]  Heb “in your youth”; or “in your childhood.”
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “walk in the ways of your heart.”
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “the sight.”
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “and know that concerning all these God will bring you into judgment.” The point is not that following one’s impulses and desires is inherently bad and will bring condemnation from God. Rather the point seems to be: As you follow your impulses and desires, realize that all you think and do will eventually be evaluated by God. So one must seek joy within the boundaries of God’s moral standards.
+
+### Verse 10 - Note 1
+[翻訳注]  The verb סוּר (sur, “to remove”) normally depicts a concrete action of removing a physical object from someone’s presence (HALOT 748 s.v. סור 1). Here, it is used figuratively (hypocatastasis) of the emotional/psychological action of banishing unnecessary emotional stress from one’s mind. The Hiphil usage means “to remove; to abolish; to keep away; to turn away; to push aside” (HALOT 748 s.v. 1). The English versions render this term in a variety of ways, none of which is very poetic: “remove” (KJV, RSV, ASV, NASB); “turn aside” (YLT); “ward off” (NAB); and “banish” (NEB, MLB, NIV, NRSV, NJPS, Moffatt).
+
+### Verse 10 - Note 2
+[翻訳注]  The root “vexation” (כַּעַס, ka’as) has a broad range of meanings: “anger” (Deut 4:25; 9:18), “irritation” (Deut 32:21), “offend” (2 Kgs 23:26; Neh 3:37), “vexation” or “frustration” (Ezek 20:28), “grief” (1 Sam 1:6), and “worry” (Ps 112:10; Eccl 7:9); cf. HALOT 491 s.v. כַּעַס. Here, it refers in general to unnecessary emotional stress and anxiety that can deprive a person of the legitimate enjoyment of life and its temporal benefits.
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “your heart.”
+
+### Verse 10 - Note 4
+[翻訳注]  In light of the parallelism, רָעָה (ra’ah) does not refer to ethical evil, but to physical injury, pain, deprivation or suffering (e.g., Deut 31:17, 21; 32:23; 1 Sam 10:19; Neh 1:3; 2:17; Pss 34:20; 40:13; 88:4; 107:26; Eccl 12:1; Jer 2:27; Lam 3:38); see HALOT 1263 s.v. רָעָה 4.b; BDB 949 s.v. רָעָה 2. This sense is best captured as “pain” (NASB, RSV, NRSV, MLB, Moffatt) or “the troubles [of your body]” (NEB, NIV), rather than “evil” (KJV, ASV, YLT, Douay) or “sorrow” (NJPS).
+
+### Verse 10 - Note 5
+[翻訳注]  Heb “your flesh.”
+
+### Verse 10 - Note 6
+[翻訳注]  Or “childhood.”
+
+### Verse 10 - Note 7
+[翻訳注]  Or “youth”; Heb “black hair” or “the dawn [of life].” The feminine noun הַשַּׁחֲרוּת (hashakharut) is a hapax legomenon, occurring only here. There is debate whether it is from שָׁחֹר (shakhor) which means “black” (i.e. black hair, e.g., Lev 13:31, 37; Song 5:11; HALOT 1465 s.v. שׁחר; BDB 1007 s.v. שָׁחֹר and שָׁחַר) or שַׁחַר (shakhar) which means “dawn” (e.g., Gen 19:15; Job 3:9; Song 6:10; HALOT 1466–67 s.v. שָׁחַר). If this term is from שָׁחֹר it is used in contrast to gray hair that characterizes old age (e.g., Prov 16:31; 20:29). This would be a figure (metonymy of association) for youthfulness. On the other hand, if the term is from שַׁחַר it connotes the “dawn of life” or “prime of life.” This would be a figure (hypocatastasis) for youthfulness. In either case, the term is a figure for “youth” or “prime of life,” as the parallel term הַיַּלְדוּת (hayyaldut, “youth” or “childhood”) indicates. The term is rendered variously in the English versions: “black hair” (NJPS); “the dawn of youth” (NAB); “the dawn of life” (ASV, MLB, RSV, NRSV); “the prime of life” (NEB, NASB); “vigor” (NIV); “youth” (KJV); and “manhood” (Moffatt). The plural forms of הַשַּׁחֲרוּת and הַיַּלְדוּת are examples of the plural of state or condition that a person experiences for a temporary period of time, e.g., זְקֻנִים (zÿqunim, “old age”); נְעוּרִים (nÿ’urim, “youth”); and עֲלוּמִים (’alumim, “youthfulness”); see IBHS 121 §7.4.2b.
+
+### Verse 10 - Note 8
+[翻訳注]  The term הֶבֶל (hevel, “vanity”) often connotes the temporal idea “fleeting” (e.g., Prov 31:30; Eccl 3:19; 6:12; 7:15; 9:9). This nuance is suggested here by the collocation of “youth” (הַיַּלְדוּת, hayyaldut) and “the prime of life” (הַשַּׁחֲרוּת, hashakharut).

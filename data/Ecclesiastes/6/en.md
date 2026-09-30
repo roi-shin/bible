@@ -1,0 +1,167 @@
+# Ecclesiastes 6 (English)
+
+## Text
+
+**1** Here is another misfortune that I have seen on earth, and it weighs heavily on people: 
+
+**2** God gives a man riches, property, and wealth so that he lacks nothing that his heart desires, yet God does not enable him to enjoy the fruit of his labor— instead, someone else enjoys it! This is fruitless and a grave misfortune. 
+
+**3** Even if a man fathers a hundred children and lives many years, even if he lives a long, long time, but cannot enjoy his prosperity— even if he were to live forever— I would say, “A stillborn child is better off than he is.”
+
+**4** Though the stillborn child came into the world for no reason and departed into darkness, though its name is shrouded in darkness, 
+
+**5** though it never saw the light of day nor knew anything, yet it has more rest than that man—
+
+**6** if he should live a thousand years twice, yet does not enjoy his prosperity. For both of them die! 
+
+**7** All man’s labor is for nothing more than to fill his stomach— yet his appetite is never satisfied! 
+
+**8** So what advantage does a wise man have over a fool? And what advantage does a pauper gain by knowing how to survive? 
+
+**9** It is better to be content with what the eyes can see than for one’s heart always to crave more. This continual longing is futile—like chasing the wind. 
+
+**10** Whatever has happened was foreordained, and what happens to a person was also foreknown. It is useless for him to argue with God about his fate because God is more powerful than he is.
+
+**11** The more one argues with words, the less he accomplishes. How does that benefit him? 
+
+**12** For no one knows what is best for a person during his life— during the few days of his fleeting life— for they pass away like a shadow. Nor can anyone tell him what the future will hold for him on earth. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The term יֵשׁ (yesh, “there is”) is often used in aphorisms to assert the existence of a particular situation that occurs sometimes. It may indicate that the situation is not the rule but that it does occur on occasion, and may be nuanced “sometimes” (Prov 11:24; 13:7, 23; 14:12; 16:25; 18:24; 20:15; Eccl 2:21; 4:8; 5:12; 6:1; 7:15 [2x]; 8:14 [3x]).
+
+### Verse 1 - Note 2
+[翻訳注]  The noun רָעָה (ra’ah, “evil”) probably means “misfortune” (HALOT 1263 s.v. רָעָה 4) or “injustice, wrong” (HALOT 1262 s.v. רָעָה 2.b); see, e.g., Eccl 2:17; 5:12, 15; 6:1; 10:5.
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “under the sun.”
+
+### Verse 1 - Note 4
+[翻訳注]  The word “weighs” does not appear in Hebrew, but is added in the translation for smoothness.
+
+### Verse 1 - Note 5
+[翻訳注]  Heb “it is great upon men.” The phrase וְרַבָּה הִיא עַל־הָאָדָם (vÿrabbah hi’ ’al-ha’adam) is taken in two basic ways: (1) commonality: “it is common among men” (KJV, MLB), “it is prevalent among men” (NASB), “that is frequent among men” (Douay). (2) oppressiveness: “it lies heavy upon men” (RSV, NRSV), “it weighs heavily upon men” (NEB, NAB, NIV), “it presses heavily on men” (Moffatt), “it is heavy upon men” (ASV), and “a grave one it is for man” (NJPS). The preposition עַל (’al, “upon”) argues against the first in favor of the second; the notion of commonality would be denoted by the preposition בְּ (bet, “among”). The singular noun אָדָם (’adam) is used as a collective, denoting “men.” The article on הָאָדָם (ha’adam) is used in a generic sense referring to humankind as a whole; the generic article is often used with a collective singular (IBHS 244 §13.5.1f).
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “his appetite.”
+
+### Verse 2 - Note 2
+[翻訳注]  Heb “There is no lack in respect to his appetite”; or “his desire lacks nothing.”
+
+### Verse 2 - Note 3
+[翻訳注]  The verb שָׁלַט (shalat) in the Qal stem means “to domineer; to dominate; to lord it over; to be master of” and in the Hiphil stem “to give power to” (BDB 1020 s.v. שָׁלַט) and “to grant” (HALOT 1522 s.v. שׁלט). God must grant a person the ability to enjoy the fruit of his labor, otherwise a person will not be able to enjoy his possessions and wealth. The ability to partake of the fruit of one’s labor and to find satisfaction and joy in it is a gift from God (e.g., Eccl 2:24-26; 3:13; 5:18 [19]; 9:7).
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “to eat of it.” The verb אָכַל (’akhal, “to eat”) functions as a metonymy of association, that is, the action of eating is associated with the enjoyment of the fruit of one’s labor (e.g., Eccl 2:24-26; 3:12-13, 22; 5:17-19; 8:15; 9:9).
+
+### Verse 2 - Note 5
+[翻訳注]  The phrase “the fruit of his labor” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 2 - Note 6
+[翻訳注]  Heb “a stranger.” The Hebrew expression אִיש נָכְרִי (’ish nokhri, “stranger”) sometimes refers not to a foreigner or someone that the person does not know, but simply to someone else other than the subject (e.g., Prov 27:2). In the light of 6:3-6, it might even refer to the man’s own heirs. The term is used as a synecdoche of species (foreigner for stranger) in the sense of someone else other than the subject: “someone else” (BDB 649 s.v. נָכְרִי 3).
+
+### Verse 2 - Note 7
+[翻訳注]  Heb “eats.”
+
+### Verse 2 - Note 8
+[解説]  Instead, someone else enjoys it. A person may be unable to enjoy the fruit of his/her labor due to an unfortunate turn of events that robs a person of his possessions (5:13-14) or a miserly, lifelong hoarding of one’s wealth that robs him of the ability to enjoy what he has worked so hard to acquire (5:15-17). Qoheleth recommends the enjoyment of life and the fruit of one’s labor, as God enables (5:18-20). Unfortunately, the ability to enjoy the fruits of one’s labor is often thwarted by the obstacles described in 6:1-2 and 6:3-9.
+
+### Verse 2 - Note 9
+[翻訳注]  Heb “an evil sickness.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “the days of his years are many.”
+
+### Verse 3 - Note 2
+[翻訳注]  Heb “he has no burial.” The phrase וְגַם־קְבוּרָה לֹא־הָיְתָה (vÿgam-qÿvurah lo’-haytah, “he even has no burial”) is traditionally treated as part of a description of the man’s sorry final state, that is, he is deprived of even a proper burial (KJV, NEB, RSV, NRSV, ASV, NASB, NIV, NJPS, MLB, Moffatt). However, the preceding parallel lines suggest that this a hyperbolic protasis: “If he were to live one hundred years…even if he were never buried [i.e., were to live forever]….” A similar idea occurs elsewhere (e.g., Pss 49:9; 89:48). See D. R. Glenn, “Ecclesiastes,” BKCOT, 990.
+
+### Verse 3 - Note 3
+[翻訳注]  The noun נֶפֶל (nefel) denotes “miscarriage” and by metonymy of effect, “stillborn child” (e.g., Ps 58:9; Job 3:16; Eccl 6:3); cf. HALOT 711. The noun is related to the verb נָפַל (nafal, “to fall,” but occasionally “to be born”; see Isa 26:18); cf. HALOT 710 s.v. נפל 5.
+
+### Verse 3 - Note 4
+[解説]  The point of 6:3-6 is that the futility of unenjoyed wealth is worse than the tragedy of being stillborn.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “he”; the referent (“the stillborn child”) has been specified in the translation for clarity.
+
+### Verse 4 - Note 2
+[翻訳注]  The phrase “into the world” does not appear in Hebrew, but is added in the translation for clarity.
+
+### Verse 4 - Note 3
+[解説]  The birth of the stillborn was in vain – it did it no good to be born.
+
+### Verse 4 - Note 4
+[解説]  The name of the stillborn is forgotten.
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “it never saw the sun.”
+
+### Verse 5 - Note 2
+[翻訳注]  The word “anything” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 5 - Note 3
+[解説]  The Hebrew term translated rest here refers to freedom from toil, anxiety, and misery – part of the miserable misfortune that the miserly man of wealth must endure.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “Do not all go to the same place?” The rhetorical question is an example of erotesis of positive affirmation, expecting a positive answer, e.g., Ps 56:13 [14] (see E. W. Bullinger, Figures of Speech, 947). It affirms the fact that both the miserly rich man who lives two thousand years, as well as the stillborn who never lived one day, both go to the same place – the grave. And if the miserly rich man never enjoyed the fruit of his labor during his life, his fate was no better than that of the stillborn who never had opportunity to enjoy any of the blessings of life. In a sense, it would have been better for the miserly rich man to have never lived than to have experienced the toil, anxiety, and misery of accumulating his wealth, but never enjoying any of the fruits of his labor.
+
+### Verse 7 - Note 1
+[翻訳注]  The phrase “for nothing more than” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “All man’s work is for his mouth.” The term “mouth” functions as a synecdoche of part (i.e., mouth) for the whole (i.e., person), substituting the organ of consumption for the person’s action of consumption (see E. W. Bullinger, Figures of Speech, 641-43), as suggested by the parallelism with נֶפֶשׁ (nefesh, “his appetite”).
+
+### Verse 7 - Note 3
+[翻訳注]  The term נֶפֶשׁ (nefesh, “desire; appetite”) is used as a metonymy of association, that is, the soul is associated with man’s desires and appetites (BDB 660 s.v. נֶפֶשׁ 5.c; 6.a).
+
+### Verse 8 - Note 1
+[解説]  So what advantage does the wise man have over a fool? The rhetorical question in Hebrew implies a negative answer: the wise man has no absolute advantage over a fool in the sense that both will share the same fate: death. Qoheleth should not be misunderstood here as denying that wisdom has no relative advantage over folly; elsewhere he affirms that wisdom does yield some relative benefits in life (7:1-22). However, wisdom cannot deliver one from death.
+
+### Verse 8 - Note 2
+[解説]  As in the preceding parallel line, this rhetorical question implies a negative answer (see the note after the word “fool” in the preceding line).
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “ What to the pauper who knows to walk before the living”; or “how to get along in life.”
+
+### Verse 9 - Note 1
+[翻訳注]  The phrase “to be content with” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 9 - Note 2
+[翻訳注]  The expression מַרְאֵה עֵינַיִם (mar’eh ’enayim, “the seeing of the eyes”) is a metonymy of cause (i.e., seeing an object) for effect (i.e., being content with what the eyes can see); see E. W. Bullinger, Figures of Speech, 552-54.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “the roaming of the soul.” The expression מֵהֲלָךְ־נָפֶשׁ (mehalakh-nafesh, “the roaming of the soul”) is a metonymy for unfulfilled desires. The term “soul” (נֶפֶשׁ, nefesh) is used as a metonymy of association for man’s desires and appetites (BDB 660 s.v. נֶפֶשׁ 5.c; 6.a). This also involves the personification of the roving appetite as “roving” (מֵהֲלָךְ); see BDB 235 s.v. הָלַךְ II.3.f; 232 I.3.
+
+### Verse 9 - Note 4
+[翻訳注]  The phrase “continual longing” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 9 - Note 5
+[翻訳注]  The term “like” does not appear in the Hebrew text, but is supplied in the translation for clarity and smoothness.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “already its name was called.”
+
+### Verse 10 - Note 2
+[翻訳注]  Or “and what a person (Heb “man”) is was foreknown.”
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “he cannot contend with the one who is more powerful than him.” The referent of the “the one who is more powerful than he is” (God) has been specified in the translation for clarity. The words “with God about his fate” have been added for clarity as well.
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “The more the words, the more the futility.”
+
+### Verse 11 - Note 2
+[翻訳注]  Or “What benefit does man have [in that]?”
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “For who knows what is good for a man in life?” The rhetorical question (“For who knows…?”) is a negative affirmation, expecting a negative answer: “For no one knows…!” (see E. W. Bullinger, Figures of Speech, 949-51). The translation renders this rhetorical device as a positive affirmation.
+
+### Verse 12 - Note 2
+[翻訳注]  The vav prefixed to וְיַעֲשֵׂם (vÿya’asem, conjunction + Qal imperfect 3rd person masculine singular from עָשַׂה, ’asah, “to do” + 3rd person masculine plural suffix) functions in an explanatory or epexegetical sense (“For …”).
+
+### Verse 12 - Note 3
+[翻訳注]  The 3rd person masculine plural suffix on the verb וְיַעֲשֵׂם (vÿya’asem, conjunction + Qal imperfect 3rd person masculine singular from ָָעשַׂה, ’asah, “to do” + 3rd person masculine plural suffix) refers to מִסְפַּר יְמֵי־חַיֵּי הֶבְלוֹ (mispar yÿme-khayye hevlo, “the few days of his fleeting life”). The suffix may be taken as an objective genitive: “he spends them [i.e., the days of his life] like a shadow” (HALOT 891 s.v. I ָָעשַׂה 8) or as a subjective genitive: “they [i.e., the days of his life] pass like a shadow” (BDB 795 s.v. ָָעשַׂה II.11).
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “Who can tell the man what shall be after him under the sun?” The rhetorical question (“For who can tell him…?”) is a negative affirmation, expecting a negative answer: “For no one can tell him…!” (see E. W. Bullinger, Figures of Speech, 949-51). The translation renders this rhetorical device as a positive affirmation.

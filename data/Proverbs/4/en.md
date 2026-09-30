@@ -1,0 +1,245 @@
+# Proverbs 4 (English)
+
+## Text
+
+**1** Listen, children, to a father’s instruction, and pay attention so that you may gain discernment. 
+
+**2** Because I hereby give you good instruction, do not forsake my teaching. 
+
+**3** When I was a son to my father, a tender, only child before my mother, 
+
+**4** he taught me, and he said to me: “Let your heart lay hold of my words; keep my commands so that you will live. 
+
+**5** Acquire wisdom, acquire understanding; do not forget and do not turn aside from the words I speak. 
+
+**6** Do not forsake wisdom, and she will protect you; love her, and she will guard you.
+
+**7** Wisdom is supreme—so acquire wisdom, and whatever you acquire, acquire understanding! 
+
+**8** Esteem her highly and she will exalt you; she will honor you if you embrace her.
+
+**9** She will place a fair garland on your head; she will bestow a beautiful crown on you.”
+
+**10** Listen, my child, and accept my words so that the years of your life will be many. 
+
+**11** I hereby guide you in the way of wisdom, and I lead you in upright paths. 
+
+**12** When you walk, your steps will not be hampered, and when you run, you will not stumble. 
+
+**13** Hold on to instruction, do not let it go; protect it, because it is your life. 
+
+**14** Do not enter the path of the wicked or walk in the way of those who are evil. 
+
+**15** Avoid it, do not go on it; turn away from it, and go on. 
+
+**16** For they cannot sleep unless they cause harm; they are robbed of sleep until they make someone stumble. 
+
+**17** Indeed they have eaten bread gained from wickedness and drink wine obtained from violence. 
+
+**18** But the path of the righteous is like the bright morning light, growing brighter and brighter until full day. 
+
+**19** The way of the wicked is like gloomy darkness; they do not know what they stumble over. 
+
+**20** My child, pay attention to my words; listen attentively to my sayings. 
+
+**21** Do not let them depart from your sight; guard them within your heart, 
+
+**22** for they are life to those who find them and healing to one’s entire body. 
+
+**23** Guard your heart with all vigilance, for from it are the sources of life. 
+
+**24** Remove perverse speech from your mouth; keep devious talk far from your lips. 
+
+**25** Let your eyes look directly in front of you, and let your gaze look straight before you.
+
+**26** Make the path for your feet level, so that all your ways may be established. 
+
+**27** Do not turn to the right or to the left; turn yourself away from evil. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  The chapter includes an exhortation to acquire wisdom (1-4a), a list of the benefits of wisdom (4b-9), a call to pursue a righteous lifestyle (10-13), a warning against a wicked lifestyle (14-19), and an exhortation to righteousness (20-27).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “sons.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “discipline.”
+
+### Verse 1 - Note 4
+[翻訳注]  The Qal infinitive construct with preposition ל (lamed) indicates the purpose/result of the preceding imperative.
+
+### Verse 1 - Note 5
+[翻訳注]  Heb “know” (so KJV, ASV).
+
+### Verse 2 - Note 1
+[翻訳注]  The perfect tense has the nuance of instantaneous perfect; the sage is now calling the disciples to listen. It could also be a perfect of resolve, indicating what he is determined to do.
+
+### Verse 2 - Note 2
+[翻訳注]  The word לֶקַח (leqakh, “instruction”) can be subjective (instruction acquired) or objective (the thing being taught). The latter fits best here.
+
+### Verse 3 - Note 1
+[翻訳注]  Or “a boy with my father.”
+
+### Verse 3 - Note 2
+[写本注]  The LXX introduces the ideas of “obedient” and “beloved” for these two terms. This seems to be a free rendering, if not a translation of a different Hebrew textual tradition. The MT makes good sense and requires no emendation.[翻訳注]  Heb “tender and only one.” The phrase רַךְ וְיָחִיד (rakh vÿyakhid, “tender and only one”) is a hendiadys meaning “tender only child.” The adjective רַךְ (rakh) means “tender; delicate” (BDB 940 s.v. רַךְ), and describes a lad who is young and undeveloped in character (e.g., 2 Sam 3:39). The adjective יָחִיד (yakhid) means “only one” (BDB 402 s.v. יָחִיד) and refers to a beloved and prized only child (e.g., Gen 22:2).
+
+### Verse 4 - Note 1
+[翻訳注]  The imperative with the vav expresses volitional sequence after the preceding imperative: “keep and then you will live,” meaning “keep so that you may live.”
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “from the words of my mouth” (so KJV, NASB, NRSV); TEV, CEV “what I say.”[解説]  The verse uses repetition for the imperative “acquire” to underscore the importance of getting wisdom; it then uses two verb forms for the one prepositional phrase to stress the warning.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “her”; the 3rd person feminine singular referent is personified “wisdom,” which has been specified in the translation for clarity.
+
+### Verse 7 - Note 1
+[翻訳注]  The absolute and construct state of רֵאשִׁית (re’shit) are identical (BDB 912 s.v.). Some treat רֵאשִׁית חָכְמָה (re’shit khokhmah) as a genitive-construct phrase: “the beginning of wisdom” (cf. NAB, NASB, NRSV). Others take רֵאשִׁית as an absolute functioning as predicate and חָכְמָה as the subject: “wisdom is the first/chief thing” (cf. KJV, ASV). The context here suggests the predicate.
+
+### Verse 7 - Note 2
+[翻訳注]  The term “so” does not appear in the Hebrew but is supplied in the translation for the sake of smoothness and style.
+
+### Verse 7 - Note 3
+[翻訳注]  The noun קִנְיָן (qinyan) means “thing got or acquired; acquisition” (BDB 889 s.v.). With the preposition that denotes price, it means “with (or at the price of) all that you have acquired.” The point is that no price is too high for wisdom – give everything for it (K&D 16:108).
+
+### Verse 7 - Note 4
+[写本注]  The verse is not in the LXX; some textual critics delete the verse as an impossible gloss that interrupts vv. 6 and 8 (e.g., C. H. Toy, Proverbs [ICC], 88).
+
+### Verse 8 - Note 1
+[翻訳注]  The verb is the Pilpel imperative from סָלַל (salal, “to lift up; to cast up”). So the imperative means “exalt her; esteem her highly; prize her.”
+
+### Verse 9 - Note 1
+[解説]  The personification of wisdom continues with the bestowal of a wreath for the head (e.g., 1:9). The point is that grace will be given to the individual like a wreath about the head.
+
+### Verse 9 - Note 2
+[翻訳注]  The verb מָגַן (magan) is a Piel (denominative) verb from the noun “shield.” Here it means “to bestow” (BDB 171 s.v.).
+
+### Verse 9 - Note 3
+[解説]  This verse uses wedding imagery: The wife (wisdom) who is embraced by her husband (the disciple) will place the wedding crown on the head of her new bridegroom. Wisdom, like a virtuous wife, will crown the individual with honor and grace.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “my son” (likewise in v. 20).
+
+### Verse 10 - Note 2
+[翻訳注]  The vav prefixed to the imperfect verb follows an imperative; this volitive sequence depicts purpose/result.
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “and the years of life will be many for you.”
+
+### Verse 11 - Note 1
+[翻訳注]  The form הֹרֵתִיךָ (horetikha) is the Hiphil perfect with a suffix from the root יָרָה (yarah, “to guide”). This and the parallel verb should be taken as instantaneous perfects, translated as an English present tense: The sage is now instructing or pointing the way.[解説]  The verb יָרָה (yarah) means “to teach; to instruct; to guide.” This is from the same root as the Hebrew word for “law” (torah). See G. R. Driver, “Hebrew Notes,” VT 1 (1951): 241-50; and J. L. Crenshaw, “The Acquisition of Knowledge in Israelite Wisdom Literature,” WW 7 (1986): 9.
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “in the tracks of uprightness”; cf. NAB “on straightforward paths.” Both the verb and the object of the preposition make use of the idiom – the verb is the Hiphil perfect from דֶּרֶךְ (derekh, related to “road; way”) and the object is “wagon tracks, paths.”
+
+### Verse 12 - Note 1
+[解説]  The noun צַעֲדֶךָ (tsa’adekha, “your steps”) and the temporal infinitive בְּלֶכְתְּךָ (belekhtÿkha, “when you walk”) use the idiom of walking to represent the course of life. On that course there will be no obstacles; the “path” will be straight – morally and practically.
+
+### Verse 12 - Note 2
+[解説]  The verb צָרַר (tsarar, “to be narrow; to be constricted”) refers to that which is narrow or constricted, signifying distress, trouble, adversity; that which was wide-open or broad represents freedom and deliverance.
+
+### Verse 12 - Note 3
+[解説]  The progression from walking to running is an idiom called “anabasis,” suggesting that as greater and swifter progress is made, there will be nothing to impede the progress (e.g., Isa 40:31).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “discipline.”
+
+### Verse 13 - Note 2
+[翻訳注]  The form נִצְּרֶהָ (nitsÿreha, from נָצַר, natsar) has an anomalous doubled letter (see GKC 73 §20.h).
+
+### Verse 14 - Note 1
+[翻訳注]  The verb אָשַׁר (’ashar, “to walk”) is not to be confused with the identically spelled homonym אָשַׁר “to pronounce happy” as in BDB 80 s.v. אָשַׁר.
+
+### Verse 15 - Note 1
+[解説]  The verb עָבַר (’avar, “to cross over; to travel through”) ends both cola. In the first it warns against going on wrong paths; in the second it means “to go your own way,” but may hint that the way will cross over the wrong way. The rapid sequence of commands stresses the urgency of the matter.
+
+### Verse 16 - Note 1
+[解説]  The verb is רָעַע (ra’a’), which means “to do evil; to harm.” The verse is using the figure of hyperbole to stress the preoccupation of some people with causing trouble. R. L. Alden says, “How sick to find peace only at the price of another man’s misfortune” (Proverbs, 47).
+
+### Verse 16 - Note 2
+[解説]  Heb “their sleep is robbed/seized”; these expressions are metonymical for their restlessness in plotting evil.
+
+### Verse 16 - Note 3
+[解説]  The Hiphil imperfect (Kethib) means “cause to stumble.” This idiom (from hypocatastasis) means “bring injury/ruin to someone” (BDB 505-6 s.v. כָּשַׁל Hiph.1).
+
+### Verse 17 - Note 1
+[翻訳注]  The noun is a cognate accusative stressing that they consume wickedness.
+
+### Verse 17 - Note 2
+[翻訳注]  Heb “the bread of wickedness” (so KJV, NAB, NIV, NRSV). There are two ways to take the genitives: (1) genitives of apposition: wickedness and violence are their food and drink (cf. TEV, CEV, NLT), or (2) genitives of source: they derive their livelihood from the evil they do (C. H. Toy, Proverbs [ICC], 93).
+
+### Verse 17 - Note 3
+[翻訳注]  Heb “the wine of violence” (so KJV, NAB, NIV, NRSV). This is a genitive of source, meaning that the wine they drink was plundered from their violent crime. The Hebrew is structured in an AB:BA chiasm: “For they eat the bread of wickedness, and the wine of violence they drink.” The word order in the translation is reversed for the sake of smoothness and readability.
+
+### Verse 18 - Note 1
+[翻訳注]  Heb “like light of brightness.” This construction is an attributive genitive: “bright light.” The word “light” (אוֹר, ’or) refers to the early morning light or the dawn (BDB 21 s.v.). The point of the simile is that the course of life that the righteous follow is like the clear, bright morning light. It is illumined, clear, easy to follow, and healthy and safe – the opposite of what darkness represents.
+
+### Verse 18 - Note 2
+[翻訳注]  The construction uses the Qal active participle of הָלַךְ (halakh) in a metaphorical sense to add the idea of continuance or continually to the participle הוֹלֵךְ (holekh). Here the path was growing light, but the added participle signifies continually.
+
+### Verse 18 - Note 3
+[翻訳注]  Heb “until the day is established.” This expression refers to the coming of the full day or the time of high noon.
+
+### Verse 19 - Note 1
+[解説]  The simile describes ignorance or spiritual blindness, sinfulness, calamity, despair.
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “in what they stumble.”
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “incline your ear.” The verb הַט (hat) is the Hiphil imperative from נָטָה (natah, Hiphil: “to turn to; to incline”). The idiom “to incline the ear” gives the picture of “lean over and listen closely.”[解説]  Commentators note the use of the body in this section: ear (v. 20), eyes (v. 21), flesh (v. 22), heart (v. 23), lips (v. 24), eyes (v. 25), feet (v. 26), and hands and feet (v. 27). Each is a synecdoche of part representing the whole; the total accumulation signifies the complete person in the process.
+
+### Verse 21 - Note 1
+[翻訳注]  The Hiphil form יַלִּיזוּ (yallizu) follows the Aramaic with gemination. The verb means “to turn aside; to depart” (intransitive Hiphil or inner causative).
+
+### Verse 21 - Note 2
+[翻訳注]  Or “keep” (so KJV, NIV, NRSV and many others).
+
+### Verse 21 - Note 3
+[解説]  The words “eyes” and “heart” are metonymies of subject representing the faculties of each. Cf. CEV “think about it all.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “to all of his flesh.”
+
+### Verse 23 - Note 1
+[翻訳注]  Heb “more than all guarding.” This idiom means “with all vigilance.” The construction uses the preposition מִן (min) to express “above; beyond,” the word “all” and the noun “prison; guard; act of guarding.” The latter is the use here (BDB 1038 s.v. מִשְׁמָר).
+
+### Verse 23 - Note 2
+[解説]  The word תּוֹצְאוֹת (tots’ot, from יָצָא, yatsa’) means “outgoings; extremities; sources.” It is used here for starting points, like a fountainhead, and so the translation “sources” works well.
+
+### Verse 24 - Note 1
+[翻訳注]  Heb “crookedness.” The noun עִקְּשׁוּת (’iqqÿshut) refers to what is morally twisted or perverted. Here it refers to things that are said (cf. NAB “dishonest talk”; NRSV “crooked speech”). The term “mouth” functions as a metonymy of cause for perverse speech. Such perverse talking could be subtle or blatant.
+
+### Verse 24 - Note 2
+[翻訳注]  Heb “crookedness of mouth.”
+
+### Verse 24 - Note 3
+[翻訳注]  Heb “deviousness of lips put far from you.”
+
+### Verse 25 - Note 1
+[翻訳注]  The jussives in this verse are both Hiphil, the first from the verb “to gaze; to look intently [or, carefully],” (נָבַט, navat) and the second from the verb “to be smooth, straight” (יָשָׁר, yashar).
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “your eyelids.” The term “eyelids” is often a poetic synonym for “eye” (it is a metonymy of adjunct, something connected with the eye put for the eye that sees); it may intensify the idea as one might squint to gain a clearer look.
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “path of your foot.”
+
+### Verse 26 - Note 2
+[解説]  The verb is a denominative Piel from the word פֶּלֶס (peles), “balance; scale.” In addition to telling the disciple to keep focused on a righteous life, the sage tells him to keep his path level, which is figurative for living the righteous life.
+
+### Verse 26 - Note 3
+[翻訳注]  The vav prefixed to the beginning of this dependent clause denotes purpose/result following the preceding imperative.
+
+### Verse 26 - Note 4
+[翻訳注]  The Niphal jussive from כּוּן (cun, “to be fixed; to be established; to be steadfast”) continues the idiom of walking and ways for the moral sense in life.
+
+### Verse 27 - Note 1
+[解説]  The two verbs in this verse are from different roots, but nonetheless share the same semantic domain. The first verb is תֵּט (tet), a jussive from נָטָה (natah), which means “to turn aside” (Hiphil); the second verb is the Hiphil imperative of סוּר (sur), which means “to cause to turn to the side” (Hiphil). The disciple is not to leave the path of righteousness; but to stay on the path he must leave evil.
+
+### Verse 27 - Note 2
+[翻訳注]  Heb “your foot” (so NAB, NIV, NRSV). The term רַגְלְךָ (raglÿkha, “your foot”) is a synecdoche of part (= foot) for the whole person (= “yourself”).
+
+### Verse 27 - Note 3
+[写本注]  The LXX adds, “For the way of the right hand God knows, but those of the left hand are distorted; and he himself will make straight your paths and guide your goings in peace.” The ideas presented here are not out of harmony with Proverbs, but the section clearly shows an expansion by the translator. For a brief discussion of whether this addition is Jewish or early Christian, see C. H. Toy, Proverbs (ICC), 99.

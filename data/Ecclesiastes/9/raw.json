@@ -1,0 +1,370 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;I laid all this to my heart.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1500;&#1464;&#1489;&#1493;&#1468;&#1512;</font> (<font face=\"Scholar\">velavur</font>, conjunction + Qal infinitive construct from <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1493;&#1468;&#1512;</font>, <font face=\"Scholar\">bur</font>, &#8220;to make clear&#8221;) denotes &#8220;to examine; to make clear; to clear up; to explain&#8221; (<i>HALOT</i> 116 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1493;&#1512;</font>; BDB 101 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1493;&#1468;&#1512;</font>). The term is related to Arabic <i>baraw</i> &#8220;to examine&#8221; (G. R. Driver, &#8220;Supposed Arabisms in the Old Testament,&#8221; <i>JBL</i> 55 [1936]: 108). This verb is related to the Hebrew noun <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1465;&#1512;</font> (<font face=\"Scholar\">bor</font>, &#8220;cleanness&#8221;) and adjective <font face=\"Galaxie Unicode Hebrew\">&#1489;&#1468;&#1463;&#1512;</font> (<font face=\"Scholar\">bar</font>, &#8220;clean&#8221;). The term is used in the OT only in Ecclesiastes (<span class=\"bibleref\" title=\"Ecclesiastes 1:13;2:3;7:25;9:1\">1:13; 2:3; 7:25; 9:1</span>). This use of the infinitive has a connotative sense (&#8220;attempting to&#8221;), and functions in a complementary sense, relative to the main verb.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;I concluded that&#8221; do not appear in the Hebrew text, but are supplied in the translation for clarity.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;whether love or hatred.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;man does not know anything before them.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all things just as to everyone, one fate.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The MT reads simply &#8220;the good,&#8221; but the Greek versions read &#8220;the good and the bad.&#8221; In contrast to the other four pairs in v. <span class=\"bibleref\" title=\"Ecclesiastes 9:2\">2</span> (&#8220;the righteous and the wicked,&#8221; &#8220;those who sacrifice, and those who do not sacrifice,&#8221; &#8220;the good man&#8230;the sinner,&#8221; and &#8220;those who make vows&#8230;those who are afraid to make vows&#8221;), the MT has a triad in the second line: <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489; &#1493;&#1456;&#1500;&#1463;&#1496;&#1468;&#1464;&#1492;&#1493;&#1465;&#1512; &#1493;&#1456;&#1500;&#1463;&#1496;&#1468;&#1464;&#1502;&#1461;&#1488;</font> (<font face=\"Scholar\">lattov v&#255;lattahor v&#255;lattame</font>&#8217;, &#8220;the good, and the clean, and the unclean&#8221;). This reading in the Leningrad Codex (ca. <sc>a.d.</sc> 1008) &#8211; the basis of the <i>BHS</i> and <i>BHK</i> publications of the MT &#8211; is also supported by the Ben Asher text of the First Rabbinic Bible (&#8220;the Soncino Bible&#8221;) published in <sc>a.d.</sc> 1488-94. On the other hand, the Greek version in B (Aquila) has two pairs: <font face=\"Galaxie Unicode Greek\">&#964;&#8183; &#7936;&#947;&#945;&#952;&#8183; &#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#954;&#8183;</font>, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#952;&#945;&#961;&#8183; &#954;&#945;&#8054; &#964;&#8183; &#7936;&#954;&#945;&#952;&#940;&#961;&#964;&#8179;</font> (&#8220;the good and the bad, and the clean and the unclean&#8221;). Either Aquila inserted <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#954;&#8183;</font> (<font face=\"Greektl\">kai tw kakw</font>, &#8220;and the bad&#8221;) to fill out a pair and to create six parallel pairs in v. <span class=\"bibleref\" title=\"Ecclesiastes 9:2\">2</span>, or Aquila reflects an early Hebrew textual tradition tradition of <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489; &#1493;&#1456;&#1500;&#1463;&#1512;&#1464;&#1506;</font> (<font face=\"Scholar\">lattov v&#255;lara</font>&#8217;, &#8220;the good and the bad&#8221;). Since Aquila is well known for his commitment to a literal &#8211; at times even a mechanically wooden &#8211; translation of the Hebrew, with no room for improvisation, it is more than likely that Aquila is reflecting an authentic Hebrew textual tradition. Aquila dates to <sc>a.d.</sc> 130, while the Leningrad Codex dates to <sc>a.d.</sc> 1008; therefore, the <i>Vorlage</i> of Aquila might have been the original Hebrew textual tradition, being much earlier than the MT of the Leningrad Codex. The alternate textual tradition of Aquila is also seen in the Syriac and Latin versions (but these are dependent upon the Greek = Aquila). On the other hand, the editors of <i>BHK</i> and <i>BHS</i> suggest that the presence of the anomalous <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489;</font> was an addition to the Hebrew text, and should be deleted. They also suggest that the Greek pair <font face=\"Galaxie Unicode Greek\">&#964;&#8183; &#7936;&#947;&#945;&#952;&#8183; &#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#954;&#8183;</font> (<font face=\"Greektl\">tw agaqw kai tw kakw</font>, &#8220;the good and the bad&#8221;) does not reflect an alternate textual tradition, but that their <i>Vorlage</i> contained only <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489;</font>: the Greek version intentionally added <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#954;&#8183;</font> (<font face=\"Greektl\">kai tw kakw</font>, &#8220;and the bad&#8221;) to create a pair. The English versions are divided. Several follow the Greek: &#8220;the good and the bad, the clean and the unclean&#8221; (NEB, NAB, RSV, NRSV, NIV, Moffatt, NLT). Others follow the Hebrew: &#8220;the good and the clean and the unclean&#8221; (KJV, ASV, MLB, NJPS). None, however, delete &#8220;the good&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489;</font>) as suggested by the <i>BHK</i> and <i>BHS</i> editors. If the shorter text were original, the addition of <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#8054; &#964;&#8183; &#954;&#945;&#954;&#8183;</font> would be intentional. If the longer text were original, the omission of <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1500;&#1463;&#1512;&#1464;&#1506;</font> (&#8220;and the bad&#8221;) could have caused by unintentional homoioarcton (&#8220;similar beginning&#8221;) in the three-fold repetition of <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1496;</font> in <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1500;&#1463;&#1512;&#1464;&#1506; &#1493;&#1456;&#1500;&#1463;&#1496;&#1468;&#1464;&#1492;&#1493;&#1465;&#1512; &#1493;&#1456;&#1500;&#1463;&#1496;&#1468;&#1464;&#1502;&#1461;&#1488;</font> <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489;</font> (<font face=\"Scholar\">lattov v&#255;lara</font>&#8217; <font face=\"Scholar\">v&#255;lattahor v&#255;lattame</font>&#8217;, &#8220;the good and the bad, the clean and the unclean&#8221;). The term <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1500;&#1463;&#1512;&#1464;&#1506;</font> (&#8220;and the bad&#8221;) was accidentally omitted when a scribe skipped from the first occurrence of <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1496;</font> in <font face=\"Galaxie Unicode Hebrew\">&#1500;&#1463;&#1496;&#1468;&#1493;&#1465;&#1489;</font> to its second occurrence in the word <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1500;&#1463;&#1496;&#1468;&#1464;&#1492;&#1493;&#1465;&#1512;</font> (&#8220;the clean&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;As is the good (man), so is the sinner.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;evil.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term &#8220;awaits&#8221; does not appear in the Hebrew text, but is supplied in the translation for smoothness and stylistic reasons.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;also the heart of the sons of man.&#8221; Here &#8220;heart&#8221; is a collective singular.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;and after that [they go] to [the place of] the dead.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The consonantal text (<i>Kethib</i>) has &#8220;is chosen, selected.&#8221; The translation follows the marginal reading (<i>Qere</i>), &#8220;is joined.&#8221; See BDB 288 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1495;&#1464;&#1489;&#1463;&#1512;</font> Pu.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;all the living.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;for their memory is forgotten.&#8221; The pronominal suffix is an objective genitive, &#8220;memory of them.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their love.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their hatred.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;their envy.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;your bread.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;see.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the wife whom you love.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> As discussed in the note on the word &#8220;futile&#8221; in <span class=\"bibleref\" title=\"Ecclesiastes 1:2\">1:2</span>, the term <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1462;&#1489;&#1462;&#1500;</font> (<font face=\"Scholar\">hevel</font>) has a wide range of meanings, and should not be translated the same in every place (see <i>HALOT</i> 236&#8211;37 s.v. I <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1462;&#1489;&#1462;&#1500;</font>; BDB 210&#8211;11 s.v. I <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1489;&#1462;&#1500;</font>). The term is used in two basic ways in OT, literally and figuratively. The literal, concrete sense is used in reference to the wind, man&#8217;s transitory breath, evanescent vapor (<span class=\"bibleref\" title=\"Isaiah 57:13\">Isa 57:13</span>; <span class=\"bibleref\" title=\"Psalms 62:10;144:4\">Pss 62:10; 144:4</span>; <span class=\"bibleref\" title=\"Proverbs 21:6\">Prov 21:6</span>; <span class=\"bibleref\" title=\"Job 7:16\">Job 7:16</span>). In this sense, it is often a synonym for &#8220;breath; wind&#8221; (<span class=\"bibleref\" title=\"Ecclesiastes 1:14\">Eccl 1:14</span>; <span class=\"bibleref\" title=\"Isaiah 57:13\">Isa 57:13</span>; <span class=\"bibleref\" title=\"Jeremiah 10:14\">Jer 10:14</span>). The literal sense lent itself to the metaphorical sense. Because breath/vapor/wind is transitory and fleeting, the figurative connotation &#8220;fleeting; transitory&#8221; arose (e.g., <span class=\"bibleref\" title=\"Proverbs 31:30\">Prov 31:30</span>; <span class=\"bibleref\" title=\"Ecclesiastes 6:12;7:15;9:9;11:10\">Eccl 6:12; 7:15; 9:9; 11:10</span>; <span class=\"bibleref\" title=\"Job 7:16\">Job 7:16</span>). In this sense, it is parallel to &#8220;few days&#8221; and &#8220;[days] which he passes like a shadow&#8221; (<span class=\"bibleref\" title=\"Ecclesiastes 6:12\">Eccl 6:12</span>). It is used in reference to youth and vigor (<span class=\"bibleref\" title=\"Ecclesiastes 11:10\">11:10</span>) or life (<span class=\"bibleref\" title=\"Ecclesiastes 6:12;7:15;9:9\">6:12; 7:15; 9:9</span>) which are &#8220;transitory&#8221; or &#8220;fleeting.&#8221; In this context, the most appropriate meaning is &#8220;fleeting.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;he&#8221;; the referent (God) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> The phrase <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1464;&#1500; &#1497;&#1456;&#1502;&#1461;&#1497; &#1492;&#1462;&#1489;&#1456;&#1500;&#1462;&#1498;&#1464;</font> (<font face=\"Scholar\">kol y&#255;me hevlekha</font>, &#8220;all your fleeting days&#8221;) is present in the MT, but absent in the Greek versions, other medieval Hebrew <sc>mss</sc>, and the Targum. Its appearance in the MT may be due to dittography (repetition: the scribe wrote twice what should have been written once) from <font face=\"Galaxie Unicode Hebrew\">&#1499;&#1468;&#1464;&#1500; &#1497;&#1456;&#1502;&#1461;&#1497; &#1495;&#1463;&#1497;&#1468;&#1461;&#1497; &#1492;&#1462;&#1489;&#1456;&#1500;&#1462;&#1498;&#1464;</font> (<font face=\"Scholar\">kol y&#255;me khayye hevlekha</font>, &#8220;all the days of your fleeting life&#8221;) which appears in the preceding line. On the other hand, its omission in the alternate textual tradition may be due to haplography (accidental omission of repeated words) with the earlier line.</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;in your toil in which you toil.&#8221;</div>"
+      ],
+      [
+        8,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun.&#8221;</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Whatever your hand finds to do.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Sheol.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;where you are about to go.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;I returned and.&#8221; In the Hebrew idiom, &#8220;to return and do&#8221; means &#8220;to do again.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term &#8220;always&#8221; does not appear in the Hebrew text, but is supplied in the translation (five times in this verse) for clarity.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;bread.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;favor.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;happen to.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;man.&#8221; The term is used here in a generic sense and translated &#8220;no one.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;time.&#8221; BDB 773 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1461;&#1514;</font> 2.d suggests that <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1461;&#1514;</font> (&#8217;<font face=\"Scholar\">et</font>, &#8220;time&#8221;) refers to an &#8220;uncertain time.&#8221; On the other hand, <i>HALOT</i> 901 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1506;&#1461;&#1514;</font> 6 nuances it as &#8220;destined time,&#8221; that is, &#8220;no one knows his destined time [i.e., hour of destiny].&#8221; It is used in parallelism with <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1456;&#1502;&#1464;&#1503;</font> (<font face=\"Scholar\">z&#255;man</font>, &#8220;appointed time; appointed hour&#8221;) in <span class=\"bibleref\" title=\"Ecclesiastes 3:1\">3:1</span> (<i>HALOT</i> 273 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1456;&#1502;&#1464;&#1503;</font>; BDB 273 s.v. <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1456;&#1502;&#1464;&#1503;</font>). <span class=\"bibleref\" title=\"Ecclesiastes 3:9-15\">Eccl 3:9-15</span> teaches God&#8217;s sovereignty over the appointed time-table of human events. Similarly, Qoheleth here notes that no one knows what God has appointed in any situation or time. This highlights the limitations of human wisdom and human ability, as <span class=\"bibleref\" title=\"Ecclesiastes 9:11\">9:11</span> stresses.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;bad, evil.&#8221; The moral connotation hardly fits here. The adjective would seem to indicate that the net is the instrument whereby the fish come to ruin.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;the sons of man.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Masoretes pointed the consonantal form <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1511;&#1513;&#1473;&#1497;&#1501;</font> (&#8220;are ensnared&#8221;) as <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1468;&#1511;&#1464;&#1513;&#1473;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">yuqashim</font>, Pual participle mpl from <font face=\"Galaxie Unicode Hebrew\">&#1464;&#1463;&#1497;&#1511;&#1465;&#1513;&#1473;</font>, <font face=\"Scholar\">yaqosh</font>, &#8220;to be ensnared&#8221;). This is an unusual form for a Pual participle: (1) The characteristic doubling of the middle consonant was omitted due to the lengthening of the preceding short vowel from <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1467;&#1511;&#1468;&#1464;&#1513;&#1473;&#1460;&#1497;&#1501;</font> to <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1468;&#1511;&#1464;&#1513;&#1473;&#1460;&#1497;&#1501;</font> (GKC 74 &#167;20.<i>n</i> and 143 &#167;52.<i>s</i>), and (2) The characteristic prefix <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1456;</font> (<font face=\"Scholar\">mem</font>) is absent, as in a few other Pual participles, e.g., <span class=\"bibleref\" title=\"Exodus 3:2\">Exod 3:2</span>; <span class=\"bibleref\" title=\"Judges 13:8\">Judg 13:8</span>; <span class=\"bibleref\" title=\"2 Kings 2:10\">2 Kgs 2:10</span>; <span class=\"bibleref\" title=\"Isaiah 30:24;54:11\">Isa 30:24; 54:11</span> (GKC 143 &#167;52.<i>s</i>). On the other hand, the consonant form <font face=\"Galaxie Unicode Hebrew\">&#1497;&#1493;&#1511;&#1513;&#1497;&#1501;</font> might actually be an example of the old Qal passive participle which dropped out of Hebrew at an early stage, and was frequently mistaken by the Masoretes as a Pual form (e.g., <span class=\"bibleref\" title=\"Jeremiah 13:10;23:32\">Jer 13:10; 23:32</span>) (GKC 143 &#167;52.<i>s</i>). Similarly, the Masoretes pointed <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1499;&#1500;</font> as <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1467;&#1499;&#1468;&#1464;&#1500;</font> (&#8217;<font face=\"Scholar\">ukkal</font>, Pual perfect 3rd person masculine singular &#8220;he was eaten&#8221;); however, it probably should be pointed <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1467;&#1499;&#1463;&#1500;</font> (&#8217;<font face=\"Scholar\">ukhal</font>, old Qal passive perfect 3rd person masculine singular &#8220;he was eaten&#8221;) because <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1464;&#1499;&#1463;&#1500;</font> (&#8217;<font face=\"Scholar\">akhal</font>) only occurs in the Qal (see <i>IBHS</i> 373-74 &#167;22.6a).</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;evil.&#8221; The term <font face=\"Galaxie Unicode Hebrew\">&#1512;&#1464;&#1506;&#1464;&#1492;</font> (<font face=\"Scholar\">ra</font>&#8217;<font face=\"Scholar\">ah</font>, &#8220;evil; unfortunate&#8221;) is repeated in v. <span class=\"bibleref\" title=\"Ecclesiastes 9:12\">12</span> in the two parts of the comparison: &#8220;fish are caught in an evil (<font face=\"Galaxie Unicode Hebrew\">&#1512;&#1464;&#1506;&#1464;&#1492;</font>) net&#8221; and &#8220;men are ensnared at an unfortunate (<font face=\"Galaxie Unicode Hebrew\">&#1512;&#1464;&#1506;&#1464;&#1492;</font>) time.&#8221;</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;under the sun.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term &#8220;burden&#8221; does not appear in the Hebrew text, but is supplied in the translation for clarity.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verbs in this section function either as past definite actions (describing a past situation) or as hypothetical past actions (describing an imaginary hypothetical situation for the sake of illustration). The LXX uses subjunctives throughout vv. <span class=\"bibleref\" title=\"Ecclesiastes 9:14-15\">14-15</span> to depict the scenario as a hypothetical situation: &#8220;Suppose there was a little city, and a few men [lived] in it; and there should come against it a great king, and surround it, and build great siege-works against it; and should find in it a poor wise man, and he should save the city through his wisdom; yet no man would remember that poor man.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The two perfect tense verbs <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1456;&#1505;&#1464;&#1489;&#1463;&#1489;</font> (<font face=\"Scholar\">v&#255;savav</font>, &#8220;he besieged&#8221;) and <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1468;&#1489;&#1464;&#1504;&#1464;&#1492;</font> (<font face=\"Scholar\">uvanah</font>, &#8220;he built&#8221;) may be taken in a complementary sense, qualifying the action of the main perfect tense verb <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1468;&#1489;&#1464;&#1488;</font> (<font face=\"Scholar\">uva</font>&#8217;, &#8220;he attacked it&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The root <font face=\"Galaxie Unicode Hebrew\">&#1490;&#1491;&#1500;</font> (&#8220;mighty; strong; large&#8221;) is repeated in <span class=\"bibleref\" title=\"Ecclesiastes 9:13\">9:13</span>b for emphasis: &#8220;a mighty (<font face=\"Galaxie Unicode Hebrew\">&#1490;&#1464;&#1491;&#1493;&#1465;&#1500;</font>, <font face=\"Scholar\">gadol</font>) king&#8230;building strong (<font face=\"Galaxie Unicode Hebrew\">&#1490;&#1456;&#1491;&#1465;&#1500;&#1460;&#1497;&#1501;</font>, <font face=\"Scholar\">g&#255;dolim</font>) siege works.&#8221; This repetition highlights the contrast between the vast power and resources of the attacking king, and the meager resources of the &#8220;little&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1511;&#1456;&#1496;&#1463;&#1504;&#1468;&#1464;&#1492;</font>, <font face=\"Scholar\">q&#255;tannah</font>) city with &#8220;few&#8221; (<font face=\"Galaxie Unicode Hebrew\">&#1502;&#1456;&#1506;&#1464;&#1496;</font>, <font face=\"Scholar\">m&#255;</font>&#8217;<font face=\"Scholar\">at</font>) men in it to defend it.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;was found in it&#8221;; the referent (the city) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;he delivered.&#8221; The verb <font face=\"Galaxie Unicode Hebrew\">&#1493;&#1468;&#1502;&#1460;&#1500;&#1468;&#1463;&#1496;</font> (<font face=\"Scholar\">umillat</font>, from <font face=\"Galaxie Unicode Hebrew\">&#1502;&#1464;&#1500;&#1463;&#1496;</font>, <font face=\"Scholar\">malat</font>, &#8220;to deliver&#8221;) is functioning either in an indicative sense (past definite action: &#8220;he delivered&#8221;) or in a modal sense (past potential: &#8220;he could have delivered&#8221;). The literal meaning of <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1464;&#1499;&#1463;&#1512;</font> (<font face=\"Scholar\">zakhar</font>, &#8220;to remember&#8221;) in the following line harmonizes with the indicative: &#8220;but no one remembered that poor man [afterward].&#8221; However, the modal is supported by v. <span class=\"bibleref\" title=\"Ecclesiastes 9:16\">16</span>: &#8220;A poor man&#8217;s wisdom is despised; no one ever listens to his advice.&#8221; This approach must nuance <font face=\"Galaxie Unicode Hebrew\">&#1494;&#1464;&#1499;&#1463;&#1512;</font> (&#8220;to remember&#8221;) as &#8220;[no one] listened to [that poor man].&#8221; Most translations favor the indicative approach: &#8220;he delivered&#8221; or &#8220;he saved&#8221; (KJV, RSV, NRSV, NAB, ASV, NASB, MLB, NIV); however, some adopt the modal nuance: &#8220;he might have saved&#8221; (NEB, NJPS, NASB margin).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;remembered.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;power.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The participle form <font face=\"Galaxie Unicode Hebrew\">&#1504;&#1460;&#1513;&#1473;&#1456;&#1502;&#1464;&#1506;&#1460;&#1497;&#1501;</font> (<font face=\"Scholar\">nishma</font>&#8217;<font face=\"Scholar\">im</font>, Niphal participle mpl from <font face=\"Galaxie Unicode Hebrew\">&#1513;&#1473;&#1464;&#1502;&#1463;&#1506;</font>, &#8220;to listen&#8221;) is used verbally to emphasize a continual, durative, gnomic action.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;his words are never listened to.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The phrase &#8220;is heard&#8221; does not appear in the Hebrew text, but is supplied in the translation for clarity and smoothness. Note its appearance in the previous line.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "1",
+      "text": "So I reflected on all this, attempting to clear it all up. I concluded that the righteous and the wise, as well as their works, are in the hand of God; whether a person will be loved or hated— no one knows what lies ahead. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "2",
+      "text": "Everyone shares the same fate— the righteous and the wicked, the good and the bad, the ceremonially clean and unclean, those who offer sacrifices and those who do not. What happens to the good person, also happens to the sinner; what happens to those who make vows, also happens to those who are afraid to make vows."
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "3",
+      "text": "This is the unfortunate fact about everything that happens on earth: The same fate awaits everyone. In addition to this, the hearts of all people are full of evil, and there is folly in their hearts during their lives—then they die. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "4",
+      "text": "But whoever is among the living has hope; a live dog is better than a dead lion. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "5",
+      "text": "For the living know that they will die, but the dead do not know anything; they have no further reward—and even the memory of them disappears. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "6",
+      "text": "What they loved, as well as what they hated and envied, perished long ago, and they no longer have a part in anything that happens on earth. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "7",
+      "text": "Go, eat your food with joy, and drink your wine with a happy heart, because God has already approved your works. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "8",
+      "text": "Let your clothes always be white, and do not spare precious ointment on your head. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "9",
+      "text": "Enjoy life with your beloved wife during all the days of your fleeting life that God has given you on earth during all your fleeting days; for that is your reward in life and in your burdensome work on earth. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "10",
+      "text": "Whatever you find to do with your hands, do it with all your might, because there is neither work nor planning nor knowledge nor wisdom in the grave, the place where you will eventually go. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "11",
+      "text": "Again, I observed this on the earth: The race is not always won by the swiftest, the battle is not always won by the strongest; prosperity does not always belong to those who are the wisest; wealth does not always belong to those who are the most discerning, nor does success always come to those with the most knowledge— for time and chance may overcome them all. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "12",
+      "text": "Surely, no one knows his appointed time. Like fish that are caught in a deadly net and like birds that are caught in a snare— just like them, all people are ensnared at an unfortunate time that falls upon them suddenly. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "13",
+      "text": "This is what I also observed about wisdom on earth, and it is a great burden to me:"
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "14",
+      "text": "There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it."
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "15",
+      "text": "However, a poor but wise man lived in the city, and he could have delivered the city by his wisdom, but no one listened to that poor man. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "16",
+      "text": "So I concluded that wisdom is better than might, but a poor man’s wisdom is despised; no one ever listens to his advice. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "17",
+      "text": "The words of the wise are heard in quiet, more than the shouting of a ruler is heard among fools. "
+    },
+    {
+      "bookname": "Ecclesiastes",
+      "chapter": "9",
+      "verse": "18",
+      "text": "Wisdom is better than weapons of war, but one sinner can destroy much that is good. "
+    }
+  ]
+}

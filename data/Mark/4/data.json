@@ -1,0 +1,525 @@
+{
+  "book": "Mark",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Again he began to teach by the lake. Such a large crowd gathered around him that he got into a boat on the lake and sat there while the whole crowd was on the shore by the lake. ",
+      "ja": "イエスは再び湖のほとりで教え始められた。大勢の群衆が集まったため、イエスは湖に浮かぶ舟に乗り込んで座り、群衆はみな湖のほとりの岸辺にいた。"
+    },
+    {
+      "verse": 2,
+      "en": "He taught them many things in parables, and in his teaching said to them: ",
+      "ja": "イエスはたとえによって多くのことを教え、その教えの中で彼らに言われた。"
+    },
+    {
+      "verse": 3,
+      "en": "“Listen! A sower went out to sow. ",
+      "ja": "「聞きなさい。種を蒔く人が蒔くために出て行った。"
+    },
+    {
+      "verse": 4,
+      "en": "And as he sowed, some seed fell along the path, and the birds came and devoured it. ",
+      "ja": "蒔いているとき、ある種は道端に落ち、鳥が来て食べてしまった。"
+    },
+    {
+      "verse": 5,
+      "en": "Other seed fell on rocky ground where it did not have much soil. It sprang up at once because the soil was not deep. ",
+      "ja": "ほかの種は土の少ない岩地に落ちた。土が深くないため、すぐに芽を出した。"
+    },
+    {
+      "verse": 6,
+      "en": "When the sun came up it was scorched, and because it did not have sufficient root, it withered. ",
+      "ja": "日が昇ると焼かれ、根が十分に張っていなかったため枯れてしまった。"
+    },
+    {
+      "verse": 7,
+      "en": "Other seed fell among the thorns, and they grew up and choked it, and it did not produce grain. ",
+      "ja": "ほかの種はいばらの中に落ちた。いばらが伸びて種をふさいだため、実を結ばなかった。"
+    },
+    {
+      "verse": 8,
+      "en": "But other seed fell on good soil and produced grain, sprouting and growing; some yielded thirty times as much, some sixty, and some a hundred times.” ",
+      "ja": "しかし、ほかの種は良い土に落ちて芽生え、成長して実を結び、30倍、60倍、100倍の収穫をもたらした。」"
+    },
+    {
+      "verse": 9,
+      "en": "And he said, “Whoever has ears to hear had better listen!” ",
+      "ja": "そして言われた。「聞く耳のある者は聞きなさい。」"
+    },
+    {
+      "verse": 10,
+      "en": "When he was alone, those around him with the twelve asked him about the parables. ",
+      "ja": "イエスが一人になられたとき、12人と共にイエスの周りにいた人々が、たとえについて尋ねた。"
+    },
+    {
+      "verse": 11,
+      "en": "He said to them, “The secret of the kingdom of God has been given to you. But to those outside, everything is in parables, ",
+      "ja": "イエスは彼らに言われた。「あなたがたには神の国の秘密が与えられている。しかし外の人々には、すべてがたとえで語られる。"
+    },
+    {
+      "verse": 12,
+      "en": "“so that <b>although they look they may look but not see,</b><b>and although they hear they may hear but not understand,</b><b>so they may not repent and be forgiven</b>.” ",
+      "ja": "『彼らは見ても見ることがなく、聞いても理解することがなく、悔い改めて赦されることがないためである。』」"
+    },
+    {
+      "verse": 13,
+      "en": "He said to them, “Don’t you understand this parable? Then how will you understand any parable? ",
+      "ja": "そして言われた。「あなたがたはこのたとえが分からないのか。それでは、どうしてすべてのたとえを理解できようか。"
+    },
+    {
+      "verse": 14,
+      "en": "The sower sows the word. ",
+      "ja": "種を蒔く人はみことばを蒔くのである。"
+    },
+    {
+      "verse": 15,
+      "en": "These are the ones on the path where the word is sown: Whenever they hear, immediately Satan comes and snatches the word that was sown in them. ",
+      "ja": "みことばが蒔かれた道端のものとは、こういう人々のことである。みことばを聞くと、すぐにサタンが来て、彼らの中に蒔かれたみことばを奪い去る。"
+    },
+    {
+      "verse": 16,
+      "en": "These are the ones sown on rocky ground: As soon as they hear the word, they receive it with joy. ",
+      "ja": "岩地に蒔かれたものとは、こういう人々のことである。みことばを聞くと、すぐに喜んで受け入れる。"
+    },
+    {
+      "verse": 17,
+      "en": "But they have no root in themselves and do not endure. Then, when trouble or persecution comes because of the word, immediately they fall away. ",
+      "ja": "しかし自分の中に根を持たず、長続きしない。みことばのために苦難や迫害が起こると、すぐにつまずいてしまう。"
+    },
+    {
+      "verse": 18,
+      "en": "Others are the ones sown among thorns: They are those who hear the word, ",
+      "ja": "また、いばらの中に蒔かれたものとは、みことばを聞くが、"
+    },
+    {
+      "verse": 19,
+      "en": "but worldly cares, the seductiveness of wealth, and the desire for other things come in and choke the word, and it produces nothing. ",
+      "ja": "世の思い煩いや富の誘惑、その他のものへの欲望が入り込んでみことばをふさぎ、実を結ばなくなる人々のことである。"
+    },
+    {
+      "verse": 20,
+      "en": "But these are the ones sown on good soil: They hear the word and receive it and bear fruit, one thirty times as much, one sixty, and one a hundred.” ",
+      "ja": "良い土に蒔かれたものとは、こういう人々のことである。みことばを聞いて受け入れ、30倍、60倍、100倍の実を結ぶ。」"
+    },
+    {
+      "verse": 21,
+      "en": "He also said to them, “A lamp isn’t brought to be put under a basket or under a bed, is it? Isn’t it to be placed on a lampstand? ",
+      "ja": "また言われた。「明かりは、枡の下や寝台の下に置くために持って来られるだろうか。ランプ台の上に置くためではないか。"
+    },
+    {
+      "verse": 22,
+      "en": "For nothing is hidden except to be revealed, and nothing concealed except to be brought to light. ",
+      "ja": "隠されているもので、現れないものはなく、秘密にされているもので、公にならないものはないからである。"
+    },
+    {
+      "verse": 23,
+      "en": "If anyone has ears to hear, he had better listen!” ",
+      "ja": "聞く耳のある者は聞きなさい。」"
+    },
+    {
+      "verse": 24,
+      "en": "And he said to them, “Take care about what you hear. The measure you use will be the measure you receive, and more will be added to you. ",
+      "ja": "また彼らに言われた。「聞いていることに注意しなさい。あなたがたが量るその秤であなたがたにも量り与えられ、さらに加えられるであろう。"
+    },
+    {
+      "verse": 25,
+      "en": "For whoever has will be given more, but whoever does not have, even what he has will be taken from him.” ",
+      "ja": "持っている人はさらに与えられ、持っていない人は持っているものまでも奪い取られるからである。」"
+    },
+    {
+      "verse": 26,
+      "en": "He also said, “The kingdom of God is like someone who spreads seed on the ground. ",
+      "ja": "また言われた。「神の国は、人が地に種を蒔くようなものである。"
+    },
+    {
+      "verse": 27,
+      "en": "He goes to sleep and gets up, night and day, and the seed sprouts and grows, though he does not know how.",
+      "ja": "夜昼、寝起きしているうちに、種は芽を出して育つが、どのようにしてそうなるのか、その人は知らない。"
+    },
+    {
+      "verse": 28,
+      "en": "By itself the soil produces a crop, first the stalk, then the head, then the full grain in the head. ",
+      "ja": "土はひとりでに実を結ばせる。初めに茎、次に穂、それから穂の中に豊かな実ができる。"
+    },
+    {
+      "verse": 29,
+      "en": "And when the grain is ripe, he sends in the sickle because the harvest has come.” ",
+      "ja": "実が熟すと、収穫の時が来たので鎌を入れるのである。」"
+    },
+    {
+      "verse": 30,
+      "en": "He also asked, “To what can we compare the kingdom of God, or what parable can we use to present it? ",
+      "ja": "また言われた。「私たちは神の国を何に比べたらよいだろうか。どのようなたとえで説明しようか。"
+    },
+    {
+      "verse": 31,
+      "en": "It is like a mustard seed that when sown in the ground, even though it is the smallest of all the seeds in the ground—",
+      "ja": "それはからし種のようなものである。地に蒔かれるときには、地上のあらゆる種の中で最も小さいが、"
+    },
+    {
+      "verse": 32,
+      "en": "when it is sown, it grows up, becomes the greatest of all garden plants, and grows large branches so that the wild birds can nest in its shade.” ",
+      "ja": "蒔かれると成長して、あらゆる園の植物よりも大きくなり、大きな大枝を伸ばし、野の鳥がその陰に巣を作ることができるようになる。」"
+    },
+    {
+      "verse": 33,
+      "en": "So with many parables like these, he spoke the word to them, as they were able to hear. ",
+      "ja": "イエスは、彼らが聞くことのできる程度に応じて、このような多くのたとえでみことばを語られた。"
+    },
+    {
+      "verse": 34,
+      "en": "He did not speak to them without a parable. But privately he explained everything to his own disciples. ",
+      "ja": "たとえを用いずに語ることはされなかった。しかし、ご自身の弟子たちには、内々にすべてを説明された。"
+    },
+    {
+      "verse": 35,
+      "en": "On that day, when evening came, Jesus said to his disciples, “Let’s go across to the other side of the lake.”",
+      "ja": "その日、夕方になると、イエスは弟子たちに「湖の向こう岸へ渡ろう」と言われた。"
+    },
+    {
+      "verse": 36,
+      "en": "So after leaving the crowd, they took him along, just as he was, in the boat, and other boats were with him. ",
+      "ja": "そこで彼らは群衆を後にし、イエスを舟に乗せたままお連れした。ほかの舟もイエスと一緒に行った。"
+    },
+    {
+      "verse": 37,
+      "en": "Now a great windstorm developed and the waves were breaking into the boat, so that the boat was nearly swamped. ",
+      "ja": "さて、激しい突風が起こり、波が舟の中に打ち寄せてきたため、舟は水浸しになりそうであった。"
+    },
+    {
+      "verse": 38,
+      "en": "But he was in the stern, sleeping on a cushion. They woke him up and said to him, “Teacher, don’t you care that we are about to die?” ",
+      "ja": "しかしイエスは船尾で、枕をして眠っておられた。弟子たちはイエスを起こして言った。「先生、私たちが溺れ死にそうなのに、気にならないのですか。」"
+    },
+    {
+      "verse": 39,
+      "en": "So he got up and rebuked the wind, and said to the sea, “Be quiet! Calm down!” Then the wind stopped, and it was dead calm. ",
+      "ja": "そこでイエスは起き上がって風を叱り、海に「静まれ。黙れ」と言われた。すると風はやみ、大凪になった。"
+    },
+    {
+      "verse": 40,
+      "en": "And he said to them, “Why are you cowardly? Do you still not have faith?” ",
+      "ja": "イエスは彼らに言われた。「なぜ怖がるのか。まだ信仰がないのか。」"
+    },
+    {
+      "verse": 41,
+      "en": "They were overwhelmed by fear and said to one another, “Who then is this? Even the wind and sea obey him!” ",
+      "ja": "彼らは恐れに包まれ、互いに言った。「いったいこの方はだれなのだろう。風や海までもが従うとは。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and all the crowd.” The clause in this phrase, although coordinate in terms of grammar, is logically subordinate to the previous clause.",
+        "ja": "[翻訳注] ギリシャ語では「そしてすべての群衆」。この句の節は、文法上は並列であるが、論理的には前の節に従属している。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  Though parables can contain a variety of figures of speech (cf. 2:19-22; 3:23-25; 4:3-9, 26-32; 7:15-17; 13:28), many times they are simply stories that attempt to teach spiritual truth (which is unknown to the hearers) by using a comparison with something known to the hearers. In general, parables usually advance a single idea, though there may be many parts and characters in a single parable and subordinate ideas may expand the main idea further. The beauty of using the parable as a teaching device is that it draws the listener into the story, elicits an evaluation, and demands a response.",
+        "ja": "[解説] たとえ話には多様な比ゆ的表現が含まれ得るが（2:19-22、3:23-25、4:3-9、26-32、7:15-17、13:28参照）、多くの場合、聞き手にとって未知の霊的真理を、聞き手にとって既知の事柄との比較を用いて教えようとする物語である。一般にたとえ話は一つの中心概念を提示する。ただし一つのたとえ話の中に多くの要素や登場人物が存在し、従属的な概念が主概念をさらに展開させることもある。教育手法としてのたとえ話の利点は、聞き手を物語に引き込み、評価を引き出し、応答を促す点にある。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[解説]  A sower went out to sow. The background for this well-known parable, drawn from a typical scene in the Palestinian countryside, is a field through which a well worn path runs. Sowing would occur in late fall or early winter (October to December) in the rainy season, looking for sprouting in April or May and a June harvest. The use of seed as a figure for God’s giving life has OT roots (Isa 55:10-11). The point of the parable of the sower is to illustrate the various responses to the message of the kingdom of God (cf. 4:11).",
+        "ja": "[解説] 「種を蒔く人が蒔くために出て行った」。パレスチナの農村の典型的な情景から取られたこの有名なたとえ話の背景は、踏み固められた道が通っている畑である。種蒔きは雨季である晩秋から初冬（10月から12月）に行われ、4月または5月の発芽と6月の収穫を期待する。神が命を与えることの象徴としての種の使用は旧約聖書に根拠を持つ（イザヤ55:10-11）。種を蒔く人のたとえ話の主眼は、神の国の知らせに対する多様な応答を例証することである（4:11参照）。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Mark’s version of the parable, like Luke’s (cf. Luke 8:4-8), uses the collective singular to refer to the seed throughout, so singular pronouns have been used consistently throughout this parable in the English translation. However, the parallel account in Matt 13:1-9 begins with plural pronouns in v. 4 but then switches to the collective singular in v. 5 ff.",
+        "ja": "[翻訳注] ルカの記述（ルカ8:4-8参照）と同様に、マルコのたとえ話でも全体を通して種を指すのに集合単数が用いられているため、英訳ではこのたとえ話全体で一貫して単数代名詞が使われている。しかし、マタイ13:1-9の並行記述では、4節で複数代名詞で始まり、5節以降で集合単数に切り替わる。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  The rocky ground in Palestine would be a limestone base lying right under the soil.",
+        "ja": "[解説] パレスチナの岩地とは、土のすぐ下に石灰岩の岩盤がある土地を指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “it did not have enough depth of earth.”",
+        "ja": "[翻訳注] ギリシャ語では「土の十分な深さがなかった」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “it did not have root.”",
+        "ja": "[翻訳注] ギリシャ語では「根を持たなかった」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[解説]  Palestinian weeds like these thorns could grow up to six feet in height and have a major root system.",
+        "ja": "[解説] このようないばらのパレスチナの雑草は、高さ約1.8メートル（6フィート）まで成長し、大きな根系を持つことがあった。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  That is, crowded out the good plants.",
+        "ja": "[解説] すなわち、良い作物の成長を圧迫したということである。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in the final stage of the parable.",
+        "ja": "[翻訳注] ここでは、たとえ話の最終段階に見られる対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation “had better listen!” captures the force of the third person imperative more effectively than the traditional “let him hear,” which sounds more like a permissive than an imperative to the modern English reader. This was Jesus’ common expression to listen and heed carefully (cf. Matt 11:15; 13:9, 43; Mark 4:23; Luke 8:8, 14:35).",
+        "ja": "[翻訳注] 「聞きなさい」という翻訳は、現代の英語読者に命令というより許容のように聞こえる従来の「彼に聞かせよ」よりも、三人称命令形のニュアンスを的確に伝えている。これは注意深く聞いて心に留めることを促す、イエスがよく用いられた表現である（マタイ11:15、13:9、43、マルコ4:23、ルカ8:8、14:35参照）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the mystery.”[解説]  The key term secret (μυστήριον, musthrion) can mean either (1) a new revelation or (2) a revealing interpretation of existing revelation as in Dan 2:17-23, 27-30. Jesus seems to be explaining how current events develop old promises, since the NT consistently links the events of Jesus’ ministry and message with old promises (Rom 1:1-4; Heb 1:1-2). The traditional translation of this word, “mystery,” is misleading to the modern English reader because it suggests a secret which people have tried to uncover but which they have failed to understand (L&N 28.77).",
+        "ja": "[翻訳注] ギリシャ語では「奥義」。[解説] 重要な用語である「秘密」（μυστήριον, mustērion）は、(1) 新しい啓示、または (2) ダニエル2:17-23、27-30にあるような既存の啓示の解明、のいずれかを意味する。新約聖書はイエスの宣教の出来事や教えを古い約束と一貫して結びつけているため（ローマ1:1-4、ヘブル1:1-2）、イエスは現在の出来事がかつての約束をいかに展開させているかを説明されていると思われる。この言葉の伝統的な訳語である「奥義（mystery）」は、人々が解明しようとしても理解できなかった秘密を連想させるため、現代の英語読者には誤解を招きやすい（L&N 28.77）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This is an example of a “divine passive,” with God understood to be the source of the revelation (see ExSyn 437-38).",
+        "ja": "[翻訳注] これは「神の受動態」の一例であり、神が啓示の源であると理解される（ExSyn 437-38参照）。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  A quotation from Isa 6:9-10. Thus parables both conceal or reveal depending on whether one is open to hearing what they teach.",
+        "ja": "[解説] イザヤ6:9-10からの引用。このように、たとえ話は教えを聞く姿勢があるかどうかに応じて、隠すこともあれば明らかに示すこともある。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは物語内の一連の展開を示すため、καί（カイ）が「それでは」と翻訳されている。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[解説]  Interestingly, the synoptic parallels each use a different word for Satan here: Matt 13:19 has “the evil one,” while Luke 8:12 has “the devil.” This illustrates the fluidity of the gospel tradition in often using synonyms at the same point of the parallel tradition.",
+        "ja": "[解説] 興味深いことに、共観福音書の並行箇所ではサタンに対してそれぞれ異なる語が用いられている。マタイ13:19では「悪い者」、ルカ8:12では「悪魔」となっている。これは、並行する伝承の同じ箇所で同義語がしばしば使用されるという、福音書伝承の柔軟性を示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The word of Jesus has the potential to save if it germinates in a person’s heart, something the devil is very much against.",
+        "ja": "[解説] イエスのみことばは、人の心の中で芽生えれば救いをもたらす力を持っているが、悪魔はこれに激しく反対している。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは文脈上の対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “are temporary.”",
+        "ja": "[翻訳注] ギリシャ語では「一時的である」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは文脈上の対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the deceitfulness of riches.” Cf. BDAG 99 s.v. ἀπάτη 1, “the seduction which comes from wealth.”",
+        "ja": "[翻訳注] ギリシャ語では「富の欺き」。BDAG 99 s.v. ἀπάτη 1「富から生じる誘惑」を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  That is, their concern for spiritual things is crowded out by material things.",
+        "ja": "[解説] すなわち、霊的な事柄への関心が物質的な事柄によって圧迫されるということである。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ここでは文脈上の対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[解説]  The lamp is probably an ancient oil burning lamp or perhaps a candlestick. Jesus is comparing revelation to light, particularly the revelation of his ministry.",
+        "ja": "[解説] 明かりとは古代の油ランプ、あるいは燭台と考えられる。イエスは啓示、とりわけご自身の宣教の啓示を光に例えている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “a bowl”; this refers to any container for dry material of about eight liters (two gallons) capacity. It could be translated “basket, box, bowl” (L&N 6.151).",
+        "ja": "[翻訳注] または「鉢」。これは約8リットル（2ガロン）の容量を持つ乾物用の容器全般を指す。「かご、箱、鉢」とも訳し得る（L&N 6.151）。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “disclosed.”",
+        "ja": "[翻訳注] または「明らかにされる」。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation “had better listen!” captures the force of the third person imperative more effectively than the traditional “let him hear,” which sounds more like a permissive than an imperative to the modern English reader. This was Jesus’ common expression to listen and heed carefully (cf. Matt 11:15; 13:9, 43; Mark 4:9; Luke 8:8, 14:35).",
+        "ja": "[翻訳注] 「聞きなさい」という翻訳は、現代の英語読者に命令というより許容のように聞こえる従来の「彼に聞かせよ」よりも、三人称命令形のニュアンスを的確に伝えている。これは注意深く聞いて心に留めることを促す、イエスがよく用いられた表現である（マタイ11:15、13:9、43、マルコ4:9、ルカ8:8、14:35参照）。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “by [the measure] with which you measure it will be measured to you.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたがたが量る秤によって、あなたがたに量り与えられる」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは文脈上の対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  What he has will be taken from him. The meaning is that the one who accepts Jesus’ teaching concerning his person and the kingdom will receive a share in the kingdom now and even more in the future, but for the one who rejects Jesus’ words, the opportunity that that person presently possesses with respect to the kingdom will someday be taken away forever.",
+        "ja": "[解説] 「持っているものまでも奪い取られる」。その意味は、イエスの人物像と神の国に関する教えを受け入れる者は、今すでに神の国の分を与えられ、将来さらに多くを与えられるが、イエスのみことばを拒絶する者は、神の国に関して現在有している機会さえもいつか永遠に奪い去られるということである。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek word εὐθύς (euqus, often translated “immediately” or “right away”) has not been translated here. It sometimes occurs with a weakened, inferential use (BDAG 406 s.v. 2), not contributing significantly to the flow of the narrative. For further discussion, see R. J. Decker, Temporal Deixis of the Greek Verb in the Gospel of Mark with Reference to Verbal Aspect (SBG 10), 73-77.",
+        "ja": "[翻訳注] ギリシャ語の単語 εὐθύς（エウテュス、しばしば「すぐに」「直ちに」と訳される）は、ここでは翻訳されていない。この語は時に弱められた推論的用法（BDAG 406 s.v. 2）で現れ、物語の流れに大きく寄与しないことがある。詳細な議論については、R. J. デッカー著『マルコ福音書におけるギリシャ語動詞の時制直示とアスペクト』（SBG 10）73-77頁を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Because the harvest has come. This parable is found only in Mark (cf. Matt 13:24-30) and presents a complete picture of the coming of God’s kingdom: (1) sowing; (2) growth; (3) harvest. Some understand the parable as a reference to evangelism. While this is certainly involved, it does not seem to be the central idea. In contrast to the parable of the sower which emphasizes the quality of the different soils, this parable emphasizes the power of the seed to cause growth (with the clear implication that the mysterious growth of the kingdom is accomplished by God), apart from human understanding and observation.",
+        "ja": "[解説] 「収穫の時が来たので」。このたとえ話はマルコにのみ見られ（マタイ13:24-30参照）、神の国の到来の全体像を提示している。(1) 種蒔き、(2) 成長、(3) 収穫。このたとえ話を伝道への言及と理解する者もいる。それは確かに含まれるものの、中心概念ではないと思われる。土の質の相違を強調する種を蒔く人のたとえ話とは対照的に、このたとえ話は人の理解や観察とは無関係に、成長をもたらす種の力を強調している（神の国の神秘的な成長が神によって成し遂げられることを明瞭に示唆している）。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[解説]  Mustard seeds are known for their tiny size.",
+        "ja": "[解説] からし種は非常に小さいことで知られている。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Mark 4:31-32 is fairly awkward in Greek. Literally the sentence reads as follows: “As a mustard seed, which when sown in the earth, being the smallest of all the seeds in the earth, and when it is sown, it grows up…” The structure has been rendered in more idiomatic English, although some of the awkward structure has been retained for rhetorical effect.",
+        "ja": "[翻訳注] マルコ4:31-32のギリシャ語はかなりぎこちない構造である。逐語的には「地に蒔かれるとき、地上のすべての種の中で最も小さいからし種のようであり、蒔かれると成長して…」と読める。修辞的効果のためにぎこちない構造の一部を残しつつも、より自然な英語の表現に整えられている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the birds of the sky” or “the birds of the heaven”; the Greek word οὐρανός (ouranos) may be translated either “sky” or “heaven,” depending on the context. The idiomatic expression “birds of the sky” refers to wild birds as opposed to domesticated fowl (cf. BDAG 809 s.v. πετεινόν).",
+        "ja": "[翻訳注] ギリシャ語では「空の鳥」または「天の鳥」。ギリシャ語の οὐρανός（ウーラノス）は文脈に応じて「空」または「天」と訳され得る。慣用表現の「空の鳥」は、家禽と対比される野の鳥を指す（BDAG 809 s.v. πετεινόν 参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The point of the parable seems to be that while the kingdom of God may appear to have insignificant and unnoticeable beginnings (i.e., in the ministry of Jesus), it will someday (i.e., at the second advent) be great and quite expansive. The kingdom, however, is not to be equated with the church, but rather the church is an expression of the kingdom. Also, there is important OT background in the image of the mustard seed that grew and became a tree: Ezek 17:22-24 pictures the reemergence of the Davidic house where people can find calm and shelter. Like the mustard seed, it would start out small but grow to significant size.",
+        "ja": "[解説] このたとえ話の主眼は、神の国は取るに足らず目立たない始まり（すなわちイエスの宣教）のように見えても、いつの日か（すなわち再臨において）大きく広大なものになるということにあると思われる。ただし、神の国は教会と同一視されるべきものではなく、むしろ教会は神の国の現れである。また、成長して木になるからし種のイメージには重要な旧約聖書の背景がある。エゼキエル17:22-24は、人々が安らぎと隠れ場を見出すダビデ家の再興を描いている。からし種のように、それは小さく始まるが大きなものへと成長するのである。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは物語における前述の行動から導かれる結果を示すため、καί（カイ）が「このように」と翻訳されている。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（イエス）を明確にするため、翻訳で補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The phrase “of the lake” is not in the Greek text but is clearly implied; it has been supplied here for clarity.",
+        "ja": "[翻訳注] 「湖の」という句はギリシャ語本文にはないが、明らかに含意されているため、明瞭さのためにここで補われている。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the response to Jesus’ request.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここではイエスの求めに対する応答を示すため、καί（カイ）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  It is possible that this prepositional phrase modifies “as he was,” not “they took him along.” The meaning would then be “they took him along in the boat in which he was already sitting” (see 4:1).[解説]  A boat that held all the disciples would be of significant size.",
+        "ja": "[翻訳注] この前置詞句は「お連れした」ではなく「乗せたまま」を修飾している可能性がある。その場合、意味は「すでに座っておられた舟のまま、イエスをお連れした」（4:1参照）となる。[解説] 弟子たち全員を乗せる舟は相当な大きさであったと考えられる。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは新たな話題への移行を示すため、καί（カイ）が「さて」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “a squall.”[解説]  The Sea of Galilee is located in a depression some 700 ft (200 m) below sea level and is surrounded by hills. Frequently a rush of wind and the right mix of temperatures can cause a storm to come suddenly on the lake. Storms on the Sea of Galilee were known for their suddenness and violence.",
+        "ja": "[翻訳注] または「スコール」。[解説] ガリラヤ湖は海抜約200メートル（700フィート）の窪地に位置し、周囲を丘陵に囲まれている。風の吹き込みと気温の条件により、湖上に突発的な嵐が発生することがしばしばある。ガリラヤ湖の嵐は、その突発性と激しさで知られていた。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは文脈上の対比を示すため、καί（カイ）が「しかし」と翻訳されている。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは物語における前述の行動から導かれる結果を示すため、καί（カイ）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “commanded” (often with the implication of a threat, L&N 33.331).",
+        "ja": "[翻訳注] または「命じた」（しばしば威嚇の含意を伴う、L&N 33.331）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Who has authority over the seas and winds is discussed in the OT: Ps 104:3; 135:7; 107:23-30. When Jesus rebuked the wind and the sea he was making a statement about who he was.",
+        "ja": "[解説] 海と風に対する権威を持つ者がだれであるかは、旧約聖書で論じられている（詩篇104:3、135:7、107:23-30）。イエスが風と海を叱られたとき、ご自身が何者であるかを宣言されていたのである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして」。ここでは物語内の一連の展開を示すため、καί（カイ）が「すると」と翻訳されている。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus’ authority over creation raised a question for the disciples about who he was exactly (Who then is this?). This verse shows that the disciples followed Jesus even though they did not know all about him yet.",
+        "ja": "[解説] 被造物に対するイエスの権威は、弟子たちにイエスが一体何者なのかという疑問を抱かせた（「いったいこの方はだれなのだろう」）。この節は、弟子たちがまだイエスのすべてを知らない状態でありながらも従っていたことを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This section in Mark (4:35-5:43) contains four miracles: (1) the calming of the storm; (2) the exorcism of the demon-possessed man; (3) the giving of life to Jairus’ daughter; (4) the healing of the woman hemorrhaging for twelve years. All these miracles demonstrate Jesus’ right to proclaim the kingdom message and his sovereign authority over forces, directly or indirectly, hostile to the kingdom. The last three may have been brought together to show that Jesus had power over all defilement, since contact with graves, blood, or a corpse was regarded under Jewish law as causing a state of ritual uncleanness.",
+        "ja": "[解説] マルコにおけるこの区分（4:35-5:43）には4つの奇跡が含まれている。(1) 嵐を静める、(2) 悪霊につかれた人の悪霊を追い出す、(3) ヤイロの娘に命を与える、(4) 12年間長血を患っていた女性を癒やす。これらすべての奇跡は、神の国の知らせを告げ知らせるイエスの権利と、直接的または間接的に神の国に敵対する力に対する主権的権威を証明している。最後の3つは、墓、血、死体との接触がユダヤ法下で儀式的な不浄をもたらすとみなされていたことから、イエスがあらゆる汚れに対して力を持っておられたことを示すためにまとめられた可能性がある。"
+      }
+    ]
+  }
+}

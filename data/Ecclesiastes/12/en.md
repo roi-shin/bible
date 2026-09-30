@@ -1,0 +1,162 @@
+# Ecclesiastes 12 (English)
+
+## Text
+
+**1** So remember your Creator in the days of your youth— before the difficult days come and the years draw near when you will say, “I have no pleasure in them”;
+
+**2** before the sun and the light of the moon and the stars grow dark, and the clouds disappear after the rain; 
+
+**3** when those who keep watch over the house begin to tremble, and the virile men begin to stoop over, and the grinders begin to cease because they grow few, and those who look through the windows grow dim, 
+
+**4** and the doors along the street are shut; when the sound of the grinding mill grows low, and one is awakened by the sound of a bird, and all their songs grow faint,
+
+**5** and they are afraid of heights and the dangers in the street; the almond blossoms grow white, and the grasshopper drags itself along, and the caper berry shrivels up— because man goes to his eternal home, and the mourners go about in the streets—
+
+**6** before the silver cord is removed, or the golden bowl is broken, or the pitcher is shattered at the well, or the water wheel is broken at the cistern—
+
+**7** and the dust returns to the earth as it was, and the life’s breath returns to God who gave it.
+
+**8** “Absolutely futile!” laments the Teacher, “All these things are futile!” 
+
+**9** Not only was the Teacher wise, but he also taught knowledge to the people; he carefully evaluated and arranged many proverbs. 
+
+**10** The Teacher sought to find delightful words and to write accurately truthful sayings. 
+
+**11** The words of the sages are like prods, and the collected sayings are like firmly fixed nails; they are given by one shepherd. 
+
+**12** Be warned, my son, of anything in addition to them. There is no end to the making of many books, and much study is exhausting to the body. 
+
+**13** Having heard everything, I have reached this conclusion: Fear God and keep his commandments, because this is the whole duty of man. 
+
+**14** For God will evaluate every deed, including every secret thing, whether good or evil. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The imperative זְכֹר (zekhor, “Remember!”) is a figurative expression (metonymy of association) for obeying God and acknowledging his lordship over one’s life (e.g., Num 15:40; Deut 8:18; Pss 42:6-7; 63:6-8; 78:42; 103:18; 106:7; 119:52, 55; Jer 51:50; Ezek 20:43; Jonah 2:7; Mal 4:4). The exhortation to fear God and obey his commands in 12:13-14 spells out what it means to “remember” God.
+
+### Verse 1 - Note 2
+[翻訳注]  The temporal adjective עַד (’ad, “before”) appears three times in 12:1-7 (vv. 1b, 2a, 6a). Likewise, the temporal preposition בְּ (bet, “when”) is repeated (vv. 3a, 4b). These seven verses comprise one long sentence in Hebrew: The main clause is 12:1a (“Remember your Creator in the days of your youth”), while 12:1b-7 consists of five subordinate temporal clauses (“before…before…when…when…before…”).
+
+### Verse 1 - Note 3
+[翻訳注]  The adjective רָעָה (ra’ah, “evil”) does not refer here to ethical evil, but to physical difficulty, injury, pain, deprivation and suffering (e.g., Deut 31:17, 21; 32:23; 1 Sam 10:19; Neh 1:3; 2:17; Pss 34:20; 40:13; 88:4; 107:26; Eccl 11:10; Jer 2:27; Lam 3:38); see HALOT 1263 s.v. רָעָה 4.b; BDB 949 s.v. רָעָה 2.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “the light and the moon and the stars.” The phrase “the light and the moon” is a hendiadys (two separate terms denoting one idea) or perhaps even a hendiatris (three separate terms denoting one idea) for “the light of the moon and stars” (e.g., Gen 1:14).
+
+### Verse 2 - Note 2
+[翻訳注]  The verb שׁוּב (shuv, “to return”) here denotes “to desist” (HALOT 1430 s.v. שׁוּב 3). It pictures the disappearance of the clouds as a result of the precipitation of their contents.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “the watchers of the house.”
+
+### Verse 3 - Note 2
+[翻訳注]  The verb זְוּעַ (zÿua’, “to tremble”) probably does not refer to physical tremors but to trembling in fear (e.g., Esth 5:9; Hab 2:7; Sir 48:12); cf. HALOT 267 s.v. זוע). At the onset of old age, those who had been the most courageous during their youth suddenly become fearful.
+
+### Verse 3 - Note 3
+[翻訳注]  The verb עָוַת (’avat, “to bend; to stoop”) means “to be stooped” (HALOT 804 s.v. עות) rather than “to bend themselves” (BDB 736 s.v. עות). The perfect tense may be taken in an ingressive sense (“begin to stoop over”).
+
+### Verse 3 - Note 4
+[翻訳注]  The term הַטֹּחֲנוֹת (hattokhanot, Qal active participle feminine plural from טָחַן, takhan, “to grind”) is a double entendre. In its literal sense, it refers to female mill-grinders; in its figurative sense, it refers to molar teeth (HALOT 374 s.v. *טֹחֲנָה). The related Hebrew noun טַחֲנָה (takhanah) refers to a “mill,” and the related Arabic noun tahinat means “molar tooth” (HALOT 374 s.v. *טַחֲנָה).
+
+### Verse 3 - Note 5
+[翻訳注]  The verb חָשַׁךְ (khashakh, “to grow dim”) is used elsewhere in reference to failing eyesight (e.g., Ps 69:24; Lam 5:17); see HALOT 361 s.v. חשׁך 2. Therefore, the phrase “those who look through the windows” is probably a figurative description of the eyes, picturing failing eyesight at the onset of old age.
+
+### Verse 4 - Note 1
+[翻訳注]  The noun טַחֲנָה (takhanah) refers to a “grinding-mill” where grain is ground into flour (HALOT 374 s.v. טַחֲנָה). The term is here used as a double entendre, figuratively describing the loss of one’s teeth at the onset of old age. The figurative usage also draws upon the polysemantic nature of this noun; the related Arabic root tahinat means “molar tooth” (HALOT 374 s.v. *טֹחֲנָה).
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “rises up.” The verb קוּם (qum, “to arise”) refers to being awakened from sleep in the middle of the night by a sound (e.g., Exod 12:30; 1 Sam 3:6, 8) and waking up early in the morning (e.g., Gen 24:54; Judg 16:3; Ruth 3:14; Neh 2:12; Job 14:12; 24:14); see HALOT 1086 s.v. קוּם 1; BDB 877 s.v. קוּם 1.a. Here it describes one of the frustrations of old age: the elderly person is unable to get a full night’s sleep because every little sound awakens him in the middle of the night or too early in the morning.
+
+### Verse 4 - Note 3
+[翻訳注]  The term “their” does not appear in the Hebrew text, but is supplied in the translation for clarity and smoothness.
+
+### Verse 4 - Note 4
+[翻訳注]  Heb “all the daughters of song.” The expression “the daughters of song” (בְּנוֹת הַשִּׁיר, bÿnot hashir) is an idiom for “songs; musical sounds; melodious notes” (HALOT 166 s.v. I בַּת 2; BDB 123 s.v. בַּת 5; GKC 418 §128.v). The genitive הַשִּׁיר (“song”) represents the nature, quality, character or condition of the construct בְּנוֹת (“daughters”); see IBHS 149-51 §9.5.3b. The idiom refers to the musical songs sung during one’s youth or to the ability to hear songs that are sung. This line is lamenting the loss of hearing which occurs at the onset of old age.
+
+### Verse 4 - Note 5
+[翻訳注]  Heb “are brought low.”
+
+### Verse 5 - Note 1
+[翻訳注]  The Hebrew noun חַתְחַתִּים (khatkhattim) literally means “terrors” (HALOT 363 s.v. חַתְחַת; BDB 369 s.v. חַתְחַת). Here it is used as a metonymy (cause for effect) to refer to dangers that cause the elderly to be fearful of going outside or walking along the streets. The form חַתְחַתִּים is a reduplicated noun stem from the root חתת (“terror”); HALOT 363 s.v. חַתְחַת; BDB 369 s.v. חַתְחַת. The reduplication of the noun stem intensifies its meaning: the noun חִתַּת (khittat) means “terror,” so the intensified reduplicated form חַתְחַת (khatkhat) connotes something like “great terror” (see S. Moscati, Comparative Grammar, 78-79, §12.9-13). The plural form חַתְחַתִּים (“great terrors”) denotes plural of number (more than one) or plural of intensity (which would further intensify the experience of fear); see IBHS 122 §7.4.3a.
+
+### Verse 5 - Note 2
+[翻訳注]  The noun שָׁקֵד (shaqed) is used in the OT in reference to the “almond nut” (e.g., Gen 43:11; Num 17:23) and metonymically (product for thing producing it) for the “almond tree” (e.g., Jer 1:11); cf. HALOT 1638 s.v. שָׁקֵד; BDB 1052 s.v. שָׁקֵד 2.
+
+### Verse 5 - Note 3
+[翻訳注]  The verb נצץ (“to blossom”) is a geminate verb (II = III) that, in this case, is written with a matres lectionis (plene spelling) rather than the normal spelling of וינץ (GKC 204 §73.g). The Hiphil verb יָנֵאץ (yane’ts) is from the root נצץ “to shine; to sparkle; to blossom” (HALOT 717 s.v. נצץ; BDB 665 s.v. נָצַץ). It is used in reference to almond blossoms whose color progresses from pink to white as they ripen (e.g., Song 6:11). This is an appropriate metaphor (comparison of sight) to describe white hair that often accompanies the onset of old age.
+
+### Verse 5 - Note 4
+[翻訳注]  Or “locust.”
+
+### Verse 5 - Note 5
+[翻訳注]  The verb סָבַל (saval, “to bear a heavy load”) means “to drag oneself along” as a burden (BDB 687 s.v. סָבַל) or “to become thick; to move slowly forward; to clear off” (HALOT 741 s.v. סבל).
+
+### Verse 5 - Note 6
+[翻訳注]  The noun אֲבִיּוֹנָה (’aviyyonah, “caper berry, caper fruit”) is a hapax legomenon, occurring only here in the Hebrew Bible. It refers to the Capparis spinosa fruit which was eaten as an aphrodisiac in the ancient Near East (HALOT 5 s.v. אֲבִיּוֹנָה; BDB 2–3 s.v. אֲבִיּוֹנָה). There are two options for the interpretation of this figure: (1) At the onset of old age, the sexual virility that marked one’s youth is nothing more than a distant memory, and even aphrodisiacs fail to stimulate sexual desire to allow for sexual intercourse. (2) The onset of old age is like the shriveling up of the caper berry fruit; the once virile youth has passed his prime just like a shriveled caper berry can no longer provide a sexual stimulant.
+
+### Verse 5 - Note 7
+[翻訳注]  Or “fails”; or “bursts.” The meaning of the verb פָּרַר (parar, “to break; to make ineffectual”) is debated: (1) “to be ineffectual,” that is, to fail to provide sexual power as an aphrodisiac, or (2) “to break; to burst,” that is, the caper berry fruit shrivels as it lingers on its branch beyond its period of ripeness (HALOT 975 s.v. פרר 2.f; BDB 830 s.v. I. פָּרַר 2.d).[写本注]  The MT vocalizes consonantal ותפר as וְתָפֵר (vÿtafer, conjunction + Hiphil imperfect 3rd person feminine singular from פָּרַר , parar, “to burst”). However, an alternate vocalization tradition of וְתֻפַּר (vÿtupar, conjunction + Hophal imperfect 3rd person feminine singular “to be broken down”) is reflected in the LXX which reads καὶ διασκεδασθῇ (kai diaskedasqh, “is scattered”) and Symmachus καὶ διαλυθῇ (kai dialuqh, “is broken up”) which is followed by the Syriac. On the other hand, Aquila’s καὶ καρπεύσει (kai karpeusei, “are enjoyed,” of fruits) reflects וְתִפְרֶה (Qal imperfect 3rd person feminine singular from פָרַה, “to bear fruit”); this does not reflect an alternate reading but a translator’s error in word division between וְתָפֵר הָאֲבִיּוֹנָה (vÿtafer ha’aviyyonah, “the caper berry bursts”) and וְתִפְרֶה אֲבִיּוֹנָה (vÿtifreh ’aviyyonah, “the caper berry bears fruit”).
+
+### Verse 5 - Note 8
+[翻訳注]  In the construct phrase בֵּית עוֹלָמוֹ (bet ’olamo, “house of his eternity”), the genitive עוֹלָמוֹ (“eternity”) functions as an attributive adjective: “his eternal home.” This is an idiom for the grave as the resting place of the body (e.g., Ps 49:12 [11]; Job 7:9; 14:10-12; Eccl 12:5) or Sheol as the residence of the dead (e.g., Job 17:13; 30:23); see HALOT 124 s.v. I בַּיִת 2; 799 (5); BDB 109 s.v. בַּיִת 1.d. For example, the term בֵּית (“house”) is used in Job 30:23 in parallelism with “death” (מָוֶת, mavet). The same idiom appears in postbiblical Hebrew: “the house of eternity” (בֵּית עוֹלָם, bet ’olam) is a euphemism for a burial ground or cemetery (e.g., Lamentations Rabbah 1:5); see Jastrow 1084-85 s.v. עָלַם III. This idiom is also found in a Moabite text in reference to the grave (Deir Alla Inscription 2:6). A similar idiom is found in Phoenician and Palmyrene in reference to the grave (DISO 35). The idiom appears to have originated in Egyptian literature (H. A. Hoffner, TDOT 2:113). See F. Cumont, Afterlife in Roman Paganism, 48-50.
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “water-spring.”
+
+### Verse 6 - Note 2
+[翻訳注]  The term גַּלְגַּל (galgal, “wheel”) refers to the “water wheel” or “paddle wheel” for drawing water from a well (HALOT 190 s.v. I גַּלְגַּל 2; BDB 165 s.v. גַּלְגַּל 1.b). This Hebrew noun is related to the Akkadian term gulgullu (“pot”), as well as Phoenician (?) גלגל (“wheel for drawing water”). The Latin term girgillus (“lever for the bucket”) is a late derivation from this term. See G. Dalman, Arbeit und Sitte in Palästina, 2:225-28.
+
+### Verse 7 - Note 1
+[翻訳注]  Or “spirit.” The likely referent is the life’s breath that originates with God. See Eccl 3:19, as well as Gen 2:7; 6:17; 7:22.
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “futility of futilities.” The phrase “absolutely futile” (הֲבֶל הֲבָלִים, havel havalim) is a superlative genitive construction (GKC 431 §133.i). See note on “futile” at 1:2.
+
+### Verse 8 - Note 2
+[翻訳注]  Elsewhere in the book, the author is identified with the anarthrous term קֹהֶלֶת (qohelet, Eccl 1:1, 2, 12; 7:27; 12:9, 10); however, in 12:8 it is used with the article, indicating that it is a professional title rather than a personal surname: הַקּוֹהֶלֶת (haqqohelet, “the Teacher”). Numerous English translations render קֹהֶלֶת as a professional title: “the Speaker” (NEB, Moffatt); “the Preacher” (KJV, RSV, YLT, MLB, ASV, NASB); “the Teacher” (NIV, NRSV); “the Leader of the Assembly” (NIV margin); “the Assembler” (NJPS margin). Others render it as a personal surname: “Koheleth” (JPS, NJPS) and “Qoheleth” (NAB, NRSV margin).
+
+### Verse 8 - Note 3
+[翻訳注]  Heb “Everything.” The term is rendered “all of these things” for clarity. Although כֹּל (kol, “everything; all”) is often used in an absolute or comprehensive sense (BDB 481 s.v. כֹּל 1), it is frequently used as a synecdoche of the general for the specific, that is, its sense is limited contextually to the topic at hand (BDB 482 s.v. 2). This is particularly true of הַכֹּל (hakkol, BDB 482 s.v. 2.b) in which the article particularizes or limits the referent to the contextual or previously mentioned topic (e.g., Gen 16:12; 24:1; Exod 29:24; Lev 1:9, 13; 8:27; Deut 2:36; Josh 11:19 [see 2 Sam 19:31; 1 Kgs 14:26 = 2 Chr 12:9]; 21:43; 1 Sam 30:19; 2 Sam 17:3; 23:5; 24:23; 1 Kgs 6:18; 2 Kgs 24:16; Isa 29:11; 65:8; Jer 13:7, 10; Ezek 7:14; Pss 14:3; 49:18; 1 Chr 7:5; 28:19; 29:19; 2 Chr 28:6; 29:28; 31:5; 35:7; 36:17-18; Ezra 1:11; 2:42; 8:34-35; 10:17; Eccl 5:8). Thus, “all” does not always mean “all” absolutely or universally in comprehension. In several cases the context limits its reference to two classes of objects/issues being discussed, so הַכֹּל means “both” (e.g., 2:14; 3:19: 9:1, 2). Thus, הַכֹּל (“all; everything”) refers only to what Qoheleth characterizes as “futile” (הֶבֶל, hevel) in the context. This does not mean that everything is futile. For example, fearing God is not “futile” (2:26; 3:14-15; 11:9-10; 12:1, 9, 13-14). Only those objects/issues that are contextually placed under כֹּל are designated as “futile” (הֶבֶל).
+
+### Verse 8 - Note 4
+[翻訳注]  The term הֶבֶל (hevel, “futile”) is repeated three times within the six words of this verse for emphasis. See footnote on “futile” at 1:2.[解説]  Absolutely futile!…All of these things are futile! This motto is the theme of the book. Its occurs at the beginning (1:2) and end of the book (12:8), forming an envelope structure (inclusio). Everything described in 1:2—12:8 is the supporting proof of the thesis of 1:2. With few exceptions (e.g., 2:24-26; 3:14-15; 11:9–12:1, 9), everything described in 1:2—12:8 is characterized as “futile” (הֶבֶל, hevel).
+
+### Verse 9 - Note 1
+[解説]  Eccl 12:9-12 fits the pattern of a concluding colophon that draws from a conventional stock of ancient Near Eastern scribal practices and vocabulary. See M. A. Fishbane, Biblical Interpretation, 29–31.
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “he weighed and studied.” The verbs וְאִזֵּן וְחִקֵּר (vÿ’izzen vekhiqqer, “he weighed and he explored”) form a hendiadys (a figurative expression in which two separate terms used in combination to convey a single idea): “he studiously weighed” or “carefully evaluated.” The verb וְאִזֵּן (conjunction + Piel perfect 3rd person masculine singular from II אָזַן (’azan) “to weigh; to balance”) is related to the noun מֹאזֵן (mo’zen) “balances; scales” used for weighing money or commercial items (e.g., Jer 32:10; Ezek 5:1). This is the only use of the verb in the OT. In this context, it means “to weigh” = “to test; to prove” (BDB 24 s.v. מאזן) or “to balance” (HALOT 27 II אָזַן). Cohen suggests, “He made an examination of the large number of proverbial sayings which had been composed, testing their truth and worth, to select those which he considered deserving of circulation” (A. Cohen, The Five Megilloth [SoBB], 189).
+
+### Verse 9 - Note 3
+[翻訳注]  The verb תָּקַן (taqan, “to make straight”) connotes “to put straight” or “to arrange in order” (HALOT 1784 s.v. תקן; BDB 1075 s.v. תָּקַן).This may refer to Qoheleth’s activity in compiling a collection of wisdom sayings in an orderly manner, or writing the wisdom sayings in a straightforward, direct manner.
+
+### Verse 10 - Note 1
+[翻訳注]  In the construct phrase דִּבְרֵי־חֵפֶץ (divre-khefets, “words of delight”) the noun חֵפֶץ (“delight”) functions as an attributive genitive (“delightful words”) or a genitive of estimation or worth (“words viewed as delightful by Qoheleth” or “words that he took delight in”). For another example of a genitive of estimation of worth, see זִבְחֵי אֱלֹהִים (zivkhe ’elohim) “sacrifices of God” = “sacrifices viewed as acceptable to God” (Ps 51:19). In other words, Qoheleth wrote his proverbs so effectively that he was able to take moral and aesthetic delight in his words.
+
+### Verse 10 - Note 2
+[写本注]  The consonantal form וכתוב has been revocalized in three ways: (1) The Masoretes read וְכָתוּב (vÿkhatuv, conjunction + Qal passive participle ms from כָּתַב, katav, “to write”): “Qoheleth sought to find pleasant words, what was written uprightly, namely, words of truth.” This is supported by the LXX’s καὶ γεγραμμένον (kai gegrammenon, conjunction + masculine accusative singular perfect passive participle from γράφω, grafw, “to write). (2) The BHS editors suggest the vocalization וְכָתוֹב (vÿkhatov, conjunction + Qal infinitive absolute). The infinitive וְכָתוֹב (“and to write”) in the B-line would parallel the infinitive of purpose לִמְצֹא (limtso’, “to find”) in the A-line: “Qoheleth sought to find pleasant words, and to write accurately words of truth.” (3) Several medieval Hebrew mss preserve an alternate textual tradition of וְכָתַב (vÿkhatav, conjunction + Qal perfect 3rd person masculine singular). This is reflected in the Greek versions (Aquila and Symmachus), Syriac Peshitta and Vulgate. The major English versions are divided among these three textual options: (1) וְכָתוּב (Qal passive participle): “and that which was written was upright, even words of truth” (KJV); “and that which was written uprightly, even words of truth” (ASV); “and, written by the upright, words of truth” (YLT); “but what he wrote was the honest truth” (NEB); “and what he wrote was upright and true” (NIV). (2) וְכָתוֹב (Qal infinitive absolute): “and to write words of truth correctly” (NASB); “and to write correctly the reliable words of truth” (MLB); “and to write down true sayings with precision” (NAB). (3) וְכָתַב (Qal perfect 3rd person masculine singular): “and uprightly he wrote words of truth” (RSV); “and he wrote words of truth plainly” (NRSV); “even as he put down plainly what was true” (Moffatt); “and he wrote words most right, and full of truth” (Douay); and “and he recorded genuinely truthful sayings” (NJPS). The editors of the Jerusalem Hebrew Bible project favor וְכָתוֹב “and to write” (option 2): see D. Barthélemy, ed., Preliminary and Interim Report on the Hebrew Old Testament Text Project, 3:596–97.
+
+### Verse 10 - Note 3
+[翻訳注]  The construct phrase דִּבְרֵי אֱמֶת (divre ’emet, “words of truth”) is a genitive of content (“words containing truth”) or an attributive genitive (“truthful words”). Depending upon the vocalization of וכתוב, the phrase functions in one of two ways: (1) as direct object of וְכָתוֹב יֹשֶׁר (vÿkhatov yosher) “and he accurately wrote truthful words”; or (2) in apposition to וְכָתוּב יֹשֶׁר (vÿkhatuv yosher) “and what is written uprightly, namely, truthful words.”
+
+### Verse 11 - Note 1
+[翻訳注]  Or “goads”; NCV “sharp sticks used to guide animals.” For further information see M. A. Fishbane, Biblical Interpretation, 29–32.
+
+### Verse 12 - Note 1
+[解説]  The exhortation may be understood in two ways: (1) to avoid any so-called wisdom sayings beyond those mentioned in vv. 10-11: “The words of the wise…are given from one shepherd. And of anything beyond these, my son, be warned!” (see RSV, NRSV, NAB, Douay, NIV). This is paraphrased well by Moffatt: “My son, avoid anything beyond the scriptures of wisdom” (Moffatt). (2) The exhortation refers to the concerns of v. 12b, namely, diligent study is wearisome, i.e., “Furthermore, my son, be warned: there is no end to the making of books, and much study is wearisome to the body” (see NEB, ASV, NASB, MLB).
+
+### Verse 12 - Note 2
+[翻訳注]  The verb עָשָׂה (’asah, “to do”) may mean “to make” (HALOT 890 s.v. I עשׂה 3) or “to acquire” (HALOT 891 s.v. I עשׂה 6). The LXX rendered it as ποιῆσαι (poihsai, “making”), as do most English versions: “making” (KJV, YLT, RSV, NRSV, NAB, ASV, MLB, NIV, NJPS). However, several English versions reflect a different nuance: “there is no end to the buying of books” (Moffatt); “the use of books is endless” (NEB); and “the writing of many books is endless” (NASB).
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “the flesh.” The term בָּשָׂר (basar, “flesh”) refers to the body, functioning as a synecdoche or part (i.e., flesh, skin) for the whole (i.e., body), e.g., Gen 17:13; Ps 16:9; Prov 14:30 (see E. W. Bullinger, Figures of Speech, 642).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “The end of the matter, everything having been heard.”
+
+### Verse 13 - Note 2
+[翻訳注]  Heb “This is all men”; or “This is the whole of man.” The phrase זֶה כָּל־הָאָדָם (zeh kol-ha’adam, “this is all men”) features rhetorical elision of a key word. The ambiguity over the elided word has led to no less than five basic approaches: (1) “this is the whole duty of man” (KJV, ASV, RSV, NAB, NIV); (2) “this is the duty of all men” (MLB, ASV margin, RSV margin); (3) “this applies to all men” (NASB, NJPS); (4) “this is the whole duty of all men” (NRSV, Moffatt); and (5) “there is no more to man than this” (NEB). The four-fold repetition of כֹּל (kol, “all”) in 12:13-14 suggests that Qoheleth is emphasizing the “bottom line,” that is, the basic duty of man is simply to fear and obey God: After “all” (כֹּל) has been heard in the book, his conclusion is that the “whole” (כֹּל) duty of man is to obey God because God will bring “all” (כֹּל) acts into judgment, including “all” (כֹּל) that is hidden, whether good or bad. See D. Barthélemy, ed., Preliminary and Interim Report on the Hebrew Old Testament Text Project, 3:596.
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “will bring every deed into judgment.”

@@ -1,0 +1,176 @@
+# Job 18 (English)
+
+## Text
+
+**1** Then Bildad the Shuhite answered: 
+
+**2** “How long until you make an end of words? You must consider, and then we can talk. 
+
+**3** Why should we be regarded as beasts, and considered stupid in your sight? 
+
+**4** You who tear yourself to pieces in your anger, will the earth be abandoned for your sake? Or will a rock be moved from its place? 
+
+**5** “Yes, the lamp of the wicked is extinguished; his flame of fire does not shine. 
+
+**6** The light in his tent grows dark; his lamp above him is extinguished. 
+
+**7** His vigorous steps are restricted, and his own counsel throws him down. 
+
+**8** For he has been thrown into a net by his feet, and he wanders into a mesh. 
+
+**9** A trap seizes him by the heel; a snare grips him.
+
+**10** A rope is hidden for him on the ground, and a trap for him lies on the path. 
+
+**11** Terrors frighten him on all sides and dog his every step. 
+
+**12** Calamity is hungry for him, and misfortune is ready at his side. 
+
+**13** It eats away parts of his skin; the most terrible death devours his limbs. 
+
+**14** He is dragged from the security of his tent, and marched off to the king of terrors. 
+
+**15** Fire resides in his tent; over his residence burning sulfur is scattered. 
+
+**16** Below his roots dry up, and his branches wither above. 
+
+**17** His memory perishes from the earth he has no name in the land. 
+
+**18** He is driven from light into darkness and is banished from the world. 
+
+**19** He has neither children nor descendants among his people, no survivor in those places he once stayed. 
+
+**20** People of the west are appalled at his fate; people of the east are seized with horror, saying,
+
+**21** ‘Surely such is the residence of an evil man; and this is the place of one who has not known God.’” 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Bildad attacks Job with less subtlety than Eliphaz. He describes the miserable existence of the wicked, indicating that it is the proof of sin. His speech falls into two main parts: why is Job so contemptuous toward his friends (Job 18:2-4), and the fate of the wicked (18:5-21). On this chapter see N. M. Sarna, “The Mythological Background of ,” JBL 82 (1963): 315-18; and W. A. Irwin, “Job’s Redeemer,” JBL 81 (1962): 217-29.
+
+### Verse 2 - Note 1
+[翻訳注]  The verb is plural, and so most commentators make it singular. But it seems from the context that Bildad is addressing all of them, and not just Job.
+
+### Verse 2 - Note 2
+[翻訳注]  The construction is קִנְצֵי לְמִלִּין (qintse lÿmillin), which is often taken to be “end of words,” as if the word was from קֵץ (qets, “end”). But a plural of “end” is not found in the OT. Some will link the word to Arabic qanasa, “to hunt; to give chase,” to get an interpretation of “snares for words.” But E. Dhorme (Job, 257) objects that this does not fit the speech of Bildad (as well as it might Job’s). He finds a cognate qinsu, “fetters, shackles,” and reads “how long will you put shackles on words.” But G. R. Driver had pointed out that this cognate does not exist (“Problems in the Hebrew text of Job,” VTSup 3 [1955]: 72-93). So it would be preferable to take the reading “ends” and explain the ן (nun) as from a Aramaizing by-form. This is supported by 11QtgJob that uses סוֹף (sof, “end”). On the construction, GKC 421 §130.a explains this as a use of the construct in rapid narrative to connect the words; in such cases a preposition is on the following noun.
+
+### Verse 2 - Note 3
+[翻訳注]  The imperfect verb, again plural, would be here taken in the nuance of instruction, or a modal nuance of obligation. So Bildad is telling his listeners to be intelligent. This would be rather cutting in the discourse.
+
+### Verse 2 - Note 4
+[翻訳注]  Heb “afterward.”
+
+### Verse 3 - Note 1
+[翻訳注]  The verb נִטְמִינוּ (nitminu) has been explained from different roots. Some take it from תָּמֵא (tame’, “to be unclean”), and translate it “Why should we be unclean in your eyes?” Most would connect it to טָמַם (tamam, “to stop up”), meaning “to be stupid” in the Niphal. Another suggestion is to follow the LXX and read from דָּמַם (damam, “to be reduced to silence”). Others take it from דָּמָּה (damah) with a meaning “to be like.” But what is missing is the term of comparison – like what? Various suggestions have been made, but all are simply conjectures.
+
+### Verse 4 - Note 1
+[翻訳注]  The construction uses the participle and then 3rd person suffixes: “O tearer of himself in his anger.” But it is clearly referring to Job, and so the direct second person pronouns should be used to make that clear. The LXX is an approximation or paraphrase here: “Anger has possessed you, for what if you should die – would under heaven be desolate, or shall the mountains be overthrown from their foundations?”
+
+### Verse 4 - Note 2
+[翻訳注]  There is a good deal of study on this word in this passage, and in Job in general. M. Dahood suggested a root עָזַב (’azav) meaning “to arrange; to rearrange” (“The Root ’zb II in Job,” JBL 78 [1959]: 303-9). But this is refuted by H. G. M. Williamson, “A Reconsideration of ’zb II in Biblical Hebrew,” ZAW 97 (1985): 74-85.
+
+### Verse 4 - Note 3
+[解説]  Bildad is asking if Job thinks the whole moral order of the world should be interrupted for his sake, that he may escape the punishment for wickedness.
+
+### Verse 5 - Note 1
+[翻訳注]  Hebrew גַּם (gam, “also; moreover”), in view of what has just been said.
+
+### Verse 5 - Note 2
+[解説]  The lamp or the light can have a number of uses in the Bible. Here it is probably an implied metaphor for prosperity and happiness, for the good life itself.
+
+### Verse 5 - Note 3
+[翻訳注]  The expression is literally “the flame of his fire,” but the pronominal suffix qualifies the entire bound construction. The two words together intensify the idea of the flame.
+
+### Verse 6 - Note 1
+[翻訳注]  The LXX interprets a little more precisely: “his lamp shall be put out with him.”[解説]  This thesis of Bildad will be questioned by Job in 21:17 – how often is the lamp of the wicked snuffed out?
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “the steps of his vigor,” the genitive being the attribute.
+
+### Verse 7 - Note 2
+[翻訳注]  The verb צָרַר (tsarar) means “to be cramped; to be straitened; to be hemmed in.” The trouble has hemmed him in, so that he cannot walk with the full, vigorous steps he had before. The LXX has “Let the meanest of men spoil his goods.”
+
+### Verse 7 - Note 3
+[翻訳注]  The LXX has “causes him to stumble,” which many commentators accept; but this involves the transposition of the three letters. The verb is שָׁלַךְ (shalakh, “throw”) not כָּשַׁל (kashal, “stumble”).
+
+### Verse 8 - Note 1
+[翻訳注]  See Ps 25:15.
+
+### Verse 8 - Note 2
+[翻訳注]  The word שְׂבָכָה (sÿvakhah) is used in scripture for the lattice window (2 Kgs 1:2). The Arabic cognate means “to be intertwined.” So the term could describe a net, matting, grating, or lattice. Here it would be the netting stretched over a pit.
+
+### Verse 9 - Note 1
+[翻訳注]  This word פָּח (pakh) specifically refers to the snare of the fowler – thus a bird trap. But its plural seems to refer to nets in general (see Job 22:10).
+
+### Verse 9 - Note 2
+[翻訳注]  This word does not occur elsewhere. But another word from the same root means “plait of hair,” and so this term has something to do with a net like a trellis or lattice.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “his rope.” The suffix must be a genitive expressing that the trap was for him, to trap him, and so an objective genitive.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “his trap.” The pronominal suffix is objective genitive here as well.
+
+### Verse 11 - Note 1
+[解説]  Bildad is referring here to all the things that afflict a person and cause terror. It would then be a metonymy of effect, the cause being the afflictions.
+
+### Verse 11 - Note 2
+[翻訳注]  The verb פּוּץ (puts) in the Hiphil has the meaning “to pursue” and “to scatter.” It is followed by the expression “at his feet.” So the idea is easily derived: they chase him at his feet. But some commentators have other proposals. The most far-fetched is that of Ehrlich and Driver (ZAW 24 [1953]: 259-60) which has “and compel him to urinate on his feet,” one of many similar readings the NEB accepted from Driver.
+
+### Verse 12 - Note 1
+[翻訳注]  The jussive is occasionally used without its normal sense and only as an imperfect (see GKC 323 §109.k).
+
+### Verse 12 - Note 2
+[翻訳注]  There are a number of suggestions for אֹנוֹ (’ono). Some take it as “vigor”: thus “his strength is hungry.” Others take it as “iniquity”: thus “his iniquity/trouble is hungry.”
+
+### Verse 12 - Note 3
+[翻訳注]  The expression means that misfortune is right there to destroy him whenever there is the opportunity.
+
+### Verse 13 - Note 1
+[翻訳注]  The expression “the limbs of his skin” makes no sense, unless a poetic meaning of “parts” (or perhaps “layers”) is taken. The parallelism has “his skin” in the first colon, and “his limbs” in the second. One plausible suggestion is to take בַּדֵּי (badde, “limbs of”) in the first part to be בִּדְוָי (bidvay, “by a disease”; Dhorme, Wright, RSV). The verb has to be made passive, however. The versions have different things: The LXX has “let the branches of his feet be eaten”; the Syriac has “his cities will be swallowed up by force”; the Vulgate reads “let it devour the beauty of his skin”; and Targum Job has “it will devour the linen garments that cover his skin.”
+
+### Verse 13 - Note 2
+[翻訳注]  The “firstborn of death” is the strongest child of death (Gen 49:3), or the deadliest death (like the “firstborn of the poor, the poorest). The phrase means the most terrible death (A. B. Davidson, Job, 134).
+
+### Verse 14 - Note 1
+[翻訳注]  Heb “from his tent, his security.” The apposition serves to modify the tent as his security.
+
+### Verse 14 - Note 2
+[翻訳注]  The verb is the Hiphil of צָעַד (tsa’ad, “to lead away”). The problem is that the form is either a third feminine (Rashi thought it was referring to Job’s wife) or the second person. There is a good deal of debate over the possibility of the prefix t- being a variant for the third masculine form. The evidence in Ugaritic and Akkadian is mixed, stronger for the plural than the singular. Gesenius has some samples where the third feminine form might also be used for the passive if there is no expressed subject (see GKC 459 §144.b), but the evidence is not strong. The simplest choices are to change the prefix to a י (yod), or argue that the ת (tav) can be masculine, or follow Gesenius.
+
+### Verse 14 - Note 3
+[解説]  This is a reference to death, the king of all terrors. Other identifications are made in the commentaries: Mot, the Ugaritic god of death; Nergal of the Babylonians; Molech of the Canaanites, the one to whom people sent emissaries.
+
+### Verse 15 - Note 1
+[翻訳注]  This line is difficult as well. The verb, again a third feminine form, says “it dwells in his tent.” But the next part (מִבְּלִי לוֹ, mibbÿli lo) means something like “things of what are not his.” The best that can be made of the MT is “There shall live in his tent they that are not his” (referring to persons and animals; see J. E. Hartley, Job [NICOT], 279). G. R. Driver and G. B. Gray (Job [ICC], 2:161) refer “that which is naught of his” to weeds and wild animals. M. Dahood suggested a reading מַבֶּל (mabbel) and a connection to Akkadian nablu, “fire” (cf. Ugaritic nbl). The interchange of m and n is not a problem, and the parallelism with the next line makes good sense (“Some Northwest Semitic words in Job,” Bib 38 [1957]: 312ff.). Others suggest an emendation to get “night-hag” or vampire. This suggestion, as well as Driver’s “mixed herbs,” are linked to the idea of exorcism. But if a change is to be made, Dahood’s is the most compelling.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “outside.” Cf. ESV, “in the street,” referring to absence from his community’s memory.
+
+### Verse 18 - Note 1
+[翻訳注]  The verbs in this verse are plural; without the expressed subject they should be taken in the passive sense.
+
+### Verse 19 - Note 1
+[翻訳注]  The two words נִין (nin, “offspring”) and נֶכֶד (nekhed, “posterity”) are always together and form an alliteration. This is hard to capture in English, but some have tried: Moffatt had “son and scion,” and Tur-Sinai had “breed or brood.” But the words are best simply translated as “lineage and posterity” or as in the NIV “offspring or descendants.”
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “in his sojournings.” The verb גּוּר (gur) means “to reside; to sojourn” temporarily, without land rights. Even this word has been selected to stress the temporary nature of his stay on earth.
+
+### Verse 20 - Note 1
+[翻訳注]  The word אַחֲרֹנִים (’akharonim) means “those [men] coming after.” And the next word, קַדְמֹנִים (qadmonim), means “those [men] coming before.” Some commentators have tried to see here references to people who lived before and people who lived after, but that does not explain their being appalled at the fate of the wicked. So the normal way this is taken is in connection to the geography, notably the seas – “the hinder sea” refers to the Mediterranean, the West, and “the front sea” refers to the Dead Sea (Zech 14:8), namely, the East. The versions understood this as temporal: “the last groaned for him, and wonder seized the first” (LXX).
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “his day.”
+
+### Verse 20 - Note 3
+[翻訳注]  The expression has “they seize horror.” The RSV renders this “horror seizes them.” The same idiom is found in Job 21:6: “laid hold on shuddering.” The idiom would solve the grammatical problem, and not change the meaning greatly; but it would change the parallelism.
+
+### Verse 20 - Note 4
+[翻訳注]  The word “saying” is supplied in the translation to mark and introduce the following as a quotation of these people who are seized with horror. The alternative is to take v. 21 as Bildad’s own summary statement (cf. G. R. Driver and G. B. Gray, Job [ICC], 2:162; J. E. Hartley, Job [NICOT], 280).
+
+### Verse 21 - Note 1
+[翻訳注]  The term is in the plural, “the tabernacles”; it should be taken as a plural of local extension (see GKC 397 §124.b).
+
+### Verse 21 - Note 2
+[翻訳注]  The word “place” is in construct; the clause following it replaces the genitive: “this is the place of – he has not known God.”

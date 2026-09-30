@@ -1,0 +1,551 @@
+{
+  "book": "Mark",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "So they came to the other side of the lake, to the region of the Gerasenes. ",
+      "ja": "こうして一行は湖の対岸、ゲラサ人の地方に着いた。"
+    },
+    {
+      "verse": 2,
+      "en": "Just as Jesus was getting out of the boat, a man with an unclean spirit came from the tombs and met him. ",
+      "ja": "イエスが舟から上がられると、汚れた霊につかれた男が墓場から出て来て、イエスを迎えた。"
+    },
+    {
+      "verse": 3,
+      "en": "He lived among the tombs, and no one could bind him anymore, not even with a chain. ",
+      "ja": "男は墓場を住まいとしており、鎖をもってしても、もはやだれも彼をつなぎとめておくことができなかった。"
+    },
+    {
+      "verse": 4,
+      "en": "For his hands and feet had often been bound with chains and shackles, but he had torn the chains apart and broken the shackles in pieces. No one was strong enough to subdue him. ",
+      "ja": "彼はこれまで何度も足かせや鎖で縛られたが、鎖を引きちぎり、足かせを砕いてしまったので、だれも彼を押さえることができなかったからである。"
+    },
+    {
+      "verse": 5,
+      "en": "Each night and every day among the tombs and in the mountains, he would cry out and cut himself with stones. ",
+      "ja": "彼は夜も昼も墓場や山で叫び続け、石で自分の体を傷つけていた。"
+    },
+    {
+      "verse": 6,
+      "en": "When he saw Jesus from a distance, he ran and bowed down before him. ",
+      "ja": "彼は遠くからイエスを見ると、走り寄ってひれ伏した。"
+    },
+    {
+      "verse": 7,
+      "en": "Then he cried out with a loud voice, “Leave me alone, Jesus, Son of the Most High God! I implore you by God—do not torment me!” ",
+      "ja": "そして大声で叫んで言った。「いと高き神の子イエスよ、わたしにかかわらないでくれ。神にかけて頼む。どうか苦しめないでくれ。」"
+    },
+    {
+      "verse": 8,
+      "en": "(For Jesus had said to him, “Come out of that man, you unclean spirit!”) ",
+      "ja": "イエスが彼に、「汚れた霊よ、この人から出て行け」と言われたからである。"
+    },
+    {
+      "verse": 9,
+      "en": "Jesus asked him, “What is your name?” And he said, “My name is Legion, for we are many.” ",
+      "ja": "イエスが「お前の名は何か」とお尋ねになると、彼は「わが名はレギオン。大勢であるからです」と答えた。"
+    },
+    {
+      "verse": 10,
+      "en": "He begged Jesus repeatedly not to send them out of the region. ",
+      "ja": "そして、自分たちをこの地方から追い出さないよう、イエスにしきりに願った。"
+    },
+    {
+      "verse": 11,
+      "en": "There on the hillside, a great herd of pigs was feeding. ",
+      "ja": "さて、山の中腹に、豚の大きな群れが飼われていた。"
+    },
+    {
+      "verse": 12,
+      "en": "And the demonic spirits begged him, “Send us into the pigs. Let us enter them.” ",
+      "ja": "悪霊たちはイエスに願った。「わたしたちを豚の中に送ってください。豚の中に入らせてください。」"
+    },
+    {
+      "verse": 13,
+      "en": "Jesus gave them permission. So the unclean spirits came out and went into the pigs. Then the herd rushed down the steep slope into the lake, and about 2,000 were drowned in the lake. ",
+      "ja": "イエスがこれをお許しになると、汚れた霊どもは出て行って豚の中に入った。すると、その群れは険しい崖を下って湖へとなだれ込み、およそ二千匹が湖でおぼれ死んだ。"
+    },
+    {
+      "verse": 14,
+      "en": "Now the herdsmen ran off and spread the news in the town and countryside, and the people went out to see what had happened. ",
+      "ja": "豚を飼っていた者たちは逃げ出して、町や村でこのことを言い広めた。人々は何が起こったのかを見に出かけた。"
+    },
+    {
+      "verse": 15,
+      "en": "They came to Jesus and saw the demon-possessed man sitting there, clothed, and in his right mind—the one who had the “Legion”—and they were afraid. ",
+      "ja": "彼らはイエスのところに来て、悪霊につかれていた男、あのレギオンに取りつかれていた者が、服を着て正気に戻り座っているのを見て恐ろしくなった。"
+    },
+    {
+      "verse": 16,
+      "en": "Those who had seen what had happened to the demon-possessed man reported it, and they also told about the pigs. ",
+      "ja": "見ていた者たちは、悪霊につかれていた人に起こったことと、豚のことを彼らに話して聞かせた。"
+    },
+    {
+      "verse": 17,
+      "en": "Then they began to beg Jesus to leave their region. ",
+      "ja": "すると人々は、イエスにこの地方から立ち去ってほしいと願い始めた。"
+    },
+    {
+      "verse": 18,
+      "en": "As he was getting into the boat the man who had been demon-possessed asked if he could go with him. ",
+      "ja": "イエスが舟に乗り込もうとされると、悪霊につかれていた人が、お供をしたいと願った。"
+    },
+    {
+      "verse": 19,
+      "en": "But Jesus did not permit him to do so. Instead, he said to him, “Go to your home and to your people and tell them what the Lord has done for you, that he had mercy on you.” ",
+      "ja": "しかしイエスはお許しにならず、彼に言われた。「あなたの家、あなたの身内のところへ帰り、主があなたにどれほど大きなことをしてくださったか、どのようにあわれんでくださったかを知らせなさい。」"
+    },
+    {
+      "verse": 20,
+      "en": "So he went away and began to proclaim in the Decapolis what Jesus had done for him, and all were amazed. ",
+      "ja": "そこで彼は立ち去り、イエスが自分にどれほど大きなことをしてくださったかをデカポリス地方で言い広め始めた。人々はみな驚嘆した。"
+    },
+    {
+      "verse": 21,
+      "en": "When Jesus had crossed again in a boat to the other side, a large crowd gathered around him, and he was by the sea. ",
+      "ja": "イエスが舟で再び対岸へ渡られると、大勢の群衆がみもとに集まってきた。イエスは湖のほとりにおられた。"
+    },
+    {
+      "verse": 22,
+      "en": "Then one of the synagogue leaders, named Jairus, came up, and when he saw Jesus, he fell at his feet. ",
+      "ja": "すると、ヤイロという名の会堂司の一人がやって来て、イエスを見るやその足もとにひれ伏した。"
+    },
+    {
+      "verse": 23,
+      "en": "He asked him urgently, “My little daughter is near death. Come and lay your hands on her so that she may be healed and live.” ",
+      "ja": "そしてしきりに願った。「わたしの幼い娘が死にかけています。どうかおいでになり、娘の上に手を置いてやってください。そうすれば娘はいやされて助かります。」"
+    },
+    {
+      "verse": 24,
+      "en": "Jesus went with him, and a large crowd followed and pressed around him. ",
+      "ja": "イエスは彼と一緒に行かれた。大勢の群衆がイエスに従い、押し迫ってきた。"
+    },
+    {
+      "verse": 25,
+      "en": "Now a woman was there who had been suffering from a hemorrhage for 12 years. ",
+      "ja": "さて、十二年の間、長血を患っている女がいた。"
+    },
+    {
+      "verse": 26,
+      "en": "She had endured a great deal under the care of many doctors and had spent all that she had. Yet instead of getting better, she grew worse. ",
+      "ja": "彼女は多くの医者からひどい苦痛を受け、自分の財産を使い果たしたが、少しも良くならず、かえって悪くなる一方であった。"
+    },
+    {
+      "verse": 27,
+      "en": "When she heard about Jesus, she came up behind him in the crowd and touched his cloak, ",
+      "ja": "彼女はイエスのことを聞き、群衆の中にまぎれ込んで後ろからイエスの衣に触れた。"
+    },
+    {
+      "verse": 28,
+      "en": "for she kept saying, “If only I touch his clothes, I will be healed.” ",
+      "ja": "「あの方の衣に触れさえすれば、わたしはいやされる」と思い続けていたからである。"
+    },
+    {
+      "verse": 29,
+      "en": "At once the bleeding stopped, and she felt in her body that she was healed of her disease. ",
+      "ja": "すると血の源が干上がり、彼女は病気がいやされたことを体に感じた。"
+    },
+    {
+      "verse": 30,
+      "en": "Jesus knew at once that power had gone out from him. He turned around in the crowd and said, “Who touched my clothes?” ",
+      "ja": "イエスはご自身から力が出て行ったことに気づき、群衆の中で振り返って言われた。「だれがわたしの衣に触れたのか。」"
+    },
+    {
+      "verse": 31,
+      "en": "His disciples said to him, “You see the crowd pressing against you and you say, ‘Who touched me?’” ",
+      "ja": "弟子たちはイエスに言った。「群衆があなたに押し迫っているのをご覧になりながら、『だれがわたしに触れたのか』とおっしゃるのですか。」"
+    },
+    {
+      "verse": 32,
+      "en": "But he looked around to see who had done it. ",
+      "ja": "しかしイエスは、それを行った者を見届けようと見回しておられた。"
+    },
+    {
+      "verse": 33,
+      "en": "Then the woman, with fear and trembling, knowing what had happened to her, came and fell down before him and told him the whole truth. ",
+      "ja": "そこで女は自分に起こったことを知り、恐れおののきながら進み出て、イエスの前にひれ伏し、真実をありのまま話した。"
+    },
+    {
+      "verse": 34,
+      "en": "He said to her, “Daughter, your faith has made you well. Go in peace, and be healed of your disease.” ",
+      "ja": "イエスは彼女に言われた。「娘よ、あなたの信仰があなたを救った。安心して行きなさい。そして病気から解放されて健やかになりなさい。」"
+    },
+    {
+      "verse": 35,
+      "en": "While he was still speaking, people came from the synagogue leader’s house saying, “Your daughter has died. Why trouble the teacher any longer?” ",
+      "ja": "イエスがまだ話しておられるうちに、会堂司の家から人々が来て言った。「お嬢さんは亡くなりました。なぜこれ以上、先生の手を煩わすのですか。」"
+    },
+    {
+      "verse": 36,
+      "en": "But Jesus, paying no attention to what was said, told the synagogue leader, “Do not be afraid; just believe.” ",
+      "ja": "しかしイエスはその言葉を気に留めず、会堂司に言われた。「恐れることはない。信じるだけでよい。」"
+    },
+    {
+      "verse": 37,
+      "en": "He did not let anyone follow him except Peter, James, and John, the brother of James. ",
+      "ja": "イエスはペテロ、ヤコブ、そしてヤコブの兄弟ヨハネのほかは、だれもついて来るのをお許しにならなかった。"
+    },
+    {
+      "verse": 38,
+      "en": "They came to the house of the synagogue leader where he saw noisy confusion and people weeping and wailing loudly. ",
+      "ja": "会堂司の家に着くと、イエスは騒動や、人々が大声で泣き叫んでいるのを目にされた。"
+    },
+    {
+      "verse": 39,
+      "en": "When he entered he said to them, “Why are you distressed and weeping? The child is not dead but asleep!” ",
+      "ja": "イエスは中に入り、彼らに言われた。「なぜ取り乱して泣いているのか。子供は死んだのではない。眠っているのだ。」"
+    },
+    {
+      "verse": 40,
+      "en": "And they began making fun of him. But he forced them all outside, and he took the child’s father and mother and his own companions and went into the room where the child was. ",
+      "ja": "人々はイエスをあざ笑った。しかしイエスは全員を外に出し、子供の父親と母親、そしてご自身の供の者たちを連れて、子供のいる部屋に入られた。"
+    },
+    {
+      "verse": 41,
+      "en": "Then, gently taking the child by the hand, he said to her, “Talitha koum,” which means, “Little girl, I say to you, get up.” ",
+      "ja": "そして子供の手を取り、「タリタ、クム」と言われた。これは訳すと「少女よ、わたしはあなたに言う、起きなさい」という意味である。"
+    },
+    {
+      "verse": 42,
+      "en": "The girl got up at once and began to walk around (she was twelve years old). They were completely astonished at this.",
+      "ja": "すると少女は立ち上がり、歩き始めた。十二歳だったからである。人々は非常な驚きに包まれた。"
+    },
+    {
+      "verse": 43,
+      "en": "He strictly ordered that no one should know about this, and told them to give her something to eat. ",
+      "ja": "イエスはこのことをだれにも知らせないよう厳しく命じ、少女に食べ物を与えるように言われた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate a summary and transition in the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。ここでは物語の要約と移行を示すため、καί（kai）が「こうして（so）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "bo) have “Gergesenes.” Others (א* B D latt sa) have “Gerasenes,” which is the reading followed in the translation here and in Luke 8:26. The difference between Matthew and Mark (which is parallel to Luke) may well have to do with uses of variant regional terms.[解説]  The region of the Gerasenes would be in Gentile territory on the (south)eastern side of the Sea of Galilee across from Galilee. Matthew 8:28 records this miracle as occurring “in the region of the Gadarenes.” “Irrespective of how one settles this issue, for the [second and] Third Evangelist the chief concern is that Jesus has crossed over into Gentile territory, ‘opposite Galilee’” (J. B. Green, Luke [NICNT], 337). The region of Gadara extended to the Sea of Galilee and included the town of Sennabris on the southern shore – the town that the herdsmen most likely entered after the drowning of the pigs.",
+        "ja": "bo）は「ゲルゲサ人（Gergesenes）」としている。他の写本（א* B D latt sa）は「ゲラサ人（Gerasenes）」としており、本訳およびルカ8:26ではこの異文を採用している。マタイとマルコ（ルカと並行）の違いは、地域名の異なる呼称が用いられたことに関連していると考えられる。[解説] ゲラサ人の地方は、ガリラヤの向かい、ガリラヤ湖の（南）東側にある異邦人の領土であったと考えられる。マタイ8:28ではこの奇跡が「ガダラ人の地方」で起こったと記録されている。「この問題をどのように解決するかにかかわらず、（第二および）第三福音書記者にとっての関心は、イエスが『ガリラヤの対岸』である異邦人の領土へ渡られたことにある」（J. B. Green, Luke [NICNT], 337）。ガダラの領域はガリラヤ湖にまで及び、南岸のセナブリスの町（豚がおぼれ死んだ後に飼い手たちが入った可能性が高い町）を含んでいた。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（he）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Unclean spirit refers to an evil spirit.",
+        "ja": "[解説] 汚れた霊とは悪霊を指す。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “met him from the tombs a man with an unclean spirit.” When this is converted to normal English word order (“a man met him from the tombs with an unclean spirit”) it sounds as if “with an unclean spirit” modifies “the tombs.” Likewise, “a man with an unclean spirit from the tombs met him” implies that the unclean spirit came from the tombs, while the Greek text is clear that it is the man who had the unclean spirit who came from the tombs. To make this clear a second verb, “came,” is supplied in English: “came from the tombs and met him.”",
+        "ja": "[翻訳注] ギリシャ語では「汚れた霊につかれた男が墓場から彼を迎えた」。これを通常の英語の語順（a man met him from the tombs with an unclean spirit）にすると、「汚れた霊につかれた（with an unclean spirit）」が「墓場（the tombs）」を修飾しているように聞こえる。同様に、「a man with an unclean spirit from the tombs met him」とすると、汚れた霊が墓場から出てきたかのような含みが生じるが、ギリシャ語本文では墓場から出てきたのは汚れた霊につかれた男であることが明白である。これを明確にするため、英語では二つ目の動詞「came」を補い、「墓場から出て来て迎えた（came from the tombs and met him）」としている。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he had often been bound with chains and shackles.” “Shackles” could also be translated “fetters”; they were chains for the feet.",
+        "ja": "[翻訳注] ギリシャ語では「彼はしばしば鎖や足かせで縛られていた」。「shackles」は「fetters」とも翻訳可能であり、足用の鎖を指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして（and）」。文脈に存在する対比を示すため、ここではκαί（kai）が「しかし（but）」と翻訳されている。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。物語内の出来事の暗黙の順序を示すため、ここではκαί（kai）が「そして（then）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “What to me and to you?” (an idiom). The phrase τί ἐμοὶ καὶ σοί (ti emoi kai soi) is Semitic in origin, though it made its way into colloquial Greek (BDAG 275 s.v. ἐγώ). The equivalent Hebrew expression in the OT had two basic meanings: (1) When one person was unjustly bothering another, the injured party could say “What to me and to you?” meaning, “What have I done to you that you should do this to me?” (Judg 11:12, 2 Chr 35:21, 1 Kgs 17:18). (2) When someone was asked to get involved in a matter he felt was no business of his own, he could say to the one asking him, “What to me and to you?” meaning, “That is your business, how am I involved?” (2 Kgs 3:13, Hos 14:8). These nuances were apparently expanded in Greek, but the basic notions of defensive hostility (option 1) and indifference or disengagement (option 2) are still present. BDAG suggests the following as glosses for this expression: What have I to do with you? What have we in common? Leave me alone! Never mind! Hostility between Jesus and the demons is certainly to be understood in this context, hence the translation: “Leave me alone….”",
+        "ja": "[翻訳注] ギリシャ語では「わたしとあなたに何の関係があるのか（What to me and to you?）」（慣用表現）。τί ἐμοὶ καὶ σοί（ti emoi kai soi）という句はセム語に起源を持つが、口語ギリシャ語にも取り入れられた（BDAG 275 s.v. ἐγώ）。旧約聖書における同等のヘブライ語表現には、二つの基本的な意味があった。(1) 一方が他方から不当に悩まされているとき、被害を受けた側が「わたしとあなたに何の関係があるのか」と言い、「わたしがあなたに何をしたというので、このようなことをするのか」を意味する場合（士師記11:12、歴代誌下35:21、列王記上17:18）。(2) 自分には関係がないと感じる事柄に関与するよう求められたとき、求めてきた相手に「わたしとあなたに何の関係があるのか」と言い、「それはあなたの問題であり、わたしに何の関係があるのか」を意味する場合（列王記下3:13、ホセア14:8）。これらのニュアンスはギリシャ語において拡張されたと見られるが、防衛的な敵意（選択肢1）および無関心や不関与（選択肢2）という基本概念は保たれている。BDAGはこの表現の訳語として「What have I to do with you?（あなたとわたしに何の関係があるのか）」「What have we in common?（わたしたちにどんな共通点があるのか）」「Leave me alone!（放っておいてくれ / かかわらないでくれ）」「Never mind!（気にするな）」を提案している。本文脈においてイエスと悪霊の間の敵意は理解されるべきであり、したがって「わたしにかかわらないでくれ……（Leave me alone…）」と翻訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Though it seems unusual for a demon to invoke God’s name (“I implore you by God”) in his demands of Jesus, the parallel in Matt 8:29 suggests the reason: “Why have you come to torment us before the time?” There was an appointed time in which demons would face their judgment, and they seem to have viewed Jesus’ arrival on the scene as an illegitimate change in God’s plan regarding the time when their sentence would be executed.",
+        "ja": "[解説] 悪霊がイエスへの要求において神の名を持ち出すこと（「神にかけて頼む」）は異例に見えるが、マタイ8:29の並行箇所がその理由を示唆している（「まだその時ではないのに、ここに来てわたしたちを苦しめるのですか」）。悪霊たちが裁きを受ける定められた時が存在しており、彼らはイエスの出現を、宣告が執行される時期に関する神の計画の不当な前倒しと捉えたと考えられる。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（he）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical explanation by the author.",
+        "ja": "[解説] これは著者による挿入的な説明である。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（he）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The name Legion means “thousands,” a word taken from a Latin term for a large group of soldiers. The term not only suggests a multiple possession, but also adds a military feel to the account. This is a true battle.",
+        "ja": "[解説] 「レギオン（Legion）」という名は「数千」を意味し、大人数の軍隊を指すラテン語に由来する。この語は多数の憑依を示唆するだけでなく、記述に軍事的な雰囲気をも加えている。これは真の戦いである。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼に（him）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “mountain,” but this might give the English reader the impression of a far higher summit.",
+        "ja": "[翻訳注] ギリシャ語では「山（mountain）」であるが、英語の読者にはるかに高い山頂の印象を与える可能性がある。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “they”; the referent (the demonic spirits) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼らは（they）」。明瞭さのために指し示す対象（悪霊たち）を訳文で明示している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（he）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Many have discussed why Jesus gave them permission, since the animals were destroyed. However, this is another example of a miracle that is a visual lesson. The demons are destructive: They were destroying the man. They destroyed the pigs. They destroy whatever they touch. The point was to take demonic influence seriously, as well as Jesus’ power over it as a picture of the larger battle for human souls. There would be no doubt how the man’s transformation had taken place.",
+        "ja": "[解説] 動物が滅ぼされたことから、なぜイエスがそれを許可されたのかについて多くの議論がなされてきた。しかしこれは、視覚的な教訓となる奇跡の別の一例である。悪霊は破壊的である。彼らはその男を破壊し、豚を破壊した。彼らは触れるものすべてを破壊する。重要な点は、悪霊の影響力を深刻に受け止めること、そして人間の魂をめぐる大きな戦いの縮図としての悪霊に対するイエスの権威を示すことである。男の変容がどのようにして起こったのかには、いささかの疑いも残らない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate a conclusion and transition in the narrative.",
+        "ja": "[翻訳注] 物語における結末と移行を示すため、ここではδέ（de）が「こうして / そこで（so）」と翻訳されている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “now” to indicate a transition to the response to the miraculous healing.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。奇跡的ないやしに対する反応への移行を示すため、ここではκαί（kai）が「さて（now）」と翻訳されている。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。物語内の出来事の暗黙の順序を示すため、ここではκαί（kai）が「すると（then）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼に（him）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “be,” that is, “remain.” In this context that would involve accompanying Jesus as he went on his way.",
+        "ja": "[翻訳注] ギリシャ語では「共にあること」、すなわち「とどまること」。本文脈では、イエスが道を進まれる際にお供することを意味する。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。文脈に存在する対比を示すため、ここではκαί（kai）が「しかし（but）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（he）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Jesus instructs the man to declare what the Lord has done for him, in contrast to the usual instructions (e.g., 1:44; 5:43) to remain silent. Here in Gentile territory Jesus allowed more open discussion of his ministry. D. L. Bock (Luke [BECNT], 1:781) suggests that with few Jewish religious representatives present, there would be less danger of misunderstanding Jesus’ ministry as political.",
+        "ja": "[解説] イエスは沈黙を守るように命じる通常の指示（例: 1:44、5:43）とは対照的に、主が彼のために何をしてくださったかを告げ知らせるよう命じている。この異邦人の地において、イエスはご自身の働きについてより公に語ることを認められた。D・L・ボック（Luke [BECNT], 1:781）は、ユダヤ人の宗教的指導者がほとんど存在しなかったため、イエスの働きが政治的なものとして誤解される危険が少なかったことを示唆している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “So” to indicate the conclusion of the episode in the narrative.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。物語におけるエピソードの締めくくりを示すため、ここではκαί（kai）が「そこで（So）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Decapolis refers to a league of towns (originally consisting of ten; the Greek name literally means “ten towns”) whose region (except for Scythopolis) lay across the Jordan River.",
+        "ja": "[解説] デカポリスとは、（スキトポリスを除いて）ヨルダン川の東側に位置していた町々の連合体（元々は十の町で構成され、ギリシャ語の名称は文字通り「十の町」を意味する）を指す。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Note that the man could not separate what God had done from the one through whom God had done it (what Jesus had done for him). This man was called to witness to God’s goodness at home.",
+        "ja": "[解説] その男は、神が行われたことと、神がそれを行われた仲介者（イエスが自分のためにしてくださったこと）とを切り離すことができなかった点に注目すべきである。この男は家庭において神の慈しみを証しするよう召された。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] 物語内の出来事の暗黙の順序を示すため、ここではκαί（kai）が「すると（then）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  That is, “an official in charge of the synagogue”; ἀρχισυνάγωγος (arcisunagwgo\") refers to the “president of a synagogue” (so BDAG 139 s.v. and L&N 53.93; cf. Luke 8:41).[解説]  The synagogue was a place for Jewish prayer and worship, with recognized leadership. See also the note on synagogue in 1:21.",
+        "ja": "[翻訳注] すなわち「会堂を管理する役職者」。ἀρχισυνάγωγος（archisynagōgos）は「会堂長 / 会堂司」を指す（BDAG 139 s.v. および L&N 53.93、参照: ルカ8:41）。[解説] 会堂は公認の指導者を伴うユダヤ人の祈りと礼拝の場であった。1:21の会堂に関する注釈も参照。"
+      },
+      {
+        "pos": 3,
+        "en": "א A B C L Ï lat sy co}. The best explanation is that the phrase was accidentally dropped during the transmission of one strand of the Western text.",
+        "ja": "א A B C L Ï lat sy co}。最も妥当な説明は、西方テキスト系統の伝承過程でこの句が誤って脱落したというものである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼を（him）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “He”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼（He）」。明瞭さのために指し示す対象（イエス）を訳文で明示している。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。新しい話題への移行を示すため、ここではκαί（kai）が「さて（now）」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “a flow of blood.”",
+        "ja": "[翻訳注] ギリシャ語では「血の流出（a flow of blood）」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This story of the woman who had been suffering from hemorrhages for twelve years is recounted in the middle of the story about Jairus’ daughter. Mark’s account (as is often the case) is longer and more detailed than the parallel accounts in Matt 9:18-26 and Luke 8:40-56. Mark’s fuller account may be intended to show that the healing of the woman was an anticipation of the healing of the little girl.",
+        "ja": "[解説] 十二年間長血を患っていた女の物語は、ヤイロの娘に関する物語の途中に挿入されて語られている。マルコの記述は（往々にしてそうであるように）、マタイ9:18-26やルカ8:40-56の並行記述よりも長く詳細である。マルコのより詳細な記述は、女のいやしが少女のいやしの前触れであることを示す意図があったと考えられる。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “garment,” but here ἱμάτιον (Jimation) denotes the outer garment in particular.",
+        "ja": "[翻訳注] ギリシャ語では「衣服（garment）」であるが、ここではἱμάτιον（himation）が特に上着（外衣）を指している。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The imperfect verb is here taken iteratively, for the context suggests that the woman was trying to muster up the courage to touch Jesus’ cloak.",
+        "ja": "[翻訳注] ここでの未完了過去動詞は反復として解釈されている。文脈から、女がイエスの衣に触れる勇気を奮い起こそうとしていたことが示唆されるためである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “saved.”[解説]  In this pericope the author uses a term for being healed (Grk “saved”) that would have spiritual significance to his readers. It may be a double entendre (cf. parallel in Matt 9:21 which uses the same term), since elsewhere he uses verbs that simply mean “heal”: If only the reader would “touch” Jesus, he too would be “saved.”",
+        "ja": "[翻訳注] ギリシャ語では「救われる（saved）」。[解説] この区分において著者は、いやされることを表すために、読者にとって霊的な意味合いを持つ語（ギリシャ語で「救われる」）を用いている。著者は他の箇所で単に「いやす」を意味する動詞を用いているため、これは二重の意味を持つ表現（掛詞）である可能性がある（同じ語を用いるマタイ9:21の並行箇所を参照）。読者がイエスに「触れ」さえすれば、読者も「救われる」のである。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the flow of her blood dried up.”[解説]  The woman was most likely suffering from a vaginal hemorrhage, in which case her bleeding would make her ritually unclean.",
+        "ja": "[翻訳注] ギリシャ語では「彼女の血の泉が干上がった」。[解説] 女はおそらく不正出血を患っていたと考えられ、その場合、出血によって彼女は儀式上汚れた者とされた。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ギリシャ語では「そして（And）」。文脈に存在する対比を示すため、ここではκαί（kai）が「しかし（but）」と翻訳されている。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “has delivered you”; Grk “has saved you.” This should not be understood as an expression for full salvation in the immediate context; it refers only to the woman’s healing.",
+        "ja": "[翻訳注] または「あなたを救い出した」。ギリシャ語では「あなたを救った（has saved you）」。直接の文脈において、これは完全な救済を表す表現として理解されるべきではなく、単に女の肉体的な回復（いやし）を指している。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on synagogue rulers in 5:22.",
+        "ja": "[解説] 5:22の会堂司に関する注を参照。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and James,” but καί (kai) has not been translated since English normally uses a coordinating conjunction only between the last two elements in a series of three or more.",
+        "ja": "[翻訳注] ギリシャ語では「そしてヤコブ」。ただし、英語では通常、三つ以上の要素の列挙において最後の二つの間のみに等位接続詞を用いるため、καί（kai）は翻訳されていない。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and,” though such paratactic structure is rather awkward in English.",
+        "ja": "[翻訳注] ギリシャ語では「そして（and）」。ただし、このような並列構造は英語ではやや不自然となる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This group probably includes outside or even professional mourners, not just family, because a large group seems to be present.",
+        "ja": "[解説] 大勢の人が集まっていたと見られることから、この集団には家族だけでなく、外部の人々や職業的な泣き女なども含まれていたと考えられる。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “They were laughing at him.” The imperfect verb has been taken ingressively.",
+        "ja": "[翻訳注] ギリシャ語では「彼らは彼を笑っていた」。ここでの未完了過去動詞は開始（着手）の意味として解釈されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “threw them all outside.” The verb used, ἐκβάλλω (ekballw), almost always has the connotation of force in Mark.",
+        "ja": "[翻訳注] または「全員を外へ追い出した」。用いられている動詞ἐκβάλλω（ekballō）は、マルコ福音書において強制力のニュアンスを持つ。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “those with him.”",
+        "ja": "[翻訳注] ギリシャ語では「彼と共にある者たち（those with him）」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “into where the child was.”",
+        "ja": "[翻訳注] ギリシャ語では「子供のいた場所へ（into where the child was）」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek word εὐθύς (euqus, often translated “immediately” or “right away”) has not been translated here. It sometimes occurs with a weakened, inferential use (BDAG 406 s.v. 2), not contributing significantly to the flow of the narrative. For further discussion, see R. J. Decker, Temporal Deixis of the Greek Verb in the Gospel of Mark with Reference to Verbal Aspect (SBG 10), 73-77.",
+        "ja": "[翻訳注] 「すぐに」「直ちに」と訳されることの多いギリシャ語εὐθύς（euthys）は、ここでは翻訳されていない。この語は時として意味が弱まり、物語の流れに寄与しない推論的な用法（BDAG 406 s.v. 2）で現れることがある。詳細な議論については、R. J. Decker, Temporal Deixis of the Greek Verb in the Gospel of Mark with Reference to Verbal Aspect (SBG 10), 73-77を参照。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[解説]  That no one should know about this. See the note on the phrase who he was in 3:12.",
+        "ja": "[解説] 「このことをだれにも知らせないように」。3:12の「自分が何者であるか」という句に関する注を参照。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+# Ecclesiastes 3 (English)
+
+## Text
+
+**1** For everything there is an appointed time, and an appropriate time for every activity on earth: 
+
+**2** A time to be born, and a time to die; a time to plant, and a time to uproot what was planted; 
+
+**3** a time to kill, and a time to heal; a time to break down, and a time to build up;
+
+**4** a time to weep, and a time to laugh; a time to mourn, and a time to dance. 
+
+**5** A time to throw away stones, and a time to gather stones; a time to embrace, and a time to refrain from embracing; 
+
+**6** a time to search, and a time to give something up as lost; a time to keep, and a time to throw away; 
+
+**7** a time to rip, and a time to sew; a time to keep silent, and a time to speak. 
+
+**8** A time to love, and a time to hate; a time for war, and a time for peace. 
+
+**9** What benefit can a worker gain from his toil? 
+
+**10** I have observed the burden that God has given to people to keep them occupied. 
+
+**11** God has made everything fit beautifully in its appropriate time, but he has also placed ignorance in the human heart so that people cannot discover what God has ordained, from the beginning to the end of their lives.
+
+**12** I have concluded that there is nothing better for people than to be happy and to enjoy themselves as long as they live, 
+
+**13** and also that everyone should eat and drink, and find enjoyment in all his toil, for these things are a gift from God. 
+
+**14** I also know that whatever God does will endure forever; nothing can be added to it, and nothing taken away from it. God has made it this way, so that men will fear him.
+
+**15** Whatever exists now has already been, and whatever will be has already been; for God will seek to do again what has occurred in the past. 
+
+**16** I saw something else on earth: In the place of justice, there was wickedness, and in the place of fairness, there was wickedness. 
+
+**17** I thought to myself, “God will judge both the righteous and the wicked; for there is an appropriate time for every activity, and there is a time of judgment for every deed.” 
+
+**18** I also thought to myself, “It is for the sake of people, so God can clearly show them that they are like animals. 
+
+**19** For the fate of humans and the fate of animals are the same: As one dies, so dies the other; both have the same breath. There is no advantage for humans over animals, for both are fleeting. 
+
+**20** Both go to the same place; both come from the dust, and to dust both return. 
+
+**21** Who really knows if the human spirit ascends upward, and the animal’s spirit descends into the earth?” 
+
+**22** So I perceived there is nothing better than for people to enjoy their work because that is their reward; for who can show them what the future holds? 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Verse 1 is arranged in an ABB’A’ chiasm (לַכֹּל זְמָן וְעֵת לְכָל־חֵפֶץ, lakkol zÿman vÿ’et lÿkhol-khefets): (A) “for everything”; (B) “a season”; (B’) “a time”; (A’) “for every matter.” The terms “season” (זְמָן, zÿman) and “time” (עֵת, ’et) are parallel. In the light of its parallelism with “every matter” (כָל־חֵפֶץ, khol-khefets), the term “everything” (כָל, khol) must refer to events and situations in life.
+
+### Verse 1 - Note 2
+[翻訳注]  The noun זְמָן (zÿman) denotes “appointed time” or “appointed hour” (HALOT 273 s.v. זְמָן; BDB 273 s.v. זְמָן; see Eccl 3:1; Esth 9:27, 31; Neh 2:6; Sir 43:7), e.g., the appointed or designated time for the Jewish feasts (Esth 9:27, 31), the length of time that Nehemiah set for his absence from Susa (Neh 2:6), and the appointed times in the Jewish law for the months to begin (Sir 43:7). It is used in parallelism with מועד (“appointed time”), i.e., מועד ירח (“the appointed time of the moon”) parallels זמני חק (“the appointed times of the law”; Sir 43:7). The related verb, a Pual of זָמַן (zaman), means “to be appointed” (HALOT 273 s.v. זְמָן); e.g. Ezra 10:14; Neh 10:35; 13:31. These terms may be related to the noun I זִמָּה (zimmah, “plan; intention”; Job 17:11; HALOT 272 s.v. I זִמָּה) and מְזִמָּה (mÿzimmah, “purpose; plan; project”), e.g., the purposes of God (Job 42:2; Jer 23:20; 30:24; 51:11) and man’s plan (Isa 5:12); see HALOT 566 s.v. מְזִמָּה; BDB 273 s.v. מְזִמָּה.[解説]  Verses 1-8 refer to God’s appointed time-table for human activities or actions whose most appropriate time is determined by men. Verses 9-15 state that God is ultimately responsible for the time in which events in human history occur. This seems to provide a striking balance between the sovereignty of God and the responsibility of man. Man does what God has willed, but man also does what he “pleases” (see note on the word “matter” in 3:1).
+
+### Verse 1 - Note 3
+[翻訳注]  The noun עֵת (’et, “point in time”) has a basic two-fold range of meanings: (1) “time of an event” and (2) “time for an event” (BDB 773 s.v. עֵת). The latter has subcategories: (a) “usual time,” (b) “the proper, suitable or appropriate time,” (c) “the appointed time,” and (d) “uncertain time” (Eccl 9:11). Here it connotes “a proper, suitable time for an event” (HALOT 900 s.v. עֵת 6; BDB s.v. עֵת 2.b). Examples: “the time for rain” (Ezra 10:13), “a time of judgment for the nations” (Ezek 30:3), “an appropriate time for every occasion” (Eccl 3:1), “the time when mountain goats are born” (Job 39:1), “the rain in its season” (Deut 11:14; Jer 5:24), “the time for the harvest” (Hos 2:11; Ps 1:3), “food in its season” (Ps 104:27), “no one knows his hour of destiny” (Eccl 9:12), “the right moment” (Eccl 8:5); cf. HALOT 900 s.v. עֵת 6.
+
+### Verse 1 - Note 4
+[翻訳注]  The noun חֵפֶץ (khefets, here “matter, business”) has a broad range of meanings: (1) “delight; joy,” (2) “desire; wish; longing,” (3) “the good pleasure; will; purpose,” (4) “precious stones” (i.e., jewelry), i.e., what someone takes delight in, and (5) “matter; business,” as a metonymy of adjunct to what someone takes delight in (Eccl 3:1, 17; 5:7; 8:6; Isa 53:10; 58:3, 13; Pss 16:3; 111:2; Prov 31:13); see HALOT 340 s.v. חֵפֶץ 4; BDB 343 s.v. חֵפֶץ 4. It is also sometimes used in reference to the “good pleasure” of God, that is, his sovereign plan, e.g., Judg 13:23; Isa 44:28; 46:10; 48:14 (BDB 343 s.v. חֵפֶץ). While the theme of the sovereignty of God permeates Eccl 3:1–4:3, the content of 3:1-8 refers to human activities that are planned and purposed by man. The LXX translated it with πράγματι (pragmati, “matter”). The term is translated variously by modern English versions: “every purpose” (KJV, ASV), “every event” (NASB), “every delight” (NASB margin), “every affair” (NAB), “every matter” (RSV, NRSV), “every activity” (NEB, NIV), “every project” (MLB), and “every experience” (NJPS).
+
+### Verse 1 - Note 5
+[翻訳注]  Heb “under heaven.”
+
+### Verse 2 - Note 1
+[翻訳注]  The verb יָלָד (yalad, “to bear”) is used in the active sense of a mother giving birth to a child (HALOT 413 s.v. ילד; BDB 408 s.v. יָלָד). However, in light of its parallelism with “a time to die,” it should be taken as a metonymy of cause (i.e., to give birth to a child) for effect (i.e., to be born).
+
+### Verse 2 - Note 2
+[解説]  In 3:2-8, Qoheleth uses fourteen sets of merisms (a figure using polar opposites to encompass everything in between, that is, totality), e.g., Deut 6:6-9; Ps 139:2-3 (see E. W. Bullinger, Figures of Speech, 435).
+
+### Verse 6 - Note 1
+[翻訳注]  The term לְאַבֵּד (lÿ’abbed, Piel infinitive construct from אָבַד, ’avad, “to destroy”) means “to lose” (e.g., Jer 23:1) as the contrast with בָּקַשׁ (baqash, “to seek to find”) indicates (HALOT 3 s.v. I אבד; BDB 2 s.v. אבד 3). This is the declarative or delocutive-estimative sense of the Piel: “to view something as lost” (R. J. Williams, Hebrew Syntax, 28, §145; IBHS 403 §24.2g).
+
+### Verse 9 - Note 1
+[翻訳注]  The term הָעוֹשֶׂה (ha’oseh, article + Qal active participle ms from עָשַׂה, ’asah, “to do”) functions substantively (“the worker”); see BDB 794 s.v. עָשַׂה II.1. This is a figurative description of man (metonymy of association), and plays on the repetition of עָשַׂה (verb: “to do,” noun: “work”) throughout the passage. In the light of God’s orchestration of human affairs, man’s efforts cannot change anything. It refers to man in general with the article functioning in a generic sense (see IBHS 244-45 §13.5.1f; Joüon 2:511 §137.m).
+
+### Verse 9 - Note 2
+[解説]  This rhetorical question is an example of negative affirmation, expecting a negative answer: “Man gains nothing from his toil!” (see E. W. Bullinger, Figures of Speech, 949-51). Any advantage that man might gain from his toil is nullified by his ignorance of divine providence.
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “the sons of man.”
+
+### Verse 11 - Note 1
+[解説]  The Hebrew adjective translated beautifully functions as a metonymy of effect (i.e., to appear beautiful) for cause (i.e., to make it fit): “to fit beautifully.” It is used in parallelism with Qoheleth’s term for evaluation: טוֹב (tov, “good”) in 5:17.
+
+### Verse 11 - Note 2
+[翻訳注]  The word “but” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “darkness”; perhaps “eternity” or “the future.” The meaning of the noun עֹלָם (’olam) is debated. It may mean: (1) “ignorance”; (2) time reference: (a) “eternity” or (b) “the future”; or (3) “knowledge” (less likely). The arguments for these options may be summarized: (1) Most suggest that עֹלָם is the defectively written form of עוֹלָם “duration; eternity” (e.g., Eccl 1:4; 2:16; 3:14; 9:6; 12:5); see BDB 762 s.v. III עוֹלָם 2.k. Within this school of interpretation, there are several varieties: (a) BDB 762 s.v. III עוֹלָם 2.k suggests that here it denotes “age [i.e., duration] of the world,” which is attested in postbiblical Hebrew. The term III עֹלָם “eternity” = “world” (Jastrow 1084 s.v. עָלַם III) is used in this sense in postbiblical Hebrew, mostly in reference to the Messianic age, or the world to come (e.g., Tg. Genesis 9:16; Tg. Onq. Exodus 21:6; Tg. Psalms 61:7). For example, “the world (עֹלָם) shall last six thousand years, and after one thousand years it shall be laid waste” (b. Rosh HaShanah 31a) and “the world (עֹלָם) to come” (b. Sotah 10b). The LXX and the Vulgate took the term in this sense. This approach was also adopted by several English translations: “the world” (KJV, Douay, ASV margin). (b) HALOT 799 s.v. עוֹלָם 5 and THAT 2:242 suggest that the term refers to an indefinite, unending future: “eternity future” or “enduring state referring to past and future” (see also BDB 762 s.v. III עוֹלָם 2.i). In this sense, the noun עֹלָם functions as a metonymy of association: “a sense of eternity,” but not in a philosophical sense (see J. Barr, Biblical Words for Time [SBT], 117, n. 4). This approach is supported by three factors: (i) the recurrence of עוֹלָם (“eternity”) in 3:14, (ii) the temporal qualification of the statement in the parallel clause (“from beginning to end”), and (iii) by the ordinary meaning of the noun as “eternity” (HALOT 798–799 s.v. עוֹלָם). The point would be that God has endowed man with an awareness of the extra-temporal significance of himself and his accomplishments (D. R. Glenn, “Ecclesiastes,” BKCOT, 984). This is the most frequent approach among English versions: “the timeless” (NAB), “eternity” (RSV, MLB, ASV, NASB, NIV, NJPS), “a sense of time past and time future” (NEB), and “a sense of past and future” (NRSV). (3) Other scholars suggest that עוֹלָם simply refers to the indefinite future: “the future,” that is, things to come (e.g., HALOT 799 s.v. עוֹלָם 2; BDB 762 s.v. III עוֹלָם 2.a; THAT 2:241). The plural עֹלָמִים (’olamim, “things to come”) was used in this sense in Eccl 1:10 (e.g., 1 Kgs 8:13 = 2 Chr 6:2; Pss 61:5; 77:8; 145:13; Dan 9:24; cf. HALOT 799 s.v. עוֹלָם 2). The point would simply be that God has not only ordained all the events that will take place in man’s life (3:1-8), but also preoccupies man with the desire to discover what will happen in the future in terms of the orchestration or timing of these events in his life (3:9-11). This fits well with the description of God’s orchestration of human events in their most appropriate time (3:1-10) and the ignorance of man concerning his future (3:11b). Elsewhere, Qoheleth emphasizes that man cannot learn what the future holds in store for him (e.g., 8:7, 17). This approach is only rarely adopted: “the future” (NJPS margin). (2) The second view is that עֹלָם is not defectively written עוֹלָם (“eternity”) but the segholate noun II עֶלֶם (’elem) that means “dark” (literal) or “ignorance; obscurity; secrecy” (figurative). The related noun תַּעֲלֻמָה (ta’alumah) means “hidden thing; secret,” and the related verb עָלַם (’alam) means “to hide; to conceal” (BDB 761 s.v. I עָלַם; HALOT 834–35 s.v. עלם). This is related to the Ugaritic noun “dark” and the Akkadian verb “to be black; to be dark” (see HALOT 834-35 s.v. עלם). In postbiblical Hebrew the root II עֶלֶם means (i) “secret” and (ii) “forgetfulness” (Jastrow 1084 s.v. עֶלֶם I). Thus the verse would mean that God has “obscured” man’s knowledge so that he cannot discover certain features of God’s program. This approach is adopted by Moffatt which uses the word “mystery.” Similarly, the term may mean “forgetfulness,” that is, God has plagued man with “forgetfulness” so that he cannot understand what God has done from the beginning to the end (e.g., Eccl 1:11). (3) The third view (Delitzsch) is to relate עֹלָם to a cognate Arabic root meaning “knowledge.” The point would be that God has endowed man with “knowledge,” but not enough for man to discover God’s eternal plan. This approach is only rarely adopted: “knowledge” (YLT).
+
+### Verse 11 - Note 4
+[翻訳注]  Heb “in their heart.” The Hebrew term translated heart functions as a metonymy of association for man’s intellect, emotions, and will (BDB 524–25 s.v. לֵב 3–6, 9). Here, it probably refers to man’s intellectual capacities, as v. 11 suggests.
+
+### Verse 11 - Note 5
+[翻訳注]  The compound preposition מִבְּלִי (mibbÿli, preposition מִן [min] + negative particle בְּלִי [bÿli]) is used as a conjunction here. Elsewhere, it can express cause: “because there is no [or is not]” (e.g., Deut 9:28; 28:55; Isa 5:13; Ezek 34:5; Lam 1:4; Hos 4:6), consequence: “so that there is no [or is not]” (e.g., Ezek 14:5; Jer 2:15; 9:9-11; Zeph 3:6), or simple negation: “without” (e.g., Job 4:11, 20; 6:6; 24:7-8; 31:19). BDB 115 s.v. בְּלִי 3.c.β suggests the negative consequence: “so that not,” while HALOT 133 s.v. בְּלִי 5 suggests the simple negation: “without the possibility of.”
+
+### Verse 11 - Note 6
+[翻訳注]  Heb “man.”
+
+### Verse 11 - Note 7
+[翻訳注]  Heb “the work that God has done.” The phrase אֶת־הַמַּעֲשֶׂה אֲשֶׁר־עָשָׂה (’et-hamma’aseh ’asher-’asah, “the work which he [i.e., God] has done”) is an internal cognate accusative (direct object and verb are from the same root), used for emphasis (see IBHS 167 §10.2.1g). The repetition of the verb עָשַׂה (“to do”) in 3:11 and 3:14 suggests that this phrase refers to God’s foreordination of all the events and timing of human affairs: God has “made” ( = “foreordained”; עָשַׂה) everything appropriate in his sovereign timing (3:11a), and all that God has “done” ( = “foreordained”; עָשַׂה) will come to pass (3:14). Thus, the verb עָשַׂה functions as a metonymy of effect (i.e., God’s actions) for cause (i.e., God’s sovereign foreordination). The temporal clause “from beginning to end” (3:11) supports this nuance.
+
+### Verse 11 - Note 8
+[翻訳注]  Traditionally, “what God has done from the beginning to the end.” The temporal clause מֵרֹאשׁ וְעַד־סוֹף (mero’sh vÿ’ad-sof, “from the beginning to the end”) is traditionally taken in reference to “eternity” (the traditional understanding of הָעֹלָם [ha’olam] earlier in the verse; see the note on “ignorance”), e.g., KJV, NEB, NAB, ASV, NASB, NIV, RSV, NRSV. However, if הָעֹלָם simply denotes “the future” (e.g., HALOT 799 s.v. עוֹלָם 2; BDB 762 s.v. III עוֹלָם 2.a; THAT 2:241), this temporal clause would refer to the events God has ordained to transpire in an individual’s life, from beginning to end. This approach is adopted by one English version: “but without man ever guessing, from first to last, all the things that God brings to pass” (NJPS). This would fit well in the context begun in 3:1 with the fourteen merisms encompassing man’s life, starting with “a time to be born” (i.e., from the beginning in 3:11) and concluding with “a time to die” (i.e., to the end in 3:11). This approach is also supported by the admonition of 3:12-13, namely, since no one knows what will happen to him in the future days of his life, Qoheleth recommends that man enjoy each day as a gift from God.
+
+### Verse 11 - Note 9
+[翻訳注]  The phrase “of their lives” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “I know.”
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “for them”; the referent (people, i.e., mankind) has been specified in the translation for clarity.
+
+### Verse 12 - Note 3
+[翻訳注]  Qoheleth uses the exceptive particle אִם…כִּי (ki…’im, “except”) to identify the only exception to the futility within man’s life (BDB 474 s.v. כִּי 2).
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “to do good.” The phrase לַעֲשׂוֹת טוֹב (la’asot tov) functions idiomatically for “to experience [or see] happiness [or joy].” The verb עָשַׂה (’asah) probably denotes “to acquire; to obtain” (BDB 795 s.v. עָשַׂה II.7), and טוֹב (tov) means “good; pleasure; happiness,” e.g., Eccl 2:24; 3:13; 5:17 (BDB 375 s.v. טוֹב 1).
+
+### Verse 13 - Note 1
+[翻訳注]  Heb “for it.” The referent of the 3rd person feminine singular independent person pronoun (“it”) is probably the preceding statement: “to eat, drink, and find satisfaction.” This would be an example of an anacoluthon (GKC 505-6 §167.b). Thus the present translation uses “these things” to indicate the reference back to the preceding.
+
+### Verse 15 - Note 1
+[翻訳注]  The phrase “to do again” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 15 - Note 2
+[翻訳注]  Heb “God will seek that which is driven away.” The meaning of יְבַקֵּשׁ אֶת־נִרְדָּף (yÿvaqqesh ’et-nirdaf) is difficult to determine: יְבַקֵּשׁ (yÿvaqqesh) is Piel imperfect 3rd person masculine singular from בָּקַשׁ (baqash, “to seek”) and נִרְדָּף (nirdaf) is a Niphal participle 3rd person masculine singular from רָדַף (radaf, “to drive away”). There are several options: (1) God watches over the persecuted: יְבַקֵּשׁ (“seeks”) functions as a metonymy of cause for effect (i.e., to protect), and אֶת־נִרְדָּף (“what is driven away”) refers to “those who are persecuted.” But this does not fit the context. (2) God will call the past to account: יְבַקֵּשׁ functions as a metonymy of cause for effect (i.e., to hold accountable), and אֶת־נִרְדָּף is a metonymy of attribute (i.e., the past). This approach is adopted by several English translations: “God requires that which is past” (KJV), “God will call the past to account” (NIV) and “God summons each event back in its turn” (NEB). (3) God finds what has been lost: יְבַקֵּשׁ functions as a metonymy of cause for effect (i.e., to find), and אֶת־נִרְדָּף refers to what has been lost: “God restores what would otherwise be displaced” (NAB). (4) God repeats what has already occurred: יְבַקֵּשׁ functions as a metonymy of effect (i.e., to repeat), and אֶת־נִרְדָּף is a metonymy (i.e., that which has occurred). This fits the context and provides a tight parallel with the preceding line: “That which is has already been, and that which will be has already been” (3:15a) parallels “God seeks [to repeat] that which has occurred [in the past].” This is the most popular approach among English versions: “God restores that which has past” (Douay), “God seeks again that which is passed away” (ASV), “God seeks what has passed by” (NASB), “God seeks what has been driven away” (RSV), “God seeks out what has passed by” (MLB), “God seeks out what has gone by” (NRSV), and “God is ever bringing back what disappears” (Moffatt).
+
+### Verse 15 - Note 3
+[翻訳注]  The phrase “in the past” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “under the sun.”
+
+### Verse 16 - Note 2
+[翻訳注]  Or “righteousness.”
+
+### Verse 17 - Note 1
+[翻訳注]  The phrase “a time of judgment” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 1
+[翻訳注]  The phrase “it is” does not appear in the Hebrew text, but is supplied in the translation for clarity.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “the sons of man.” The phrase עַל־דִּבְרַת בְּנֵי הָאָדָם (’al-divrat bÿne ha’adam) is handled variously: (1) introduction to the direct discourse: “I said to myself concerning the sons of men” (NASB), (2) direct discourse: “I thought, ‘As for men, God tests them’” (NIV), (3) indirect discourse: “I said in my heart concerning the estate of the sons of men” (KJV), and (4) causal conjunction: “I said, ‘[It is] for the sake of the sons of men.” Since the phrase “sons of men” is contrasted with “animals” the translation “humans” has been adopted.
+
+### Verse 18 - Note 3
+[翻訳注]  The meaning of לְבָרָם (lÿvaram, preposition + Qal infinitive construct from בָּרַר, barar, + 3rd person masculine plural suffix) is debated because the root has a broad range of meanings: (1) “to test; to prove; to sift; to sort out” (e.g., Dan 11:35; 12:10); (2) “to choose; to select” (e.g., 1 Chr 7:40; 9:22; 16:41; Neh 5:18); (3) “to purge out; to purify” (e.g., Ezek 20:38; Zeph 3:9; Job 33:3); and (4) “to cleanse; to polish” (Isa 49:2; 52:11); see HALOT 163 s.v. בָּרַר; BDB 141 s.v. בָּרַר. The meanings “to prove” (Qal), as well as “to cleanse; to polish” (Qal), “to keep clean” (Niphal), and “to cleanse” (Hiphil) might suggest the meaning “to make clear” (M. A. Eaton, Ecclesiastes [TOTC], 85-86). The meaning “to make clear; to prove” is well attested in postbiblical Mishnaic Hebrew (Jastrow 197-98 s.v. בָּרַר). For example, “they make the fact as clear (bright) as a new garment” (b. Ketubbot 46a) and “the claimant must offer clear evidence” (b. Sanhedrin 23b). The point would be that God allows human injustice to exist in the world in order to make it clear to mankind that they are essentially no better than the beasts. On the other hand, the LXX adopts the nuance “to judge,” while Targum and Vulgate take the nuance “to purge; to purify.” BDB 141 s.v. בָּרַר 4 suggests “to test, prove,” while HALOT 163 s.v. בָּרַר 2 prefers “to select, choose.”
+
+### Verse 18 - Note 4
+[翻訳注]  The two infinitives לְבָרָם (lÿvaram, “to make it clear to them”) and וְלִרְאוֹת (vÿlir’ot, “and to show”) function as a verbal hendiadys (the two verbs are associated with one another to communicate a single idea). The first verb functions adverbially and the second retains its full verbal force: “to clearly show them.”
+
+### Verse 19 - Note 1
+[翻訳注]  Heb “of the sons of man.”
+
+### Verse 21 - Note 1
+[翻訳注]  Heb “the spirit of the sons of man.”
+
+### Verse 22 - Note 1
+[翻訳注]  Heb “man.”
+
+### Verse 22 - Note 2
+[翻訳注]  Heb “his works.”
+
+### Verse 22 - Note 3
+[翻訳注]  Heb “his.”
+
+### Verse 22 - Note 4
+[翻訳注]  Heb “what will be after him” (cf. KJV, NASB, NIV) or “afterward” (cf. NJPS).

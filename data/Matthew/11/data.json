@@ -1,0 +1,470 @@
+{
+  "book": "Matthew",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "When Jesus had finished instructing his 12 disciples, he went on from there to teach and preach in their towns. ",
+      "ja": "イエスが12人の弟子たちへの指示を終えられると、そこから進んで行かれ、町々で教え、宣べ伝えられた。"
+    },
+    {
+      "verse": 2,
+      "en": "Now when John heard in prison about the deeds Christ had done, he sent his disciples to ask a question:",
+      "ja": "さて、キリストの行われた業について獄中で耳にしたヨハネは、自分の弟子たちを遣わして尋ねさせた。"
+    },
+    {
+      "verse": 3,
+      "en": "“Are you the one who is to come, or should we look for another?” ",
+      "ja": "「来たるべき方はあなたですか、それとも私たちは別の方を待つべきでしょうか」"
+    },
+    {
+      "verse": 4,
+      "en": "Jesus answered them, “Go tell John what you hear and see: ",
+      "ja": "イエスは彼らに答えて言われた。「行って、あなた方が聞き、また見ていることをヨハネに告げなさい。"
+    },
+    {
+      "verse": 5,
+      "en": "The blind see, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, and the poor have good news proclaimed to them",
+      "ja": "盲人が見え、足の不自由な者が歩き、らい病人がきよめられ、耳ラーの聞こえない者が聞き、死人が生き返り、貧しい人々に福音フクインが宣べ伝えられている。"
+    },
+    {
+      "verse": 6,
+      "en": "—and blessed is anyone who takes no offense at me!” ",
+      "ja": "そして、わたしにつまずかない者は幸いである」"
+    },
+    {
+      "verse": 7,
+      "en": "While they were going away, Jesus began to speak to the crowd about John: “What did you go out into the wilderness to see? A reed shaken by the wind? ",
+      "ja": "彼らが帰っていくとき、イエスは群衆に向かってヨハネについて話し始められた。「あなた方は何を見に荒野へ出て行ったのか。風に揺らぐアシか。"
+    },
+    {
+      "verse": 8,
+      "en": "What did you go out to see? A man dressed in soft clothing? Look, those who wear soft clothing are in the palaces of kings! ",
+      "ja": "いったい何を見に行ったのか。柔らかい衣を着た人か。見よ、柔らかい衣を着ている者たちは王の宮殿にいる。"
+    },
+    {
+      "verse": 9,
+      "en": "What did you go out to see? A prophet? Yes, I tell you, and more than a prophet! ",
+      "ja": "では、何を見に行ったのか。預言者か。そうだ、言っておくが、預言者以上の者である。"
+    },
+    {
+      "verse": 10,
+      "en": "This is the one about whom it is written: “‘<b>Look, I am sending my messenger ahead of you,</b> <b>who will prepare your way before you</b>.’ ",
+      "ja": "この人こそ、『見よ、わたしはあなたの先使いをあなたの前に遣わし、その者があなたの前にあなたの道を整える』と書かれているその人である。"
+    },
+    {
+      "verse": 11,
+      "en": "“I tell you the truth, among those born of women, no one has arisen greater than John the Baptist. Yet the one who is least in the kingdom of heaven is greater than he is! ",
+      "ja": "まことに、あなた方に告げる。女から生まれた者の中で、洗礼者ヨハネより偉大な者は現れなかった。しかし、天の王国において最も小さい者でも、彼よりは偉大である。"
+    },
+    {
+      "verse": 12,
+      "en": "From the days of John the Baptist until now the kingdom of heaven has suffered violence, and forceful people lay hold of it. ",
+      "ja": "洗礼者ヨハネの日から今まで、天の王国は力ずくで進められており、激しい者たちがそれを奪い取っている。"
+    },
+    {
+      "verse": 13,
+      "en": "For all the prophets and the law prophesied until John appeared.",
+      "ja": "すべての預言者たちと律法は、ヨハネが現れるまで預言したのである。"
+    },
+    {
+      "verse": 14,
+      "en": "And if you are willing to accept it, he is Elijah, who is to come. ",
+      "ja": "そして、もし受け入れる気持ちがあるなら、この人こそ、来たるべきエリヤである。"
+    },
+    {
+      "verse": 15,
+      "en": "The one who has ears had better listen! ",
+      "ja": "耳のある者は聞きなさい。"
+    },
+    {
+      "verse": 16,
+      "en": "“To what should I compare this generation? They are like children sitting in the marketplaces who call out to one another, ",
+      "ja": "「この時代を何にたとえようか。それは市場に座って、ほかの子供たちに向かって呼びかけ、"
+    },
+    {
+      "verse": 17,
+      "en": "“‘We played the flute for you, yet you did not dance; we wailed in mourning, yet you did not weep.’ ",
+      "ja": "『私たちはあなたたちのために笛を吹いたのに、踊らなかった。私たちは葬式の歌を歌って嘆いたのに、涙を流さなかった』と言っている子供たちのようだ。"
+    },
+    {
+      "verse": 18,
+      "en": "For John came neither eating nor drinking, and they say, ‘He has a demon!’ ",
+      "ja": "というのは、ヨハネが来て食べもせず飲みもしないと、人々は『彼は悪霊に取りつかれている』と言い、"
+    },
+    {
+      "verse": 19,
+      "en": "The Son of Man came eating and drinking, and they say, ‘Look at him, a glutton and a drunk, a friend of tax collectors and sinners!’ But wisdom is vindicated by her deeds.” ",
+      "ja": "人の子が来て食べたり飲んだりしていると、『見ろ、大食漢で大酒飲み、取税人や罪人たちの友人だ』と言うからである。しかし、知恵はその業によって正しいことが証明される」"
+    },
+    {
+      "verse": 20,
+      "en": "Then Jesus began to criticize openly the cities in which he had done many of his miracles because they did not repent. ",
+      "ja": "そのとき、イエスは自分が多くの奇蹟を行った町々が悔い改めなかったため、それらの町々を責め始められた。"
+    },
+    {
+      "verse": 21,
+      "en": "“Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. ",
+      "ja": "「災いだ、コラジンよ。災いだ、ベツサイダよ。お前たちのところでなされた奇蹟がツロとシドンで行われていたなら、彼らはとうの昔に粗衣をまとい、灰をかぶって悔い改めていただろう。"
+    },
+    {
+      "verse": 22,
+      "en": "But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you! ",
+      "ja": "しかし、あなた方に告げる。裁きの日には、ツロとシドンの方がお前たちよりも耐えやすいだろう。"
+    },
+    {
+      "verse": 23,
+      "en": "And you, Capernaum, will you be exalted to heaven? No, you will be thrown down to Hades! For if the miracles done among you had been done in Sodom, it would have continued to this day. ",
+      "ja": "またカペナウムよ、お前が天にまで上げられるとでもいうのか。いや、ハデスにまで落とされるのだ。お前の中でなされた奇蹟がソドムで行われていたなら、その町は今日まで存続していたはずだからだ。"
+    },
+    {
+      "verse": 24,
+      "en": "But I tell you, it will be more bearable for the region of Sodom on the day of judgment than for you!” ",
+      "ja": "しかし、あなた方に告げる。裁きの日には、ソドムの地の方がお前たちよりも耐えやすいだろう」"
+    },
+    {
+      "verse": 25,
+      "en": "At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and intelligent, and have revealed them to little children. ",
+      "ja": "そのとき、イエスはこう言われた。「天地の主である父よ、あなたをほめたたえます。これらのことを知恵ある者や賢い者たちには隠し、幼子たちに現してくださったからです。"
+    },
+    {
+      "verse": 26,
+      "en": "Yes, Father, for this was your gracious will.",
+      "ja": "そうです、父よ、これはみこころにかなうことでした。"
+    },
+    {
+      "verse": 27,
+      "en": "All things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son decides to reveal him.",
+      "ja": "すべてのものがわたしの父によってわたしに引き渡されています。父のほかに子を知る者はなく、また子のほかに、そして子が示そうと決めた者のほかに、父を知る者はいません。"
+    },
+    {
+      "verse": 28,
+      "en": "Come to me, all you who are weary and burdened, and I will give you rest. ",
+      "ja": "すべて労苦し、重荷を負っている者たちは、わたしのところに来なさい。わたしがあなた方を休ませてあげる。"
+    },
+    {
+      "verse": 29,
+      "en": "Take my yoke on you and learn from me because I am gentle and humble in heart, and you will find rest for your souls. ",
+      "ja": "わたしのくびきを負って、わたしから学びなさい。わたしは心が柔和でへりくだっているからである。そうすれば、あなた方は魂に安らぎを見出すだろう。"
+    },
+    {
+      "verse": 30,
+      "en": "For my yoke is easy to bear, and my load is not hard to carry.” ",
+      "ja": "わたしのくびきは負いやすく、わたしの荷は軽いからである」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And it happened when.” The introductory phrase καὶ ἐγένετο (kai egeneto, “it happened that”) is redundant in contemporary English and has not been translated.",
+        "ja": "[翻訳注] ギリシャ語では「そして〜となった（kai egeneto）」であるが、現代英語では冗長であるため訳出されていない。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  John refers to John the Baptist.",
+        "ja": "[解説] ヨハネとは洗礼者ヨハネを指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  The Western codex D and a few other mss (0233 1424 al) read “Jesus” here instead of “Christ.” This is not likely to be original because it is not found in the earliest and most important mss, nor in the rest of the ms tradition.[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”[解説]  See the note on Christ in 1:16.",
+        "ja": "[写本注] 西方写本のDおよび少数の他の写本（0233 1424他）では、ここで「キリスト」の代わりに「イエス」と読まれている。最古かつ最も重要な写本群や他の写本伝承には見られないため、これが原典であるとは考えにくい。[翻訳注] または「メシア」。「キリスト」（ギリシャ語）と「メシア」（ヘブライ語およびアラム語）はどちらも「油そそがれた者」を意味する。[解説] 1:16のキリストに関する注記を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "33 sa), and thus should be considered original.[翻訳注]  Grk “sending by his disciples he said to him.” The words “a question” are not in the Greek text, but are implied.",
+        "ja": "33 sa）にあり、したがって原典とみなすべきである。[翻訳注] ギリシャ語では「自分の弟子たちを通して送り、彼に言った」となっている。「質問を」という言葉はギリシャ語本文にはないが、文脈上暗示されている。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[解説]  Aspects of Jesus’ ministry may have led John to question whether Jesus was the promised stronger and greater one who is to come that he had preached about in Matt 3:1-12.",
+        "ja": "[解説] イエスの宣教のあり方は、ヨハネがマタイ3:1-12で宣べ伝えた「来たるべき、より強く偉大な方」が本当にイエスであるのかどうか、ヨハネに疑問を抱かせた可能性がある。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And answering, Jesus said to them.” This construction is somewhat redundant in English and has been simplified in the translation.",
+        "ja": "[翻訳注] ギリシャ語では「そしてイエスは答えて彼らに言われた」。この構文は英語ではやや冗長であるため、翻訳では簡略化されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  What you hear and see. The following activities all paraphrase various OT descriptions of the time of promised salvation: Isa 35:5-6; 26:19; 29:18-19; 61:1. Jesus is answering not by acknowledging a title, but by pointing to the nature of his works, thus indicating the nature of the time.",
+        "ja": "[解説] あなた方が聞き、また見ていること。以下の活動の数々は、約束された救いの時代に関する旧約聖書のさまざまな描写（イザヤ35:5-6、26:19、29:18-19、61:1）を言い換えたものである。イエスは称号を認めることによってではなく、ご自身の業の性質を示すことによって答え、それによりその時代の性質を指し示しておられる。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and the,” but καί (kai) has not been translated since English normally uses a coordinating conjunction only between the last two elements in a series of three or more. Two other conjunctions are omitted in this series.",
+        "ja": "[翻訳注] ギリシャ語では「そして〜も」となっているが、英語では通常3つ以上の要素の最後の2つの間だけに等位接続詞を用いるため、kaíは訳出されていない。この連続の中では、他にも2つの接続詞が省略されている。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “whoever.”",
+        "ja": "[翻訳注] ギリシャ語の「whoever（誰であれ）」に基づく。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “desert.”",
+        "ja": "[翻訳注] または「荒野」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  There is a debate as to whether one should read this figuratively (“to see someone who is easily blown over?”) or literally (Grk “to see the wilderness vegetation?… No, to see a prophet”). Either view makes good sense, but the following examples suggest the question should be read literally and understood to point to the fact that a prophet drew them to the desert.",
+        "ja": "[翻訳注] これを比喩的に読むべきか（「簡単に吹き飛ばされるような者を見に」）、それとも文字通りに読むべきか（ギリシャ語「荒野の植物を見に…いや、預言者を見に」）については議論がある。どちらの解釈も意味は通るが、その後の例は、この問いが文字通りに読まれ、預言者が人々を荒野に引き付けたという事実を指し示していると理解すべきであることを示唆している。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “But what.” Here ἀλλά (alla, a strong contrastive in Greek) produces a somewhat awkward sense in English, and has not been translated. The same situation occurs at the beginning of v. 9.",
+        "ja": "[翻訳注] ギリシャ語のalla（強い対比を示す語）は英語ではやや不自然なニュアンスを生むため、訳出されていない。9節の冒頭でも同様の状況が見られる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The reference to fancy clothes makes the point that John was not rich or powerful, in that he did not come from the wealthy classes.",
+        "ja": "[解説] 豪華な衣についての言及は、ヨハネが富豪や権力者ではなく、富裕層の出身ではなかったことを示すものである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “palaces.”",
+        "ja": "[翻訳注] または「宮殿」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  John the Baptist is “more” because he introduces the one (Jesus) who brings the new era. The term is neuter, but may be understood as masculine in this context (BDAG 806 s.v. περισσότερος b).",
+        "ja": "[翻訳注] 洗礼者ヨハネが「より偉い」のは、新しい時代をもたらす方（イエス）を指し示すからである。この語は中性形であるが、文脈上は男性形として理解することができる。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “before your face” (an idiom).",
+        "ja": "[翻訳注] ギリシャ語では「あなたの顔の前で」（イディオム）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The quotation is primarily from Mal 3:1 with pronouns from Exod 23:20. Here is the forerunner who points the way to the arrival of God’s salvation. His job is to prepare and guide the people, as the cloud did for Israel in the desert.",
+        "ja": "[解説] この引用は主としてマラキ3:1からであり、代名詞は出エジプト記23:20から取られている。ここにいるのは、神の救いの到来への道を指し示す先駆者である。彼の役割は、かつて荒野でイスラエルのために雲がしたように、人々を備えさせ、導くことである。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly (ἀμήν, amhn), I say to you.”",
+        "ja": "[翻訳注] ギリシャ語では「まことに（amen）、わたしはあなた方に言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  After John comes a shift of eras. The new era is so great that the lowest member of it (the one who is least in the kingdom of God) is greater than the greatest one of the previous era.",
+        "ja": "[解説] ヨハネの後に時代の転換が起こる。新しい時代は非常に偉大であるため、その最も小さなメンバー（神の王国における最も小さな者）でさえ、前の時代の最も偉大な者よりも偉大である。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでのdeは訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the kingdom of heaven is forcibly entered and violent people take hold of it.” For a somewhat different interpretation of this passage, see the note on the phrase “urged to enter in” in Luke 16:16.",
+        "ja": "[翻訳注] または「天の王国は力ずくで入られ、激しい者たちがそれを捉える」。この箇所のやや異なる解釈については、ルカ16:16の「強いて入ろうとする」という句の注記を参照のこと。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “appeared” is not in the Greek text, but is implied.",
+        "ja": "[翻訳注] 「現れる」という言葉はギリシャ語本文にはないが、文脈上暗示されている。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation “had better listen!” captures the force of the third person imperative more effectively than the traditional “let him hear,” which sounds more like a permissive than an imperative to the modern English reader. This was Jesus’ common expression to listen and heed carefully (cf. Matt 13:9, 43; Mark 4:9, 23; Luke 8:8, 14:35).",
+        "ja": "[翻訳注] 「聞きなさい」という訳は、伝統的な「聞く者は聞くがよい」よりも三人称命令形の力を効果的に捉えている。「聞くがよい」は現代の英語読者には命令というよりも許可のように響くからである。これは、注意深く聞き従うことを表すイエスの常套句であった。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでのdeは訳出されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “who call out to one another, saying.” The participle λέγουσιν (legousin) is redundant in contemporary English and has not been translated.",
+        "ja": "[翻訳注] ギリシャ語では「互いに呼び合って、こう言いながら」となっている。分詞legousinは現代英語では冗長であるため訳出されていない。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[解説]  ‘We played the flute for you, yet you did not dance…’ The children of this generation were making the complaint (see vv. 18-19) that others were not playing the game according to the way they played the music. John and Jesus did not follow “their tune.” Jesus’ complaint was that this generation wanted things their way, not God’s.",
+        "ja": "[解説] 「私たちはあなたたちのために笛を吹いたのに、踊らなかった…」この時代の子供たちは、（18〜19節に見られるように）他者が自分たちの音楽の演奏方法に合わせてゲームをしなかったという不満を述べていた。ヨハネもイエスも「彼らの調子」に従わなかったのである。イエスの不満は、この時代の人々が神の方法ではなく自分たちの方法で物事を進めたがったということであった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb ἐθρηνήσαμεν (eqrhnhsamen) refers to the loud wailing and lamenting used to mourn the dead in public in 1st century Jewish culture.",
+        "ja": "[翻訳注] 動詞eqrhnhsamenは、1世紀のユダヤ文化において死者を悼むために公に行われた大声での哀悼や嘆きを指す。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[解説]  John the Baptist was too separatist and ascetic for some, and so he was accused of not being directed by God, but by a demon.",
+        "ja": "[解説] 洗礼者ヨハネは一部の人々にとってあまりにも分離主義的で禁欲的であったため、神に導かれているのではなく悪霊につかれているのだと非難された。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Behold a man.”",
+        "ja": "[翻訳注] ギリシャ語では「見よ、ひとりの人を」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on tax collectors in 5:46.",
+        "ja": "[解説] 5:46の取税人に関する注記を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Neither were they happy with Jesus (the Son of Man), even though he was the opposite of John and associated freely with people like tax collectors and sinners. Either way, God’s messengers were subject to complaint.",
+        "ja": "[解説] イエス（人の子）はヨハネとは対照的であり、取税人や罪人のような人々と自由に交わられたにもかかわらず、人々は彼に対しても満足しなかった。どちらにせよ、神の使いたちは批判の的となったのである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “shown to be right.”",
+        "ja": "[翻訳注] または「正しいことが示される」。"
+      },
+      {
+        "pos": 5,
+        "en": ") as well as early versional and patristic support.",
+        "ja": "[翻訳注] 古代の版訳や教父文献の支持もある。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek word here is πόλις (polis) which can be translated “city” or “town.” “Cities” was chosen here to emphasize the size of the places Jesus’ mentions in the following verses.",
+        "ja": "[翻訳注] ここでのギリシャ語はpolisであり、「都市」または「町」と訳すことができる。イエスが続く節で言及している場所の規模を強調するため、「都市（cities）」が選ばれている。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[解説]  Chorazin was a town of Galilee that was probably fairly small in contrast to Bethsaida and is otherwise unattested. Bethsaida was declared a polis by the tetrarch Herod Philip, sometime after a.d. 30.",
+        "ja": "[解説] コラジンはおそらくベツサイダに比べてかなり小さなガリラヤの町であり、他の箇所には登場しない。ベツサイダは、30年頃以降に分封領主ヘロデ・ピリポによって都市（polis）と宣言された。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This introduces a second class (contrary to fact) condition in the Greek text.",
+        "ja": "[翻訳注] これはギリシャ語本文において第二種条件文（実現不可能な仮定）を導くものである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “powerful deeds.”",
+        "ja": "[翻訳注] または「力強い業」。"
+      },
+      {
+        "pos": 4,
+        "en": "[地図]  For location see Map1-A2; Map2-G2; Map4-A1; JP3-F3; JP4-F3.",
+        "ja": "[地図] 位置についてはMap1-A2; Map2-G2; Map4-A1; JP3-F3; JP4-F3を参照のこと。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Tyre and Sidon are two other notorious OT cities (; Jer 25:22; 47:4). The remark is a severe rebuke, in effect: “Even the sinners of the old era would have responded to the proclamation of the kingdom, unlike you!”[地図]  For location see Map1-A1; JP3-F3; JP4-F3.",
+        "ja": "[解説] ツロとシドンは、旧約聖書におけるほかの悪名高い都市である（エレミヤ25:22、47:4）。この発言は厳しい非難であり、実質的に「古い時代の罪人たちですら、お前たちとは違って、王国の宣教に応答していただろうに！」という意味である。[地図] 位置についてはMap1-A1; JP3-F3; JP4-F3を参照のこと。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  Capernaum was a town on the northwest shore of the Sea of Galilee, 680 ft (204 m) below sea level. It was a major trade and economic center in the North Galilean region.[地図]  For location see Map1-D2; Map2-C3; Map3-B2.",
+        "ja": "[解説] カペナウムはガリラヤ湖の北西岸、海抜下204メートル（680フィート）にある町であった。それは北部ガリラヤ地域における主要な貿易・経済の中心地であった。[地図] 位置についてはMap1-D2; Map2-C3; Map3-B2を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The interrogative particle introducing this question expects a negative reply.",
+        "ja": "[翻訳注] この質問を導く疑問詞は否定の答えを予期している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  In the OT, Hades was known as Sheol. It is the place where the unrighteous will reside (Luke 10:15; 16:23; Rev 20:13-14).",
+        "ja": "[解説] 旧約聖書において、ハデスはハデス（陰府）として知られていた。それは不義な者たちが住む場所である（ルカ10:15、16:23、黙示録20:13-14）。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  The allusion to Sodom, the most wicked of OT cities from Gen 19:1-29, shows that to reject the current message is even more serious, and will result in more severe punishment, than the worst sins of the old era. The phrase region of Sodom is in emphatic position in the Greek text.",
+        "ja": "[解説] 創世記19:1-29に登場する旧約聖書の中で最も邪悪な都市ソドムへの言及は、現在のメッセージを拒絶することが、古い時代のいかなる最悪の罪よりもさらに重大であり、より重い刑罰をもたらすことを示している。「ソドムの地」という句はギリシャ語本文において強調の位置にある。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “At that time, answering, Jesus said.” This construction is somewhat redundant in English and has been simplified in the translation.",
+        "ja": "[翻訳注] ギリシャ語では「そのとき、答えてイエスは言われた」。この構文は英語ではやや冗長であるため、翻訳では簡略化されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “thank.”",
+        "ja": "[翻訳注] または「感謝します」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The title Lord is an important name for God, showing his sovereignty, but it is interesting that it comes next to a reference to the Father, a term indicative of God’s care. The two concepts are often related in the NT; see Eph 1:3-6.",
+        "ja": "[解説] 「主」という称号は神の主権を示す神の重要な名称であるが、それが神の配慮を示す言葉である「父」への言及のすぐ隣に置かれていることは興味深い。新約聖書において、この2つの概念はしばしば関連付けられている（エフェソ1:3-6を参照）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “that.”",
+        "ja": "[翻訳注] または「〜ということ」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  See 1 Cor 1:26-31.",
+        "ja": "[解説] コリント人への手紙一 1:26-31を参照のこと。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “for (to do) thus was well-pleasing before you,” BDAG 325 s.v. ἔμπροσθεν 1.b.δ; speaking of something taking place “before” God is a reverential way of avoiding direct connection of the action to him.",
+        "ja": "[翻訳注] ギリシャ語では「なぜなら（そうすることが）あなたの御前でみこころにかなっていたからである」。「神の御前で」何かが起こるという表現は、その行為が神に直接結び付けられるのを避けるための敬虔な言い回しである。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  This verse has been noted for its conceptual similarity to teaching in John’s Gospel (10:15; 17:2). The authority of the Son and the Father are totally intertwined.",
+        "ja": "[解説] この節は、ヨハネの福音書の教え（10:15、17:2）と概念的に類似していることで注目されてきた。子と父の権威は完全に結びついている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “wishes”; or “intends”; or “plans” (cf. BDAG 182 s.v. βούλομαι 2.b). Here it is the Son who has sovereignty.",
+        "ja": "[翻訳注] または「望む」、「意図する」、「計画する」。ここでは、主権を持っているのは子である。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[解説]  A yoke is a wooden bar or frame that joins two animals like oxen or horses so that they can pull a wagon, plow, etc. together. Here it is used figuratively of the restrictions that a teacher or rabbi would place on his followers.",
+        "ja": "[解説] くびきとは、荷車や農耕用すきなどを一緒に引くことができるように、牛や馬などの2頭の動物を繋ぐ木製の棒や枠組みのことである。ここでは、教師やラビがその弟子たちに課した制限の比喩として用いられている。"
+      }
+    ]
+  }
+}

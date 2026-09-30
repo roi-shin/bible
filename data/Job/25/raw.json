@@ -1,0 +1,94 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The third speech of Bildad takes up , a short section of six verses. It is followed by two speeches from Job; and Zophar does not return with his third. Does this mean that the friends have run out of arguments, and that Job is just getting going? Many scholars note that in chs. <span class=\"bibleref\" title=\"Job 26;27\">26 and 27</span> there is material that does not fit Job&#8217;s argument. Many have rearranged the material to show that there was a complete cycle of three speeches. In that light, <span class=\"bibleref\" title=\"Job 26:5-14\">26:5-14</span> is viewed as part of Bildad&#8217;s speech. Some, however, take Bildad&#8217;s speech to be only ch. , and make <span class=\"bibleref\" title=\"Job 26:5-14\">26:5-14</span> an interpolated hymn. For all the arguments and suggestions, one should see the introductions and the commentaries.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word <font face=\"Galaxie Unicode Hebrew\">&#1492;&#1463;&#1502;&#1456;&#1513;&#1473;&#1461;&#1500;</font> (<font face=\"Scholar\">hamshel</font>) is a Hiphil infinitive absolute used as a noun. It describes the rulership or dominion that God has, that which gives power and authority.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word <font face=\"Galaxie Unicode Hebrew\">&#1508;&#1468;&#1464;&#1495;&#1463;&#1491;</font> (<font face=\"Scholar\">pakhad</font>) literally means &#8220;fear; dread,&#8221; but in the sense of what causes the fear or the dread.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;[are] with him.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The line says that God &#8220;makes peace in his heights.&#8221; The &#8220;heights&#8221; are usually interpreted to mean the highest heaven. There may be a reference here to combat in the spiritual world between angels and Satan. The context will show that God has a heavenly host at his disposal, and nothing in heaven or on earth can shatter his peace. &#8220;Peace&#8221; here could also signify the whole order he establishes.</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Is there a number to his troops?&#8221; The question is rhetorical: there is no number to them!</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> In place of &#8220;light&#8221; here the LXX has &#8220;his ambush,&#8221; perhaps reading <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1465;&#1512;&#1456;&#1489;&#1493;&#1465;</font> (&#8217;<font face=\"Scholar\">or&#255;vo</font>) instead of <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1493;&#1465;&#1512;&#1461;&#1492;&#1493;&#1468;</font> (&#8217;<font face=\"Scholar\">orehu</font>, &#8220;his light&#8221;). But while that captures the idea of troops and warfare, the change should be rejected because the armies are linked with stars and light. The expression is poetic; the LXX interpretation tried to make it concrete.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Bildad here does not come up with new expressions; rather, he simply uses what Eliphaz had said (see <span class=\"bibleref\" title=\"Job 4:17-19;15:14-16\">Job 4:17-19 and 15:14-16</span>).</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;not pure in his eyes.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The text just has &#8220;maggot&#8221; and in the second half &#8220;worm.&#8221; Something has to be added to make it a bit clearer. The terms &#8220;maggot&#8221; and &#8220;worm&#8221; describe man in his lowest and most ignominious shape.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "1",
+      "text": "Then Bildad the Shuhite answered: "
+    },
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "2",
+      "text": "“Dominion and awesome might belong to God; he establishes peace in his heights. "
+    },
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "3",
+      "text": "Can his armies be numbered? On whom does his light not rise? "
+    },
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "4",
+      "text": "How then can a human being be righteous before God? How can one born of a woman be pure? "
+    },
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "5",
+      "text": "If even the moon is not bright, and the stars are not pure as far as he is concerned, "
+    },
+    {
+      "bookname": "Job",
+      "chapter": "25",
+      "verse": "6",
+      "text": "how much less a mortal man, who is but a maggot— a son of man, who is only a worm!” "
+    }
+  ]
+}

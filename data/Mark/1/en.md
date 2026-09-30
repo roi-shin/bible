@@ -1,0 +1,353 @@
+# Mark 1 (English)
+
+## Text
+
+**1** The beginning of the gospel of Jesus Christ, the Son of God.
+
+**2** As it is written in the prophet Isaiah, “<b>Look, I am sending my messenger ahead of you,</b><b>who will prepare your way,</b> 
+
+**3** <b>the voice of one shouting in the wilderness,</b>‘<b>Prepare the way for the Lord,</b><b>make</b> <b>his paths straight.</b>’” 
+
+**4** In the wilderness John the baptizer began preaching a baptism of repentance for the forgiveness of sins. 
+
+**5** People from the whole Judean countryside and all of Jerusalem were going out to him, and he was baptizing them in the Jordan River as they confessed their sins. 
+
+**6** John wore a garment made of camel’s hair with a leather belt around his waist, and he ate locusts and wild honey. 
+
+**7** He proclaimed, “One more powerful than I am is coming after me; I am not worthy to bend down and untie the strap of his sandals. 
+
+**8** I baptize you with water, but he will baptize you with the Holy Spirit.” 
+
+**9** Now in those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan River. 
+
+**10** And just as Jesus was coming up out of the water, he saw the heavens splitting apart and the Spirit descending on him like a dove. 
+
+**11** And a voice came from heaven: “You are my one dear Son; in you I take great delight.” 
+
+**12** The Spirit immediately drove him into the wilderness.
+
+**13** He was in the wilderness 40 days, enduring temptations from Satan. He was with wild animals, and angels were ministering to his needs. 
+
+**14** Now after John was imprisoned, Jesus went into Galilee and proclaimed the gospel of God. 
+
+**15** He said, “The time is fulfilled and the kingdom of God is near. Repent and believe the gospel!” 
+
+**16** As he went along the Sea of Galilee, he saw Simon and Andrew, Simon’s brother, casting a net into the sea (for they were fishermen). 
+
+**17** Jesus said to them, “Follow me, and I will turn you into fishers of people!” 
+
+**18** They left their nets immediately and followed him. 
+
+**19** Going on a little farther, he saw James, the son of Zebedee, and John his brother in their boat mending nets. 
+
+**20** Immediately he called them, and they left their father Zebedee in the boat with the hired men and followed him. 
+
+**21** Then they went to Capernaum. When the Sabbath came, Jesus went into the synagogue and began to teach. 
+
+**22** The people there were amazed by his teaching because he taught them like one who had authority, not like the experts in the law. 
+
+**23** Just then there was a man in their synagogue with an unclean spirit, and he cried out, 
+
+**24** “Leave us alone, Jesus the Nazarene! Have you come to destroy us? I know who you are—the Holy One of God!” 
+
+**25** But Jesus rebuked him: “Silence! Come out of him!” 
+
+**26** After throwing him into convulsions, the unclean spirit cried out with a loud voice and came out of him. 
+
+**27** They were all amazed so that they asked each other, “What is this? A new teaching with authority! He even commands the unclean spirits and they obey him.” 
+
+**28** So the news about him spread quickly throughout all the region around Galilee. 
+
+**29** Now as soon as they left the synagogue, they entered Simon and Andrew’s house, with James and John. 
+
+**30** Simon’s mother-in-law was lying down, sick with a fever, so they spoke to Jesus at once about her. 
+
+**31** He came and raised her up by gently taking her hand. Then the fever left her and she began to serve them. 
+
+**32** When it was evening, after sunset, they brought to him all who were sick and demon-possessed. 
+
+**33** The whole town gathered by the door. 
+
+**34** So he healed many who were sick with various diseases and drove out many demons. But he would not permit the demons to speak because they knew him. 
+
+**35** Then Jesus got up early in the morning when it was still very dark, departed, and went out to a deserted place, and there he spent time in prayer. 
+
+**36** Simon and his companions searched for him. 
+
+**37** When they found him, they said, “Everyone is looking for you.” 
+
+**38** He replied, “Let us go elsewhere, into the surrounding villages, so that I can preach there too. For that is what I came out here to do.”
+
+**39** So he went into all of Galilee preaching in their synagogues and casting out demons. 
+
+**40** Now a leper came to him and fell to his knees, asking for help. “If you are willing, you can make me clean,” he said. 
+
+**41** Moved with indignation, Jesus stretched out his hand and touched him, saying, “I am willing. Be clean!” 
+
+**42** The leprosy left him at once, and he was clean. 
+
+**43** Immediately Jesus sent the man away with a very strong warning. 
+
+**44** He told him, “See that you do not say anything to anyone, but go, show yourself to a priest, and bring the offering that Moses commanded for your cleansing, as a testimony to them.” 
+
+**45** But as the man went out he began to announce it publicly and spread the story widely, so that Jesus was no longer able to enter any town openly but stayed outside in remote places. Still they kept coming to him from everywhere. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  By the time Mark wrote, the word gospel had become a technical term referring to the preaching about Jesus Christ and God’s saving power accomplished through him for all who believe (cf. Rom 1:16).
+
+### Verse 1 - Note 2
+[翻訳注]  The genitive in the phrase τοῦ εὐαγγελίου ᾿Ιησοῦ Χριστοῦ (tou euangeliou Ihsou Cristou, “the gospel of Jesus Christ”) could be translated as either a subjective genitive (“the gospel which Jesus brings [or proclaims]”) or an objective genitive (“the gospel about Jesus Christ”). Either is grammatically possible. This is possibly an instance of a plenary genitive (see ExSyn 119-21; M. Zerwick, Biblical Greek, §§36-39). If so, an interplay between the two concepts is intended: The gospel which Jesus proclaims is in fact the gospel about himself.
+
+### Verse 1 - Note 3
+33 Ï also have τοῦ [tou] before θεοῦ), so the evidence seems to argue for the authenticity of the words. Most likely, the words were omitted by accident in some witnesses, since the last four words of v. 1, in uncial script, would have looked like this: iu_c_r_u_u_u_q_u_. With all the successive upsilons an accidental deletion is likely. Further, the inclusion of υἱοῦ θεοῦ here finds its complement in 15:39, where the centurion claims that Jesus was υἱὸς θεοῦ (Juios qeou, “son of God”). Even though א is in general one of the best NT mss, its testimony is not quite as preeminent in this situation. There are several other instances in which it breaks up chains of genitives ending in ου (cf., e.g., Acts 28:31; Col 2:2; Heb 12:2; Rev 12:14; 15:7; 22:1), showing that there is a significantly higher possibility of accidental scribal omission in a case like this. This christological inclusio parallels both Matthew (“Immanuel…God with us” in 1:23/“I am with you” in 28:20) and John (“the Word was God” in 1:1/“My Lord and my God” in 20:28), probably reflecting nascent christological development and articulation.[解説]  The first verse of Mark’s Gospel appears to function as a title: The beginning of the gospel of Jesus Christ, the Son of God. It is not certain, however, whether Mark intended it to refer to the entire Gospel, to the ministry of John the Baptist, or through the use of the term beginning (ἀρχή, arch) to allude to Genesis 1:1 (in the Greek Bible, LXX). The most likely option is that the statement as a whole is an allusion to Genesis 1:1 and that Mark is saying that with the “good news” of the coming of Christ, God is commencing a “new beginning.”
+
+### Verse 2 - Note 1
+co Ir. This evidence runs deep into the 2nd century, is widespread, and is found in the most important Alexandrian, Western, and Caesarean witnesses. The “Isaiah” reading has a better external pedigree in every way. It has the support of the earliest and best witnesses from all the texttypes that matter. Moreover it is the harder reading, since the quotation in the first part of the verse appears to be from Exod 23:20 and Mal 3:1, with the quotation from Isa 40:3 coming in the next verse. The reading of the later mss seems motivated by a desire to resolve this difficulty.
+
+### Verse 2 - Note 2
+[解説]  The opening lines of the quotation are from Exod 23:20; Mal 3:1. Here is the forerunner who points the way to the arrival of God’s salvation. His job is to prepare and guide the people, as the cloud did for Israel in the desert.
+
+### Verse 3 - Note 1
+[解説]  This call to “make his paths straight” in this context is probably an allusion to preparation through repentance.
+
+### Verse 3 - Note 2
+[解説]  A quotation from Isa 40:3.
+
+### Verse 4 - Note 1
+[翻訳注]  Or “desert.”
+
+### Verse 4 - Note 2
+[翻訳注]  While Matthew and Luke consistently use the noun βαπτίστης (baptisths, “[the] Baptist”) to refer to John, as a kind of a title, Mark prefers the substantival participle ὁ βαπτίζων (Jo baptizwn, “the one who baptizes, the baptizer”) to describe him (only twice does he use the noun [Mark 6:25; 8:28]).
+
+### Verse 4 - Note 3
+[解説]  A baptism of repentance for the forgiveness of sins was a call for preparation for the arrival of the Lord’s salvation. To participate in this baptism was a recognition of the need for God’s forgiveness with a sense that one needed to live differently as a response to it.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “And the whole Judean countryside.” Mark uses the Greek conjunction καί (kai) at numerous places in his Gospel to begin sentences and paragraphs. This practice is due to Semitic influence and reflects in many cases the use of the Hebrew ו (vav) which is used in OT narrative, much as it is here, to carry the narrative along. Because in contemporary English style it is not acceptable to begin every sentence with “and,” καί was often left untranslated or rendered as “now,” “so,” “then,” or “but” depending on the context. When left untranslated it has not been noted. When given an alternative translation, this is usually indicated by a note.
+
+### Verse 5 - Note 2
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 5 - Note 3
+[翻訳注]  Grk “they were being baptized by him.” The passive construction has been rendered as active in the translation for the sake of English style.
+
+### Verse 6 - Note 1
+[解説]  John’s lifestyle was in stark contrast to many of the religious leaders of Jerusalem who lived in relative ease and luxury. While his clothing and diet were indicative of someone who lived in the desert, they also depicted him in his role as God’s prophet (cf. Zech 13:4); his appearance is similar to the Prophet Elijah (2 Kgs 1:8). Locusts and wild honey were a common diet in desert regions and locusts (dried insects) are listed in Lev 11:22 among the “clean” foods.
+
+### Verse 7 - Note 1
+[翻訳注]  Grk “proclaimed, saying.” The participle λέγων (legwn) is redundant in contemporary English and has not been translated.
+
+### Verse 7 - Note 2
+[翻訳注]  Grk “of whom I am not worthy.”[解説]  The humility of John is evident in the statement I am not worthy. This was considered one of the least worthy tasks of a slave, and John did not consider himself worthy to do even that for the one to come, despite the fact he himself was a prophet.
+
+### Verse 7 - Note 3
+[翻訳注]  The term refers to the leather strap or thong used to bind a sandal. This is often viewed as a collective singular and translated as a plural, “the straps of his sandals,” but it may be more emphatic to retain the singular here.
+
+### Verse 9 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 9 - Note 2
+[地図]  For location see Map1-D3; Map2-C2; Map3-D5; Map4-C1; Map5-G3.
+
+### Verse 9 - Note 3
+[翻訳注]  “River” is not in the Greek text but is supplied for clarity.
+
+### Verse 10 - Note 1
+[翻訳注]  Grk “and immediately coming up out of the water, he saw.” The present participle has been translated temporally, with the subject (Jesus) specified for clarity.
+
+### Verse 10 - Note 2
+[翻訳注]  Or “sky.” The Greek word οὐρανός (ouranos) may be translated “sky” or “heaven,” depending on the context. The same word is used in v. 11.
+
+### Verse 10 - Note 3
+[解説]  The phrase like a dove is a descriptive comparison. The Spirit is not a dove, but descended like one in some sort of bodily representation.
+
+### Verse 11 - Note 1
+[翻訳注]  Grk “my beloved Son,” or “my Son, the beloved [one].” The force of ἀγαπητός (agaphtos) is often “pertaining to one who is the only one of his or her class, but at the same time is particularly loved and cherished” (L&N 58.53; cf. also BDAG 7 s.v. 1).
+
+### Verse 11 - Note 2
+[翻訳注]  Or “with you I am well pleased.”[解説]  The allusions in the remarks of the text recall Ps 2:7a; Isa 42:1 and either Isa 41:8 or, less likely, Gen 22:12,16. God is marking out Jesus as his chosen one (the meaning of “[in you I take] great delight”), but it may well be that this was a private experience that only Jesus and John saw and heard (cf. John 1:32-33).
+
+### Verse 13 - Note 1
+[解説]  The forty days may allude to the experience of Moses (Exod 34:28), Elijah (1 Kgs 19:8, 15), or David and Goliath (1 Sam 17:16).
+
+### Verse 13 - Note 2
+[翻訳注]  Grk “And he.”
+
+### Verse 13 - Note 3
+[翻訳注]  Grk “were serving him,” “were ministering to him.”
+
+### Verse 14 - Note 1
+[翻訳注]  Or “arrested,” “taken into custody” (see L&N 37.12).
+
+### Verse 14 - Note 2
+28* 33 565 579 892 2427 sa) is significantly stronger than that for the longer reading. There is little doubt, therefore, that the shorter reading is authentic.
+
+### Verse 14 - Note 3
+[翻訳注]  The genitive in the phrase τὸ εὐαγγέλιον τοῦ θεοῦ (to euangelion tou qeou, “the gospel of God”) could be translated as either a subjective genitive (“the gospel which God brings”) or an objective genitive (“the gospel about God”). Either is grammatically possible. This is possibly an instance of a plenary genitive (see ExSyn 119-21; M. Zerwick, Biblical Greek, §§36-39). If so, an interplay between the two concepts is intended: The gospel which God brings is in fact the gospel about himself.
+
+### Verse 15 - Note 1
+[翻訳注]  Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.
+
+### Verse 15 - Note 2
+[解説]  The kingdom of God is a reference to the sovereign activity of God as he rules over his creation and brings his plans to realization.
+
+### Verse 16 - Note 1
+[解説]  This is a parenthetical comment by the author.
+
+### Verse 17 - Note 1
+[翻訳注]  The Greek term ἄνθρωπος (anqrwpos) is used here in a generic sense, referring to both men and women, thus “people.”[解説]  The kind of fishing envisioned was net – not line – fishing (cf. v. 16; cf. also BDAG 55 s.v. ἀμφιβάλλω, ἀμφίβληστρον) which involved a circular net that had heavy weights around its perimeter. The occupation of fisherman was labor-intensive. The imagery of using a lure and a line (and waiting for the fish to strike) is thus foreign to this text. Rather, the imagery of a fisherman involved much strain, long hours, and often little results. Jesus’ point may have been one or more of the following: the strenuousness of evangelism, the work ethic that it required, persistence and dedication to the task (often in spite of minimal results), the infinite value of the new “catch” (viz., people), and perhaps an eschatological theme of snatching people from judgment (cf. W. L. Lane, Mark [NICNT], 67). If this last motif is in view, then catching people is the opposite of catching fish: The fish would be caught, killed, cooked, and eaten; people would be caught so as to remove them from eternal destruction and to give them new life.
+
+### Verse 18 - Note 1
+[解説]  The expression followed him pictures discipleship, which means that to learn from Jesus is to follow him as the guiding priority of one’s life.
+
+### Verse 19 - Note 1
+[翻訳注]  Or “a boat.” The phrase ἐν τῷ πλοίῳ (en tw ploiw) can either refer to a generic boat, some boat (as it seems to do in Matt 4:21); or it can refer to “their” boat, implying possession. Mark assumes a certain preunderstanding on the part of his readers about the first four disciples and hence the translation “their boat” is justified (cf. also v. 20 in which the “hired men” indicates that Zebedee’s family owned the boats).
+
+### Verse 21 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 21 - Note 2
+[解説]  Capernaum was a town located on the northwestern shore of the Sea of Galilee, 680 ft (204 m) below sea level. It was a major trade and economic center in the North Galilean region, and it became the hub of operations for Jesus’ Galilean ministry.[地図]  For location see Map1-D2; Map2-C3; Map3-B2.
+
+### Verse 21 - Note 3
+[翻訳注]  The Greek word εὐθύς (euqus, often translated “immediately” or “right away”) has not been translated here. It sometimes occurs with a weakened, inferential use (BDAG 406 s.v. 2), not contributing significantly to the flow of the narrative. For further discussion, see R. J. Decker, Temporal Deixis of the Greek Verb in the Gospel of Mark with Reference to Verbal Aspect (SBG 10), 73-77.
+
+### Verse 21 - Note 4
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 21 - Note 5
+[解説]  The synagogue was a place for Jewish prayer and worship, with recognized leadership (cf. Luke 8:41). Though its origin is not entirely clear, it seems to have arisen in the postexilic community during the intertestamental period. A town could establish a synagogue if there were at least ten men. In normative Judaism of the NT period, the OT scripture was read and discussed in the synagogue by the men who were present. (See the Mishnah, m. Megillah 3-4; m. Berakhot 2.) First came the law, then the prophets, then someone was asked to speak on the texts. Jesus undoubtedly took the opportunity on this occasion to speak about his person and mission, and its relationship to Old Testament fulfillment.
+
+### Verse 22 - Note 1
+[翻訳注]  Grk “They.”
+
+### Verse 22 - Note 2
+[解説]  Jesus’ teaching impressed the hearers with the directness of its claim; he taught with authority. A study of Jewish rabbinic interpretation shows that it was typical to cite a list of authorities to make one’s point. Apparently Jesus addressed the issues in terms of his own understanding.
+
+### Verse 22 - Note 3
+[翻訳注]  Or “the scribes.” The traditional rendering of γραμματεύς (grammateu") as “scribe” does not communicate much to the modern English reader, for whom the term might mean “professional copyist,” if it means anything at all. The people referred to here were recognized experts in the law of Moses and in traditional laws and regulations. Thus “expert in the law” comes closer to the meaning for the modern reader.
+
+### Verse 23 - Note 1
+[解説]  Unclean spirit refers to an evil spirit.
+
+### Verse 23 - Note 2
+[翻訳注]  Grk “he cried out, saying.” The participle λέγων (legwn) is redundant in contemporary English and has not been translated.
+
+### Verse 24 - Note 1
+[翻訳注]  Grk “What to us and to you?” This is an idiom meaning, “We have nothing to do with one another,” or “Why bother us!” The phrase τί ἡμῖν καὶ σοί (ti Jhmin kai soi) is Semitic in origin, though it made its way into colloquial Greek (BDAG 275 s.v. ἐγώ). The equivalent Hebrew expression in the OT had two basic meanings: (1) When one person was unjustly bothering another, the injured party could say “What to me and to you?” meaning, “What have I done to you that you should do this to me?” (Judg 11:12, 2 Chr 35:21, 1 Kgs 17:18). (2) When someone was asked to get involved in a matter he felt was no business of his own, he could say to the one asking him, “What to me and to you?” meaning, “That is your business, how am I involved?” (2 Kgs 3:13, Hos 14:8). Option (1) implies hostility, while option (2) merely implies disengagement. BDAG suggests the following as glosses for this expression: What have I to do with you? What have we in common? Leave me alone! Never mind! Hostility between Jesus and the demons is certainly to be understood in this context, hence the translation: “Leave me alone….” For a very similar expression see Lk 8:28 and (in a different context) John 2:4.
+
+### Verse 24 - Note 2
+[解説]  The confession of Jesus as the Holy One here is significant, coming from an unclean spirit. Jesus, as the Holy One of God, who bears God’s Spirit and is the expression of holiness, comes to deal with uncleanness and unholiness.
+
+### Verse 25 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 25 - Note 2
+[翻訳注]  Grk “rebuked him, saying.” The participle λέγων (legwn) is redundant in English and has not been translated.
+
+### Verse 25 - Note 3
+[解説]  The command Come out of him! is an example of Jesus’ authority (see v. 32). Unlike other exorcists, Jesus did not use magical incantations nor did he invoke anyone else’s name.
+
+### Verse 28 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.
+
+### Verse 29 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 29 - Note 2
+[解説]  See the note on synagogue in 1:21.
+
+### Verse 30 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.
+
+### Verse 30 - Note 2
+[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 31 - Note 1
+[翻訳注]  The imperfect verb is taken ingressively here.
+
+### Verse 34 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.
+
+### Verse 34 - Note 2
+[解説]  Note how the author distinguishes healing from exorcism here, implying that the two are not identical.
+
+### Verse 34 - Note 3
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 34 - Note 4
+[解説]  Why Jesus would not permit the demons to speak is much discussed. Two possibilities are (1) the mere source of the testimony (demonic) and (2) that the title, with its political implications, may have had elements that Jesus wished to avoid until the full nature of his mission was clarified.
+
+### Verse 34 - Note 5
+700] 892 1241 [1424] pc); codex D has “they knew him and he healed many who were sick with various diseases and drove out many demons,” reproducing exactly the first half of the verse. These first two longer readings are predictable expansions to an enticingly brief statement; the fact that there are significant variations on the word order and presence or absence of τόν argues against their authenticity as well. D’s reading is a palpable error of sight. The reading adopted in the translation is supported by א* A 0130 Ï lat. This support, though hardly overwhelming in itself, in combination with strong internal evidence, renders the shorter reading fairly certain.
+
+### Verse 35 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 35 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 35 - Note 3
+[翻訳注]  The imperfect προσηύχετο (proshuceto) implies some duration to the prayer.
+
+### Verse 38 - Note 1
+[翻訳注]  Grk “And he said to them.”
+
+### Verse 38 - Note 2
+[翻訳注]  Grk “Because for this purpose I have come forth.”
+
+### Verse 39 - Note 1
+[翻訳注]  Grk “And.” Here καί (kai) has been translated as “so” to indicate the implied result of previous action(s) in the narrative.
+
+### Verse 39 - Note 2
+[解説]  See the note on synagogue in 1:21.
+
+### Verse 40 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.
+
+### Verse 40 - Note 2
+[解説]  The ancient term for leprosy covers a wider array of conditions than what we call leprosy today. A leper was totally ostracized from society until he was declared cured (Lev 13:45-46).
+
+### Verse 40 - Note 3
+[翻訳注]  This is a third class condition. The report portrays the leper making no presumptions about whether Jesus will heal him or not.
+
+### Verse 41 - Note 1
+) here read ὀργισθείς (ojrgisqei", “moved with anger”). It is more difficult to account for a change from “moved with compassion” to “moved with anger” than it is for a copyist to soften “moved with anger” to “moved with compassion,” making the decision quite difficult. B. M. Metzger (TCGNT 65) suggests that “moved with anger” could have been prompted by 1:43, “Jesus sent the man away with a very strong warning.” It also could have been prompted by the man’s seeming doubt about Jesus’ desire to heal him (v. 40). As well, it is difficult to explain why scribes would be prone to soften the text here but not in Mark 3:5 or 10:14 (where Jesus is also said to be angry or indignant). Thus, in light of diverse mss supporting “moved with compassion,” and at least a plausible explanation for ὀργισθείς as arising from the other reading, it is perhaps best to adopt σπλαγχνισθείς as the original reading. Nevertheless, a decision in this case is not easy. For the best arguments for ὀργισθείς, however, see M. A. Proctor, “The ‘Western’ Text of Mark 1:41: A Case for the Angry Jesus” (Ph.D. diss., Baylor University, 1999).
+
+### Verse 41 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 41 - Note 3
+[解説]  Touched. This touch would have rendered Jesus ceremonially unclean (Lev 14:46; also Mishnah, m. Nega’im 3.1; 11.1; 12.1; 13.6-12).
+
+### Verse 43 - Note 1
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 43 - Note 2
+[翻訳注]  Grk “him”; the referent (the man who was healed) has been specified in the translation for clarity.
+
+### Verse 44 - Note 1
+[翻訳注]  Grk “And after warning him, he immediately sent him away and told him.”
+
+### Verse 44 - Note 2
+[解説]  The silence ordered by Jesus was probably meant to last only until the cleansing took place with the priests and sought to prevent Jesus’ healings from becoming the central focus of the people’s reaction to him. See also 1:34; 3:12; 5:43; 7:36; 8:26, 30; and 9:9 for other cases where Jesus asks for silence concerning him and his ministry.
+
+### Verse 44 - Note 3
+[解説]  On the phrase bring the offering that Moses commanded see Lev 14:1-32.
+
+### Verse 44 - Note 4
+[翻訳注]  Or “as an indictment against them”; or “as proof to the people.” This phrase could be taken as referring to a positive witness to the priests, a negative testimony against them, or as a testimony to the community that the man had indeed been cured. In any case, the testimony shows that Jesus is healing and ministering to those in need.
+
+### Verse 45 - Note 1
+[翻訳注]  Grk “he”; the referent (the man who was healed) has been specified in the translation for clarity.
+
+### Verse 45 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 45 - Note 3
+[翻訳注]  Grk “and”; καί (kai) often has a mildly contrastive force, as here.
+
+### Verse 45 - Note 4
+[翻訳注]  The imperfect verb has been translated iteratively.

@@ -1,0 +1,521 @@
+# Luke 5 (English)
+
+## Text
+
+**1** Now Jesus was standing by the Lake of Gennesaret, and the crowd was pressing around him to hear the word of God. 
+
+**2** He saw two boats by the lake, but the fishermen had gotten out of them and were washing their nets. 
+
+**3** He got into one of the boats, which was Simon’s, and asked him to put out a little way from the shore. Then Jesus sat down and taught the crowds from the boat.
+
+**4** When he had finished speaking, he said to Simon, “Put out into the deep water and lower your nets for a catch.” 
+
+**5** Simon answered, “Master, we worked hard all night and caught nothing! But at your word I will lower the nets.” 
+
+**6** When they had done this, they caught so many fish that their nets started to tear. 
+
+**7** So they motioned to their partners in the other boat to come and help them. And they came and filled both boats, so that they were about to sink. 
+
+**8** But when Simon Peter saw it, he fell down at Jesus’ knees, saying, “Go away from me, Lord, for I am a sinful man!” 
+
+**9** For Peter and all who were with him were astonished at the catch of fish that they had taken, 
+
+**10** and so were James and John, Zebedee’s sons, who were Simon’s business partners. Then Jesus said to Simon, “Do not be afraid; from now on you will be catching people!” 
+
+**11** So when they had brought their boats to shore, they left everything and followed him. 
+
+**12** While Jesus was in one of the towns, a man came to him who was covered with leprosy. When he saw Jesus, he bowed down with his face to the ground and begged him, “Lord, if you are willing, you can make me clean.” 
+
+**13** So he stretched out his hand and touched him, saying, “I am willing. Be clean!” And immediately the leprosy left him. 
+
+**14** Then he ordered the man to tell no one, but commanded him, “Go and show yourself to a priest, and bring the offering for your cleansing, as Moses commanded, as a testimony to them.” 
+
+**15** But the news about him spread even more, and large crowds were gathering together to hear him and to be healed of their illnesses. 
+
+**16** Yet Jesus himself frequently withdrew to the wilderness and prayed. 
+
+**17** Now on one of those days, while he was teaching, there were Pharisees and teachers of the law sitting nearby (who had come from every village of Galilee and Judea and from Jerusalem), and the power of the Lord was with him to heal. 
+
+**18** Just then some men showed up, carrying a paralyzed man on a stretcher. They were trying to bring him in and place him before Jesus. 
+
+**19** But since they found no way to carry him in because of the crowd, they went up on the roof and let him down on the stretcher through the roof tiles right in front of Jesus. 
+
+**20** When Jesus saw their faith, he said, “Friend, your sins are forgiven.” 
+
+**21** Then the experts in the law and the Pharisees began to think to themselves, “Who is this man who is uttering blasphemies? Who can forgive sins but God alone?” 
+
+**22** When Jesus perceived their hostile thoughts, he said to them, “Why are you raising objections within yourselves? 
+
+**23** Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Stand up and walk’? 
+
+**24** But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralyzed man—“I tell you, stand up, take your stretcher and go home.” 
+
+**25** Immediately he stood up before them, picked up the stretcher he had been lying on, and went home, glorifying God. 
+
+**26** Then astonishment seized them all, and they glorified God. They were filled with awe, saying, “We have seen incredible things today.” 
+
+**27** After this, Jesus went out and saw a tax collector named Levi sitting at the tax booth. “Follow me,” he said to him. 
+
+**28** And he got up and followed him, leaving everything behind.
+
+**29** Then Levi gave a great banquet in his house for Jesus, and there was a large crowd of tax collectors and others sitting at the table with them. 
+
+**30** But the Pharisees and their experts in the law complained to his disciples, saying, “Why do you eat and drink with tax collectors and sinners?” 
+
+**31** Jesus answered them, “Those who are well don’t need a physician, but those who are sick do.
+
+**32** I have not come to call the righteous, but sinners to repentance.” 
+
+**33** Then they said to him, “John’s disciples frequently fast and pray, and so do the disciples of the Pharisees, but yours continue to eat and drink.” 
+
+**34** So Jesus said to them, “You cannot make the wedding guests fast while the bridegroom is with them, can you?
+
+**35** But those days are coming, and when the bridegroom is taken from them, at that time they will fast.” 
+
+**36** He also told them a parable: “No one tears a patch from a new garment and sews it on an old garment. If he does, he will have torn the new, and the piece from the new will not match the old. 
+
+**37** And no one pours new wine into old wineskins. If he does, the new wine will burst the skins and will be spilled, and the skins will be destroyed. 
+
+**38** Instead new wine must be poured into new wineskins. 
+
+**39**  No one after drinking old wine wants the new, for he says, ‘The old is good enough.’” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Grk “Now it happened that.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 1 - Note 2
+[解説]  The Lake of Gennesaret is another name for the Sea of Galilee. Cf. the parallel in Matt 4:18.
+
+### Verse 1 - Note 3
+[解説]  The image of the crowd pressing around him suggests the people leaning forward to catch Jesus’ every word.
+
+### Verse 2 - Note 1
+[翻訳注]  Grk “And he.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 3 - Note 1
+[翻訳注]  Grk “Getting into”; the participle ἐμβάς (embas) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 3 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 3 - Note 3
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 3 - Note 4
+[翻訳注]  Grk “sitting down”; the participle καθίσας (kaqisa") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 4 - Note 1
+[翻訳注]  Or “let down.” The verb here is plural, so this is a command to all in the boat, not just Peter.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “And Simon.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 5 - Note 2
+[翻訳注]  Grk “answering, Simon said.” This is redundant in contemporary English and has been simplified in the translation to “Simon answered.”
+
+### Verse 5 - Note 3
+[翻訳注]  The word ἐπιστάτης is a term of respect for a person of high status (see L&N 87.50).
+
+### Verse 5 - Note 4
+[翻訳注]  The expression “at your word,” which shows Peter’s obedience, stands first in the Greek clause for emphasis.
+
+### Verse 5 - Note 5
+[翻訳注]  Or “let down.”
+
+### Verse 6 - Note 1
+[翻訳注]  Grk “And when.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 6 - Note 2
+[翻訳注]  In context, this imperfect verb is best taken as an ingressive imperfect (BDF §338.1).
+
+### Verse 7 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “so” to indicate consequential nature of the action.
+
+### Verse 7 - Note 2
+[翻訳注]  That is, “they signaled by making gestures” (L&N 33.485).
+
+### Verse 7 - Note 3
+[翻訳注]  This infinitive conveys the idea that the boats were at the point of sinking.
+
+### Verse 8 - Note 1
+[解説]  Lord is a term of high respect in this context. God’s presence in the work of Jesus makes Peter recognize his authority. This vocative is common in Luke (20 times), but does not yet have its full confessional force.
+
+### Verse 8 - Note 2
+[解説]  Peter was intimidated that someone who was obviously working with divine backing was in his presence (“Go away from me”). He feared his sinfulness might lead to judgment, but Jesus would show him otherwise.
+
+### Verse 9 - Note 1
+[解説]  An explanatory conjunction (For) makes it clear that Peter’s exclamation is the result of a surprising set of events. He speaks, but the others feel similarly.
+
+### Verse 9 - Note 2
+[翻訳注]  Grk “he”; the referent (Peter) has been specified in the translation for clarity.
+
+### Verse 9 - Note 3
+[解説]  In the Greek text, this term is in an emphatic position.
+
+### Verse 10 - Note 1
+[翻訳注]  Or “business associates.”
+
+### Verse 10 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 10 - Note 3
+[解説]  From now on is a common Lukan expression, see Luke 1:48.
+
+### Verse 10 - Note 4
+[翻訳注]  The Greek term ἄνθρωπος (anqrwpo") is used here in a generic sense, referring to both men and women, thus “people.”[解説]  The kind of fishing envisioned was net – not line – fishing, which involved a circular net that had heavy weights around its perimeter. The occupation of fisherman was labor-intensive. The imagery of using a lure and a line (and waiting for the fish to strike) is thus foreign to this text. Rather, the imagery of a fisherman involved much strain, long hours, and often little results. Jesus’ point may have been one or more of the following: the strenuousness of evangelism, the work ethic that it required, persistence and dedication to the task (often in spite of minimal results), the infinite value of the new “catch” (viz., people), and perhaps an eschatological theme of snatching people from judgment (cf. W. L. Lane, Mark [NICNT], 67; D. L. Bock, Luke [BECNT], 1:461). If this last motif is in view, then catching people is the opposite of catching fish: The fish would be caught, killed, cooked, and eaten; people would be caught so as to remove them from eternal destruction and to give them new life. With the statement “You will be catching people” Jesus turns the miracle into a metaphor for mission.
+
+### Verse 11 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “so” to indicate the result of Jesus’ pronouncement.
+
+### Verse 11 - Note 2
+[解説]  The expression left everything and followed him pictures discipleship, which means that to learn from Jesus is to follow him as the guiding priority of one’s life.
+
+### Verse 12 - Note 1
+[翻訳注]  Grk “And it happened that while.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 12 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 12 - Note 3
+[翻訳注]  Or “cities.”
+
+### Verse 12 - Note 4
+[翻訳注]  Grk “towns, behold, a man covered with leprosy.” The Greek word ἰδού (idou, “behold”) has not been translated because it has no exact English equivalent here, but adds interest and emphasis (BDAG 468 s.v. 1).
+
+### Verse 12 - Note 5
+[翻訳注]  Grk “full of leprosy” (an idiom for a severe condition).
+
+### Verse 12 - Note 6
+[解説]  The ancient term for leprosy covers a wider array of conditions than what is called leprosy today. A leper was totally ostracized from society until he was declared cured (Lev 13:45-46).
+
+### Verse 12 - Note 7
+[翻訳注]  Grk “And seeing.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, δέ (de) has not been translated here. The participle ἰδών (idwn) has been taken temporally.
+
+### Verse 12 - Note 8
+[翻訳注]  Grk “he fell on his face”; an idiom for bowing down with one’s face to the ground.
+
+### Verse 12 - Note 9
+[翻訳注]  Grk “and begged him, saying.” The participle λέγων (legwn) is redundant in English and has not been translated.
+
+### Verse 12 - Note 10
+[翻訳注]  This is a third class condition. The report portrays the leper making no presumptions about whether Jesus will heal him or not.
+
+### Verse 13 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “so” to indicate the response of Jesus to the man’s request.
+
+### Verse 13 - Note 2
+[解説]  Touched. This touch would have rendered Jesus ceremonially unclean (Lev 14:46; also Mishnah, m. Nega’im 3.1; 11.1; 12.1; 13.6-12).
+
+### Verse 14 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 14 - Note 2
+[翻訳注]  Grk “him”; the referent (the man) has been specified in the translation for clarity.
+
+### Verse 14 - Note 3
+[解説]  The silence ordered by Jesus was probably meant to last only until the cleansing took place with the priests and sought to prevent Jesus’ healings from becoming the central focus of the people’s reaction to him. See also 4:35, 41; 8:56 for other cases where Jesus asks for silence with reference to miracles.
+
+### Verse 14 - Note 4
+[翻訳注]  The words “commanded him” are not in the Greek text but have been supplied for clarity. This verse moves from indirect to direct discourse. This abrupt change is very awkward, so the words have been supplied to smooth out the transition.
+
+### Verse 14 - Note 5
+[翻訳注]  Grk “Going, show.” The participle ἀπελθών (apelqwn) has been translated as an attendant circumstance participle. Here the syntax also changes somewhat abruptly from indirect discourse to direct discourse.
+
+### Verse 14 - Note 6
+[翻訳注]  The words “the offering” are not in the Greek text, but are implied. Direct objects were frequently omitted in Greek when clear from the context.
+
+### Verse 14 - Note 7
+[解説]  On the phrase as Moses commanded see Lev 14:1-32.
+
+### Verse 14 - Note 8
+[翻訳注]  Or “as an indictment against them”; or “as proof to the people.” This phrase could be taken as referring to a positive witness to the priests, a negative testimony against them, or as a testimony to the community that the man had indeed been cured. In any case, the testimony shows that Jesus is healing and ministering to those in need.
+
+### Verse 15 - Note 1
+[解説]  That is, in spite of Jesus’ instructions to the man to tell no one about the healing (v. 14).
+
+### Verse 15 - Note 2
+[翻訳注]  The word “him” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.
+
+### Verse 16 - Note 1
+[翻訳注]  Here αὐτός (autos) has been translated reflexively.
+
+### Verse 16 - Note 2
+[翻訳注]  Grk “was withdrawing” (ἦν ὑποχωρῶν, hn jJupocwrwn). The adverb “frequently” has been added in the translation to bring out what is most likely an iterative force to the imperfect. However, the imperfect might instead portray an ingressive idea: “he began to withdraw.” See ExSyn 542-43.
+
+### Verse 16 - Note 3
+[翻訳注]  Or “desert.”
+
+### Verse 17 - Note 1
+[翻訳注]  Grk “And it happened that on.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 17 - Note 2
+[解説]  Pharisees were members of one of the most important and influential religious and political parties of Judaism in the time of Jesus. There were more Pharisees than Sadducees (according to Josephus, Ant. 17.2.4 [17.42] there were more than 6,000 Pharisees at about this time). Pharisees differed with Sadducees on certain doctrines and patterns of behavior. The Pharisees were strict and zealous adherents to the laws of the OT and to numerous additional traditions such as angels and bodily resurrection.
+
+### Verse 17 - Note 3
+[翻訳注]  That is, those who were skilled in the teaching and interpretation of the OT law. These are called “experts in the law” (Grk “scribes”) in v. 21.
+
+### Verse 17 - Note 4
+[解説]  Jesus was now attracting attention outside of Galilee as far away as Jerusalem, the main city of Israel.[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 17 - Note 5
+33 Ï latt bo) read αὐτούς (autous) instead of αὐτόν (auton) here. If original, this plural pronoun would act as the direct object of the infinitive ἰᾶσθαι (iasqai, “to heal”). However, the reading with the singular pronoun αὐτόν, which acts as the subject of the infinitive, is to be preferred. Externally, it has support from better mss (א B L W al sa). Internally, it is probable that scribes changed the singular αὐτόν to the plural αὐτούς, expecting the object of the infinitive to come at this point in the text. The singular as the harder reading accounts for the rise of the other reading.
+
+### Verse 18 - Note 1
+[翻訳注]  Grk “And behold.” Here καὶ ἰδού (kai idou) has been translated as “just then” to indicate the somewhat sudden appearance of the men carrying the paralytic. The Greek word ἰδού (idou) has no exact English equivalent here, but adds interest and emphasis (BDAG 468 s.v. 1), especially in conjunction with the suddenness of the stretcher-bearers’ appearance.
+
+### Verse 18 - Note 2
+[翻訳注]  Grk “a man who was paralyzed”; the relative clause in Greek has adjectival force and has been simplified to a simple adjective in the translation.
+
+### Verse 18 - Note 3
+[翻訳注]  Traditionally, “on a bed,” but this could be confusing to the modern reader who might envision a large piece of furniture. In various contexts, κλίνη (klinh) may be translated “bed, couch, cot, stretcher, or bier” (in the case of a corpse). See L&N 6.106.
+
+### Verse 18 - Note 4
+[翻訳注]  Grk “stretcher, and.” Here καί (kai) has not been translated because of differences between Greek and English style. Instead, because of the tendency of contemporary English to use shorter sentences, a new sentence was begun here in the translation.
+
+### Verse 18 - Note 5
+[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 19 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast implied in the context: They wanted to bring the man to Jesus, but found no way.
+
+### Verse 19 - Note 2
+[翻訳注]  Grk “But finding.” The participle εὑρόντες (Jeuronte") has been translated as a causal adverbial participle.
+
+### Verse 19 - Note 3
+[解説]  A house in 1st century Palestine would have had a flat roof with stairs or a ladder going up. This access was often from the outside of the house.
+
+### Verse 19 - Note 4
+[翻訳注]  This word, κλινίδιον (klinidion), is a different Greek word than the one used in the previous verse (κλίνη, klinh). In this context both may be translated “stretcher” (see L&N 6.106 and 6.107).
+
+### Verse 19 - Note 5
+[翻訳注]  There is a translational problem at this point in the text. The term Luke uses is κέραμος (keramo"). It can in certain contexts mean “clay,” but usually this is in reference to pottery (see BDAG 540 s.v. 1). The most natural definition in this instance is “roof tile” (used in the translation above). However, tiles were generally not found in Galilee. Recent archaeological research has suggested that this house, which would have probably been typical for the area, could not have supported “a second story, nor could the original roof have been masonry; no doubt it was made from beams and branches of trees covered with a mixture of earth and straw” (J. F. Strange and H. Shanks, “Has the House Where Jesus Stayed in Capernaum Been Found?” BAR 8, no. 6 [Nov/Dec 1982]: 34). Luke may simply have spoken of building materials that would be familiar to his readers.
+
+### Verse 19 - Note 6
+[翻訳注]  Grk “in the midst.”
+
+### Verse 19 - Note 7
+[解説]  The phrase right in front of Jesus trailing as it does at the end of the verse is slightly emphatic, adding a little note of drama: What would Jesus do?
+
+### Verse 20 - Note 1
+[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 20 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 20 - Note 3
+[解説]  The plural pronoun their makes it clear that Jesus was responding to the faith of the entire group, not just the paralyzed man.
+
+### Verse 20 - Note 4
+[翻訳注]  Grk “Man,” but the term used in this way was not derogatory in Jewish culture. Used in address (as here) it means “friend” (see BDAG 82 s.v. ἄνθρωπος 8).
+
+### Verse 20 - Note 5
+[翻訳注]  Grk “Man, your sins are forgiven you.” Luke stresses the forgiveness of sins (cf. 1:77; 3:3; 24:47). In 5:20 he uses both the perfect ἀφέωνται and the personal pronoun σοι which together combine to heighten the subjective aspect of the experience of forgiveness. The σοι has been omitted in translation in light of normal English style.[解説]  The passive voice here is a divine passive (ExSyn 437). It is clear that God does the forgiving.
+
+### Verse 21 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 21 - Note 2
+[翻訳注]  Or “Then the scribes.” The traditional rendering of γραμματεύς (grammateu") as “scribe” does not communicate much to the modern English reader, for whom the term might mean “professional copyist,” if it means anything at all. The people referred to here were recognized experts in the law of Moses and in traditional laws and regulations. Thus “expert in the law” comes closer to the meaning for the modern reader.
+
+### Verse 21 - Note 3
+[翻訳注]  Or “to reason” (in a hostile sense). See G. Schrenk, TDNT 2:97.
+
+### Verse 21 - Note 4
+[翻訳注]  The participle λέγοντες (legontes, “saying”) has not been translated because it is redundant in contemporary English.
+
+### Verse 21 - Note 5
+[翻訳注]  Grk “this one” (οὗτος, Joutos).
+
+### Verse 21 - Note 6
+[解説]  Uttering blasphemies meant to say something that dishonored God. To claim divine prerogatives or claim to speak for God when one really does not would be such an act of offense. The remark raised directly the issue of the nature of Jesus’ ministry.
+
+### Verse 22 - Note 1
+[解説]  Jesus often perceived people’s thoughts in Luke; see 4:23; 6:8; 7:40; 9:47. Such a note often precedes a rebuke.
+
+### Verse 22 - Note 2
+[翻訳注]  Grk “reasonings.” This is the noun form of the infinitive διαλογίζεσθαι (dialogizesqai, “began to reason to themselves”) used in v. 21. Jesus’ reply to them in the latter part of the present verse makes clear that these reasonings were mental and internal, so the translation “thoughts” was used here. On the hostile or evil nature of these thoughts, see G. Schrenk, TDNT 2:97.
+
+### Verse 22 - Note 3
+[翻訳注]  Grk “answering, he said to them.” This construction with passive participle and finite verb is pleonastic (redundant) and has been simplified in the translation.
+
+### Verse 22 - Note 4
+[翻訳注]  The Greek verb διαλογίζεσθε (dialogizesqe, “you reason”), used in context with διαλογισμούς (dialogismous, “reasonings”), connotes more than neutral reasoning or thinking. While the verb can refer to normal “reasoning,” “discussion,” or “reflection” in the NT, its use here in Luke 5:22, alongside the noun – which is regularly used with a negative sense in the NT (cf. Matt 15:19; Mark 7:21; Luke 2:35, 6:8, 9:47; Rom 1:21; 1 Cor 3:20; G. Schrenk, TDNT 2:96-97; D. L. Bock, Luke [BECNT], 1:484) – suggests the idea of “contention.” Therefore, in order to reflect the hostility evident in the reasoning of the Pharisees and teachers of the law, the verb has been translated as “raising objections.”
+
+### Verse 23 - Note 1
+[解説]  Which is easier is a reflective kind of question. On the one hand to declare sins are forgiven is easier, since one does not need to see it, unlike telling a paralyzed person to walk. On the other hand, it is harder, because for it to be true one must possess the authority to forgive the sin.
+
+### Verse 24 - Note 1
+[解説]  Now Jesus put the two actions together. The walking of the man would be proof (so that you may know) that his sins were forgiven and that God had worked through Jesus (i.e., the Son of Man).
+
+### Verse 24 - Note 2
+[解説]  The term Son of Man, which is a title in Greek, comes from a pictorial description in Dan 7:13 of one “like a son of man” (i.e., a human being). It is Jesus’ favorite way to refer to himself. Jesus did not reveal the background of the term here, which mixes human and divine imagery as the man in Daniel rides a cloud, something only God does. He just used it. It also could be an idiom in Aramaic meaning either “some person” or “me.” So there is a little ambiguity in its use here, since its origin is not clear at this point. However, the action makes it clear that Jesus used it to refer to himself here.
+
+### Verse 24 - Note 3
+[翻訳注]  Grk “to the one who was paralyzed”; the Greek participle is substantival and has been simplified to a simple adjective and noun in the translation.[解説]  Jesus did not finish his sentence with words but with action, that is, healing the paralytic with an accompanying pronouncement to him directly.
+
+### Verse 24 - Note 4
+[翻訳注]  This word, κλινίδιον (klinidion), is the same as the one used in v. 19. In this context it may be translated “stretcher” (see L&N 6.107).
+
+### Verse 24 - Note 5
+[翻訳注]  Grk “to your house.”
+
+### Verse 25 - Note 1
+[翻訳注]  Grk “And immediately.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 25 - Note 2
+[翻訳注]  Grk “and picked up.” Here καί (kai) has not been translated because contemporary English normally places a coordinating conjunction only between the last two elements in a series.
+
+### Verse 25 - Note 3
+[翻訳注]  Grk “picked up what he had been lying on”; the referent of the relative pronoun (the stretcher) has been specified in the translation for clarity.
+
+### Verse 25 - Note 4
+[解説]  Note the man’s response, glorifying God. Joy at God’s work is also a key theme in Luke: 2:20; 4:15; 5:26; 7:16; 13:13; 17:15; 18:43; 23:47.
+
+### Verse 26 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 26 - Note 2
+[翻訳注]  Or “amazement.” See L&N 25.217, which translates this clause, “astonishment seized all of them.”
+
+### Verse 26 - Note 3
+[翻訳注]  This imperfect verb could be translated as an ingressive (“they began to glorify God”), but this is somewhat awkward in English since the following verb is aorist and is normally translated as a simple past.
+
+### Verse 26 - Note 4
+[翻訳注]  Grk “fear,” but the context and the following remark show that it is mixed with wonder; see L&N 53.59.
+
+### Verse 26 - Note 5
+[翻訳注]  Or “remarkable.” The term παράδοξος (paradoxos) is hard to translate exactly; it suggests both the unusual and the awe inspiring in this context. For the alternatives see L&N 31.44 (“incredible”) and 58.56 (“remarkable”). It is often something beyond belief (G. Kittel, TDNT 2:255).
+
+### Verse 26 - Note 6
+[翻訳注]  The word “things” is not in the Greek text, but has been supplied because the adjective παράδοξος (paradoxos) is substantival. Other translations sometimes supply alternate words like “miracles” or “signs,” but “things” is the most neutral translation.
+
+### Verse 26 - Note 7
+[解説]  See the note on today in 2:11.
+
+### Verse 27 - Note 1
+[翻訳注]  Grk “And after.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 27 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been supplied in the translation for clarity.
+
+### Verse 27 - Note 3
+[解説]  See the note on tax collectors in 3:12.
+
+### Verse 27 - Note 4
+[解説]  It is possible that Levi is a second name for Matthew, because people often used alternative names in 1st century Jewish culture.
+
+### Verse 27 - Note 5
+[翻訳注]  While “tax office” is sometimes given as a translation for τελώνιον (telwnion; so L&N 57.183), this could give the modern reader a false impression of an indoor office with all its associated furnishings.[解説]  The tax booth was a booth located on the edge of a city or town to collect taxes for trade. There was a tax booth in Capernaum, which was on the trade route from Damascus to Galilee and the Mediterranean. The “taxes” were collected on produce and goods brought into the area for sale, and were a sort of “sales tax” paid by the seller but obviously passed on to the purchaser in the form of increased prices (L&N 57.183). It was here that Jesus met Levi (also named Matthew [see Matt 9:9]) who was ultimately employed by the Romans, though perhaps more directly responsible to Herod Antipas. It was his job to collect taxes for Rome and he was thus despised by Jews who undoubtedly regarded him as a traitor.
+
+### Verse 27 - Note 6
+[解説]  Follow me. For similar calls on the part of Jesus see Luke 5:10-11; 9:23, 59; 18:22.
+
+### Verse 28 - Note 1
+[解説]  On the phrase leaving everything see Luke 5:10-11; 14:33.
+
+### Verse 28 - Note 2
+[翻訳注]  The participial phrase “leaving everything behind” occurs at the beginning of the sentence, but has been transposed to the end in the translation for logical reasons, since it serves to summarize Levi’s actions.
+
+### Verse 29 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 29 - Note 2
+[解説]  A great banquet refers to an elaborate meal. Many of the events in Luke take place in the context of meal fellowship: 7:36-50; 9:12-17; 10:38-42; 11:37-54; 14:1-24; 22:7-38; 24:29-32, 41-43.
+
+### Verse 29 - Note 3
+[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 29 - Note 4
+[翻訳注]  Grk “reclining.” This term reflects the normal practice in 1st century Jewish culture of eating a meal in a semi-reclining position. Since it is foreign to most modern readers, the translation “sitting” has been substituted.
+
+### Verse 30 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the implied contrast present in this context.
+
+### Verse 30 - Note 2
+[解説]  See the note on Pharisees in 5:17.
+
+### Verse 30 - Note 3
+[翻訳注]  Or “and their scribes.” See the note on the phrase “experts in the law” in 5:21.
+
+### Verse 30 - Note 4
+[翻訳注]  Or “grumbled”; a term often used in the OT for inappropriate grumbling: Exod 15:24; 16:7-8; Num 14:2, 26-35; 16:11.
+
+### Verse 30 - Note 5
+[解説]  The issue here is inappropriate associations (eat and drink with tax collectors and sinners) and the accusation comes not against Jesus, but his disciples.
+
+### Verse 31 - Note 1
+[翻訳注]  Grk “And Jesus.” Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 31 - Note 2
+[解説]  Jesus’ point is that he associates with those who are sick because they have the need and will respond to the offer of help. A person who is well (or who thinks mistakenly that he is) will not seek treatment.
+
+### Verse 32 - Note 1
+[解説]  I have not come is another commission statement by Jesus; see 4:43-44.
+
+### Verse 32 - Note 2
+[解説]  Though parallels exist to this saying (Matt 9:13; Mark 2:17), only Luke has this last phrase but sinners to repentance. Repentance is a frequent topic in Luke’s Gospel: 3:3, 8; 13:1-5; 15:7, 10; 16:30; 17:3-4; 24:47.
+
+### Verse 33 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.
+
+### Verse 33 - Note 2
+B L W Ξ 33 892* 1241 sa.[解説]  John refers to John the Baptist.
+
+### Verse 33 - Note 3
+[解説]  John’s disciples and the disciples of the Pharisees followed typical practices with regard to fasting and prayer. Many Jews fasted regularly (Lev 16:29-34; 23:26-32; Num 29:7-11). The zealous fasted twice a week on Monday and Thursday.
+
+### Verse 33 - Note 4
+[翻訳注]  Grk “and offer prayers,” but this idiom (δέησις + ποιέω) is often simply a circumlocution for praying.
+
+### Verse 33 - Note 5
+[解説]  See the note on Pharisees in 5:17.
+
+### Verse 33 - Note 6
+[翻訳注]  Grk “but yours are eating and drinking.” The translation “continue to eat and drink” attempts to reflect the progressive or durative nature of the action described, which in context is a practice not limited to the specific occasion at hand (the banquet).
+
+### Verse 34 - Note 1
+[翻訳注]  Here δέ (de) has been translated as “so” to indicate that Jesus’ pronouncement is a result of their statements about his disciples.
+
+### Verse 34 - Note 2
+[翻訳注]  Grk “the sons of the wedding hall,” an idiom referring to guests at the wedding, or more specifically, friends of the bridegroom present at the wedding celebration (L&N 11.7).
+
+### Verse 34 - Note 3
+[解説]  The expression while the bridegroom is with them is an allusion to messianic times (John 3:29; Isa 54:5-6; 62:4-5; 4 Ezra 2:15, 38).
+
+### Verse 34 - Note 4
+[翻訳注]  Questions prefaced with μή (mh) in Greek anticipate a negative answer. This can sometimes be indicated by using a “tag” at the end in English (here it is “can you?”).
+
+### Verse 35 - Note 1
+[解説]  The statement when the bridegroom is taken from them is a veiled allusion by Jesus to his death, which he did not make explicit until the incident at Caesarea Philippi in 9:18ff.
+
+### Verse 35 - Note 2
+[翻訳注]  Grk “then in those days.”
+
+### Verse 36 - Note 1
+[解説]  The term parable in a Semitic context can cover anything from a long story to a brief wisdom saying. Here it is the latter.
+
+### Verse 36 - Note 2
+[翻訳注]  Grk “puts”; but since the means of attachment would normally be sewing, the translation “sews” has been used.
+
+### Verse 36 - Note 3
+[翻訳注]  Grk “he tears.” The point is that the new garment will be ruined to repair an older, less valuable one.
+
+### Verse 36 - Note 4
+[解説]  The piece from the new will not match the old. The imagery in this saying looks at the fact that what Jesus brings is so new that it cannot simply be combined with the old. To do so would be to destroy what is new and to put together something that does not fit.
+
+### Verse 37 - Note 1
+[解説]  Wineskins were bags made of skin or leather, used for storing wine in NT times. As the new wine fermented and expanded, it would stretch the new wineskins. Putting new (unfermented) wine in old wineskins, which had already been stretched, would result in the bursting of the wineskins.
+
+### Verse 38 - Note 1
+33 579 700 1241 2542 co), however, lack the words.[解説]  The meaning of the saying new wine…into new skins is that the presence and teaching of Jesus was something new and signaled the passing of the old. It could not be confined within the old religion of Judaism, but involved the inauguration and consummation of the kingdom of God.
+
+### Verse 39 - Note 1
+[写本注]  The Western textual tradition (D it) lacks 5:39. The verse is unique to Luke, so the omission by these mss looks like assimilation to the other synoptic accounts.
+
+### Verse 39 - Note 2
+puts the word in brackets indicating doubts as to its authenticity.
+
+### Verse 39 - Note 3
+א B L W 1241 pc) is preferred as the more difficult reading. This reading could suggest that the new thing Jesus brings is not even considered, since the “old wine” is already found quite acceptable.[翻訳注]  Grk “good.”[解説]  The third illustration points out that those already satisfied with what they have will not seek the new (The old is good enough).

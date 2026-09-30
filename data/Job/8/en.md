@@ -1,0 +1,250 @@
+# Job 8 (English)
+
+## Text
+
+**1** Then Bildad the Shuhite spoke up and said: 
+
+**2** “How long will you speak these things, seeing that the words of your mouth are like a great wind? 
+
+**3** Does God pervert justice? Or does the Almighty pervert what is right? 
+
+**4** If your children sinned against him, he gave them over to the penalty of their sin.
+
+**5** But if you will look to God and make your supplication to the Almighty, 
+
+**6** if you become pure and upright, even now he will rouse himself for you and will restore your righteous home. 
+
+**7** Your beginning will seem so small, since your future will flourish. 
+
+**8** “For inquire now of the former generation, and pay attention to the findings of their ancestors; 
+
+**9** For we were born yesterday and do not have knowledge, since our days on earth are but a shadow. 
+
+**10** Will they not instruct you and speak to you, and bring forth words from their understanding? 
+
+**11** Can the papyrus plant grow tall where there is no marsh? Can reeds flourish without water? 
+
+**12** While they are still beginning to flower and not ripe for cutting, they can wither away faster than any grass. 
+
+**13** Such is the destiny of all who forget God; the hope of the godless perishes, 
+
+**14** whose trust is in something futile, whose security is a spider’s web. 
+
+**15** He leans against his house, but it does not hold up; he takes hold of it, but it does not stand. 
+
+**16** He is a well-watered plant in the sun; its shoots spread over its garden. 
+
+**17** It wraps its roots around a heap of stones, and it looks for a place among stones. 
+
+**18** If he is uprooted from his place, then that place will disown him, saying, ‘I have never seen you!’
+
+**19** Indeed, this is the joy of his way, and out of the earth others spring up.
+
+**20** “Surely, God does not reject a blameless man, nor does he grasp the hand of the evildoers. 
+
+**21** He will yet fill your mouth with laughter and your lips with gladness. 
+
+**22** Those who hate you will be clothed with shame, and the tent of the wicked will be no more.”
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  This speech of Bildad ignores Job’s attack on his friends and focuses rather on Job’s comments about God’s justice. Bildad cannot even imagine saying that God is unjust. The only conclusion open to him is that Job’s family brought this on themselves, and so the only recourse is for Job to humble himself and make supplication to God. To make his point, Bildad will appeal to the wisdom of the ancients, for his theology is traditional. The speech has three parts: vv. 2-7 form his affirmation of the justice of God; vv. 8-19 are his appeal to the wisdom of the ancients, and vv. 20-22 are his summation. See N. C. Habel, “Appeal to Ancient Tradition as a Literary Form,” ZAW 88 (1976): 253-72; W. A. Irwin, “The First Speech of Bildad,” ZAW 51 (1953): 205-16.
+
+### Verse 2 - Note 1
+[解説]  “These things” refers to all of Job’s speech, the general drift of which seems to Bildad to question the justice of God.
+
+### Verse 2 - Note 2
+[翻訳注]  The second colon of the verse simply says “and a strong wind the words of your mouth.” The simplest way to treat this is to make it an independent nominal sentence: “the words of your mouth are a strong wind.” Some have made it parallel to the first by apposition, understanding “how long” to do double duty. The line beginning with the ו (vav) can also be subordinated as a circumstantial clause, as here.
+
+### Verse 2 - Note 3
+[翻訳注]  The word כַּבִּיר (kabbir, “great”) implies both abundance and greatness. Here the word modifies “wind”; the point of the analogy is that Job’s words are full of sound but without solid content.
+
+### Verse 2 - Note 4
+[翻訳注]  See, however, G. R. Driver’s translation, “the breath of one who is mighty are the words of your mouth” (“Hebrew Studies,” JRAS 1948: 170).
+
+### Verse 3 - Note 1
+[翻訳注]  The Piel verb יְעַוֵּת (yÿ’avvet) means “to bend; to cause to swerve from the norm; to deviate; to pervert.” The LXX renders the first colon as “will the Lord be unjust when he judges?”
+
+### Verse 3 - Note 2
+[翻訳注]  The first word is מִשְׁפָּת (mishpat, “justice”). It can mean an act of judgment, place of judgment, or what is just, that is, the outcome of the decision. It basically describes an umpire’s decision. The parallel word is צֶדֶק (tsedeq, “righteousness,” or “what is right”). The basic idea here is that which conforms to the standard, what is right. See S. H. Scholnick, “The Meaning of Mishpat in the Book of Job,” JBL 101 (1982): 521-29.
+
+### Verse 3 - Note 3
+[翻訳注]  Some commentators think that the second verb should be changed in order to avoid the repetition of the same word and to reflect the different words in the versions. The suggestion is to read יְעַוֵּה (yÿ’avveh) instead; this would mean “to cause someone to deviate,” for the root means “to bend.” The change is completely unwarranted; the LXX probably chose different words for stylistic reasons (see D. J. A. Clines, Job [WBC], 198). The repetition in the Hebrew text is a common type; it strengthens the enormity of the charge Job seems to be making.
+
+### Verse 4 - Note 1
+[翻訳注]  The AV and RV take the protasis down to the middle of v. 6. The LXX changes the “if” at the beginning of v. 5 to “then” and makes that verse the apodosis. If the apodosis comes in the second half of v. 4, then v. 4 would be a complete sentence (H. H. Rowley, Job [NCBC], 71; A. B. Davidson, Job, 60). The particle אִם (’im) has the sense of “since” in this section.
+
+### Verse 4 - Note 2
+[翻訳注]  The verb is a Piel preterite with a vav (ו) consecutive. The ו (vav) need not be translated if the second half of the verse is the apodosis of the first – since they sinned…he did this. The verb שִׁלֵּחַ (shilleakh) means “to expel; to thrust out” normally; here the sense of “deliver up” or “deliver over” fits the sentence well. The verse is saying that sin carries its own punishment, and so God merely delivered the young people over to it.
+
+### Verse 4 - Note 3
+[翻訳注]  Heb “into the hand of their rebellion.” The word “hand” often signifies “power.” The rebellious acts have the power to destroy, and so that is what happened – according to Bildad. Bildad’s point is that Job should learn from what happened to his family.
+
+### Verse 5 - Note 1
+[翻訳注]  “But” is supplied to show the contrast between this verse and the preceding line.
+
+### Verse 5 - Note 2
+[翻訳注]  The verb שִׁחַר (shikhar) means “to seek; to seek earnestly” (see 7:21). With the preposition אֶל (’el) the verb may carry the nuance of “to address; to have recourse to” (see E. Dhorme, Job, 114). The LXX connected it etymologically to “early” and read, “Be early in prayer to the Lord Almighty.”
+
+### Verse 5 - Note 3
+[翻訳注]  The verb תִּתְחַנָּן (titkhannan) means “to make supplication; to seek favor; to seek grace” (from חָנַן, khanan). Bildad is saying that there is only one way for Job to escape the same fate as his children – he must implore God’s mercy. Job’s speech had spoken about God’s seeking him and not finding him; but Bildad is speaking of the importance of Job’s seeking God.
+
+### Verse 6 - Note 1
+[翻訳注]  A verb form needs to be supplied here. Bildad is not saying to Job, “If you are pure [as you say you are].” Bildad is convinced that Job is a sinner. Therefore, “If you become pure” makes more sense here.
+
+### Verse 6 - Note 2
+[翻訳注]  Or “innocent” (i.e., acquitted).
+
+### Verse 6 - Note 3
+[翻訳注]  Many commentators delete this colon as a moralizing gloss on v. 5; but the phrase makes good sense, and simply serves as another condition. Besides, the expression is in the LXX.
+
+### Verse 6 - Note 4
+[翻訳注]  The verb יָעִיר (ya’ir, “rouse, stir up”) is a strong anthropomorphism. The LXX has “he will answer your prayer” (which is probably only the LXX’s effort to avoid the anthropomorphism [D. J. A. Clines, Job (WBC), 198]). A reading of “watch over you” has been adopted because of parallel texts (see H. L. Ginsberg, “Two North Canaanite Letters from Ugarit,” BASOR 72 [1938]: 18-19; and H. N. Richardson, “A Ugaritic Letter of a King to His Mother,” JBL 66 [1947]: 321-24). Others suggest “his light will shine on you” or “he will bestow health on you.” But the idea of “awake” is common enough in the Bible to be retained here.
+
+### Verse 6 - Note 5
+[翻訳注]  The Piel of שָׁלַם (shalam) means “to make good; to repay; to restore something to its wholeness; to reestablish.” The best understanding here would be “restore [Job] to his place.” Some take the verb in the sense of “reward [Job himself] with a righteous habitation.”
+
+### Verse 6 - Note 6
+[翻訳注]  The construct נְוַת (nÿvat) is feminine; only the masculine occurs in Hebrew. But the meaning “abode of your righteousness” is clear enough. The righteousness of Job is pictured as inhabiting an estate, or it pictures the place where Job lives as a righteous man. A translation “rightful habitation” would mean “the habitation that you deserve” – if you are righteous.
+
+### Verse 7 - Note 1
+[翻訳注]  The reference to “your beginning” is a reference to Job’s former estate of wealth and peace. The reference to “latter end” is a reference to conditions still in the future. What Job had before will seem so small in comparison to what lies ahead.
+
+### Verse 7 - Note 2
+[翻訳注]  The verb has the idea of “to grow”; here it must mean “to flourish; to grow considerably” or the like. The statement is not so much a prophecy; rather Bildad is saying that “if Job had recourse to God, then….” This will be fulfilled, of course, at the end of the book.
+
+### Verse 8 - Note 1
+[解説]  Bildad is not calling for Job to trace through the learning of antiquity, but of the most recent former generation. Hebrews were fond of recalling what the “fathers” had taught, for each generation recalled what their fathers had taught.
+
+### Verse 8 - Note 2
+[翻訳注]  The verb כוֹנֵן (khonen, from כּוּן, kun) normally would indicate “prepare yourself” or “fix” one’s heart on something, i.e., give attention to it. The verb with the ל (lamed) preposition after it does mean “to think on” or “to meditate” (Isa 51:13). But some commentators wish to change the כּ (kaf) to a בּ (bet) in the verb to get “to consider” (from בִּין, bin). However, M. Dahood shows a connection between כּנן (knn) and שׁאל (sh’l) in Ugaritic (“Hebrew-Ugaritic Lexicography,” Bib 46 [1965]: 329).
+
+### Verse 8 - Note 3
+[翻訳注]  The Hebrew has “the search of their fathers,” but the word is probably intended to mean what that observation or search yielded (so “search” is a metonymy of cause).
+
+### Verse 8 - Note 4
+[翻訳注]  Heb “fathers.”
+
+### Verse 9 - Note 1
+[翻訳注]  The Hebrew has “we are of yesterday,” the adverb functioning as a predicate. Bildad’s point is that they have not had time to acquire great knowledge because they are recent.
+
+### Verse 9 - Note 2
+[翻訳注]  E. Dhorme (Job, 116) observes that the shadow is the symbol of ephemeral things (14:2; 17:7; Ps 144:4). The shadow passes away quickly (116).
+
+### Verse 10 - Note 1
+[翻訳注]  The sentence begins emphatically: “Is it not they.”
+
+### Verse 10 - Note 2
+[翻訳注]  The “and” is not present in the line. The second clause seems to be in apposition to the first, explaining it more thoroughly: “Is it not they [who] will instruct you, [who] will speak to you.”
+
+### Verse 10 - Note 3
+[翻訳注]  The noun may have been left indeterminate for the sake of emphasis (GKC 401-2 §125.c), meaning “important words.”
+
+### Verse 10 - Note 4
+[翻訳注]  Heb “from their heart.”
+
+### Verse 11 - Note 1
+[解説]  H. H. Rowley observes the use of the words for plants that grow in Egypt and suspects that Bildad either knew Egypt or knew that much wisdom came from Egypt. The first word refers to papyrus, which grows to a height of six feet (so the verb means “to grow tall; to grow high”). The second word refers to the reed grass that grows on the banks of the river (see Gen 41:2, 18).
+
+### Verse 11 - Note 2
+[翻訳注]  The two verbs, גָּאָה (ga’ah) and שָׂגָה (sagah), have almost the same meanings of “flourish, grow, become tall.”
+
+### Verse 12 - Note 1
+[翻訳注]  The word has been traditionally translated “greenness” (so KJV, ASV), but some modern commentators argue for “in flower.” The word is found only in Song 6:11 (where it may be translated “blossoms”). From the same root is אָבִיב (’aviv, “fresh young ears of barley”). Here the word refers to the plant that is still in its early stages of flowering. It should not be translated to suggest the plant is flowering (cf. NRSV), but translating as if the plant is green (so NASB) is also problematic.
+
+### Verse 12 - Note 2
+[解説]  The idea is that as the plant begins to flower, but before it is to be cut down, there is no sign of withering or decay in it. But if the water is withdrawn, it will wither sooner than any other herb. The point Bildad will make of this is that when people rebel against God and his grace is withheld, they perish more swiftly than the water reed.
+
+### Verse 12 - Note 3
+[翻訳注]  The imperfect verb here is the modal use of potential, “can wither away” if the water is not there.
+
+### Verse 12 - Note 4
+[翻訳注]  Heb “before.”
+
+### Verse 12 - Note 5
+[翻訳注]  The LXX interprets the line: “does not any herb wither before it has received moisture?”
+
+### Verse 13 - Note 1
+[翻訳注]  The word אָרְחוֹת (’orkhot) means “ways” or “paths” in the sense of tracks of destiny or fate. The word דֶּרֶךְ (derekh, “way, road, path”) is used in a similar way (Isa 40:27; Ps 37:5). However, many commentators emend the text to read אַחֲרִית (’akharit, “end”) in harmony with the LXX. But Prov 1:19 (if not emended as well) confirms the primary meaning here without changing the text (see D. J. A. Clines, Job [WBC], 199).
+
+### Verse 13 - Note 2
+[翻訳注]  The word חָנֵף (khanef) is often translated “hypocrite.” But the root verb means “to be profane,” and this would be done by idolatry or bloodshed. It describes an irreligious person, a godless person. In Dan 11:32 the word seems to mean “make someone pagan.” The word in this verse is parallel to “those who forget God.”
+
+### Verse 14 - Note 1
+[翻訳注]  The relative pronoun introduces the verse as a relative clause, working with the “godless person” of the preceding verse. The relative pronoun is joined to the resumptive pronoun in the translation: “who + his trust” = “whose trust.”
+
+### Verse 14 - Note 2
+[翻訳注]  The noun כֶּסֶל (kesel) in this half of the verse must correspond to “his security” in the second half. The meaning must be “his trust” (see 4:6). The two words will again be parallel in 31:24.
+
+### Verse 14 - Note 3
+[翻訳注]  The word יָקוֹט (yaqot) is not known anywhere else; here it looks like it should be a noun to parallel “spider’s house” in the next colon. But scholars have tried to identify it as a verb, perhaps an imperfect of קוֹט (qot, BDB 876 s.v.), or related to an Arabic qatta, “to cut.” Some versions have “break in sunder” (KJV, RV); others “cut off” (RSV). Apart from verbs, some commentators follow Sa`adia’s Arabic translation “sun cords,” meaning “gossamer.” Accordingly, there are emendations like “threads,” “threads of summer,” “spider threads,” and the like. D. J. A. Clines agrees with those who conclude that emendations based on Sa`adia’s translation lack a sound philological basis. E. Dhorme “somewhat timidly” suggests יַלְקוּט (yalqut), the shepherd’s bag or scrip (1 Sam 17:40). He suggests that an empty bag would be a symbol of something unstable and futile. It seems impossible to determine exactly what the word meant. One can only conclude that it means something like “fragile” or “futile.” The LXX is of no help: “for his house shall be without inhabitants.”
+
+### Verse 14 - Note 4
+[解説]  The second half of the verse is very clear. What the godless person relies on for security is as fragile as a spider’s web – he may as well have nothing. The people of the Middle East view the spider’s web as the frailest of all “houses.”
+
+### Verse 15 - Note 1
+[翻訳注]  The verb עָמַד (’amad, “to stand”) is almost synonymous with the parallel קוּם (qum, “to rise; to stand”). The distinction is that the former means “to remain standing” (so it is translated here “hold up”), and the latter “rise, stand up.”
+
+### Verse 15 - Note 2
+[解説]  The idea is that he grabs hold of the house, not to hold it up, but to hold himself up or support himself. But it cannot support him. This idea applies to both the spider’s web and the false security of the pagan.
+
+### Verse 16 - Note 1
+[翻訳注]  The figure now changes to a plant that is flourishing and spreading and then suddenly cut off. The word רָטַב (ratav) means “to be moist; to be watered.” The word occurs in Arabic, Aramaic, and Akkadian, but only twice in the Bible: here as the adjective and in 24:8 as the verb.
+
+### Verse 16 - Note 2
+[翻訳注]  The Hebrew is לִפְנֵי (lifne, “before”). Does this mean “in the presence of the sun,” i.e., under a sweltering sun, or “before” the sun rises? It seems more natural to take לִפְנֵי (lifne) as “in the presence of” or “under.”
+
+### Verse 16 - Note 3
+[翻訳注]  Heb “its shoot goes out.”
+
+### Verse 16 - Note 4
+[写本注]  Some have emended this phrase to obtain “over the roofs.” The LXX has “out of his corruption.” H. M. Orlinsky has shown that this reading arose from an internal LXX change, saprias having replaced prasias, “garden” (JQR 26 [1935/36]: 134-35).
+
+### Verse 17 - Note 1
+[翻訳注]  Cheyne reads “spring” or “well” rather than “heap.” However, this does not fit the parallelism very well, and so he emends the second half as well. Nevertheless the Hebrew text needs no emending here.
+
+### Verse 17 - Note 2
+[翻訳注]  The expression “of stones” is added for clarification of what the heap would be. It refers to the object around which the roots would grow. The parallelism with “house of stones” makes this reading highly probable.
+
+### Verse 17 - Note 3
+[翻訳注]  The idea is that the plant grows, looking for a place to grow among the stones. Some trees grow so tightly around the rocks and stones that they are impossible to uproot. The rocky ground where it grows forms “a house of stones.” The LXX supports an emendation from יְחֱזֶה (yÿkhezeh, “it looks”) to יִחְיֶה (yikhyeh, “it lives”). Others have tried to emend the text in a variety of ways: “pushes” (Budde), “cleave” (Gordis), “was opposite” (Driver), or “run against” (NEB, probably based on G. R. Driver). If one were to make a change, the reading with the LXX would be the easiest to defend, but there is no substantial reason to do that. The meaning is about the same without such a change.
+
+### Verse 17 - Note 4
+[解説]  The idea seems to be that the stones around which the roots of the tree wrap themselves suggest strength and security for the tree, but uprooting comes to it nevertheless (v. 18). The point is that the wicked may appear to be living in security and flourishing, yet can be quickly destroyed (H. H. Rowley, Job [NCBC], 74).
+
+### Verse 18 - Note 1
+[写本注]  Ball reads אֵל (’el, “God”) instead of אִם (’im, “if”): “God destroys it” – but there is no reason for this. The idea would be implied in the context. A. B. Davidson rightly points out that who destroys it is not important, but the fact that it is destroyed.[翻訳注]  The Hebrew has “if one destroys it”; the indefinite subject allows for a passive interpretation. The verb means “swallow” in the Qal, but in the Piel it means “to engulf; to destroy; to ruin” (2:3; 10:8). It could here be rendered “removed from its place” (the place where it is rooted); since the picture is that of complete destruction, “uprooted” would be a good rendering.
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “it”; the referent (“his place” in the preceding line) has been specified in the translation for clarity.[解説]  The place where the plant once grew will deny ever knowing it. Such is the completeness of the uprooting that there is not a trace left.
+
+### Verse 18 - Note 3
+[翻訳注]  Here “saying” is supplied in the translation.
+
+### Verse 19 - Note 1
+[翻訳注]  This line is difficult. If the MT stands as it is, the expression must be ironic. It would be saying that the joy (all the security and prosperity) of its way (its life) is short-lived – that is the way its joy goes. Most commentators are not satisfied with this. Dhorme, for one, changes מְשׂוֹשׂ (mÿsos, “joy”) to מְסוֹס (mÿsos, “rotting”), and gets “behold him lie rotting on the path.” The sibilants can interchange this way. But Dhorme thinks the MT was written the way it was because the word was thought to be “joy,” when it should have been the other way. The word “way” then becomes an accusative of place. The suggestion is rather compelling and would certainly fit the context. The difficulty is that a root סוּס (sus, “to rot”) has to be proposed. E. Dhorme does this by drawing on Arabic sas, “to be eaten by moths or worms,” thus “worm-eaten; decaying; rotting.” Cf. NIV “its life withers away”; also NAB “there he lies rotting beside the road.”
+
+### Verse 19 - Note 2
+[翻訳注]  Heb “dust.”
+
+### Verse 19 - Note 3
+[解説]  As with the tree, so with the godless man – his place will soon be taken by another.
+
+### Verse 20 - Note 1
+[解説]  This is the description that the book gave to Job at the outset, a description that he deserved according to God’s revelation. The theme “God will not reject the blameless man” becomes Job’s main point (see 9:20,21; 10:3).
+
+### Verse 20 - Note 2
+[解説]  The idiom “to grasp the hand” of someone means to support or help the person.
+
+### Verse 21 - Note 1
+[翻訳注]  The word עַד (’ad, “until”) would give the reading “until he fills your mouth with laughter,” subordinating the verse to the preceding with some difficulty in interpretation. It would be saying that God will not reject the blameless man until he filled Job with joy. Almost all commentators and modern versions change the pointing to עוֹד (’od, “yet”), forming a hope for the future blessing of joy for Job.
+
+### Verse 21 - Note 2
+[解説]  “Laughter” (and likewise “gladness”) will here be metonymies of effect or adjunct, being put in place of the reason for the joy – restoration.
+
+### Verse 22 - Note 1
+[解説]  These verses show several points of similarity with the style of the Book of Psalms. “Those who hate you” and the “evil-doers” are fairly common words to describe the ungodly in the Psalms. “Those who hate you” are enemies of the righteous man because of the parallelism in the verse. By this line Bildad is showing Job that he and his friends are not among those who are his enemies, and that Job himself is really among the righteous. It is an appealing way to end the discourse. See further G. W. Anderson, “Enemies and Evil-doers in the Book of Psalms,” BJRL 48 (1965/66): 18-29.
+
+### Verse 22 - Note 2
+[翻訳注]  “Shame” is compared to a garment that can be worn. The “shame” envisioned here is much more than embarrassment or disgrace – it is utter destruction. For parallels in the Psalms, see Pss 35:26; 132:18; 109:29.
