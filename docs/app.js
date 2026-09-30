@@ -64,3 +64,27 @@ if (toggleLangBtn) {
     toggleLangBtn.classList.toggle('active', currentLangIdx !== 0);
   });
 }
+
+// 目次用: セクション（旧約・新約）の折りたたみ
+document.querySelectorAll('.section-title').forEach(title => {
+  title.addEventListener('click', () => {
+    title.classList.toggle('open');
+    const content = title.nextElementSibling;
+    if (content) content.classList.toggle('collapsed');
+  });
+});
+
+// 目次用: 各書物の折りたたみ
+document.querySelectorAll('.book-title').forEach(title => {
+  title.addEventListener('click', () => {
+    title.classList.toggle('open');
+    const grid = title.nextElementSibling.nextElementSibling;
+    const comment = title.nextElementSibling;
+    if (grid) grid.classList.toggle('collapsed');
+    if (title.classList.contains('open')) {
+        comment.style.display = 'block';
+    } else {
+        comment.style.display = 'none';
+    }
+  });
+});

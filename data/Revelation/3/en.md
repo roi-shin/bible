@@ -1,0 +1,262 @@
+# Revelation 3 (English)
+
+## Text
+
+**1** “To the angel of the church in Sardis write the following: “This is the solemn pronouncement of the one who holds the seven spirits of God and the seven stars: ‘I know your deeds, that you have a reputation that you are alive, but in reality you are dead. 
+
+**2** Wake up then, and strengthen what remains that was about to die, because I have not found your deeds complete in the sight of my God. 
+
+**3** Therefore, remember what you received and heard, and obey it, and repent. If you do not wake up, I will come like a thief, and you will never know at what hour I will come against you. 
+
+**4** But you have a few individuals in Sardis who have not stained their clothes, and they will walk with me dressed in white because they are worthy. 
+
+**5** The one who conquers will be dressed like them in white clothing, and I will never erase his name from the book of life, but will declare his name before my Father and before his angels. 
+
+**6** The one who has an ear had better hear what the Spirit says to the churches.’ 
+
+**7** “To the angel of the church in Philadelphia write the following: “This is the solemn pronouncement of the Holy One, the True One, who holds the key of David, who opens doors no one can shut, and shuts doors no one can open: 
+
+**8** ‘I know your deeds. (Look! I have put in front of you an open door that no one can shut.) I know that you have little strength, but you have obeyed my word and have not denied my name. 
+
+**9** Listen! I am going to make those people from the synagogue of Satan—who say they are Jews yet are not, but are lying—look, I will make them come and bow down at your feet and acknowledge that I have loved you. 
+
+**10** Because you have kept my admonition to endure steadfastly, I will also keep you from the hour of testing that is about to come on the whole world to test those who live on the earth. 
+
+**11** I am coming soon. Hold on to what you have so that no one can take away your crown. 
+
+**12** The one who conquers I will make a pillar in the temple of my God, and he will never depart from it. I will write on him the name of my God and the name of the city of my God (the new Jerusalem that comes down out of heaven from my God), and my new name as well.
+
+**13** The one who has an ear had better hear what the Spirit says to the churches.’ 
+
+**14** “To the angel of the church in Laodicea write the following: “This is the solemn pronouncement of the Amen, the faithful and true witness, the originator of God’s creation: 
+
+**15** ‘I know your deeds, that you are neither cold nor hot. I wish you were either cold or hot! 
+
+**16** So because you are lukewarm, and neither hot nor cold, I am going to vomit you out of my mouth! 
+
+**17** Because you say, “I am rich and have acquired great wealth, and need nothing,” but do not realize that you are wretched, pitiful, poor, blind, and naked, 
+
+**18** take my advice and buy gold from me refined by fire so you can become rich! Buy from me white clothing so you can be clothed and your shameful nakedness will not be exposed, and buy eye salve to put on your eyes so you can see! 
+
+**19** All those I love, I rebuke and discipline. So be earnest and repent! 
+
+**20** Listen! I am standing at the door and knocking! If anyone hears my voice and opens the door I will come into his home and share a meal with him, and he with me. 
+
+**21** I will grant the one who conquers permission to sit with me on my throne, just as I, too, conquered and sat down with my Father on his throne. 
+
+**22** The one who has an ear had better hear what the Spirit says to the churches.’” 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 1 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 1 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 1 - Note 4
+[翻訳注]  Grk “who has” (cf. 1:16).
+
+### Verse 1 - Note 5
+[翻訳注]  Grk “a name.”
+
+### Verse 1 - Note 6
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 1 - Note 7
+[翻訳注]  The prepositional phrase “in reality” is supplied in the translation to make explicit the idea that their being alive was only an illusion.
+
+### Verse 2 - Note 1
+[翻訳注]  The verb ἔμελλον (emellon) is in the imperfect tense.
+
+### Verse 2 - Note 2
+[翻訳注]  The perfect passive participle has been translated as an intensive (resultative) perfect here.
+
+### Verse 2 - Note 3
+[翻訳注]  Or “in the judgment.” BDAG 342 s.v. ἐνώπιον 3 states, “in the opinion/judgment of…As a rule…of θεός or κύριος; so after…πεπληρωμένος Rv 3:2.”
+
+### Verse 3 - Note 1
+[翻訳注]  The expression πῶς εἴληφας καὶ ἤκουσας (pw" eilhfa" kai hkousa") probably refers to the initial instruction in the Christian life they had received and been taught; this included doctrine and ethical teaching.
+
+### Verse 3 - Note 2
+[翻訳注]  Grk “keep it,” in the sense of obeying what they had initially been taught.
+
+### Verse 3 - Note 3
+[翻訳注]  The negation here is with οὐ μή (ou mh, the strongest possible form of negation in Koine Greek).
+
+### Verse 3 - Note 4
+[翻訳注]  Or “come on.”
+
+### Verse 4 - Note 1
+[翻訳注]  Grk “a few names”; here ὄνομα (onoma) is used by figurative extension to mean “person” or “people”; according to L&N 9.19 there is “the possible implication of existence or relevance as individuals.”
+
+### Verse 4 - Note 2
+[翻訳注]  Or “soiled” (so NAB, NRSV, NIV); NCV “have kept their clothes unstained”; CEV “have not dirtied your clothes with sin.”
+
+### Verse 4 - Note 3
+[翻訳注]  The word “dressed” is not in the Greek text, but is implied.
+
+### Verse 5 - Note 1
+[翻訳注]  Or “who overcomes.”
+
+### Verse 5 - Note 2
+[翻訳注]  Grk “thus.”
+
+### Verse 5 - Note 3
+[翻訳注]  Or “white robes.”
+
+### Verse 5 - Note 4
+[翻訳注]  The negation here is with οὐ μή (ou mh), the strongest possible form of negation in Koine Greek.
+
+### Verse 5 - Note 5
+[翻訳注]  Or “will never wipe out.”
+
+### Verse 5 - Note 6
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 5 - Note 7
+[翻訳注]  Grk “will confess.”
+
+### Verse 7 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 7 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 7 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 7 - Note 4
+[翻訳注]  The word “door” is not in the Greek text but has been supplied in the translation. Direct objects were often omitted in Greek when clear from the context. Since the following verse does contain the word “door” (θύραν, quran), that word has been supplied as the direct object here.
+
+### Verse 7 - Note 5
+[翻訳注]  See the note on the word “door” earlier in this verse.
+
+### Verse 8 - Note 1
+[翻訳注]  Grk “I have given.”
+
+### Verse 8 - Note 2
+[翻訳注]  Grk “to shut it,” but English would leave the direct object understood in this case.[解説]  The entire statement is parenthetical, interrupting the construction found in other letters to the churches in 3:1 and 3:15, “I know your deeds, that…” where an enumeration of the deeds follows.
+
+### Verse 8 - Note 3
+[翻訳注]  This translation is based on connecting the ὅτι (Joti) clause with the οἶδα (oida) at the beginning of the verse, giving the content of what is known (see also 3:1, 3:15 for parallels). Because of the intervening clause that is virtually parenthetical (see the note on the word “shut” earlier in this verse), the words “I know that” from the beginning of the verse had to be repeated to make this connection clear for the English reader. However, the ὅτι could be understood as introducing a causal subordinate clause instead and thus translated, “because you have.”
+
+### Verse 8 - Note 4
+[翻訳注]  Or “little power.”
+
+### Verse 8 - Note 5
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 8 - Note 6
+[翻訳注]  Grk “and having kept.” The participle ἐτήρησας (ethrhsas) has been translated as a finite verb due to requirements of contemporary English style. For the translation of τηρέω (threw) as “obey” see L&N 36.19. This is the same word that is used in 3:10 (there translated “kept”) where there is a play on words.
+
+### Verse 9 - Note 1
+[翻訳注]  Grk “behold” (L&N 91.13).
+
+### Verse 9 - Note 2
+[解説]  See the note on synagogue in 2:9.
+
+### Verse 9 - Note 3
+[翻訳注]  Here καί (kai) has been translated as “yet” to indicate the contrast between what these people claimed and what they were.
+
+### Verse 9 - Note 4
+[翻訳注]  The verb here is ποιέω (poiew), but in this context it has virtually the same meaning as δίδωμι (didwmi) used at the beginning of the verse. Stylistic variation like this is typical of Johannine literature.
+
+### Verse 9 - Note 5
+[翻訳注]  The verb here is προσκυνήσουσιν (proskunhsousin), normally used to refer to worship.
+
+### Verse 9 - Note 6
+[翻訳注]  Or “and know,” “and recognize.”
+
+### Verse 10 - Note 1
+[翻訳注]  Or “obey.” For the translation of τηρέω (threw) as “obey” see L&N 36.19. In the Greek there is a wordplay: “because you have kept my word…I will keep you,” though the meaning of τηρέω is different each time.
+
+### Verse 10 - Note 2
+[翻訳注]  The Greek term λόγον (logon) is understood here in the sense of admonition or encouragement.
+
+### Verse 10 - Note 3
+[翻訳注]  Or “to persevere.” Here ὑπομονῆς (Jupomonhs) has been translated as a genitive of reference/respect related to τὸν λόγον (ton logon).
+
+### Verse 11 - Note 1
+[翻訳注]  On the verb λάβῃ (labh) here BDAG 583 s.v. λαμβάνω 2 states, “to take away, remove…with or without the use of force τὰ ἀργύρια take away the silver coins (fr. the temple) Mt 27:6. τὰς ἀσθενείας diseases 8:17. τὸν στέφανον Rv 3:11.”
+
+### Verse 11 - Note 2
+[解説]  Your crown refers to a wreath consisting either of foliage or of precious metals formed to resemble foliage and worn as a symbol of honor, victory, or as a badge of high office – ‘wreath, crown’ (L&N 6.192).
+
+### Verse 12 - Note 1
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.”
+
+### Verse 12 - Note 2
+[翻訳注]  Grk “I will make him,” but the pronoun (αὐτόν, auton, “him”) is redundant in contemporary English and has not been translated here.
+
+### Verse 12 - Note 3
+[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 12 - Note 4
+[解説]  This description of the city of my God is parenthetical, explaining further the previous phrase and interrupting the list of “new names” given here.
+
+### Verse 14 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 14 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 14 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 14 - Note 4
+[翻訳注]  Or “the beginning of God’s creation”; or “the ruler of God’s creation.” From a linguistic standpoint all three meanings for ἀρχή (arch) are possible. The term is well attested in both LXX (Gen 40:13, 21; 41:13) and intertestamental Jewish literature (2 Macc 4:10, 50) as meaning “ruler, authority” (BDAG 138 s.v. 6). Some have connected this passage to Paul’s statements in Col 1:15, 18 which describe Christ as ἀρχή and πρωτότοκος (prwtotoko"; e.g., see R. H. Mounce, Revelation [NICNT], 124) but the term ἀρχή has been understood as either “beginning” or “ruler” in that passage as well. The most compelling connection is to be found in the prologue to John’s Gospel (1:2-4) where the λόγος (logos) is said to be “in the beginning (ἀρχή) with God,” a temporal reference connected with creation, and then v. 3 states that “all things were made through him.” The connection with the original creation suggests the meaning “originator” for ἀρχή here. BDAG 138 s.v. 3 gives the meaning “the first cause” for the word in Rev 3:14, a term that is too philosophical for the general reader, so the translation “originator” was used instead. BDAG also notes, “but the mng. beginning = ‘first created’ is linguistically probable (s. above 1b and Job 40:19; also CBurney, Christ as the ᾿Αρχή of Creation: JTS 27, 1926, 160-77).” Such a meaning is unlikely here, however, since the connections described above are much more probable.
+
+### Verse 15 - Note 1
+[解説]  Laodicea was near two other towns, each of which had a unique water source. To the north was Hierapolis which had a natural hot spring, often used for medicinal purposes. To the east was Colossae which had cold, pure waters. In contrast to these towns, Laodicea had no permanent supply of good water. Efforts to pipe water to the city from nearby springs were successful, but it would arrive lukewarm. The metaphor in the text is not meant to relate spiritual fervor to temperature. This would mean that Laodicea would be commended for being spiritually cold, but it is unlikely that Jesus would commend this. Instead, the metaphor condemns Laodicea for not providing spiritual healing (being hot) or spiritual refreshment (being cold) to those around them. It is a condemnation of their lack of works and lack of witness.
+
+### Verse 16 - Note 1
+[翻訳注]  Or “I intend.”
+
+### Verse 16 - Note 2
+[翻訳注]  This is the literal meaning of the Greek verb ἐμέω (emew). It is usually translated with a much weaker term like “spit out” due to the unpleasant connotations of the English verb “vomit,” as noted by L&N 23.44. The situation confronting the Laodicean church is a dire one, however, and such a term is necessary if the modern reader is to understand the gravity of the situation.
+
+### Verse 17 - Note 1
+[翻訳注]  Grk “and have become rich.” The semantic domains of the two terms for wealth here, πλούσιος (plousios, adjective) and πλουτέω (ploutew, verb) overlap considerably, but are given slightly different English translations for stylistic reasons.
+
+### Verse 17 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.
+
+### Verse 17 - Note 3
+[翻訳注]  All the terms in this series are preceded by καί (kai) in the Greek text, but contemporary English generally uses connectives only between the last two items in such a series.
+
+### Verse 18 - Note 1
+[翻訳注]  Grk “I counsel you to buy.”
+
+### Verse 18 - Note 2
+[翻訳注]  Grk “rich, and.” Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation, repeating the words “Buy from me” to make the connection clear for the English reader.
+
+### Verse 18 - Note 3
+[翻訳注]  Grk “the shame of the nakedness of you,” which has been translated as an attributed genitive like καινότητι ζωῆς (kainothti zwh") in Rom 6:4 (ExSyn 89-90).
+
+### Verse 18 - Note 4
+[解説]  The city of Laodicea had a famous medical school and exported a powder (called a “Phrygian powder”) that was widely used as an eye salve. It was applied to the eyes in the form of a paste the consistency of dough (the Greek term for the salve here, κολλούριον, kollourion [Latin collyrium], is a diminutive form of the word for a long roll of bread).
+
+### Verse 19 - Note 1
+[翻訳注]  The Greek pronoun ὅσος (Josos) means “as many as” and can be translated “All those” or “Everyone.”
+
+### Verse 20 - Note 1
+[翻訳注]  Grk “Behold.”
+
+### Verse 20 - Note 2
+[翻訳注]  Grk “come in to him.”[解説]  The expression in Greek does not mean entrance into the person, as is popularly taken, but entrance into a room or building toward the person. See ExSyn 380-82. Some interpreters understand the door here to be the door to the Laodicean church, and thus a collective or corporate image rather than an individual one.
+
+### Verse 21 - Note 1
+[翻訳注]  Grk “The one who conquers, to him I will grant.”
+
+### Verse 21 - Note 2
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.”
+
+### Verse 21 - Note 3
+[翻訳注]  Grk “I will give [grant] to him.”
+
+### Verse 21 - Note 4
+[翻訳注]  Or “have been victorious”; traditionally, “have overcome.”

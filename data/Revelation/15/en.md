@@ -1,0 +1,96 @@
+# Revelation 15 (English)
+
+## Text
+
+**1** Then I saw another great and astounding sign in heaven: seven angels who have seven final plagues (they are final because in them God’s anger is completed). 
+
+**2** Then I saw something like a sea of glass mixed with fire, and those who had conquered the beast and his image and the number of his name. They were standing by the sea of glass, holding harps given to them by God. 
+
+**3** They sang the song of Moses the servant of God and the song of the Lamb: “Great and astounding are your deeds, Lord God, the All-Powerful! Just and true are your ways, King over the nations! 
+
+**4** Who will not fear you, O Lord, and glorify your name, because you alone are holy? All nations will come and worship before you for your righteous acts have been revealed.” 
+
+**5** After these things I looked, and the temple (the tent of the testimony) was opened in heaven, 
+
+**6** and the seven angels who had the seven plagues came out of the temple, dressed in clean bright linen, wearing wide golden belts around their chests. 
+
+**7** Then one of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God who lives forever and ever, 
+
+**8** and the temple was filled with smoke from God’s glory and from his power. Thus no one could enter the temple until the seven plagues from the seven angels were completed. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence within the narrative.
+
+### Verse 1 - Note 2
+[翻訳注]  Grk “seven plagues – the last ones.”
+
+### Verse 2 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence within the narrative.
+
+### Verse 2 - Note 2
+[解説]  See Rev 4:6 where the sea of glass was mentioned previously.
+
+### Verse 2 - Note 3
+[翻訳注]  Or “had been victorious over”; traditionally, “had overcome.”
+
+### Verse 2 - Note 4
+[翻訳注]  Grk “of his name, standing.” A new sentence was started here in the translation by supplying the words “They were.”
+
+### Verse 2 - Note 5
+[翻訳注]  Or “on.” The preposition ἐπί (epi) with the accusative case could mean “on, at, by, near”; given the nature of this scene appearing in a vision, it is difficult to know precisely which the author of Revelation intended. See BDAG 363 s.v. ἐπί 1.c.γ, “At, by, near someone or someth.”
+
+### Verse 2 - Note 6
+[翻訳注]  Grk “harps of God.” The phrase τοῦ θεοῦ (tou qeou) has been translated as a genitive of agency.
+
+### Verse 3 - Note 1
+[翻訳注]  Here καί (kai) has not been translated.
+
+### Verse 3 - Note 2
+[翻訳注]  See the note on the word “servants” in 1:1.
+
+### Verse 3 - Note 3
+[翻訳注]  Grk “saying.” The participle λέγοντες (legontes) is redundant in contemporary English and has not been translated.
+
+### Verse 3 - Note 4
+[翻訳注]  On this word BDAG 755 s.v. παντοκράτωρ states, “the Almighty, All-Powerful, Omnipotent (One) only of God…(ὁ) κύριος ὁ θεὸς ὁ π. …Rv 1:8; 4:8; 11:17; 15:3; 16:7; 21:22.”
+
+### Verse 3 - Note 5
+[翻訳注]  Or “righteous,” although the context favors justice as the theme.
+
+### Verse 3 - Note 6
+A 051 Ï). The ms evidence seems to be fairly balanced, though αἰώνων has somewhat better support. The replacement of “ages” with “nations” is possibly a scribal attempt to harmonize this verse with the use of “nations” in the following verse. On the other hand, the idea of “nations” fits well with v. 4 and it may be that “ages” is a scribal attempt to assimilate this text to 1 Tim 1:17: “the king of the ages” (βασιλεὺς τῶν αἰώνων, basileu" twn aiwnwn). The decision is a difficult one since both scenarios deal well with the evidence, though the verbal parallel with 1 Tim 1:17 is exact while the parallel with v. 4 is not. The term “king” occurs 17 other times (most occurrences refer to earthly kings) in Revelation and it is not used with either “ages” or “nations” apart from this verse. Probably the reading “nations” should be considered original due to the influence of 1 Tim 1:17.
+
+### Verse 4 - Note 1
+[翻訳注]  Or “and praise.”[解説]  Jeremiah 10:7 probably stands behind the idea of fearing God, and Psalm 86:9-10 stands behind the ideas of glorifying God, his uniqueness, and the nations coming to worship him. Many other OT passages also speak about the nations “coming to his temple” to worship (Isa 2:2-3, 49:22-23, 66:23-24; Micah 4:2; Zech 8:20-22). See G. K. Beale, Revelation [NIGTC], 796-97.
+
+### Verse 4 - Note 2
+[解説]  Because you alone are holy. In the Greek text the sentence literally reads “because alone holy.” Three points can be made in connection with John’s language here: (1) Omitting the second person, singular verb “you are” lays stress on the attribute of God’s holiness. (2) The juxtaposition of alone with holy stresses the unique nature of God’s holiness and complete “otherness” in relationship to his creation. It is not just moral purity which is involved in the use of the term holy, though it certainly includes that. It is also the pervasive OT idea that although God is deeply involved in the governing of his creation, he is to be regarded as separate and distinct from it. (3) John’s use of the term holy is also intriguing since it is the term ὅσιος (Josios) and not the more common NT term ἅγιος (Jagios). The former term evokes images of Christ’s messianic status in early Christian preaching. Both Peter in Acts 2:27 and Paul in Acts 13:35 apply Psalm 16:10 (LXX) to Jesus, referring to him as the “holy one” (ὅσιος). It is also the key term in Acts 13:34 (Isa 55:3 [LXX]) where it refers to the “holy blessings” (i.e., forgiveness and justification) brought about through Jesus in fulfillment of Davidic promise. Thus, in Rev 15:3-4, when John refers to God as “holy,” using the term ὅσιος in a context where the emphasis is on both God and Christ, there might be an implicit connection between divinity and the Messiah. This is bolstered by the fact that the Lamb is referred to in other contexts as the King of Kings and Lord of Lords (cf. 1:5; 17:14; 19:16 and perhaps 11:15; G. K. Beale, Revelation [NIGTC], 796-97).
+
+### Verse 4 - Note 3
+[翻訳注]  Or “all the Gentiles” (the same Greek word may be translated “Gentiles” or “nations”).
+
+### Verse 4 - Note 4
+[翻訳注]  Or perhaps, “your sentences of condemnation.” On δικαίωμα (dikaiwma) in this context BDAG 249 s.v. 2. states, “righteous deed…δι᾿ ἑνὸς δικαιώματος (opp. παράπτωμα) Ro 5:18. – B 1:2 (cp. Wengst, Barnabas-brief 196, n.4); Rv 15:4 (here perh.= ‘sentence of condemnation’ [cp. Pla., Leg. 9, 864e; ins fr. Asia Minor: LBW 41, 2 [κατὰ] τὸ δι[καί]ωμα τὸ κυρω[θέν]= ‘acc. to the sentence which has become valid’]; difft. Wengst, s. above); 19:8.”
+
+### Verse 5 - Note 1
+[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 5 - Note 2
+[翻訳注]  On this term BDAG 928 s.v. σκηνή 1.b.α states, “ἡ σκηνὴ τοῦ μαρτυρίου the Tabernacle or Tent of Testimony (Ex 27:21; 29:4; Lev 1:1; Num 1:1 and oft.…) Ac 7:44; 1 Cl 43:2, 5,” and then continues in section 2 to state, “Rv 15:5 speaks of a ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ. God’s σκ.= dwelling is in heaven 13:6, and will some time be among humans 21:3.”
+
+### Verse 5 - Note 3
+[翻訳注]  Grk “the temple of the tent of the testimony” (ὁ ναός τῆς σκηνῆς τοῦ μαρτυρίου, Jo naos ths skhnhs tou marturiou). The genitive “of the tent” is probably an appositional genitive and should be rendered as “the temple, which is the tent.” The entire expression, then, would be “the temple which is the tent of testimony,” that is, “the heavenly equivalent of the tent or tabernacle that was with Israel in the wilderness” (G. K. Beale, Revelation [NIGTC], 801-2).[解説]  In the OT the expression “tent of the testimony” occurs frequently (130 times in Exodus through Deuteronomy). The “testimony” refers to the ten commandments, i.e., the revelation of the righteous will of God (Exod 16:34; 25:21; 31:18; 32:15; 40:24). It is little wonder that the wrath of God upon an unrighteous, lawbreaking humanity follows in John’s description.
+
+### Verse 6 - Note 1
+[翻訳注]  Or “wide golden sashes,” but these would not be diagonal, as some modern sashes are, but horizontal. The Greek term can refer to a wide band of cloth or leather worn on the outside of one’s clothing (L&N 6.178).
+
+### Verse 7 - Note 1
+[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the vision.
+
+### Verse 7 - Note 2
+[翻訳注]  Or “anger.”
+
+### Verse 8 - Note 1
+[翻訳注]  Grk “power, and no one.” A new sentence was started here in the translation. Here καί (kai) has been translated as “thus” to indicate the implied result of the temple being filled with smoke.

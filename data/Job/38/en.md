@@ -1,0 +1,252 @@
+# Job 38 (English)
+
+## Text
+
+**1** Then the Lord answered Job out of the whirlwind: 
+
+**2** “Who is this who darkens counsel with words without knowledge? 
+
+**3** Get ready for a difficult task like a man; I will question you, and you will inform me.
+
+**4** “Where were you when I laid the foundation of the earth? Tell me, if you possess understanding. 
+
+**5** Who set its measurements—if you know— or who stretched a measuring line across it?
+
+**6** On what were its bases set, or who laid its cornerstone—
+
+**7** when the morning stars sang in chorus, and all the sons of God shouted for joy? 
+
+**8** “Who shut up the sea with doors when it burst forth, coming out of the womb, 
+
+**9** when I made the storm clouds its garment and thick darkness its swaddling band, 
+
+**10** when I prescribed its limits and set in place its bolts and doors, 
+
+**11** when I said, ‘To here you may come and no farther, here your proud waves will be confined’? 
+
+**12** Have you ever in your life commanded the morning, or made the dawn know its place, 
+
+**13** that it might seize the corners of the earth and shake the wicked out of it?
+
+**14** The earth takes shape like clay under a seal; its features are dyed like a garment. 
+
+**15** Then from the wicked the light is withheld, and the arm raised in violence is broken. 
+
+**16** Have you gone to the springs that fill the sea or walked about in the recesses of the deep? 
+
+**17** Have the gates of death been revealed to you? Have you seen the gates of deepest darkness? 
+
+**18** Have you considered the vast expanses of the earth? Tell me, if you know it all. 
+
+**19** “In what direction does light reside, and darkness, where is its place, 
+
+**20** that you may take them to their borders and perceive the pathways to their homes? 
+
+**21** You know, for you were born before them; and the number of your days is great! 
+
+**22** Have you entered the storehouse of the snow or seen the armory of the hail, 
+
+**23** which I reserve for the time of trouble, for the day of war and battle? 
+
+**24** In what direction is lightning dispersed, or the east winds scattered over the earth? 
+
+**25** Who carves out a channel for the heavy rains and a path for the rumble of thunder, 
+
+**26** to cause it to rain on an uninhabited land, a wilderness where there are no human beings, 
+
+**27** to satisfy a devastated and desolate land, and to cause it to sprout with vegetation? 
+
+**28** Does the rain have a father, or who has fathered the drops of the dew? 
+
+**29** From whose womb does the ice emerge, and the frost from the sky, who gives birth to it,
+
+**30** when the waters become hard like stone, when the surface of the deep is frozen solid? 
+
+**31** Can you tie the bands of the Pleiades or release the cords of Orion? 
+
+**32** Can you lead out the constellations in their seasons or guide the Bear with its cubs? 
+
+**33** Do you know the laws of the heavens, or can you set up their rule over the earth? 
+
+**34** Can you raise your voice to the clouds so that a flood of water covers you?
+
+**35** Can you send out lightning bolts, and they go? Will they say to you, ‘Here we are’?
+
+**36** Who has put wisdom in the heart or has imparted understanding to the mind?
+
+**37** Who by wisdom can count the clouds, and who can tip over the water jars of heaven, 
+
+**38** when the dust hardens into a mass, and the clumps of earth stick together? 
+
+**39** “Do you hunt prey for the lioness and satisfy the appetite of the lions 
+
+**40** when they crouch in their dens, when they wait in ambush in the thicket? 
+
+**41** Who prepares prey for the raven, when its young cry out to God and wander about for lack of food? 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  This is the culmination of it all, the revelation of the Lord to Job. Most interpreters see here the style and content of the author of the book, a return to the beginning of the book. Here the Lord speaks to Job and displays his sovereign power and glory. Job has lived through the suffering – without cursing God. He has held to his integrity, and nowhere regretted it. But he was unaware of the real reason for the suffering, and will remain unaware throughout these speeches. God intervenes to resolve the spiritual issues that surfaced. Job was not punished for sin. And Job’s suffering had not cut him off from God. In the end the point is that Job cannot have the knowledge to make the assessments he made. It is wiser to bow in submission and adoration of God than to try to judge him. The first speech of God has these sections: the challenge (38:1-3), the surpassing mysteries of earth and sky beyond Job’s understanding (4-38), and the mysteries of animal and bird life that surpassed his understanding (38:39–39:30).
+
+### Verse 1 - Note 2
+[解説]  This is not the storm described by Elihu – in fact, the Lord ignores Elihu. The storm is a common accompaniment for a theophany (see Ezek 1:4; Nah 1:3; Zech 9:14).
+
+### Verse 2 - Note 1
+[翻訳注]  The demonstrative pronoun is used here to emphasize the interrogative pronoun (see GKC 442 §136.c).
+
+### Verse 2 - Note 2
+[解説]  The referent of “counsel” here is not the debate between Job and the friends, but the purposes of God (see Ps 33:10; Prov 19:21; Isa 19:17). Dhorme translates it “Providence.”
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “Gird up your loins.” This idiom basically describes taking the hem of the long garment or robe and pulling it up between the legs and tucking it into the front of the belt, allowing easier and freer movement of the legs. “Girding the loins” meant the preparation for some difficult task (Jer 1:17), or for battle (Isa 5:27), or for running (1 Kgs 18:46). C. Gordon suggests that it includes belt-wrestling, a form of hand-to-hand mortal combat (“Belt-wrestling in the Bible World,” HUCA 23 [1950/51]: 136).
+
+### Verse 4 - Note 1
+[翻訳注]  The construction is the infinitive construct in a temporal clause, using the preposition and the subjective genitive suffix.
+
+### Verse 4 - Note 2
+[翻訳注]  The verb is the imperative; it has no object “me” in the text.
+
+### Verse 5 - Note 1
+[翻訳注]  The particle כּ (ki) is taken here for a conditional clause, “if you know” (see GKC 498 §159.dd). Others take it as “surely” with a biting irony.
+
+### Verse 6 - Note 1
+[翻訳注]  For the interrogative serving as a genitive, see GKC 442 §136.b.
+
+### Verse 6 - Note 2
+[解説]  The world was conceived of as having bases and pillars, but these poetic descriptions should not be pressed too far (e.g., see Ps 24:2, which may be worded as much for its polemics against Canaanite mythology as anything).
+
+### Verse 7 - Note 1
+[解説]  The expression “morning stars” (Heb “stars of the morning”) is here placed in parallelism to the angels, “the sons of God.” It may refer to the angels under the imagery of the stars, or, as some prefer, it may poetically include all creation. There is a parallel also with the foundation of the temple which was accompanied by song (see Ezra 3:10,11). But then the account of the building of the original tabernacle was designed to mirror creation (see M. Fishbane, Biblical Text and Texture).
+
+### Verse 7 - Note 2
+[翻訳注]  The construction, an adverbial clause of time, uses רָנָן (ranan), which is often a ringing cry, an exultation. The parallelism with “shout for joy” shows this to be enthusiastic acclamation. The infinitive is then continued in the next colon with the vav (ו) consecutive preterite.
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “together.” This is Dhorme’s suggestion for expressing how they sang together.
+
+### Verse 7 - Note 4
+[翻訳注]  See Job 1:6.
+
+### Verse 8 - Note 1
+[翻訳注]  The MT has “and he shut up.” The Vulgate has “Who?” and so many commentaries and editions adopt this reading, if not from the Vulgate, then from the sense of the sequence in the text itself.
+
+### Verse 8 - Note 2
+[翻訳注]  The line uses two expressions, first the temporal clause with גִּיחַ (giakh, “when it burst forth”) and then the finite verb יֵצֵא (yetse’, “go out”) to mark the concomitance of the two actions.
+
+### Verse 9 - Note 1
+[翻訳注]  The temporal clause here uses the infinitive from שִׂים (sim, “to place; to put; to make”). It underscores the sovereign placing of things.
+
+### Verse 9 - Note 2
+[翻訳注]  This noun is found only here. The verb is in Ezek 16:4, and a related noun is in Ezek 30:21.
+
+### Verse 10 - Note 1
+[写本注]  The MT has “and I broke,” which cannot mean “set, prescribed” or the like. The LXX and the Vulgate have such a meaning, suggesting a verb עֲשִׁית (’ashiyt, “plan, prescribe”). A. Guillaume finds an Arabic word with a meaning “measured it by span by my decree.” Would God give himself a decree? R. Gordis simply argues that the basic meaning “break” develops the connotation of “decide, determine” (2 Sam 5:24; Job 14:3; Dan 11:36).
+
+### Verse 10 - Note 2
+[翻訳注]  Dhorme suggested reversing the two verbs, making this the first, and then “shatter” for the second colon.
+
+### Verse 11 - Note 1
+[翻訳注]  The imperfect verb receives the permission nuance here.
+
+### Verse 11 - Note 2
+[翻訳注]  The text has תֹסִיף (tosif, “and you may not add”), which is often used idiomatically (as in verbal hendiadys constructions).
+
+### Verse 11 - Note 3
+[翻訳注]  The MT literally says, “here he will put on the pride of your waves.” The verb has no expressed subject and so is made a passive voice. But there has to be some object for the verb “put,” such as “limit” or “boundary”; the translations “confined; halted; stopped” all serve to paraphrase such an idea. The LXX has “broken” at this point, suggesting the verse might have been confused – but “breaking the pride” of the waves would mean controlling them. Some commentators have followed this, exchanging the verb in v. 11 with this one.
+
+### Verse 12 - Note 1
+[翻訳注]  The Hebrew idiom is “have you from your days?” It means “never in your life” (see 1 Sam 25:28; 1 Kgs 1:6).
+
+### Verse 12 - Note 2
+[翻訳注]  The verb is the Piel of יָדַע (yada’, “to know”) with a double accusative.
+
+### Verse 13 - Note 1
+[解説]  The poetic image is that darkness or night is like a blanket that covers the earth, and at dawn it is taken by the edges and shaken out. Since the wicked function under the cover of night, they are included in the shaking when the dawn comes up.
+
+### Verse 14 - Note 1
+[解説]  The verse needs to be understood in the context: as the light shines in the dawn, the features of the earth take on a recognizable shape or form. The language is phenomenological.
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “they”; the referent (the objects or features on the earth) has been specified in the translation for clarity.
+
+### Verse 14 - Note 3
+[写本注]  The MT reads “they stand up like a garment” (NASB, NIV) or “its features stand out like a garment” (ESV). The reference could be either to embroidered decoration on a garment or to the folds of a garment (REB: “until all things stand out like the folds of a cloak”; cf. J. E. Hartley, Job [NICOT], 497, “the early light of day makes the earth appear as a beautiful garment, exquisite in design and glorious in color”). Since this is thought to be an odd statement, some suggest with Ehrlich that the text be changed to תִּצָּבַּע (titsabba’, “is dyed [like a garment]”). This reference would be to the colors appearing on the earth’s surface under daylight. The present translation follows the emendation.
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “the raised arm.” The words “in violence” are not in the Hebrew text, but are supplied in the translation to clarify the metaphor.
+
+### Verse 15 - Note 2
+[解説]  What is active at night, the violence symbolized by the raised arm, is broken with the dawn. G. R. Driver thought the whole verse referred to stars, and that the arm is the navigator’s term for the line of stars (“Two astronomical passages in the Old Testament,” JTS 4 [1953]: 208-12).
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “the springs of the sea.” The words “that fill” are supplied in the translation to clarify the meaning of the phrase.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “uncovered to you.”
+
+### Verse 17 - Note 2
+[翻訳注]  Some still retain the traditional phrase “shadow of death” in the English translation (cf. NIV). The reference is to the entrance to Sheol (see Job 10:21).
+
+### Verse 19 - Note 1
+[翻訳注]  The interrogative with דֶרֶךְ (derekh) means “in what road” or “in what direction.”
+
+### Verse 20 - Note 1
+[翻訳注]  The suffixes are singular (“that you may take it to its border…to its home”), referring to either the light or the darkness. Because either is referred to, the translation has employed plurals, since singulars would imply that only the second item, “darkness,” was the referent. Plurals are also employed by NAB and NIV.
+
+### Verse 21 - Note 1
+[翻訳注]  The imperfect verb after the adverb אָז (’az, “then”) functions as a preterite: “you were born.” The line is sarcastic.
+
+### Verse 22 - Note 1
+[解説]  Snow and ice are thought of as being in store, brought out by God for specific purposes, such as times of battle (see Josh 10:11; Exod 9:2ff.; Isa 28:17; Isa 30:30; and Ps 18:12 [13]).
+
+### Verse 22 - Note 2
+[翻訳注]  The same Hebrew term (אוֹצָר, ’otsar), has been translated “storehouse” in the first line and “armory” in the second. This has been done for stylistic variation, but also because “hail,” as one of God’s “weapons” (cf. the following verse) suggests military imagery; in this context the word refers to God’s “ammunition dump” where he stockpiles hail.
+
+### Verse 23 - Note 1
+[解説]  The terms translated war and battle are different Hebrew words, but both may be translated “war” or “battle” depending on the context.
+
+### Verse 24 - Note 1
+[翻訳注]  Because the parallel with “light” and “east wind” is not tight, Hoffmann proposed ‘ed instead, “mist.” This has been adopted by many. G. R. Driver suggests “parching heat” (“Problems in the Hebrew text of Job,” VTSup 3 [1955]: 91-92).
+
+### Verse 26 - Note 1
+[翻訳注]  Heb “on a land, no man.”
+
+### Verse 26 - Note 2
+[翻訳注]  Heb “a desert, no man in it.”
+
+### Verse 27 - Note 1
+[翻訳注]  Heb “to cause to sprout a source of vegetation.” The word מֹצָא (motsa’) is rendered “mine” in Job 28:1. The suggestion with the least changes is Wright’s: צָמֵא (tsame’, “thirsty”). But others choose מִצִּיָּה (mitsiyyah, “from the steppe”).
+
+### Verse 29 - Note 1
+[翻訳注]  Or “heavens.” The Hebrew term שָׁמַיִם (shamayim) may be translated “heaven(s)” or “sky” depending on the context.
+
+### Verse 30 - Note 1
+[翻訳注]  Several suggest that the verb is not from חָבָא (khava’, “to hide”) but from a homonym, “to congeal.” This may be too difficult to support, however.
+
+### Verse 31 - Note 1
+[翻訳注]  This word is found here and in 1 Sam 15:32. Dhorme suggests, with others, that there has been a metathesis (a reversal of consonants), and it is the same word found in Job 31:36 (“bind”). G. R. Driver takes it as “cluster” without changing the text (“Two astronomical passages in the Old Testament,” JTS 7 [1956] :3).
+
+### Verse 32 - Note 1
+[翻訳注]  The word מַזָּרוֹת (mazzarot) is taken by some to refer to the constellations (see 2 Kgs 23:5), and by others as connected to the word for “crown,” and so “corona.”
+
+### Verse 32 - Note 2
+[解説]  See Job 9:9.
+
+### Verse 34 - Note 1
+[写本注]  The LXX has “answer you,” and some editors have adopted this. However, the reading of the MT makes better sense in the verse.
+
+### Verse 36 - Note 1
+[翻訳注]  This verse is difficult because of the two words, טֻחוֹת (tukhot, rendered here “heart”) and שֶׂכְוִי (sekhvi, here “mind”). They have been translated a number of ways: “meteor” and “celestial appearance”; the stars “Procyon” and “Sirius”; “inward part” and “mind”; even as birds, “ibis” and “cock.” One expects them to have something to do with nature – clouds and the like. The RSV accordingly took them to mean “meteor” (from a verb “to wander”) and “a celestial appearance.” But these meanings are not well-attested.
+
+### Verse 37 - Note 1
+[翻訳注]  The word actually means “to cause to lie down.”
+
+### Verse 38 - Note 1
+[翻訳注]  The word means “to flow” or “to cast” (as in casting metals). So the noun developed the sense of “hard,” as in cast metal.
+
+### Verse 39 - Note 1
+[翻訳注]  Heb “fill up the life of.”
+
+### Verse 41 - Note 1
+[翻訳注]  The verse is difficult, making some suspect that a line has dropped out. The little birds in the nest hardly go wandering about looking for food. Dhorme suggest “and stagger for lack of food.”

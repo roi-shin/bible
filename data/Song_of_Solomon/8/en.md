@@ -1,0 +1,168 @@
+# Song of Solomon 8 (English)
+
+## Text
+
+**1** <b>The Beloved to Her Lover:</b> Oh, how I wish you were my little brother, nursing at my mother’s breasts; if I saw you outside, I could kiss you— surely no one would despise me!
+
+**2** I would lead you and bring you to my mother’s house, the one who taught me. I would give you spiced wine to drink, the nectar of my pomegranates. 
+
+**3** <b>The Beloved about Her Lover:</b> His left hand is under my head, and his right hand embraces me.
+
+**4** <b>The Beloved to the Maidens:</b> I admonish you, O maidens of Jerusalem: “Do not arouse or awaken love until it pleases!” 
+
+**5** <b>The Maidens about His Beloved:</b> Who is this coming up from the wilderness, leaning on her beloved?<b>The Beloved to Her Lover:</b> Under the apple tree I aroused you; there your mother conceived you; there she who bore you was in labor of childbirth. 
+
+**6** <b>The Beloved to Her Lover:</b> Set me like a cylinder seal over your heart, like a signet on your arm. For love is as strong as death; passion is as unrelenting as Sheol. Its flames burst forth; it is a blazing flame. 
+
+**7** Surging waters cannot quench love; floodwaters cannot overflow it. If someone were to offer all his possessions to buy love, the offer would be utterly despised. 
+
+**8** <b>The Beloved’s Brothers:</b> We have a little sister, and as yet she has no breasts. What shall we do for our sister on the day when she is spoken for?
+
+**9** If she is a wall, we will build on her a battlement of silver; but if she is a door, we will barricade her with boards of cedar. 
+
+**10** <b>The Beloved:</b> I was a wall, and my breasts were like fortress towers. Then I found favor in his eyes. 
+
+**11** <b>The Beloved to Her Lover:</b> Solomon had a vineyard at Baal Hamon; he leased out the vineyard to those who maintained it. Each was to bring 1,000 shekels of silver for its fruit. 
+
+**12** My vineyard, which belongs to me, is at my disposal alone. The thousand shekels belong to you, O Solomon, and 200 shekels belong to those who maintain it for its fruit. 
+
+**13** <b>The Lover to His Beloved:</b> O you who stay in the gardens, my companions are listening attentively for your voice; let me be the one to hear it!
+
+**14** <b>The Beloved to Her Lover:</b> Make haste, my beloved! Be like a gazelle or a young stag on the mountains of spices. 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  The imperfect יִתֶּנְךָ (yittenka) may denote a desire or wish of the subject, e.g., Gen 24:58; Exod 21:36; 1 Sam 21:10 (IBHS 509 §31.4h). The optative particle מִי (mi) with an imperfect expresses an unreal wish, e.g., Judg 9:29; 2 Sam 15:4; Mal 1:10. The construction יִתֶּנְךָ מִי (mi yittenka) is an idiom expressing an unreal wish in the optative mood (HALOT 575 s.v. מִי), e.g., “Would that it were evening…Would that it were morning!” (KJV) or “If only it were evening…If only it were morning!” (NIV) (Deut 28:67); “Oh that I knew where I might find him” (KJV, NASB, NJPS), “I wish I had known,” “If only I knew where to find him; if only I could go to his dwelling!” (NIV) (Job 23:3); “I wish that all the LORD’s people were prophets!” (NIV), “Would that all the LORD’s people were prophets” (NASB) (Num 11:29). Evidently, the LXX did not understand the idiom; it rendered the line in wooden literalness: Τίς δώῃ σε ἀδελφιδόν μου (Tis dwh se adelfidon mou, “Who might give/make you as my brother?”).
+
+### Verse 1 - Note 2
+[翻訳注]  Heb “you were to me like a brother.”
+
+### Verse 1 - Note 3
+[翻訳注]  Heb “found” or “met.” The juxtaposition of the two imperfects without an adjoining vav forms a conditional clause denoting a real condition (GKC 493 §159.b). The first imperfect is the protasis; the second is the apodosis: “If I found you אֶמְצָאֲךָ (’emtsa’aka) outside, I would kiss you (אֶשָּׁקְךָ, ’eshshaqÿkha).” The imperfects are used to express a condition and consequence which are regarded as being capable of fulfillment in the present or future time (GKC 493 §159.b). The simple juxtaposition of two verbal clauses without any grammatical indicator, such as vav or a conditional particle, is rather rare: “If you rebel (תִּמְעָלוּ, tim’alu), I will disperse you (אָפִיץ, ’afits) among the nations” (Neh 1:8); “If I counted them (אֶסְפְּרֵם, ’esppÿrem), they would be more numerous (יִרְבּוּן, yirbun) than the sand!” (Ps 139:18); “If a man has found a wife (מָצָא, matsa’), he has found (מָצָא) a good thing” (Prov 18:22) (Joüon 2:627 §167.a.1). On the other hand, LXX treated the imperfects as denoting future temporal sequence: εὑροῦσά σε ἒξω, φιλήσω σε (eurousa se exw, filhsw se, “I will find you outside, I will kiss you”). Ordinarily, however, vav or a temporal particle introduces a temporal clause (Joüon 2:627 §167.a; GKC 502 §164.d). The English translation tradition generally adopts the conditional nuance: “If I found you outdoors, I would kiss you” (NASB), “Then, if I found you outside, I would kiss you” (NIV). However, a few translations adopt the temporal nuance: “When I should find thee without, I would kiss thee” (KJV), “Then I could kiss you when I met you in the street” (NJPS).
+
+### Verse 1 - Note 4
+[翻訳注]  The particle גַּם (gam, “surely”) is used with לֹא (lo’, “no one”) for emphasis: “yea, none” (HALOT 195 s.v. גַּם). Similar examples: לֹא...גָם אָחַד (lo’…gam ’ekhad, “not even one”; 2 Sam 17:12); גַּם אֵין (gam ’en, “yet there is no one”; Eccl 4:8).
+
+### Verse 1 - Note 5
+[解説]  Song 8:1-2 may be classified as a “a lover’s wish song” that is similar in content and structure to an ancient Egyptian love song in which the lover longs for greater intimacy with his beloved: “I wish I were her Negro maid who follows at her feet; then the skin of all her limbs would be revealed to me. I wish I were her washerman, if only for a month; then I would be [entranced], washing out the Moringa oils in her diaphanous garments. I wish I were the seal ring, the guardian of her [fingers]; then […]” (The Cairo Love Songs, 25-27, in W. K. Simpson, ed., The Literature of Ancient Egypt, 311). The Egyptian and Hebrew parallels display a similar structure: (1) introductory expression of the lover’s wish to be something/someone in a position of physical closeness with the Beloved; (2) description of the person/thing that is physically close to the Beloved; and (3) concluding description of the resultant greater degree of intimacy with the Beloved. In the Egyptian parallel it is the man who longs for greater closeness; in the Hebrew song it is the woman. The Egyptian love song borders on the sensual; the Hebrew love song is simply romantic. The Beloved expresses her desire for greater freedom to display her affection for Solomon. In ancient Near Eastern cultures the public display of affection between a man and woman was frowned upon – sometimes even punished. For example, in Assyrian laws the punishment for a man kissing a woman in public was to cut off his upper lip. On the other hand, public displays of affection between children and between family members were allowed. Accordingly, the Beloved hyperbolically wished that she and Solomon were children from the same family so she could kiss him anytime she wished without fear of punishment or censure.
+
+### Verse 2 - Note 1
+[写本注]  The MT reads אֶנְהָגֲךָ אֶל־בֵּית אִמִּי תְּלַמְּדֵנִי (’enhagakha ’el-bet ’immi tÿlammÿdeni, “I would bring you to the house of my mother who taught me”). On the other hand, the LXX reads Εἰσάξω σε εἰς οἶκον μητρός μου καὶ εἰς ταμίειον τῆς συλλαβούση με (Eisaxw se eis oikon mhtpos mou kai eis tamieion ths sullaboush me) which reflects a Hebrew reading of אֶנְהָגֲךָ אֶל־בֵּית אִמִּי וְאֶל חֶדֶר הוֹרָתִי (’enhagakha ’el-bet ’immi vÿ’el kheder horati, “I would bring you to the house of my mother, to the chamber of the one who bore me”), followed by NRSV. The LXX variant probably arose due to: (1) the syntactical awkwardness of תְּלַמְּדֵנִי (“she taught me” or “she will teach me”), (2) the perceived need for a parallel to אֶל־בֵּית אִמִּי (“to the house of my mother”), and (3) the influence of Song 3:4 which reads: עַד־שֶׁהֲבֵיאתִיו אֶל־בֵּית אִמִּי וְאֶל חֶדֶר הוֹרָתִי (’ad-sheheve’tiv ’el-bet ’immi vÿ’el kheder horati, “until I brought him to the house of my mother, to the chamber of the one who bore me”). The MT reading should be adopted because (1) it is the more difficult reading, (2) it best explains the origin of the LXX variant, and (3) the origin of the LXX variant is easily understood in the light of Song 3:4.[翻訳注]  The verb תְּלַמְּדֵנִי (tÿlammÿdeni) may be rendered in two basic ways: (1) future action: “she will teach me” or more likely as (2) past customary action: “who would instruct me” (KJV), “who used to instruct me” (NASB), “she who has taught me” (NIV), “she who taught me” (NJPS). This is an example of casus pendus in which the subject of the verb serves as a relative pronoun to the antecedent noun (“my mother”). The JPS parses תְּלַמְּדֵנִי as 2nd person masculine singular (“that you might instruct me”) rather than 3rd person feminine singular (“she would teach me”). However, this would obscure the imagery: The Beloved wished that Solomon was her little brother still nursing on her mother’s breast. The Beloved, who had learned from her mother’s example, would bring him inside their home and she would give him her breast: “I would give you spiced wine to drink, the nectar of my pomegranates.”
+
+### Verse 2 - Note 2
+[解説]  Continuing the little brother/older sister imagery of 8:1, the Beloved suggests that if she had been an older sister and he had been her little brother, she would have been able to nurse Solomon. This is a euphemism for her sensual desire to offer her breasts to Solomon in marital lovemaking.
+
+### Verse 2 - Note 3
+[翻訳注]  Alternately “wine, that is, spiced mixture.” The term רֶקַח (reqakh, “spice mixture, spices”) refers to ground herbs that were tasty additives to wine (HALOT 1290 s.v. רֶקַח).[写本注]  The Masoretic vocalization of מִיַּיִן הָרֶקַח (miyyayin hareqakh) suggests that הָרֶקַח (“spiced mixture”) stands in apposition to מִיַּיִן (“wine”): “wine, that is, spiced mixture.” However, several Hebrew mss read the genitive-construct vocalization מִיַּיִן הָרֶקַח (“spiced wine”). This alternate vocalization tradition is reflected in the Targum and other versions, such as the LXX. The genitive noun הָרֶקַח (“spices, spiced mixture”) functions as an adjective modifying the preceding construct noun יַיִן (“wine”).
+
+### Verse 2 - Note 4
+[解説]  There is a phonetic wordplay (paronomasia) between אֶשָּׁקְךָ (’eshshaqÿkha, “I would kiss you” from נָשַׁק, nashaq, “to kiss”) in 8:1 and אַשְׁקְךָ (’ashqÿkha, “I would cause you to drink” from שָׁקָה, shaqah, “to drink”) in 8:2. This wordplay draws attention to the unity of her “wish song” in 8:1-2. In 8:1 the Beloved expresses her desire to kiss Solomon on the lips when they are outdoors; while in 8:2 she expresses her desire for Solomon to kiss her breasts when they are in the privacy of her home indoors.
+
+### Verse 2 - Note 5
+[解説]  This statement is a euphemism: the Beloved wished to give her breasts to Solomon, like a mother would give her breast to her nursing baby. This is the climactic point of the “lover’s wish song” of Song 8:1-2. The Beloved wished that Solomon was her little brother still nursing on her mother’s breast. The Beloved, who had learned from her mother’s example, would bring him inside their home and she would give him her breast: “I would give you spiced wine to drink, the nectar of my pomegranates.” The phrase “my pomegranates” is a euphemism for her breasts. Rather than providing milk from her breasts for a nursing baby, the Beloved’s breasts would provide the sensual delight of “spiced wine” and “nectar” for her lover.[写本注]  The MT reads the singular noun with 1st person common singular suffix רִמֹּנִי (rimmoni, “my pomegranate”). However, many Hebrew mss preserve an alternate textual tradition of a plural noun without the 1st person common singular suffix רִמֹּנִים (rimmonim, “pomegranates”), which is also reflected in the Aramaic Targum. However, LXX ῥοῶν μου ({rown mou, “the nectar of my pomegranates”) reflects both the plural noun and the 1st person common singular suffix. Therefore, R. Gordis suggests that MT רִמֹּנִי is an apocopated plural with a 1st person common singular suffix: “my pomegranates.”
+
+### Verse 3 - Note 1
+[翻訳注]  See the notes on 2:6, which is parallel to this verse.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “daughters of Jerusalem.”
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “Why arouse or awaken …?” Although the particle מָה (mah) is used most often as an interrogative pronoun (“What?” “Why?”), it also can be used as a particle of negation. For example, “How (מָה) could I look at a girl?” means “I have not looked at a girl!” (Job 31:1); “What (מַה) do we have to drink?” means “We have nothing to drink” (Exod 15:24); “What (מַה) part do we have?” means “We have no part” (1 Kgs 12:16); and “Why (מַה) arouse or awaken love?” means “Do not arouse or awaken love!” (Song 8:4). See HALOT 551 s.v. מָה C.
+
+### Verse 5 - Note 1
+[解説]  The imagery of v. 6 is romantic: (1) His mother originally conceived him with his father under the apple tree, (2) his mother gave birth to him under the apple tree, and (3) the Beloved had now awakened him to love under the same apple tree. The cycle of life and love had come around full circle under the apple tree. While his mother had awakened his eyes to life, the Beloved had awakened him to love. His parents had made love under the apple tree to conceive him in love, and now Solomon and his Beloved were making love under the same apple tree of love.
+
+### Verse 5 - Note 2
+[翻訳注]  Or “went into labor.” The verb חָבַל (khaval, “become pregnant”) is repeated in 8:6b and 8:6c, and has a two-fold range of meaning: (1) transitive: “to conceive [a child]” and (2) intransitive: “to be in travail [of childbirth]” (HALOT 286 s.v. IV חבל). In 8:6b it denotes “to conceive,” and in 8:6c it is “to be in travail [of childbirth].”
+
+### Verse 6 - Note 1
+[解説]  In the ancient Near East חוֹתָם (khotam, “seal”) was used to denote ownership and was thus very valuable (Jer 22:24; Hag 2:23; Eccl 17:22). Seals were used to make a stamp impression to identify the object as the property of the seal’s owner (HALOT 300 s.v. I חוֹתָם). Seals were made of semi-precious stone upon which was engraved a unique design and an inscription, e.g., LMLK [PN] “belonging to king […].” The impression could be placed upon wet clay of a jar or on a writing tablet by rolling the seal across the clay. Because it was a valuable possession its owner would take careful precautions to not lose it and would keep it close to him at all times.
+
+### Verse 6 - Note 2
+[翻訳注]  The term לֵבָב (levav, “heart”) is used figuratively here as (1) a metonymy (container for the thing contained) for his chest over which the cylinder seal was hung or (2) a metonymy (concrete body part for the abstract emotions with which it is associated) for his emotions, such as love and loyalty to the Beloved (e.g., Judg 16:25; Ruth 3:7; 1 Sam 25:36; 2 Sam 13:28; 1 Kgs 8:66) (HALOT 514-15 s.v. לֵב) (see H. W. Wolff, Anthropology of the Old Testament, 40-58).[解説]  There were two kinds of cylinder seals in the ancient Near East, namely, those worn around one’s neck and those worn around one’s wrist. The typical Mesopotamian seal was mounted on a pin and hung on a string or necklace around one’s neck. The cylinder seal hung around one’s neck would, figuratively speaking, rest over the heart (metonymy of association). The Beloved wished to be to Solomon like a cylinder seal worn over his heart. She wanted to be as intimate with her lover as the seal worn by him (W. W. Hallo, “‘As the Seal Upon Thy Heart’: Glyptic Roles in the Biblical World,” BRev 2 [1985]: 26).
+
+### Verse 6 - Note 3
+[翻訳注]  Literally “cylinder-seal” or “seal.” The term חוֹתָם (khotam, “cylinder-seal”) is repeated in 8:6 for emphasis. The translation above uses the terms “cylinder seal” and “signet” simply for the sake of poetic variation. The Beloved wanted to be as safe and secure as a cylinder seal worn on the arm or around the neck, hanging down over the heart. She also wanted to be placed on his heart (emotions), like the impression of a cylinder seal is written on a document. She wanted to be “written” on his heart like the impression of a cylinder seal, and kept secure in his love as a signet ring is worn around his arm/hand to keep it safe.
+
+### Verse 6 - Note 4
+[翻訳注]  Alternately, “wrist.” In Palestine cylinder seals were often hung on a bracelet worn around one’s wrist. The cylinder seal was mounted on a pin hanging from a bracelet. The cylinder seal in view in Song 8:6 could be a stamp seal hung from a bracelet of a type known from excavations in Israel. See W. W. Hallo, “‘As the Seal Upon Thy Heart’: Glyptic Roles in the Biblical World,” BRev 2 (1985): 26.
+
+### Verse 6 - Note 5
+[解説]  It was a common practice in the ancient world to compare intense feelings to death. The point of the expression “love is as strong as death” means that love is extremely strong. The expression “love is as cruel as Sheol” may simply mean that love can be profoundly cruel. For example: “His soul was vexed to death,” means that he could not stand it any longer (Judg 16:16). “I do well to be angry to death,” means that he was extremely angry (Jonah 4:9). “My soul is sorrowful to death,” means that he was exceedingly sorrowful (Matt 26:38 = Mark 14:34) (D. W. Thomas, “A Consideration of Some Unusual Ways of Expressing the Superlative in Hebrew,” VT 3 [1953]: 220-21).
+
+### Verse 6 - Note 6
+[翻訳注]  Alternately, “jealousy.” The noun קִנְאָה (qin’ah) has a wide range of meanings: “jealousy” (Prov 6:34; 14:30; 27:4), “competitiveness” (Eccl 4:4; 9:6), “anger” (Num 5:14, 30), “zeal” (2 Kgs 10:16; Pss 69:10; 119:139; Job 5:2; Sir 30:24), and “passion” (Song 8:6). The Hebrew noun is related to the Akkadian and Arabic roots that mean “to become intensely red” or “become red with passion,” suggesting that the root denotes strong emotion. Although קִנְאָה is traditionally rendered “jealousy” (KJV, RSV, NASB, NIV), the parallelism with אַהֲבָה (’ahavah, “love”) suggests the nuance “passion” (NJPS). Coppes notes, “This word is translated in the KJV in a bad sense in Song 8:6, ‘jealousy is as cruel as the grave,’ but it could be taken in a good sense in parallel with the preceding, ‘ardent zeal is as strong as the grave’” (TWOT 2:803).
+
+### Verse 6 - Note 7
+[翻訳注]  Heb “harsh” or “severe.”
+
+### Verse 6 - Note 8
+[翻訳注]  Heb “Its flames are flames of fire.”
+
+### Verse 6 - Note 9
+[翻訳注]  The noun שַׁלְהֶבֶתְיָה (shalhevetyah, “mighty flame”) is related to the nouns שַׁלְהֶבֶת (shalhevet, “flame”), לֶהָבָה (lehavah, “flame”), and לַהַב (lahav, “flame”), all of which are derived from the root להב “to burn, blaze, flame up” (HALOT 520 s.v. לַהַב). The form שַׁלְהֶבֶתְיָה is an unusual noun pattern with (1) a prefix ־שׁ that is common in Akkadian but rare in Hebrew; it has an intensive adjective meaning, (2) a feminine ־ת ending, and (3) a suffix ־יָה whose meaning is debated. The suffix ־יָה has been taken in three ways by scholars and translators: (1) יָה is an abbreviated form of the divine name יהוה (“Yahweh”), functioning as a genitive of source: “the flame of the Lord” (NASB). The abbreviated form יָהּ is used only in poetic texts as a poetic variation of יהוה (e.g., Exod 15:2; 17:16; Pss 68:5, 19; 77:12; 89:9; 94:7, 12; 102:19; 104:35; 105:45; 106:1, 48; 111:1; 112:1; 113:1, 9; 115:17, 18; 116:19; 117:2; 118:5, 14, 17-19; 122:4; 130:3; 135:1, 3, 4, 21; 146:1, 10; 147:1, 20; 148:1, 14; 149:1, 9; 150:1, 6; Isa 12:2; 26:4; 38:11). However, the Masoretes did not point the text as שַׁלְהֶבֶת־יָהּ (shalhevet-yah) with maqqep and daghesh in the הּ, as would be the case with the divine name. (2) Thomas suggests that, just as אֱלֹהִים (’elohim) and אֵל (’el) are sometimes used to express superlatives or intensive ideas, so יָה expresses the superlative/intensive: “a mighty flame” (D. W. Thomas, “A Consideration of Some Unusual Ways of Expressing the Superlative in Hebrew,” VT 3 [1953]: 209-24). Examples of אֱלֹהִים (’elohim): “a mighty wind” (Gen 1:2), “a mighty prince” (Gen 23:6), “a great struggle” (Gen 30:8), “a great fire” (Job 1:16), “an exceeding great city” (Jonah 3:3). Examples of אֵל (’el): “the mighty mountains” (Ps 36:7) and “the mighty cedars” (Ps 80:11). Examples of יָה (yah) suffixed: “darkest gloom” (Jer 2:31), “mighty deeds” (Jer 32:19), and “mighty deeds” (Ps 77:12). (3) The most likely view is that יָה is an intensive adjectival suffix, similar to –iy and –ay and –awi in Aramaic, Akkadian, and Arabic: “a most vehement flame” (KJV), “a mighty flame” (RSV, NIV), and “a blazing flame” (NJPS). This also best explains “darkest gloom” (Jer 2:31), and “mighty deeds” (Jer 32:19) (see S. Moscati, Comparative Grammar, 81, §12.18, and 83, §12.23).
+
+### Verse 7 - Note 1
+[翻訳注]  Heb “rivers.”
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “all the wealth of his house.”
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “for love.” The preposition בְּ (bÿ) on בָּאַהֲבָה (ba’ahavah, “for love”) indicates the price or exchange in trading (HALOT 105 s.v. בְּ 17), e.g., “Give me your vineyard in exchange for silver [בְּכֶסֶף, bÿkhesef]” (1 Kgs 21:6).
+
+### Verse 7 - Note 4
+[翻訳注]  Heb “he/it.” The referent (the offer of possessions) has been specified in the translation for clarity. Some English versions take the referent to be the man himself (ASV “He would utterly be condemned”; NAB “he would be roundly mocked”). Others take the offer as the referent (cf. KJV, NASB, NIV, NRSV “it”).
+
+### Verse 7 - Note 5
+[翻訳注]  The root בּוּז (buz, “to despise”) is repeated for emphasis: בּוֹז יָבוּזּוּ (boz yavuzu). The infinitive absolute frequently is used with the imperfect of the same root for emphasis. The point is simply that love cannot be purchased; it is infinitely more valuable than any and all wealth. Love such as this is priceless; no price tag can be put on love.
+
+### Verse 8 - Note 1
+[解説]  The Beloved’s brothers knew that once a couple is betrothed, sexual temptations would be at their greatest. Thus, in v. 9 they devise a plan to protect the purity of their sister: If she is a virtuous young woman, they would reward her; however, if she is prone to temptation, they will restrain her and guard her from promiscuity.
+
+### Verse 9 - Note 1
+[解説]  The simile if she is a wall draws a comparison between the impregnability of a city fortified with a strong outer wall and a virtuous young woman who successfully resists any assaults against her virginity. The term חוֹמָה (khomah, “wall”) often refers to an outside fortress wall that protects the city from enemy military attacks (e.g., Lev 25:29-30; Josh 6:5; 1 Kgs 3:1; Neh 2:8; 12:27; Jer 1:8; 15:20).
+
+### Verse 9 - Note 2
+[解説]  The term טִירָה (tirah, “battlement, turret”) refers to the row of stones along the top of a fortress wall, set for the defense and stability of the wall (Ezek 46:23; cf. HALOT 374 s.v. טִירָה). This structure is connected with military operations set in defense of a siege.
+
+### Verse 9 - Note 3
+[解説]  The verb צוּר (tsur, “to surround, encircle, enclose”) is often used in military contexts in reference to the siege or defense of a fortress city: (1) setting up military positions (siege walls) to surround a besieged city (e.g., Isa 29:3); (2) encircling and laying siege to a city (e.g., Deut 20:12, 19; 2 Sam 11:1; 1 Kgs 15:27; 16:17; 20:1; 2 Kgs 6:24-25; 17:5; 19:9; 24:11; 1 Chr 20:1; Isa 21:2; 29:3; Jer 21:4, 9; 32:2; 37:5; 39:1; Ezek 4:3; Dan 1:1); (3) enclosing a city with sentries (e.g., Isa 29:3); (4) shutting a person within a city (1 Sam 23:8; 2 Sam 20:15; 2 Kgs 16:5); and (5) barricading a city door shut to prevent the city from being broken into and conquered (e.g., Song 8:7) (HALOT 1015 s.v. I צור).
+
+### Verse 9 - Note 4
+[翻訳注]  Heb “a board.” The singular noun לוּחַ (lukha, “board, plank”) may denote a singular of number or a collective.
+
+### Verse 9 - Note 5
+[解説]  An interesting semantic parallel involving the “door/bar” motif in ancient Near Eastern texts comes from an Assyrian charm against an enemy: “If he is a door, I will open your mouth; but if he is a bar, I will open your tongue.” Obviously, the line in the Song is not an incantation; the formula is used in a love motif. Cited by J. Ebeling, “Aus dem Tagewerk eines assyrischen Zauberpriesters,” MAOG 5 (1931): 19.
+
+### Verse 10 - Note 1
+[解説]  The noun מִגְדָּל (migdal, “tower”) can refer to the watchtowers of a fortified city (2 Kgs 17:9; 18:8; 2 Chr 26:9), projecting median towers along the fortified city wall which were crucial to the defense of the city (2 Chr 14:6; 26:15; 32:5), or fortress towers in the countryside set for the defense of the land (Judg 9:52; 2 Chr 27:4; Ezek 27:11) (HALOT 544 s.v. I מִגְדָּל). The Beloved mixes metaphors by describing her breasts with a comparison of sense and a comparison of sight: (1) Comparison of sense: She successfully defended her virginity and sexual purity from seduction, as fortress towers defended the city. (2) Comparison of sight: Just as the fortress towers along a city wall projected out at the corners of the wall, the Beloved’s breasts finally developed into beautiful “towers” (see 8:8 when she had no breasts as a young girl).
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “peace.” An eloquent wordplay is created by the use of the noun שָׁלוֹם (shalom, “peace, favor”) in 8:10b and the name שְׁלֹמֹה (shÿlomoh, “Solomon”) in 8:11a. The Beloved found “favor” (שָׁלוֹם) in the eyes of Solomon (שְׁלֹמֹה). She won his heart because she was not only a beautiful young woman (“my breasts were like fortress towers”), but a virtuous woman (“I was a wall”).
+
+### Verse 10 - Note 3
+[翻訳注]  Heb “Then I became in his eyes as one who finds peace.”
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “gave.”
+
+### Verse 12 - Note 1
+[解説]  The term כֶּרֶם (kerem, “vineyard”) is used literally in 8:11 in reference to Solomon’s physical vineyard, but in 8:12 it is used figuratively (hypocatastasis) in reference to the Beloved: כַּרְמִי (karmi, “my vineyard”). Throughout the Song, the term כֶּרֶם (“vineyard”) is used figuratively (Song 1:6; 2:15; 8:12). In 8:12 it is used in reference to either (1) herself, (2) her choice of whom to give herself to in love, or (3) her physical body. In contrast to Solomon’s physical vineyard, whose fruit can be bought and sold (8:11), she is not for sale: She will only give herself freely to the one whom she chooses to love.
+
+### Verse 12 - Note 2
+[翻訳注]  Each of the three terms in this line has the 1st person common singular suffix which is repeated three times for emphasis: כַּרְמִי (karmi, “my vineyard”), שֶׁלִּי (shelli, “which belongs to me”), and לְפָנָי (lÿfana, “at my disposal”). In contrast to King Solomon, who owns the vineyard at Baal-Hamon and who can buy and sell anything in the vineyard that he wishes, she proclaims that her “vineyard” (= herself or her body) belongs to her alone. In contrast to the vineyard, which can be leased out, and its fruit, which can be bought or sold, her “vineyard” is not for sale. Her love must and is to be freely given.
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “[it is] before me.” The particle לְפָנָי (lÿfana) can denote “at the disposal of” (e.g., Gen 13:9; 20:15; 24:51; 34:10; 47:6; Jer 40:4; 2 Chr 14:6) (HALOT 9 s.v. פָּנֶה 4.f; BDB 817 s.v. פנה 4.a.f). Similar to Akkadian ana pan “at the disposal of” (AHw 2:821.a, paragraph 20), the term is used in reference to a sovereign (usually a land-owner or king) who has full power over his property to dispose of as he wishes, e.g., “The whole country is at your disposal [לְפָנֶיךָ, lÿfaneka]” (Gen 13:9). In Song 8:12 the form לְפָנָי has the 1st person common singular suffix: “My vineyard, which belongs to me, is at my disposal.”
+
+### Verse 13 - Note 1
+[翻訳注]  The term מַקְשִׁיבִים (maqshivim) is in the Hiphil stem which denotes an intense desire to hear someone’s voice, that is, to eagerly listen for someone’s voice (e.g., Jer 6:17) (HALOT 1151 s.v. קשׁב 1). The participle functions verbally and denotes a continual, ongoing, durative action.
+
+### Verse 13 - Note 2
+[写本注]  The editors of BHS suggests that גַם אָנִי (gam ’ani, “me also”) should be inserted. Although there is no textual evidence for the insertion, it seems clear that the 1st person common singular referent is emphatic in MT הַשְׁמִיעִינִי (hashmi’ini, “Let me hear it!”).
+
+### Verse 13 - Note 3
+[翻訳注]  The imperative הַשְׁמִיעִינִי (hashmi’ini) functions as a request. The lover asks his beloved to let him hear her beautiful voice (e.g., Song 2:14).

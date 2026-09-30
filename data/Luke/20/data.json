@@ -1,0 +1,879 @@
+{
+  "book": "Luke",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now one day, as Jesus was teaching the people in the temple courts and proclaiming the gospel, the chief priests and the experts in the law with the elders came up ",
+      "ja": "ある日、イエスが宮の庭で民に教え、福音を宣べ伝えておられたとき、祭司長たちや律法学者たちが長老たちと共に近寄って来て、"
+    },
+    {
+      "verse": 2,
+      "en": "and said to him, “Tell us: By what authority are you doing these things? Or who is it who gave you this authority?” ",
+      "ja": "イエスにこう言った。「教えてください。あなたは一体何の権威によってこれらの事を行っているのですか。また、あなたにこの権威を与えたのは誰なのですか」"
+    },
+    {
+      "verse": 3,
+      "en": "He answered them, “I will also ask you a question, and you tell me: ",
+      "ja": "イエスは彼らに答えられた。「わたしも一つあなたたちに尋ねる。それに答えなさい。"
+    },
+    {
+      "verse": 4,
+      "en": "John’s baptism—was it from heaven or from people?” ",
+      "ja": "ヨハネのバプテスマは、天からのものだったか、それとも人からのものだったか」"
+    },
+    {
+      "verse": 5,
+      "en": "So they discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’ ",
+      "ja": "そこで彼らは互いに議論して言った。「もし『天から』と言えば、『では、なぜ彼を信じなかったのか』と言うだろう。"
+    },
+    {
+      "verse": 6,
+      "en": "But if we say, ‘From people,’ all the people will stone us because they are convinced that John was a prophet.” ",
+      "ja": "しかし、『人から』と言えば、民衆全体が我々を石で打ち殺すだろう。民衆はヨハネを預言者と確信しているからだ」"
+    },
+    {
+      "verse": 7,
+      "en": "So they replied that they did not know where it came from.",
+      "ja": "そこで彼らは、それがどこからのものか分からないと答えた。"
+    },
+    {
+      "verse": 8,
+      "en": "Then Jesus said to them, “Neither will I tell you by whose authority I do these things.” ",
+      "ja": "するとイエスは彼らに言われた。「では、わたしも何の権威によってこれらの事を行うのか、あなたたちに言うまい」"
+    },
+    {
+      "verse": 9,
+      "en": "Then he began to tell the people this parable: “A man planted a vineyard, leased it to tenant farmers, and went on a journey for a long time. ",
+      "ja": "それからイエスは、このたとえ話を民衆に話し始められた。「ある人がぶどう園を造り、これを農夫たちに貸して、長い旅に出かけた。"
+    },
+    {
+      "verse": 10,
+      "en": "When harvest time came, he sent a slave to the tenants so that they would give him his portion of the crop. However, the tenants beat his slave and sent him away empty-handed. ",
+      "ja": "収穫の時期になったので、その主人は収穫の一部を受け取るために一人の奴隷を農夫たちのところに遣わした。しかし、農夫たちはその奴隷を袋叩きにし、何も持たせずに追い返した。"
+    },
+    {
+      "verse": 11,
+      "en": "So he sent another slave. They beat this one too, treated him outrageously, and sent him away empty-handed. ",
+      "ja": "そこで主人はもう一人の奴隷を遣わした。しかし彼らは、この奴隷をも袋叩きにし、ひどく侮辱して、何も持たせずに追い返した。"
+    },
+    {
+      "verse": 12,
+      "en": "So he sent still a third. They even wounded this one and threw him out. ",
+      "ja": "主人はさらに3人目を遣わした。彼らはこの者をも傷つけ、放り出した。"
+    },
+    {
+      "verse": 13,
+      "en": "Then the owner of the vineyard said, ‘What should I do? I will send my one dear son; perhaps they will respect him.’",
+      "ja": "そこで、ぶどう園の主人は言った。『どうしようか。私の愛する息子を遣わそう。もしかしたら、この息子なら敬ってくれるだろう』"
+    },
+    {
+      "verse": 14,
+      "en": "But when the tenants saw him, they said to one another, ‘This is the heir; let’s kill him so the inheritance will be ours!’ ",
+      "ja": "しかし、農夫たちはその息子を見ると、互いに話し合って言った。『この人は相続人だ。殺してしまおう。そうすれば遺産が我々のものになるのだ』"
+    },
+    {
+      "verse": 15,
+      "en": "So they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them? ",
+      "ja": "それで彼らは、息子をぶどう園の外に放り出して殺した。では、ぶどう園の主人は彼らにどうするだろうか。"
+    },
+    {
+      "verse": 16,
+      "en": "He will come and destroy those tenants and give the vineyard to others.” When the people heard this, they said, “May this never happen!” ",
+      "ja": "彼はやって来て、その農夫たちを滅ぼし、ぶどう園をほかの人々に与えるだろう。」これを聞いた人々は、「そんなことがあってはなりません！」と言った。"
+    },
+    {
+      "verse": 17,
+      "en": "But Jesus looked straight at them and said, “Then what is the meaning of that which is written: ‘<b>The stone the builders rejected has become the cornerstone</b>’? ",
+      "ja": "しかしイエスは彼らをまっすぐ見据えて言われた。「それでは、こう書かれている言葉の意味は一体何か。『家を建てる者たちが捨てた石、それが礎石となった』"
+    },
+    {
+      "verse": 18,
+      "en": "Everyone who falls on this stone will be broken to pieces, and the one on whom it falls will be crushed.” ",
+      "ja": "この石の上に落ちる者は誰でも粉々に砕かれ、また、この石が誰かの上に落ちれば、その人は押しつぶされてしまう。」"
+    },
+    {
+      "verse": 19,
+      "en": "Then the experts in the law and the chief priests wanted to arrest him that very hour because they realized he had told this parable against them. But they were afraid of the people. ",
+      "ja": "律法学者たちと祭司長たちは、イエスが自分たちを指してこのたとえ話を語られたことに気づいたので、その時にすぐにイエスを捕らえようとした。しかし、民衆を恐れていた。"
+    },
+    {
+      "verse": 20,
+      "en": "Then they watched him carefully and sent spies who pretended to be sincere. They wanted to take advantage of what he might say so that they could deliver him up to the authority and jurisdiction of the governor. ",
+      "ja": "そこで彼らは機会をうかがい、誠実を装った回し者たちを送り込んで、イエスの言葉の揚げ足を取らせようとした。それは、イエスを総督の権限と支配下に引き渡すためであった。"
+    },
+    {
+      "verse": 21,
+      "en": "Thus they asked him, “Teacher, we know that you speak and teach correctly, and show no partiality, but teach the way of God in accordance with the truth. ",
+      "ja": "彼らはイエスに質問して言った。「先生、私たちはあなたが語り、教えることが正しく、不偏不党であり、真理に従って神の道を教えておられることを知っています。"
+    },
+    {
+      "verse": 22,
+      "en": "Is it right for us to pay the tribute tax to Caesar or not?” ",
+      "ja": "私たちが皇帝に税金を納めるのは、律法にかなっているでしょうか、いないでしょうか」"
+    },
+    {
+      "verse": 23,
+      "en": "But Jesus perceived their deceit and said to them, ",
+      "ja": "しかしイエスは彼らの悪賢さを見抜いて、こう言われた。"
+    },
+    {
+      "verse": 24,
+      "en": "“Show me a denarius. Whose image and inscription are on it?” They said, “Caesar’s.”",
+      "ja": "「デナリ銀貨をわたしに見せなさい。それに彫られているのは誰の姿であり、誰の銘文か。」彼らは「皇帝のものです」と言った。"
+    },
+    {
+      "verse": 25,
+      "en": "So he said to them, “Then give to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+      "ja": "そこでイエスは言われた。「では、皇帝のものは皇帝に、神のものは神に返しなさい。」"
+    },
+    {
+      "verse": 26,
+      "en": "Thus they were unable in the presence of the people to trap him with his own words. And stunned by his answer, they fell silent. ",
+      "ja": "こうして彼らは、民衆の前でイエスの言葉をとらえて罠にかけることができなかった。そして、その答えに驚きあきれて、黙ってしまった。"
+    },
+    {
+      "verse": 27,
+      "en": "Now some Sadducees (who contend that there is no resurrection) came to him. ",
+      "ja": "さて、復活はないと主張するサドカイ派の人々が何人かイエスのところにやって来た。"
+    },
+    {
+      "verse": 28,
+      "en": "They asked him, “Teacher, Moses wrote for us that <b>if a man’s brother dies leaving</b> a wife but <b>no children, that man</b> <b>must marry</b> <b>the widow and father children</b> <b>for his brother</b>. ",
+      "ja": "彼らはイエスに尋ねて言った。「先生、モーセは私たちにこう書き残しています。『もしある人の兄弟が妻を遺して子供がないまま死んだ場合、その男はその未亡人と結婚して、自分の兄弟のために跡継ぎをもうけなければならない』"
+    },
+    {
+      "verse": 29,
+      "en": "Now there were seven brothers. The first one married a woman and died without children. ",
+      "ja": "さて、7人の兄弟がいた。長男が妻をめとったが、子供がないまま死んだ。"
+    },
+    {
+      "verse": 30,
+      "en": "The second ",
+      "ja": "次男が、"
+    },
+    {
+      "verse": 31,
+      "en": "and then the third married her, and in this same way all seven died, leaving no children. ",
+      "ja": "そして3男がその未亡人と結婚し、同じように7人とも子供を残さずに死んだ。"
+    },
+    {
+      "verse": 32,
+      "en": "Finally the woman died too. ",
+      "ja": "最後にその女も死んだ。"
+    },
+    {
+      "verse": 33,
+      "en": "In the resurrection, therefore, whose wife will the woman be? For all seven had married her.” ",
+      "ja": "それでは、復活の時、その女は誰の妻になるのだろうか。7人とも彼女を妻にしたのだから。」"
+    },
+    {
+      "verse": 34,
+      "en": "So Jesus said to them, “The people of this age marry and are given in marriage. ",
+      "ja": "イエスは彼らに言われた。「この世の子らはめとり、嫁いでいく。"
+    },
+    {
+      "verse": 35,
+      "en": "But those who are regarded as worthy to share in that age and in the resurrection from the dead neither marry nor are given in marriage. ",
+      "ja": "しかし、かの世と死者の中からの復活にあずかるのにふさわしいとされた人たちは、めとることも嫁ぐこともない。"
+    },
+    {
+      "verse": 36,
+      "en": "In fact, they can no longer die because they are equal to angels and are sons of God, since they are sons of the resurrection. ",
+      "ja": "もはや死ぬことがないからである。彼らは天使たちと同等であり、また復活にあずかる者として神の子らだからである。"
+    },
+    {
+      "verse": 37,
+      "en": "But even Moses revealed that the dead are raised in the passage about the bush, where he calls the Lord <b>the God of Abraham and the God of Isaac and the God of Jacob</b>. ",
+      "ja": "しかし、死者が復活することについては、モーセも柴の箇所のなかで示している。主を『アブラハムの神、イサクの神、ヤコブの神』と呼んでいるからである。"
+    },
+    {
+      "verse": 38,
+      "en": "Now he is not God of the dead, but of the living, for all live before him.” ",
+      "ja": "神は死者の神ではなく、生者の神なのだ。すべての人は神によって生きているからである。」"
+    },
+    {
+      "verse": 39,
+      "en": "Then some of the experts in the law answered, “Teacher, you have spoken well!” ",
+      "ja": "すると、律法学者たちの何人かが答えて言った。「先生、立派なお言葉です！」"
+    },
+    {
+      "verse": 40,
+      "en": "For they did not dare any longer to ask him anything. ",
+      "ja": "もはや彼らは、あえてイエスに何も尋ねようとはしなかった。"
+    },
+    {
+      "verse": 41,
+      "en": "But he said to them, “How is it that they say that the Christ is David’s son? ",
+      "ja": "だがイエスは彼らに言われた。「どうして人々は、キリストはダビデの子だと言うのか。"
+    },
+    {
+      "verse": 42,
+      "en": "For David himself says in the book of Psalms, ‘<b>The Lord said to my</b> <b>lord,</b> “<b>Sit at my right hand,</b> ",
+      "ja": "ダビデ自身が詩編の書の中でこう言っている。『主は私の主に言われた、「私の右の座に座っていなさい。"
+    },
+    {
+      "verse": 43,
+      "en": "<b>until I make your enemies a footstool for your feet</b>.”’ ",
+      "ja": "あなたが敵をあなたの足台とするまでは」と。』"
+    },
+    {
+      "verse": 445,
+      "en": "",
+      "ja": "このように、ダビデが彼を主と呼んでいるのに、どうして彼はダビデの子なのだろうか。」"
+    },
+    {
+      "verse": 45,
+      "en": "As all the people were listening, Jesus said to his disciples, ",
+      "ja": "民衆皆が耳を傾けているとき、イエスは弟子たちに言われた。"
+    },
+    {
+      "verse": 46,
+      "en": "“Beware of the experts in the law. They like walking around in long robes, and they love elaborate greetings in the marketplaces and the best seats in the synagogues and the places of honor at banquets. ",
+      "ja": "「律法学者たちを警戒しなさい。彼らは長い衣をまとって歩き回るのが好きで、広場での挨拶や、会堂での上座、宴会の席での最上席を愛している。"
+    },
+    {
+      "verse": 47,
+      "en": "They devour widows’ property, and as a show make long prayers. They will receive a more severe punishment.” ",
+      "ja": "彼らは未亡人の家を食い物にし、見栄えのために長々と祈る。そのような者たちは、より厳しい裁きを受けることになる。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Now it happened that one.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注] 原文では「さて、〜となった」（エゲネト）という表現があるが、ルカ文書に多用されるこの表現は現代の日本語や英語では冗長であるため訳出していない。ここでは、新しいトピックへの移行を示すために「さて」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文の代名詞「彼」を、明確にするために「イエス」と補って訳している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “the temple.”",
+        "ja": "[翻訳注] 原文では「神殿」となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “preaching.”",
+        "ja": "[翻訳注] 「宣べ伝える」または「説教する」とも訳せる。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “and the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注] または「律法学者たち」。5:21の「律法学者」の注を参照。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  The chief priests and the experts in the law with the elders came up. The description is similar to Luke 19:47. The leaders are really watching Jesus at this point.",
+        "ja": "[解説] 祭司長たちや律法学者たちが長老たちと共に近寄って来た。この描写はルカ19:47と類似している。指導者たちはこの時点で、実際にイエスを厳しく監視している。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and said, saying to him.” This is redundant in English and has been simplified in the translation.",
+        "ja": "[翻訳注] 原文の「そして言って、彼に言った」という重複表現は、日本語では簡潔に整理されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  On this phrase, see BDAG 844 s.v. ποῖος 2.a.γ.",
+        "ja": "[翻訳注] この句については、BDAG 844ページ、poiosの2.a.γ項を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The leadership is looking back to acts like the temple cleansing (19:45-48). How could a Galilean preacher do these things?",
+        "ja": "[解説] 指導者層は、宮清めのような出来事（19:45-48）を念頭に置いている。ガリラヤの説教者にどうしてこのようなことができただろうか。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “answering, he said to them.” This is redundant in English and has been simplified in the translation.",
+        "ja": "[翻訳注] 原文の「答えて彼らに言った」という重複表現は、日本語では簡潔に整理されている。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[解説]  John, like Jesus, was not a part of the official rabbinic order. So the question “John’s baptism – was it from heaven or from men?” draws an analogy between John the Baptist and Jesus. See Luke 3:1-20; 7:24-27. The phrase John’s baptism refers to the baptism practiced by John.",
+        "ja": "[解説] ヨハネはイエスと同様に、公式のラビ階層の出身ではなかった。そのため、「ヨハネのバプテスマは、天からのものだったか、それとも人からのものだったか」という質問は、洗礼者ヨハネとイエスの間に類似性を見出させるものである（ルカ3:1-20; 7:24-27参照）。「ヨハネのバプテスマ」という表現は、ヨハネが行っていたバプテスマを指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The plural Greek term ἀνθρώπων (anqrwpwn) is used here (and in v. 6) in a generic sense, referring to both men and women (cf. NAB, NRSV, “of human origin”; TEV, “from human beings”; NLT, “merely human”).[解説]  The question is whether John’s ministry was of divine or human origin.",
+        "ja": "[翻訳注] ギリシア語の複数形アンスローポン（「人々」）は、ここでも（6節でも）包括的な意味で使用されており、男女双方を指している。 [解説] この質問は、ヨハネの宣教が神に由来するものか、あるいは人間に由来するものかという点を問うものである。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate the implied result of Jesus’ question.",
+        "ja": "[翻訳注] ここでは接続詞デを、イエスの質問に対する暗黙の結果を示すために「そこで」と訳している。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of the dilemma Jesus’ opponents faced.",
+        "ja": "[翻訳注] ここでは接続詞カイを、イエスの反対者たちが直面したジレンマの暗黙の結果を示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Very few questions could have so completely revealed the wicked intentions of the religious leaders. Jesus’ question revealed the motivation of the religious leaders and exposed them for what they really were – hypocrites. They indicted themselves when they cited only two options and chose neither of them. The point of Luke 20:1-8 is that no matter what Jesus said in response to their question they were not going to believe it and would in the end use it against him.",
+        "ja": "[解説] 宗教指導者たちの邪悪な意図をこれほどまでに完全に暴いた質問はほかにほとんどない。イエスの質問は宗教指導者たちの動機を暴き、彼らが偽善者であるという本性を露わにした。彼らが二つの選択肢しか挙げず、そのどちらも選ばなかったとき、彼らは自分自身を有罪としたのである。ルカ20:1-8の要点は、イエスが彼らの質問に対して何と答えようとも、彼らはそれを信じることはなく、最終的にはイエスを陥れるためにそれを用いるということであった。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでは接続詞カイを、物語における一連の出来事の展開を示すために「すると」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Neither will I tell you. Though Jesus gave no answer, the analogy he used to their own question makes his view clear. His authority came from heaven.",
+        "ja": "[解説] 「わたしもあなたたちに言うまい」。イエスは直接答えなかったが、彼ら自身の質問に対して用いたたとえ話によって、イエスの見解は明白なものとなった。彼の権威は天からのものであった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  On this phrase, see BDAG 844 s.v. ποῖος 2.a.γ. This is exactly the same phrase as in v. 2.",
+        "ja": "[翻訳注] この表現についてはBDAG 844ページのpoios 2.a.γ項を参照。これは2節の表現と全く同じである。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative. The parable Jesus tells here actually addresses the question put to him by the leaders.",
+        "ja": "[翻訳注] ここでは接続詞デを物語の展開を示すために「それから」と訳している。イエスがここで語るたとえ話は、指導者たちから投げかけられた質問に実際に対処するものである。"
+      },
+      {
+        "pos": 2,
+        "en": "places τις in brackets, indicating some doubts as to its authenticity.",
+        "ja": "[翻訳注] 写本における特定の語の異同に関するテクスト批判上の注記。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The vineyard is a figure for Israel in the OT (Isa 5:1-7). The nation and its leaders are the tenants, so the vineyard here may well refer to the promise that resides within the nation. The imagery is like that in Rom 11:11-24.",
+        "ja": "[解説] 旧約聖書において、ぶどう園はイスラエルの比喩である（イザヤ5:1-7）。国家とその指導者たちが農夫であるため、ここでのぶどう園は、その国家内に宿る神の約束を指している可能性が高い。このイメージはローマ11:11-24に似ている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The leasing of land to tenant farmers was common in this period.",
+        "ja": "[解説] 農夫に土地を貸し出すことは、この時代には一般的であった。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[解説]  This slave (along with the next two) represent the prophets God sent to the nation, who were mistreated and rejected.",
+        "ja": "[解説] この奴隷（および次の2人）は、神がその民に遣わしたものの、虐待され退けられた預言者たちを象徴している。"
+      },
+      {
+        "pos": 2,
+        "en": "33 579 1241 2542 al), have δώσουσιν. It is thus more likely that the future indicative is authentic. For a discussion of this construction, see BDF §369.2.",
+        "ja": "[翻訳注] テクスト批判における動詞の形に関する補足。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “from the fruit of the vineyard.”",
+        "ja": "[翻訳注] 原文では「ぶどう園の果実から」となっている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “him”; the referent (the slave sent by the owner) has been specified in the translation for clarity.[解説]  The image of the tenants beating up the owner’s slave pictures the nation’s rejection of the prophets and their message.",
+        "ja": "[翻訳注] 原文の代名詞を、明確にするために「奴隷」と補っている。 [解説] 農夫たちが主人の奴隷を打ち叩くという描写は、イスラエルの民が預言者たちとそのメッセージを拒絶したことを描き出している。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of the tenants’ mistreatment of the first slave.",
+        "ja": "[翻訳注] ここでは接続詞カイを、農夫たちによる最初の奴隷への虐待の結果を示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The slaves being sent empty-handed suggests that the vineyard was not producing any fruit – and thus neither was the nation of Israel.",
+        "ja": "[解説] 奴隷たちが何も持たずに送り返されたことは、ぶどう園が実を結んでおらず、したがってイスラエルという国家も実を結んでいなかったことを示唆している。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of the tenants’ mistreatment of the first two slaves.",
+        "ja": "[翻訳注] ここでは接続詞カイを、最初の2人の奴隷への虐待の結果を示すために「そこで」と訳している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでは接続詞デを物語の展開を示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “my beloved son.” See comment at Luke 3:22.[解説]  The owner’s decision to send his one dear son represents God sending Jesus.",
+        "ja": "[翻訳注] 原文では「私の愛する子」。ルカ3:22の注を参照。 [解説] 主人が一人の愛する子を遣わすという決定は、神がイエスを遣わされたことを表している。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of the tenants’ decision to kill the son.",
+        "ja": "[翻訳注] ここでは接続詞カイを、農夫たちが息子を殺すという決定の結果を示すために「それで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Throwing the heir out of the vineyard pictures Jesus’ death outside of Jerusalem.",
+        "ja": "[解説] 相続人をぶどう園の外に投げ出すことは、エルサレムの城外でのイエスの死を絵画的に表している。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[解説]  The statement that the owner will come and destroy those tenants is a promise of judgment; see Luke 13:34-35; 19:41-44.",
+        "ja": "[解説] 主人がやって来てその農夫たちを滅ぼすという発言は、裁きの約束である（ルカ13:34-35; 19:41-44参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The warning that the owner would give the vineyard to others suggests that the care of the promise and the nation’s hope would be passed to others. This eventually looks to Gentile inclusion; see Eph 2:11-22.",
+        "ja": "[解説] 主人がぶどう園をほかの人々に与えるという警告は、約束の世話と国家の希望がほかの人々に引き継がれることを示唆している。これは最終的に異邦人の救いへの包含を指している（エフェソ2:11-22参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “they”; the referent (the people addressed in v. 9) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文の「彼ら」を、明確にするために「人々」と補っている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  May this never happen! Jesus’ audience got the point and did not want to consider a story where the nation would suffer judgment.",
+        "ja": "[解説] 「そんなことがあってはなりません！」。イエスの聴衆はその要点を理解し、自分たちの国家が裁きを受けるような物語を考慮したくなかったのである。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 原文の代名詞を、明確にするために「イエス」と補っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “capstone,” “keystone.” Although these meanings are lexically possible, the imagery in Eph 2:20-22 and 1 Cor 3:11 indicates that the term κεφαλὴ γωνίας (kefalh gwnia\") refers to a cornerstone, not a capstone.[解説]  The stone the builders rejected has become the cornerstone. The use of Ps 118:22-23 and the “stone imagery” as a reference to Christ and his suffering and exaltation is common in the NT (see also Matt 21:42; Mark 12:10; Acts 4:11; 1 Pet 2:6-8; cf. also Eph 2:20). The irony in the use of Ps 118:22-23 here is that in the OT, Israel was the one rejected (or perhaps her king) by the Gentiles, but in the NT it is Jesus who is rejected by Israel.",
+        "ja": "[翻訳注] または「冠石」、「要石」。エフェソ2:20-22や1コリント3:11のイメージから、この語は頂石ではなく「礎石」を指している。 [解説] 「家を建てる者たちが捨てた石、それが礎石となった」。詩編118:22-23の引用およびキリストとその受難・高挙を指す「石のイメージ」は新約聖書で一般的である。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  On this term, see BDAG 972 s.v. συνθλάω.",
+        "ja": "[翻訳注] この用語についてはBDAG 972ページ、sunthlaō項を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “on whomever it falls, it will crush him.”[解説]  This proverb basically means that the stone crushes, without regard to whether it falls on someone or someone falls on it. On the stone as a messianic image, see Isa 28:16 and Dan 2:44-45.",
+        "ja": "[翻訳注] 原文「誰の上にもそれが落ちるなら、それは彼を押しつぶす」。 [解説] この諺は基本的に、石が誰かに落ちようとも、誰かが石に落ちようとも、石が粉々に砕くということを意味している。メシア的イメージとしての石については、イザヤ28:16およびダニエル2:44-45を参照。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでは接続詞カイを物語の展開を示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “The scribes” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注] または「律法学者たち」。5:21の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “tried to lay hands on him.”",
+        "ja": "[翻訳注] 原文「彼に手をかけようとした」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present in this context.",
+        "ja": "[翻訳注] ここでは文脈上の対比を示すために「しかし」と訳している。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] ここでは物語の展開を示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “righteous,” but in this context the point is their false sincerity.",
+        "ja": "[翻訳注] 原文では「正しい者たち」だが、文脈における意味は彼らの偽りの誠実さである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “so that they might catch him in some word.”",
+        "ja": "[翻訳注] 原文「彼らが何か言葉において彼を捕らえるため」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  This word is often translated “authority” in other contexts, but here, in combination with ἀρχή (arch), it refers to the domain or sphere of the governor’s rule (L&N 37.36).",
+        "ja": "[翻訳注] この語は他では「権威」と訳されることが多いが、ここでは総督の支配領域を指している。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “thus” to indicate the implied result of the plans by the spies.",
+        "ja": "[翻訳注] 結果を示すために「こうして」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “precisely”; Grk “rightly.” Jesus teaches exactly, the straight and narrow.",
+        "ja": "[翻訳注] または「正確に」。イエスは真直ぐな道を正確に教えられる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Teach the way of God in accordance with the truth. Very few comments are as deceitful as this one; they did not really believe this at all. The question was specifically designed to trap Jesus.",
+        "ja": "[解説] 「真理に従って神の道を教えておられる」。これほど偽善的な発言は他にほとんどない。彼らはこれを全く信じておらず、この質問は意図的にイエスを罠にかけるために考案されたものであった。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “lawful,” that is, in accordance with God’s divine law. On the syntax of ἔξεστιν (exestin) with an infinitive and accusative, see BDF §409.3.",
+        "ja": "[翻訳注] または「合法的な」、すなわち神の神聖な律法にかなっているという意味。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This was a “poll tax.” L&N 57.182 states this was “a payment made by the people of one nation to another, with the implication that this is a symbol of submission and dependence – ‘tribute tax.’”",
+        "ja": "[翻訳注] これは「人頭税」である。服従と依存のシンボルとしての性質を持つ。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “to the emperor” (“Caesar” is a title for the Roman emperor).",
+        "ja": "[翻訳注] または「カエサルに」（カエサルはローマ皇帝の称号）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 明確にするために「イエス」と補っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “craftiness.” The term always has negative connotations in the NT (1 Cor 3:19; 2 Cor 4:2; 11:3; Eph 4:14).",
+        "ja": "[翻訳注] または「悪賢さ」、「狡猾さ」。新約聖書では常に否定的なニュアンスを持つ。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here the specific name of the coin was retained in the translation, because not all coins in circulation in Palestine at the time carried the image of Caesar. In other places δηνάριον (dhnarion) has been translated simply as “silver coin” with an explanatory note.[解説]  A denarius was a silver coin worth approximately one day’s wage for a laborer. The fact that the leaders had such a coin showed that they already operated in the economic world of Rome. The denarius would have had a picture of Tiberius Caesar, the Roman emperor, on it.",
+        "ja": "[翻訳注] パレスチナで流通していたすべてのコインがカエサルの肖像を持っていたわけではないため、ここでは特定の硬貨の名（デナリオン）を維持している。 [解説] デナリオンは労働者の約1日分の賃金に相当する銀貨であった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “whose likeness.”[解説]  In this passage Jesus points to the image (Grk εἰκών, eikwn) of Caesar on the coin. This same Greek word is used in Gen 1:26 (LXX) to state that humanity is made in the “image” of God. Jesus is making a subtle yet powerful contrast: Caesar’s image is on the denarius, so he can lay claim to money through taxation, but God’s image is on humanity, so he can lay claim to each individual life.",
+        "ja": "[翻訳注] または「似姿」。 [解説] イエスはコイン上のカエサルの「形（エイコーン）」を指摘している。創世記1:26でも人類が神の「形」に造られたと述べる際に同じ語が使われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “whose likeness and inscription does it have?”",
+        "ja": "[翻訳注] 原文「それは誰の似姿と銘文を持っているか」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate that Jesus’ pronouncement results from the opponents’ answer to his question.",
+        "ja": "[翻訳注] イエスの宣言が相手の答えから生じたことを示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus’ answer to give to Caesar the things that are Caesar’s and to God the things that are God’s was a both/and, not the questioners’ either/or. So he slipped out of their trap.",
+        "ja": "[解説] 「皇帝のものは皇帝に、神のものは神に」というイエスの答えは、彼らの二者択一ではなく、両者を肯定するものであった。こうして彼は彼らの罠を巧みに逃れた。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “thus” to indicate the implied result of Jesus’ unexpected answer.",
+        "ja": "[翻訳注] 結果を示すために「こうして」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  On this term, see BDAG 374 s.v. ἐπιλαμβάνομαι 3.",
+        "ja": "[翻訳注] この用語についてはBDAG 374ページのepilambanomai 3項を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “to trap him in a saying.”",
+        "ja": "[翻訳注] 原文「言葉において彼を罠にかけること」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “amazed.”",
+        "ja": "[翻訳注] または「驚いた」。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Sadducees controlled the official political structures of Judaism at this time, being the majority members of the Sanhedrin. They were known as extremely strict on law and order issues (Josephus, J. W. 2.8.2 [2.119], 2.8.14 [2.164-166]; Ant. 13.5.9 [13.171-173], 13.10.6 [13.293-298], 18.1.2 [18.11], 18.1.4 [18.16-17], 20.9.1 [20.199]; Life 2 [10-11]). They also did not believe in resurrection or in angels, an important detail in v. 36. See also Matt 3:7, 16:1-12, 22:23-34; Mark 12:18-27; Acts 4:1, 5:17, 23:6-8.",
+        "ja": "[解説] サドカイ派は当時ユダヤの公式の政治構造を支配しており、サンヘドリンの多数派を占めていた。彼らは復活や天使を信じなかった。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This remark is best regarded as a parenthetical note by the author.",
+        "ja": "[解説] この言及は著者による挿入句（カッコ書きの注記）とみなすのが最適である。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “asked him, saying.” The participle λέγοντες (legontes) is redundant in contemporary English and has not been translated.",
+        "ja": "[翻訳注] 原文の分詞「言って」は現代英語や日本語では冗長なため訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “his brother”; but this would be redundant in English with the same phrase “his brother” at the end of the verse, so most modern translations render this phrase “the man” (so NIV, NRSV).",
+        "ja": "[翻訳注] 原文「彼の兄弟」。重複を避けるため「その男」と訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The use of ἵνα (Jina) with imperatival force is unusual (BDF §470.1).",
+        "ja": "[翻訳注] 命令法的な力を持つヒナの使用（BDF §470.1）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “and raise up seed,” an idiom for procreating children (L&N 23.59).",
+        "ja": "[翻訳注] 原文「種を興し」、子供をもうけることの慣用句。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  A quotation from Deut 25:5. Because the OT quotation does not include “a wife” as the object of the verb, it has been left as normal type. This practice is called levirate marriage (see also Ruth 4:1-12; Mishnah, m. Yevamot; Josephus, Ant. 4.8.23 [4.254-256]). The levirate law is described in Deut 25:5-10. The brother of a man who died without a son had an obligation to marry his brother’s widow. This served several purposes: It provided for the widow in a society where a widow with no children to care for her would be reduced to begging, and it preserved the name of the deceased, who would be regarded as the legal father of the first son produced from that marriage.",
+        "ja": "[解説] 申命記25:5からの引用。これはレビラト婚（収穫婚）と呼ばれる慣習である。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “took a wife” (an idiom for marrying a woman).",
+        "ja": "[翻訳注] 原文「妻をとった」（女性と結婚することの慣用句）。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "33 Ï lat) have the words, “took the wife and this one died childless” after “the second.” But this looks like a clarifying addition, assimilating the text to Mark 12:21. In light of the early and diverse witnesses that lack the expression (א B D L 0266 892 1241 co), the shorter reading should be considered authentic.",
+        "ja": "[翻訳注] 写本の異同に関するテクスト批判上の注記。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[解説]  The point is a dilemma. In a world arguing a person should have one wife, whose wife will she be in the afterlife? The question was designed to show that (in the opinion of the Sadducees) resurrection leads to a major problem.",
+        "ja": "[解説] 要点はジレンマである。一夫一婦制を主張する世界において、来世では彼女は誰の妻になるのかという問題。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “For the seven had her as wife.”",
+        "ja": "[翻訳注] 原文「7人とも彼女を妻として持っていたのだから」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate that Jesus’ response is a result of their framing of the question.",
+        "ja": "[翻訳注] イエスの返答が彼らの問いの枠組みに対するものであることを示すために「そこで」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “sons of this age” (an idiom, see L&N 11.16). The following clause which refers to being “given in marriage” suggests both men and women are included in this phrase.",
+        "ja": "[翻訳注] 原文「この世の子ら」（慣用句）。男女双方が含まれることを示唆している。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “to attain to.”",
+        "ja": "[翻訳注] 原文「達するために」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Life in the age to come is different than life here (they neither marry nor are given in marriage). This means Jesus’ questioners had made a false assumption that life was the same both now and in the age to come.",
+        "ja": "[解説] 来世の生活はこの世の生活とは異なる。質問者たちは、今も来世も同じだという誤った前提に立っていた。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[解説]  Angels do not die, nor do they eat according to Jewish tradition (1 En. 15:6; 51:4; Wis 5:5; 2 Bar. 51:10; 1QH 3.21-23).",
+        "ja": "[解説] ユダヤの伝統によれば、天使は死ぬことも食べることもない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “sons of God, being.” The participle ὄντες (ontes) has been translated as a causal adverbial participle here.",
+        "ja": "[翻訳注] 原文「神の子らであり、…であるので」。分詞を原因を表す副詞的分詞として訳している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “people.” The noun υἱός (Juios) followed by the genitive of class or kind (“sons of…”) denotes a person of a class or kind, specified by the following genitive construction. This Semitic idiom is frequent in the NT (L&N 9.4).",
+        "ja": "[翻訳注] または「人々」。類別を意味する生格を伴う表現。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “But that the dead are raised even Moses revealed.”",
+        "ja": "[翻訳注] 原文「しかし死者が復活することは、モーセさえも示した」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See Exod 3:6. Jesus used a common form of rabbinic citation here to refer to the passage in question.",
+        "ja": "[解説] 出エジプト記3:6を参照。イエスは当時の一般的なラビの引用形式を用いている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  A quotation from Exod 3:6.",
+        "ja": "[解説] 出エジプト記3:6からの引用。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[解説]  He is not God of the dead but of the living. Jesus’ point was that if God could identify himself as God of the three old patriarchs, then they must still be alive when God spoke to Moses; and so they must be raised.",
+        "ja": "[解説] 「神は死者の神ではなく、生者の神なのだ」。イエスの要点は、神が三人の古い族長たちの神とご自身を名乗ることができるなら、神がモーセに語られた時にも彼らは生きていなければならず、したがって復活していなければならないということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  On this syntax, see BDF §192. The point is that all live “to” God or “before” God.",
+        "ja": "[翻訳注] すべての人が神に対して、あるいは神の御前で生きているという意味。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注] 物語の展開を示すために「すると」と訳している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “some of the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注] または「律法学者たちの何人か」。5:21の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Teacher, you have spoken well! The scribes, being Pharisees, were happy for the defense of resurrection and angels, which they (unlike the Sadducees) believed in.",
+        "ja": "[解説] パリサイ派であった律法学者たちは、サドカイ派とは異なり復活や天使を信じていたため、復活の擁護に満足した。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[解説]  The attempt to show Jesus as ignorant had left the experts silenced. At this point they did not dare any longer to ask him anything.",
+        "ja": "[解説] イエスが無知であると証明しようとした試みは失敗に終わり、学者たちは沈黙させられた。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[解説]  If the religious leaders will not dare to question Jesus any longer, then he will question them.",
+        "ja": "[解説] 宗教指導者たちがもはやイエスにあえて質問しなくなると、今度はイエスが彼らに質問する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”[解説]  See the note on Christ in 2:11.",
+        "ja": "[翻訳注] または「メシア」。どちらも「油そそがれた者」を意味する。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  It was a common belief in Judaism that Messiah would be David’s son in that he would come from the lineage of David. On this point the Pharisees agreed and were correct. But their understanding was nonetheless incomplete, for Messiah is also David’s Lord. With this statement Jesus was affirming that, as the Messiah, he is both God and man.",
+        "ja": "[解説] ユダヤ教では、メシアはダビデの子孫として現れるという意味でダビデの子であると広く信じられていた。しかしパリサイ派の理解は不完全であった。なぜならメシアはダビデの主でもあるからである。イエスはここで、メシアとして神でありかつ人であると主張しておられる。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Lord said to my Lord. With David being the speaker, this indicates his respect for his descendant (referred to as my Lord). Jesus was arguing, as the ancient exposition assumed, that the passage is about the Lord’s anointed. The passage looks at an enthronement of this figure and a declaration of honor for him as he takes his place at the side of God. In Jerusalem, the king’s palace was located to the right of the temple to indicate this kind of relationship. Jesus was pressing the language here to get his opponents to reflect on how great Messiah is.",
+        "ja": "[解説] 「主は私の主に言われた」。ダビデが語り手であることから、これは彼が子孫（私の主と呼ばれる）に敬意を払っていることを示している。イエスは、この箇所が主の油そそがれた者に関するものであると論じておられる。"
+      }
+    ],
+    "43": [
+      {
+        "pos": 1,
+        "en": "[解説]  A quotation from Ps 110:1.",
+        "ja": "[解説] 詩編110:1からの引用。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “David thus calls him ‘Lord.’ So how is he his son?” The conditional nuance, implicit in Greek, has been made explicit in the translation (cf. Matt 22:45).",
+        "ja": "[翻訳注] 原文「このようにダビデは彼を主と呼ぶ。では、どうして彼はその子なのか」。ギリシア語に内在する条件的なニュアンスを明確にして訳出している。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注] ここでは接続詞デは訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 明確にするために「イエス」と補っている。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Be on guard against.” This is a present imperative and indicates that pride is something to constantly be on the watch against.",
+        "ja": "[翻訳注] または「用心しなさい」。現在命令形であり、高慢に対して絶えず警戒すべきであることを示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “of the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注] または「律法学者たち」。5:21の注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “who,” continuing the sentence begun by the prior phrase.",
+        "ja": "[翻訳注] 前の句に始まる文を続ける関係代名詞。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  There is later Jewish material in the Talmud that spells out such greetings in detail. See D. L. Bock, Luke (BECNT), 2:1642; H. Windisch, TDNT 1:498.",
+        "ja": "[解説] 後代のユダヤ教のタルムードには、こうした挨拶について詳細に記した資料がある。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  See Luke 14:1-14.",
+        "ja": "[解説] ルカ14:1-14を参照。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  See the note on synagogues in 4:15.",
+        "ja": "[解説] 4:15の会堂についての注を参照。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “who,” continuing the sentence begun in v. 46.",
+        "ja": "[翻訳注] 46節から始まる文を続ける関係代名詞。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  How they were able to devour widows’ houses is debated. Did they seek too much for contributions, or take too high a commission for their work, or take homes after debts failed to be paid? There is too little said here to be sure.",
+        "ja": "[解説] 彼らがどのように未亡人の家を食い物にしたのかについては議論がある。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “houses,” “households”; however, the term can have the force of “property” or “possessions” as well (O. Michel, TDNT 5:131; BDAG 695 s.v. οἶκια 1.a).",
+        "ja": "[翻訳注] 原文「家々」、「世帯」；しかしこの語は「財産」や「所有物」の意味を持つこともある。"
+      }
+    ]
+  }
+}

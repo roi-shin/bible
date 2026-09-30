@@ -1,0 +1,470 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;produced,&#8221; <i>Grk</i> &#8220;made.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;first.&#8221; The translation &#8220;former&#8221; is preferred because &#8220;first&#8221; could imply to the modern English reader that the author means that his previous account was the first one to be written down. The Greek term <font face=\"Galaxie Unicode Greek\">&#960;&#961;&#8182;&#964;&#959;&#962;</font> (<font face=\"Greektl\">prwtos</font>) does not necessarily mean &#8220;first&#8221; in an absolute sense, but can refer to the first in a set or series. That is what is intended here &#8211; the first account (known as the Gospel of Luke) as compared to the second one (known as Acts).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Greek word <font face=\"Galaxie Unicode Greek\">&#955;&#972;&#947;&#959;&#962;</font> (<font face=\"Greektl\">logos</font>) is sometimes translated &#8220;book&#8221; (NRSV, NIV) or &#8220;treatise&#8221; (KJV). A formal, systematic treatment of a subject is implied, but the word &#8220;book&#8221; may be too specific and slightly misleading to the modern reader, so &#8220;account&#8221; has been used.<p class=\"note\"><span class=\"notetype\">sn</span> <i>The former account</i> refers to the Gospel of Luke, which was &#8220;volume one&#8221; of the two-volume work Luke-Acts.</p></div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;O Theophilus,&#8221; but the usage of the vocative in Acts with <font face=\"Galaxie Unicode Greek\">&#8038;</font> (<font face=\"Greektl\">w</font>) is unemphatic, following more the classical idiom (see <i>ExSyn</i> 69).</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;to heaven&#8221; are not in the Greek text, but are supplied from v. <span class=\"bibleref\" title=\"Acts 1:11\">11</span>. Several modern translations (NIV, NRSV) supply the words &#8220;to heaven&#8221; after &#8220;taken up&#8221; to specify the destination explicitly mentioned later in <span class=\"bibleref\" title=\"Acts 1:11\">1:11</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;commands.&#8221; Although some modern translations render <font face=\"Galaxie Unicode Greek\">&#7952;&#957;&#964;&#949;&#953;&#955;&#940;&#956;&#949;&#957;&#959;&#962;</font> (<font face=\"Greektl\">enteilameno&quot;</font>) as &#8220;instructions&#8221; (NIV, NRSV), the word implies authority or official sanction (G. Schrenk, <i>TDNT</i> 2:545), so that a word like &#8220;orders&#8221; conveys the idea more effectively. The action of the temporal participle is antecedent (prior) to the action of the verb it modifies (&#8220;taken up&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;through.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;to them&#8221;; the referent (the apostles) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>After his suffering</i> is a reference to Jesus&#8217; crucifixion and the abuse which preceded it.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;during forty days.&#8221; The phrase &#8220;over a forty-day period&#8221; is used rather than &#8220;during forty days&#8221; because (as the other NT accounts of Jesus&#8217; appearances make clear) Jesus was not continually visible to the apostles during the forty days, but appeared to them on various occasions.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;While he was assembling with them,&#8221; or &#8220;while he was sharing a meal with them.&#8221; There are three basic options for translating the verb <font face=\"Galaxie Unicode Greek\">&#963;&#965;&#957;&#945;&#955;&#943;&#950;&#969;</font> (<font face=\"Greektl\">sunalizw</font>): (1) &#8220;Eat (salt) with, share a meal with&#8221;; (2) &#8220;bring together, assemble&#8221;; (3) &#8220;spend the night with, stay with&#8221; (see BDAG 964 s.v.). The difficulty with the first option is that it does not fit the context, and this meaning is not found elsewhere. The second option is difficult because of the singular number and the present tense. The third option is based on a spelling variation of <font face=\"Galaxie Unicode Greek\">&#963;&#965;&#957;&#945;&#965;&#955;&#953;&#950;&#972;&#956;&#949;&#957;&#959;&#962;</font> (<font face=\"Greektl\">sunaulizomeno&quot;</font>), which some minuscules actually read here. The difference in meaning between (2) and (3) is not great, but (3) seems to fit the context somewhat better here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;ordered them&#8221;; the command &#8220;Do not leave&#8221; is not in Greek but is an indirect quotation in the original (see note at end of the verse for explanation).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;there&#8221; is not in the Greek text (direct objects in Greek were frequently omitted when clear from the context).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;the,&#8221; with the article used as a possessive pronoun (<i>ExSyn</i> 215).</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;for the promise of the Father.&#8221; Jesus is referring to the promised gift of the Holy Spirit (see the following verse).</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;While he was with them, he ordered them not to leave Jerusalem, but to wait there for &#8216;what my Father promised, which you heard about from me.&#8217;&#8221; This verse moves from indirect to direct discourse. This abrupt change is very awkward, so the entire quotation has been rendered as direct discourse in the translation.</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In the Greek text v. <span class=\"bibleref\" title=\"Acts 1:5\">5</span> is a continuation of the previous sentence, which is long and complicated. In keeping with the tendency of contemporary English to use shorter sentences, a new sentence was started here in the translation.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The pronoun is plural in Greek.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;they began to ask him, saying.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#955;&#941;&#947;&#959;&#957;&#964;&#949;&#962;</font> (<font face=\"Greektl\">legontes</font>) is redundant in contemporary English and has not been translated. The imperfect tense of the Greek verb <font face=\"Galaxie Unicode Greek\">&#7968;&#961;&#8061;&#964;&#969;&#957;</font> (<font face=\"Greektl\">hrwtwn</font>) has been translated as an ingressive imperfect.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;It is not for you to know.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;to the ends.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And after.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And as.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;behold.&#8221;</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;here&#8221; is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context, but must be supplied for the modern English reader.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Codex Bezae (D) and several other witnesses lack the words <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#962; &#964;&#8056;&#957; &#959;&#8016;&#961;&#945;&#957;&#972;&#957;</font> (<font face=\"Greektl\">ei&quot; ton ouranon</font>, &#8220;into heaven&#8221;) here, most likely by way of accidental deletion. In any event, it is hardly correct to suppose that the Western text has intentionally suppressed references to the ascension of Christ here, for the phrase is solidly attested in the final clause of the verse.<p class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;into the sky.&#8221; The Greek word <font face=\"Galaxie Unicode Greek\">&#959;&#8016;&#961;&#945;&#957;&#972;&#962;</font> (<font face=\"Greektl\">ouranos</font>) may be translated &#8220;sky&#8221; (vv. <span class=\"bibleref\" title=\"Acts 1:10,11\">10, 11</span>a) or &#8220;heaven&#8221; (twice in v. <span class=\"bibleref\" title=\"Acts 1:11\">11</span>b) depending on the context.</p></div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;from the hill.&#8221; The Greek term <font face=\"Galaxie Unicode Greek\">&#8004;&#961;&#959;&#962;</font> (<font face=\"Greektl\">oros</font>) refers to a relatively high elevation of land in contrast with <font face=\"Galaxie Unicode Greek\">&#946;&#959;&#965;&#957;&#972;&#962;</font> (<font face=\"Greektl\">bounos</font>, &#8220;hill&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The <i>Mount of Olives</i> is the traditional name for this mountain, also called Olivet. The Mount of Olives is really a ridge running north to south about 1.8 mi (3 km) long, east of Jerusalem across the Kidron Valley. Its central elevation is about 100 ft (30 m) higher than Jerusalem. It was named for the large number of olive trees which grew on it.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The phrase <i>a Sabbath day</i>&#8217;<i>s journey</i> refers to the distance the rabbis permitted a person to travel on the Sabbath without breaking the Sabbath, specified in tractate <i>Sotah</i> 5:3 of the Mishnah as 2,000 cubits (a cubit was about 18 inches). In this case the distance was about half a mile (1 km).</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And when.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;Jerusalem&#8221; is not in the Greek text but is implied (direct objects were often omitted when clear from the context).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> In the various lists of the twelve, <i>Peter</i> (also called Simon) is always mentioned first (see also <span class=\"bibleref\" title=\"Matthew 10:1-4\">Matt 10:1-4</span>; <span class=\"bibleref\" title=\"Mark 3:16-19\">Mark 3:16-19</span>; <span class=\"bibleref\" title=\"Luke 6:13-16\">Luke 6:13-16</span>) and the first four are always the same, though not in the same order after Peter.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;were there&#8221; are not in the Greek text, but are implied.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Jesus&#8217; <i>brothers</i> are mentioned in <span class=\"bibleref\" title=\"Matthew 13:55\">Matt 13:55</span> and <span class=\"bibleref\" title=\"John 7:3\">John 7:3</span>.</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And in those days.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;brethren&#8221; (but the term includes both male and female believers present in this gathering, as indicated by those named in vv. <span class=\"bibleref\" title=\"Acts 1:13-14\">13-14</span>).</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Men brothers.&#8221; In light of the compound phrase <font face=\"Galaxie Unicode Greek\">&#7940;&#957;&#948;&#961;&#949;&#962; &#7936;&#948;&#949;&#955;&#966;&#959;&#943;</font> (<font face=\"Greektl\">andre&quot; adelfoi</font>, &#8220;Men brothers&#8221;) Peter&#8217;s words are best understood as directly addressed to the males present, possibly referring specifically to the twelve (really ten at this point &#8211; eleven minus the speaker, Peter) mentioned by name in v. <span class=\"bibleref\" title=\"Acts 1:13\">13</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;foretold by the mouth of.&#8221;</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;and was chosen to have a share in this ministry.&#8221; The term <font face=\"Galaxie Unicode Greek\">&#955;&#945;&#947;&#967;&#940;&#957;&#969;</font> (<font face=\"Greektl\">lancanw</font>) here and in <span class=\"bibleref\" title=\"2 Peter 1:1\">2 Pet 1:1</span> can be understood as referring to the process of divine choice and thus be translated, &#8220;was chosen to have.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The referent of &#8220;this man&#8221; (Judas) was specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Traditionally, &#8220;with the reward of his wickedness.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Traditionally, &#8220;falling headlong.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;all his bowels.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And this.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Their own language</i> refers to Aramaic, the primary language spoken in Palestine in Jesus&#8217; day.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;that field was called.&#8221; The passive voice has been converted to active in the translation in keeping with contemporary English style.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;uninhabited&#8221; or &#8220;empty.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> A quotation from <span class=\"bibleref\" title=\"Psalms 69:25\">Ps 69:25</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Let another take his office.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> A quotation from <span class=\"bibleref\" title=\"Psalms 109:8\">Ps 109:8</span>.</p></div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Greek term here is <font face=\"Galaxie Unicode Greek\">&#7936;&#957;&#8053;&#961;</font> (<font face=\"Greektl\">anhr</font>), which only exceptionally is used in a generic sense of both males and females. In this context, where a successor to Judas is being chosen, only men were under consideration in the original historical context.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;the Lord Jesus went in and out among us.&#8221; According to BDAG 294 s.v. <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#963;&#941;&#961;&#967;&#959;&#956;&#945;&#953;</font> 1.b.<font face=\"Galaxie Unicode Greek\">&#946;</font>, &#8220;<font face=\"Galaxie Unicode Greek\">&#7952;&#957; &#960;&#945;&#957;&#964;&#8054; &#967;&#961;&#972;&#957;&#8179; &#8103; &#949;&#7984;&#963;&#8134;&#955;&#952;&#949;&#957; &#954;&#945;&#8054; &#7952;&#958;&#8134;&#955;&#952;&#949;&#957; &#7952;&#966;&#8127; &#7969;&#956;&#8118;&#962;</font> <i>went in and out among us</i> = <i>associated with us</i> <span class=\"bibleref\" title=\"Acts 1:21\">Ac 1:21</span>.&#8221;</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Here the pronoun &#8220;he&#8221; refers to Jesus.</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tc</span> Codex Bezae (D) and other Western witnesses have &#8220;he proposed,&#8221; referring to Peter, thus emphasizing his role above the other apostles. The Western text displays a conscious pattern of elevating Peter in Acts, and thus the singular verb here is a palpably motivated reading.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;So they proposed two.&#8221; The word &#8220;candidates&#8221; was supplied in the text for clarity.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And praying, they said.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;to take the place.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;of this ministry.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the task of this service and apostleship which Judas ceased to perform.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>To go to his own place.</i> This may well be a euphemism for Judas&#8217; judged fate. He separated himself from them, and thus separated he would remain.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Here <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has been translated as &#8220;then&#8221; to indicate the continuity with the preceding verse. Greek style often begins sentences or clauses with &#8220;and,&#8221; but English style does not.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and the lot fell on Matthias.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;he was counted as one of the apostles along with the eleven.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "1",
+      "text": "I wrote the former account, Theophilus, about all that Jesus began to do and teach "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "2",
+      "text": "until the day he was taken up to heaven, after he had given orders by the Holy Spirit to the apostles he had chosen. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "3",
+      "text": "To the same apostles also, after his suffering, he presented himself alive with many convincing proofs. He was seen by them over a forty-day period and spoke about matters concerning the kingdom of God."
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "4",
+      "text": "While he was with them, he declared, “Do not leave Jerusalem, but wait there for what my Father promised, which you heard about from me. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "5",
+      "text": "For John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "6",
+      "text": "So when they had gathered together, they began to ask him, “Lord, is this the time when you are restoring the kingdom to Israel?” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "7",
+      "text": "He told them, “You are not permitted to know the times or periods that the Father has set by his own authority. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "8",
+      "text": "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the farthest parts of the earth.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "9",
+      "text": "After he had said this, while they were watching, he was lifted up and a cloud hid him from their sight. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "10",
+      "text": "As they were still staring into the sky while he was going, suddenly two men in white clothing stood near them "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "11",
+      "text": "and said, “Men of Galilee, why do you stand here looking up into the sky? This same Jesus who has been taken up from you into heaven will come back in the same way you saw him go into heaven.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "12",
+      "text": "Then they returned to Jerusalem from the mountain called the Mount of Olives (which is near Jerusalem, a Sabbath day’s journey away). "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "13",
+      "text": "When they had entered Jerusalem, they went to the upstairs room where they were staying. Peter and John, and James, and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus and Simon the Zealot, and Judas son of James were there."
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "14",
+      "text": "All these continued together in prayer with one mind, together with the women, along with Mary the mother of Jesus, and his brothers. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "15",
+      "text": "In those days Peter stood up among the believers (a gathering of about 120 people) and said,"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "16",
+      "text": "“Brothers, the scripture had to be fulfilled that the Holy Spirit foretold through David concerning Judas—who became the guide for those who arrested Jesus—"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "17",
+      "text": "for he was counted as one of us and received a share in this ministry.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "18",
+      "text": "(Now this man Judas acquired a field with the reward of his unjust deed, and falling headfirst he burst open in the middle and all his intestines gushed out. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "19",
+      "text": "This became known to all who lived in Jerusalem, so that in their own language they called that field Hakeldama, that is, “Field of Blood.”) "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "20",
+      "text": "“For it is written in the book of Psalms, ‘<b>Let his house become deserted,</b> <b>and</b> <b>let there be no one to live in it</b>,’ and ‘<b>Let another take his position of responsibility</b>.’ "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "21",
+      "text": "Thus one of the men who have accompanied us during all the time the Lord Jesus associated with us, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "22",
+      "text": "beginning from his baptism by John until the day he was taken up from us—one of these must become a witness of his resurrection together with us.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "23",
+      "text": "So they proposed two candidates: Joseph called Barsabbas (also called Justus) and Matthias. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "24",
+      "text": "Then they prayed, “Lord, you know the hearts of all. Show us which one of these two you have chosen "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "25",
+      "text": "to assume the task of this service and apostleship from which Judas turned aside to go to his own place.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "1",
+      "verse": "26",
+      "text": "Then they cast lots for them, and the one chosen was Matthias; so he was counted with the eleven apostles. "
+    }
+  ]
+}

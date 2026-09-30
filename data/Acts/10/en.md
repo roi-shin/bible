@@ -1,0 +1,512 @@
+# Acts 10 (English)
+
+## Text
+
+**1** Now there was a man in Caesarea named Cornelius, a centurion of what was known as the Italian Cohort. 
+
+**2** He was a devout, God-fearing man, as was all his household; he did many acts of charity for the people and prayed to God regularly. 
+
+**3** About three o’clock one afternoon he saw clearly in a vision an angel of God who came in and said to him, “Cornelius.”
+
+**4** Staring at him and becoming greatly afraid, Cornelius replied, “What is it, Lord?” The angel said to him, “Your prayers and your acts of charity have gone up as a memorial before God. 
+
+**5** Now send men to Joppa and summon a man named Simon, who is called Peter. 
+
+**6** This man is staying as a guest with a man named Simon, a tanner, whose house is by the sea.” 
+
+**7** When the angel who had spoken to him departed, Cornelius called two of his personal servants and a devout soldier from among those who served him, 
+
+**8** and when he had explained everything to them, he sent them to Joppa. 
+
+**9** About noon the next day, while they were on their way and approaching the city, Peter went up on the roof to pray. 
+
+**10** He became hungry and wanted to eat, but while they were preparing the meal, a trance came over him. 
+
+**11** He saw heaven opened and an object something like a large sheet descending, being let down to earth by its four corners. 
+
+**12** In it were all kinds of four-footed animals and reptiles of the earth and wild birds. 
+
+**13** Then a voice said to him, “Get up, Peter; slaughter and eat!” 
+
+**14** But Peter said, “Certainly not, Lord, for I have never eaten anything defiled and ritually unclean!” 
+
+**15** The voice spoke to him again, a second time, “What God has made clean, you must not consider ritually unclean!” 
+
+**16** This happened three times, and immediately the object was taken up into heaven. 
+
+**17** Now while Peter was puzzling over what the vision he had seen could signify, the men sent by Cornelius had learned where Simon’s house was and approached the gate. 
+
+**18** They called out to ask if Simon, known as Peter, was staying there as a guest. 
+
+**19** While Peter was still thinking seriously about the vision, the Spirit said to him, “Look! Three men are looking for you. 
+
+**20** But get up, go down, and accompany them without hesitation because I have sent them.” 
+
+**21** So Peter went down to the men and said, “Here I am, the person you’re looking for. Why have you come?” 
+
+**22** They said, “Cornelius the centurion, a righteous and God-fearing man, well spoken of by the whole Jewish nation, was directed by a holy angel to summon you to his house and to hear a message from you.” 
+
+**23** So Peter invited them in and entertained them as guests.On the next day he got up and set out with them, and some of the brothers from Joppa accompanied him. 
+
+**24** The following day he entered Caesarea. Now Cornelius was waiting anxiously for them and had called together his relatives and close friends. 
+
+**25** So when Peter came in, Cornelius met him, fell at his feet, and worshiped him. 
+
+**26** But Peter helped him up, saying, “Stand up. I too am a mere mortal.” 
+
+**27** Peter continued talking with him as he went in, and he found many people gathered together. 
+
+**28** He said to them, “You know that it is unlawful for a Jew to associate with or visit a Gentile, yet God has shown me that I should call no person defiled or ritually unclean. 
+
+**29** Therefore when you sent for me, I came without any objection. Now may I ask why you sent for me?” 
+
+**30** Cornelius replied, “Four days ago at this very hour, at three o’clock in the afternoon, I was praying in my house, and suddenly a man in shining clothing stood before me 
+
+**31** and said, ‘Cornelius, your prayer has been heard and your acts of charity have been remembered before God. 
+
+**32** Therefore send to Joppa and summon Simon, who is called Peter. This man is staying as a guest in the house of Simon the tanner, by the sea.’ 
+
+**33** Therefore I sent for you at once, and you were kind enough to come. So now we are all here in the presence of God to listen to everything the Lord has commanded you to say to us.”
+
+**34** Then Peter started speaking: “I now truly understand that God does not show favoritism in dealing with people, 
+
+**35** but in every nation the person who fears him and does what is right is welcomed before him. 
+
+**36** You know the message he sent to the people of Israel, proclaiming the good news of peace through Jesus Christ (he is Lord of all)—
+
+**37** you know what happened throughout Judea, beginning from Galilee after the baptism that John announced: 
+
+**38** with respect to Jesus from Nazareth, that God anointed him with the Holy Spirit and with power. He went around doing good and healing all who were oppressed by the devil because God was with him. 
+
+**39** We are witnesses of all the things he did both in Judea and in Jerusalem. They killed him by hanging him on a tree, 
+
+**40** but God raised him up on the third day and caused him to be seen, 
+
+**41** not by all the people, but by us, the witnesses God had already chosen, who ate and drank with him after he rose from the dead. 
+
+**42** He commanded us to preach to the people and to warn them that he is the one appointed by God as judge of the living and the dead. 
+
+**43** About him all the prophets testify, that everyone who believes in him receives forgiveness of sins through his name.” 
+
+**44** While Peter was still speaking these words, the Holy Spirit fell on all those who heard the message. 
+
+**45** The circumcised believers who had accompanied Peter were greatly astonished that the gift of the Holy Spirit had been poured out even on the Gentiles, 
+
+**46** for they heard them speaking in tongues and praising God. Then Peter said, 
+
+**47** “No one can withhold the water for these people to be baptized, who have received the Holy Spirit just as we did, can he?”
+
+**48** So he gave orders to have them baptized in the name of Jesus Christ. Then they asked him to stay for several days. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Caesarea was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi). It was known as “Caesarea by the sea” (BDAG 499 s.v. Καισάρεια 2). Largely Gentile, it was a center of Roman administration and the location of many of Herod the Great’s building projects (Josephus, Ant. 15.9.6 [15.331-341]).[地図]  For location see Map2-C1; Map4-B3; Map5-F2; Map7-A1; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 1 - Note 2
+[解説]  A centurion was a noncommissioned officer in the Roman army or one of the auxiliary territorial armies, commanding a centuria of (nominally) 100 men. The responsibilities of centurions were broadly similar to modern junior officers, but there was a wide gap in social status between them and officers, and relatively few were promoted beyond the rank of senior centurion. The Roman troops stationed in Judea were auxiliaries, who would normally be rewarded with Roman citizenship after 25 years of service. Some of the centurions may have served originally in the Roman legions (regular army) and thus gained their citizenship at enlistment. Others may have inherited it, like Paul.
+
+### Verse 1 - Note 3
+[解説]  A cohort was a Roman military unit of about 600 soldiers, one-tenth of a legion (BDAG 936 s.v. σπεῖρα). The Italian Cohort has been identified as cohors II Italica which is known to have been stationed in Syria in a.d. 88.
+
+### Verse 2 - Note 1
+[翻訳注]  In the Greek text this represents a continuation of the previous sentence. Because of the tendency of contemporary English to use shorter sentences, a new sentence was begun here in the translation.
+
+### Verse 2 - Note 2
+[解説]  The description of Cornelius as a devout, God-fearing man probably means that he belonged to the category called “God-fearers,” Gentiles who worshiped the God of Israel and in many cases kept the Mosaic law, but did not take the final step of circumcision necessary to become a proselyte to Judaism. See further K. G. Kuhn, TDNT 6:732-34, 43-44, and Sir 11:17; 27:11; 39:27.
+
+### Verse 2 - Note 3
+[翻訳注]  Or “gave many gifts to the poor.” This was known as “giving alms,” or acts of mercy (Sir 7:10; BDAG 315-16 s.v. ἐλεημοσύνη).
+
+### Verse 3 - Note 1
+[翻訳注]  Grk “at about the ninth hour of the day.” This would be the time for afternoon prayer.
+
+### Verse 3 - Note 2
+[翻訳注]  Or “the angel of God.” Linguistically, “angel of God” is the same in both testaments (and thus, he is either “an angel of God” or “the angel of God” in both testaments). For arguments and implications, see ExSyn 252; M. J. Davidson, “Angels,” DJG, 9; W. G. MacDonald argues for “an angel” in both testaments: “Christology and ‘The Angel of the Lord’,” Current Issues in Biblical and Patristic Interpretation, 324-35.
+
+### Verse 3 - Note 3
+[翻訳注]  The participles εἰσελθόντα (eiselqonta) and εἰπόντα (eiponta) are accusative, and thus best taken as adjectival participles modifying ἄγγελον (angelon): “an angel who came in and said.”
+
+### Verse 4 - Note 1
+[翻訳注]  Grk “he”; the referent (Cornelius) has been specified in the translation for clarity.
+
+### Verse 4 - Note 2
+[翻訳注]  Grk “said,” but in response to the angel’s address, “replied” is better English style.
+
+### Verse 4 - Note 3
+[翻訳注]  Grk “he”; the referent (the angel) has been specified in the translation for clarity.
+
+### Verse 4 - Note 4
+[翻訳注]  Or “your gifts to the needy.”
+
+### Verse 4 - Note 5
+[解説]  The language used in the expression gone up as a memorial before God parallels what one would say of acceptable sacrifices (Ps 141:2; Sir 35:6; 50:16).
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “And now.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 5 - Note 2
+[解説]  Joppa was a seaport on the Philistine coast, in the same location as modern Jaffa.
+
+### Verse 5 - Note 3
+[翻訳注]  Grk “a certain Simon.”
+
+### Verse 6 - Note 1
+[翻訳注]  Or “with a certain Simon Berseus.” Although most modern English translations treat βυρσεῖ (bursei) as Simon’s profession (“Simon the tanner”), it is possible that the word is actually Simon’s surname (“Simon Berseus” or “Simon Tanner”). BDAG 185 s.v. βυρσεύς regards it as a surname. See also MM 118.
+
+### Verse 7 - Note 1
+[翻訳注]  Grk “he”; the referent (Cornelius) has been specified in the translation for clarity.
+
+### Verse 7 - Note 2
+[翻訳注]  Or “domestic servants.” The Greek word here is οἰκέτης (oiketh"), which technically refers to a member of the household, but usually means a household servant (slave) or personal servant rather than a field laborer.
+
+### Verse 7 - Note 3
+[翻訳注]  The meaning of the genitive participle προσκαρτερούντων (proskarterountwn) could either be “a soldier from the ranks of those who served him” (referring to his entire command) or “a soldier from among his personal staff” (referring to a group of soldiers who were his personal attendants). The translation “from among those who served him” is general enough to cover either possibility.
+
+### Verse 9 - Note 1
+[翻訳注]  Grk “about the sixth hour.”
+
+### Verse 9 - Note 2
+[翻訳注]  The participles ὁδοιπορούντων (Jodoiporountwn, “while they were on their way”) and ἐγγιζόντων (engizontwn, “approaching”) have been translated as temporal participles.
+
+### Verse 9 - Note 3
+[解説]  Went up on the roof. Most of the roofs in the NT were flat roofs made of pounded dirt, sometimes mixed with lime or stones, supported by heavy wooden beams. They generally had an easy means of access, either a sturdy wooden ladder or stone stairway, sometimes on the outside of the house.
+
+### Verse 10 - Note 1
+[翻訳注]  The traditional translation, “he fell into a trance,” is somewhat idiomatic; it is based on the textual variant ἐπέπεσεν (epepesen, “he fell”) found in the Byzantine text but almost certainly not original.
+
+### Verse 11 - Note 1
+[翻訳注]  Grk “And he.” Because of the length of the Greek sentence, the conjunction καί (kai) has not been translated here. Instead a new English sentence is begun.
+
+### Verse 11 - Note 2
+[翻訳注]  Or “the sky” (the same Greek word means both “heaven” and “sky”).
+
+### Verse 11 - Note 3
+[翻訳注]  On the heavens “opening,” see Matt 3:16; Luke 3:21; Rev 19:11 (cf. BDAG 84 s.v. ἀνοίγω 2). This is the language of a vision or a revelatory act of God.
+
+### Verse 11 - Note 4
+[翻訳注]  Or “a large linen cloth” (the term was used for the sail of a ship; BDAG 693 s.v. ὀθόνη).
+
+### Verse 11 - Note 5
+[翻訳注]  Or “coming down.”
+
+### Verse 11 - Note 6
+[翻訳注]  Or “to the ground.”
+
+### Verse 12 - Note 1
+[翻訳注]  Grk “in which.” The relative pronoun was replaced by the pronoun “it,” and a new sentence was begun in the translation at this point to improve the English style.
+
+### Verse 12 - Note 2
+[翻訳注]  Or “snakes.” Grk “creeping things.” According to L&N 4.51, in most biblical contexts the term (due to the influence of Hebrew classifications such as Gen 1:25-26, 30) included small four-footed animals like rats, mice, frogs, toads, salamanders, and lizards. In this context, however, where “creeping things” are contrasted with “four-footed animals,” the English word “reptiles,” which primarily but not exclusively designates snakes, is probably more appropriate. See also Gen 6:20, as well as the law making such creatures unclean food in Lev 11:2-47.
+
+### Verse 12 - Note 3
+[翻訳注]  Grk “the birds of the sky” or “the birds of the heaven”; the Greek word οὐρανός (ouranos) may be translated either “sky” or “heaven,” depending on the context. The idiomatic expression “birds of the sky” refers to wild birds as opposed to domesticated fowl (cf. BDAG 809 s.v. πετεινόν).
+
+### Verse 13 - Note 1
+[翻訳注]  Grk “And there came.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 13 - Note 2
+[翻訳注]  Grk “a voice to him”; the word “said” is not in the Greek text but is implied.
+
+### Verse 13 - Note 3
+[翻訳注]  Or “kill.” Traditionally θῦσον (quson) is translated “kill,” but in the case of animals intended for food, “slaughter” is more appropriate.
+
+### Verse 14 - Note 1
+[翻訳注]  Possibly there is a subtle distinction in meaning between κοινός (koinos) and ἀκάθαρτος (akaqarto") here, but according to L&N 53.39 it is difficult to determine precise differences in meaning based on existing contexts.[解説]  Peter insisted he would not violate the law by eating anything defiled and ritually unclean. These food laws were one of the practices that distinguished Jews from their Gentile neighbors. The practice made table fellowship with Gentiles awkward. For an example of Jewish attitudes to this, see Dan 1:8-16; 1 Macc 1:41-64; Letter of Aristeas 142; Tacitus, History 5.5.
+
+### Verse 15 - Note 1
+[翻訳注]  Grk “And the voice.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 15 - Note 2
+[翻訳注]  Or “declare.”
+
+### Verse 15 - Note 3
+[解説]  For the significance of this vision see Mark 7:14-23; Rom 14:14; Eph 2:11-22. God directed this change in practice.
+
+### Verse 16 - Note 1
+[翻訳注]  Or “into the sky” (the same Greek word means both “heaven” and “sky”).
+
+### Verse 17 - Note 1
+[翻訳注]  Or “was greatly confused over.” The term means to be perplexed or at a loss (BDAG 235 s.v. διαπορέω).
+
+### Verse 17 - Note 2
+[翻訳注]  Grk “having learned.” The participle διερωτήσαντες (dierwthsante") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 17 - Note 3
+[翻訳注]  BDAG 418 s.v. ἐφίστημι 1 has “ἐπί τι approach or stand by someth. (Sir 41:24) Ac 10:17.”[解説]  As Peter puzzled over the meaning of the vision, the messengers from Cornelius approached the gate. God’s direction here had a sense of explanatory timing.
+
+### Verse 18 - Note 1
+[翻訳注]  Grk “and.” Because of the length of the Greek sentence, the conjunction καί (kai) has not been translated here. Instead a new English sentence is begun by supplying the pronoun “they” as the subject of the following verb.
+
+### Verse 18 - Note 2
+[翻訳注]  Grk “Simon, the one called Peter.” This qualification was necessary because the owner of the house was also named Simon (Acts 9:43).
+
+### Verse 19 - Note 1
+[翻訳注]  The translation “think seriously about” for διενθυμέομαι (dienqumeomai) is given in L&N 30.2. Peter was “pondering” the vision (BDAG 244 s.v.).
+
+### Verse 20 - Note 1
+[翻訳注]  Grk “But getting up, go down.” The participle ἀναστάς (anastas) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 20 - Note 2
+[翻訳注]  The term means “without doubting” or “without deliberation.” It is a term of conscience and discernment. In effect, Peter is to listen to them rather than hesitate (BDAG 231 s.v. διακρίνω 6).
+
+### Verse 21 - Note 1
+[翻訳注]  Grk “Peter going down to the men, said.” The participle καταβάς (katabas) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 21 - Note 2
+[翻訳注]  Grk “Behold, it is I whom you seek,” or “Behold, I am the one you seek.” “Here I am” is used to translate ἰδοὺ ἐγώ εἰμι (idou egw eimi).
+
+### Verse 22 - Note 1
+[解説]  See the note on the word centurion in 10:1.
+
+### Verse 22 - Note 2
+[翻訳注]  Or “just.”
+
+### Verse 22 - Note 3
+[翻訳注]  The phrase τοῦ ἔθνους τῶν ᾿Ιουδαίων (tou eqnou" twn Ioudaiwn) is virtually a technical term for the Jewish nation (1 Macc 10:25; 11:30, 33; Josephus, Ant. 14.10.22 [14.248]). “All the Jewish people,” while another possible translation of the Greek phrase, does not convey the technical sense of a reference to the nation in English.[解説]  The long introduction of Cornelius by his messengers is an attempt to commend this Gentile to his Jewish counterpart, which would normally be important to do in the culture of the time.
+
+### Verse 22 - Note 4
+[翻訳注]  Grk “hear words.”
+
+### Verse 23 - Note 1
+[翻訳注]  Grk “he”; the referent (Peter) has been specified in the translation for clarity.[解説]  When Peter entertained them as guests, he performed a culturally significant act denoting acceptance.
+
+### Verse 23 - Note 2
+[翻訳注]  Or “went forth.”
+
+### Verse 23 - Note 3
+[解説]  Some of the brothers from Joppa. As v. 45 makes clear, there were Jewish Christians in this group of witnesses.
+
+### Verse 24 - Note 1
+[翻訳注]  Grk “On the next day,” but since this phrase has already occurred in v. 23, it would be redundant in English to use it again here.
+
+### Verse 24 - Note 2
+[解説]  Caesarea was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi).[地図]  For location see Map2-C1; Map4-B3; Map5-F2; Map7-A1; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 24 - Note 3
+[翻訳注]  Normally προσδοκάω (prosdokaw) means “to wait with apprehension or anxiety for something,” often with the implication of impending danger or trouble (L&N 25.228), but in this context the anxiety Cornelius would have felt came from the importance of the forthcoming message as announced by the angel.
+
+### Verse 25 - Note 1
+[翻訳注]  Grk “So it happened that when.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 25 - Note 2
+[翻訳注]  Grk “meeting him.” The participle συναντήσας (sunanthsa") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 25 - Note 3
+[翻訳注]  Grk “falling at his feet, worshiped.” The participle πεσών (peswn) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 25 - Note 4
+[解説]  When Cornelius worshiped Peter, it showed his piety and his respect for Peter, but it was an act based on ignorance, as Peter’s remark in v. 26 indicates.
+
+### Verse 26 - Note 1
+[翻訳注]  BDAG 271 s.v. ἐγείρω 3 has “raise, help to rise….Stretched out Ac 10:26.”
+
+### Verse 26 - Note 2
+[翻訳注]  Although it is certainly true that Peter was a “man,” here ἄνθρωπος (anqrwpo") has been translated as “mere mortal” because the emphasis in context is not on Peter’s maleness, but his humanity. Contrary to what Cornelius thought, Peter was not a god or an angelic being, but a mere mortal.
+
+### Verse 27 - Note 1
+[翻訳注]  Grk “And he”; the referent (Peter) has been specified in the translation for clarity. Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 27 - Note 2
+[翻訳注]  Or “many people assembled.”
+
+### Verse 28 - Note 1
+[翻訳注]  Here ὡς (Jws) is used like ὅτι (Joti) to introduce indirect discourse (cf. BDAG 1105 s.v. ὡς 5).
+
+### Verse 28 - Note 2
+[翻訳注]  This term is used of wanton or callously lawless acts (BDAG 24 s.v. ἀθέμιτος).
+
+### Verse 28 - Note 3
+[翻訳注]  Grk “a Jewish man” (ἀνδρὶ ᾿Ιουδαίῳ, andri Ioudaiw).
+
+### Verse 28 - Note 4
+[翻訳注]  Grk “a foreigner,” but in this context, “a non-Jew,” that is, a Gentile. This term speaks of intimate association (BDAG 556 s.v. κολλάω 2.b.α). On this Jewish view, see John 18:28, where a visit to a Gentile residence makes a Jewish person unclean.
+
+### Verse 28 - Note 5
+[翻訳注]  This is a generic use of ἄνθρωπος (anqrwpo").
+
+### Verse 28 - Note 6
+[翻訳注]  Possibly there is a subtle distinction in meaning between κοινός (koinos) and ἀκάθαρτος (akaqartos) here, but according to L&N 53.39 it is difficult to determine precise differences in meaning based on existing contexts.[解説]  God has shown me…unclean. Peter sees the significance of his vision as not about food, but about open fellowship between Jewish Christians and Gentiles.
+
+### Verse 29 - Note 1
+[翻訳注]  Grk “Therefore when I was sent for.” The passive participle μεταπεμφθείς (metapemfqei") has been taken temporally and converted to an active construction which is less awkward in English.
+
+### Verse 29 - Note 2
+[翻訳注]  Grk “ask for what reason.”
+
+### Verse 30 - Note 1
+[翻訳注]  Grk “And Cornelius.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 30 - Note 2
+[翻訳注]  Grk “said.”
+
+### Verse 30 - Note 3
+[翻訳注]  Grk “at the ninth hour.” Again, this is the hour of afternoon prayer.
+
+### Verse 30 - Note 4
+[翻訳注]  Grk “and behold.” The interjection ἰδού (idou) is difficult at times to translate into English. Here it has been translated as “suddenly” to convey the force of Cornelius’ account of the angel’s appearance.
+
+### Verse 31 - Note 1
+[翻訳注]  Or “your gifts to the needy.”
+
+### Verse 31 - Note 2
+[解説]  This statement is a paraphrase rather than an exact quotation of Acts 10:4.
+
+### Verse 32 - Note 1
+[翻訳注]  Or “with a certain Simon Berseus.” Although most modern English translations treat βυρσεῖ (bursei) as Simon’s profession (“Simon the tanner”), it is possible that the word is actually Simon’s surname (“Simon Berseus” or “Simon Tanner”). BDAG 185 s.v. βυρσεύς regards it as a surname.
+
+### Verse 33 - Note 1
+[翻訳注]  Grk “you have done well by coming.” The idiom καλῶς ποιεῖν (kalw" poiein) is translated “be kind enough to do someth.” by BDAG 505-6 s.v. καλῶς 4.a. The participle παραγενόμενος (paragenomeno") has been translated as an English infinitive due to the nature of the English idiom (“kind enough to” + infinitive).
+
+### Verse 33 - Note 2
+[翻訳注]  The translation “we are here in the presence of God” for ἐνώπιον τοῦ θεοῦ πάρεσμεν (enwpion tou qeou paresmen) is given by BDAG 773 s.v. πάρειμι 1.a.
+
+### Verse 33 - Note 3
+[翻訳注]  Or “to hear everything.”
+
+### Verse 33 - Note 4
+[翻訳注]  The words “to say to us” are not in the Greek text, but are implied. Cornelius knows Peter is God’s representative, bringing God’s message.
+
+### Verse 34 - Note 1
+[翻訳注]  Grk “Opening his mouth Peter said” (a Semitic idiom for beginning to speak in a somewhat formal manner). The participle ἀνοίξας (anoixa") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 34 - Note 2
+[翻訳注]  Grk “God is not one who is a respecter of persons,” that is, “God is not one to show partiality” (cf. BDAG 887 s.v. προσωπολήμπτης). L&N 88.239 translates this verse “I realize that God does not show favoritism (in dealing with people).” The underlying Hebrew idiom includes the personal element (“respecter of persons”) so the phrase “in dealing with people” is included in the present translation. It fits very well with the following context and serves to emphasize the relational component of God’s lack of partiality. The latter is a major theme in the NT: Rom 2:11; Eph 2:11-22; Col 3:25; Jas 2:1; 1 Pet 1:17. This was the lesson of Peter’s vision.
+
+### Verse 35 - Note 1
+[解説]  See Luke 24:47.
+
+### Verse 35 - Note 2
+[翻訳注]  Or “shows reverence for him.”
+
+### Verse 35 - Note 3
+[翻訳注]  Grk “works righteousness”; the translation “does what is right” for this phrase in this verse is given by L&N 25.85.[解説]  Note how faith and response are linked here by the phrase and does what is right.
+
+### Verse 36 - Note 1
+[翻訳注]  The subject and verb (“you know”) do not actually occur until the following verse, but have been repeated here because of the requirements of English word order.
+
+### Verse 36 - Note 2
+[翻訳注]  Grk “the word.”
+
+### Verse 36 - Note 3
+[翻訳注]  Grk “to the sons.”
+
+### Verse 36 - Note 4
+[解説]  Peace is a key OT concept: Isa 52:7; Nah 1:15; also for Luke: Luke 1:79; 2:14; Acts 9:31. See also the similar phrase in Eph 2:17.
+
+### Verse 36 - Note 5
+[翻訳注]  Or “by.”
+
+### Verse 36 - Note 6
+[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”
+
+### Verse 36 - Note 7
+[解説]  He is Lord of all. Though a parenthetical remark, this is the theological key to the speech. Jesus is Lord of all, so the gospel can go to all. The rest of the speech proclaims Jesus’ authority.
+
+### Verse 37 - Note 1
+[翻訳注]  Or “proclaimed.”
+
+### Verse 38 - Note 1
+[解説]  The somewhat awkward naming of Jesus as from Nazareth here is actually emphatic. He is the key subject of these key events.
+
+### Verse 38 - Note 2
+[翻訳注]  Or “how.” The use of ὡς (Jws) as an equivalent to ὅτι (Joti) to introduce indirect or even direct discourse is well documented. BDAG 1105 s.v. ὡς 5 lists Acts 10:28 in this category.
+
+### Verse 38 - Note 3
+[翻訳注]  Grk “power, who.” The relative pronoun was replaced by the pronoun “he,” and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek.
+
+### Verse 38 - Note 4
+[翻訳注]  The translation “healing all who were oppressed by the devil” is given in L&N 22.22.[解説]  All who were oppressed by the devil. Note how healing is tied to the cosmic battle present in creation. Christ’s power overcomes the devil and his forces, which seek to destroy humanity.
+
+### Verse 38 - Note 5
+[解説]  See Acts 7:9.
+
+### Verse 39 - Note 1
+[翻訳注]  Grk “And we.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 39 - Note 2
+[翻訳注]  Grk “the land of the Jews,” but this is similar to the phrase used as the name of the province of Judea in 1 Macc 8:3 (see BDAG 1093-94 s.v. χώρα 2.b).
+
+### Verse 39 - Note 3
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 39 - Note 4
+[翻訳注]  Grk “in Jerusalem, whom they killed.” The relative pronoun was replaced by the pronoun “him” and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek.
+
+### Verse 39 - Note 5
+[翻訳注]  Or “by crucifying him” (“hang on a tree” is by the time of the 1st century an idiom for crucifixion). The allusion is to the judgment against Jesus as a rebellious figure, appealing to the language of Deut 21:23. The Jewish leadership has badly “misjudged” Jesus.
+
+### Verse 40 - Note 1
+[翻訳注]  The conjunction “but” is not in the Greek text, but the contrast is clearly implied in the context. This is technically asyndeton, or lack of a connective, in Greek.
+
+### Verse 40 - Note 2
+[翻訳注]  Grk “and granted that he should become visible.” The literal Greek idiom is somewhat awkward in English. L&N 24.22 offers the translation “caused him to be seen” for this verse.
+
+### Verse 41 - Note 1
+[翻訳注]  Or “the witnesses God had previously chosen.” See Acts 1:8.
+
+### Verse 41 - Note 2
+[解説]  Ate and drank. See Luke 24:35-49.
+
+### Verse 42 - Note 1
+[翻訳注]  Grk “and he.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 42 - Note 2
+[翻訳注]  The verb διαμαρτύρομαι (diamarturomai) can mean “warn,” and such a meaning is highly probable in this context where a reference to the judgment of both the living and the dead is present. The more general meaning “to testify solemnly” does not capture this nuance.
+
+### Verse 42 - Note 3
+[翻訳注]  The word “them” is not in the Greek text, but is implied. Direct objects were often omitted in Greek when clear from the context, but must be supplied for the modern English reader.
+
+### Verse 42 - Note 4
+[翻訳注]  Grk “that this one is the one,” but this is awkward in English and has been simplified to “that he is the one.”
+
+### Verse 42 - Note 5
+[翻訳注]  Or “designated.” BDAG 723 s.v. ὁρίζω 2.b has “the one appointed by God as judge” for this phrase.
+
+### Verse 42 - Note 6
+[解説]  Jesus has divine authority as judge over the living and the dead: Acts 17:26-31; Rom 14:9; 1 Thess 5:9-10; 1 Tim 4:1; 1 Pet 4:5.
+
+### Verse 43 - Note 1
+[翻訳注]  Or “All the prophets testify about him.” Although modern English translations tend to place “about him” after “testify” (so NIV, NRSV) the phrase “about him” has been left at the beginning of v. 43 for emphatic reasons.
+
+### Verse 43 - Note 2
+[解説]  Forgiveness of sins. See Luke 24:47; also Acts 14:23; 19:4; 9:42; 11:17; 16:31. The gospel is present in the prophetic promise, Rom 1:1-7. The message is in continuity with the ancient hope.
+
+### Verse 44 - Note 1
+[翻訳注]  Or “came down on.” God now acted to confirm the point of Peter’s speech.
+
+### Verse 44 - Note 2
+[翻訳注]  Or “word.”
+
+### Verse 45 - Note 1
+[翻訳注]  Grk “And the.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 45 - Note 2
+[翻訳注]  Or “The Jewish Christians”; Grk “The believers from the circumcision.”
+
+### Verse 45 - Note 3
+[解説]  The Jewish Christians who were with Peter were greatly astonished because they thought the promise of the Spirit would be limited only to those of Israel. God’s plan was taking on fresh dimensions even as it was a reflection of what the prophets had promised.
+
+### Verse 45 - Note 4
+[翻訳注]  Or “because.”
+
+### Verse 45 - Note 5
+[翻訳注]  That is, the gift consisting of the Holy Spirit. Here τοῦ πνεύματος (tou pneumato") is a genitive of apposition; the gift consists of the Spirit.
+
+### Verse 45 - Note 6
+[解説]  The gift of the Holy Spirit had been poured out. Compare the account in , especially 2:33. Note also Joel 2:17-21 and Acts 11:15-18.
+
+### Verse 46 - Note 1
+[翻訳注]  Or “extolling,” “magnifying.”
+
+### Verse 47 - Note 1
+[翻訳注]  Grk “just as also we.” The auxiliary verb in English must be supplied. This could be either “have” (NIV, NRSV) or “did” (NASB). “Did” is preferred here because the comparison Peter is making concerns not just the fact of the present possession of the Spirit (“they received the Spirit we now possess”), but the manner in which the Gentiles in Cornelius’ house received the Spirit (“they received the Spirit in the same manner we did [on the day of Pentecost]”).
+
+### Verse 47 - Note 2
+[翻訳注]  The Greek construction anticipates a negative reply which is indicated in the translation by the ‘tag’ question, “can he?” The question is rhetorical. Peter was saying these Gentiles should be baptized since God had confirmed they were his.
+
+### Verse 48 - Note 1
+[翻訳注]  The Greek construction (passive infinitive with accusative subject) could be translated either “he ordered them to be baptized” or “he ordered that they be baptized,” but the implication in English in either case is that Peter was giving orders to the Gentiles in Cornelius’ house, telling them to get baptized. It is much more likely in the context that Peter was ordering those Jewish Christians who accompanied him to baptize the new Gentile converts. They would doubtless have still had misgivings even after witnessing the outpouring of the Spirit and hearing the tongues. It took Peter’s apostolic authority (“ordered”) to convince them to perform the baptisms.
+
+### Verse 48 - Note 2
+[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.” Jesus’ right to judge as the provider of forgiveness is highlighted here.

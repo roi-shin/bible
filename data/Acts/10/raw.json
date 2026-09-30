@@ -1,0 +1,936 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Caesarea</i> was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi). It was known as &#8220;Caesarea by the sea&#8221; (BDAG 499 s.v. <font face=\"Galaxie Unicode Greek\">&#922;&#945;&#953;&#963;&#940;&#961;&#949;&#953;&#945;</font> 2). Largely Gentile, it was a center of Roman administration and the location of many of Herod the Great&#8217;s building projects (Josephus, <i>Ant.</i> 15.9.6 [15.331-341]).<p class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-C1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-A1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>A centurion</i> was a noncommissioned officer in the Roman army or one of the auxiliary territorial armies, commanding a <i>centuria</i> of (nominally) 100 men. The responsibilities of centurions were broadly similar to modern junior officers, but there was a wide gap in social status between them and officers, and relatively few were promoted beyond the rank of senior centurion. The Roman troops stationed in Judea were auxiliaries, who would normally be rewarded with Roman citizenship after 25 years of service. Some of the centurions may have served originally in the Roman legions (regular army) and thus gained their citizenship at enlistment. Others may have inherited it, like Paul.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> A <i>cohort</i> was a Roman military unit of about 600 soldiers, one-tenth of a legion (BDAG 936 s.v. <font face=\"Galaxie Unicode Greek\">&#963;&#960;&#949;&#8150;&#961;&#945;</font>). The <i>Italian Cohort</i> has been identified as <i>cohors II Italica</i> which is known to have been stationed in Syria in <sc>a.d.</sc> 88.</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> In the Greek text this represents a continuation of the previous sentence. Because of the tendency of contemporary English to use shorter sentences, a new sentence was begun here in the translation.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The description of Cornelius as <i>a devout, God-fearing man</i> probably means that he belonged to the category called &#8220;God-fearers,&#8221; Gentiles who worshiped the God of Israel and in many cases kept the Mosaic law, but did not take the final step of circumcision necessary to become a proselyte to Judaism. See further K. G. Kuhn, <i>TDNT</i> 6:732-34, 43-44, and Sir 11:17; 27:11; 39:27.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;gave many gifts to the poor.&#8221; This was known as &#8220;giving alms,&#8221; or acts of mercy (Sir 7:10; BDAG 315-16 s.v. <font face=\"Galaxie Unicode Greek\">&#7952;&#955;&#949;&#951;&#956;&#959;&#963;&#973;&#957;&#951;</font>).</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;at about the ninth hour of the day.&#8221; This would be the time for afternoon prayer.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the angel of God.&#8221; Linguistically, &#8220;angel of God&#8221; is the same in both testaments (and thus, he is either &#8220;an angel of God&#8221; or &#8220;the angel of God&#8221; in both testaments). For arguments and implications, see <i>ExSyn</i> 252; M. J. Davidson, &#8220;Angels,&#8221; <i>DJG</i>, 9; W. G. MacDonald argues for &#8220;an angel&#8221; in both testaments: &#8220;Christology and &#8216;The Angel of the Lord&#8217;,&#8221; <i>Current Issues in Biblical and Patristic Interpretation</i>, 324-35.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The participles <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#963;&#949;&#955;&#952;&#972;&#957;&#964;&#945;</font> (<font face=\"Greektl\">eiselqonta</font>) and <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#960;&#972;&#957;&#964;&#945;</font> (<font face=\"Greektl\">eiponta</font>) are accusative, and thus best taken as adjectival participles modifying <font face=\"Galaxie Unicode Greek\">&#7940;&#947;&#947;&#949;&#955;&#959;&#957;</font> (<font face=\"Greektl\">angelon</font>): &#8220;an angel who came in and said.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;he&#8221;; the referent (Cornelius) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;said,&#8221; but in response to the angel&#8217;s address, &#8220;replied&#8221; is better English style.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;he&#8221;; the referent (the angel) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;your gifts to the needy.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The language used in the expression <i>gone up as a memorial before God</i> parallels what one would say of acceptable sacrifices (<span class=\"bibleref\" title=\"Psalms 141:2\">Ps 141:2</span>; Sir 35:6; 50:16).</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And now.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Joppa</i> was a seaport on the Philistine coast, in the same location as modern Jaffa.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;a certain Simon.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;with a certain Simon Berseus.&#8221; Although most modern English translations treat <font face=\"Galaxie Unicode Greek\">&#946;&#965;&#961;&#963;&#949;&#8150;</font> (<font face=\"Greektl\">bursei</font>) as Simon&#8217;s profession (&#8220;Simon the tanner&#8221;), it is possible that the word is actually Simon&#8217;s surname (&#8220;Simon Berseus&#8221; or &#8220;Simon Tanner&#8221;). BDAG 185 s.v. <font face=\"Galaxie Unicode Greek\">&#946;&#965;&#961;&#963;&#949;&#973;&#962;</font> regards it as a surname. See also MM 118.</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;he&#8221;; the referent (Cornelius) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;domestic servants.&#8221; The Greek word here is <font face=\"Galaxie Unicode Greek\">&#959;&#7984;&#954;&#941;&#964;&#951;&#962;</font> (<font face=\"Greektl\">oiketh&quot;</font>), which technically refers to a member of the household, but usually means a household servant (slave) or personal servant rather than a field laborer.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The meaning of the genitive participle <font face=\"Galaxie Unicode Greek\">&#960;&#961;&#959;&#963;&#954;&#945;&#961;&#964;&#949;&#961;&#959;&#973;&#957;&#964;&#969;&#957;</font> (<font face=\"Greektl\">proskarterountwn</font>) could either be &#8220;a soldier from the ranks of those who served him&#8221; (referring to his entire command) or &#8220;a soldier from among his personal staff&#8221; (referring to a group of soldiers who were his personal attendants). The translation &#8220;from among those who served him&#8221; is general enough to cover either possibility.</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;about the sixth hour.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The participles <font face=\"Galaxie Unicode Greek\">&#8001;&#948;&#959;&#953;&#960;&#959;&#961;&#959;&#973;&#957;&#964;&#969;&#957;</font> (<font face=\"Greektl\">Jodoiporountwn</font>, &#8220;while they were on their way&#8221;) and <font face=\"Galaxie Unicode Greek\">&#7952;&#947;&#947;&#953;&#950;&#972;&#957;&#964;&#969;&#957;</font> (<font face=\"Greektl\">engizontwn</font>, &#8220;approaching&#8221;) have been translated as temporal participles.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Went up on the roof.</i> Most of the roofs in the NT were flat roofs made of pounded dirt, sometimes mixed with lime or stones, supported by heavy wooden beams. They generally had an easy means of access, either a sturdy wooden ladder or stone stairway, sometimes on the outside of the house.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The traditional translation, &#8220;he fell into a trance,&#8221; is somewhat idiomatic; it is based on the textual variant <font face=\"Galaxie Unicode Greek\">&#7952;&#960;&#941;&#960;&#949;&#963;&#949;&#957;</font> (<font face=\"Greektl\">epepesen</font>, &#8220;he fell&#8221;) found in the Byzantine text but almost certainly not original.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And he.&#8221; Because of the length of the Greek sentence, the conjunction <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here. Instead a new English sentence is begun.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the sky&#8221; (the same Greek word means both &#8220;heaven&#8221; and &#8220;sky&#8221;).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> On the heavens &#8220;opening,&#8221; see <span class=\"bibleref\" title=\"Matthew 3:16\">Matt 3:16</span>; <span class=\"bibleref\" title=\"Luke 3:21\">Luke 3:21</span>; <span class=\"bibleref\" title=\"Revelation 19:11\">Rev 19:11</span> (cf. BDAG 84 s.v. <font face=\"Galaxie Unicode Greek\">&#7936;&#957;&#959;&#943;&#947;&#969;</font> 2). This is the language of a vision or a revelatory act of God.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;a large linen cloth&#8221; (the term was used for the sail of a ship; BDAG 693 s.v. <font face=\"Galaxie Unicode Greek\">&#8000;&#952;&#972;&#957;&#951;</font>).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;coming down.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;to the ground.&#8221;</div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;in which.&#8221; The relative pronoun was replaced by the pronoun &#8220;it,&#8221; and a new sentence was begun in the translation at this point to improve the English style.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;snakes.&#8221; <i>Grk</i> &#8220;creeping things.&#8221; According to L&amp;N 4.51, in most biblical contexts the term (due to the influence of Hebrew classifications such as <span class=\"bibleref\" title=\"Genesis 1:25-26,30\">Gen 1:25-26, 30</span>) included small four-footed animals like rats, mice, frogs, toads, salamanders, and lizards. In this context, however, where &#8220;creeping things&#8221; are contrasted with &#8220;four-footed animals,&#8221; the English word &#8220;reptiles,&#8221; which primarily but not exclusively designates snakes, is probably more appropriate. See also <span class=\"bibleref\" title=\"Genesis 6:20\">Gen 6:20</span>, as well as the law making such creatures unclean food in <span class=\"bibleref\" title=\"Leviticus 11:2-47\">Lev 11:2-47</span>.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;the birds of the sky&#8221; or &#8220;the birds of the heaven&#8221;; the Greek word <font face=\"Galaxie Unicode Greek\">&#959;&#8016;&#961;&#945;&#957;&#972;&#962;</font> (<font face=\"Greektl\">ouranos</font>) may be translated either &#8220;sky&#8221; or &#8220;heaven,&#8221; depending on the context. The idiomatic expression &#8220;birds of the sky&#8221; refers to wild birds as opposed to domesticated fowl (cf. BDAG 809 s.v. <font face=\"Galaxie Unicode Greek\">&#960;&#949;&#964;&#949;&#953;&#957;&#972;&#957;</font>).</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And there came.&#8221; The introductory phrase <font face=\"Galaxie Unicode Greek\">&#7952;&#947;&#941;&#957;&#949;&#964;&#959;</font> (<font face=\"Greektl\">egeneto</font>, &#8220;it happened that&#8221;), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;a voice to him&#8221;; the word &#8220;said&#8221; is not in the Greek text but is implied.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;kill.&#8221; Traditionally <font face=\"Galaxie Unicode Greek\">&#952;&#8166;&#963;&#959;&#957;</font> (<font face=\"Greektl\">quson</font>) is translated &#8220;kill,&#8221; but in the case of animals intended for food, &#8220;slaughter&#8221; is more appropriate.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Possibly there is a subtle distinction in meaning between <font face=\"Galaxie Unicode Greek\">&#954;&#959;&#953;&#957;&#972;&#962;</font> (<font face=\"Greektl\">koinos</font>) and <font face=\"Galaxie Unicode Greek\">&#7936;&#954;&#940;&#952;&#945;&#961;&#964;&#959;&#962;</font> (<font face=\"Greektl\">akaqarto&quot;</font>) here, but according to L&amp;N 53.39 it is difficult to determine precise differences in meaning based on existing contexts.<p class=\"note\"><span class=\"notetype\">sn</span> Peter insisted he would not violate the law by eating <i>anything defiled and ritually unclean</i>. These food laws were one of the practices that distinguished Jews from their Gentile neighbors. The practice made table fellowship with Gentiles awkward. For an example of Jewish attitudes to this, see <span class=\"bibleref\" title=\"Daniel 1:8-16\">Dan 1:8-16</span>; 1 Macc 1:41-64; <i>Letter of Aristeas</i> 142; Tacitus, <i>History</i> 5.5.</p></div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And the voice.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;declare.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> For the significance of this vision see <span class=\"bibleref\" title=\"Mark 7:14-23\">Mark 7:14-23</span>; <span class=\"bibleref\" title=\"Romans 14:14\">Rom 14:14</span>; <span class=\"bibleref\" title=\"Ephesians 2:11-22\">Eph 2:11-22</span>. God directed this change in practice.</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;into the sky&#8221; (the same Greek word means both &#8220;heaven&#8221; and &#8220;sky&#8221;).</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;was greatly confused over.&#8221; The term means to be perplexed or at a loss (BDAG 235 s.v. <font face=\"Galaxie Unicode Greek\">&#948;&#953;&#945;&#960;&#959;&#961;&#941;&#969;</font>).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;having learned.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#948;&#953;&#949;&#961;&#969;&#964;&#8053;&#963;&#945;&#957;&#964;&#949;&#962;</font> (<font face=\"Greektl\">dierwthsante&quot;</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> BDAG 418 s.v. <font face=\"Galaxie Unicode Greek\">&#7952;&#966;&#943;&#963;&#964;&#951;&#956;&#953;</font> 1 has &#8220;<font face=\"Galaxie Unicode Greek\">&#7952;&#960;&#943; &#964;&#953;</font> <i>approach</i> or <i>stand by someth.</i> (Sir 41:24) <span class=\"bibleref\" title=\"Acts 10:17\">Ac 10:17</span>.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> As Peter puzzled over the meaning of the vision, the messengers from Cornelius <i>approached the gate</i>. God&#8217;s direction here had a sense of explanatory timing.</p></div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and.&#8221; Because of the length of the Greek sentence, the conjunction <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here. Instead a new English sentence is begun by supplying the pronoun &#8220;they&#8221; as the subject of the following verb.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Simon, the one called Peter.&#8221; This qualification was necessary because the owner of the house was also named Simon (<span class=\"bibleref\" title=\"Acts 9:43\">Acts 9:43</span>).</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The translation &#8220;think seriously about&#8221; for <font face=\"Galaxie Unicode Greek\">&#948;&#953;&#949;&#957;&#952;&#965;&#956;&#941;&#959;&#956;&#945;&#953;</font> (<font face=\"Greektl\">dienqumeomai</font>) is given in L&amp;N 30.2. Peter was &#8220;pondering&#8221; the vision (BDAG 244 s.v.).</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;But getting up, go down.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#7936;&#957;&#945;&#963;&#964;&#940;&#962;</font> (<font face=\"Greektl\">anastas</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The term means &#8220;without doubting&#8221; or &#8220;without deliberation.&#8221; It is a term of conscience and discernment. In effect, Peter is to listen to them rather than hesitate (BDAG 231 s.v. <font face=\"Galaxie Unicode Greek\">&#948;&#953;&#945;&#954;&#961;&#943;&#957;&#969;</font> 6).</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Peter going down to the men, said.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#964;&#945;&#946;&#940;&#962;</font> (<font face=\"Greektl\">katabas</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Behold, it is I whom you seek,&#8221; or &#8220;Behold, I am the one you seek.&#8221; &#8220;Here I am&#8221; is used to translate <font face=\"Galaxie Unicode Greek\">&#7984;&#948;&#959;&#8058; &#7952;&#947;&#8061; &#949;&#7984;&#956;&#953;</font> (<font face=\"Greektl\">idou egw eimi</font>).</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See the note on the word <i>centurion</i> in <span class=\"bibleref\" title=\"Acts 10:1\">10:1</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;just.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The phrase <font face=\"Galaxie Unicode Greek\">&#964;&#959;&#8166; &#7956;&#952;&#957;&#959;&#965;&#962; &#964;&#8182;&#957; &#8127;&#921;&#959;&#965;&#948;&#945;&#943;&#969;&#957;</font> (<font face=\"Greektl\">tou eqnou&quot; twn Ioudaiwn</font>) is virtually a technical term for the Jewish nation (1 Macc 10:25; 11:30, 33; Josephus, <i>Ant.</i> 14.10.22 [14.248]). &#8220;All the Jewish people,&#8221; while another possible translation of the Greek phrase, does not convey the technical sense of a reference to the nation in English.<p class=\"note\"><span class=\"notetype\">sn</span> The long introduction of <i>Cornelius</i> by his messengers is an attempt to commend this Gentile to his Jewish counterpart, which would normally be important to do in the culture of the time.</p></div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;hear words.&#8221;</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;he&#8221;; the referent (Peter) has been specified in the translation for clarity.<p class=\"note\"><span class=\"notetype\">sn</span> When Peter <i>entertained them as guests</i>, he performed a culturally significant act denoting acceptance.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;went forth.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Some of the brothers from Joppa.</i> As v. <span class=\"bibleref\" title=\"Acts 10:45\">45</span> makes clear, there were Jewish Christians in this group of witnesses.</div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;On the next day,&#8221; but since this phrase has already occurred in v. <span class=\"bibleref\" title=\"Acts 10:23\">23</span>, it would be redundant in English to use it again here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Caesarea</i> was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi).<p class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map2\">Map2-C1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map4\">Map4-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-A1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</p></div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Normally <font face=\"Galaxie Unicode Greek\">&#960;&#961;&#959;&#963;&#948;&#959;&#954;&#940;&#969;</font> (<font face=\"Greektl\">prosdokaw</font>) means &#8220;to wait with apprehension or anxiety for something,&#8221; often with the implication of impending danger or trouble (L&amp;N 25.228), but in this context the anxiety Cornelius would have felt came from the importance of the forthcoming message as announced by the angel.</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;So it happened that when.&#8221; The introductory phrase <font face=\"Galaxie Unicode Greek\">&#7952;&#947;&#941;&#957;&#949;&#964;&#959;</font> (<font face=\"Greektl\">egeneto</font>, &#8220;it happened that&#8221;), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;meeting him.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#963;&#965;&#957;&#945;&#957;&#964;&#8053;&#963;&#945;&#962;</font> (<font face=\"Greektl\">sunanthsa&quot;</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;falling at his feet, worshiped.&#8221; The participle <font face=\"Galaxie Unicode Greek\">&#960;&#949;&#963;&#8061;&#957;</font> (<font face=\"Greektl\">peswn</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> When Cornelius <i>worshiped</i> Peter, it showed his piety and his respect for Peter, but it was an act based on ignorance, as Peter&#8217;s remark in v. <span class=\"bibleref\" title=\"Acts 10:26\">26</span> indicates.</div>"
+      ]
+    ],
+    "26": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> BDAG 271 s.v. <font face=\"Galaxie Unicode Greek\">&#7952;&#947;&#949;&#943;&#961;&#969;</font> 3 has &#8220;<i>raise, help to rise</i>&#8230;.Stretched out <span class=\"bibleref\" title=\"Acts 10:26\">Ac 10:26</span>.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Although it is certainly true that Peter was a &#8220;man,&#8221; here <font face=\"Galaxie Unicode Greek\">&#7940;&#957;&#952;&#961;&#969;&#960;&#959;&#962;</font> (<font face=\"Greektl\">anqrwpo&quot;</font>) has been translated as &#8220;mere mortal&#8221; because the emphasis in context is not on Peter&#8217;s maleness, but his humanity. Contrary to what Cornelius thought, Peter was not a god or an angelic being, but a mere mortal.</div>"
+      ]
+    ],
+    "27": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And he&#8221;; the referent (Peter) has been specified in the translation for clarity. Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;many people assembled.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Here <font face=\"Galaxie Unicode Greek\">&#8033;&#962;</font> (<font face=\"Greektl\">Jws</font>) is used like <font face=\"Galaxie Unicode Greek\">&#8005;&#964;&#953;</font> (<font face=\"Greektl\">Joti</font>) to introduce indirect discourse (cf. BDAG 1105 s.v. <font face=\"Galaxie Unicode Greek\">&#8033;&#962;</font> 5).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This term is used of wanton or callously lawless acts (BDAG 24 s.v. <font face=\"Galaxie Unicode Greek\">&#7936;&#952;&#941;&#956;&#953;&#964;&#959;&#962;</font>).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;a Jewish man&#8221; (<font face=\"Galaxie Unicode Greek\">&#7936;&#957;&#948;&#961;&#8054; &#8127;&#921;&#959;&#965;&#948;&#945;&#943;&#8179;</font>, <font face=\"Greektl\">andri Ioudaiw</font>).</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;a foreigner,&#8221; but in this context, &#8220;a non-Jew,&#8221; that is, a Gentile. This term speaks of intimate association (BDAG 556 s.v. <font face=\"Galaxie Unicode Greek\">&#954;&#959;&#955;&#955;&#940;&#969;</font> 2.b.<font face=\"Galaxie Unicode Greek\">&#945;</font>). On this Jewish view, see <span class=\"bibleref\" title=\"John 18:28\">John 18:28</span>, where a visit to a Gentile residence makes a Jewish person unclean.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> This is a generic use of <font face=\"Galaxie Unicode Greek\">&#7940;&#957;&#952;&#961;&#969;&#960;&#959;&#962;</font> (<font face=\"Greektl\">anqrwpo&quot;</font>).</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Possibly there is a subtle distinction in meaning between <font face=\"Galaxie Unicode Greek\">&#954;&#959;&#953;&#957;&#972;&#962;</font> (<font face=\"Greektl\">koinos</font>) and <font face=\"Galaxie Unicode Greek\">&#7936;&#954;&#940;&#952;&#945;&#961;&#964;&#959;&#962;</font> (<font face=\"Greektl\">akaqartos</font>) here, but according to L&amp;N 53.39 it is difficult to determine precise differences in meaning based on existing contexts.<p class=\"note\"><span class=\"notetype\">sn</span> <i>God has shown me&#8230;unclean.</i> Peter sees the significance of his vision as not about food, but about open fellowship between Jewish Christians and Gentiles.</p></div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Therefore when I was sent for.&#8221; The passive participle <font face=\"Galaxie Unicode Greek\">&#956;&#949;&#964;&#945;&#960;&#949;&#956;&#966;&#952;&#949;&#943;&#962;</font> (<font face=\"Greektl\">metapemfqei&quot;</font>) has been taken temporally and converted to an active construction which is less awkward in English.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;ask for what reason.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And Cornelius.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;said.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;at the ninth hour.&#8221; Again, this is the hour of afternoon prayer.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and behold.&#8221; The interjection <font face=\"Galaxie Unicode Greek\">&#7984;&#948;&#959;&#973;</font> (<font face=\"Greektl\">idou</font>) is difficult at times to translate into English. Here it has been translated as &#8220;suddenly&#8221; to convey the force of Cornelius&#8217; account of the angel&#8217;s appearance.</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;your gifts to the needy.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This statement is a paraphrase rather than an exact quotation of <span class=\"bibleref\" title=\"Acts 10:4\">Acts 10:4</span>.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;with a certain Simon Berseus.&#8221; Although most modern English translations treat <font face=\"Galaxie Unicode Greek\">&#946;&#965;&#961;&#963;&#949;&#8150;</font> (<font face=\"Greektl\">bursei</font>) as Simon&#8217;s profession (&#8220;Simon the tanner&#8221;), it is possible that the word is actually Simon&#8217;s surname (&#8220;Simon Berseus&#8221; or &#8220;Simon Tanner&#8221;). BDAG 185 s.v. <font face=\"Galaxie Unicode Greek\">&#946;&#965;&#961;&#963;&#949;&#973;&#962;</font> regards it as a surname.</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;you have done well by coming.&#8221; The idiom <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#955;&#8182;&#962; &#960;&#959;&#953;&#949;&#8150;&#957;</font> (<font face=\"Greektl\">kalw&quot; poiein</font>) is translated &#8220;<i>be kind enough to do someth</i>.&#8221; by BDAG 505-6 s.v. <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#955;&#8182;&#962;</font> 4.a. The participle <font face=\"Galaxie Unicode Greek\">&#960;&#945;&#961;&#945;&#947;&#949;&#957;&#972;&#956;&#949;&#957;&#959;&#962;</font> (<font face=\"Greektl\">paragenomeno&quot;</font>) has been translated as an English infinitive due to the nature of the English idiom (&#8220;kind enough to&#8221; + infinitive).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The translation &#8220;<i>we are here in the presence of God</i>&#8221; for <font face=\"Galaxie Unicode Greek\">&#7952;&#957;&#8061;&#960;&#953;&#959;&#957; &#964;&#959;&#8166; &#952;&#949;&#959;&#8166; &#960;&#940;&#961;&#949;&#963;&#956;&#949;&#957;</font> (<font face=\"Greektl\">enwpion tou qeou paresmen</font>) is given by BDAG 773 s.v. <font face=\"Galaxie Unicode Greek\">&#960;&#940;&#961;&#949;&#953;&#956;&#953;</font> 1.a.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;to hear everything.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;to say to us&#8221; are not in the Greek text, but are implied. Cornelius knows Peter is God&#8217;s representative, bringing God&#8217;s message.</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Opening his mouth Peter said&#8221; (a Semitic idiom for beginning to speak in a somewhat formal manner). The participle <font face=\"Galaxie Unicode Greek\">&#7936;&#957;&#959;&#943;&#958;&#945;&#962;</font> (<font face=\"Greektl\">anoixa&quot;</font>) has been translated as a finite verb due to requirements of contemporary English style.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;God is not one who is a respecter of persons,&#8221; that is, &#8220;God is not one to show partiality&#8221; (cf. BDAG 887 s.v. <font face=\"Galaxie Unicode Greek\">&#960;&#961;&#959;&#963;&#969;&#960;&#959;&#955;&#8053;&#956;&#960;&#964;&#951;&#962;</font>). L&amp;N 88.239 translates this verse &#8220;I realize that God does not show favoritism (in dealing with people).&#8221; The underlying Hebrew idiom includes the personal element (&#8220;respecter of persons&#8221;) so the phrase &#8220;in dealing with people&#8221; is included in the present translation. It fits very well with the following context and serves to emphasize the relational component of God&#8217;s lack of partiality. The latter is a major theme in the NT: <span class=\"bibleref\" title=\"Romans 2:11\">Rom 2:11</span>; <span class=\"bibleref\" title=\"Ephesians 2:11-22\">Eph 2:11-22</span>; <span class=\"bibleref\" title=\"Colossians 3:25\">Col 3:25</span>; <span class=\"bibleref\" title=\"James 2:1\">Jas 2:1</span>; <span class=\"bibleref\" title=\"1 Peter 1:17\">1 Pet 1:17</span>. This was the lesson of Peter&#8217;s vision.</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See <span class=\"bibleref\" title=\"Luke 24:47\">Luke 24:47</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;shows reverence for him.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;works righteousness&#8221;; the translation &#8220;does what is right&#8221; for this phrase in this verse is given by L&amp;N 25.85.<p class=\"note\"><span class=\"notetype\">sn</span> Note how faith and response are linked here by the phrase <i>and does what is right</i>.</p></div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The subject and verb (&#8220;you know&#8221;) do not actually occur until the following verse, but have been repeated here because of the requirements of English word order.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;the word.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;to the sons.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Peace</i> is a key OT concept: <span class=\"bibleref\" title=\"Isaiah 52:7\">Isa 52:7</span>; <span class=\"bibleref\" title=\"Nahum 1:15\">Nah 1:15</span>; also for Luke: <span class=\"bibleref\" title=\"Luke 1:79;2:14\">Luke 1:79; 2:14</span>; <span class=\"bibleref\" title=\"Acts 9:31\">Acts 9:31</span>. See also the similar phrase in <span class=\"bibleref\" title=\"Ephesians 2:17\">Eph 2:17</span>.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;by.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Messiah&#8221;; both &#8220;Christ&#8221; (Greek) and &#8220;Messiah&#8221; (Hebrew and Aramaic) mean &#8220;one who has been anointed.&#8221;</div>"
+      ],
+      [
+        7,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>He is Lord of all.</i> Though a parenthetical remark, this is the theological key to the speech. Jesus <i>is Lord of all</i>, so the gospel can go to all. The rest of the speech proclaims Jesus&#8217; authority.</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;proclaimed.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The somewhat awkward naming of Jesus as <i>from Nazareth</i> here is actually emphatic. He is the key subject of these key events.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;how.&#8221; The use of <font face=\"Galaxie Unicode Greek\">&#8033;&#962;</font> (<font face=\"Greektl\">Jws</font>) as an equivalent to <font face=\"Galaxie Unicode Greek\">&#8005;&#964;&#953;</font> (<font face=\"Greektl\">Joti</font>) to introduce indirect or even direct discourse is well documented. BDAG 1105 s.v. <font face=\"Galaxie Unicode Greek\">&#8033;&#962;</font> 5 lists <span class=\"bibleref\" title=\"Acts 10:28\">Acts 10:28</span> in this category.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;power, who.&#8221; The relative pronoun was replaced by the pronoun &#8220;he,&#8221; and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The translation &#8220;healing all who were oppressed by the devil&#8221; is given in L&amp;N 22.22.<p class=\"note\"><span class=\"notetype\">sn</span> <i>All who were oppressed by the devil.</i> Note how healing is tied to the cosmic battle present in creation. Christ&#8217;s power overcomes the devil and his forces, which seek to destroy humanity.</p></div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> See <span class=\"bibleref\" title=\"Acts 7:9\">Acts 7:9</span>.</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And we.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;the land of the Jews,&#8221; but this is similar to the phrase used as the name of the province of Judea in 1 Macc 8:3 (see BDAG 1093-94 s.v. <font face=\"Galaxie Unicode Greek\">&#967;&#8061;&#961;&#945;</font> 2.b).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;in Jerusalem, whom they killed.&#8221; The relative pronoun was replaced by the pronoun &#8220;him&#8221; and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;by crucifying him&#8221; (&#8220;hang on a tree&#8221; is by the time of the 1st century an idiom for crucifixion). The allusion is to the judgment against Jesus as a rebellious figure, appealing to the language of <span class=\"bibleref\" title=\"Deuteronomy 21:23\">Deut 21:23</span>. The Jewish leadership has badly &#8220;misjudged&#8221; Jesus.</div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The conjunction &#8220;but&#8221; is not in the Greek text, but the contrast is clearly implied in the context. This is technically <i>asyndeton</i>, or lack of a connective, in Greek.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and granted that he should become visible.&#8221; The literal Greek idiom is somewhat awkward in English. L&amp;N 24.22 offers the translation &#8220;caused him to be seen&#8221; for this verse.</div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the witnesses God had previously chosen.&#8221; See <span class=\"bibleref\" title=\"Acts 1:8\">Acts 1:8</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Ate and drank.</i> See <span class=\"bibleref\" title=\"Luke 24:35-49\">Luke 24:35-49</span>.</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and he.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verb <font face=\"Galaxie Unicode Greek\">&#948;&#953;&#945;&#956;&#945;&#961;&#964;&#973;&#961;&#959;&#956;&#945;&#953;</font> (<font face=\"Greektl\">diamarturomai</font>) can mean &#8220;warn,&#8221; and such a meaning is highly probable in this context where a reference to the judgment of both the living and the dead is present. The more general meaning &#8220;to testify solemnly&#8221; does not capture this nuance.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;them&#8221; is not in the Greek text, but is implied. Direct objects were often omitted in Greek when clear from the context, but must be supplied for the modern English reader.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;that this one is the one,&#8221; but this is awkward in English and has been simplified to &#8220;that he is the one.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;designated.&#8221; BDAG 723 s.v. <font face=\"Galaxie Unicode Greek\">&#8001;&#961;&#943;&#950;&#969;</font> 2.b has &#8220;<i>the one appointed by God as judge</i>&#8221; for this phrase.</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Jesus has divine authority <i>as judge</i> over the living and the dead: <span class=\"bibleref\" title=\"Acts 17:26-31\">Acts 17:26-31</span>; <span class=\"bibleref\" title=\"Romans 14:9\">Rom 14:9</span>; <span class=\"bibleref\" title=\"1 Thessalonians 5:9-10\">1 Thess 5:9-10</span>; <span class=\"bibleref\" title=\"1 Timothy 4:1\">1 Tim 4:1</span>; <span class=\"bibleref\" title=\"1 Peter 4:5\">1 Pet 4:5</span>.</div>"
+      ]
+    ],
+    "43": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;All the prophets testify about him.&#8221; Although modern English translations tend to place &#8220;about him&#8221; after &#8220;testify&#8221; (so NIV, NRSV) the phrase &#8220;about him&#8221; has been left at the beginning of v. <span class=\"bibleref\" title=\"Acts 10:43\">43</span> for emphatic reasons.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>Forgiveness of sins.</i> See <span class=\"bibleref\" title=\"Luke 24:47\">Luke 24:47</span>; also <span class=\"bibleref\" title=\"Acts 14:23;19:4;9:42;11:17;16:31\">Acts 14:23; 19:4; 9:42; 11:17; 16:31</span>. The gospel is present in the prophetic promise, <span class=\"bibleref\" title=\"Romans 1:1-7\">Rom 1:1-7</span>. The message is in continuity with the ancient hope.</div>"
+      ]
+    ],
+    "44": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;came down on.&#8221; God now acted to confirm the point of Peter&#8217;s speech.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;word.&#8221;</div>"
+      ]
+    ],
+    "45": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And the.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;The Jewish Christians&#8221;; <i>Grk</i> &#8220;The believers from the circumcision.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The Jewish Christians who were with Peter <i>were greatly astonished</i> because they thought the promise of the Spirit would be limited only to those of Israel. God&#8217;s plan was taking on fresh dimensions even as it was a reflection of what the prophets had promised.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;because.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> That is, the gift consisting of the Holy Spirit. Here <font face=\"Galaxie Unicode Greek\">&#964;&#959;&#8166; &#960;&#957;&#949;&#973;&#956;&#945;&#964;&#959;&#962;</font> (<font face=\"Greektl\">tou pneumato&quot;</font>) is a genitive of apposition; the gift consists of the Spirit.</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>The gift of the Holy Spirit had been poured out.</i> Compare the account in , especially <span class=\"bibleref\" title=\"Acts 2:33\">2:33</span>. Note also <span class=\"bibleref\" title=\"Joel 2:17-21\">Joel 2:17-21</span> and <span class=\"bibleref\" title=\"Acts 11:15-18\">Acts 11:15-18</span>.</div>"
+      ]
+    ],
+    "46": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;extolling,&#8221; &#8220;magnifying.&#8221;</div>"
+      ]
+    ],
+    "47": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;just as also we.&#8221; The auxiliary verb in English must be supplied. This could be either &#8220;have&#8221; (NIV, NRSV) or &#8220;did&#8221; (NASB). &#8220;Did&#8221; is preferred here because the comparison Peter is making concerns not just the fact of the present possession of the Spirit (&#8220;they received the Spirit we now possess&#8221;), but the <i>manner</i> in which the Gentiles in Cornelius&#8217; house received the Spirit (&#8220;they received the Spirit in the same manner we did [on the day of Pentecost]&#8221;).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Greek construction anticipates a negative reply which is indicated in the translation by the &#8216;tag&#8217; question, &#8220;can he?&#8221; The question is rhetorical. Peter was saying these Gentiles should be baptized since God had confirmed they were his.</div>"
+      ]
+    ],
+    "48": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The Greek construction (passive infinitive with accusative subject) could be translated either &#8220;he ordered them to be baptized&#8221; or &#8220;he ordered that they be baptized,&#8221; but the implication in English in either case is that Peter was giving orders to the Gentiles in Cornelius&#8217; house, telling them to get baptized. It is much more likely in the context that Peter was ordering those Jewish Christians who accompanied him to baptize the new Gentile converts. They would doubtless have still had misgivings even after witnessing the outpouring of the Spirit and hearing the tongues. It took Peter&#8217;s apostolic authority (&#8220;ordered&#8221;) to convince them to perform the baptisms.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;Messiah&#8221;; both &#8220;Christ&#8221; (Greek) and &#8220;Messiah&#8221; (Hebrew and Aramaic) mean &#8220;one who has been anointed.&#8221; Jesus&#8217; right to judge as the provider of forgiveness is highlighted here.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Now there was a man in Caesarea named Cornelius, a centurion of what was known as the Italian Cohort. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "2",
+      "text": "He was a devout, God-fearing man, as was all his household; he did many acts of charity for the people and prayed to God regularly. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "3",
+      "text": "About three o’clock one afternoon he saw clearly in a vision an angel of God who came in and said to him, “Cornelius.”"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Staring at him and becoming greatly afraid, Cornelius replied, “What is it, Lord?” The angel said to him, “Your prayers and your acts of charity have gone up as a memorial before God. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Now send men to Joppa and summon a man named Simon, who is called Peter. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "6",
+      "text": "This man is staying as a guest with a man named Simon, a tanner, whose house is by the sea.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "7",
+      "text": "When the angel who had spoken to him departed, Cornelius called two of his personal servants and a devout soldier from among those who served him, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "8",
+      "text": "and when he had explained everything to them, he sent them to Joppa. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "9",
+      "text": "About noon the next day, while they were on their way and approaching the city, Peter went up on the roof to pray. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "10",
+      "text": "He became hungry and wanted to eat, but while they were preparing the meal, a trance came over him. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "11",
+      "text": "He saw heaven opened and an object something like a large sheet descending, being let down to earth by its four corners. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "12",
+      "text": "In it were all kinds of four-footed animals and reptiles of the earth and wild birds. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Then a voice said to him, “Get up, Peter; slaughter and eat!” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "14",
+      "text": "But Peter said, “Certainly not, Lord, for I have never eaten anything defiled and ritually unclean!” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "15",
+      "text": "The voice spoke to him again, a second time, “What God has made clean, you must not consider ritually unclean!” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "16",
+      "text": "This happened three times, and immediately the object was taken up into heaven. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Now while Peter was puzzling over what the vision he had seen could signify, the men sent by Cornelius had learned where Simon’s house was and approached the gate. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "18",
+      "text": "They called out to ask if Simon, known as Peter, was staying there as a guest. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "19",
+      "text": "While Peter was still thinking seriously about the vision, the Spirit said to him, “Look! Three men are looking for you. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "20",
+      "text": "But get up, go down, and accompany them without hesitation because I have sent them.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "21",
+      "text": "So Peter went down to the men and said, “Here I am, the person you’re looking for. Why have you come?” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "22",
+      "text": "They said, “Cornelius the centurion, a righteous and God-fearing man, well spoken of by the whole Jewish nation, was directed by a holy angel to summon you to his house and to hear a message from you.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "23",
+      "text": "So Peter invited them in and entertained them as guests.On the next day he got up and set out with them, and some of the brothers from Joppa accompanied him. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "24",
+      "text": "The following day he entered Caesarea. Now Cornelius was waiting anxiously for them and had called together his relatives and close friends. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "25",
+      "text": "So when Peter came in, Cornelius met him, fell at his feet, and worshiped him. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "26",
+      "text": "But Peter helped him up, saying, “Stand up. I too am a mere mortal.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "27",
+      "text": "Peter continued talking with him as he went in, and he found many people gathered together. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "28",
+      "text": "He said to them, “You know that it is unlawful for a Jew to associate with or visit a Gentile, yet God has shown me that I should call no person defiled or ritually unclean. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "29",
+      "text": "Therefore when you sent for me, I came without any objection. Now may I ask why you sent for me?” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "30",
+      "text": "Cornelius replied, “Four days ago at this very hour, at three o’clock in the afternoon, I was praying in my house, and suddenly a man in shining clothing stood before me "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "31",
+      "text": "and said, ‘Cornelius, your prayer has been heard and your acts of charity have been remembered before God. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "32",
+      "text": "Therefore send to Joppa and summon Simon, who is called Peter. This man is staying as a guest in the house of Simon the tanner, by the sea.’ "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "33",
+      "text": "Therefore I sent for you at once, and you were kind enough to come. So now we are all here in the presence of God to listen to everything the Lord has commanded you to say to us.”"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "34",
+      "text": "Then Peter started speaking: “I now truly understand that God does not show favoritism in dealing with people, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "35",
+      "text": "but in every nation the person who fears him and does what is right is welcomed before him. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "36",
+      "text": "You know the message he sent to the people of Israel, proclaiming the good news of peace through Jesus Christ (he is Lord of all)—"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "37",
+      "text": "you know what happened throughout Judea, beginning from Galilee after the baptism that John announced: "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "38",
+      "text": "with respect to Jesus from Nazareth, that God anointed him with the Holy Spirit and with power. He went around doing good and healing all who were oppressed by the devil because God was with him. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "39",
+      "text": "We are witnesses of all the things he did both in Judea and in Jerusalem. They killed him by hanging him on a tree, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "40",
+      "text": "but God raised him up on the third day and caused him to be seen, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "41",
+      "text": "not by all the people, but by us, the witnesses God had already chosen, who ate and drank with him after he rose from the dead. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "42",
+      "text": "He commanded us to preach to the people and to warn them that he is the one appointed by God as judge of the living and the dead. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "43",
+      "text": "About him all the prophets testify, that everyone who believes in him receives forgiveness of sins through his name.” "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "44",
+      "text": "While Peter was still speaking these words, the Holy Spirit fell on all those who heard the message. "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "45",
+      "text": "The circumcised believers who had accompanied Peter were greatly astonished that the gift of the Holy Spirit had been poured out even on the Gentiles, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "46",
+      "text": "for they heard them speaking in tongues and praising God. Then Peter said, "
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "47",
+      "text": "“No one can withhold the water for these people to be baptized, who have received the Holy Spirit just as we did, can he?”"
+    },
+    {
+      "bookname": "Acts",
+      "chapter": "10",
+      "verse": "48",
+      "text": "So he gave orders to have them baptized in the name of Jesus Christ. Then they asked him to stay for several days. "
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+# Job 29 (English)
+
+## Text
+
+**1** Then Job continued his speech: 
+
+**2** “O that I could be as I was in the months now gone, in the days when God watched over me,
+
+**3** when he caused his lamp to shine upon my head, and by his light I walked through darkness; 
+
+**4** just as I was in my most productive time, when God’s intimate friendship was experienced in my tent, 
+
+**5** when the Almighty was still with me and my children were around me; 
+
+**6** when my steps were bathed with butter and the rock poured out for me streams of olive oil! 
+
+**7** When I went out to the city gate and secured my seat in the public square, 
+
+**8** the young men would see me and step aside, and the old men would get up and remain standing; 
+
+**9** the chief men refrained from talking and covered their mouths with their hands; 
+
+**10** the voices of the nobles fell silent, and their tongues stuck to the roof of their mouths. 
+
+**11** “As soon as the ear heard these things, it blessed me, and when the eye saw them, it bore witness to me;
+
+**12** for I rescued the poor who cried out for help, and the orphan who had no one to assist him;
+
+**13** the blessing of the dying man descended on me, and I made the widow’s heart rejoice; 
+
+**14** I put on righteousness and it clothed me; my just dealing was like a robe and a turban; 
+
+**15** I was eyes for the blind and feet for the lame; 
+
+**16** I was a father to the needy, and I investigated the case of the person I did not know; 
+
+**17** I broke the fangs of the wicked, and made him drop his prey from his teeth. 
+
+**18** “Then I thought, ‘I will die in my own home, my days as numerous as the grains of sand. 
+
+**19** My roots reach the water, and the dew lies on my branches all night long.
+
+**20** My glory will always be fresh in me, and my bow ever new in my hand.’ 
+
+**21** “People listened to me and waited silently; they kept silent for my advice. 
+
+**22** After I had spoken, they did not respond; my words fell on them drop by drop. 
+
+**23** They waited for me as people wait for the rain, and they opened their mouths as for the spring rains. 
+
+**24** If I smiled at them, they hardly believed it; and they did not cause the light of my face to darken. 
+
+**25** I chose the way for them and sat as their chief; I lived like a king among his troops; I was like one who comforts mourners. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Now that the debate with his friends is over, Job concludes with a soliloquy, just as he had begun with one. Here he does not take into account his friends or their arguments. The speech has three main sections: Job’s review of his former circumstances (29:1-25); Job’s present misery (30:1-31); and Job’s vindication of his life (31:1-40).
+
+### Verse 1 - Note 2
+[翻訳注]  The verse uses a verbal hendiadys: “and he added (וַיֹּסֶף, vayyosef)…to raise (שְׂאֵת, sÿ’et) his speech.” The expression means that he continued, or he spoke again.
+
+### Verse 2 - Note 1
+[翻訳注]  The optative is here expressed with מִי־יִתְּנֵנִי (mi-yittÿneni, “who will give me”), meaning, “O that I [could be]…” (see GKC 477 §151.b).
+
+### Verse 2 - Note 2
+[翻訳注]  The preposition כּ (kaf) is used here in an expression describing the state desired, especially in the former time (see GKC 376 §118.u).
+
+### Verse 2 - Note 3
+[翻訳注]  The expression is literally “months of before [or of old; or past].” The word קֶדֶם (qedem) is intended here to be temporal and not spatial; it means days that preceded the present.
+
+### Verse 2 - Note 4
+[翻訳注]  The construct state (“days of”) governs the independent sentence that follows (see GKC 422 §130.d): “as the days of […] God used to watch over me.”
+
+### Verse 2 - Note 5
+[翻訳注]  The imperfect verb here has a customary nuance – “when God would watch over me” (back then), or “when God used to watch over me.”
+
+### Verse 3 - Note 1
+[翻訳注]  This clause is in apposition to the preceding (see GKC 426 §131.o). It offers a clarification.
+
+### Verse 3 - Note 2
+[翻訳注]  The form בְּהִלּוֹ (bÿhillo) is unusual; it should be parsed as a Hiphil infinitive construct with the elision of the ה (he). The proper spelling would have been with a ַ (patakh) under the preposition, reflecting הַהִלּוֹ (hahillo). If it were Qal, it would just mean “when his light shone.”
+
+### Verse 3 - Note 3
+[解説]  Lamp and light are symbols of God’s blessings of life and all the prosperous and good things it includes.
+
+### Verse 3 - Note 4
+[翻訳注]  Here too the imperfect verb is customary – it describes action that was continuous, but in a past time.
+
+### Verse 3 - Note 5
+[翻訳注]  The accusative (“darkness”) is here an adverbial accusative of place, namely, “in the darkness,” or because he was successfully led by God’s light, “through the darkness” (see GKC 374 §118.h).
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “in the days of my ripeness.” The word חֹרֶף (khoref) denotes the time when the harvest is gathered in because the fruit is ripe. Since this is the autumn, many translate that way here – but “autumn” has a different connotation now. The text is pointing to a time when the righteous reaps what he has sown, and can enjoy the benefits. The translation “most productive time” seems to capture the point better than “autumn” or even “prime.”
+
+### Verse 4 - Note 2
+[写本注]  The word סוֹד (sod) in this verse is an infinitive construct, prefixed with the temporal preposition and followed by a subjective genitive. It forms a temporal clause. There is some disagreement about the form and its meaning. The confusion in the versions shows that they were paraphrasing to get the general sense. In the Bible the derived noun (from יָסַד, yasad) means (a) a circle of close friends; (b) intimacy. Others follow the LXX and the Syriac with a meaning of “protect,” based on a change from ד (dalet) to כּ (kaf), and assuming the root was סָכַךְ (sakhakh). This would mean, “when God protected my tent” (cf. NAB). D. W. Thomas tries to justify this meaning without changing the text (“The Interpretation of BSOÝD in Job 29:4,” JBL 65 [1946]: 63-66).
+
+### Verse 5 - Note 1
+[翻訳注]  Heb “Shaddai.”
+
+### Verse 5 - Note 2
+[写本注]  Some commentators suggest that עִמָּדִי (’immadi, “with me”) of the second colon of v. 6 (which is too long) belongs to the second colon of v. 5, and should be pointed as the verb עָמָדוּ (’amadu, “they stood”), meaning the boys stood around him (see, e.g., E. Dhorme, Job, 417). But as R. Gordis (Job, 319) notes, there is a purpose for the imbalance of the metric pattern at the end of a section.
+
+### Verse 6 - Note 1
+[翻訳注]  The word is a hapax legomenon, but the meaning is clear enough. It refers to the walking, the steps, or even the paths where one walks. It is figurative of his course of life.
+
+### Verse 6 - Note 2
+[翻訳注]  The Hebrew word means “to wash; to bathe”; here it is the infinitive construct in a temporal clause, “my steps” being the genitive: “in the washing of my steps in butter.”
+
+### Verse 6 - Note 3
+[翻訳注]  Again, as in Job 21:17, “curds.”
+
+### Verse 6 - Note 4
+[翻訳注]  The MT reads literally, “and the rock was poured out [passive participle] for me as streams of oil.” There are some who delete the word “rock” to shorten the line because it seems out of place. But olive trees thrive in rocky soil, and the oil presses are cut into the rock; it is possible that by metonymy all this is intended here (H. H. Rowley, Job [NCBC], 186).
+
+### Verse 7 - Note 1
+[解説]  In the public square. The area referred to here should not be thought of in terms of modern western dimensions. The wide space, plaza, or public square mentioned here is the open area in the gate complex where legal and business matters were conducted. The area could be as small as a few hundred square feet.
+
+### Verse 8 - Note 1
+[翻訳注]  The verb means “to hide; to withdraw.” The young men out of respect would withdraw or yield the place of leadership to Job (thus the translation “step aside”). The old men would rise and remain standing until Job took his seat – a sign of respect.
+
+### Verse 10 - Note 1
+[翻訳注]  The verb here is “hidden” as well as in v. 8. But this is a strange expression for voices. Several argue that the word was erroneously inserted from 8a and needs to be emended. But the word “hide” can have extended meanings of “withdraw; be quiet; silent” (see Gen 31:27). A. Guillaume relates the Arabic habi’a, “the fire dies out,” applying the idea of “silent” only to v. 10 (it is a form of repetition of words with different senses, called jinas). The point here is that whatever conversation was going on would become silent or hushed to hear what Job had to say.
+
+### Verse 11 - Note 1
+[翻訳注]  The words “these things” and “them” in the next colon are not in the Hebrew text, but have been supplied in the translation for clarity.
+
+### Verse 11 - Note 2
+[翻訳注]  The main clause is introduced by the preterite with the vav (ו) consecutive (see GKC 327 §111.h); the clause before it is therefore temporal and circumstantial to the main clause.
+
+### Verse 12 - Note 1
+[翻訳注]  The negative introduces a clause that serves as a negative attribute; literally the following clause says, “and had no helper” (see GKC 482 §152.u).
+
+### Verse 13 - Note 1
+[翻訳注]  The verb is simply בּוֹא (bo’, “to come; to enter”). With the preposition עַל (’al, “upon”) it could mean “came to me,” or “came upon me,” i.e., descended (see R. Gordis, Job, 320).
+
+### Verse 13 - Note 2
+[翻訳注]  The verb אַרְנִן (’arnin) is from רָנַן (ranan, “to give a ringing cry”) but here “cause to give a ringing cry,” i.e., shout of joy. The rejoicing envisioned in this word is far greater than what the words “sing” or “rejoice” suggest.
+
+### Verse 14 - Note 1
+[翻訳注]  Both verbs in this first half-verse are from לָבַשׁ (lavash, “to clothe; to put on clothing”). P. Joüon changed the vowels to get a verb “it adorned me” instead of “it clothed me” (Bib 11 [1930]: 324). The figure of clothing is used for the character of the person: to wear righteousness is to be righteous.
+
+### Verse 14 - Note 2
+[翻訳注]  The word מִשְׁפָּטִי (mishpati) is simply “my justice” or “my judgment.” It refers to the decisions he made in settling issues, how he dealt with other people justly.
+
+### Verse 16 - Note 1
+[解説]  The word “father” does not have a wide range of meanings in the OT. But there are places that it is metaphorical, especially in a legal setting like this where the poor need aid.
+
+### Verse 17 - Note 1
+[翻訳注]  The word rendered “fangs” actually means “teeth,” i.e., the molars probably; it is used frequently of the teeth of wild beasts. Of course, the language is here figurative, comparing the oppressing enemy to a preying animal.
+
+### Verse 17 - Note 2
+[翻訳注]  “I made [him] drop.” The verb means “to throw; to cast,” throw in the sense of “to throw away.” But in the context with the figure of the beast with prey in its mouth, “drop” or “cast away” is the idea. Driver finds another cognate meaning “rescue” (see AJSL 52 [1935/36]: 163).
+
+### Verse 18 - Note 1
+[写本注]  The expression in the MT is “with my nest.” The figure is satisfactory for the context – a home with all the young together, a picture of unity and safety. In Isa 16:2 the word can mean “nestlings,” and with the preposition “with” that might be the meaning here, except that his children had grown up and lived in their own homes. The figure cannot be pushed too far. But the verse apparently has caused enormous problems, because the versions offer a variety of readings and free paraphrases. The LXX has “My age shall grow old as the stem of a palm tree, I shall live a long time.” The Vulgate has, “In my nest I shall die and like the palm tree increase my days.” G. R. Driver found an Egyptian word meaning “strength” (“Birds in the Old Testament,” PEQ 87 [1955]: 138-39). Several read “in a ripe old age” instead of “in my nest” (Pope, Dhorme; see P. P. Saydon, “Philological and Textual Notes to the Maltese Translation of the Old Testament,” CBQ 23 [1961]: 252). This requires the verb זָקַן (zaqan, “be old”), i.e., בִּזְקוּנַי (bizqunay, “in my old age”) instead of קִנִּי (qinni, “my nest”). It has support from the LXX.
+
+### Verse 18 - Note 2
+[写本注]  For חוֹל (khol, “sand”) the LXX has a word that is “like the palm tree,” but which could also be translated “like the phoenix” (cf. NAB, NRSV). This latter idea was developed further in rabbinical teaching (see R. Gordis, Job, 321). See also M. Dahood, “Nest and phoenix in Job 29:18,” Bib 48 (1967): 542-44. But the MT yields an acceptable sense here.
+
+### Verse 20 - Note 1
+[翻訳注]  The word is “my glory,” meaning his high respect and his honor. Hoffmann proposed to read כִּידוֹן (kidon) instead, meaning “javelin” (as in 1 Sam 17:6), to match the parallelism (RQ 3 [1961/62]: 388). But the parallelism does not need to be so tight.
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “new.”
+
+### Verse 21 - Note 1
+[翻訳注]  “People” is supplied; the verb is plural.
+
+### Verse 21 - Note 2
+[写本注]  The last verb of the first half, “wait, hope,” and the first verb in the second colon, “be silent,” are usually reversed by the commentators (see G. R. Driver, “Problems in the Hebrew text of Job,” VTSup 3 [1955]: 86). But if “wait” has the idea of being silent as they wait for him to speak, then the second line would say they were silent for the reason of his advice. The reading of the MT is not impossible.
+
+### Verse 22 - Note 1
+[翻訳注]  The verb simply means “dropped,” but this means like the rain. So the picture of his words falling on them like the gentle rain, drop by drop, is what is intended (see Deut 32:2).
+
+### Verse 23 - Note 1
+[翻訳注]  The phrase “people wait for” is not in the Hebrew text, but has been supplied in the translation.
+
+### Verse 23 - Note 2
+[解説]  The analogy is that they received his words eagerly as the dry ground opens to receive the rains.
+
+### Verse 23 - Note 3
+[翻訳注]  The כּ (kaf) preposition is to be supplied by analogy with the preceding phrase. This leaves a double proposition, “as for” (but see Job 29:2).
+
+### Verse 24 - Note 1
+[翻訳注]  The connection of this clause with the verse is difficult. The line simply reads: “[if] I would smile at them, they would not believe.” Obviously something has to be supplied to make sense out of this. The view adopted here makes the most sense, namely, that when he smiled at people, they could hardly believe their good fortune. Other interpretations are strained, such as Kissane’s, “If I laughed at them, they believed not,” meaning, people rejected the views that Job laughed at.
+
+### Verse 24 - Note 2
+[翻訳注]  The meaning, according to Gordis, is that they did nothing to provoke Job’s displeasure.
+
+### Verse 25 - Note 1
+[翻訳注]  All of these imperfects describe what Job used to do, and so they all fit the category of customary imperfect.
+
+### Verse 25 - Note 2
+[翻訳注]  Heb “their way.”
+
+### Verse 25 - Note 3
+[翻訳注]  The text simply has “and I sat [as their] head.” The adverbial accusative explains his role, especially under the image of being seated. He directed the deliberations as a king directs an army.
+
+### Verse 25 - Note 4
+[写本注]  Most commentators think this last phrase is odd here, and so they either delete it altogether, or emend it to fit the idea of the verse. Ewald, however, thought it appropriate as a transition to the next section, reminding his friends that unlike him, they were miserable comforters. Herz made the few changes in the text to get the reading “where I led them, they were willing to go” (ZAW 20 [1900]: 163). The two key words in the MT are אֲבֵלִים יְנַחֵם (’avelim yÿnakhem, “he [one who] comforts mourners”). Following Herz, E. Dhorme (Job, 422) has these changed to אוֹבִילֵם יִנַּחוּ (’ovilem yinnakhu). R. Gordis has “like one leading a camel train” (Job, 324). But Kissane also retains the line as a summary of the chapter, noting its presence in the versions.
