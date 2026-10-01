@@ -105,7 +105,7 @@
     {
       "verse": 21,
       "en": "The Lord God made garments from skin for Adam and his wife, and clothed them.",
-      "ja": "主なる神はアダムとその妻のために皮の衣を造り、彼らに着せられた。"
+      "ja": "主なる神は<span class=\"entity person\" data-tooltip=\"レメクの妻の一人。\">アダ</span>ムとその妻のために皮の衣を造り、彼らに着せられた。"
     },
     {
       "verse": 22,
@@ -120,7 +120,7 @@
     {
       "verse": 24,
       "en": "When he drove the man out, he placed on the eastern side of the orchard in Eden angelic sentries who used the flame of a whirling sword to guard the way to the tree of life. ",
-      "ja": "神は人を追い出し、いのちの木への道を守るため、エデンの園の東にケルビムと、旋回する炎の剣を置かれた。"
+      "ja": "神は人を追い出し、いのちの木への道を守るため、エデンの園の東に<span class=\"entity person\" data-tooltip=\"神の聖性を守る天使的な存在。\">ケルビム</span>と、旋回する炎の剣を置かれた。"
     }
   ],
   "notes": {

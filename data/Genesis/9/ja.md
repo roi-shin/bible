@@ -36,7 +36,7 @@
 
 **17** 神はノアに言われた。「これが、わたしと地上のすべての生き物との間に確立する契約の保証である。」
 
-**18** 箱舟から出たノアの息子たちは、<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテであった。ハムはカナンの父である。
+**18** 箱舟から出たノアの息子たちは、<span class="entity person" data-tooltip="ノアの息子。イスラエルなど中東アジア系民族の祖とされる。">セム</span>、<span class="entity person" data-tooltip="ノアの息子。エジプトやアフリカ・カナン系民族の祖とされる。">ハム</span>、<span class="entity person" data-tooltip="ノアの息子。ヨーロッパや沿岸の民の祖とされる。">ヤペテ</span>であった。ハムは<span class="entity person" data-tooltip="ハムの息子。カナン人の祖。ノアの呪いを受けた。">カナン</span>の父である。
 
 **19** この三人がノアの息子たちであり、彼らから全地に人々が広がった。
 

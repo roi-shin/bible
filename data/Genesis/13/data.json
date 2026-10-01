@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "So Abram went up from Egypt into the Negev. He took his wife and all his possessions with him, as well as Lot. ",
-      "ja": "こうしてアブラムは、妻やすべての財産、そしてロトを連れてエジプトからネゲブへと上った。"
+      "ja": "こうして<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>は、妻やすべての財産、そして<span class=\"entity person\" data-tooltip=\"アブラハムの甥。共に旅をしたが、後にソドムに移り住んだ。\">ロト</span>を連れて<span class=\"entity location\" data-tooltip=\"ナイル川流域の大国。アブラハムが飢饉を逃れて滞在した。\">エジプト</span>から<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ネゲブ</span>へと上った。"
     },
     {
       "verse": 2,
@@ -15,7 +15,7 @@
     {
       "verse": 3,
       "en": "And he journeyed from place to place from the Negev as far as Bethel. He returned to the place where he had pitched his tent at the beginning, between Bethel and Ai. ",
-      "ja": "彼はネゲブから宿営を移しながらベテルまで進み、以前最初に天幕を張ったベテルとアイの間にある場所に戻った。"
+      "ja": "彼はネゲブから宿営を移しながら<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ベテル</span>まで進み、以前最初に天幕を張ったベテルと<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">アイ</span>の間にある場所に戻った。"
     },
     {
       "verse": 4,
@@ -35,7 +35,7 @@
     {
       "verse": 7,
       "en": "So there were quarrels between Abram’s herdsmen and Lot’s herdsmen. (Now the Canaanites and the Perizzites were living in the land at that time.) ",
-      "ja": "そのため、アブラムの家畜の飼い主たちとロトの家畜の飼い主たちとの間に争いが生じた。（当時、その地にはカナン人とペリジ人が住んでいた。）"
+      "ja": "そのため、アブラムの家畜の飼い主たちとロトの家畜の飼い主たちとの間に争いが生じた。（当時、その地には<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>人と<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ペリジ</span>人が住んでいた。）"
     },
     {
       "verse": 8,
@@ -50,12 +50,12 @@
     {
       "verse": 10,
       "en": "Lot looked up and saw the whole region of the Jordan. He noticed that all of it was well watered (this was before the Lord obliterated Sodom and Gomorrah) like the garden of the Lord, like the land of Egypt, all the way to Zoar. ",
-      "ja": "ロトが目を上げて見渡すと、ヨルダンの低地一帯はツォアルに至るまで、どこも水が豊かであった（これは主がソドムとゴモラを滅ぼされる前のことであった）。主の園のように、またエジプトの地のようであった。"
+      "ja": "ロトが目を上げて見渡すと、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ヨルダン</span>の低地一帯は<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ツォアル</span>に至るまで、どこも水が豊かであった（これは主が<span class=\"entity location\" data-tooltip=\"死海周辺にあったとされる町。悪徳ゆえに神に滅ぼされる。ロトが住んでいた。\">ソドム</span>と<span class=\"entity location\" data-tooltip=\"死海周辺にあったとされる町。ソドムと共に滅ぼされる。\">ゴモラ</span>を滅ぼされる前のことであった）。主の園のように、またエジプトの地のようであった。"
     },
     {
       "verse": 11,
       "en": "Lot chose for himself the whole region of the Jordan and traveled toward the east. So the relatives separated from each other.",
-      "ja": "ロトはヨルダンの低地一帯を自分のために選び、東へと旅立った。こうして彼らは互いに分かれた。"
+      "ja": "ロトはヨル<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ダン</span>の低地一帯を自分のために選び、東へと旅立った。こうして彼らは互いに分かれた。"
     },
     {
       "verse": 12,
@@ -90,7 +90,7 @@
     {
       "verse": 18,
       "en": "So Abram moved his tents and went to live by the oaks of Mamre in Hebron, and he built an altar to the Lord there. ",
-      "ja": "そこでアブラムは天幕を移し、ヘブロンにあるマムレの樫の木のそばに住み、そこに主のための祭壇を築いた。"
+      "ja": "そこでアブラムは天幕を移し、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ヘブロン</span>にある<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">マムレ</span>の樫の木のそばに住み、そこに主のための祭壇を築いた。"
     }
   ],
   "notes": {
@@ -335,5 +335,11 @@
         "ja": "[翻訳注] または「テレビンの木」。"
       }
     ]
+  },
+  "summary": "【アブラムとロトの別れ】二人の財産が増えすぎて争いが起きたため、アブラムは甥のロトと別れます。ロトはソドムの方面を選びました。",
+  "map_context": {
+    "era": "族長時代",
+    "location": "カナンの中央部（ベテルとアイの間）",
+    "description": "エジプトからカナンへ戻った彼らが、住む土地を分かち合う場面です。"
   }
 }

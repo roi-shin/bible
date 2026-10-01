@@ -5,12 +5,12 @@
     {
       "verse": 1,
       "en": "Now the Lord said to Abram, “Go out from your country, your relatives, and your father’s household to the land that I will show you.",
-      "ja": "主はアブラムに言われた。「あなたは、生まれ故郷、親族、そして父の家を出て、わたしが示す地へ行きなさい。"
+      "ja": "主は<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>に言われた。「あなたは、生まれ故郷、親族、そして父の家を出て、わたしが示す地へ行きなさい。"
     },
     {
       "verse": 2,
       "en": "Then I will make you into a great nation, and I will bless you, and I will make your name great, so that you will exemplify divine blessing. ",
-      "ja": "そうすれば、わたしはあなたを大いなる国民とし、あなたを祝福し、あなたの名を大いなるものとする。こうしてあなたは神の祝福の模範となるのだ。"
+      "ja": "そうすれば、わたしはあなたを大いなる国民とし、あなたを祝福し、あなたの名を大いなるものとする。こうしてあなたは<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>の祝福の模範となるのだ。"
     },
     {
       "verse": 3,
@@ -20,17 +20,17 @@
     {
       "verse": 4,
       "en": "So Abram left, just as the Lord had told him to do, and Lot went with him. (Now Abram was 75 years old when he departed from Haran.) ",
-      "ja": "そこでアブラムは、主が命じられたとおりに旅立ち、ロトも彼と共に行った。（アブラムがハランを出発したとき、彼は75歳であった。）"
+      "ja": "そこでアブラムは、主が命じられたとおりに旅立ち、<span class=\"entity person\" data-tooltip=\"アブラハムの甥。共に旅をしたが、後にソドムに移り住んだ。\">ロト</span>も彼と共に行った。（アブラムが<span class=\"entity location\" data-tooltip=\"アブラハムの父テラが住み着いたメソポタミア北部の町。アブラハムの兄弟の名でもある。\">ハラン</span>を出発したとき、彼は75歳であった。）"
     },
     {
       "verse": 5,
       "en": "And Abram took his wife Sarai, his nephew Lot, and all the possessions they had accumulated and the people they had acquired in Haran, and they left for the land of Canaan. They entered the land of Canaan. ",
-      "ja": "アブラムは妻サライと甥ロト、蓄えたすべての財産、そしてハランで得た人々を連れてカナンの地へ向けて出発した。そして彼らはカナンの地に入った。"
+      "ja": "アブラムは妻<span class=\"entity person\" data-tooltip=\"後のサラ。アブラハムの妻。\">サライ</span>と甥ロト、蓄えたすべての財産、そしてハランで得た人々を連れて<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>の地へ向けて出発した。そして彼らはカナンの地に入った。"
     },
     {
       "verse": 6,
       "en": "Abram traveled through the land as far as the oak tree of Moreh at Shechem. (At that time the Canaanites were in the land.) ",
-      "ja": "アブラムはその地を通り、シェケムにあるモレの樫の木のところまで進んだ。（当時、その地にはカナン人がいた。）"
+      "ja": "アブラムはその地を通り、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">シェケム</span>にある<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">モレ</span>の樫の木のところまで進んだ。（当時、その地にはカナン人がいた。）"
     },
     {
       "verse": 7,
@@ -40,22 +40,22 @@
     {
       "verse": 8,
       "en": "Then he moved from there to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and worshiped the Lord. ",
-      "ja": "アブラムはそこからベテルの東にある山地へ移り、西にベテル、東にアイを望む所に天幕を張った。彼はそこに主のための祭壇を築き、主を礼拝した。"
+      "ja": "アブラムはそこから<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ベテル</span>の東にある山地へ移り、西にベテル、東に<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">アイ</span>を望む所に天幕を張った。彼はそこに主のための祭壇を築き、主を礼拝した。"
     },
     {
       "verse": 9,
       "en": "Abram continually journeyed by stages down to the Negev. ",
-      "ja": "アブラムはなおも宿営を移しながら、ネゲブ地方へと進んで行った。"
+      "ja": "アブラムはなおも宿営を移しながら、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ネゲブ</span>地方へと進んで行った。"
     },
     {
       "verse": 10,
       "en": "There was a famine in the land, so Abram went down to Egypt to stay for a while because the famine was severe. ",
-      "ja": "その地に飢饉があった。その飢饉が厳しかったため、アブラムはしばらく滞在しようとエジプトへ下って行った。"
+      "ja": "その地に飢饉があった。その飢饉が厳しかったため、アブラムはしばらく滞在しようと<span class=\"entity location\" data-tooltip=\"ナイル川流域の大国。アブラハムが飢饉を逃れて滞在した。\">エジプト</span>へ下って行った。"
     },
     {
       "verse": 11,
       "en": "As he approached Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman. ",
-      "ja": "エジプトに近づいたとき、彼は妻サライに言った。「いいかい、わたしにはあなたが美しい女性であることがよく分かっている。"
+      "ja": "エジプトに近づいたとき、彼は妻<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>イに言った。「いいかい、わたしにはあなたが美しい女性であることがよく分かっている。"
     },
     {
       "verse": 12,
@@ -75,7 +75,7 @@
     {
       "verse": 15,
       "en": "When Pharaoh’s officials saw her, they praised her to Pharaoh. So Abram’s wife was taken into the household of Pharaoh, ",
-      "ja": "ファラオの高官たちが彼女を見てファラオに激賞したため、アブラムの妻はファラオの宮廷に召し入れられた。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ファラオ</span>の高官たちが彼女を見てファラオに激賞したため、アブラムの妻はファラオの宮廷に召し入れられた。"
     },
     {
       "verse": 16,
@@ -397,5 +397,11 @@
         "ja": "[翻訳注] ヘブライ語直訳は「彼」。指示対象（アブラム）を明確にするために翻訳で明示されている。"
       }
     ]
+  },
+  "summary": "【アブラムの召命】神はアブラムに故郷を離れるよう命じ、祝福を約束します。飢饉のためエジプトへ下りますが、そこで事件が起きます。",
+  "map_context": {
+    "era": "紀元前2000年頃（族長時代）",
+    "location": "ハランからカナン、そしてエジプトへ",
+    "description": "アブラムが約束の地カナンへ向かう大移動の旅が始まります。"
   }
 }

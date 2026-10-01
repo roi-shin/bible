@@ -10,12 +10,12 @@
     {
       "verse": 2,
       "en": "When the people moved eastward, they found a plain in Shinar and settled there. ",
-      "ja": "人々が東へ移動したとき、シナルにある平地を見つけてそこに定住した。"
+      "ja": "人々が東へ移動したとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">シナル</span>にある平地を見つけてそこに定住した。"
     },
     {
       "verse": 3,
       "en": "Then they said to one another, “Come, let’s make bricks and bake them thoroughly.” (They had brick instead of stone and tar instead of mortar.) ",
-      "ja": "彼らは互いに言った。「さあ、レンガを作ってよく焼こう。」（彼らには石の代わりにレンガがあり、モルタルの代わりにアスファルトがあった。）"
+      "ja": "彼らは互いに言った。「さあ、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">レンガ</span>を作ってよく焼こう。」（彼らには石の代わりにレンガがあり、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">モルタル</span>の代わりに<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">アスファルト</span>があった。）"
     },
     {
       "verse": 4,
@@ -45,12 +45,12 @@
     {
       "verse": 9,
       "en": "That is why its name was called Babel—because there the Lord confused the language of the entire world, and from there the Lord scattered them across the face of the entire earth. ",
-      "ja": "それゆえ、その町の名はバベルと呼ばれた。主がそこで全世界の言葉を混乱させ、そこから主が彼らを全地の表に散らされたからである。"
+      "ja": "それゆえ、その町の名は<span class=\"entity location\" data-tooltip=\"シナル（バビロニア）の地にある町。人々が天に届く塔を建てようとした場所。\">バベル</span>と呼ばれた。主がそこで全世界の言葉を混乱させ、そこから主が彼らを全地の表に散らされたからである。"
     },
     {
       "verse": 10,
       "en": "This is the account of Shem.Shem was 100 years old when he became the father of Arphaxad, two years after the flood. ",
-      "ja": "これがセムの系図である。セムは百歳になったとき、洪水の二年のちにアルパクシャデを生んだ。"
+      "ja": "これが<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">セム</span>の系図である。セムは百歳になったとき、洪水の二年のちに<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">アルパクシャデ</span>を生んだ。"
     },
     {
       "verse": 11,
@@ -60,7 +60,7 @@
     {
       "verse": 12,
       "en": "When Arphaxad had lived 35 years, he became the father of Shelah. ",
-      "ja": "アルパクシャデは三十五歳になったとき、シェラを生んだ。"
+      "ja": "アルパクシャデは三十五歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">シェラ</span>を生んだ。"
     },
     {
       "verse": 13,
@@ -70,7 +70,7 @@
     {
       "verse": 14,
       "en": "When Shelah had lived 30 years, he became the father of Eber. ",
-      "ja": "シェラは三十歳になったとき、エベルを生んだ。"
+      "ja": "シェラは三十歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">エベル</span>を生んだ。"
     },
     {
       "verse": 15,
@@ -80,7 +80,7 @@
     {
       "verse": 16,
       "en": "When Eber had lived 34 years, he became the father of Peleg. ",
-      "ja": "エベルは三十四歳になったとき、ペレグを生んだ。"
+      "ja": "エベルは三十四歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ペレグ</span>を生んだ。"
     },
     {
       "verse": 17,
@@ -90,7 +90,7 @@
     {
       "verse": 18,
       "en": "When Peleg had lived 30 years, he became the father of Reu. ",
-      "ja": "ペレグは三十歳になったとき、レウを生んだ。"
+      "ja": "ペレグは三十歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">レウ</span>を生んだ。"
     },
     {
       "verse": 19,
@@ -100,7 +100,7 @@
     {
       "verse": 20,
       "en": "When Reu had lived 32 years, he became the father of Serug. ",
-      "ja": "レウは三十二歳になったとき、セルグを生んだ。"
+      "ja": "レウは三十二歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">セルグ</span>を生んだ。"
     },
     {
       "verse": 21,
@@ -110,7 +110,7 @@
     {
       "verse": 22,
       "en": "When Serug had lived 30 years, he became the father of Nahor. ",
-      "ja": "セルグは三十歳になったとき、ナホルを生んだ。"
+      "ja": "セルグは三十歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ナホル</span>を生んだ。"
     },
     {
       "verse": 23,
@@ -120,7 +120,7 @@
     {
       "verse": 24,
       "en": "When Nahor had lived 29 years, he became the father of Terah. ",
-      "ja": "ナホルは二十九歳になったとき、テラを生んだ。"
+      "ja": "ナホルは二十九歳になったとき、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">テラ</span>を生んだ。"
     },
     {
       "verse": 25,
@@ -130,32 +130,32 @@
     {
       "verse": 26,
       "en": "When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran. ",
-      "ja": "テラは七十歳になったとき、アブラム、ナホル、ハランを生んだ。"
+      "ja": "テラは七十歳になったとき、<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>、ナホル、<span class=\"entity location\" data-tooltip=\"アブラハムの父テラが住み着いたメソポタミア北部の町。アブラハムの兄弟の名でもある。\">ハラン</span>を生んだ。"
     },
     {
       "verse": 27,
       "en": "This is the account of Terah.Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot. ",
-      "ja": "これがテラの系図である。テラはアブラム、ナホル、ハランを生み、ハランはロトを生んだ。"
+      "ja": "これがテラの系図である。テラはアブラム、ナホル、ハランを生み、ハランは<span class=\"entity person\" data-tooltip=\"アブラハムの甥。共に旅をしたが、後にソドムに移り住んだ。\">ロト</span>を生んだ。"
     },
     {
       "verse": 28,
       "en": "Haran died in the land of his birth, in Ur of the Chaldeans, while his father Terah was still alive.",
-      "ja": "ハランは、父テラがまだ生きている間に、生まれ故郷であるカルデアのウルで死んだ。"
+      "ja": "ハランは、父テラがまだ生きている間に、生まれ故郷である<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">カルデア</span>の<span class=\"entity location\" data-tooltip=\"カルデア人の町。アブラハムの故郷。\">ウル</span>で死んだ。"
     },
     {
       "verse": 29,
       "en": "And Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai. And the name of Nahor’s wife was Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah. ",
-      "ja": "アブラムとナホルはそれぞれ妻を迎えた。アブラムの妻の名はサライであり、ナホルの妻の名はミルカであった。ミルカはハランの娘であり、ハランはミルカとイスカの父であった。"
+      "ja": "アブラムとナホルはそれぞれ妻を迎えた。アブラムの妻の名は<span class=\"entity person\" data-tooltip=\"後のサラ。アブラハムの妻。\">サライ</span>であり、ナホルの妻の名は<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ミルカ</span>であった。ミルカはハランの娘であり、ハランはミルカと<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">イスカ</span>の父であった。"
     },
     {
       "verse": 30,
       "en": "But Sarai was barren; she had no children. ",
-      "ja": "サライは不妊の女で、子がなかった。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>イは不妊の女で、子がなかった。"
     },
     {
       "verse": 31,
       "en": "Terah took his son Abram, his grandson Lot (the son of Haran), and his daughter-in-law Sarai, his son Abram’s wife, and with them he set out from Ur of the Chaldeans to go to Canaan. When they came to Haran, they settled there. ",
-      "ja": "テラは、息子の目アブラム、ハランの子である孫のロト、そして息子の妻である嫁のサライを連れ、彼らとともにカナンの地へ向かうためにカルデアのウルを出発した。彼らはハランに着くと、そこに定住した。"
+      "ja": "テラは、息子の目アブラム、ハランの子である孫のロト、そして息子の妻である嫁のサライを連れ、彼らとともに<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>の地へ向かうためにカルデアのウルを出発した。彼らはハランに着くと、そこに定住した。"
     },
     {
       "verse": 32,
@@ -359,5 +359,11 @@
         "ja": "[翻訳注] ヘブル語では「テラ」。翻訳では文体上の理由から固有名詞の代わりに代名詞が用いられている。"
       }
     ]
+  },
+  "summary": "【バベルの塔と系図】人々は天に届く塔を建て名をあげようとしますが、神は言葉を乱して人々を散らします。後半はセムからアブラムに至る系図です。",
+  "map_context": {
+    "era": "族長時代以前",
+    "location": "バベル（シナル地方）からカルデアのウルへ",
+    "description": "人類が世界中に散っていく様子と、物語の焦点がアブラハムの家族へ絞られる転換点。"
   }
 }

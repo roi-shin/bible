@@ -80,7 +80,7 @@
     {
       "verse": 16,
       "en": "So Cain went out from the presence of the Lord and lived in the land of Nod, east of Eden. ",
-      "ja": "カインは主の前から去り、<span class=\"entity location\" data-tooltip=\"神が最初の人を置いた理想の園。\">エデン</span>の東、ノドの地に住んだ。"
+      "ja": "カインは主の前から去り、<span class=\"entity location\" data-tooltip=\"神が最初の人を置いた理想の園。\">エデン</span>の東、<span class=\"entity location\" data-tooltip=\"エデンの東にある地。カインが追放されて住み着いた。\">ノド</span>の地に住んだ。"
     },
     {
       "verse": 17,
@@ -90,27 +90,27 @@
     {
       "verse": 18,
       "en": "To Enoch was born Irad, and Irad was the father of Mehujael. Mehujael was the father of Methushael, and Methushael was the father of Lamech. ",
-      "ja": "エノクにはイラデが生まれた。イラデはメフヤエルの父となり、メフヤエルはメトシャエルの父となり、メトシャエルはレメクの父となった。"
+      "ja": "エノクには<span class=\"entity person\" data-tooltip=\"カインの孫。エノクの息子。\">イラデ</span>が生まれた。イラデは<span class=\"entity person\" data-tooltip=\"イラデの息子。\">メフヤエル</span>の父となり、メフヤエルは<span class=\"entity person\" data-tooltip=\"メフヤエルの息子。\">メトシャエル</span>の父となり、メトシャエルは<span class=\"entity person\" data-tooltip=\"カインの子孫。また、セツの系図にも同名がいる。\">レメク</span>の父となった。"
     },
     {
       "verse": 19,
       "en": "Lamech took two wives for himself; the name of the first was Adah, and the name of the second was Zillah. ",
-      "ja": "レメクはふたりの妻を迎えた。ひとりの名はアダ、もうひとりの名はチラであった。"
+      "ja": "レメクはふたりの妻を迎えた。ひとりの名は<span class=\"entity person\" data-tooltip=\"レメクの妻の一人。\">アダ</span>、もうひとりの名は<span class=\"entity person\" data-tooltip=\"レメクの妻の一人。\">チラ</span>であった。"
     },
     {
       "verse": 20,
       "en": "Adah gave birth to Jabal; he was the first of those who live in tents and keep livestock. ",
-      "ja": "アダはヤバルを産んだ。彼は天幕に住み、家畜を飼う者の先祖となった。"
+      "ja": "アダは<span class=\"entity person\" data-tooltip=\"天幕に住む者、家畜を飼う者の先祖。\">ヤバル</span>を産んだ。彼は天幕に住み、家畜を飼う者の先祖となった。"
     },
     {
       "verse": 21,
       "en": "The name of his brother was Jubal; he was the first of all who play the harp and the flute. ",
-      "ja": "その弟の名はユバルであった。彼は竪琴と笛を奏でるすべての者の先祖となった。"
+      "ja": "その弟の名は<span class=\"entity person\" data-tooltip=\"竪琴や笛を奏でるすべての者の先祖。\">ユバル</span>であった。彼は竪琴と笛を奏でるすべての者の先祖となった。"
     },
     {
       "verse": 22,
       "en": "Now Zillah also gave birth to Tubal-Cain, who heated metal and shaped all kinds of tools made of bronze and iron. The sister of Tubal-Cain was Naamah. ",
-      "ja": "チラもまたトバル・カインを産んだ。彼は青銅と鉄のあらゆる道具を鍛える鍛冶の祖であった。トバル・カインの妹はナアマであった。"
+      "ja": "チラもまた<span class=\"entity person\" data-tooltip=\"青銅や鉄のあらゆる道具を作る者。\">トバル</span>・カインを産んだ。彼は青銅と鉄のあらゆる道具を鍛える鍛冶の祖であった。トバル・カインの妹は<span class=\"entity person\" data-tooltip=\"トバルの妹。\">ナアマ</span>であった。"
     },
     {
       "verse": 23,
@@ -130,7 +130,7 @@
     {
       "verse": 26,
       "en": "And a son was also born to Seth, whom he named Enosh. At that time people began to worship the Lord.",
-      "ja": "セツにもまた男の子が生まれ、その名をエノシュと名付けた。その頃、人々は主の御名によって祈り始めた。"
+      "ja": "セツにもまた男の子が生まれ、その名を<span class=\"entity person\" data-tooltip=\"セツの息子。この時代から人々は主の御名によって祈り始めた。\">エノシュ</span>と名付けた。その頃、人々は主の御名によって祈り始めた。"
     }
   ],
   "notes": {

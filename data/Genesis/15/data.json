@@ -5,12 +5,12 @@
     {
       "verse": 1,
       "en": "After these things the Lord’s message came to Abram in a vision: “Fear not, Abram! I am your shield and the one who will reward you in great abundance.” ",
-      "ja": "これらの事の後、主の言葉が幻の中でアブラムに臨んだ。「恐れるな、アブラムよ。私はあなたの盾であり、あなたに大いなる報いを与える者である。」"
+      "ja": "これらの事の後、主の言葉が幻の中で<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>に臨んだ。「恐れるな、アブラムよ。私はあなたの盾であり、あなたに大いなる報いを与える者である。」"
     },
     {
       "verse": 2,
       "en": "But Abram said, “O Sovereign Lord, what will you give me since I continue to be childless, and my heir is Eliezer of Damascus?” ",
-      "ja": "しかしアブラムは言った。「主なる神よ、私には子が無く、私の家の跡継ぎはダマスコのエリエゼルであるというのに、あなたは私に何をくださるというのですか。」"
+      "ja": "しかしアブラムは言った。「主なる<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>よ、私には子が無く、私の家の跡継ぎは<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ダマスコ</span>の<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">エリエゼル</span>であるというのに、あなたは私に何をくださるというのですか。」"
     },
     {
       "verse": 3,
@@ -35,7 +35,7 @@
     {
       "verse": 7,
       "en": "The Lord said to him, “I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.” ",
-      "ja": "主は彼に言われた。「私は、この地をあなたに与えて所有させるために、あなたをカルデア人のウルから導き出した主である。」"
+      "ja": "主は彼に言われた。「私は、この地をあなたに与えて所有させるために、あなたを<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">カルデア</span>人の<span class=\"entity location\" data-tooltip=\"カルデア人の町。アブラハムの故郷。\">ウル</span>から導き出した主である。」"
     },
     {
       "verse": 8,
@@ -80,7 +80,7 @@
     {
       "verse": 16,
       "en": "In the fourth generation your descendants will return here, for the sin of the Amorites has not yet reached its limit.”",
-      "ja": "四世代目に、あなたの子孫はここに戻って来る。アモリ人の罪がまだ満ちていないからである。」"
+      "ja": "四世代目に、あなたの子孫はここに戻って来る。<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">アモリ</span>人の罪がまだ満ちていないからである。」"
     },
     {
       "verse": 17,
@@ -90,22 +90,22 @@
     {
       "verse": 18,
       "en": "That day the Lord made a covenant with Abram: “To your descendants I give this land, from the river of Egypt to the great river, the Euphrates River—",
-      "ja": "その日、主はアブラムと契約を結んで言われた。「あなたの子孫に私はこの地を与える。エジプトの川からあの大河、ユーフラテス川に至るまでの地、"
+      "ja": "その日、主はアブラムと契約を結んで言われた。「あなたの子孫に私はこの地を与える。<span class=\"entity location\" data-tooltip=\"ナイル川流域の大国。アブラハムが飢饉を逃れて滞在した。\">エジプト</span>の川からあの大河、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ユーフラテス</span>川に至るまでの地、"
     },
     {
       "verse": 19,
       "en": "the land of the Kenites, Kenizzites, Kadmonites, ",
-      "ja": "すなわちケニ人、ケニズ人、カドモニ人、"
+      "ja": "すなわち<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ケニ</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ケニズ</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">カドモニ</span>人、"
     },
     {
       "verse": 20,
       "en": "Hittites, Perizzites, Rephaites, ",
-      "ja": "ヒッタイト人、ペリジ人、レファイム人、"
+      "ja": "<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ヒッタイト</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ペリジ</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">レファイム</span>人、"
     },
     {
       "verse": 21,
       "en": "Amorites, Canaanites, Girgashites, and Jebusites.” ",
-      "ja": "アモリ人、カナン人、ギルガシ人、エブス人の地である。」"
+      "ja": "アモリ人、<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ギルガシ</span>人、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">エブス</span>人の地である。」"
     }
   ],
   "notes": {
@@ -417,5 +417,11 @@
         "ja": "[翻訳注] このリストのそれぞれの名前にはヘブライ語の定冠詞が付いており、ここでは特定された民族集団全体を総称するために用いられている。"
       }
     ]
+  },
+  "summary": "【神の契約】子どものいないアブラムに対し、神は星のように多くの子孫を与えると約束し、契約の儀式を行います。",
+  "map_context": {
+    "era": "族長時代",
+    "location": "カナン地方（ヘブロン周辺）",
+    "description": "神とアブラムの個人的で決定的な契約が結ばれる、非常に重要な場面です。"
   }
 }

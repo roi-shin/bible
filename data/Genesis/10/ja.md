@@ -2,65 +2,65 @@
 
 ## 本文
 
-**1** これは<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>の息子たち、<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテの系図である。洪水の後に彼らに息子たちが生まれた。
+**1** これは<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>の息子たち、<span class="entity person" data-tooltip="ノアの息子。イスラエルなど中東アジア系民族の祖とされる。">セム</span>、<span class="entity person" data-tooltip="ノアの息子。エジプトやアフリカ・カナン系民族の祖とされる。">ハム</span>、<span class="entity person" data-tooltip="ノアの息子。ヨーロッパや沿岸の民の祖とされる。">ヤペテ</span>の系図である。洪水の後に彼らに息子たちが生まれた。
 
-**2** ヤペテの息子たちはゴメル、マゴグ、マダイ、ヤワン、トバル、メシェク、ティラスであった。
+**2** ヤペテの息子たちは<span class="entity person" data-tooltip="ヤペテの息子。">ゴメル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">マゴグ</span>、<span class="entity person" data-tooltip="ヤペテの息子。メディア人の祖。">マダイ</span>、<span class="entity person" data-tooltip="ヤペテの息子。ギリシャ（イオニア）の祖とされる。">ヤワン</span>、<span class="entity person" data-tooltip="青銅や鉄のあらゆる道具を作る者。">トバル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">メシェク</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ティラス</span>であった。
 
-**3** ゴメルの息子たちはアシュケナズ、リパテ、トガルマであった。
+**3** ゴメルの息子たちは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アシュケナズ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">リパテ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">トガルマ</span>であった。
 
-**4** ヤワンの息子たちはエリシャ、タルシシ、キッティム人、ドダニム人であった。
+**4** ヤワンの息子たちは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エリシャ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">タルシシ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">キッティム</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ドダニム</span>人であった。
 
 **5** これらから諸国民の沿岸地がその地へと分かれ出た。それぞれがその言語に従い、その氏族に従い、その国々ごとに分かれた。
 
-**6** ハムの息子たちはクシュ、ミツライム、プテ、カナンであった。
+**6** ハムの息子たちは<span class="entity person" data-tooltip="ハムの息子。エチオピアなどの地域の祖。">クシュ</span>、<span class="entity person" data-tooltip="ハムの息子。エジプトの祖。">ミツライム</span>、<span class="entity person" data-tooltip="ハムの息子。リビア周辺の民の祖。">プテ</span>、<span class="entity person" data-tooltip="ハムの息子。カナン人の祖。ノアの呪いを受けた。">カナン</span>であった。
 
-**7** クシュの息子たちはセバ、ハビラ、サブタ、ラアマ、サブテカであった。ラアマの息子たちはシェバとデダンであった。
+**7** クシュの息子たちは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">セバ</span>、<span class="entity location" data-tooltip="良質な金が産出する土地。クシュの息子、あるいはヨクタンの息子の名でもある。">ハビラ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">サブタ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ラアマ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">サブテカ</span>であった。ラアマの息子たちは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シェバ</span>と<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">デダン</span>であった。
 
-**8** クシュはニムロデを生んだ。ニムロデは地上で勇士となり始めた。
+**8** クシュは<span class="entity person" data-tooltip="クシュの息子。地上で最初の権力者となり、バベルなどを建てた。">ニムロデ</span>を生んだ。ニムロデは地上で勇士となり始めた。
 
 **9** 彼は主の前に力ある狩人であった。（それゆえ、「主の前に力ある狩人ニムロデのように」と言われる。）
 
-**10** 彼の王国の主要な地域は、シナルの地にある<span class="entity location" data-tooltip="シンアルの地にある町。のちにバベルの塔が建てられる。">バベル</span>、エレク、アッカド、カルネであった。
+**10** 彼の王国の主要な地域は、<span class="entity location" data-tooltip="メソポタミア南部、バビロニア地方のこと。">シナル</span>の地にある<span class="entity location" data-tooltip="シナル（バビロニア）の地にある町。">バベル</span>、<span class="entity location" data-tooltip="シナル地方の古代都市（ウルク）。">エレク</span>、<span class="entity location" data-tooltip="シナル地方の古代都市。アッカド帝国の中心。">アッカド</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カルネ</span>であった。
 
-**11** 彼はその地からアッシリアへ進み出て、ニネベ、レホボテ・イル、カラ、
+**11** 彼はその地から<span class="entity location" data-tooltip="メソポタミア北部の大国、またはその地域。">アッシリア</span>へ進み出て、<span class="entity location" data-tooltip="アッシリアの主要な都市。">ニネベ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">レホボテ</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">イル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カラ</span>、
 
-**12** およびニネベと大いなる町カラの間にあるレセンを建てた。
+**12** およびニネベと大いなる町カラの間にある<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">レセン</span>を建てた。
 
-**13** ミツライムはルデ人、アナミ人、レハビ人、ナフトヒ人、
+**13** ミツライムは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ルデ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アナミ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">レハビ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ナフトヒ</span>人、
 
-**14** パテロス人、カスルフ人（ペリシテ人はここから出た）、およびカフトル人を生んだ。
+**14** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">パテロス</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カスルフ</span>人（<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ペリシテ</span>人はここから出た）、および<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カフトル</span>人を生んだ。
 
-**15** カナンはその長子シドンとヘテ、
+**15** カナンはその長子<span class="entity location" data-tooltip="カナンの長男の名、およびフェニキアの重要な港町。">シドン</span>と<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ヘテ</span>、
 
-**16** エブス人、アモリ人、ギルガシ人、
+**16** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エブス</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アモリ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ギルガシ</span>人、
 
-**17** ヒビ人、アルキ人、シニ人、
+**17** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ヒビ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アルキ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シニ</span>人、
 
-**18** アルワデ人、ツェマリ人、ハマテ人を生んだ。その後、カナンの諸氏族は広がっていった。
+**18** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アルワデ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ツェマリ</span>人、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハマテ</span>人を生んだ。その後、カナンの諸氏族は広がっていった。
 
-**19** そしてカナンの境界は、シドンからゲラルに向かってガザに至るまで、またソドム、ゴモラ、アデマ、ツェボイムに向かってラシャに至るまで広がっていた。
+**19** そしてカナンの境界は、シドンから<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ゲラル</span>に向かって<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ガザ</span>に至るまで、また<span class="entity location" data-tooltip="死海周辺にあったとされる町。">ソドム</span>、<span class="entity location" data-tooltip="死海周辺にあったとされる町。">ゴモラ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アデマ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ツェボイム</span>に向かって<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ラシャ</span>に至るまで広がっていた。
 
 **20** これらは、その氏族、その言語に従い、その土地、その国々によるハムの息子たちである。
 
-**21** またエベルのすべての息子たちの父であり、ヤペテの兄であるセムにも、息子たちが生まれた。
+**21** また<span class="entity person" data-tooltip="シェラの息子。「ヘブル人」の語源とされる。">エベル</span>のすべての息子たちの父であり、ヤペテの兄であるセムにも、息子たちが生まれた。
 
-**22** セムの息子たちはエラム、アシュル、アルパクシャデ、ルド、アラムであった。
+**22** セムの息子たちは<span class="entity person" data-tooltip="セムの息子。ペルシア方面の民の祖。">エラム</span>、<span class="entity person" data-tooltip="セムの息子。アッシリアの祖。">アシュル</span>、<span class="entity person" data-tooltip="セムの息子。アブラハムの先祖。">アルパクシャデ</span>、<span class="entity person" data-tooltip="セムの息子。リディア方面の祖。">ルド</span>、<span class="entity person" data-tooltip="セムの息子。アラム人（シリア周辺）の祖。">アラム</span>であった。
 
-**23** アラムの息子たちはウツ、フル、ゲテル、マシュであった。
+**23** アラムの息子たちは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ウツ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">フル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ゲテル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">マシュ</span>であった。
 
-**24** アルパクシャデはシェラを生み、シェラはエベルを生んだ。
+**24** アルパクシャデは<span class="entity person" data-tooltip="アルパクシャデの息子。">シェラ</span>を生み、シェラはエベルを生んだ。
 
-**25** エベルに二人の息子が生まれた。一人の名はペレグであった。彼の時代に地が分かれたからである。そしてその兄弟の名はヨクタンであった。
+**25** エベルに二人の息子が生まれた。一人の名は<span class="entity person" data-tooltip="エベルの息子。彼の時代に「地が分割された」。">ペレグ</span>であった。彼の時代に地が分かれたからである。そしてその兄弟の名は<span class="entity person" data-tooltip="エベルの息子。アラビア方面の諸族の祖。">ヨクタン</span>であった。
 
-**26** ヨクタンはアルモダド、シェレフ、ハツァルマベテ、エラ、
+**26** ヨクタンは<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アルモダド</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シェレフ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハツァルマベテ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エラ</span>、
 
-**27** ハドラム、ウザル、ディクラ、
+**27** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハドラム</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ウザル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ディクラ</span>、
 
-**28** オバル、アビマエル、シェバ、
+**28** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">オバル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アビマエル</span>、シェバ、
 
-**29** オフィル、ハビラ、ヨバブを生んだ。これらはみなヨクタンの息子たちであった。
+**29** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">オフィル</span>、ハビラ、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ヨバブ</span>を生んだ。これらはみなヨクタンの息子たちであった。
 
-**30** 彼らの居住地は、メシャから東の山地にあるセパルに至る地域であった。
+**30** 彼らの居住地は、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">メシャ</span>から東の山地にある<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">セパル</span>に至る地域であった。
 
 **31** これらは、その氏族、その言語に従い、その土地、その国々によるセムの息子たちである。
 

@@ -2,11 +2,11 @@
 
 ## 本文
 
-**1** アブラハムはそこからネゲブ地方へと旅立ち、カデシュとシュルの間に住みついた。彼がゲラルに寄留していたとき、
+**1** <span class="entity person" data-tooltip="アブラムの新しい名。「多くの国民の父」の意。">アブラハム</span>はそこから<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ネゲブ</span>地方へと旅立ち、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カデシュ</span>と<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シュル</span>の間に住みついた。彼が<span class="entity location" data-tooltip="カナン南西部の町。アビメレクが治めていた。">ゲラル</span>に寄留していたとき、
 
-**2** アブラハムは妻サラについて「彼女はわたしの妹だ」と言った。そこでゲラルの王アビメレクは人を遣わしてサラを召し入れた。
+**2** アブラ<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハム</span>は妻<span class="entity person" data-tooltip="サライの新しい名。「王女」の意。イサクの母。">サラ</span>について「彼女はわたしの妹だ」と言った。そこでゲラルの王<span class="entity person" data-tooltip="ペリシテ人（ゲラル）の王。">アビメレク</span>は人を遣わしてサラを召し入れた。
 
-**3** しかし夜の夢の中で神がアビメレクのところに現れ、言われた。「見よ、お前が連れ去った女のゆえにお前は死ぬ。彼女は夫のある身だからだ。」
+**3** しかし夜の夢の中で<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>がアビメレクのところに現れ、言われた。「見よ、お前が連れ去った女のゆえにお前は死ぬ。彼女は夫のある身だからだ。」
 
 **4** アビメレクはまだ彼女に近づいていなかった。彼は言った。「主よ、正しい民であっても滅ぼされるのですか。
 

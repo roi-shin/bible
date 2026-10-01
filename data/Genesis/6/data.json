@@ -20,7 +20,7 @@
     {
       "verse": 4,
       "en": "The Nephilim were on the earth in those days (and also after this) when the sons of God would sleep with the daughters of humankind, who gave birth to their children. They were the mighty heroes of old, the famous men. ",
-      "ja": "当時、地上にはネフィリムがいた（その後にもいた）。神の子らが人の娘たちのところに入り、娘たちが子どもを産んだ時代である。彼らは昔の勇士であり、名高い者たちであった。"
+      "ja": "当時、地上には<span class=\"entity person\" data-tooltip=\"大洪水前にいたとされる、名高い昔の勇士や巨人たち。\">ネフィリム</span>がいた（その後にもいた）。神の子らが人の娘たちのところに入り、娘たちが子どもを産んだ時代である。彼らは昔の勇士であり、名高い者たちであった。"
     },
     {
       "verse": 5,
@@ -50,7 +50,7 @@
     {
       "verse": 10,
       "en": "Noah had three sons: Shem, Ham, and Japheth. ",
-      "ja": "ノアは<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテという三人の息子を生んだ。"
+      "ja": "ノアは<span class=\"entity person\" data-tooltip=\"ノアの息子。イスラエルなど中東アジア系民族の祖とされる。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子。エジプトやアフリカ・カナン系民族の祖とされる。\">ハム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子。ヨーロッパや沿岸の民の祖とされる。\">ヤペテ</span>という三人の息子を生んだ。"
     },
     {
       "verse": 11,

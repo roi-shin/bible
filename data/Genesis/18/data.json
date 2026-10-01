@@ -5,12 +5,12 @@
     {
       "verse": 1,
       "en": "The Lord appeared to Abraham by the oaks of Mamre while he was sitting at the entrance to his tent during the hottest time of the day. ",
-      "ja": "日の最も暑いころ、アブラハムが天幕の入り口に座っていたとき、主がマムレの樫の木のそばで彼に現れた。"
+      "ja": "日の最も暑いころ、<span class=\"entity person\" data-tooltip=\"アブラムの新しい名。「多くの国民の父」の意。\">アブラハム</span>が天幕の入り口に座っていたとき、主が<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">マムレ</span>の樫の木のそばで彼に現れた。"
     },
     {
       "verse": 2,
       "en": "Abraham looked up and saw three men standing across from him. When he saw them he ran from the entrance of the tent to meet them and bowed low to the ground. ",
-      "ja": "アブラハムが目を上げて見ると、3人の男が向かい側に立っていた。彼は彼らを見るや、天幕の入り口から走って行って迎え、地にひれ伏した。"
+      "ja": "アブラ<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ハム</span>が目を上げて見ると、3人の男が向かい側に立っていた。彼は彼らを見るや、天幕の入り口から走って行って迎え、地にひれ伏した。"
     },
     {
       "verse": 3,
@@ -30,7 +30,7 @@
     {
       "verse": 6,
       "en": "So Abraham hurried into the tent and said to Sarah, “Quick! Take three measures of fine flour, knead it, and make bread.” ",
-      "ja": "そこでアブラハムは天幕の中へと急ぎ、サラに言った。「急いで上等な小麦粉3セアを用意し、こねてパンを焼いてくれ。」"
+      "ja": "そこでアブラハムは天幕の中へと急ぎ、<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>に言った。「急いで上等な小麦粉3<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">セア</span>を用意し、こねて<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">パン</span>を焼いてくれ。」"
     },
     {
       "verse": 7,
@@ -80,7 +80,7 @@
     {
       "verse": 16,
       "en": "When the men got up to leave, they looked out over Sodom. (Now Abraham was walking with them to see them on their way.) ",
-      "ja": "その男たちはそこを立ち去ろうとして立ち上がり、ソドムを見下ろした。（アブラハムは彼らを見送るために一緒に歩いていた。）"
+      "ja": "その男たちはそこを立ち去ろうとして立ち上がり、<span class=\"entity location\" data-tooltip=\"死海周辺にあったとされる町。悪徳ゆえに神に滅ぼされる。ロトが住んでいた。\">ソドム</span>を見下ろした。（アブラハムは彼らを見送るために一緒に歩いていた。）"
     },
     {
       "verse": 17,
@@ -100,7 +100,7 @@
     {
       "verse": 20,
       "en": "So the Lord said, “The outcry against Sodom and Gomorrah is so great and their sin so blatant ",
-      "ja": "そこで主は言われた。「ソドムとゴモラに対する叫びは非常に大きく、その罪ははなはだ重い。"
+      "ja": "そこで主は言われた。「ソドムと<span class=\"entity location\" data-tooltip=\"死海周辺にあったとされる町。ソドムと共に滅ぼされる。\">ゴモラ</span>に対する叫びは非常に大きく、その罪ははなはだ重い。"
     },
     {
       "verse": 21,
@@ -636,5 +636,11 @@
         "ja": "[翻訳注] ヘブル語では「自分の場所へ」。"
       }
     ]
+  },
+  "summary": "【三人の客ととりなし】神が三人の客として現れ、サラに男の子が生まれると予告します。その後、アブラハムは滅ぼされようとするソドムのために必死にとりなします。",
+  "map_context": {
+    "era": "族長時代",
+    "location": "マムレの樫の木（ヘブロン近郊）",
+    "description": "神との親密な交わりと、正しい者を守ろうとするアブラハムの執り成しの祈りです。"
   }
 }

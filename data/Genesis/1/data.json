@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "In the beginning God created the heavens and the earth.",
-      "ja": "初めに神は天と地を創造された。"
+      "ja": "初めに<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>は天と地を創造された。"
     },
     {
       "verse": 2,

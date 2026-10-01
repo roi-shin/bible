@@ -15,7 +15,7 @@
     {
       "verse": 3,
       "en": "When Adam had lived 130 years he fathered a son in his own likeness, according to his image, and he named him Seth. ",
-      "ja": "アダムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名を<span class=\"entity person\" data-tooltip=\"アベルの死後、アダムとエバの間に生まれた子。\">セツ</span>と名づけた。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"レメクの妻の一人。\">アダ</span>ムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名を<span class=\"entity person\" data-tooltip=\"アベルの死後、アダムとエバの間に生まれた子。\">セツ</span>と名づけた。"
     },
     {
       "verse": 4,
@@ -30,7 +30,7 @@
     {
       "verse": 6,
       "en": "When Seth had lived 105 years, he became the father of Enosh. ",
-      "ja": "セツは105歳になったとき、エノシュをもうけた。"
+      "ja": "セツは105歳になったとき、<span class=\"entity person\" data-tooltip=\"セツの息子。この時代から人々は主の御名によって祈り始めた。\">エノシュ</span>をもうけた。"
     },
     {
       "verse": 7,
@@ -45,7 +45,7 @@
     {
       "verse": 9,
       "en": "When Enosh had lived 90 years, he became the father of Kenan. ",
-      "ja": "エノシュは90歳になったとき、ケナンをもうけた。"
+      "ja": "エノシュは90歳になったとき、<span class=\"entity person\" data-tooltip=\"エノシュの息子。\">ケナン</span>をもうけた。"
     },
     {
       "verse": 10,
@@ -60,7 +60,7 @@
     {
       "verse": 12,
       "en": "When Kenan had lived 70 years, he became the father of Mahalalel. ",
-      "ja": "ケナンは70歳になったとき、マハラレルをもうけた。"
+      "ja": "ケナンは70歳になったとき、<span class=\"entity person\" data-tooltip=\"ケナンの息子。\">マハラレル</span>をもうけた。"
     },
     {
       "verse": 13,
@@ -75,7 +75,7 @@
     {
       "verse": 15,
       "en": "When Mahalalel had lived 65 years, he became the father of Jared. ",
-      "ja": "マハラレルは65歳になったとき、ヤレデをもうけた。"
+      "ja": "マハラレルは65歳になったとき、<span class=\"entity person\" data-tooltip=\"マハラレルの息子。\">ヤレデ</span>をもうけた。"
     },
     {
       "verse": 16,
@@ -105,12 +105,12 @@
     {
       "verse": 21,
       "en": "When Enoch had lived 65 years, he became the father of Methuselah. ",
-      "ja": "エノクは65歳になったとき、メトシェラをもうけた。"
+      "ja": "エノクは65歳になったとき、<span class=\"entity person\" data-tooltip=\"聖書中で最も長寿（969歳）とされるエノクの息子。ノアの祖父。\">メトシェラ</span>をもうけた。"
     },
     {
       "verse": 22,
       "en": "After he became the father of Methuselah, Enoch walked with God for 300 years, and he had other sons and daughters. ",
-      "ja": "エノクはメトシェラをもうけた後、300年間神とともに歩み、ほかの息子や娘たちをもうけた。"
+      "ja": "エノクはメト<span class=\"entity person\" data-tooltip=\"アルパクシャデの息子。\">シェラ</span>をもうけた後、300年間神とともに歩み、ほかの息子や娘たちをもうけた。"
     },
     {
       "verse": 23,
@@ -125,7 +125,7 @@
     {
       "verse": 25,
       "en": "When Methuselah had lived 187 years, he became the father of Lamech. ",
-      "ja": "メトシェラは187歳になったとき、レメクをもうけた。"
+      "ja": "メトシェラは187歳になったとき、<span class=\"entity person\" data-tooltip=\"カインの子孫。また、セツの系図にも同名がいる。\">レメク</span>をもうけた。"
     },
     {
       "verse": 26,
@@ -160,7 +160,7 @@
     {
       "verse": 32,
       "en": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth. ",
-      "ja": "ノアは500歳になった後、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテをもうけた。"
+      "ja": "ノアは500歳になった後、<span class=\"entity person\" data-tooltip=\"ノアの息子。イスラエルなど中東アジア系民族の祖とされる。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子。エジプトやアフリカ・カナン系民族の祖とされる。\">ハム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子。ヨーロッパや沿岸の民の祖とされる。\">ヤペテ</span>をもうけた。"
     }
   ],
   "notes": {

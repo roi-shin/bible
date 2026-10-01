@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "When Abram was ninety-nine years old, the Lord appeared to him and said, “I am the Sovereign God. Walk before me and be blameless. ",
-      "ja": "アブラムが99歳になったとき、主が彼に現れて言われた。「わたしは全能の神である。わたしの前に歩み、全き者であれ。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>が99歳になったとき、主が彼に現れて言われた。「わたしは全能の<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>である。わたしの前に歩み、全き者であれ。"
     },
     {
       "verse": 2,
@@ -25,7 +25,7 @@
     {
       "verse": 5,
       "en": "No longer will your name be Abram. Instead, your name will be Abraham because I will make you the father of a multitude of nations. ",
-      "ja": "あなたの名はもはやアブラムとは呼ばれず、あなたの名はアブラハムとなる。わたしがあなたを多くの国民の父とするからである。"
+      "ja": "あなたの名はもはやアブラムとは呼ばれず、あなたの名は<span class=\"entity person\" data-tooltip=\"アブラムの新しい名。「多くの国民の父」の意。\">アブラハム</span>となる。わたしがあなたを多くの国民の父とするからである。"
     },
     {
       "verse": 6,
@@ -40,12 +40,12 @@
     {
       "verse": 8,
       "en": "I will give the whole land of Canaan—the land where you are now residing—to you and your descendants after you as a permanent possession. I will be their God.” ",
-      "ja": "わたしは、あなたが現在寄留している地、すなわちカナンの全地を、あなたとあなたの後の子孫に永遠の所有地として与える。わたしは彼らの神となる。」"
+      "ja": "わたしは、あなたが現在寄留している地、すなわち<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>の全地を、あなたとあなたの後の子孫に永遠の所有地として与える。わたしは彼らの神となる。」"
     },
     {
       "verse": 9,
       "en": "Then God said to Abraham, “As for you, you must keep the covenantal requirement I am imposing on you and your descendants after you throughout their generations. ",
-      "ja": "神はさらにアブラハムに言われた。「あなたについて言えば、あなたとあなたの後の代々の子孫は、わたしの契約の義務を守らなければならない。"
+      "ja": "神はさらにアブラ<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ハム</span>に言われた。「あなたについて言えば、あなたとあなたの後の代々の子孫は、わたしの契約の義務を守らなければならない。"
     },
     {
       "verse": 10,
@@ -75,7 +75,7 @@
     {
       "verse": 15,
       "en": "Then God said to Abraham, “As for your wife, you must no longer call her Sarai; Sarah will be her name. ",
-      "ja": "神はさらにアブラハムに言われた。「あなたの妻については、その名をサライと呼んではならない。サラが彼女の名となる。"
+      "ja": "神はさらにアブラハムに言われた。「あなたの妻については、その名を<span class=\"entity person\" data-tooltip=\"後のサラ。アブラハムの妻。\">サライ</span>と呼んではならない。<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>が彼女の名となる。"
     },
     {
       "verse": 16,
@@ -90,17 +90,17 @@
     {
       "verse": 18,
       "en": "Abraham said to God, “O that Ishmael might live before you!”",
-      "ja": "アブラハムは神に言った。「どうかイシュマエルがあなたの御前で生き長らえますように。」"
+      "ja": "アブラハムは神に言った。「どうか<span class=\"entity person\" data-tooltip=\"アブラハムとハガルの間に生まれた長男。\">イシュマエル</span>があなたの御前で生き長らえますように。」"
     },
     {
       "verse": 19,
       "en": "God said, “No, Sarah your wife is going to bear you a son, and you will name him Isaac. I will confirm my covenant with him as a perpetual covenant for his descendants after him.",
-      "ja": "神は言われた。「いや、あなたの妻サラがあなたに男の子を産む。あなたはその子をイサクと名付けなさい。わたしは彼とわたしの契約を立て、彼の後の子孫のための永遠の契約とする。"
+      "ja": "神は言われた。「いや、あなたの妻サラがあなたに男の子を産む。あなたはその子を<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">イサク</span>と名付けなさい。わたしは彼とわたしの契約を立て、彼の後の子孫のための永遠の契約とする。"
     },
     {
       "verse": 20,
       "en": "As for Ishmael, I have heard you. I will indeed bless him, make him fruitful, and give him a multitude of descendants. He will become the father of twelve princes; I will make him into a great nation. ",
-      "ja": "イシュマエルについては、わたしはあなたの願いを聞いた。見よ、わたしは彼を祝福し、彼に多くの子を与え、その子孫をおびただしく増やす。彼は12人の君主の父となり、わたしは彼を大いなる国民とする。"
+      "ja": "イシュマ<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">エル</span>については、わたしはあなたの願いを聞いた。見よ、わたしは彼を祝福し、彼に多くの子を与え、その子孫をおびただしく増やす。彼は12人の君主の父となり、わたしは彼を大いなる国民とする。"
     },
     {
       "verse": 21,
@@ -477,5 +477,11 @@
         "ja": "[翻訳注] ヘブライ語では「13歳の息子」。"
       }
     ]
+  },
+  "summary": "【割礼の契約と改名】神は彼らの名を「アブラハム」と「サラ」に改め、契約のしるしとしてすべての男子に割礼を命じます。",
+  "map_context": {
+    "era": "族長時代（アブラハム99歳）",
+    "location": "カナン地方（ヘブロン）",
+    "description": "神の約束の更新と、イスラエル民族を特徴づける割礼の習慣の始まりです。"
   }
 }

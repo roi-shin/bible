@@ -2,41 +2,41 @@
 
 ## 本文
 
-**1** そのころ、シナルの王アムラフェル、エラサルの王アリオク、エラムの王ケドルラオメル、諸国民の王ティダルが、
+**1** そのころ、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シナル</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アムラフェル</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エラサル</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アリオク</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エラム</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ケドルラオメル</span>、諸国民の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ティダル</span>が、
 
-**2** ソドムの王ベラ、ゴモラの王ビルシャ、アドラマの王シナブ、ツェボイムの王シェメエベル、そしてベラ（すなわちツォアル）の王と戦いを交えた。
+**2** <span class="entity location" data-tooltip="死海周辺にあったとされる町。悪徳ゆえに神に滅ぼされる。ロトが住んでいた。">ソドム</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ベラ</span>、<span class="entity location" data-tooltip="死海周辺にあったとされる町。ソドムと共に滅ぼされる。">ゴモラ</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ビルシャ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アドラマ</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シナブ</span>、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ツェボイム</span>の王<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シェメエベル</span>、そしてベラ（すなわち<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ツォアル</span>）の王と戦いを交えた。
 
-**3** これら後者の5人の王はみな、シディムの谷（すなわち塩の海）に集結して合流した。
+**3** これら後者の5人の王はみな、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シディム</span>の谷（すなわち塩の海）に集結して合流した。
 
 **4** 彼らは12年の間ケドルラオメルに仕えていたが、13年目に反逆した。
 
-**5** 14年目に、ケドルラオメルと同盟を結んでいた王たちが進軍し、アシュテロト・カルナイムでレファイム人を、ハムでズジム人を、シャベ・キルヤタイムでエミム人を打ち破り、
+**5** 14年目に、ケドルラオメルと同盟を結んでいた王たちが進軍し、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アシュテロト</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カルナイム</span>で<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">レファイム</span>人を、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハム</span>で<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ズジム</span>人を、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">シャベ</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">キルヤタイム</span>で<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エミム</span>人を打ち破り、
 
-**6** セイルの山地のホリ人を、荒れ野の近くにあるエル・パランに至るまで撃破した。
+**6** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">セイル</span>の山地の<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ホリ</span>人を、荒れ野の近くにある<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エル</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">パラン</span>に至るまで撃破した。
 
-**7** 彼らは引き返してエン・ミシュパト（すなわちカデシュ）を再び攻撃し、アマレク人の全領土と、ハツァツォン・タマルに住んでいたアモリ人を撃ち破った。
+**7** 彼らは引き返して<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エン</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ミシュパト</span>（すなわち<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">カデシュ</span>）を再び攻撃し、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アマレク</span>人の全領土と、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ハツァツォン</span>・<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">タマル</span>に住んでいた<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アモリ</span>人を撃ち破った。
 
 **8** そこでソドムの王、ゴモラの王、アドラマの王、ツェボイムの王、ベラ（すなわちツォアル）の王が出陣し、戦いの陣を敷いた。彼らはシディムの谷で向かい合った。
 
 **9** すなわち、エラムの王ケドルラオメル、諸国民の王ティダル、シナルの王アムラフェル、エラサルの王アリオクである。四人の王が五人の王と戦った。
 
-**10** シディムの谷にはアスファルトの穴が数多くあった。ソドムの王とゴモラの王が逃げるとき、彼らはその中に落ち、残りの者たちは山へ逃れた。
+**10** シディムの谷には<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アスファルト</span>の穴が数多くあった。ソドムの王とゴモラの王が逃げるとき、彼らはその中に落ち、残りの者たちは山へ逃れた。
 
 **11** 勝利した4人の王は、ソドムとゴモラのすべての財産と食糧を奪い去って立ち去った。
 
-**12** 彼らはアブラムの甥ロトとその財産をも奪って立ち去った。ロトがソドムに住んでいたからである。
+**12** 彼らは<span class="entity person" data-tooltip="後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。">アブラム</span>の甥<span class="entity person" data-tooltip="アブラハムの甥。共に旅をしたが、後にソドムに移り住んだ。">ロト</span>とその財産をも奪って立ち去った。ロトがソドムに住んでいたからである。
 
-**13** 逃亡者の一人が来て、ヘブライ人アブラムにこれを知らせた。そのときアブラムは、エシュコルとアネルの兄弟であるアモリ人マムレの樫の木のそばに住んでいた。（これらすべての者はアブラムと同盟条約を結んでいた。）
+**13** 逃亡者の一人が来て、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ヘブライ</span>人アブラムにこれを知らせた。そのときアブラムは、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">エシュコル</span>と<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">アネル</span>の兄弟であるアモリ人<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">マムレ</span>の樫の木のそばに住んでいた。（これらすべての者はアブラムと同盟条約を結んでいた。）
 
-**14** アブラムは甥が捕虜になったと聞くと、自分の家で生まれた訓練された者318人を動員し、ダンまで侵略者たちを追跡した。
+**14** アブラムは甥が捕虜になったと聞くと、自分の家で生まれた訓練された者318人を動員し、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ダン</span>まで侵略者たちを追跡した。
 
-**15** そして夜の間に、アブラムは部隊を敵に対して分散させてこれを撃破し、ダマスコの北にあるホバまで追撃した。
+**15** そして夜の間に、アブラムは部隊を敵に対して分散させてこれを撃破し、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ダマスコ</span>の北にある<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">ホバ</span>まで追撃した。
 
 **16** 彼は奪われたすべての財産を取り戻した。また甥ロトとその財産、さらに女たちや残りの民をも連れ戻した。
 
 **17** アブラムがケドルラオメルと彼に与した王たちを打ち破って帰還したのち、ソドムの王はシャベの谷（王の谷として知られる）でアブラムを迎えるために出て来た。
 
-**18** サレムの王メルキゼデクはパンとぶどう酒を持参した。（彼は「いと高き神」の祭司であった。）
+**18** <span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">サレム</span>の王<span class="entity person" data-tooltip="シャレム（エルサレム）の王であり、いと高き神の祭司。">メルキゼデク</span>は<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">パン</span>とぶどう酒を持参した。（彼は「いと高き<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>」の祭司であった。）
 
 **19** 彼はアブラムを祝福して言った。「天と地の創造主、いと高き神によってアブラムが祝福されますように。
 
@@ -46,7 +46,7 @@
 
 **22** しかしアブラムはソドムの王に答えた。「わたしは天地の創造主、いと高き神、主に手を挙げて誓う。
 
-**23** あなたに属するものは、糸一本も、サンダルの紐一本も受け取らない。そうすれば『わたしがアブラムを富ませた』とあなたが言うことは決してできない。
+**23** あなたに属するものは、糸一本も、<span class="entity person" data-tooltip="創世記に登場する人物、部族、または地名。">サンダル</span>の紐一本も受け取らない。そうすれば『わたしがアブラムを富ませた』とあなたが言うことは決してできない。
 
 **24** 若者たちが食べたものと、わたしと共に行った人々、すなわちアネル、エシュコル、マムレの分け前以外は、わたしは何も受け取らない。彼らには彼らの分け前を取らせてほしい。」
 

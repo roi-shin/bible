@@ -26,7 +26,7 @@
 
 **12** 雨は四十日四十夜、地の上に降り注いだ。
 
-**13** まさにその日、ノアは息子の<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテ、そして妻と三人の息子の妻たちを伴って箱舟に入った。
+**13** まさにその日、ノアは息子の<span class="entity person" data-tooltip="ノアの息子。イスラエルなど中東アジア系民族の祖とされる。">セム</span>、<span class="entity person" data-tooltip="ノアの息子。エジプトやアフリカ・カナン系民族の祖とされる。">ハム</span>、<span class="entity person" data-tooltip="ノアの息子。ヨーロッパや沿岸の民の祖とされる。">ヤペテ</span>、そして妻と三人の息子の妻たちを伴って箱舟に入った。
 
 **14** 彼らは、すべての種類の生き物、すべての種類の家畜、地を這うすべての種類の這うもの、すべての種類の鳥、すなわち翼を持つすべてのものと共に入った。
 

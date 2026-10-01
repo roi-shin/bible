@@ -5,17 +5,17 @@
     {
       "verse": 1,
       "en": "Abraham journeyed from there to the Negev region and settled between Kadesh and Shur. While he lived as a temporary resident in Gerar, ",
-      "ja": "アブラハムはそこからネゲブ地方へと旅立ち、カデシュとシュルの間に住みついた。彼がゲラルに寄留していたとき、"
+      "ja": "<span class=\"entity person\" data-tooltip=\"アブラムの新しい名。「多くの国民の父」の意。\">アブラハム</span>はそこから<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ネゲブ</span>地方へと旅立ち、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">カデシュ</span>と<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">シュル</span>の間に住みついた。彼が<span class=\"entity location\" data-tooltip=\"カナン南西部の町。アビメレクが治めていた。\">ゲラル</span>に寄留していたとき、"
     },
     {
       "verse": 2,
       "en": "Abraham said about his wife Sarah, “She is my sister.” So Abimelech, king of Gerar, sent for Sarah and took her.",
-      "ja": "アブラハムは妻サラについて「彼女はわたしの妹だ」と言った。そこでゲラルの王アビメレクは人を遣わしてサラを召し入れた。"
+      "ja": "アブラ<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ハム</span>は妻<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>について「彼女はわたしの妹だ」と言った。そこでゲラルの王<span class=\"entity person\" data-tooltip=\"ペリシテ人（ゲラル）の王。\">アビメレク</span>は人を遣わしてサラを召し入れた。"
     },
     {
       "verse": 3,
       "en": "But God appeared to Abimelech in a dream at night and said to him, “You are as good as dead because of the woman you have taken, for she is someone else’s wife.” ",
-      "ja": "しかし夜の夢の中で神がアビメレクのところに現れ、言われた。「見よ、お前が連れ去った女のゆえにお前は死ぬ。彼女は夫のある身だからだ。」"
+      "ja": "しかし夜の夢の中で<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>がアビメレクのところに現れ、言われた。「見よ、お前が連れ去った女のゆえにお前は死ぬ。彼女は夫のある身だからだ。」"
     },
     {
       "verse": 4,
@@ -321,5 +321,11 @@
         "ja": "[翻訳注] ヘブル語では「〜のゆえに」。「彼が連れて行った」という言葉は、明確にするため翻訳で補われている。"
       }
     ]
+  },
+  "summary": "【アブラハムとアビメレク】アブラハムはゲラルへ移住しますが、保身からサラを「妹だ」と偽り、ゲラルの王アビメレクを危機に陥れます。",
+  "map_context": {
+    "era": "族長時代",
+    "location": "ゲラル（カナン南西部のペリシテ人の地）",
+    "description": "12章のエジプトでの事件と同様の過ちを、アブラハムが繰り返してしまう場面です。"
   }
 }

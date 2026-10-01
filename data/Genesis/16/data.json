@@ -5,17 +5,17 @@
     {
       "verse": 1,
       "en": "Now Sarai, Abram’s wife, had not given birth to any children, but she had an Egyptian servant named Hagar. ",
-      "ja": "アブラムの妻サライには子どもが生まれていなかったが、彼女にはハガルという名のエジプト人の女奴隷がいた。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"後のアブラハム。神の召しを受けて故郷を離れ、約束の地へ向かう。信仰の父。\">アブラム</span>の妻<span class=\"entity person\" data-tooltip=\"後のサラ。アブラハムの妻。\">サライ</span>には子どもが生まれていなかったが、彼女には<span class=\"entity person\" data-tooltip=\"サラのエジプト人の女奴隷。イシュマエルを産んだ。\">ハガル</span>という名の<span class=\"entity location\" data-tooltip=\"ナイル川流域の大国。アブラハムが飢饉を逃れて滞在した。\">エジプト</span>人の女奴隷がいた。"
     },
     {
       "verse": 2,
       "en": "So Sarai said to Abram, “Since the Lord has prevented me from having children, please sleep with my servant. Perhaps I can have a family by her.” Abram did what Sarai told him.",
-      "ja": "そこでサライはアブラムに言った。「主がわたしに子どもを産ませないようにしておられるのですから、どうか私の女奴隷のところに入ってください。彼女によって私の一家が築かれるかもしれません。」アブラムはサライの言うことに従った。"
+      "ja": "そこで<span class=\"entity person\" data-tooltip=\"サライの新しい名。「王女」の意。イサクの母。\">サラ</span>イはアブラムに言った。「主がわたしに子どもを産ませないようにしておられるのですから、どうか私の女奴隷のところに入ってください。彼女によって私の一家が築かれるかもしれません。」アブラムはサライの言うことに従った。"
     },
     {
       "verse": 3,
       "en": "So after Abram had lived in Canaan for ten years, Sarai, Abram’s wife, gave Hagar, her Egyptian servant, to her husband to be his wife. ",
-      "ja": "こうしてアブラムがカナンの地に10年住んだ後、アブラムの妻サライは、自分のエジプト人の女奴隷ハガルを、夫アブラムに妻として与えた。"
+      "ja": "こうしてアブラムが<span class=\"entity location\" data-tooltip=\"神がアブラハムとその子孫に約束した地。\">カナン</span>の地に10年住んだ後、アブラムの妻サライは、自分のエジプト人の女奴隷ハガルを、夫アブラムに妻として与えた。"
     },
     {
       "verse": 4,
@@ -35,7 +35,7 @@
     {
       "verse": 7,
       "en": "The angel of the Lord found Hagar near a spring of water in the wilderness—the spring that is along the road to Shur. ",
-      "ja": "主の御使いは、荒野の水のある泉のほとり、シュルへの道にある泉のほとりでハガルを見いだした。"
+      "ja": "主の御使いは、荒野の水のある泉のほとり、<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">シュル</span>への道にある泉のほとりでハガルを見いだした。"
     },
     {
       "verse": 8,
@@ -55,7 +55,7 @@
     {
       "verse": 11,
       "en": "Then the angel of the Lord said to her, “You are now pregnant and are about to give birth to a son. You are to name him Ishmael, for the Lord has heard your painful groans. ",
-      "ja": "主の御使いはまた彼女に言った。「見よ、あなたは身ごもっており、男の子を産もうとしている。その名をイシュマエルと名付けなさい。主があなたの苦しみの呻きを聞かれたからである。"
+      "ja": "主の御使いはまた彼女に言った。「見よ、あなたは身ごもっており、男の子を産もうとしている。その名を<span class=\"entity person\" data-tooltip=\"アブラハムとハガルの間に生まれた長男。\">イシュマエル</span>と名付けなさい。主があなたの苦しみの呻きを聞かれたからである。"
     },
     {
       "verse": 12,
@@ -65,17 +65,17 @@
     {
       "verse": 13,
       "en": "So Hagar named the Lord who spoke to her, “You are the God who sees me,” for she said, “Here I have seen one who sees me!”",
-      "ja": "そこでハガルは、自分に語りかけられた主の御名を「あなたはわたしを見ておられる神」と呼んだ。彼女が「この所で、わたしを見ておられる方を見たではないか」と言ったからである。"
+      "ja": "そこでハガルは、自分に語りかけられた主の御名を「あなたはわたしを見ておられる<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>」と呼んだ。彼女が「この所で、わたしを見ておられる方を見たではないか」と言ったからである。"
     },
     {
       "verse": 14,
       "en": "That is why the well was called Beer Lahai Roi. (It is located between Kadesh and Bered.) ",
-      "ja": "それゆえ、その井戸はベエル・ラハイ・ロイと呼ばれた。（それはカデシュとベレドの間にある。）"
+      "ja": "それゆえ、その井戸は<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ベエル</span>・<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ラハイ</span>・<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ロイ</span>と呼ばれた。（それは<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">カデシュ</span>と<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">ベレド</span>の間にある。）"
     },
     {
       "verse": 15,
       "en": "So Hagar gave birth to Abram’s son, whom Abram named Ishmael. ",
-      "ja": "ハガルはアブラムに男の子を産み、アブラムはその子をイシュマエルと名付けた。"
+      "ja": "ハガルはアブラムに男の子を産み、アブラムはその子をイシュマ<span class=\"entity person\" data-tooltip=\"創世記に登場する人物、部族、または地名。\">エル</span>と名付けた。"
     },
     {
       "verse": 16,
@@ -356,5 +356,11 @@
         "ja": "[翻訳注] ヘブライ語テキストには「アブラムに（アブラムのために）」が付加されている。この節および前節でアブラムの名が3回現れていることからやや冗長であるため、文体上の理由により翻訳には含められていない。"
       }
     ]
+  },
+  "summary": "【ハガルとイシュマエル】子どもができないサライは、女奴隷ハガルをアブラムに与えます。ハガルは身ごもって傲慢になり、荒野へ逃げますが神に慰められます。",
+  "map_context": {
+    "era": "族長時代",
+    "location": "カナン地方からシュルへの荒野の道",
+    "description": "人間の知恵による解決策が家庭内の不和を生み出し、アラブ民族の祖イシュマエルが誕生します。"
   }
 }
