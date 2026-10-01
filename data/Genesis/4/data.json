@@ -5,12 +5,12 @@
     {
       "verse": 1,
       "en": "Now the man was intimate with his wife Eve, and she became pregnant and gave birth to Cain. Then she said, “I have created a man just as the Lord did!”",
-      "ja": "人はその妻エバと結ばれた。彼女は身ごもってカインを産み、「私は主と同じように、ひとりの男子を造り出した」と言った。"
+      "ja": "人はその妻<span class=\"entity person\" data-tooltip=\"すべての生ける者の母。アダムの妻。\">エバ</span>と結ばれた。彼女は身ごもって<span class=\"entity person\" data-tooltip=\"アダムとエバの長男。弟アベルを殺害した。\">カイン</span>を産み、「私は主と同じように、ひとりの男子を造り出した」と言った。"
     },
     {
       "verse": 2,
       "en": "Then she gave birth to his brother Abel. Abel took care of the flocks, while Cain cultivated the ground. ",
-      "ja": "続いて彼女はカインの弟アベルを産んだ。アベルは羊の群れを飼う者となり、カインは土を耕す者となった。"
+      "ja": "続いて彼女はカインの弟<span class=\"entity person\" data-tooltip=\"アダムとエバの次男。羊飼い。兄カインに殺害された。\">アベル</span>を産んだ。アベルは羊の群れを飼う者となり、カインは土を耕す者となった。"
     },
     {
       "verse": 3,
@@ -80,12 +80,12 @@
     {
       "verse": 16,
       "en": "So Cain went out from the presence of the Lord and lived in the land of Nod, east of Eden. ",
-      "ja": "カインは主の前から去り、エデンの東、ノドの地に住んだ。"
+      "ja": "カインは主の前から去り、<span class=\"entity location\" data-tooltip=\"神が最初の人を置いた理想の園。\">エデン</span>の東、ノドの地に住んだ。"
     },
     {
       "verse": 17,
       "en": "Cain was intimate with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch. ",
-      "ja": "カインはその妻と結ばれた。彼女は身ごもってエノクを産んだ。カインは町を建てており、その町に息子エノクの名を付けた。"
+      "ja": "カインはその妻と結ばれた。彼女は身ごもって<span class=\"entity person\" data-tooltip=\"神と共に歩み、死を経験せずに天に移された人物。\">エノク</span>を産んだ。カインは町を建てており、その町に息子エノクの名を付けた。"
     },
     {
       "verse": 18,
@@ -125,7 +125,7 @@
     {
       "verse": 25,
       "en": "And Adam was intimate with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel because Cain killed him.”",
-      "ja": "アダムは再びその妻と結ばれ、彼女は男の子を産んだ。彼女は「カインがアベルを殺したので、神がアベルの代わりに別の子を私に授けてくださった」と言って、その名をセツと名付けた。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"神が最初に創造した男。\">アダム</span>は再びその妻と結ばれ、彼女は男の子を産んだ。彼女は「カインがアベルを殺したので、<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>がアベルの代わりに別の子を私に授けてくださった」と言って、その名を<span class=\"entity person\" data-tooltip=\"アベルの死後、アダムとエバの間に生まれた子。\">セツ</span>と名付けた。"
     },
     {
       "verse": 26,
@@ -455,5 +455,11 @@
         "ja": "[翻訳注] ヘブライ語では「御名によって呼ぶ」。この表現は、祈りと生贄を通じて主を礼拝することを指す（創世記12:8、13:4、21:33、26:25参照）。G. J. Wenham, Genesis (WBC), 1:116 を参照。"
       }
     ]
+  },
+  "summary": "【カインとアベル】アダムの息子カインは嫉妬から弟アベルを殺害し、人類初の殺人事件が起こります。",
+  "map_context": {
+    "era": "天地創造後（年代特定不能）",
+    "location": "エデンの東（ノドの地）",
+    "description": "エデンの園を追放された人類が、文明を築きながらも罪を増幅させていく時代です。"
   }
 }

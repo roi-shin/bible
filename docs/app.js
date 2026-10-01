@@ -88,3 +88,31 @@ document.querySelectorAll('.book-title').forEach(title => {
     }
   });
 });
+// 学習モード切替
+const toggleLearningModeBtn = document.getElementById('toggleLearningMode');
+if (toggleLearningModeBtn) {
+  // 初期状態として body に learning-mode を付与
+  document.body.classList.add('learning-mode');
+  toggleLearningModeBtn.addEventListener('click', () => {
+    document.body.classList.toggle('learning-mode');
+    toggleLearningModeBtn.classList.toggle('active');
+  });
+}
+
+// マップモーダルの開閉
+const openMapBtn = document.getElementById('openMapBtn');
+const closeMapBtn = document.getElementById('closeMapBtn');
+const mapModal = document.getElementById('mapModal');
+if (openMapBtn && closeMapBtn && mapModal) {
+  openMapBtn.addEventListener('click', () => {
+    mapModal.classList.remove('hidden');
+  });
+  closeMapBtn.addEventListener('click', () => {
+    mapModal.classList.add('hidden');
+  });
+  mapModal.addEventListener('click', (e) => {
+    if (e.target === mapModal) {
+      mapModal.classList.add('hidden');
+    }
+  });
+}

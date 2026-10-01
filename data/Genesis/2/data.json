@@ -10,7 +10,7 @@
     {
       "verse": 2,
       "en": "By the seventh day God finished the work that he had been doing, and he ceased on the seventh day all the work that he had been doing. ",
-      "ja": "第七の日までに、神は行っていた作業を終えられた。そして行っていたすべての作業から離れ、第七の日に休止された。"
+      "ja": "第七の日までに、<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>は行っていた作業を終えられた。そして行っていたすべての作業から離れ、第七の日に休止された。"
     },
     {
       "verse": 3,
@@ -40,7 +40,7 @@
     {
       "verse": 8,
       "en": "The Lord God planted an orchard in the east, in Eden; and there he placed the man he had formed. ",
-      "ja": "主なる神は東の方のエデンに果樹園を設け、そこに形づくった人を置かれた。"
+      "ja": "主なる神は東の方の<span class=\"entity location\" data-tooltip=\"神が最初の人を置いた理想の園。\">エデン</span>に果樹園を設け、そこに形づくった人を置かれた。"
     },
     {
       "verse": 9,
@@ -70,7 +70,7 @@
     {
       "verse": 14,
       "en": "The name of the third river is Tigris; it runs along the east side of Assyria. The fourth river is the Euphrates. ",
-      "ja": "第三の川の名はチグリスであり、アッシリアの東側を流れている。第四の川はユーフラテスである。"
+      "ja": "第三の川の名はチグリスであり、アッシリアの東側を流れている。第四の川は<span class=\"entity location\" data-tooltip=\"エデンから流れ出る川の一つ。\">ユーフラテス</span>である。"
     },
     {
       "verse": 15,
@@ -100,7 +100,7 @@
     {
       "verse": 20,
       "en": "So the man named all the animals, the birds of the air, and the living creatures of the field, but for Adam no companion who corresponded to him was found. ",
-      "ja": "こうして人はすべての家畜、空の鳥、野の生き物に名を付けた。しかしアダムには、自分に相応する伴侶が見つからなかった。"
+      "ja": "こうして人はすべての家畜、空の鳥、野の生き物に名を付けた。しかし<span class=\"entity person\" data-tooltip=\"神が最初に創造した男。\">アダム</span>には、自分に相応する伴侶が見つからなかった。"
     },
     {
       "verse": 21,
@@ -559,5 +559,11 @@
         "ja": "[翻訳注] ここでの未完了動詞形は習慣的なニュアンスを持ち、過去における継続的な状態を示す。ヘブル語בּוֹשׁ（ボーシュ）の意味は「恥じる、恥をかかせる」であるが、その意味は「気恥ずかしい」よりも強い。この語は搾取や悪への恐れを伝えている（軍事的勝利によって敵が恥をかかされるように）。悪への恐れに近い恥の感情を示している。"
       }
     ]
+  },
+  "summary": "【エデンの園】神は最初の人アダムを造り、エデンの園に置かれます。そして彼を助ける者として女（エバ）を創造しました。",
+  "map_context": {
+    "era": "天地創造直後",
+    "location": "エデンの園（メソポタミア地方と推測される）",
+    "description": "理想的な環境として神が用意した園。4つの川が流れています。"
   }
 }

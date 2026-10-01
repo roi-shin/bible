@@ -17,6 +17,7 @@
         <a href="Genesis_5.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 4</span><span class="title-en">Genesis 4</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【カインとアベル】アダムの息子カインは嫉妬から弟アベルを殺害し、人類初の殺人事件が起こります。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">人はその妻エバと結ばれた。彼女は身ごもってカインを産み、「私は主と同じように、ひとりの男子を造り出した」と言った。</div>
+            <div class="verse-ja">人はその妻<span class="entity person" data-tooltip="すべての生ける者の母。アダムの妻。">エバ</span>と結ばれた。彼女は身ごもって<span class="entity person" data-tooltip="アダムとエバの長男。弟アベルを殺害した。">カイン</span>を産み、「私は主と同じように、ひとりの男子を造り出した」と言った。</div>
             <div class="verse-en">Now the man was intimate with his wife Eve, and she became pregnant and gave birth to Cain. Then she said, “I have created a man just as the Lord did!”</div>
             <div class="verse-markers">
                 
@@ -53,7 +55,7 @@
         <div class="verse" id="v2">
           <div class="verse-num">2</div>
           <div class="verse-content">
-            <div class="verse-ja">続いて彼女はカインの弟アベルを産んだ。アベルは羊の群れを飼う者となり、カインは土を耕す者となった。</div>
+            <div class="verse-ja">続いて彼女はカインの弟<span class="entity person" data-tooltip="アダムとエバの次男。羊飼い。兄カインに殺害された。">アベル</span>を産んだ。アベルは羊の群れを飼う者となり、カインは土を耕す者となった。</div>
             <div class="verse-en">Then she gave birth to his brother Abel. Abel took care of the flocks, while Cain cultivated the ground. </div>
             <div class="verse-markers">
                 
@@ -277,7 +279,7 @@
         <div class="verse" id="v16">
           <div class="verse-num">16</div>
           <div class="verse-content">
-            <div class="verse-ja">カインは主の前から去り、エデンの東、ノドの地に住んだ。</div>
+            <div class="verse-ja">カインは主の前から去り、<span class="entity location" data-tooltip="神が最初の人を置いた理想の園。">エデン</span>の東、ノドの地に住んだ。</div>
             <div class="verse-en">So Cain went out from the presence of the Lord and lived in the land of Nod, east of Eden. </div>
             <div class="verse-markers">
                 
@@ -290,7 +292,7 @@
         <div class="verse" id="v17">
           <div class="verse-num">17</div>
           <div class="verse-content">
-            <div class="verse-ja">カインはその妻と結ばれた。彼女は身ごもってエノクを産んだ。カインは町を建てており、その町に息子エノクの名を付けた。</div>
+            <div class="verse-ja">カインはその妻と結ばれた。彼女は身ごもって<span class="entity person" data-tooltip="神と共に歩み、死を経験せずに天に移された人物。">エノク</span>を産んだ。カインは町を建てており、その町に息子エノクの名を付けた。</div>
             <div class="verse-en">Cain was intimate with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch. </div>
             <div class="verse-markers">
                 
@@ -396,7 +398,7 @@
         <div class="verse" id="v25">
           <div class="verse-num">25</div>
           <div class="verse-content">
-            <div class="verse-ja">アダムは再びその妻と結ばれ、彼女は男の子を産んだ。彼女は「カインがアベルを殺したので、神がアベルの代わりに別の子を私に授けてくださった」と言って、その名をセツと名付けた。</div>
+            <div class="verse-ja"><span class="entity person" data-tooltip="神が最初に創造した男。">アダム</span>は再びその妻と結ばれ、彼女は男の子を産んだ。彼女は「カインがアベルを殺したので、<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>がアベルの代わりに別の子を私に授けてくださった」と言って、その名を<span class="entity person" data-tooltip="アベルの死後、アダムとエバの間に生まれた子。">セツ</span>と名付けた。</div>
             <div class="verse-en">And Adam was intimate with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel because Cain killed him.”</div>
             <div class="verse-markers">
                 
@@ -812,6 +814,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 天地創造後（年代特定不能）</p>
+        <p><strong>場所:</strong> エデンの東（ノドの地）</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">エデンの園を追放された人類が、文明を築きながらも罪を増幅させていく時代です。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

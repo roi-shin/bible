@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "Now the serpent was shrewder than any of the wild animals that the Lord God had made. He said to the woman, “Is it really true that God said, ‘You must not eat from any tree of the orchard’?” ",
-      "ja": "さて、蛇は主なる神が造られた野のすべての生き物のうちで最も賢かった。蛇は女に言った。「神が『園のどの木からも食べてはならない』と言われたというのは、本当なのか。」"
+      "ja": "さて、蛇は主なる<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>が造られた野のすべての生き物のうちで最も賢かった。蛇は女に言った。「神が『園のどの木からも食べてはならない』と言われたというのは、本当なのか。」"
     },
     {
       "verse": 2,
@@ -85,7 +85,7 @@
     {
       "verse": 17,
       "en": "But to Adam he said, “Because you obeyed your wife and ate from the tree about which I commanded you, ‘You must not eat from it,’ the ground is cursed because of you; in painful toil you will eat of it all the days of your life. ",
-      "ja": "アダムにはこう言われた。「あなたが妻の声に従い、『食べてはならない』と命じておいた木から食べたので、地はあなたのゆえに呪われる。あなたは生涯すべての日、苦痛の労苦のうちに地からのものを食べることになる。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"神が最初に創造した男。\">アダム</span>にはこう言われた。「あなたが妻の声に従い、『食べてはならない』と命じておいた木から食べたので、地はあなたのゆえに呪われる。あなたは生涯すべての日、苦痛の労苦のうちに地からのものを食べることになる。"
     },
     {
       "verse": 18,
@@ -100,7 +100,7 @@
     {
       "verse": 20,
       "en": "The man named his wife Eve, because she was the mother of all the living. ",
-      "ja": "人はその妻の名をエバと呼んだ。彼女がすべて生きている者の母となったからである。"
+      "ja": "人はその妻の名を<span class=\"entity person\" data-tooltip=\"すべての生ける者の母。アダムの妻。\">エバ</span>と呼んだ。彼女がすべて生きている者の母となったからである。"
     },
     {
       "verse": 21,
@@ -115,7 +115,7 @@
     {
       "verse": 23,
       "en": "So the Lord God expelled him from the orchard in Eden to cultivate the ground from which he had been taken. ",
-      "ja": "そこで主なる神は、人が取られたその土を耕させるため、彼をエデンの園から追放された。"
+      "ja": "そこで主なる神は、人が取られたその土を耕させるため、彼を<span class=\"entity location\" data-tooltip=\"神が最初の人を置いた理想の園。\">エデン</span>の園から追放された。"
     },
     {
       "verse": 24,
@@ -530,5 +530,11 @@
         "ja": "[翻訳注] ヘブライ語では「回り巡る剣の炎」。「炎」という名詞が特定を表す属格「剣」によって規定され、それがさらに限定分詞「回り巡る」によって修飾されている。「回る」という動詞のヒットパエル態は反復の機能を持ち、繰り返される動作を示す（ヨブ記37:12、士師記7:13参照）。24節は、通過しようとする者を防ぐために左右に動く、あるいは通過を試みる者を切り刻むように旋回する剣を描写している。"
       }
     ]
+  },
+  "summary": "【失楽園】蛇にそそのかされた二人は神の禁じた実を食べてしまい、罪が世界に入り込みます。彼らはエデンの園を追放されます。",
+  "map_context": {
+    "era": "天地創造後（年代特定不能）",
+    "location": "エデンの園",
+    "description": "神との関係が壊れ、人類がエデンの園から追放される人類史の転換点です。"
   }
 }

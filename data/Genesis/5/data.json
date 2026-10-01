@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "This is the record of the family line of Adam.When God created humankind, he made them in the likeness of God. ",
-      "ja": "これはアダムの系図の記録である。神が人類を創造されたとき、神の似姿に人を造られた。"
+      "ja": "これは<span class=\"entity person\" data-tooltip=\"神が最初に創造した男。\">アダム</span>の系図の記録である。<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>が人類を創造されたとき、神の似姿に人を造られた。"
     },
     {
       "verse": 2,
@@ -15,7 +15,7 @@
     {
       "verse": 3,
       "en": "When Adam had lived 130 years he fathered a son in his own likeness, according to his image, and he named him Seth. ",
-      "ja": "アダムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名をセツと名づけた。"
+      "ja": "アダムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名を<span class=\"entity person\" data-tooltip=\"アベルの死後、アダムとエバの間に生まれた子。\">セツ</span>と名づけた。"
     },
     {
       "verse": 4,
@@ -90,7 +90,7 @@
     {
       "verse": 18,
       "en": "When Jared had lived 162 years, he became the father of Enoch. ",
-      "ja": "ヤレデは162歳になったとき、エノクをもうけた。"
+      "ja": "ヤレデは162歳になったとき、<span class=\"entity person\" data-tooltip=\"神と共に歩み、死を経験せずに天に移された人物。\">エノク</span>をもうけた。"
     },
     {
       "verse": 19,
@@ -145,7 +145,7 @@
     {
       "verse": 29,
       "en": "He named him Noah, saying, “This one will bring us comfort from our labor and from the painful toil of our hands because of the ground that the Lord has cursed.” ",
-      "ja": "彼は「主が呪われた地での私たちの労働と手の骨折りから、この子こそが私たちに慰めをもたらしてくれる」と言って、その名をノアと名づけた。"
+      "ja": "彼は「主が呪われた地での私たちの労働と手の骨折りから、この子こそが私たちに慰めをもたらしてくれる」と言って、その名を<span class=\"entity person\" data-tooltip=\"神の恵みを受け、大洪水から箱舟で救われた正しい人。\">ノア</span>と名づけた。"
     },
     {
       "verse": 30,
@@ -160,7 +160,7 @@
     {
       "verse": 32,
       "en": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth. ",
-      "ja": "ノアは500歳になった後、セム、ハム、ヤペテをもうけた。"
+      "ja": "ノアは500歳になった後、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテをもうけた。"
     }
   ],
   "notes": {
@@ -310,5 +310,11 @@
         "ja": "[翻訳注] ヘブライ語では「ノア」。文体上の理由から、翻訳では代名詞（「彼」）が用いられている。"
       }
     ]
+  },
+  "summary": "【アダムの系図】アダムからノアに至るまでの系図。人々が非常に長寿であった時代です。",
+  "map_context": {
+    "era": "大洪水前",
+    "location": "メソポタミア全域",
+    "description": "ノアの時代に至るまでの数世代にわたる系図です。"
   }
 }

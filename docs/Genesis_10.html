@@ -17,6 +17,7 @@
         <a href="Genesis_11.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 10</span><span class="title-en">Genesis 10</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【諸国民の系図】ノアの3人の息子たちから、様々な民族や国が世界中に広がっていく系図が記録されています。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">これはノアの息子たち、セム、ハム、ヤペテの系図である。洪水の後に彼らに息子たちが生まれた。</div>
+            <div class="verse-ja">これは<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>の息子たち、<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテの系図である。洪水の後に彼らに息子たちが生まれた。</div>
             <div class="verse-en">This is the account of Noah’s sons: Shem, Ham, and Japheth. Sons were born to them after the flood. </div>
             <div class="verse-markers">
                 
@@ -197,7 +199,7 @@
         <div class="verse" id="v10">
           <div class="verse-num">10</div>
           <div class="verse-content">
-            <div class="verse-ja">彼の王国の主要な地域は、シナルの地にあるバベル、エレク、アッカド、カルネであった。</div>
+            <div class="verse-ja">彼の王国の主要な地域は、シナルの地にある<span class="entity location" data-tooltip="シンアルの地にある町。のちにバベルの塔が建てられる。">バベル</span>、エレク、アッカド、カルネであった。</div>
             <div class="verse-en">The primary regions of his kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar. </div>
             <div class="verse-markers">
                 
@@ -1226,6 +1228,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 大洪水後〜バベルの塔前</p>
+        <p><strong>場所:</strong> 中東全域</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">人類が各地に拡散し、様々な国家や言語が形成されていく過程を示しています。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

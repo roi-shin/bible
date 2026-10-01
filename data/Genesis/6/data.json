@@ -10,7 +10,7 @@
     {
       "verse": 2,
       "en": "the sons of God saw that the daughters of humankind were beautiful. Thus they took wives for themselves from any they chose. ",
-      "ja": "神の子らは人の娘たちが美しいのを見て、選んだ者を皆、自分たちの妻とした。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>の子らは人の娘たちが美しいのを見て、選んだ者を皆、自分たちの妻とした。"
     },
     {
       "verse": 3,
@@ -40,7 +40,7 @@
     {
       "verse": 8,
       "en": "But Noah found favor in the sight of the Lord.",
-      "ja": "しかし、ノアは主の前に恵みを得た。"
+      "ja": "しかし、<span class=\"entity person\" data-tooltip=\"神の恵みを受け、大洪水から箱舟で救われた正しい人。\">ノア</span>は主の前に恵みを得た。"
     },
     {
       "verse": 9,
@@ -50,7 +50,7 @@
     {
       "verse": 10,
       "en": "Noah had three sons: Shem, Ham, and Japheth. ",
-      "ja": "ノアはセム、ハム、ヤペテという三人の息子を生んだ。"
+      "ja": "ノアは<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテという三人の息子を生んだ。"
     },
     {
       "verse": 11,
@@ -488,5 +488,11 @@
         "ja": "[翻訳注] 最後の節「そしてそのように（כֵּן, ken）彼は行った」は重複して見えるが、神が仰せられたすべてのことに対するノアの従順を強調している。"
       }
     ]
+  },
+  "summary": "【大洪水の予告】地上に悪が増大したため、神は洪水を起こすことを決意します。正しい人ノアに巨大な箱舟を造るよう命じました。",
+  "map_context": {
+    "era": "大洪水前 (紀元前2300年頃など諸説あり)",
+    "location": "メソポタミア地方",
+    "description": "ノアが巨大な箱舟の建造を開始した時代です。"
   }
 }

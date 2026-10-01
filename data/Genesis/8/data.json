@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "But God remembered Noah and all the wild animals and domestic animals that were with him in the ark. God caused a wind to blow over the earth and the waters receded. ",
-      "ja": "神はノアと、箱舟の中に彼とともにいたすべての野の獣や家畜を心に留められた。神が地の上に風を吹かせると、水は引いていった。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>は<span class=\"entity person\" data-tooltip=\"神の恵みを受け、大洪水から箱舟で救われた正しい人。\">ノア</span>と、箱舟の中に彼とともにいたすべての野の獣や家畜を心に留められた。神が地の上に風を吹かせると、水は引いていった。"
     },
     {
       "verse": 2,
@@ -343,5 +343,11 @@
         "ja": "[翻訳注] ヘブル語では「種」。ここでは換喩によって種を蒔く時を指している。"
       }
     ]
+  },
+  "summary": "【水が引く】水が引き、箱舟はアララト山に留まります。ノアたちは地上に出て、神に祭壇を築きました。",
+  "map_context": {
+    "era": "大洪水後",
+    "location": "アララト山（現在のトルコ東部）",
+    "description": "水が引き、箱舟が漂着した場所です。ここから人類の新たな歴史が始まります。"
   }
 }

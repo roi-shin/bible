@@ -17,6 +17,7 @@
         <a href="Genesis_3.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,6 +28,7 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 2</span><span class="title-en">Genesis 2</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【エデンの園】神は最初の人アダムを造り、エデンの園に置かれます。そして彼を助ける者として女（エバ）を創造しました。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
@@ -47,7 +49,7 @@
         <div class="verse" id="v2">
           <div class="verse-num">2</div>
           <div class="verse-content">
-            <div class="verse-ja">第七の日までに、神は行っていた作業を終えられた。そして行っていたすべての作業から離れ、第七の日に休止された。</div>
+            <div class="verse-ja">第七の日までに、<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>は行っていた作業を終えられた。そして行っていたすべての作業から離れ、第七の日に休止された。</div>
             <div class="verse-en">By the seventh day God finished the work that he had been doing, and he ceased on the seventh day all the work that he had been doing. </div>
             <div class="verse-markers">
                 
@@ -155,7 +157,7 @@
         <div class="verse" id="v8">
           <div class="verse-num">8</div>
           <div class="verse-content">
-            <div class="verse-ja">主なる神は東の方のエデンに果樹園を設け、そこに形づくった人を置かれた。</div>
+            <div class="verse-ja">主なる神は東の方の<span class="entity location" data-tooltip="神が最初の人を置いた理想の園。">エデン</span>に果樹園を設け、そこに形づくった人を置かれた。</div>
             <div class="verse-en">The Lord God planted an orchard in the east, in Eden; and there he placed the man he had formed. </div>
             <div class="verse-markers">
                 
@@ -261,7 +263,7 @@
         <div class="verse" id="v14">
           <div class="verse-num">14</div>
           <div class="verse-content">
-            <div class="verse-ja">第三の川の名はチグリスであり、アッシリアの東側を流れている。第四の川はユーフラテスである。</div>
+            <div class="verse-ja">第三の川の名はチグリスであり、アッシリアの東側を流れている。第四の川は<span class="entity location" data-tooltip="エデンから流れ出る川の一つ。">ユーフラテス</span>である。</div>
             <div class="verse-en">The name of the third river is Tigris; it runs along the east side of Assyria. The fourth river is the Euphrates. </div>
             <div class="verse-markers">
                 
@@ -359,7 +361,7 @@
         <div class="verse" id="v20">
           <div class="verse-num">20</div>
           <div class="verse-content">
-            <div class="verse-ja">こうして人はすべての家畜、空の鳥、野の生き物に名を付けた。しかしアダムには、自分に相応する伴侶が見つからなかった。</div>
+            <div class="verse-ja">こうして人はすべての家畜、空の鳥、野の生き物に名を付けた。しかし<span class="entity person" data-tooltip="神が最初に創造した男。">アダム</span>には、自分に相応する伴侶が見つからなかった。</div>
             <div class="verse-en">So the man named all the animals, the birds of the air, and the living creatures of the field, but for Adam no companion who corresponded to him was found. </div>
             <div class="verse-markers">
                 
@@ -973,6 +975,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 天地創造直後</p>
+        <p><strong>場所:</strong> エデンの園（メソポタミア地方と推測される）</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">理想的な環境として神が用意した園。4つの川が流れています。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

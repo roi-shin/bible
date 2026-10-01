@@ -17,6 +17,7 @@
         <a href="Genesis_10.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 9</span><span class="title-en">Genesis 9</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【虹の契約】神はノアと契約を結び、二度と水で地を滅ぼさないしるしとして虹を置きました。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">神はノアと息子たちを祝福して言われた。「産めよ、増えよ、地に満ちよ。</div>
+            <div class="verse-ja"><span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>は<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>と息子たちを祝福して言われた。「産めよ、増えよ、地に満ちよ。</div>
             <div class="verse-en">Then God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth. </div>
             <div class="verse-markers">
                 
@@ -305,7 +307,7 @@
         <div class="verse" id="v18">
           <div class="verse-num">18</div>
           <div class="verse-content">
-            <div class="verse-ja">箱舟から出たノアの息子たちは、セム、ハム、ヤペテであった。ハムはカナンの父である。</div>
+            <div class="verse-ja">箱舟から出たノアの息子たちは、<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテであった。ハムはカナンの父である。</div>
             <div class="verse-en">The sons of Noah who came out of the ark were Shem, Ham, and Japheth. (Now Ham was the father of Canaan.) </div>
             <div class="verse-markers">
                 
@@ -907,6 +909,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 大洪水後</p>
+        <p><strong>場所:</strong> アララト山周辺</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">洪水後の新しい世界での神と人類の契約の場面です。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

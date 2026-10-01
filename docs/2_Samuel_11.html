@@ -17,6 +17,7 @@
         <a href="2_Samuel_12.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,6 +28,7 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">サムエル記下 11</span><span class="title-en">2 Samuel 11</span></h1>
+      <div class="chapter-summary" id="chapterSummary"></div>
       <div class="verses">
         
         <div class="verse" id="v1">
@@ -629,6 +631,20 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p>※現在、この章の時代・場所に関する詳細データはありません。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

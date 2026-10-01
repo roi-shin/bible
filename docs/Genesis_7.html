@@ -17,6 +17,7 @@
         <a href="Genesis_8.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 7</span><span class="title-en">Genesis 7</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【大洪水】ノアの家族と動物たちが箱舟に入ると、40日40夜にわたって大雨が降り、地球上のすべての命が滅びました。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">主はノアに言われた。「あなたとあなたの全家族は箱舟に入りなさい。この世代にあって、あなたが私の前に正しい者であると認めたからだ。</div>
+            <div class="verse-ja">主は<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>に言われた。「あなたとあなたの全家族は箱舟に入りなさい。この世代にあって、あなたが私の前に正しい者であると認めたからだ。</div>
             <div class="verse-en">The Lord said to Noah, “Come into the ark, you and all your household, for I consider you godly among this generation. </div>
             <div class="verse-markers">
                 
@@ -148,7 +150,7 @@
         <div class="verse" id="v9">
           <div class="verse-num">9</div>
           <div class="verse-content">
-            <div class="verse-ja">神がノアに命じられたとおり、雄と雌とがノアのもとに来て箱舟に入った。</div>
+            <div class="verse-ja"><span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>がノアに命じられたとおり、雄と雌とがノアのもとに来て箱舟に入った。</div>
             <div class="verse-en">male and female, came into the ark to Noah, just as God had commanded him. </div>
             <div class="verse-markers">
                 
@@ -204,7 +206,7 @@
         <div class="verse" id="v13">
           <div class="verse-num">13</div>
           <div class="verse-content">
-            <div class="verse-ja">まさにその日、ノアは息子のセム、ハム、ヤペテ、そして妻と三人の息子の妻たちを伴って箱舟に入った。</div>
+            <div class="verse-ja">まさにその日、ノアは息子の<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテ、そして妻と三人の息子の妻たちを伴って箱舟に入った。</div>
             <div class="verse-en">On that very day Noah entered the ark, accompanied by his sons Shem, Ham, and Japheth, along with his wife and his sons’ three wives. </div>
             <div class="verse-markers">
                 
@@ -662,6 +664,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 大洪水の年</p>
+        <p><strong>場所:</strong> 地球全体</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">全地が水に覆われた大洪水の期間です。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

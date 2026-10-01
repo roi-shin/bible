@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "Then God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth. ",
-      "ja": "神はノアと息子たちを祝福して言われた。「産めよ、増えよ、地に満ちよ。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>は<span class=\"entity person\" data-tooltip=\"神の恵みを受け、大洪水から箱舟で救われた正しい人。\">ノア</span>と息子たちを祝福して言われた。「産めよ、増えよ、地に満ちよ。"
     },
     {
       "verse": 2,
@@ -90,7 +90,7 @@
     {
       "verse": 18,
       "en": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth. (Now Ham was the father of Canaan.) ",
-      "ja": "箱舟から出たノアの息子たちは、セム、ハム、ヤペテであった。ハムはカナンの父である。"
+      "ja": "箱舟から出たノアの息子たちは、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテであった。ハムはカナンの父である。"
     },
     {
       "verse": 19,
@@ -511,5 +511,11 @@
         "ja": "[翻訳注] この文脈において、接頭辞付き動詞形は要求形（接続法）である（26節および27節の前後にある明確な要求形に注意）。"
       }
     ]
+  },
+  "summary": "【虹の契約】神はノアと契約を結び、二度と水で地を滅ぼさないしるしとして虹を置きました。",
+  "map_context": {
+    "era": "大洪水後",
+    "location": "アララト山周辺",
+    "description": "洪水後の新しい世界での神と人類の契約の場面です。"
   }
 }

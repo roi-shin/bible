@@ -697,7 +697,9 @@ def main():
                         next_link=next_link,
                         verses=data.get("verses", []),
                         notes=data.get("notes", {}),
-                        sorted_notes=sorted_notes
+                        sorted_notes=sorted_notes,
+                        summary=data.get("summary"),
+                        map_context=data.get("map_context")
                     )
                     
                     fname = f"{book.replace(' ', '_')}_{ch}.html"

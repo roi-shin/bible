@@ -17,6 +17,7 @@
         <a href="{% if next_link %}{{ next_link }}{% else %}#{% endif %}" class="nav-arrow{% if not next_link %} disabled{% endif %}">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,13 +28,14 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">{{ title_ja }}</span><span class="title-en">{{ title_en }}</span></h1>
+      <div class="chapter-summary" id="chapterSummary">{% if summary %}{{ summary }}{% endif %}</div>
       <div class="verses">
         {% for v in verses %}
         <div class="verse" id="v{{ v.verse }}">
           <div class="verse-num">{{ v.verse }}</div>
           <div class="verse-content">
-            <div class="verse-ja">{{ v.ja }}</div>
-            <div class="verse-en">{{ v.en }}</div>
+            <div class="verse-ja">{{ v.ja | safe }}</div>
+            <div class="verse-en">{{ v.en | safe }}</div>
             <div class="verse-markers">
                 {% for n in notes.get(v.verse | string, []) %}
                 <sup class="note-ref" data-verse="{{ v.verse }}" data-pos="{{ n.pos }}">{{ n.pos }}</sup>
@@ -53,14 +55,32 @@
             {% for n in verse_notes %}
             <div class="note" id="note-{{ verse_num_str }}-{{ n.pos }}">
               <div class="note-header">{{ verse_num_str }}:{{ n.pos }}</div>
-              <div class="note-ja">{{ n.ja }}</div>
-              <div class="note-en">{{ n.en }}</div>
+              <div class="note-ja">{{ n.ja | safe }}</div>
+              <div class="note-en">{{ n.en | safe }}</div>
             </div>
             {% endfor %}
         {% endfor %}
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        {% if map_context %}
+        <p><strong>時代:</strong> {{ map_context.era }}</p>
+        <p><strong>場所:</strong> {{ map_context.location }}</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">{{ map_context.description }}</p>
+        {% else %}
+        <p>※現在、この章の時代・場所に関する詳細データはありません。</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

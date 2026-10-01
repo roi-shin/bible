@@ -5,7 +5,7 @@
     {
       "verse": 1,
       "en": "The Lord said to Noah, “Come into the ark, you and all your household, for I consider you godly among this generation. ",
-      "ja": "主はノアに言われた。「あなたとあなたの全家族は箱舟に入りなさい。この世代にあって、あなたが私の前に正しい者であると認めたからだ。"
+      "ja": "主は<span class=\"entity person\" data-tooltip=\"神の恵みを受け、大洪水から箱舟で救われた正しい人。\">ノア</span>に言われた。「あなたとあなたの全家族は箱舟に入りなさい。この世代にあって、あなたが私の前に正しい者であると認めたからだ。"
     },
     {
       "verse": 2,
@@ -45,7 +45,7 @@
     {
       "verse": 9,
       "en": "male and female, came into the ark to Noah, just as God had commanded him. ",
-      "ja": "神がノアに命じられたとおり、雄と雌とがノアのもとに来て箱舟に入った。"
+      "ja": "<span class=\"entity person\" data-tooltip=\"唯一の創造主。すべてを無から造り出した存在。\">神</span>がノアに命じられたとおり、雄と雌とがノアのもとに来て箱舟に入った。"
     },
     {
       "verse": 10,
@@ -65,7 +65,7 @@
     {
       "verse": 13,
       "en": "On that very day Noah entered the ark, accompanied by his sons Shem, Ham, and Japheth, along with his wife and his sons’ three wives. ",
-      "ja": "まさにその日、ノアは息子のセム、ハム、ヤペテ、そして妻と三人の息子の妻たちを伴って箱舟に入った。"
+      "ja": "まさにその日、ノアは息子の<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。セム系諸族（イスラエル等）の祖。\">セム</span>、<span class=\"entity person\" data-tooltip=\"ノアの息子の一人。エジプトやカナン諸族の祖。\">ハム</span>、ヤペテ、そして妻と三人の息子の妻たちを伴って箱舟に入った。"
     },
     {
       "verse": 14,
@@ -365,5 +365,11 @@
         "ja": "[解説] 「圧倒した」と訳されたヘブライ語の動詞は、水が地よりも強大であったことを示唆している。地とその中にあるすべてのものは、混沌の深淵の再来には太刀打ちできなかった。"
       }
     ]
+  },
+  "summary": "【大洪水】ノアの家族と動物たちが箱舟に入ると、40日40夜にわたって大雨が降り、地球上のすべての命が滅びました。",
+  "map_context": {
+    "era": "大洪水の年",
+    "location": "地球全体",
+    "description": "全地が水に覆われた大洪水の期間です。"
   }
 }

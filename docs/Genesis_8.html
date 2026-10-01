@@ -17,6 +17,7 @@
         <a href="Genesis_9.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 8</span><span class="title-en">Genesis 8</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【水が引く】水が引き、箱舟はアララト山に留まります。ノアたちは地上に出て、神に祭壇を築きました。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">神はノアと、箱舟の中に彼とともにいたすべての野の獣や家畜を心に留められた。神が地の上に風を吹かせると、水は引いていった。</div>
+            <div class="verse-ja"><span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>は<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>と、箱舟の中に彼とともにいたすべての野の獣や家畜を心に留められた。神が地の上に風を吹かせると、水は引いていった。</div>
             <div class="verse-en">But God remembered Noah and all the wild animals and domestic animals that were with him in the ark. God caused a wind to blow over the earth and the waters receded. </div>
             <div class="verse-markers">
                 
@@ -628,6 +630,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 大洪水後</p>
+        <p><strong>場所:</strong> アララト山（現在のトルコ東部）</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">水が引き、箱舟が漂着した場所です。ここから人類の新たな歴史が始まります。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

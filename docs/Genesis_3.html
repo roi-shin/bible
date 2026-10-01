@@ -17,6 +17,7 @@
         <a href="Genesis_4.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 3</span><span class="title-en">Genesis 3</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【失楽園】蛇にそそのかされた二人は神の禁じた実を食べてしまい、罪が世界に入り込みます。彼らはエデンの園を追放されます。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">さて、蛇は主なる神が造られた野のすべての生き物のうちで最も賢かった。蛇は女に言った。「神が『園のどの木からも食べてはならない』と言われたというのは、本当なのか。」</div>
+            <div class="verse-ja">さて、蛇は主なる<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>が造られた野のすべての生き物のうちで最も賢かった。蛇は女に言った。「神が『園のどの木からも食べてはならない』と言われたというのは、本当なのか。」</div>
             <div class="verse-en">Now the serpent was shrewder than any of the wild animals that the Lord God had made. He said to the woman, “Is it really true that God said, ‘You must not eat from any tree of the orchard’?” </div>
             <div class="verse-markers">
                 
@@ -306,7 +308,7 @@
         <div class="verse" id="v17">
           <div class="verse-num">17</div>
           <div class="verse-content">
-            <div class="verse-ja">アダムにはこう言われた。「あなたが妻の声に従い、『食べてはならない』と命じておいた木から食べたので、地はあなたのゆえに呪われる。あなたは生涯すべての日、苦痛の労苦のうちに地からのものを食べることになる。</div>
+            <div class="verse-ja"><span class="entity person" data-tooltip="神が最初に創造した男。">アダム</span>にはこう言われた。「あなたが妻の声に従い、『食べてはならない』と命じておいた木から食べたので、地はあなたのゆえに呪われる。あなたは生涯すべての日、苦痛の労苦のうちに地からのものを食べることになる。</div>
             <div class="verse-en">But to Adam he said, “Because you obeyed your wife and ate from the tree about which I commanded you, ‘You must not eat from it,’ the ground is cursed because of you; in painful toil you will eat of it all the days of your life. </div>
             <div class="verse-markers">
                 
@@ -357,7 +359,7 @@
         <div class="verse" id="v20">
           <div class="verse-num">20</div>
           <div class="verse-content">
-            <div class="verse-ja">人はその妻の名をエバと呼んだ。彼女がすべて生きている者の母となったからである。</div>
+            <div class="verse-ja">人はその妻の名を<span class="entity person" data-tooltip="すべての生ける者の母。アダムの妻。">エバ</span>と呼んだ。彼女がすべて生きている者の母となったからである。</div>
             <div class="verse-en">The man named his wife Eve, because she was the mother of all the living. </div>
             <div class="verse-markers">
                 
@@ -408,7 +410,7 @@
         <div class="verse" id="v23">
           <div class="verse-num">23</div>
           <div class="verse-content">
-            <div class="verse-ja">そこで主なる神は、人が取られたその土を耕させるため、彼をエデンの園から追放された。</div>
+            <div class="verse-ja">そこで主なる神は、人が取られたその土を耕させるため、彼を<span class="entity location" data-tooltip="神が最初の人を置いた理想の園。">エデン</span>の園から追放された。</div>
             <div class="verse-en">So the Lord God expelled him from the orchard in Eden to cultivate the ground from which he had been taken. </div>
             <div class="verse-markers">
                 
@@ -926,6 +928,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 天地創造後（年代特定不能）</p>
+        <p><strong>場所:</strong> エデンの園</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">神との関係が壊れ、人類がエデンの園から追放される人類史の転換点です。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>

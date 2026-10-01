@@ -17,6 +17,7 @@
         <a href="Genesis_6.html" class="nav-arrow">&#8250;</a>
       </span>
       <div class="nav-controls">
+        <button id="toggleLearningMode" class="nav-btn active" title="学習モード切替">[学習]</button>
         <button id="toggleLang" class="nav-btn" title="言語切替">Aa/あ</button>
         <button id="toggleNotes" class="nav-btn" title="注の表示切替">[注]</button>
         <button id="toggleLayout" class="nav-btn" title="レイアウト切替">[左右]</button>
@@ -27,12 +28,13 @@
   <main class="reader">
     <section class="text-panel" id="textPanel">
       <h1><span class="title-ja">創世記 5</span><span class="title-en">Genesis 5</span></h1>
+      <div class="chapter-summary" id="chapterSummary">【アダムの系図】アダムからノアに至るまでの系図。人々が非常に長寿であった時代です。</div>
       <div class="verses">
         
         <div class="verse" id="v1">
           <div class="verse-num">1</div>
           <div class="verse-content">
-            <div class="verse-ja">これはアダムの系図の記録である。神が人類を創造されたとき、神の似姿に人を造られた。</div>
+            <div class="verse-ja">これは<span class="entity person" data-tooltip="神が最初に創造した男。">アダム</span>の系図の記録である。<span class="entity person" data-tooltip="唯一の創造主。すべてを無から造り出した存在。">神</span>が人類を創造されたとき、神の似姿に人を造られた。</div>
             <div class="verse-en">This is the record of the family line of Adam.When God created humankind, he made them in the likeness of God. </div>
             <div class="verse-markers">
                 
@@ -64,7 +66,7 @@
         <div class="verse" id="v3">
           <div class="verse-num">3</div>
           <div class="verse-content">
-            <div class="verse-ja">アダムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名をセツと名づけた。</div>
+            <div class="verse-ja">アダムは130歳になったとき、自分のかたちに似た、自分の姿にかたどった男の子をもうけ、その名を<span class="entity person" data-tooltip="アベルの死後、アダムとエバの間に生まれた子。">セツ</span>と名づけた。</div>
             <div class="verse-en">When Adam had lived 130 years he fathered a son in his own likeness, according to his image, and he named him Seth. </div>
             <div class="verse-markers">
                 
@@ -247,7 +249,7 @@
         <div class="verse" id="v18">
           <div class="verse-num">18</div>
           <div class="verse-content">
-            <div class="verse-ja">ヤレデは162歳になったとき、エノクをもうけた。</div>
+            <div class="verse-ja">ヤレデは162歳になったとき、<span class="entity person" data-tooltip="神と共に歩み、死を経験せずに天に移された人物。">エノク</span>をもうけた。</div>
             <div class="verse-en">When Jared had lived 162 years, he became the father of Enoch. </div>
             <div class="verse-markers">
                 
@@ -380,7 +382,7 @@
         <div class="verse" id="v29">
           <div class="verse-num">29</div>
           <div class="verse-content">
-            <div class="verse-ja">彼は「主が呪われた地での私たちの労働と手の骨折りから、この子こそが私たちに慰めをもたらしてくれる」と言って、その名をノアと名づけた。</div>
+            <div class="verse-ja">彼は「主が呪われた地での私たちの労働と手の骨折りから、この子こそが私たちに慰めをもたらしてくれる」と言って、その名を<span class="entity person" data-tooltip="神の恵みを受け、大洪水から箱舟で救われた正しい人。">ノア</span>と名づけた。</div>
             <div class="verse-en">He named him Noah, saying, “This one will bring us comfort from our labor and from the painful toil of our hands because of the ground that the Lord has cursed.” </div>
             <div class="verse-markers">
                 
@@ -419,7 +421,7 @@
         <div class="verse" id="v32">
           <div class="verse-num">32</div>
           <div class="verse-content">
-            <div class="verse-ja">ノアは500歳になった後、セム、ハム、ヤペテをもうけた。</div>
+            <div class="verse-ja">ノアは500歳になった後、<span class="entity person" data-tooltip="ノアの息子の一人。セム系諸族（イスラエル等）の祖。">セム</span>、<span class="entity person" data-tooltip="ノアの息子の一人。エジプトやカナン諸族の祖。">ハム</span>、ヤペテをもうけた。</div>
             <div class="verse-en">After Noah was 500 years old, he became the father of Shem, Ham, and Japheth. </div>
             <div class="verse-markers">
                 
@@ -610,6 +612,22 @@
       </div>
     </aside>
   </main>
+
+  <!-- 簡易マップ・タイムライン用モーダル -->
+  <div id="mapModal" class="map-modal hidden">
+    <div class="map-modal-content">
+      <button id="closeMapBtn" class="close-map-btn">×</button>
+      <h3 id="mapModalTitle">時代と場所</h3>
+      <div id="mapModalBody">
+        
+        <p><strong>時代:</strong> 大洪水前</p>
+        <p><strong>場所:</strong> メソポタミア全域</p>
+        <p style="margin-top:1rem; font-size:0.95rem;">ノアの時代に至るまでの数世代にわたる系図です。</p>
+        
+      </div>
+    </div>
+  </div>
+  <button id="openMapBtn" class="fab-map" title="マップ/時代を開く">🗺️</button>
 
   <script src="app.js"></script>
 </body>
