@@ -1,0 +1,744 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Truly, truly, I say to you.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> There was more than one type of <i>sheepfold</i> in use in Palestine in Jesus&#8217; day. The one here seems to be a courtyard in front of a house (the Greek word used for the sheepfold here, <font face=\"Galaxie Unicode Greek\">&#945;&#8016;&#955;&#8053;</font> [<font face=\"Greektl\">aulh</font>] frequently refers to a courtyard), surrounded by a stone wall (often topped with briars for protection).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;entrance.&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;porter&#8221; (British English).<p class=\"note\"><span class=\"notetype\">sn</span> There have been many attempts to identify who the <i>doorkeeper</i> represents, none of which are convincing. More likely there are some details in this parable that are included for the sake of the story, necessary as parts of the overall picture but without symbolic significance.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The words &#8220;the door&#8221; are not in the Greek text but are implied. Direct objects in Greek were often omitted when clear from the context.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;For this one.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And he.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>He calls his own sheep by name and leads them out.</i> Some interpreters have suggested that there was more than one flock in the fold, and there would be a process of separation where each shepherd called out his own flock. This may also be suggested by the mention of a <i>doorkeeper</i> in v. <span class=\"bibleref\" title=\"John 10:3\">3</span> since only the larger sheepfolds would have such a guard. But the Gospel of John never mentions a distinction among the sheep in this fold; in fact (<span class=\"bibleref\" title=\"John 10:16\">10:16</span>) there are other sheep which are to be brought in, but they are to be one flock and one shepherd.</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;sheep&#8221; is not in the Greek text, but is implied.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;because they know.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;someone whom they do not know.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;know.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the voice of someone they do not know.&#8221;</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> A <i>parable</i> is a fairly short narrative that has symbolic meaning. The Greek word <font face=\"Galaxie Unicode Greek\">&#960;&#945;&#961;&#959;&#953;&#956;&#943;&#945;&#957;</font> (<font face=\"Greektl\">paroimian</font>) is used again in <span class=\"bibleref\" title=\"John 16:25,29\">16:25, 29</span>. This term does not occur in the synoptic gospels, where <font face=\"Galaxie Unicode Greek\">&#960;&#945;&#961;&#945;&#946;&#959;&#955;&#8053;</font> (<font face=\"Greektl\">parabolh</font>) is used. Nevertheless it is similar, denoting a short narrative with figurative or symbolic meaning.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;these.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;comprehend.&#8221;</div>"
+      ]
+    ],
+    "7": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Truly, truly, I say to you.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;I am the sheep&#8217;s door.&#8221;</div>"
+      ]
+    ],
+    "8": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;are&#8221; (present tense).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the sheep did not hear them.&#8221;</div>"
+      ]
+    ],
+    "9": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Since the Greek phrase <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#963;&#941;&#961;&#967;&#959;&#956;&#945;&#953; &#954;&#945;&#8054; &#7952;&#958;&#941;&#961;&#967;&#959;&#956;&#945;&#953;</font> (<font face=\"Greektl\">eisercomai kai exercomai</font>, &#8220;come in and go out&#8221;) is in some places an idiom for living or conducting oneself in relationship to some community (&#8220;to live with, to live among&#8221; [cf. <span class=\"bibleref\" title=\"Acts 1:21\">Acts 1:21</span>; see also <span class=\"bibleref\" title=\"Numbers 27:17\">Num 27:17</span>; <span class=\"bibleref\" title=\"2 Chronicles 1:10\">2 Chr 1:10</span>]), it may well be that Jesus&#8217; words here look forward to the new covenant community of believers. Another significant NT text is <span class=\"bibleref\" title=\"Luke 9:4\">Luke 9:4</span>, where both these verbs occur in the context of the safety and security provided by a given household for the disciples. See also BDAG 294 s.v. <font face=\"Galaxie Unicode Greek\">&#949;&#7984;&#963;&#941;&#961;&#967;&#959;&#956;&#945;&#953;</font> 1.b.<font face=\"Galaxie Unicode Greek\">&#946;</font>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> That is, pasture land in contrast to cultivated land.</div>"
+      ]
+    ],
+    "10": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> That is, &#8220;to slaughter&#8221; (in reference to animals).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> That is, more than one would normally expect or anticipate.</div>"
+      ]
+    ],
+    "11": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;model&#8221; (see R. E. Brown, <i>John</i> [AB], 1:386, who argues that &#8220;model&#8221; is a more exact translation of <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#955;&#972;&#962;</font> [<font face=\"Greektl\">kalos</font>] here).</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;The good shepherd dies willingly.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> Jesus speaks openly of his vicarious death twice in this section (<span class=\"bibleref\" title=\"John 10:11,15\">John 10:11, 15</span>). Note the contrast: The thief takes the life of the sheep (<span class=\"bibleref\" title=\"John 10:10\">10:10</span>), the <i>good shepherd</i> lays down his own <i>life</i> for the sheep. Jesus is not speaking generally here, but specifically: He has his own substitutionary death on the cross in view. For a literal shepherd with a literal flock, the shepherd&#8217;s death would have spelled disaster for the sheep; in this instance it spells life for them (Compare the worthless shepherd of <span class=\"bibleref\" title=\"Zechariah 11:17\">Zech 11:17</span>, by contrast).</p></div>"
+      ]
+    ],
+    "12": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> Jesus contrasts the behavior of the shepherd with that of the <i>hired hand</i>. This is a worker who is simply paid to do a job; he has no other interest in the sheep and is certainly not about to risk his life for them. When they are threatened, he simply runs away.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;leaves.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;flees.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;seizes.&#8221; The more traditional rendering, &#8220;snatches,&#8221; has the idea of seizing something by force and carrying it off, which is certainly possible here. However, in the sequence in <span class=\"bibleref\" title=\"John 10:12\">John 10:12</span>, this action precedes the scattering of the flock of sheep, so &#8220;attacks&#8221; is preferable.</div>"
+      ]
+    ],
+    "13": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;does not have a care for the sheep.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"> B D L [W] <font face=\"Galaxie Unicode Greek\">&#920;</font> 1 33 1241 <i>al</i> co). Most likely it was added by a later scribe to improve the readability of vv. <span class=\"bibleref\" title=\"John 10:12-13\">12-13</span>, which is one long sentence in Greek. It has been included in the translation for the same stylistic reasons.</div>"
+      ]
+    ],
+    "14": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And I.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The direct object is frequently omitted in Greek and must be supplied from the context. Here it could be &#8220;sheep,&#8221; but Jesus was ultimately talking about &#8220;people.&#8221;</div>"
+      ]
+    ],
+    "15": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;I die willingly.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;on behalf of&#8221; or &#8220;for the sake of.&#8221;</div>"
+      ]
+    ],
+    "16": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And I have.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;that do not belong to&#8221;; <i>Grk</i> &#8220;that are not of.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The statement <i>I have other sheep that do not come from this sheepfold</i> almost certainly refers to Gentiles. Jesus has sheep in the fold who are Jewish; there are other sheep which, while not of the same fold, belong to him also. This recalls the mission of the Son in <span class=\"bibleref\" title=\"John 3:16-17\">3:16-17</span>, which was to save the world &#8211; not just the nation of Israel. Such an emphasis would be particularly appropriate to the author if he were writing to a non-Palestinian and primarily non-Jewish audience.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;they will hear my voice.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;voice, and.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;and&#8221; is not in the Greek text, but must be supplied to conform to English style. In Greek it is an instance of <i>asyndeton</i> (omission of a connective), usually somewhat emphatic.</div>"
+      ]
+    ],
+    "17": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Because of this the Father loves me.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;die willingly.&#8221;</div>"
+      ]
+    ],
+    "18": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;give it up.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;of my own accord.&#8221; &#8220;Of my own free will&#8221; is given by BDAG 321 s.v. <font face=\"Galaxie Unicode Greek\">&#7952;&#956;&#945;&#965;&#964;&#959;&#8166;</font> c.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;I have the right.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;I have the right.&#8221;</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;order.&#8221;</div>"
+      ]
+    ],
+    "19": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or perhaps &#8220;the Jewish religious leaders&#8221;; <i>Grk</i> &#8220;the Jews.&#8221; In NT usage the term <font face=\"Galaxie Unicode Greek\">&#8127;&#921;&#959;&#965;&#948;&#945;&#8150;&#959;&#953;</font> (<font face=\"Greektl\">Ioudaioi</font>) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. (For further information see R. G. Bratcher, &#8220;&#8216;The Jews&#8217; in the Gospel of John,&#8221; <i>BT</i> 26 [1975]: 401-9.) Here the phrase could be taken to refer to the Jewish religious leaders, since the Pharisees were the last to be mentioned specifically by name, in <span class=\"bibleref\" title=\"John 9:40\">John 9:40</span>. However, in light of the charge about demon possession, which echoes <span class=\"bibleref\" title=\"John 8:48\">8:48</span>, it is more likely that Jewish people in general (perhaps in Jerusalem, if that is understood to be the setting of the incident) are in view here.</div>"
+      ]
+    ],
+    "20": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;is insane.&#8221; To translate simply &#8220;he is mad&#8221; (so KJV, ASV, RSV; &#8220;raving mad&#8221; NIV) could give the impression that Jesus was angry, while the actual charge was madness or insanity.</div>"
+      ]
+    ],
+    "21": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the sayings.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;open the eyes of the blind&#8221; (&#8220;opening the eyes&#8221; is an idiom referring to restoration of sight).</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Questions prefaced with <font face=\"Galaxie Unicode Greek\">&#956;&#8053;</font> (<font face=\"Greektl\">mh</font>) in Greek anticipate a negative answer. This can sometimes be indicated by using a &#8220;tag&#8221; at the end in English (here the tag is &#8220;can it?&#8221;).</div>"
+      ]
+    ],
+    "22": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> That is, Hanukkah or the &#8216;Festival of Lights.&#8217; The Greek name for the feast, <font face=\"Galaxie Unicode Greek\">&#964;&#8048; &#7952;&#947;&#954;&#945;&#943;&#957;&#953;&#945;</font> (<font face=\"Greektl\">ta enkainia</font>), literally means &#8220;renewal&#8221; and was used to translate <i>Hanukkah</i> which means &#8220;dedication.&#8221; The Greek noun, with its related verbs, was the standard term used in the LXX for the consecration of the altar of the Tabernacle (<span class=\"bibleref\" title=\"Numbers 7:10-11\">Num 7:10-11</span>), the altar of the temple of Solomon (<span class=\"bibleref\" title=\"1 Kings 8:63\">1 Kgs 8:63</span>; <span class=\"bibleref\" title=\"2 Chronicles 7:5\">2 Chr 7:5</span>), and the altar of the second temple (<span class=\"bibleref\" title=\"Ezra 6:16\">Ezra 6:16</span>). The word is thus connected with the consecration of all the houses of God in the history of the nation of Israel.<p class=\"note\"><span class=\"notetype\">sn</span> <i>The feast of the Dedication</i> (also known as Hanukkah) was a feast celebrating annually the Maccabean victories of 165-164 <sc>b.c.</sc> &#8211; when Judas Maccabeus drove out the Syrians, rebuilt the altar, and rededicated the temple on 25 Kislev (1 Macc 4:41-61). From a historical standpoint, it was the last great deliverance the Jewish people had experienced, and it came at a time when least expected. Josephus ends his account of the institution of the festival with the following statement: &#8220;And from that time to the present we observe this festival, which we call the festival of Lights, giving this name to it, I think, from the fact that the right to worship appeared to us at a time when we hardly dared hope for it&#8221; (<i>Ant.</i> 12.7.6 [12.325]).</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">map</span> For location see <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map5\">Map5-B1</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map6\">Map6-F3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map7\">Map7-E2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map8\">Map8-F2</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"map10\">Map10-B3</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp1\">JP1-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp2\">JP2-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp3\">JP3-F4</a>; <a class=\"mapLink\" href=\"javascript:{};\" data-map=\"jp4\">JP4-F4</a>.</div>"
+      ]
+    ],
+    "23": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>It was winter.</i> The feast began on 25 Kislev, in November-December of the modern Gregorian calendar.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;in the temple.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;portico,&#8221; &#8220;colonnade&#8221;; <i>Grk</i> &#8220;stoa.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> <i>Solomon</i>&#8217;<i>s Portico</i> was a covered walkway formed by rows of columns supporting a roof and open on the inner side facing the center of the temple complex.</p></div>"
+      ]
+    ],
+    "24": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the Jewish authorities&#8221;; <i>Grk</i> &#8220;the Jews.&#8221; Here the phrase refers to the Jewish leaders. The question they ask Jesus (&#8220;Are you the Christ?&#8221;) is the same one they sent and asked of John the Baptist in the desert (see <span class=\"bibleref\" title=\"John 1:19-34\">John 1:19-34</span>). See also the note on the phrase &#8220;the Jewish people&#8221; in v. <span class=\"bibleref\" title=\"John 10:19\">19</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;said to him.&#8221; This has been translated as &#8220;asked&#8221; for stylistic reasons.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;How long will you take away our life?&#8221; (an idiom which meant to keep one from coming to a conclusion about something). The use of the phrase <font face=\"Galaxie Unicode Greek\">&#964;&#8052;&#957; &#968;&#965;&#967;&#8052;&#957; &#7969;&#956;&#8182;&#957; &#945;&#7988;&#961;&#949;&#953;&#962;</font> (<font face=\"Greektl\">thn yuchn Jhmwn airei&quot;</font>) meaning &#8220;to keep in suspense&#8221; is not well attested, although it certainly fits the context here. In modern Greek the phrase means &#8220;to annoy, bother.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the Messiah&#8221; (Both Greek &#8220;Christ&#8221; and Hebrew and Aramaic &#8220;Messiah&#8221; mean &#8220;one who has been anointed&#8221;).<p class=\"note\"><span class=\"notetype\">sn</span> See the note on <i>Christ</i> in <span class=\"bibleref\" title=\"John 1:20\">1:20</span>.</p></div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;publicly.&#8221;</div>"
+      ]
+    ],
+    "25": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;answered them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the works.&#8221;</div>"
+      ]
+    ],
+    "28": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And I give.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;will never die&#8221; or &#8220;will never be lost.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;no one will seize.&#8221;</div>"
+      ]
+    ],
+    "29": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;is superior to all.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;no one can seize.&#8221;</div>"
+      ]
+    ],
+    "30": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;I and the Father.&#8221; The order has been reversed to reflect English style.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The phrase <font face=\"Galaxie Unicode Greek\">&#7957;&#957; &#7952;&#963;&#956;&#949;&#957;</font> (<font face=\"Greektl\">{en esmen</font>) is a significant assertion with trinitarian implications. <font face=\"Galaxie Unicode Greek\">&#7957;&#957;</font> is neuter, not masculine, so the assertion is not that Jesus and the Father are one person, but one &#8220;thing.&#8221; Identity of the two persons is not what is asserted, but essential unity (unity of essence).</div>"
+      ]
+    ],
+    "31": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the Jewish authorities&#8221;; <i>Grk</i> &#8220;the Jews.&#8221; Here the phrase refers to the Jewish leaders. See the notes on the phrases &#8220;Jewish people&#8221; in v. <span class=\"bibleref\" title=\"John 10:19\">19</span> and &#8220;Jewish leaders&#8221; in v. <span class=\"bibleref\" title=\"John 10:24\">24</span>.</div>"
+      ]
+    ],
+    "32": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;Jesus answered them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;good works.&#8221;</div>"
+      ]
+    ],
+    "33": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;the Jewish authorities&#8221;; <i>Grk</i> &#8220;the Jews.&#8221; Here again the phrase refers to the Jewish leaders. See the notes on the phrase &#8220;Jewish people&#8221; in v. <span class=\"bibleref\" title=\"John 10:19\">19</span> and &#8220;Jewish leaders&#8221; in vv. <span class=\"bibleref\" title=\"John 10:24,31\">24, 31</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;answered him.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;good work.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> This is the first time the official charge of <i>blasphemy</i> is voiced openly in the Fourth Gospel (although it was implicit in <span class=\"bibleref\" title=\"John 8:59\">John 8:59</span>).</div>"
+      ],
+      [
+        5,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;and because.&#8221;</div>"
+      ],
+      [
+        6,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;you, a man, make yourself to be God.&#8221;</div>"
+      ]
+    ],
+    "34": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;answered them.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> A quotation from <span class=\"bibleref\" title=\"Psalms 82:6\">Ps 82:6</span>. Technically the Psalms are not part of the OT &#8220;law&#8221; (which usually referred to the five books of Moses), but occasionally the term &#8220;law&#8221; was applied to the entire OT, as here. The problem in this verse concerns the meaning of Jesus&#8217; quotation from <span class=\"bibleref\" title=\"Psalms 82:6\">Ps 82:6</span>. It is important to look at the OT context: The whole line reads &#8220;I say, you are gods, sons of the Most High, all of you.&#8221; Jesus will pick up on the term &#8220;sons of the Most High&#8221; in <span class=\"bibleref\" title=\"John 10:36\">10:36</span>, where he refers to himself as the <i>Son of God</i>. The psalm was understood in rabbinic circles as an attack on unjust judges who, though they have been given the title &#8220;gods&#8221; because of their quasi-divine function of exercising judgment, are just as mortal as other men. What is the argument here? It is often thought to be as follows: If it was an OT practice to refer to men like the judges as gods, and not blasphemy, why did the Jewish authorities object when this term was applied to Jesus? This really doesn&#8217;t seem to fit the context, however, since if that were the case Jesus would not be making any claim for &#8220;divinity&#8221; for himself over and above any other human being &#8211; and therefore he would not be subject to the charge of blasphemy. Rather, this is evidently a case of arguing from the lesser to the greater, a common form of rabbinic argument. The reason the OT judges could be called gods is because they were vehicles of the word of God (cf. <span class=\"bibleref\" title=\"John 10:35\">10:35</span>). But granting that premise, Jesus deserves much more than they to be called God. He is the Word incarnate, whom the Father sanctified and sent into the world to save the world (<span class=\"bibleref\" title=\"John 10:36\">10:36</span>). In light of the prologue to the Gospel of John, it seems this interpretation would have been most natural for the author. If it is permissible to call men &#8220;gods&#8221; because they were the vehicles of the word of God, how much more permissible is it to use the word &#8220;God&#8221; of him who is the Word of God?</div>"
+      ]
+    ],
+    "35": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> The parenthetical note <i>And the scripture cannot be broken</i> belongs to Jesus&#8217; words rather than the author&#8217;s. Not only does Jesus appeal to the OT to defend himself against the charge of blasphemy, but he also adds that the scripture cannot be &#8220;broken.&#8221; In this context he does not explain precisely what is meant by &#8220;broken,&#8221; but it is not too hard to determine. Jesus&#8217; argument depended on the exact word used in the context of <span class=\"bibleref\" title=\"Psalms 82:6\">Ps 82:6</span>. If any other word for &#8220;judge&#8221; had been used in the psalm, his argument would have been meaningless. Since the scriptures do use this word in <span class=\"bibleref\" title=\"Psalms 82:6\">Ps 82:6</span>, the argument is binding, because they cannot be &#8220;broken&#8221; in the sense of being shown to be in error.</div>"
+      ]
+    ],
+    "36": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;dedicated.&#8221;</div>"
+      ]
+    ],
+    "37": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;do.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;works.&#8221;</div>"
+      ]
+    ],
+    "38": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;works.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> Jesus says that in the final analysis, the <i>deeds</i> he did should indicate whether he was truly from the Father. If the authorities could not believe in him, it would be better to believe in the deeds he did than not to believe at all.</p></div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;so that you may learn.&#8221;</div>"
+      ]
+    ],
+    "39": [
+      [
+        1,
+        "<div class=\"note\"> and D may have committed haplography, leaving later scribes in the chain to guess at the conjunction needed. In sum, the best reading appears to be <font face=\"Galaxie Unicode Greek\">&#7952;&#950;&#8053;&#964;&#959;&#965;&#957; &#959;&#8022;&#957;</font>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;they were seeking.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;he departed out of their hand.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> It is not clear whether the authorities simply sought to &#8220;arrest&#8221; him, or were renewing their attempt to stone him (cf. <span class=\"bibleref\" title=\"John 10:31\">John 10:31</span>) by seizing him and taking him out to be stoned. In either event, Jesus <i>escaped their clutches</i>. Nor is it clear whether Jesus&#8217; escape is to be understood as a miracle. If so, the text gives little indication and even less description. What is clear is that until his &#8220;hour&#8221; comes, Jesus is completely safe from the hands of men: His enemies are powerless to touch him until they are permitted to do so.</p></div>"
+      ]
+    ],
+    "40": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;He&#8221;; the referent (Jesus) has been specified in the translation for clarity.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The word &#8220;River&#8221; is not in the Greek text but is supplied for clarity.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>John</i> refers to John the Baptist.</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;formerly.&#8221;<p class=\"note\"><span class=\"notetype\">sn</span> This refers to the city of Bethany across the Jordan River (see <span class=\"bibleref\" title=\"John 1:28\">John 1:28</span>).</p></div>"
+      ]
+    ],
+    "41": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;And many.&#8221; Because of the difference between Greek style, which often begins sentences or clauses with &#8220;and,&#8221; and English style, which generally does not, <font face=\"Galaxie Unicode Greek\">&#954;&#945;&#943;</font> (<font face=\"Greektl\">kai</font>) has not been translated here.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i>John</i> refers to John the Baptist.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;did.&#8221;</div>"
+      ],
+      [
+        4,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;this one.&#8221;</div>"
+      ]
+    ],
+    "42": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Grk</i> &#8220;in him.&#8221;</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "1",
+      "text": "“I tell you the solemn truth, the one who does not enter the sheepfold by the door, but climbs in some other way, is a thief and a robber. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "2",
+      "text": "The one who enters by the door is the shepherd of the sheep. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "3",
+      "text": "The doorkeeper opens the door for him, and the sheep hear his voice. He calls his own sheep by name and leads them out. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "4",
+      "text": "When he has brought all his own sheep out, he goes ahead of them, and the sheep follow him because they recognize his voice. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "5",
+      "text": "They will never follow a stranger, but will run away from him because they do not recognize the stranger’s voice.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "6",
+      "text": "Jesus told them this parable, but they did not understand what he was saying to them. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "7",
+      "text": "So Jesus said again, “I tell you the solemn truth, I am the door for the sheep. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "8",
+      "text": "All who came before me were thieves and robbers, but the sheep did not listen to them. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "9",
+      "text": "I am the door. If anyone enters through me, he will be saved, and will come in and go out, and find pasture. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "10",
+      "text": "The thief comes only to steal and kill and destroy; I have come so that they may have life, and may have it abundantly. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "11",
+      "text": "“I am the good shepherd. The good shepherd lays down his life for the sheep. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "12",
+      "text": "The hired hand, who is not a shepherd and does not own sheep, sees the wolf coming and abandons the sheep and runs away. So the wolf attacks the sheep and scatters them."
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Because he is a hired hand and is not concerned about the sheep, he runs away."
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "14",
+      "text": "“I am the good shepherd. I know my own and my own know me—"
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "15",
+      "text": "just as the Father knows me and I know the Father—and I lay down my life for the sheep. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "16",
+      "text": "I have other sheep that do not come from this sheepfold. I must bring them too, and they will listen to my voice, so that there will be one flock and one shepherd. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "17",
+      "text": "This is why the Father loves me—because I lay down my life, so that I may take it back again. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "18",
+      "text": "No one takes it away from me, but I lay it down of my own free will. I have the authority to lay it down, and I have the authority to take it back again. This commandment I received from my Father.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Another sharp division took place among the Jewish people because of these words. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Many of them were saying, “He is possessed by a demon and has lost his mind! Why do you listen to him?” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "21",
+      "text": "Others said, “These are not the words of someone possessed by a demon. A demon cannot cause the blind to see, can it?”"
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "22",
+      "text": "Then came the feast of the Dedication in Jerusalem. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "23",
+      "text": "It was winter, and Jesus was walking in the temple area in Solomon’s Portico. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "24",
+      "text": "The Jewish leaders surrounded him and asked, “How long will you keep us in suspense? If you are the Christ, tell us plainly.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "25",
+      "text": "Jesus replied, “I told you and you do not believe. The deeds I do in my Father’s name testify about me. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "26",
+      "text": "But you refuse to believe because you are not my sheep. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "27",
+      "text": "My sheep listen to my voice, and I know them, and they follow me. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "28",
+      "text": "I give them eternal life, and they will never perish; no one will snatch them from my hand. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "29",
+      "text": "My Father, who has given them to me, is greater than all, and no one can snatch them from my Father’s hand. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "30",
+      "text": "The Father and I are one.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "31",
+      "text": "The Jewish leaders picked up rocks again to stone him to death."
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "32",
+      "text": "Jesus said to them, “I have shown you many good deeds from the Father. For which one of them are you going to stone me?” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "33",
+      "text": "The Jewish leaders replied, “We are not going to stone you for a good deed but for blasphemy because you, a man, are claiming to be God.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "34",
+      "text": "Jesus answered, “Is it not written in your law, ‘<b>I said, you are gods</b>’? "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "35",
+      "text": "If those people to whom the word of God came were called ‘gods’ (and the scripture cannot be broken), "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "36",
+      "text": "do you say about the one whom the Father set apart and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’? "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "37",
+      "text": "If I do not perform the deeds of my Father, do not believe me. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "38",
+      "text": "But if I do them, even if you do not believe me, believe the deeds, so that you may come to know and understand that I am in the Father and the Father is in me.” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "39",
+      "text": "Then they attempted again to seize him, but he escaped their clutches. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "40",
+      "text": "Jesus went back across the Jordan River again to the place where John had been baptizing at an earlier time, and he stayed there. "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "41",
+      "text": "Many came to him and began to say, “John performed no miraculous sign, but everything John said about this man was true!” "
+    },
+    {
+      "bookname": "John",
+      "chapter": "10",
+      "verse": "42",
+      "text": "And many believed in Jesus there. "
+    }
+  ]
+}

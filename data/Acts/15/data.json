@@ -1,0 +1,876 @@
+{
+  "book": "Acts",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now some men came down from Judea and began to teach the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.” ",
+      "ja": "さて、ユダヤからある人々が下って来て、兄弟たちに「モーセの慣習に従って割礼を受けなければ、救われない」と教え始めた。"
+    },
+    {
+      "verse": 2,
+      "en": "When Paul and Barnabas had a major argument and debate with them, the church appointed Paul and Barnabas and some others from among them to go up to meet with the apostles and elders in Jerusalem about this point of disagreement. ",
+      "ja": "パウロおよびバルナバと彼らとの間に激しい論争と議論が生じたため、教会はパウロ、バルナバ、そして自分たちの中の何人かを、この相違点についてエルサレムの使徒たちや長老たちと会うために上らせることに決めた。"
+    },
+    {
+      "verse": 3,
+      "en": "So they were sent on their way by the church, and as they passed through both Phoenicia and Samaria, they were relating at length the conversion of the Gentiles and bringing great joy to all the brothers. ",
+      "ja": "彼らは教会に見送られて出発し、フェニキアとサマリアを通りながら異邦人の改宗について詳しく語り、すべての兄弟たちに大きな喜びをもたらした。"
+    },
+    {
+      "verse": 4,
+      "en": "When they arrived in Jerusalem, they were received by the church and the apostles and the elders, and they reported all the things God had done with them. ",
+      "ja": "エルサレムに到着すると、彼らは教会、使徒たち、長老たちに迎えられ、神が自分たちと共に行われたすべてのことを報告した。"
+    },
+    {
+      "verse": 5,
+      "en": "But some from the religious party of the Pharisees who had believed stood up and said, “It is necessary to circumcise the Gentiles and to order them to observe the law of Moses.” ",
+      "ja": "しかし、信者となったファリサイ派の人々が立ち上がり、「異邦人に割礼を施し、モーセの律法を守るように命じる必要がある」と言った。"
+    },
+    {
+      "verse": 6,
+      "en": "Both the apostles and the elders met together to deliberate about this matter. ",
+      "ja": "使徒たちと長老たちは、この問題を審議するために集まった。"
+    },
+    {
+      "verse": 7,
+      "en": "After there had been much debate, Peter stood up and said to them, “Brothers, you know that some time ago God chose me to preach to the Gentiles so they would hear the message of the gospel and believe. ",
+      "ja": "多くの議論があった後、ペテロが立ち上がって言った。「兄弟たち、ご存じのとおり、異邦人が私の口から福音の言葉を聞いて信じるようにと、神は以前に私をお選びになりました。"
+    },
+    {
+      "verse": 8,
+      "en": "And God, who knows the heart, has testified to them by giving them the Holy Spirit just as he did to us, ",
+      "ja": "心をご存じである神は、私たちに与えられたのと同様に彼らにも聖霊を与えて、証しをなさいました。"
+    },
+    {
+      "verse": 9,
+      "en": "and he made no distinction between them and us, cleansing their hearts by faith. ",
+      "ja": "そして、信仰によって彼らの心を清め、彼らと私たちとの間に何の差別も設けられませんでした。"
+    },
+    {
+      "verse": 10,
+      "en": "So now why are you putting God to the test by placing on the neck of the disciples a yoke that neither our ancestors nor we have been able to bear? ",
+      "ja": "それなのに、なぜ今あなたがたは、先祖たちも私たちも負うことができなかったくびきを弟子たちの首に掛け、神を試そうとするのですか。"
+    },
+    {
+      "verse": 11,
+      "en": "On the contrary, we believe that we are saved through the grace of the Lord Jesus, in the same way as they are.” ",
+      "ja": "むしろ、私たちは主イエスの恵みによって、彼らと同じように救われると信じています。」"
+    },
+    {
+      "verse": 12,
+      "en": "The whole group kept quiet and listened to Barnabas and Paul while they explained all the miraculous signs and wonders God had done among the Gentiles through them. ",
+      "ja": "一同は静まり返り、神が自分たちを通して異邦人の間で行われたすべての奇跡的なしるしと不思議な業について説明するバルナバとパウロに聞き入った。"
+    },
+    {
+      "verse": 13,
+      "en": "After they stopped speaking, James replied, “Brothers, listen to me. ",
+      "ja": "二人が話し終えると、ヤコブが答えた。「兄弟たち、私の言うことを聞いてください。"
+    },
+    {
+      "verse": 14,
+      "en": "Simeon has explained how God first concerned himself to select from among the Gentiles a people for his name. ",
+      "ja": "神がどのように御名のための民を異邦人の中から選ぶため、初めに顧みてくださったかをシメオンが説明しました。"
+    },
+    {
+      "verse": 15,
+      "en": "The words of the prophets agree with this, as it is written, ",
+      "ja": "預言者たちの言葉もこれと一致しています。次のように書かれているとおりです。"
+    },
+    {
+      "verse": 16,
+      "en": "‘<b>After this</b> <b>I</b> <b>will return,</b><b>and I will rebuild the fallen tent</b> <b>of David;</b><b>I will rebuild its ruins and restore</b> <b>it,</b> ",
+      "ja": "『この後、わたしは戻り、倒れたダビデの幕屋を建て直す。わたしはその廃墟を建て直し、これを修復する。"
+    },
+    {
+      "verse": 17,
+      "en": "<b>so that the rest of humanity</b> <b>may seek the Lord,</b><b>namely,</b> <b>all the Gentiles</b> <b>I have called to be my own,</b>’ <b>says the Lord,</b> who makes these things ",
+      "ja": "残りの人間、すなわち、わたしが御名によって呼んだすべての異邦人が主を求めるようになるためである』と、これらの事を行われる主は仰せになる。"
+    },
+    {
+      "verse": 18,
+      "en": "known from long ago. ",
+      "ja": "これは昔から知られていることである。"
+    },
+    {
+      "verse": 19,
+      "en": "“Therefore I conclude that we should not cause extra difficulty for those among the Gentiles who are turning to God, ",
+      "ja": "「それゆえ、私は、神に立ち返る異邦人に余計な困難をもたらすべきではないと判断します。"
+    },
+    {
+      "verse": 20,
+      "en": "but that we should write them a letter telling them to abstain from things defiled by idols and from sexual immorality and from what has been strangled and from blood. ",
+      "ja": "ただ、偶像によって汚されたもの、不品行、絞め殺した動物の肉、血を避けるようにと書き送るべきです。"
+    },
+    {
+      "verse": 21,
+      "en": "For Moses has had those who proclaim him in every town from ancient times, because he is read aloud in the synagogues every Sabbath.” ",
+      "ja": "モーセの律法は、昔から町ごとに宣べ伝える人々がおり、安息日ごとに会堂で朗読されているからです。」"
+    },
+    {
+      "verse": 22,
+      "en": "Then the apostles and elders, with the whole church, decided to send men chosen from among them, Judas called Barsabbas and Silas, leaders among the brothers, to Antioch with Paul and Barnabas. ",
+      "ja": "そこで使徒たちと長老たちは全教会とともに、自分たちの中から選んだ人々、すなわち兄弟たちの指導者であったバルサバと呼ばれるユダとシラスを、パウロやバルナバとともにアンティオキアへ派遣することを決めた。"
+    },
+    {
+      "verse": 23,
+      "en": "They sent this letter with them: From the apostles and elders, your brothers, to the Gentile brothers and sisters in Antioch, Syria, and Cilicia, greetings!",
+      "ja": "彼らは次のような手紙を託した。「使徒および長老であるあなたがたの兄弟たちから、アンティオキア、シリア、キリキアにいる異邦人の兄弟姉妹へ。挨拶を送ります。"
+    },
+    {
+      "verse": 24,
+      "en": "Since we have heard that some have gone out from among us with no orders from us and have confused you, upsetting your minds by what they said,",
+      "ja": "私たちの中のある者たちが、私たちからの指示もないままに出て行き、その言葉によってあなたがたを混乱させ、心を動揺させたと聞きました。"
+    },
+    {
+      "verse": 25,
+      "en": "we have unanimously decided to choose men to send to you along with our dear friends Barnabas and Paul, ",
+      "ja": "そこで私たちは一致して人々を選び、私たちの愛する友であるバルナバやパウロとともに、あなたがたのもとに派遣することを決定しました。"
+    },
+    {
+      "verse": 26,
+      "en": "who have risked their lives for the name of our Lord Jesus Christ. ",
+      "ja": "この二人は、私たちの主イエス・キリストの御名のために命をかけた人々です。"
+    },
+    {
+      "verse": 27,
+      "en": "Therefore we are sending Judas and Silas who will tell you these things themselves in person. ",
+      "ja": "それゆえ、私たちはユダとシラスを派遣します。彼ら自身も口頭でこれらのことを伝えるでしょう。"
+    },
+    {
+      "verse": 28,
+      "en": "For it seemed best to the Holy Spirit and to us not to place any greater burden on you than these necessary rules: ",
+      "ja": "聖霊と私たちは、以下の必要な規定以外に、あなたがたにこれ以上の重荷を負わせないことが適切であると判断しました。"
+    },
+    {
+      "verse": 29,
+      "en": "that you abstain from meat that has been sacrificed to idols and from blood and from what has been strangled and from sexual immorality. If you keep yourselves from doing these things, you will do well. Farewell. ",
+      "ja": "すなわち、偶像に捧げられた肉、血、絞め殺した動物の肉、不品行を避けることです。これらを行わないように気をつけていれば、十分です。ご健勝を祈ります。」"
+    },
+    {
+      "verse": 30,
+      "en": "So when they were dismissed, they went down to Antioch, and after gathering the entire group together, they delivered the letter. ",
+      "ja": "送り出された彼らはアンティオキアに下り、会衆全体を集めて手紙を手渡した。"
+    },
+    {
+      "verse": 31,
+      "en": "When they read it aloud, the people rejoiced at its encouragement. ",
+      "ja": "人々はそれを朗読すると、その励ましに喜んだ。"
+    },
+    {
+      "verse": 32,
+      "en": "Both Judas and Silas, who were prophets themselves, encouraged and strengthened the brothers with a long speech. ",
+      "ja": "ユダもシラスも預言者であったので、長い講話によって兄弟たちを励まし、力づけた。"
+    },
+    {
+      "verse": 33,
+      "en": "After they had spent some time there, they were sent off in peace by the brothers to those who had sent them. ",
+      "ja": "彼らはしばらくの間そこで過ごした後、兄弟たちから平安のうちに送り出されて、自分たちを派遣した人たちのもとへ戻った。"
+    },
+    {
+      "verse": 35,
+      "en": "But Paul and Barnabas remained in Antioch, teaching and proclaiming (along with many others) the word of the Lord. ",
+      "ja": "しかしパウロとバルナバはアンティオキアにとどまり、他の多くの人々とともに主の言葉を教え、宣べ伝えた。"
+    },
+    {
+      "verse": 36,
+      "en": "After some days Paul said to Barnabas, “Let’s return and visit the brothers in every town where we proclaimed the word of the Lord to see how they are doing.” ",
+      "ja": "数日後、パウロはバルナバに言った。「私たちが主の言葉を宣べ伝えたすべての町へ戻り、兄弟たちを訪問して様子を見てみましょう。」"
+    },
+    {
+      "verse": 37,
+      "en": "Barnabas wanted to bring John called Mark along with them too,",
+      "ja": "バルナバはマルコと呼ばれるヨハネも連れて行きたいと考えた。"
+    },
+    {
+      "verse": 38,
+      "en": "but Paul insisted that they should not take along this one who had left them in Pamphylia and had not accompanied them in the work. ",
+      "ja": "しかしパウロは、パンフィリアで自分たちから離れ、働きに同行しなかった者を連れて行くべきではないと主張した。"
+    },
+    {
+      "verse": 39,
+      "en": "They had a sharp disagreement, so that they parted company. Barnabas took along Mark and sailed away to Cyprus, ",
+      "ja": "激しい意見の対立が生じ、二人は別れることになった。バルナバはマルコを連れてキプロスへ船出した。"
+    },
+    {
+      "verse": 40,
+      "en": "but Paul chose Silas and set out, commended to the grace of the Lord by the brothers and sisters. ",
+      "ja": "一方、パウロはシラスを選び、兄弟姉妹たちによって主の恵みに委ねられて出発した。"
+    },
+    {
+      "verse": 41,
+      "en": "He passed through Syria and Cilicia, strengthening the churches. ",
+      "ja": "パウロはシリアとキリキアを通り、諸教会を力づけた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  That is, they came down from Judea to Antioch in Syria.",
+        "ja": "[解説] すなわち、彼らはユダヤからシリアのアンティオキアへ下って来たのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Codex Bezae (D) and a few other witnesses have “and walk” here (i.e., instead of τῷ ἔθει τῷ Μωϋσέως [tw eqei tw Mwu>sew\"] they read καὶ τῷ ἔθει τῷ Μωϋσέως περιπατῆτε [kai tw eqei tw Mwu>sew\" peripathte]). This is a decidedly stronger focus on obedience to the Law. As well, D expands vv. 1-5 in various places with the overall effect of being “more sympathetic to the local tradition of the church at Jerusalem” while the Alexandrian witnesses are more sympathetic to Paul (TCGNT 377). Codex D is well known for having a significantly longer text in Acts, but modern scholarship is generally of the opinion that the text of D expands on the original wording of Acts, with a theological viewpoint that especially puts Peter in a more authoritarian light. The expansion in these five verses is in keeping with that motif even though Peter is not explicitly in view.[解説]  Unless you are circumcised. These teachers from Judea were teaching that Gentiles could not be saved unless they kept the law of Moses in regard to circumcision. Thus according to them a Gentile had first to become a proselyte to Judaism, including circumcision, before one could become a Christian. This party is sometimes known (collectively) as Judaizers. They did not question that Gentiles could come into the community, but disagreed with Paul and Barnabas on what basis they could do so.",
+        "ja": "[写本注] ベザ写本（D）および他の少数の証拠資料は、ここに「そして歩む」（すなわち、τῷ ἔθει τῷ Μωϋσέως の代わりに καὶ τῷ ἔθει τῷ Μωϋσέως περιπατῆτε）と記している。これは律法への従順により強い焦点を当てている。同様に、D写本は1-5節の様々な箇所を加筆しており、全体として「エルサレム教会の地域的伝統に対してより好意的」であるのに対し、アレクサンドリア系の証拠資料はパウロに対してより好意的である（TCGNT 377）。D写本は使徒の働きにおいて著しく長いテキストを持つことで知られているが、現代の学界では、D写本のテキストは使徒の働きの元の文言を拡張したものであり、特にペテロをより権威主義的に描く神学的視点を持つという見解が一般的である。これら5節の拡張は、ペテロが明示的に視野に入っていなくても、そのモチーフに沿っている。[解説] 「割礼を受けなければ」。ユダヤから来たこれらの教師たちは、割礼に関するモーセの律法を守らなければ、異邦人は救われないと教えていた。したがって彼らによれば、異邦人がキリスト者になるには、まず割礼を含むユダヤ教への改宗者にならなければならなかった。この派閥は時に（総称して）ユダヤ主義者として知られる。彼らは異邦人が共同体に入ること自体を疑問視したのではなく、どのような基準に基づいて入ることができるかという点でパウロやバルナバと意見が異なっていた。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “no little argument and debate” (an idiom).",
+        "ja": "[翻訳注] ギリシャ語では「少なからぬ論争と議論」（慣用表現）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “they”; the referent (the church, or the rest of the believers at Antioch) has been specified to avoid confusion with the Judaizers mentioned in the preceding clause.",
+        "ja": "[翻訳注] ギリシャ語では「彼らは」。前節で言及されたユダヤ主義者との混同を避けるため、指示対象（教会、またはアンティオキアの他の信者たち）が明示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “go up to,” but in this context a meeting is implied.",
+        "ja": "[翻訳注] ギリシャ語では「〜へ上る」であるが、この文脈では会合を持つことが示唆されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] 位置については Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4 を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “point of controversy.” It is unclear whether this event parallels Gal 2:1-10 or that  fits with Acts 11:30. More than likely Gal 2:1-10 is to be related to Acts 11:30.",
+        "ja": "[翻訳注] または「論争点」。この出来事がガラテヤ人への手紙2章1-10節と並行しているのか、あるいは使徒の働き11章30節と一致するのかは定かではない。おそらくガラテヤ人への手紙2章1-10節は使徒の働き11章30節と関連付けられるべきである。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[解説]  Phoenicia was an area along the Mediterranean coast north of Palestine in ancient Syria.",
+        "ja": "[解説] フェニキアは、古代シリアのパレスチナ以北の地中海沿岸地域であった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  L&N 33.201 indicates that ἐκδιηγέομαι (ekdihgeomai) means to provide detailed information in a systematic manner, “to inform, to relate, to tell fully.” “Relating at length” conveys this effectively in the present context.",
+        "ja": "[翻訳注] L&N 33.201によれば、ἐκδιηγέομαι は体系的な方法で詳細な情報を提供すること、「知らせる、関連づける、詳しく話す」を意味する。この文脈では「詳しく語り（relating at length）」がこれを効果的に伝えている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  For ἐποίουν (epoioun) in this verse BDAG 839 s.v. ποιέω 2.c has “they brought joy to the members.”",
+        "ja": "[翻訳注] 本節の ἐποίουν について、BDAG 839 s.v. ποιέω 2.c は「彼らは信者たちに喜びをもたらした」としている。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 761 s.v. παραδέχομαι 2 has “receive, accept” for the meaning here.",
+        "ja": "[翻訳注] BDAG 761 s.v. παραδέχομαι 2 は、ここでの意味として「受け入れる、迎える」を挙げている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “announced.”",
+        "ja": "[翻訳注] または「告知した」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  “They reported all the things God had done with them” – an identical phrase occurs in Acts 14:27. God is always the agent.",
+        "ja": "[翻訳注] 「神が自分たちと共に行われたすべてのことを報告した」――同様の表現が使徒の働き14章27節にも見られる。行為者は常に神である。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Pharisee in 5:34.",
+        "ja": "[解説] 5章34節のファリサイ派に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Greek word used here (δεῖ, dei) is a strong term that expresses divine necessity. The claim is that God commanded the circumcision of Gentiles.",
+        "ja": "[解説] ここで用いられているギリシャ語（δεῖ）は、神的な必然性を表す強い言葉である。神が異邦人の割礼を命じられたという主張である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “them”; the referent (the Gentiles) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼らに」。わかりやすさのため、翻訳では指示対象（異邦人）が明示されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “keep.”",
+        "ja": "[翻訳注] または「遵守する」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation for ἰδεῖν (idein) in this verse is given by BDAG 279-80 s.v. εἶδον 3 as “deliberate concerning this matter.” A contemporary idiom would be to “look into” a matter.",
+        "ja": "[翻訳注] 本節の ἰδεῖν に対する訳として、BDAG 279-80 s.v. εἶδον 3 は「この件について審議する」を挙げている。現代の慣用句では、問題を「調査する（look into）」に相当する。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “discussion.” This term is repeated from v. 2.",
+        "ja": "[翻訳注] または「議論」。この用語は2節から繰り返されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “long ago” (an idiom, literally “from ancient days”). According to L&N 67.26, “this reference to Peter having been chosen by God sometime before to bring the gospel to the Gentiles can hardly be regarded as a reference to ancient times, though some persons understand this to mean that God’s decision was made at the beginning of time. The usage of ἀφ᾿ ἡμερῶν ἀρχαίων is probably designed to emphasize the established nature of God’s decision for Peter to take the gospel to the Gentiles beginning with the centurion Cornelius. The fact that this was relatively early in the development of the church may also serve to explain the use of the idiom.”",
+        "ja": "[翻訳注] または「昔から」（慣用表現、直訳は「古代の日々から」）。L&N 67.26によると、「ペテロが異邦人に福音をもたらすために神に選ばれたことへのこの言及は、古代の時代への言及とは考えにくい。ただし神の決定が時の初めになされたことを意味すると解釈する者もいる。ἀφ᾿ ἡμερῶν ἀρχαίων の用法は、百人隊長コルネリオから始まった、ペテロが異邦人に福音を届けるという神の決定の確立された性質を強調することを意図していると考えられる。これが教会の発展において比較的初期の出来事であったという事実も、この慣用句の使用を説明するのに役立つかもしれない。」"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  God chose. The theme of God’s sovereign choice is an important point, because 1st century Jews believed Israel’s unique position and customs were a reflection of God’s choice.",
+        "ja": "[解説] 「神はお選びになった」。神の主権的な選択というテーマは重要な点である。1世紀のユダヤ人は、イスラエルの独自の立場や慣習が神の選択の反映であると信じていたからである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “word.”",
+        "ja": "[翻訳注] または「言葉」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “of the good news.”",
+        "ja": "[翻訳注] または「福音の」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “God chose among you from my mouth the Gentiles to hear the message of the gospel and to believe.” The sense of this sentence in Greek is difficult to render in English. The Greek verb ἐκλέγομαι (eklegomai, “choose”) normally takes a person or thing as a direct object; in this verse the verb has neither clearly stated. The translation understands the phrase “from my mouth,” referring to Peter, as a description of both who God chose and the task to be done. This coupled with the following statement about Gentiles hearing the message of the gospel leads to the more dynamic rendering in the translation.",
+        "ja": "[翻訳注] ギリシャ語では「神はあなたがたの間で、異邦人が福音の言葉を聞いて信じるように、私の口から選ばれた」。ギリシャ語のこの文の意味を英語で表現するのは困難である。ギリシャ語の動詞 ἐκλέγομαι（選ぶ）は通常、人や物を直接目的語にとるが、本節では動詞にどちらも明確に述べられていない。本翻訳では、ペテロを指す「私の口から」という句を、神が誰を選ばれたのか、そしてなされるべき任務の両方の描写として理解している。これに異邦人が福音の言葉を聞くことに関する後続の記述が結びつくことで、翻訳におけるより動的な表現となっている。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[解説]  The expression who knows the heart means “who knows what people think.”",
+        "ja": "[解説] 「心をご存じである」という表現は、「人々が何を考えているかを知っている」ことを意味する。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “has borne witness.”",
+        "ja": "[翻訳注] または「証言された」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  By giving them…just as he did to us. The allusion is to the events of Acts 10-11, esp. 10:44-48 and Peter’s remarks in 11:15-18.",
+        "ja": "[解説] 「私たちに…と同様に彼らにも与えることによって」。これは使徒の働き10-11章の出来事、特に10章44-48節および11章15-18節におけるペテロの発言を暗示している。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 231 s.v. διακρίνω 1.b lists this passage under the meaning “to conclude that there is a difference, make a distinction, differentiate.”",
+        "ja": "[翻訳注] BDAG 231 s.v. διακρίνω 1.b は、この箇所を「違いがあると結論づける、区別する、差別化する」という意味の下に挙げている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “purifying.”",
+        "ja": "[翻訳注] または「清め」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  According to BDAG 793 s.v. πειράζω 2.c, “In Ac 15:10 the πειράζειν τὸν θεόν consists in the fact that after God’s will has been clearly made known through granting of the Spirit to the Gentiles (v. 8), some doubt and make trial to see whether God’s will really becomes operative.” All testing of God in Luke is negative: Luke 4:2; 11:16.",
+        "ja": "[翻訳注] BDAG 793 s.v. πειράζω 2.c によれば、「使徒の働き15:10において πειράζειν τὸν θεόν は、異邦人に御霊が与えられたことによって神の御心が明らかに示された後（8節）、ある者たちが疑い、神の御心が実際に有効になるかどうかを試すという事実にある」。ルカ文書における神を試みる行為はすべて否定的である（ルカ4:2、11:16）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  A yoke is a wooden bar or frame that joins two animals like oxen or horses so that they can pull a wagon, plow, etc. together. Here it is used figuratively of the restriction that some in the early church wanted to place on Gentile converts to Christianity of observing the law of Moses and having males circumcised. The yoke is a decidedly negative image: Matt 23:4, but cf. Matt 11:29-30.",
+        "ja": "[解説] くびきとは、牛や馬などの2頭の動物をつないで車や鋤などを一緒に引かせるための木製の棒や枠である。ここでは、初期教会のある者たちが、モーセの律法を守り男子に割礼を受けさせることを異邦人のキリスト教改宗者に課そうとした制限の比喩として用いられている。くびきは決定的に否定的なイメージである（マタイ23:4、ただしマタイ11:29-30参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “forefathers”; Grk “fathers.”",
+        "ja": "[翻訳注] または「先祖たち」。ギリシャ語では「父たち」。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “by.”",
+        "ja": "[翻訳注] または「〜によって」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “Jesus, just as they are.” BDAG 1016-17 s.v. τρόπος 1 translates καθ᾿ ὃν τρόπον (kaq’ Jon tropon) here as “in the same way as.”[解説]  In the same way as they are. Here is an interesting reversal of the argument. Jews are saved by grace (without law), as Gentiles are.",
+        "ja": "[翻訳注] または「彼らと同じように、イエス」。BDAG 1016-17 s.v. τρόπος 1 は、ここでの καθ᾿ ὃν τρόπον を「〜と同じ方法で」と訳している。[解説] 「彼らと同じように」。ここには議論の興味深い逆転がある。ユダヤ人は、異邦人と同様に、（律法なしで）恵みによって救われるのである。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 922 s.v. σιγάω 1.a lists this passage under the meaning “say nothing, keep still, keep silent.”",
+        "ja": "[翻訳注] BDAG 922 s.v. σιγάω 1.a は、この箇所を「何も言わない、静かにしている、黙っている」という意味の下に挙げている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Here in connection with τέρατα (terata) the miraculous nature of these signs is indicated.",
+        "ja": "[翻訳注] ここでは τέρατα（不思議な業）との関連で、これらのしるしの奇跡的な性質が示されている。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 922 s.v. σιγάω 1.b lists this passage under the meaning “stop speaking, become silent.”",
+        "ja": "[翻訳注] BDAG 922 s.v. σιγάω 1.b は、この箇所を「話すのをやめる、沈黙する」という意味の下に挙げている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “answered, saying”; the redundant participle λέγων (legwn) has not been translated.",
+        "ja": "[翻訳注] ギリシャ語では「答えて言った」。重複する分詞 λέγων は翻訳されていない。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  Simeon is a form of the apostle Peter’s Aramaic name. James uses Peter’s “Jewish” name here.",
+        "ja": "[解説] シメオンは使徒ペテロのアラム語名の一形態である。ヤコブはここでペテロの「ユダヤ的」名を用いている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “reported,” “described.”",
+        "ja": "[翻訳注] または「報告した」「述べた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  BDAG 378 s.v. ἐπισκέπτομαι 3 translates this phrase in Acts 15:14, “God concerned himself about winning a people fr. among the nations.”",
+        "ja": "[翻訳注] BDAG 378 s.v. ἐπισκέπτομαι 3 は、使徒の働き15章14節のこの句を「神は異邦の中から民を獲得することに関心を払われた」と訳している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “to take,” but in the sense of selecting or choosing (accompanied by the preposition ἐκ [ek] plus a genitive specifying the group selected from) see Heb 5:1; also BDAG 584 s.v. λαμβάνω 6.",
+        "ja": "[翻訳注] ギリシャ語では「取る」であるが、選ぶまたは選出するという意味（選ばれた集団を指定する属格を伴う前置詞 ἐκ を伴う）については、ヘブライ5:1、またBDAG 584 s.v. λαμβάνω 6 を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  In the Greek text the expression “from among the Gentiles” is in emphatic position.",
+        "ja": "[解説] ギリシャ語テキストでは「異邦人の中から」という表現が強調の位置にある。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And the.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] ギリシャ語では「そして〜の」。文や節を「そして」で始めることが多いギリシャ語の文体と、一般にそうではない英語の文体の違いにより、ここでは καί は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The term agree means “match” or “harmonize with.” James’ point in the introduction argues that many of the OT prophets taught this. He gives one example (which follows).",
+        "ja": "[解説] 「一致する」という用語は、「合致する」または「調和する」を意味する。導入部におけるヤコブの論点は、多くの旧約の預言者たちがこのことを教えていたと主張することである。彼は（それに続く）一つの例を挙げている。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “After these things.”",
+        "ja": "[翻訳注] ギリシャ語では「これらのことの後に」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The first person pronoun I refers to God and his activity. It is God who is doing this.",
+        "ja": "[解説] 一人称代名詞「わたし」は神とその活動を指す。これを行っているのは神である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or more generally, “dwelling”; perhaps, “royal tent.” According to BDAG 928 s.v. σκηνή the word can mean “tent” or “hut,” or more generally “lodging” or “dwelling.” In this verse (a quotation from Amos 9:11) BDAG refers this to David’s ruined kingdom; it is possibly an allusion to a king’s tent (a royal tent). God is at work to reestablish David’s line (Acts 2:30-36; 13:32-39).",
+        "ja": "[翻訳注] またはより一般的に「住まい」、おそらく「王の幕屋」。BDAG 928 s.v. σκηνή によれば、この語は「天幕」や「小屋」、あるいはより一般的に「宿所」や「住まい」を意味し得る。本節（アモス書9:11からの引用）において、BDAGはこれをダビデの崩壊した王国に適用している。王の天幕（王室の幕屋）への暗示である可能性がある。神はダビデの家系を再興するために働いておられる（使徒2:30-36、13:32-39）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  BDAG 86 s.v. ἀνορθόω places this verb under the meaning “to build someth. up again after it has fallen, rebuild, restore,” but since ἀνοικοδομέω (anoikodomew, “rebuild”) has occurred twice in this verse already, “restore” is used here.",
+        "ja": "[翻訳注] BDAG 86 s.v. ἀνορθόω は、この動詞を「倒れた後に再び築き上げる、再建する、修復する」という意味の下に置いているが、ἀνοικοδομέω（再建する）がすでに本節で2回現れているため、ここでは「修復する（restore）」が用いられている。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “so that all other people.” The use of this term follows Amos 9:11 LXX.",
+        "ja": "[翻訳注] または「他のすべての人間が」。この用語の使用は七十人訳アモス書9章11節に従っている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Here καί (kai) introduces an explanatory clause that explains the preceding phrase “the rest of humanity.” The clause introduced by καί (kai) could also be punctuated in English as a parenthesis.",
+        "ja": "[翻訳注] ここで καί は、前述の「残りの人間」という句を説明する説明節を導入している。καί によって導入された節は、英語では括弧書きとして句読点を打つこともできる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “all the nations” (in Greek the word for “nation” and “Gentile” is the same).[解説]  Note the linkage back to v. 14 through the mention of Gentiles. What Simeon explained is what the OT text says would happen.",
+        "ja": "[翻訳注] または「すべての国々」（ギリシャ語では「国民・異邦」と「異邦人」の単語は同一である）。[解説] 異邦人への言及を通じた14節への結びつきに注目。シメオンが説明したことは、旧約聖書のテキストが起こると述べていたことである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “all the Gentiles on whom my name has been called.” Based on well-attested OT usage, the passive of ἐπικαλέω (epikalew) here indicates God’s ownership (“all the Gentiles who belong to me”) or calling (“all the Gentiles whom I have called to be my own”). See L&N 11.28.",
+        "ja": "[翻訳注] ギリシャ語では「わたしの名が呼び求められたすべての異邦人」。十分に証明された旧約聖書の用法に基づき、ここでの ἐπικαλέω の受動態は、神の所有（「わたしに属するすべての異邦人」）または召し（「わたしがご自身のものとして召したすべての異邦人」）を示している。L&N 11.28を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  A quotation from Amos 9:11-12 LXX. James demonstrated a high degree of cultural sensitivity when he cited a version of the text (the Septuagint, the Greek translation of the Old Testament) that Gentiles would use.",
+        "ja": "[解説] 七十人訳アモス書9章11-12節からの引用。ヤコブは、異邦人が使用するテキストの版（七十人訳、旧約聖書のギリシャ語訳）を引用した際、高度な文化的配慮を示した。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[解説]  Who makes these things known. The remark emphasizes how God’s design of these things reaches back to the time he declared them.",
+        "ja": "[解説] 「これらの事を知らせる」。この言葉は、これらの事に関する神の計画が、それらを宣言された時にまでさかのぼることを強調している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  An allusion to Isa 45:21.",
+        "ja": "[解説] イザヤ書45章21節への暗示。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “I have decided,” “I think.” The verb κρίνω (krinw) has a far broader range of meaning than the often-used English verb “judge.” BDAG 568 s.v. κρίνω 3 places this use in Acts 15:19 in the category “judge, think, consider, look upon” followed by double accusative of object and predicate. However, many modern translations give the impression that a binding decision is being handed down by James: “it is my judgment” (NASB, NIV); “I have reached the decision” (NRSV). L&N 22.25, on the other hand, translate the phrase here “I think that we should not cause extra difficulty for those among the Gentiles.” This gives more the impression of an opinion than a binding decision. The resolution of this lies not so much in the lexical data as in how one conceives James’ role in the leadership of the Jerusalem church, plus the dynamics of the specific situation where the issue of Gentile inclusion in the church was being discussed. The major possibilities are: (1) James is handing down a binding decision to the rest of the church as the one who has ultimate authority to decide this matter; (2) James is offering his own personal opinion in the matter, which is not binding on the church; (3) James is voicing a consensus opinion of all the apostles and elders, although phrasing it as if it were his own; (4) James is making a suggestion to the rest of the leadership as to what course they should follow. In light of the difficulty in reconstructing the historical situation in detail, it is best to use a translation which maintains as many of the various options as possible. For this reason the translation “Therefore I conclude” has been used, leaving open the question whether in reaching this conclusion James is speaking only for himself or for the rest of the leadership.",
+        "ja": "[翻訳注] または「私は決めた」「私は考える」。動詞 κρίνω は、英語でよく使われる動詞 judge よりもはるかに広い意味の範囲を持つ。BDAG 568 s.v. κρίνω 3 は、使徒の働き15章19節におけるこの用法を、目的語と述語の二重対格を伴う「判断する、考える、見なす」の範疇に置いている。しかし、多くの現代語訳は、ヤコブによって拘束力のある決定が下されているかのような印象を与える（NASBやNIVの「私の判断である」、NRSVの「私は決定に達した」など）。一方、L&N 22.25はここでの句を「私は異邦人に余計な困難をもたらすべきではないと考える」と訳している。これは拘束力のある決定というよりは意見の印象を与える。この解決は、語彙データというよりも、エルサレム教会の指導部におけるヤコブの役割をどのように捉えるか、また教会への異邦人受け入れの問題が議論されていた具体的な状況の力学に依存する。主な可能性としては以下がある。(1) ヤコブがこの問題を決定する最高権威を持つ者として、教会の他の者たちに拘束力のある決定を下している、(2) ヤコブはこの問題において教会を拘束しない個人的見解を述べている、(3) ヤコブはすべての使徒や長老の一致した意見を代弁しているが、あたかも自分自身のものであるかのように表現している、(4) ヤコブはどのような方針をとるべきかについて他の指導部に提案を行っている。歴史的状況を詳細に復元することの困難さに鑑み、可能な限り多様な選択肢を維持する翻訳を用いることが最善である。この理由から、「それゆえ私は結論づける（Therefore I conclude）」という訳が用いられ、この結論に達するにあたってヤコブが自分自身のためだけに語っているのか、それとも指導部の他の者たちのために語っているのかという問題を開いたままにしている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “trouble.” This term is a NT hapax legomenon (BDAG 775 s.v. παρενοχλέω).",
+        "ja": "[翻訳注] または「困難」。この用語は新約聖書の孤語（ハパックス・レゴメノン）である（BDAG 775 s.v. παρεノχλέω）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “among the nations” (in Greek the word for “nation” and “Gentile” is the same).",
+        "ja": "[翻訳注] または「諸国民の間で」（ギリシャ語では「国民」と「異邦人」の単語は同一である）。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The translation “to write a letter, to send a letter to” for ἐπιστέλλω (epistellw) is given in L&N 33.49.",
+        "ja": "[翻訳注] ἐπιστέλλω に対する「手紙を書く、〜に手紙を送る」という訳は L&N 33.49 に示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Three of the four prohibitions deal with food (the first, third and fourth) while one prohibition deals with behavior (the second, refraining from sexual immorality). Since these occur in the order they do, the translation “abstain from” is used to cover both sorts of activity (eating food items, immoral behavior).[解説]  Telling them to abstain. These restrictions are not on matters of salvation, but are given as acts of sensitivity to their Jewish brethren, as v. 21 makes clear. Another example of such sensitivity is seen in 1 Cor 10:14-11:1.",
+        "ja": "[翻訳注] 4つの禁止事項のうち3つは食物に関するものであり（1番目、3番目、4番目）、1つは行動に関するものである（2番目、不品行を慎むこと）。これらがこの順序で現れるため、両方の種類の活動（食物を食べること、不道徳な行為）を網羅するために「避ける（abstain from）」という訳が用いられている。[解説] 「避けるようにと命じる」。これらの制限は救いの問題に関するものではなく、21節が明らかにしているように、ユダヤ人の兄弟たちへの配慮の行為として与えられている。そのような配慮のもう一つの例はコリント人への手紙第一10章14節-11章1節に見られる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “polluted.”",
+        "ja": "[翻訳注] または「汚れた」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  What has been strangled. That is, to refrain from eating animals that had been killed without having the blood drained from them. According to the Mosaic law (Lev 17:13-14), Jews were forbidden to eat flesh with the blood still in it (note the following provision in Acts 15:20, and from blood).",
+        "ja": "[解説] 「絞め殺した動物の肉」。すなわち、血抜きをされずに殺された動物を食べることを控えること。モーセの律法（レビ記17:13-14）によれば、ユダヤ人は血が残ったままの肉を食べることを禁じられていた（使徒15:20の「そして血を」という後続の規定に注目）。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “from generations of old”; the translation “fr. ancient times” is given by BDAG 192 s.v. γενεά 3.b.",
+        "ja": "[翻訳注] ギリシャ語では「昔の世代から」。「昔から」という訳は BDAG 192 s.v. γενεά 3.b に示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The translation “read aloud” is used to indicate the actual practice; translating as “read” could be misunderstood to mean private, silent reading.",
+        "ja": "[翻訳注] 「朗読される」という訳は、実際の慣行を示すために用いられている。「読まれる」と訳すと、個人的な黙読と誤解される可能性がある。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  See the note on synagogue in 6:9.",
+        "ja": "[解説] 6章9節の会堂に関する注を参照。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 255 s.v. δοκέω 2.b.β lists this verse under the meaning “it seems best to me, I decide, I resolve.”",
+        "ja": "[翻訳注] BDAG 255 s.v. δοκέω 2.b.β は、本節を「私にとって最善と思われる、決定する、決議する」という意味の下に挙げている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Silas. See 2 Cor 1:19; 1 Thess 1:1; 2 Thess 1:1 (= Silvanus).",
+        "ja": "[解説] シラス。コリント人への手紙第二1:19、テサロニケ人への手紙第一1:1、テサロニケ人への手紙第二1:1（＝シルワノ）を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Antioch was a city in Syria (not Antioch in Pisidia).[地図]  For location see JP1-F2; JP2-F2; JP3-F2; JP4-F2.",
+        "ja": "[解説] アンティオキアはシリアの都市であった（ピシディアのアンティオキアではない）。[地図] 位置については JP1-F2; JP2-F2; JP3-F2; JP4-F2 を参照。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “writing by their hand” (an idiom for sending a letter).",
+        "ja": "[翻訳注] ギリシャ語では「彼らの手によって書き」（手紙を送ることの慣用句）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “The apostles.” The word “from” is not in the Greek text, but has been supplied to indicate the sender of the letter.",
+        "ja": "[翻訳注] ギリシャ語では「使徒たち」。手紙の差出人を示すために「〜から」という語が補われている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “brothers,” but “your” is supplied to specify the relationship, since without it “brothers” could be understood as vocative in English.",
+        "ja": "[翻訳注] ギリシャ語では「兄弟たち」。ただし「あなたがたの」が関係を明示するために補われている。これがないと英語では「兄弟たち」が呼びかけ（呼格）と解釈される可能性があるためである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “to the brothers who are from the Gentiles.”",
+        "ja": "[翻訳注] ギリシャ語では「異邦人から出た兄弟たちへ」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Antioch was a city in Syria (not Antioch in Pisidia).",
+        "ja": "[解説] アンティオキアはシリアの都市であった（ピシディアのアンティオキアではない）。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “and Syria,” but καί (kai) has not been translated since English normally uses a coordinating conjunction only between the last two elements in a series of three or more.",
+        "ja": "[翻訳注] ギリシャ語では「そしてシリア」。しかし英語では通常、3つ以上の要素の連続において最後の2つの要素の間にのみ等位接続詞を用いるため、καί は翻訳されていない。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here BDAG 990-91 s.v. ταράσσω 2 states, “Of mental confusion caused by false teachings ταρ. τινά Ac 15:24 (w. λόγοις foll.).”",
+        "ja": "[翻訳注] ここで BDAG 990-91 s.v. ταράσσω 2 は「偽りの教えによって引き起こされた精神的混乱について ταρ. τινά 使徒15:24（後ろに λόγοις を伴う）」と述べている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  BDAG 71 s.v. ἀνασκευάζω describes this verb with a figurative meaning: “to cause inward distress, upset, unsettle.”",
+        "ja": "[翻訳注] BDAG 71 s.v. ἀνασκευάζω は、この動詞を「心的な苦痛を引き起こす、動揺させる、混乱させる」という比喩的意味で説明している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “souls.”",
+        "ja": "[翻訳注] ギリシャ語では「魂」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “by words”; L&N 25.231 translates the phrase “they troubled and upset you by what they said.”",
+        "ja": "[翻訳注] ギリシャ語では「言葉によって」。L&N 25.231 はこの句を「彼らは語ったことによってあなたがたを困惑させ、動揺させた」と訳している。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “having become of one mind, we have decided.” This has been translated “we have unanimously decided” to reduce the awkwardness in English.",
+        "ja": "[翻訳注] ギリシャ語では「心を一つにして、私たちは決定した」。英語におけるぎこちなさを軽減するため、「私たちは一致して決定した」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  BDAG 255 s.v. δοκέω 2.b.β lists this verse under the meaning “it seems best to me, I decide, I resolve.”",
+        "ja": "[翻訳注] BDAG 255 s.v. δοκέω 2.b.β は、本節を「私にとって最善と思われる、決定する、決議する」という意味の下に挙げている。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “men who”; but this can be misleading because in English the referent could be understood to be the men sent along with Barnabas and Paul rather than Barnabas and Paul themselves. This option does not exist in the Greek original, however, since ἀνθρώποις (anqrwpoi\") is dative and must agree with “Barnabas and Paul,” while ἄνδρας (andra\") is accusative. By omitting the word “men” from the translation here, it is clear in English that the phrase refers to the immediately preceding nouns “Barnabas and Paul.”",
+        "ja": "[翻訳注] ギリシャ語では「〜した人々」。しかし英語では指示対象がバルナバとパウロ自身ではなく、彼らとともに派遣された人々であると解釈される可能性があるため、誤解を招く恐れがある。しかしギリシャ語原文では、ἀνθρώποις は与格であり「バルナバとパウロ」と一致しなければならず、一方で ἄνδρας は対格であるため、そのような解釈の余地はない。ここでの翻訳から「人々」という語を省くことで、英語においてこの句が直前の名詞「バルナバとパウロ」を指していることが明確になる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “who have risked their souls”; the equivalent English idiom is “risk one’s life.” The descriptions commend Barnabas and Paul as thoroughly trustworthy.",
+        "ja": "[翻訳注] ギリシャ語では「自分の魂を危険にさらした」。これに相当する英語の慣用句は「命をかける（risk one's life）」である。この描写はバルナバとパウロを信頼に足る人物として推薦している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”",
+        "ja": "[翻訳注] または「メシア」。「キリスト」（ギリシャ語）と「メシア」（ヘブライ語およびアラム語）はどちらも「油注がれた者」を意味する。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This verb has been translated as an epistolary aorist.",
+        "ja": "[翻訳注] この動詞は書簡のアオリストとして翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Judas and Silas were the “two witnesses” who would vouch for the truth of the recommendation.",
+        "ja": "[解説] ユダとシラスは、推薦の正しさを保証する「二人の証人」であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “by means of word” (an idiom for a verbal report).",
+        "ja": "[翻訳注] ギリシャ語では「言葉によって」（口頭報告の慣用句）。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This is the same expression translated “decided” in Acts 15:22, 25. BDAG 255 s.v. δοκέω 2.b.β lists “decide” as a possible gloss for this verse, and this translation would be consistent with the translation of the same expression in Acts 15:22, 25. However, the unusually awkward “the Holy Spirit and we have decided” would result. Given this approach, it would be more natural in English to say “We and the Holy Spirit have decided,” but changing the order removes the emphasis the Greek text gives to the Holy Spirit. Thus, although the similarity to the phrases in 15:22, 25 is obscured, it is better to use the alternate translation “it seems best to me” (also given by BDAG): “it seemed best to the Holy Spirit and to us.” Again the scope of agreement is highlighted.",
+        "ja": "[翻訳注] これは使徒の働き15章22節、25節で「決定した」と訳されているのと同じ表現である。BDAG 255 s.v. δοκέω 2.b.β は本節の可能な訳語として「決定する」を挙げており、この翻訳は15章22節、25節における同じ表現の翻訳と一貫性を持つことになる。しかし、それでは「聖霊と私たちは決定した」という不自然な表現になってしまう。この方法をとるなら、「私たちと聖霊は決定した」とする方が英語としては自然であるが、語順を変えるとギリシャ語テキストが聖霊に置いている強調が失われてしまう。したがって、15:22, 25の句との類似性は見えにくくなるものの、（BDAGによっても示されている）もう一つの翻訳である「私にとって最善と思われる」を採用し、「聖霊と私たちにとって最善と思われた」とする方がよい。ここでも合意の範囲が強調されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  L&N 71.39 translates “indispensable (rules)” while BDAG 358 s.v. ἐπάναγκες has “the necessary things.”",
+        "ja": "[翻訳注] L&N 71.39 は「不可欠な（規則）」と訳し、BDAG 358 s.v. ἐπάναγκες は「必要な事柄」としている。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  There is no specific semantic component in the Greek word εἰδωλόθυτος that means “meat” (see BDAG 280 s.v. εἰδωλόθυτος; L&N 5.15). The stem –θυτος means “sacrifice” (referring to an animal sacrificially killed) and thereby implies meat.",
+        "ja": "[翻訳注] ギリシャ語の εἰδωλόθυτος には「肉」を意味する特定の意味要素はない（BDAG 280 s.v. εἰδωλόθυτος、L&N 5.15参照）。語幹 –θυτος は「犠牲」（いけにえとして殺された動物を指す）を意味し、それによって肉を暗示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Codex Bezae (D) and a few other witnesses lack the restriction “and from what has been strangled” (καὶ πνικτῶν, kai pniktwn), though the words are supported by a wide variety of early and important witnesses otherwise and should be considered authentic.[解説]  What has been strangled. That is, to refrain from eating animals that had been killed without having the blood drained from them. According to the Mosaic law (Lev 17:13-14), Jews were forbidden to eat flesh with the blood still in it (note the preceding provision in this verse, and from blood).",
+        "ja": "[写本注] ベザ写本（D）および他の少数の証拠資料は「そして絞め殺した動物の肉を」（καὶ πνικτῶν）という制限を欠いているが、この言葉はそれ以外に初期の重要かつ多様な証拠資料によって支持されており、真正なものと見なされるべきである。[解説] 「絞め殺した動物の肉」。すなわち、血抜きをされずに殺された動物を食べることを控えること。モーセの律法（レビ記17:13-14）によれば、ユダヤ人は血が残ったままの肉を食べることを禁じられていた（本節の「そして血を」という前の規定に注目）。"
+      },
+      {
+        "pos": 3,
+        "en": "[写本注]  Codex Bezae (D) as well as 323 614 945 1739 1891 sa and other witnesses have after “sexual immorality” the following statement: “And whatever you do not want to happen to yourselves, do not do to another/others.” By adding this negative form of the Golden Rule, these witnesses effectively change the Apostolic Decree from what might be regarded as ceremonial restrictions into more ethical demands. The issues here are quite complicated, and beyond the scope of this brief note. Suffice it to say that D and its allies here are almost surely an expansion and alteration of the original text of Acts. For an excellent discussion of the exegetical and textual issues, see TCGNT 379-83.",
+        "ja": "[写本注] ベザ写本（D）および 323 614 945 1739 1891 sa などの証拠資料は、「不品行」の後に次の記述を含んでいる。「そして、自分たちに起こってほしくないことは何であれ、他の者／他者にしてはならない。」この否定形の黄金律を加えることにより、これらの証拠資料は使徒の規定を儀式的な制限と見なされるものから、より倫理的な要求へと事実上変化させている。ここでの問題は複雑であり、この短い注記の範囲を超えている。D写本とその同系統のテキストは、使徒の働きの元のテキストの加筆および改変である可能性が高いと述べるにとどめる。釈義的およびテキスト上の問題に関する優れた議論については、TCGNT 379-83 を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “from which things keeping yourselves.” Because of the length and complexity of the Greek sentence, the relative pronoun (ὧν, |wn) has been replaced by a pronoun (“these things”) and a new English sentence begun. The participle διατηροῦντες (diathrounte\") has been translated as a conditional adverbial participle (“if you keep yourselves”). See further L&N 13.153.",
+        "ja": "[翻訳注] ギリシャ語では「これらの事から自分自身を守るなら」。ギリシャ語の文の長さと複雑さのため、関係代名詞（ὧν）は代名詞（「これらの事」）に置き換えられ、新しい英語の文が始められている。分詞 διατηροῦντες は条件を表す副詞的分詞（「もしあなたがたが身を守るなら」）として翻訳されている。詳細は L&N 13.153 を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The phrase ἔρρωσθε (errwsqe) may be understood as a stock device indicating a letter is complete (“good-bye,” L&N 33.24) or as a sincere wish that the persons involved may fare well (“may you fare well,” L&N 23.133).",
+        "ja": "[翻訳注] ἔρρωσθε という句は、手紙が完了したことを示す定型表現（「さようなら」、L&N 33.24）としても、関係者が健やかに過ごすことを願う心からの願い（「ご健勝を祈る」、L&N 23.133）としても理解できる。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “sent away.”",
+        "ja": "[翻訳注] または「送り出された」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Antioch was a city in Syria (not Antioch in Pisidia).",
+        "ja": "[解説] アンティオキアはシリアの都市であった（ピシディアのアンティオキアではない）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “congregation” (referring to the group of believers).",
+        "ja": "[翻訳注] または「会衆」（信者の集まりを指す）。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “read it.” The translation “read aloud” is used to indicate the actual practice of public reading; translating as “read” could be misunderstood to mean private, silent, or individual reading.",
+        "ja": "[翻訳注] ギリシャ語では「それを読んだ」。「朗読された」という訳は、公の場での読書の実際の慣行を示すために用いられている。「読んだ」と訳すと、個人的な黙読と誤解される可能性がある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “they”; the referent (the people) is specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼らは」。わかりやすさのため、翻訳では指示対象（人々）が明示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “at its encouraging message.”",
+        "ja": "[翻訳注] または「その励ましのメッセージに」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here λόγου (logou) is singular. BDAG 599-600 s.v. λόγος 1.a.β has “in a long speech” for this phrase.",
+        "ja": "[翻訳注] ここで λόγου は単数形である。BDAG 599-600 s.v. λόγος 1.a.β は、この句について「長い講話で」としている。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And after.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] ギリシャ語では「そして〜の後に」。文や節を「そして」で始めることが多いギリシャ語の文体と、一般にそうではない英語の文体の違いにより、ここでは καί は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “there” is not in the Greek text, but is implied.",
+        "ja": "[翻訳注] 「そこで」という語はギリシャ語テキストにはないが、含意されている。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[解説]  Antioch was a city in Syria (not Antioch in Pisidia).",
+        "ja": "[解説] アンティオキアはシリアの都市であった（ピシディアのアンティオキアではない）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による補足的な注記である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The word of the Lord is a technical expression in OT literature, often referring to a divine prophetic utterance (e.g., Gen 15:1, Isa 1:10, Jonah 1:1). In the NT it occurs 15 times: 3 times as ῥῆμα τοῦ κυρίου (rJhma tou kuriou; Luke 22:61, Acts 11:16, 1 Pet 1:25) and 12 times as λόγος τοῦ κυρίου (logo\" tou kuriou; here and in v. 36; Acts 8:25; 13:44, 48, 49; 16:32; 19:10, 20; 1 Thess 1:8, 4:15; 2 Thess 3:1). As in the OT, this phrase focuses on the prophetic nature and divine origin of what has been said.",
+        "ja": "[解説] 「主の言葉」は旧約聖書文学における専門的表現であり、神的な預言の宣告を指すことが多い（例：創世記15:1、イザヤ1:10、ヨナ1:1）。新約聖書では15回現れる。ῥῆμα τοῦ κυρίου として3回（ルカ22:61、使徒11:16、ペテロ第一1:25）、λόγος τοῦ κυρίου として12回（本節および36節、使徒8:25、13:44, 48, 49、16:32、19:10, 20、テサロニケ第一1:8, 4:15、テサロニケ第二3:1）。旧約聖書と同様に、この句は語られた事柄の預言的性質と神的な起源に焦点を当てている。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Returning let us visit.” The participle ἐπιστρέψαντες (epistreyante\") has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注] ギリシャ語では「戻って訪問しよう」。分詞 ἐπιστρέψαντες は現代英語の文体の要請により定形動詞として翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  See the note on the phrase “word of the Lord” in v. 35.",
+        "ja": "[翻訳注] 35節の「主の言葉」という句に関する注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  BDAG 422 s.v. ἔχω 10.b has “how they are” for this phrase.",
+        "ja": "[翻訳注] BDAG 422 s.v. ἔχω 10.b は、この句について「彼らがどうしているか」としている。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  BDAG 94 s.v. ἀξιόω 2.a has “he insisted (impf.) that they should not take him along” for this phrase.",
+        "ja": "[翻訳注] BDAG 94 s.v. ἀξιόω 2.a は、この句について「彼を連れて行くべきではないと主張した（未完了過去）」としている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Pamphylia was a province in the southern part of Asia Minor. See Acts 13:13, where it was mentioned previously.",
+        "ja": "[解説] パンフィリアは小アジア南部の州であった。以前に言及された使徒の働き13章13節を参照。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “There happened a sharp disagreement.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.",
+        "ja": "[翻訳注] ギリシャ語では「激しい意見の対立が生じた」。ルカ文書（ルカ福音書69回、使徒の働き54回）で一般的な導入句 ἐγένετο（「〜ということが起こった」）は、現代英語では重複となるため翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  BDAG 780 s.v. παροξυσμός 2 has “sharp disagreement” here; L&N 33.451 has “sharp argument, sharp difference of opinion.”",
+        "ja": "[翻訳注] BDAG 780 s.v. παροξυσμός 2 はここに「激しい不一致」を挙げ、L&N 33.451 は「激しい議論、激しい意見の相違」を挙げている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “taking along Mark sailed.” The participle παραλαβόντα (paralabonta) has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注] ギリシャ語では「マルコを連れて船出した」。分詞 παραλαβόντα は現代英語の文体の要請により定形動詞として翻訳されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Cyprus is a large island in the Mediterranean off the south coast of Asia Minor.",
+        "ja": "[解説] キプロスは小アジア南岸沖の地中海にある大きな島である。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “committed.” BDAG 762 s.v. παραδίδωμι 2 gives “be commended by someone to the grace of the Lord” as the meaning for this phrase, although “give over” and “commit” are listed as alternatives for this category.",
+        "ja": "[翻訳注] または「委ねられた」。BDAG 762 s.v. παραδίδωμι 2 はこの句の意味として「誰かによって主の恵みに委ねられる」を挙げているが、「引き渡す」「委託する」もこの範疇の代替として挙げられている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “by the brothers.” Here it it is highly probable that the entire congregation is in view, not just men, so the translation “brothers and sisters” has been used for the plural ἀδελφῶν (adelfwn),.",
+        "ja": "[翻訳注] ギリシャ語では「兄弟たちによって」。ここでは男性だけでなく会衆全体が視野に入っている可能性が高いため、複数形の ἀδελφῶν に対して「兄弟姉妹」という訳が用いられている。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[解説]  Strengthening. See Acts 14:22; 15:32; 18:23.",
+        "ja": "[解説] 「力づけた」。使徒の働き14:22、15:32、18:23を参照。"
+      }
+    ]
+  }
+}

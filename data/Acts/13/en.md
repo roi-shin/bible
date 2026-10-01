@@ -1,0 +1,679 @@
+# Acts 13 (English)
+
+## Text
+
+**1** Now there were these prophets and teachers in the church at Antioch: Barnabas, Simeon called Niger, Lucius the Cyrenian, Manaen (a close friend of Herod the tetrarch from childhood) and Saul. 
+
+**2** While they were serving the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 
+
+**3** Then, after they had fasted and prayed and placed their hands on them, they sent them off. 
+
+**4** So Barnabas and Saul, sent out by the Holy Spirit, went down to Seleucia, and from there they sailed to Cyprus. 
+
+**5** When they arrived in Salamis, they began to proclaim the word of God in the Jewish synagogues. (Now they also had John as their assistant.) 
+
+**6** When they had crossed over the whole island as far as Paphos, they found a magician, a Jewish false prophet named Bar-Jesus, 
+
+**7** who was with the proconsul Sergius Paulus, an intelligent man. The proconsul summoned Barnabas and Saul and wanted to hear the word of God. 
+
+**8** But the magician Elymas (for that is the way his name is translated) opposed them, trying to turn the proconsul away from the faith. 
+
+**9** But Saul (also known as Paul), filled with the Holy Spirit, stared straight at him 
+
+**10** and said, “You who are full of all deceit and all wrongdoing, you son of the devil, you enemy of all righteousness—will you not stop making crooked the straight paths of the Lord? 
+
+**11** Now look, the hand of the Lord is against you, and you will be blind, unable to see the sun for a time!” Immediately mistiness and darkness came over him, and he went around seeking people to lead him by the hand. 
+
+**12** Then when the proconsul saw what had happened, he believed because he was greatly astounded at the teaching about the Lord. 
+
+**13** Then Paul and his companions put out to sea from Paphos and came to Perga in Pamphylia, but John left them and returned to Jerusalem. 
+
+**14** Moving on from Perga, they arrived at Pisidian Antioch, and on the Sabbath day they went into the synagogue and sat down. 
+
+**15** After the reading from the law and the prophets, the leaders of the synagogue sent them a message, saying, “Brothers, if you have any message of exhortation for the people, speak it.”
+
+**16** So Paul stood up, gestured with his hand and said,“Men of Israel, and you Gentiles who fear God, listen: 
+
+**17** The God of this people Israel chose our ancestors and made the people great during their stay as foreigners in the country of Egypt, and with uplifted arm he led them out of it. 
+
+**18** For a period of about forty years he put up with them in the wilderness. 
+
+**19** After he had destroyed seven nations in the land of Canaan, he gave his people their land as an inheritance. 
+
+**20** All this took about 450 years. After this he gave them judges until the time of Samuel the prophet. 
+
+**21** Then they asked for a king, and God gave them Saul son of Kish, a man from the tribe of Benjamin, who ruled forty years. 
+
+**22** After removing him, God raised up David their king. He testified about him: ‘<b>I have found David</b> the son of Jesse <b>to be a man after my heart</b>, who will accomplish everything I want him to do.’
+
+**23** From the descendants of this man God brought to Israel a Savior, Jesus, just as he promised. 
+
+**24** Before Jesus arrived, John had proclaimed a baptism for repentance to all the people of Israel. 
+
+**25** But while John was completing his mission, he said repeatedly, ‘What do you think I am? I am not he. But look, one is coming after me. I am not worthy to untie the sandals on his feet!’ 
+
+**26** Brothers, descendants of Abraham’s family, and those Gentiles among you who fear God, the message of this salvation has been sent to us. 
+
+**27** For the people who live in Jerusalem and their rulers did not recognize him, and they fulfilled the sayings of the prophets that are read every Sabbath by condemning him.
+
+**28** Though they found no basis for a death sentence, they asked Pilate to have him executed. 
+
+**29** When they had accomplished everything that was written about him, they took him down from the cross and placed him in a tomb. 
+
+**30** But God raised him from the dead, 
+
+**31** and for many days he appeared to those who had accompanied him from Galilee to Jerusalem. These are now his witnesses to the people. 
+
+**32** And we proclaim to you the good news about the promise to our ancestors, 
+
+**33** that this promise God has fulfilled to us, their children, by raising Jesus, as also it is written in the second psalm, ‘<b>You are my Son;</b> <b>today I have fathered you</b>.’ 
+
+**34** But regarding the fact that he has raised Jesus from the dead, never again to be in a state of decay, God has spoken in this way: ‘<b>I will give you</b> <b>the holy and trustworthy promises</b> <b>made to David</b>.’ 
+
+**35** Therefore he also says in another psalm, ‘<b>You will not permit your Holy One</b> <b>to experience</b> <b>decay</b>.’
+
+**36** For David, after he had served God’s purpose in his own generation, died, was buried with his ancestors, and experienced decay, 
+
+**37** but the one whom God raised up did not experience decay. 
+
+**38** Therefore let it be known to you, brothers, that through this one forgiveness of sins is proclaimed to you, 
+
+**39** and by this one everyone who believes is justified from everything from which the law of Moses could not justify you.
+
+**40** Watch out, then, that what is spoken about by the prophets does not happen to you:
+
+**41** ‘<b>Look, you scoffers; be amazed and perish!</b> <b>For I am doing a work in your days,</b><b>a work you would never believe, even if someone tells you</b>.’” 
+
+**42** As Paul and Barnabas were going out, the people were urging them to speak about these things on the next Sabbath. 
+
+**43** When the meeting of the synagogue had broken up, many of the Jews and God-fearing proselytes followed Paul and Barnabas, who were speaking with them and were persuading them to continue in the grace of God. 
+
+**44** On the next Sabbath almost the whole city assembled together to hear the word of the Lord. 
+
+**45** But when the Jews saw the crowds, they were filled with jealousy, and they began to contradict what Paul was saying by reviling him.
+
+**46** Both Paul and Barnabas replied courageously, “It was necessary to speak the word of God to you first. Since you reject it and do not consider yourselves worthy of eternal life, we are turning to the Gentiles. 
+
+**47** For this is what the Lord has commanded us: ‘I have appointed you to be a light for the Gentiles, to bring salvation to the ends of the earth.’” 
+
+**48** When the Gentiles heard this, they began to rejoice and praise the word of the Lord, and all who had been appointed for eternal life believed. 
+
+**49** So the word of the Lord was spreading through the entire region. 
+
+**50** But the Jews incited the God-fearing women of high social standing and the prominent men of the city, stirred up persecution against Paul and Barnabas, and threw them out of their region. 
+
+**51** So after they shook the dust off their feet in protest against them, they went to Iconium. 
+
+**52** And the disciples were filled with joy and with the Holy Spirit. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  Antioch was a city in Syria (not Antioch in Pisidia).[地図]  For location see JP1-F2; JP2-F2; JP3-F2; JP4-F2.
+
+### Verse 1 - Note 2
+[解説]  Simeon may well have been from North Africa, since the Latin loanword Niger refers to someone as “dark-complexioned.”
+
+### Verse 1 - Note 3
+[解説]  The Cyrenian refers to a native of the city of Cyrene, on the coast of northern Africa west of Egypt.
+
+### Verse 1 - Note 4
+[解説]  Herod is generally taken as a reference to Herod Antipas, who governed Galilee from 4 b.c. to a.d. 39, who had John the Baptist beheaded, and who is mentioned a number of times in the gospels.
+
+### Verse 1 - Note 5
+[翻訳注]  Or “the governor.”[解説]  A tetrarch was a ruler with rank and authority lower than a king, who ruled only with the approval of the Roman authorities. This was roughly equivalent to being governor of a region. Several times in the NT, Herod tetrarch of Galilee is called a king (Matt 14:9, Mark 6:14-29), reflecting popular usage.
+
+### Verse 1 - Note 6
+[翻訳注]  Or “(a foster brother of Herod the tetrarch).” The meaning “close friend from childhood” is given by L&N 34.15, but the word can also mean “foster brother” (L&N 10.51). BDAG 976 s.v. σύντροφας states, “pert. to being brought up with someone, either as a foster-brother or as a companion/friend,” which covers both alternatives. Context does not given enough information to be certain which is the case here, although many modern translations prefer the meaning “close friend from childhood.”
+
+### Verse 2 - Note 1
+[翻訳注]  This term is frequently used in the LXX of the service performed by priests and Levites in the tabernacle (Exod 28:35, 43; 29:30; 30:20; 35:19; 39:26; Num 1:50; 3:6, 31) and the temple (2 Chr 31:2; 35:3; Joel 1:9, 13; 2:17, and many more examples). According to BDAG 591 s.v. λειτουργέω 1.b it is used “of other expression of religious devotion.” Since the previous verse described the prophets and teachers in the church at Antioch, it is probable that the term here describes two of them (Barnabas and Saul) as they were serving in that capacity. Since they were not in Jerusalem where the temple was located, general religious service is referred to here.
+
+### Verse 2 - Note 2
+[翻訳注]  Or “Appoint.”
+
+### Verse 3 - Note 1
+[翻訳注]  The three aorist participles νηστεύσαντες (nhsteusante"), προσευξάμενοι (proseuxamenoi), and ἐπιθέντες (epiqente") are translated as temporal participles. Although they could indicate contemporaneous time when used with an aorist main verb, logically here they are antecedent. On fasting and prayer, see Matt 6:5, 16; Luke 2:37; 5:33; Acts 14:23.
+
+### Verse 3 - Note 2
+[翻訳注]  Normally English style, which uses a coordinating conjunction between only the last two elements of a series of three or more, would call for omission of “and” here. However, since the terms “fasting and prayer” are something of a unit, often linked together, the conjunction has been retained here.
+
+### Verse 3 - Note 3
+[解説]  The placing of hands on Barnabas and Saul (traditionally known as “the laying on of hands”) refers to an act picturing the commission of God and the church for the task at hand.
+
+### Verse 4 - Note 1
+[翻訳注]  Grk “they”; the referents (Barnabas and Saul) have been specified in the translation for clarity.
+
+### Verse 4 - Note 2
+[解説]  Seleucia was the port city of Antioch in Syria.
+
+### Verse 4 - Note 3
+[解説]  Cyprus was a large island in the Mediterranean off the south coast of Asia Minor.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “And when.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 5 - Note 2
+[翻訳注]  The participle γενόμενοι (genomenoi) is taken temporally.
+
+### Verse 5 - Note 3
+[解説]  Salamis was a city on the southeastern coast of the island of Cyprus. This was a commercial center and a center of Judaism.
+
+### Verse 5 - Note 4
+[翻訳注]  The imperfect verb κατήγγελλον (kathngellon) has been translated as an ingressive imperfect.
+
+### Verse 5 - Note 5
+[解説]  See the note on synagogue in 6:9.
+
+### Verse 5 - Note 6
+[解説]  John refers here to John Mark (see Acts 12:25).
+
+### Verse 5 - Note 7
+[翻訳注]  The word ὑπηρέτης (Juphreth") usually has the meaning “servant,” but it is doubtful John Mark fulfilled that capacity for Barnabas and Saul. He was more likely an apprentice or assistant to them.[解説]  This is a parenthetical note by the author.
+
+### Verse 6 - Note 1
+[翻訳注]  Or “had passed through,” “had traveled through.”
+
+### Verse 6 - Note 2
+[解説]  Paphos. A city on the southwestern coast of the island of Cyprus. It was the seat of the Roman proconsul.
+
+### Verse 6 - Note 3
+[解説]  Named Bar-Jesus. “Jesus” is the Latin form of the name “Joshua.” The Aramaic “bar” means “son of,” so this man was surnamed “son of Joshua.” The scene depicts the conflict between Judaism and the emerging new faith at a cosmic level, much like the Simon Magus incident in Acts 8:9-24. Paul’s ministry looks like Philip’s and Peter’s here.
+
+### Verse 7 - Note 1
+[解説]  The proconsul was the Roman official who ruled over a province traditionally under the control of the Roman senate.
+
+### Verse 7 - Note 2
+[翻訳注]  Grk “This one”; the referent (the proconsul) is specified in the translation for clarity.
+
+### Verse 7 - Note 3
+[翻訳注]  Grk “summoning Barnabas and Saul, wanted to hear.” The participle προσκαλεσάμενος (proskalesameno") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 7 - Note 4
+[解説]  The proconsul…wanted to hear the word of God. This description of Sergius Paulus portrays him as a sensitive, secular Gentile leader.
+
+### Verse 8 - Note 1
+[翻訳注]  On the debate over what the name “Elymas” means, see BDAG 320 s.v. ᾿Ελύμας. The magician’s behavior is more directly opposed to the faith than Simon Magus’ was.
+
+### Verse 8 - Note 2
+[解説]  A parenthetical note by the author.
+
+### Verse 8 - Note 3
+[解説]  The proconsul was the Roman official who ruled over a province traditionally under the control of the Roman senate.
+
+### Verse 9 - Note 1
+[解説]  A parenthetical note by the author.
+
+### Verse 9 - Note 2
+[解説]  This qualifying clause in the narrative indicates who represented God in the dispute.
+
+### Verse 9 - Note 3
+[翻訳注]  Or “gazed intently.”
+
+### Verse 10 - Note 1
+[翻訳注]  Or “unscrupulousness.”
+
+### Verse 10 - Note 2
+[解説]  “You who…paths of the Lord?” This rebuke is like ones from the OT prophets: Jer 5:27; Gen 32:11; Prov 10:7; Hos 14:9. Five separate remarks indicate the magician’s failings. The closing rhetorical question of v. 10 (“will you not stop…?”) shows how opposed he is to the way of God.
+
+### Verse 11 - Note 1
+[翻訳注]  Grk “And now.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 11 - Note 2
+[翻訳注]  Grk “upon,” but in a negative sense.
+
+### Verse 11 - Note 3
+[解説]  The term translated mistiness here appears in the writings of the physician Galen as a medical technical description of a person who is blind. The picture of judgment to darkness is symbolic as well. Whatever power Elymas had, it represented darkness. Magic will again be an issue in Acts 19:18-19. This judgment is like that of Ananias and his wife in Acts 5:1-11.
+
+### Verse 11 - Note 4
+[翻訳注]  Grk “fell on.”
+
+### Verse 11 - Note 5
+[翻訳注]  The noun χειραγωγός (ceiragwgo") is plural, so “people” is used rather than singular “someone.”
+
+### Verse 12 - Note 1
+[解説]  See the note on proconsul in v. 8.
+
+### Verse 12 - Note 2
+[解説]  He believed. The faith of the proconsul in the face of Jewish opposition is a theme of the rest of Acts. Paul has indeed become “a light to the Gentiles” (Acts 13:47).
+
+### Verse 12 - Note 3
+[翻訳注]  The translation “greatly astounded” for ἐκπλησσόμενος (ekplhssomeno") is given by L&N 25.219.
+
+### Verse 12 - Note 4
+[翻訳注]  Grk “of,” but this could give the impression the Lord himself had done the teaching (a subjective genitive) when actually the Lord was the object of the teaching (an objective genitive).
+
+### Verse 13 - Note 1
+[翻訳注]  BDAG 62 s.v. ἀνάγω 4, “as a nautical t.t. (ἀ. τὴν ναῦν put a ship to sea), mid. or pass. ἀνάγεσθαι to begin to go by boat, put out to sea.”
+
+### Verse 13 - Note 2
+[解説]  Paphos was a city on the southwestern coast of the island of Cyprus. See Acts 13:6.
+
+### Verse 13 - Note 3
+[解説]  Perga was a city in Pamphylia near the southern coast of Asia Minor. The journey from Paphos to Perga is about 105 mi (175 km).
+
+### Verse 13 - Note 4
+[解説]  Pamphylia was a province in the southern part of Asia Minor.
+
+### Verse 13 - Note 5
+[解説]  That is, John Mark.
+
+### Verse 13 - Note 6
+[解説]  Returned to Jerusalem. John Mark had originally accompanied them from Jerusalem (see Acts 12:25). John Mark’s decision to leave became an issue later for Barnabas and Paul (Acts 15:36-39).[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 14 - Note 1
+[翻訳注]  Or “Passing by.”
+
+### Verse 14 - Note 2
+[解説]  Perga was a city in Pamphylia near the southern coast of Asia Minor.
+
+### Verse 14 - Note 3
+[翻訳注]  Or “at Antioch in Pisidia.”[解説]  Pisidian Antioch was a city in Pisidia about 100 mi (160 km) north of Perga. It was both a Roman colony and the seat of military and civil authority in S. Galatia. One had to trek over the Taurus Mountains to get there, since the city was 3,600 ft (1,100 m) above sea level.[地図]  For location see JP1-E2; JP2-E2; JP3-E2; JP4-E2.
+
+### Verse 14 - Note 4
+[翻訳注]  Grk “going into the synagogue they sat down.” The participle εἰσελθόντες (eiselqonte") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 14 - Note 5
+[解説]  See the note on synagogue in 6:9.
+
+### Verse 15 - Note 1
+[解説]  After the reading from the law and the prophets. In the 1st century Jewish synagogue, it was customary after the reading of the Torah (law) and prophets for men to give exhortation from the scriptures.
+
+### Verse 15 - Note 2
+[翻訳注]  Normally ἀρχισυνάγωγος (arcisunagwgo") refers to the “president of a synagogue” (so BDAG 139 s.v. and L&N 53.93). Since the term is plural here, however, and it would sound strange to the English reader to speak of “the presidents of the synagogue,” the alternative translation “leaders” is used. “Rulers” would also be acceptable, but does not convey quite the same idea.
+
+### Verse 15 - Note 3
+[翻訳注]  Grk “sent to them”; the word “message” is an understood direct object. Direct objects in Greek were often omitted when clear from the context, but must be supplied for the modern English reader.
+
+### Verse 15 - Note 4
+[翻訳注]  Grk “Men brothers,” but this is both awkward and unnecessary in English.
+
+### Verse 15 - Note 5
+[翻訳注]  Or “word.”
+
+### Verse 15 - Note 6
+[翻訳注]  Or “encouragement.”
+
+### Verse 15 - Note 7
+[翻訳注]  Or “give it.”
+
+### Verse 16 - Note 1
+[翻訳注]  This participle, ἀναστάς (anasta"), and the following one, κατασείσας (kataseisa"), are both translated as adverbial participles of attendant circumstance.
+
+### Verse 16 - Note 2
+[翻訳注]  Or “motioned.”
+
+### Verse 16 - Note 3
+[翻訳注]  Or “Israelite men,” although this is less natural English. The Greek term here is ἀνήρ (anhr), which only exceptionally is used in a generic sense of both males and females. In this context involving an address to a synagogue gathering, it is conceivable that this is a generic usage, although it can also be argued that Paul’s remarks were addressed primarily to the men present, even if women were there.
+
+### Verse 16 - Note 4
+[翻訳注]  Grk “and those who fear God,” but this is practically a technical term for the category called God-fearers, Gentiles who worshiped the God of Israel and in many cases kept the Mosaic law, but did not take the final step of circumcision necessary to become a proselyte to Judaism. See further K. G. Kuhn, TDNT 6:732-34, 743-44.
+
+### Verse 17 - Note 1
+[翻訳注]  Or “people of Israel.”
+
+### Verse 17 - Note 2
+[翻訳注]  Or “forefathers”; Grk “fathers.”[解説]  Note how Paul identifies with his audience by referring to our ancestors. He speaks as a Jew. God’s design in history is the theme of the speech. The speech is like Stephen’s, only here the focus is on a promised Son of David.
+
+### Verse 17 - Note 3
+[翻訳注]  That is, in both numbers and in power. The implication of greatness in both numbers and in power is found in BDAG 1046 s.v. ὑψόω 2.
+
+### Verse 17 - Note 4
+[翻訳注]  Or “as resident aliens.”
+
+### Verse 17 - Note 5
+[翻訳注]  Or “land.”
+
+### Verse 17 - Note 6
+[解説]  Here uplifted arm is a metaphor for God’s power by which he delivered the Israelites from Egypt. See Exod 6:1, 6; 32:11; Deut 3:24; 4:34; Ps 136:11-12.
+
+### Verse 18 - Note 1
+[翻訳注]  Grk “And for.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 18 - Note 2
+[翻訳注]  For this verb, see BDAG 1017 s.v. τροποφορέω (cf. also Deut 1:31; Exod 16:35; Num 14:34).
+
+### Verse 18 - Note 3
+[翻訳注]  Or “desert.”
+
+### Verse 19 - Note 1
+[翻訳注]  Grk “And after.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 19 - Note 2
+[翻訳注]  The participle καθελών (kaqelwn) is taken temporally.
+
+### Verse 19 - Note 3
+[解説]  Seven nations. See Deut 7:1.
+
+### Verse 19 - Note 4
+[翻訳注]  Grk “he gave their land as an inheritance.” The words “his people” are supplied to complete an ellipsis specifying the recipients of the land.
+
+### Verse 20 - Note 1
+[翻訳注]  The words “all this took” are not in the Greek text, but are supplied to make a complete statement in English. There is debate over where this period of 450 years fits and what it includes: (1) It could include the years in Egypt, the conquest of Canaan, and the distribution of the land; (2) some connect it with the following period of the judges. This latter approach seems to conflict with 1 Kgs 6:1; see also Josephus, Ant. 8.3.1 (8.61).
+
+### Verse 20 - Note 2
+[翻訳注]  Grk “And after these things.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 20 - Note 3
+[翻訳注]  The words “the time of” are not in the Greek text, but are implied.
+
+### Verse 21 - Note 1
+[翻訳注]  The words “who ruled” are not in the Greek text, but are implied. They have been supplied as a clarification for the English reader. See Josephus, Ant. 6.14.9 (6.378).
+
+### Verse 22 - Note 1
+[翻訳注]  Grk “he”; the referent (God) has been specified in the translation for clarity.
+
+### Verse 22 - Note 2
+[解説]  The expression raised up refers here to making someone king. There is a wordplay here: “raising up” refers to bringing someone onto the scene of history, but it echoes with the parallel to Jesus’ resurrection.
+
+### Verse 22 - Note 3
+[翻訳注]  Grk “about whom.” The relative pronoun (“whom”) was replaced by the pronoun “him” and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek. The verb εἶπεν (eipen) has not been translated (literally “he said testifying”) because it is redundant when combined with the participle μαρτυρήσας (marturhsa", “testifying”). Instead the construction of verb plus participle has been translated as a single English verb (“testified”).
+
+### Verse 22 - Note 4
+[解説]  A quotation from Ps 89:20.
+
+### Verse 22 - Note 5
+[解説]  A quotation from 1 Sam 13:14.
+
+### Verse 22 - Note 6
+[翻訳注]  Or “who will perform all my will,” “who will carry out all my wishes.”
+
+### Verse 23 - Note 1
+[翻訳注]  Or “From the offspring”; Grk “From the seed.”[解説]  From the descendants (Grk “seed”). On the importance of the seed promise involving Abraham, see Gal 3:6-29.
+
+### Verse 23 - Note 2
+[解説]  The phrase this man is in emphatic position in the Greek text.
+
+### Verse 23 - Note 3
+[翻訳注]  Grk “according to [his] promise.” The comparative clause “just as he promised” is less awkward in English.[解説]  Just as he promised. Note how Paul describes Israel’s history carefully to David and then leaps forward immediately to Jesus. Paul is expounding the initial realization of Davidic promise as it was delivered in Jesus.
+
+### Verse 24 - Note 1
+[翻訳注]  Grk “John having already proclaimed before his coming a baptism…,” a genitive absolute construction which is awkward in English. A new sentence was begun in the translation at this point.
+
+### Verse 24 - Note 2
+[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the context for clarity, since God is mentioned in the preceding context and John the Baptist in the following clause.
+
+### Verse 24 - Note 3
+[解説]  John refers here to John the Baptist.
+
+### Verse 24 - Note 4
+[翻訳注]  Grk “a baptism of repentance”; the genitive has been translated as a genitive of purpose.
+
+### Verse 25 - Note 1
+[翻訳注]  Or “task.”
+
+### Verse 25 - Note 2
+[翻訳注]  The verb ἔλεγεν (elegen) has been translated as an iterative imperfect, since John undoubtedly said this or something similar on numerous occasions.
+
+### Verse 25 - Note 3
+[翻訳注]  Literally a relative clause, “of whom I am not worthy to untie the sandals of his feet.” Because of the awkwardness of this construction in English, a new sentence was begun here.
+
+### Verse 26 - Note 1
+[翻訳注]  Grk “Men brothers,” but this is both awkward and unnecessary in English.
+
+### Verse 26 - Note 2
+[翻訳注]  Grk “sons”
+
+### Verse 26 - Note 3
+[翻訳注]  Or “race.”
+
+### Verse 26 - Note 4
+[翻訳注]  Grk “and those among you who fear God,” but this is practically a technical term for the category called God-fearers, Gentiles who worshiped the God of Israel and in many cases kept the Mosaic law, but did not take the final step of circumcision necessary to become a proselyte to Judaism. See further K. G. Kuhn, TDNT 6:732-34, 743-44. Note how Paul includes God-fearing Gentiles as recipients of this promise.
+
+### Verse 26 - Note 5
+[翻訳注]  Grk “word.”
+
+### Verse 27 - Note 1
+[翻訳注]  BDAG 12-13 s.v. ἀγνοέω 1.b gives “not to know w. acc. of pers.” as the meaning here, but “recognize” is a better translation in this context because recognition of the true identity of the one they condemned is the issue. See Acts 2:22-24; 4:26-28.
+
+### Verse 27 - Note 2
+[翻訳注]  Grk “this one.”
+
+### Verse 27 - Note 3
+[翻訳注]  Usually φωνή (fwnh) means “voice,” but BDAG 1071-72 s.v. φωνή 2.c has “Also of sayings in scripture…Ac 13:27.”[解説]  They fulfilled the sayings. The people in Jerusalem and the Jewish rulers should have known better, because they had the story read to them weekly in the synagogue.
+
+### Verse 27 - Note 4
+[翻訳注]  The participle κρίναντες (krinante") is instrumental here.
+
+### Verse 27 - Note 5
+[翻訳注]  The word “him” is not in the Greek text but is implied. Direct objects were often omitted in Greek when clear from the context, but must be supplied for the modern English reader.
+
+### Verse 28 - Note 1
+[翻訳注]  Grk “And though.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.
+
+### Verse 28 - Note 2
+[翻訳注]  The participle εὑρόντες (Jeuronte") has been translated as a concessive adverbial participle.
+
+### Verse 28 - Note 3
+[解説]  No basis. Luke insists on Jesus’ innocence again and again in Luke 23:1-25.
+
+### Verse 28 - Note 4
+[翻訳注]  Grk “no basis for death,” but in this context a sentence of death is clearly indicated.
+
+### Verse 29 - Note 1
+[翻訳注]  Or “carried out.”
+
+### Verse 29 - Note 2
+[解説]  That is, everything that was written in OT scripture.
+
+### Verse 29 - Note 3
+[翻訳注]  Grk “taking him down from the cross, they placed him.” The participle καθελόντες (kaqelonte") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 29 - Note 4
+[翻訳注]  Grk “tree,” but frequently figurative for a cross. The allusion is to Deut 21:23. See Acts 5:30; 10:39.
+
+### Verse 29 - Note 5
+[翻訳注]  The word “him” is not in the Greek text but is implied. Direct objects were often omitted in Greek when clear from the context, but must be supplied for the modern English reader.
+
+### Verse 30 - Note 1
+[解説]  See the note on the phrase “raised up” in v. 22, which is the same Greek verb used here.
+
+### Verse 31 - Note 1
+[翻訳注]  Grk “who.” The relative pronoun (“who”) was replaced by the conjunction “and” and the pronoun “he” at this point to improve the English style.
+
+### Verse 31 - Note 2
+[解説]  Those who had accompanied him refers to the disciples, who knew Jesus in ministry. Luke is aware of resurrection appearances in Galilee though he did not relate any of them in .
+
+### Verse 31 - Note 3
+[翻訳注]  Grk “who.” The relative pronoun (“who”) was replaced by the demonstrative pronoun “these” and a new sentence was begun in the translation at this point to improve the English style, due to the length of the sentence in Greek and the awkwardness of two relative clauses (“who for many days appeared” and “who are now his witnesses”) following one another.
+
+### Verse 32 - Note 1
+[翻訳注]  Or “to our forefathers”; Grk “the fathers.”
+
+### Verse 33 - Note 1
+[翻訳注]  Grk “that this”; the referent (the promise mentioned in the previous verse) has been specified in the translation for clarity.[解説]  This promise refers to the promise of a Savior through the seed (descendants) of David that is proclaimed as fulfilled (Rom 1:1-7).
+
+### Verse 33 - Note 2
+[翻訳注]  Or “by resurrecting.” The participle ἀναστήσας (anasthsa") is taken as instrumental here.[解説]  By raising (i.e., by resurrection) tells how this promise came to be realized, though again the wordplay also points to his presence in history through this event (see the note on “raised up” in v. 22).
+
+### Verse 33 - Note 3
+[解説]  You are my Son. The key to how the quotation is used is the naming of Jesus as “Son” to the Father. The language is that of kingship, as  indicates. Here is the promise about what the ultimate Davidic heir would be.
+
+### Verse 33 - Note 4
+[翻訳注]  Grk “I have begotten you.” The traditional translation for γεγέννηκα (gegennhka, “begotten”) is misleading to the modern English reader because it is no longer in common use. Today one speaks of “fathering” a child in much the same way speakers of English formerly spoke of “begetting a child.”[解説]  A quotation from Ps 2:7.
+
+### Verse 34 - Note 1
+[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.
+
+### Verse 34 - Note 2
+[翻訳注]  Although μηκέτι (mhketi) can mean “no longer” or “no more,” the latter is more appropriate here, since to translate “no longer” in this context could give the reader the impression that Jesus did experience decay before his resurrection. Since the phrase “no more again to be” is somewhat awkward in English, the simpler phrase “never again to be” was used instead.
+
+### Verse 34 - Note 3
+[翻訳注]  The translation “to be in again” for ὑποστρέφω (Jupostrefw) is given in L&N 13.24.
+
+### Verse 34 - Note 4
+[翻訳注]  Grk “he”; the referent (God) has been specified in the translation for clarity.
+
+### Verse 34 - Note 5
+[翻訳注]  The pronoun “you” is plural here. The promises of David are offered to the people.
+
+### Verse 34 - Note 6
+[翻訳注]  Or “the trustworthy decrees made by God to David.” The phrase τὰ ὅσια Δαυὶδ τὰ πιστά (ta Josia Dauid ta pista) is “compressed,” that is, in a very compact or condensed form. It could be expanded in several different ways. BDAG 728 s.v. ὅσιος 3 understands it to refer to divine decrees: “I will grant you the sure decrees of God relating to David.” BDAG then states that this quotation from Isa 55:3 is intended to show that the following quotation from Ps 16:10 could not refer to David himself, but must refer to his messianic descendant (Jesus). L&N 33.290 render the phrase “I will give to you the divine promises made to David, promises that can be trusted,” although they also note that τὰ ὅσια in Acts 13:34 can mean “divine decrees” or “decrees made by God.” In contemporary English it is less awkward to translate πιστά as an adjective (“trustworthy”). The concept of “divine decrees,” not very understandable to the modern reader, has been replaced by “promises,” and since God is the implied speaker in the context, it is clear that these promises were made by God.
+
+### Verse 34 - Note 7
+[解説]  A quotation from Isa 55:3. The point of this citation is to make clear that the promise of a Davidic line and blessings are made to the people as well.
+
+### Verse 35 - Note 1
+[翻訳注]  Grk “Therefore he also says in another”; the word “psalm” is not in the Greek text but is implied.
+
+### Verse 35 - Note 2
+[翻訳注]  The Greek word translated “Holy One” here (ὅσιόν, {osion) is related to the use of ὅσια (Josia) in v. 34. The link is a wordplay. The Holy One, who does not die, brings the faithful holy blessings of promise to the people.
+
+### Verse 35 - Note 3
+[翻訳注]  Grk “to see,” but the literal translation of the phrase “to see decay” could be misunderstood to mean simply “to look at decay,” while here “see decay” is really figurative for “experience decay.”
+
+### Verse 35 - Note 4
+[解説]  A quotation from Ps 16:10.
+
+### Verse 36 - Note 1
+[翻訳注]  The participle ὑπηρετήσας (Juphrethsa") is taken temporally.
+
+### Verse 36 - Note 2
+[翻訳注]  The verb κοιμάω (koimaw) literally means “sleep,” but it is often used in the Bible as a euphemism for the death of a believer.
+
+### Verse 36 - Note 3
+[翻訳注]  Or “forefathers”; Grk “was gathered to his fathers” (a Semitic idiom).
+
+### Verse 36 - Note 4
+[翻訳注]  Grk “saw,” but the literal translation of the phrase “saw decay” could be misunderstood to mean simply “looked at decay,” while here “saw decay” is really figurative for “experienced decay.” This remark explains why David cannot fulfill the promise.
+
+### Verse 37 - Note 1
+[解説]  The one whom God raised up refers to Jesus.
+
+### Verse 37 - Note 2
+[翻訳注]  Grk “see,” but the literal translation of the phrase “did not see decay” could be misunderstood to mean simply “did not look at decay,” while here “did not see decay” is really figurative for “did not experience decay.”
+
+### Verse 38 - Note 1
+[翻訳注]  That is, Jesus. This pronoun is in emphatic position in the Greek text. Following this phrase in the Greek text is the pronoun ὑμῖν (Jumin, “to you”), so that the emphasis for the audience is that “through Jesus to you” these promises have come.
+
+### Verse 39 - Note 1
+[解説]  This one refers here to Jesus.
+
+### Verse 39 - Note 2
+[翻訳注]  Or “is freed.” The translation of δικαιωθῆναι (dikaiwqhnai) and δικαιοῦται (dikaioutai) in Acts 13:38-39 is difficult. BDAG 249 s.v. δικαιόω 3 categorizes δικαιωθῆναι in 13:38 (Greek text) under the meaning “make free/pure” but categorizes δικαιοῦται in Acts 13:39 as “be found in the right, be free of charges” (BDAG 249 s.v. δικαιόω 2.b.β). In the interest of consistency both verbs are rendered as “justified” in this translation.
+
+### Verse 39 - Note 3
+[翻訳注]  Or “could not free.”
+
+### Verse 39 - Note 4
+[翻訳注]  Grk “from everything from which you could not be justified by the law of Moses.” The passive construction has been converted to an active one in the translation, with “by the law of Moses” becoming the subject of the final clause. The words “from everything from which the law of Moses could not justify you” are part of v. 38 in the Greek text, but due to English style and word order must be placed in v. 39 in the translation.
+
+### Verse 40 - Note 1
+[解説]  The speech closes with a warning, “Watch out,” that also stresses culpability.
+
+### Verse 40 - Note 2
+[翻訳注]  Or “in.”
+
+### Verse 41 - Note 1
+[翻訳注]  Or “and die!”
+
+### Verse 41 - Note 2
+[解説]  A quotation from Hab 1:5. The irony in the phrase even if someone tells you, of course, is that Paul has now told them. So the call in the warning is to believe or else face the peril of being scoffers whom God will judge. The parallel from Habakkuk is that the nation failed to see how Babylon’s rising to power meant perilous judgment for Israel.
+
+### Verse 42 - Note 1
+[翻訳注]  Grk “they”; the referents (Paul and Barnabas) have been specified in the translation for clarity.
+
+### Verse 42 - Note 2
+[翻訳注]  Or “were leaving.” The participle ἐξιόντων (exiontwn) is taken temporally.
+
+### Verse 42 - Note 3
+[翻訳注]  Grk “they”; the referent (the people) has been specified in the translation for clarity.
+
+### Verse 42 - Note 4
+[翻訳注]  Or “begging,” “inviting.”
+
+### Verse 42 - Note 5
+[翻訳注]  Or “matters.”
+
+### Verse 43 - Note 1
+[解説]  See the note on synagogue in 6:9.
+
+### Verse 43 - Note 2
+[翻訳注]  BDAG 607 s.v. λύω 3 has “λυθείσης τ. συναγωγῆς when the meeting of the synagogue had broken up Ac 13:43.”
+
+### Verse 43 - Note 3
+[翻訳注]  Normally the phrase σεβόμενοι τὸν θεόν (sebomenoi ton qeon) refers to Gentiles (“God-fearers”) who believed in God, attended the synagogue, and followed the Mosaic law to some extent, but stopped short of undergoing circumcision. BDAG 918 s.v. σέβω 1.b lists in this category references in Acts 16:14; 18:7; with σεβόμενοι alone, Acts 13:50; 17:4, 17; the phrase is also found in Josephus, Ant. 14.7.2 (14.110). Unique to this particular verse is the combination σεβόμενοι προσηλύτων (sebomenoi proshlutwn). Later rabbinic discussion suggests that to be regarded as a proper proselyte, a Gentile male had to submit to circumcision. If that is the case here, these Gentiles in the synagogue at Pisidian Antioch should be regarded as full proselytes who had converted completely to Judaism and undergone circumcision. It is probably more likely, however, that προσηλύτων is used here in a somewhat looser sense (note the use of σεβομένας [sebomena"] alone to refer to women in Acts 13:50) and that these Gentiles were still in the category commonly called “God-fearers” without being full, technical proselytes to Judaism. See further K. G. Kuhn, TDNT 6:732-34, 743-44. Regardless, the point is that many Gentiles, as well as Jews, came to faith.
+
+### Verse 43 - Note 4
+[翻訳注]  This is the meaning given for ἔπειθον (epeiqon) in this verse by BDAG 791 s.v. πείθω 1.b.
+
+### Verse 43 - Note 5
+[翻訳注]  Grk “who, as they were speaking with them, were persuading them.”
+
+### Verse 43 - Note 6
+[翻訳注]  The verb προμένειν (promenein) is similar in force to the use of μένω (menw, “to reside/remain”) in the Gospel and Epistles of John.
+
+### Verse 44 - Note 1
+33 81 323 945 1175 1739 al sa), read κυρίου. The external evidence favors κυρίου, though not decisively. Internally, the mention of “God” in v. 43, and especially “the word of God” in v. 46, would provide some temptation for scribes to assimilate the wording in v. 44 to these texts.[解説]  The word of the Lord is a technical expression in OT literature, often referring to a divine prophetic utterance (e.g., Gen 15:1, Isa 1:10, Jonah 1:1). In the NT it occurs 15 times: 3 times as ῥῆμα τοῦ κυρίου (rJhma tou kuriou; Luke 22:61, Acts 11:16, 1 Pet 1:25) and 12 times as λόγος τοῦ κυρίου (logo" tou kuriou; here and in vv. 48 and 49; Acts 8:25; 15:35, 36; 16:32; 19:10, 20; 1 Thess 1:8, 4:15; 2 Thess 3:1). As in the OT, this phrase focuses on the prophetic nature and divine origin of what has been said.
+
+### Verse 45 - Note 1
+[解説]  They were filled with jealousy. Their foolish response to the gospel is noted again (see Acts 5:17). The same verb is used in Acts 7:9; 17:5.
+
+### Verse 45 - Note 2
+[翻訳注]  The imperfect verb ἀντέλεγον (antelegon) has been translated as an ingressive imperfect in the logical sequence of events: After they were filled with jealousy, the Jewish opponents began to contradict what Paul said.
+
+### Verse 45 - Note 3
+[翻訳注]  Grk “the things being said by Paul.” For smoothness and simplicity of English style, the passive construction has been converted to active voice in the translation.
+
+### Verse 45 - Note 4
+[翻訳注]  The participle βλασφημοῦντες (blasfhmounte") has been regarded as indicating the means of the action of the main verb. It could also be translated as a finite verb (“and reviled him”) in keeping with contemporary English style. The direct object (“him”) is implied rather than expressed and could be impersonal (“it,” referring to what Paul was saying rather than Paul himself), but the verb occurs more often in contexts involving defamation or slander against personal beings (not always God). For a very similar context to this one, compare Acts 18:6. The translation “blaspheme” is not used because in contemporary English its meaning is more narrowly defined and normally refers to blasphemy against God (not what Paul’s opponents were doing here). The modern term “slandering” comes close to what was being done to Paul here.
+
+### Verse 46 - Note 1
+[翻訳注]  Grk “Both Paul and Barnabas spoke out courageously and said.” The redundancy is removed in the translation and the verb “replied” is used in keeping with the logical sequence of events. The theme of boldness reappears: Acts 4:24-30; 9:27-28.
+
+### Verse 46 - Note 2
+[翻訳注]  Grk “It was necessary that the word of God be spoken.” For smoothness and simplicity of English style, the passive construction has been converted to active voice in the translation.
+
+### Verse 46 - Note 3
+[翻訳注]  Or “and consider yourselves unworthy.”
+
+### Verse 46 - Note 4
+[翻訳注]  Grk “behold, we.” In this context ἰδού (idou) is not easily translated into English.
+
+### Verse 46 - Note 5
+[解説]  This turning to the Gentiles would be a shocking rebuke to 1st century Jews who thought they alone were the recipients of the promise.
+
+### Verse 47 - Note 1
+[翻訳注]  Here οὕτως (Joutws) is taken to refer to what follows, the content of the quotation, as given for this verse by BDAG 742 s.v. οὕτω/οὕτως 2.
+
+### Verse 47 - Note 2
+[翻訳注]  BDAG 1004 s.v. τίθημι 3.a has “τιθέναι τινὰ εἴς τι place/appoint someone to or for (to function as) someth….Ac 13:47.” This is a double accusative construction of object (“you”) and complement (“a light”).
+
+### Verse 47 - Note 3
+[解説]  Paul alludes here to the language of the Servant in Isaiah, pointing to Isa 42:6; 49:6. He and Barnabas do the work of the Servant in Isaiah.
+
+### Verse 47 - Note 4
+[翻訳注]  Grk “that you should be for salvation,” but more simply “to bring salvation.”
+
+### Verse 47 - Note 5
+[解説]  An allusion to Isa 42:6 and 49:6. The expression the ends of the earth recalls Luke 3:6 and Acts 1:8. Paul sees himself and Barnabas as carrying out the commission of Luke 24:27. (See 2 Cor 6:2, where servant imagery also appears concerning Paul’s message.)
+
+### Verse 48 - Note 1
+[翻訳注]  The imperfect verb ἔχαιρον (ecairon) and the following ἐδόξαζον (edoxazon) are translated as ingressive imperfects.
+
+### Verse 48 - Note 2
+[翻訳注]  Or “glorify.” Although “honor” is given by BDAG 258 s.v. δοξάζω as a translation, it would be misleading here, because the meaning is “to honor in the sense of attributing worth to something,” while in contemporary English usage one speaks of “honoring” a contract in the sense of keeping its stipulations. It is not a synonym for “obey” in this context (“obey the word of the Lord”), but that is how many English readers would understand it.
+
+### Verse 48 - Note 3
+[解説]  Note the contrast to v. 46 in regard to eternal life.
+
+### Verse 49 - Note 1
+[翻訳注]  BDAG 239 s.v. διαφέρω 1 has “spread” for διαφέρετο (diafereto) in connection with a teaching. This is the first summary since Acts 9:31.
+
+### Verse 50 - Note 1
+[翻訳注]  For the translation of παρώτρυναν (parwtrunan) as “incited” see BDAG 780 s.v. παροτρύνω.
+
+### Verse 50 - Note 2
+[翻訳注]  BDAG 299 s.v. ἐκβάλλω 1 has “throw out.” Once again, many Jews reacted to the message (Acts 5:17, 33; 6:11; 13:45).
+
+### Verse 51 - Note 1
+[翻訳注]  The participle ἐκτιναξάμενοι (ektinaxamenoi) is taken temporally. It could also be translated as a participle of attendant circumstance (“So they shook…and went”).
+
+### Verse 51 - Note 2
+[解説]  Shaking the dust off their feet was a symbolic gesture commanded by Jesus to his disciples, Matt 10:14; Mark 6:11; Luke 9:5. It shows a group of people as culpable before God.
+
+### Verse 51 - Note 3
+[解説]  Iconium was a city in Lycaonia about 90 mi (145 km) east southeast of Pisidian Antioch. It was the easternmost city of Phrygia.
+
+### Verse 52 - Note 1
+[解説]  The citizens of Pisidian Antioch were not discouraged by the persecution, but instead were filled with joy.

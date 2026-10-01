@@ -1,0 +1,189 @@
+# Psalms 9 (English)
+
+## Text
+
+**1** For the music director, according to the alumoth-labben style; a psalm of David. I will thank the Lord with all my heart! I will tell about all your amazing deeds.
+
+**2** I will be happy and rejoice in you. I will sing praises to you, O Most High.
+
+**3** When my enemies turn back, they trip and are defeated before you.
+
+**4** For you defended my just cause; from your throne you pronounced a just decision. 
+
+**5** You terrified the nations with your battle cry. You destroyed the wicked; you permanently wiped out all memory of them. 
+
+**6** The enemy’s cities have been reduced to permanent ruins. You destroyed their cities; all memory of the enemies has perished. 
+
+**7** But the Lord rules forever; he reigns in a just manner. 
+
+**8** He judges the world fairly; he makes just legal decisions for the nations. 
+
+**9** Consequently the Lord provides safety for the oppressed; he provides safety in times of trouble. 
+
+**10** Your loyal followers trust in you, for you, Lord, do not abandon those who seek your help.
+
+**11** Sing praises to the Lord, who rules in Zion. Tell the nations what he has done. 
+
+**12** For the one who takes revenge against murderers took notice of the oppressed; he did not overlook their cry for help
+
+**13** when they prayed: “Have mercy on me, Lord! See how I am oppressed by those who hate me, O one who can snatch me away from the gates of death! 
+
+**14** Then I will tell about all your praiseworthy acts; in the gates of Daughter Zion I will rejoice because of your deliverance.” 
+
+**15** The nations fell into the pit they had made; their feet were caught in the net they had hidden. 
+
+**16** The Lord revealed himself; he accomplished justice. The wicked were ensnared by their own actions. (Higgaion. Selah) 
+
+**17** The wicked are turned back and sent to Sheol; this is the destiny of all the nations that ignore God, 
+
+**18** for the needy are not permanently ignored, the hopes of the oppressed are not forever dashed. 
+
+**19** Rise up, Lord! Don’t let men be defiant. May the nations be judged in your presence. 
+
+**20** Terrify them, Lord. Let the nations know they are mere mortals. (Selah)
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  . The psalmist, probably speaking on behalf of Israel or Judah, praises God for delivering him from hostile nations. He celebrates God’s sovereignty and justice, and calls on others to join him in boasting of God’s greatness. Many Hebrew mss and the ancient Greek version (LXX) combine Psalms 9 and 10 into a single psalm.
+
+### Verse 1 - Note 2
+[写本注]  The meaning of the Hebrew term עַלְמוּת (’almut) is uncertain. Some mss divide the form into עַל מוּת (’al mut, “according to the death [of the son]”), while the LXX assumes a reading עֲלֻמוֹת עַל (’al ’alumot, “according to alumoth”). The phrase probably refers to a particular tune or musical style.
+
+### Verse 1 - Note 3
+[翻訳注]  The cohortative forms in vv. 1-2 express the psalmist’s resolve to praise God publicly.
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “[to] your name, O Most High.” God’s “name” refers metonymically to his divine characteristics as suggested by his name, in this case “Most High.” This divine title (עֶלְיוֹן, ’elyo/) pictures God as the exalted ruler of the universe who vindicates the innocent and judges the wicked. See especially Ps 47:2.
+
+### Verse 3 - Note 1
+[翻訳注]  Or “perish”; or “die.” The imperfect verbal forms in this line either emphasize what typically happens or describe vividly the aftermath of a recent battle in which the Lord defeated the psalmist’s enemies.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “for you accomplished my justice and my legal claim.”
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “you sat on a throne [as] one who judges [with] righteousness.” The perfect verbal forms in v. 4 probably allude to a recent victory (see vv. 5-7). Another option is to understand the verbs as describing what is typical (“you defend…you sit on a throne”).
+
+### Verse 5 - Note 1
+[翻訳注]  The verb גָּעַר (ga’ar) is often understood to mean “rebuke” and in this context taken to refer to the Lord’s “rebuke” of the nations. In some cases it is apparent that scolding or threatening is in view (see Gen 37:10; Ruth 2:16; Zech 3:2). However, in militaristic contexts this translation is inadequate, for the verb refers in this setting to the warrior’s battle cry, which terrifies and paralyzes the enemy. See A. Caquot, TDOT 3:53, and note the use of the verb in Pss 68:30; 106:9; and Nah 1:4, as well as the related noun in Job 26:11; Pss 18:15; 76:6; 104:7; Isa 50:2; 51:20; 66:15.
+
+### Verse 5 - Note 2
+[翻訳注]  The singular form is collective (note “nations” and “their name”). In the psalms the “wicked” (רְשָׁעִים, rÿsha’im) are typically proud, practical atheists (Ps 10:2, 4, 11) who hate God’s commands, commit sinful deeds, speak lies and slander (Ps 50:16-20), and cheat others (Ps 37:21). In this context the hostile nations who threaten Israel/Judah are in view.
+
+### Verse 5 - Note 3
+[翻訳注]  Heb “their name you wiped out forever and ever.” The three perfect verbal forms in v. 5 probably refer to a recent victory (definite past or present perfect use), although they might express what is typical (characteristic use).
+
+### Verse 6 - Note 1
+[翻訳注]  Heb “the enemy – they have come to an end [in] ruins permanently.” The singular form אוֹיֵב (’oyev, “enemy”) is collective. It is placed at the beginning of the verse to heighten the contrast with יְהוָה (yÿhvah, “the Lord”) in v. 7.
+
+### Verse 6 - Note 2
+[翻訳注]  Heb “you uprooted cities.”
+
+### Verse 6 - Note 3
+[翻訳注]  Heb “it has perished, their remembrance, they.” The independent pronoun at the end of the line is in apposition to the preceding pronominal suffix and lends emphasis (see IBHS 299 §16.3.4). The referent of the masculine pronoun is the nations/enemies (cf. v. 5), not the cities (the Hebrew noun עָרִים [’arim, “cities”] is grammatically feminine). This has been specified in the present translation for clarity; many modern translations retain the pronoun “them,” resulting in ambiguity (cf. NRSV “their cities you have rooted out; the very memory of them has perished”).
+
+### Verse 7 - Note 1
+[翻訳注]  The construction vav (ו) + subject highlights the contrast between the exalted Lord and his defeated foes (see v. 6).
+
+### Verse 7 - Note 2
+[翻訳注]  Heb “sits” (i.e., enthroned, see v. 4). The imperfect verbal form highlights the generalization.
+
+### Verse 7 - Note 3
+[翻訳注]  Heb “he establishes for justice his throne.”
+
+### Verse 8 - Note 1
+[翻訳注]  Heb “the peoples.” The imperfect verbal forms in v. 8 either describe God’s typical, characteristic behavior, or anticipate a future judgment of worldwide proportions (“will judge…”).
+
+### Verse 9 - Note 1
+[翻訳注]  Following the imperfect in v. 9, the construction vav (ו) conjunctive + shortened form of the prefixed verb הָיָה (hayah) indicates a consequence or result of the preceding statement. The construction functions this same way in Pss 81:15 and 104:20.
+
+### Verse 9 - Note 2
+[翻訳注]  Heb “and the Lord is an elevated place for the oppressed.” The singular form דָּךְ (dakh, “oppressed”) is collective here.
+
+### Verse 9 - Note 3
+[翻訳注]  Heb “[he is] an elevated place for times in trouble.” Here an “elevated place” refers to a stronghold, a defensible, secure position that represents a safe haven in times of unrest or distress (cf. NEB “tower of strength”; NIV, NRSV “stronghold”).
+
+### Verse 10 - Note 1
+[翻訳注]  Heb “and the ones who know your name trust in you.” The construction vav (ו) conjunctive + imperfect at the beginning of the verse expresses another consequence of the statement made in v. 8. “To know” the Lord’s “name” means to be his follower, recognizing his authority and maintaining loyalty to him. See Ps 91:14, where “knowing” the Lord’s “name” is associated with loving him.
+
+### Verse 10 - Note 2
+[翻訳注]  Heb “the ones who seek you.”
+
+### Verse 11 - Note 1
+[翻訳注]  Heb “sits” (i.e., enthroned, and therefore ruling – see v. 4). Another option is to translate as “lives” or “dwells.”
+
+### Verse 11 - Note 2
+[翻訳注]  Heb “declare among the nations his deeds.”
+
+### Verse 12 - Note 1
+[翻訳注]  Heb “for the one who seeks shed blood remembered them.” The idiomatic expression “to seek shed blood” seems to carry the idea “to seek payment/restitution for one’s shed blood.” The plural form דָּמִים (damim, “shed blood”) occurs only here as the object of דָּרַשׁ (darash); the singular form דָּם (dam, “blood”) appears with the verb in Gen 9:5; 42:22; Ezek 33:6. “Them,” the pronominal object of the verb “remembered,” refers to the oppressed, mentioned specifically in the next line, so the referent has been specified in the translation for clarity.
+
+### Verse 12 - Note 2
+[翻訳注]  Heb “did not forget.”
+
+### Verse 12 - Note 3
+[翻訳注]  Heb “the cry for help of the oppressed.” In this context the “oppressed” are the psalmist and those he represents, whom the hostile nations have threatened.
+
+### Verse 13 - Note 1
+[翻訳注]  The words “when they prayed,” though not represented in the Hebrew text, are supplied in the translation for clarification. The petition in vv. 13-14 is best understood as the cry for help which the oppressed offered to God when the nations threatened. The Lord answered this request, prompting the present song of thanksgiving.
+
+### Verse 13 - Note 2
+[翻訳注]  Or “show me favor.”
+
+### Verse 13 - Note 3
+[翻訳注]  Heb “see my misery from the ones who hate me.”
+
+### Verse 13 - Note 4
+[翻訳注]  Heb “one who lifts me up.”
+
+### Verse 14 - Note 1
+[翻訳注]  Or “so that I might.”
+
+### Verse 14 - Note 2
+[翻訳注]  Heb “all your praise.” “Praise” stands by metonymy for the mighty acts that prompt it.
+
+### Verse 14 - Note 3
+[解説]  Daughter Zion is an idiomatic title for Jerusalem. It appears frequently in the prophets, but only here in the psalms.
+
+### Verse 14 - Note 4
+[翻訳注]  Heb “in your deliverance.”
+
+### Verse 15 - Note 1
+[翻訳注]  Heb “sank down.”
+
+### Verse 15 - Note 2
+[解説]  The hostility of the nations against God’s people is their downfall, for it prompts God to intervene and destroy them. See also Ps 7:15-16.
+
+### Verse 16 - Note 1
+[翻訳注]  Heb “by the work of his hands [the] wicked [one] was ensnared. The singular form רָשָׁע (rasha’, “wicked”) is collective or representative here (see vv. 15, 17). The form נוֹקֵשׁ (noqesh) appears to be an otherwise unattested Qal form (active participle) from נָקַשׁ (naqash), but the form should be emended to נוֹקַשׁ (noqash), a Niphal perfect from יָקַשׁ (yaqash).
+
+### Verse 16 - Note 2
+[翻訳注]  This is probably a technical musical term.
+
+### Verse 17 - Note 1
+[翻訳注]  Heb “the wicked turn back to Sheol.” The imperfect verbal form either emphasizes what typically happens or describes vividly the aftermath of the Lord’s victory over the psalmist’s enemies. See v. 3.
+
+### Verse 17 - Note 2
+[翻訳注]  The words “this is the destiny of” are supplied in the translation for stylistic reasons. The verb “are turned back” is understood by ellipsis (see the preceding line).
+
+### Verse 17 - Note 3
+[翻訳注]  Heb “forget.” “Forgetting God” refers here to worshiping false gods and thereby refusing to recognize his sovereignty (see also Deut 8:19; Judg 3:7; 1 Sam 12:9; Isa 17:10; Jer 3:21; Ps 44:20). The nations’ refusal to acknowledge God’s sovereignty accounts for their brazen attempt to attack and destroy his people.
+
+### Verse 18 - Note 1
+[翻訳注]  Or “forgotten.”
+
+### Verse 18 - Note 2
+[翻訳注]  Heb “the hope of the afflicted does [not] perish forever.” The negative particle is understood by ellipsis; note the preceding line. The imperfect verbal forms express what typically happens.
+
+### Verse 19 - Note 1
+[解説]  Rise up, Lord! …May the nations be judged. The psalm concludes with a petition that the Lord would continue to exercise his justice as he has done in the recent crisis.
+
+### Verse 19 - Note 2
+[翻訳注]  Or “prevail.”
+
+### Verse 20 - Note 1
+[翻訳注]  Heb “place, Lord, terror with regard to them.” The Hebrew term מוֹרָה (morah, “terror”) is an alternative form of מוֹרָא (mora’; a reading that appears in some mss and finds support in several ancient textual witnesses).
+
+### Verse 20 - Note 2
+[翻訳注]  Heb “let the nations know they [are] man[kind]”; i.e., mere human beings (as opposed to God).

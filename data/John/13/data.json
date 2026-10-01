@@ -1,0 +1,732 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Just before the Passover Feast, Jesus knew that his time had come to depart from this world to the Father. Having loved his own who were in the world, he now loved them to the very end. ",
+      "ja": "過越の祭りの直前、イエスは、この世を去って父のもとへ行くべき自分の時が来たことを知っておられた。世にいる自分の弟子たちを愛してきたイエスは、今や彼らを最後まで（極みまで）愛し抜かれた。"
+    },
+    {
+      "verse": 2,
+      "en": "The evening meal was in progress, and the devil had already put into the heart of Judas Iscariot, Simon’s son, that he should betray Jesus. ",
+      "ja": "夕食の最中のことであった。悪魔はすでに、シモンの子イスカリオテのユダの心に、イエスを裏切ろうとする思いを植え付けていた。"
+    },
+    {
+      "verse": 3,
+      "en": "Because Jesus knew that the Father had handed all things over to him, and that he had come from God and was going back to God, ",
+      "ja": "イエスは、父がすべてのものを自分の手にゆだねられたこと、また、自分が神から来て神に帰ろうとしていることを知っておられたので、"
+    },
+    {
+      "verse": 4,
+      "en": "he got up from the meal, removed his outer clothes, took a towel and tied it around himself. ",
+      "ja": "夕食の席から立ち上がり、上着を脱いで、手ぬぐいを取り、それを腰に巻かれた。"
+    },
+    {
+      "verse": 5,
+      "en": "He poured water into the washbasin and began to wash the disciples’ feet and to dry them with the towel he had wrapped around himself.",
+      "ja": "それから、たらいに水を入れて弟子たちの足を洗い始め、腰に巻いていた手ぬぐいで拭き始められた。"
+    },
+    {
+      "verse": 6,
+      "en": "Then he came to Simon Peter. Peter said to him, “Lord, are you going to wash my feet?” ",
+      "ja": "こうして、イエスはシモン・ペテロのところに来られた。ペテロはイエスに言った。「主よ、あなたが私の足を洗ってくださるのですか。」"
+    },
+    {
+      "verse": 7,
+      "en": "Jesus replied, “You do not understand what I am doing now, but you will understand after these things.” ",
+      "ja": "イエスは答えて言われた。「私がしていることは、今はあなたにはわからないが、後で悟るようになる。」"
+    },
+    {
+      "verse": 8,
+      "en": "Peter said to him, “You will never wash my feet!” Jesus replied, “If I do not wash you, you have no share with me.” ",
+      "ja": "ペテロはイエスに言った。「私の足など、決して洗わないでください！」イエスは答えられた。「もし私があなたを洗わないなら、あなたは私と何の関係も（分け前も）なくなるのだ。」"
+    },
+    {
+      "verse": 9,
+      "en": "Simon Peter said to him, “Lord, wash not only my feet but also my hands and my head!” ",
+      "ja": "シモン・ペテロは言った。「主よ、足だけでなく、手も頭も洗ってください！」"
+    },
+    {
+      "verse": 10,
+      "en": "Jesus replied, “The one who has bathed needs only to wash his feet, but is completely clean. And you disciples are clean, but not every one of you.” ",
+      "ja": "イエスは彼に言われた。「すでに水浴した者は、足のほかは洗う必要がなく、全身が清いのだ。あなたがた弟子たちは清いのだが、全員ではない。」"
+    },
+    {
+      "verse": 11,
+      "en": "(For Jesus knew the one who was going to betray him. For this reason he said, “Not every one of you is clean.”) ",
+      "ja": "（イエスは自分を裏切る者を知っておられた。それゆえに「あなたがたの全員が清いわけではない」と言われたのである。）"
+    },
+    {
+      "verse": 12,
+      "en": "So when Jesus had washed their feet and put his outer clothing back on, he took his place at the table again and said to them, “Do you understand what I have done for you? ",
+      "ja": "こうしてイエスは彼らの足を洗い、上着を再び着て、また席に着くと、彼らに言われた。「私があなたがたに何をしたか、わかりますか。"
+    },
+    {
+      "verse": 13,
+      "en": "You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am. ",
+      "ja": "あなたがたは私を『先生』、また『主』と呼んでいる。そう呼ぶのは正しい。事実、私はその通りだからだ。"
+    },
+    {
+      "verse": 14,
+      "en": "If I then, your Lord and Teacher, have washed your feet, you too ought to wash one another’s feet. ",
+      "ja": "それゆえ、主であり先生である私があなたがたの足を洗ったのなら、あなたがたもまた互いに足を洗い合うべきである。"
+    },
+    {
+      "verse": 15,
+      "en": "For I have given you an example—you should do just as I have done for you. ",
+      "ja": "私はあなたがたに模範を示した。私があなたがたにした通りに、あなたがたも行うためである。"
+    },
+    {
+      "verse": 16,
+      "en": "I tell you the solemn truth, the slave is not greater than his master, nor is the one who is sent as a messenger greater than the one who sent him. ",
+      "ja": "まことに、まことに、あなたがたに告げる。僕はその主人より偉くはなく、遣わされた者は遣わした者より偉くはない。"
+    },
+    {
+      "verse": 17,
+      "en": "If you understand these things, you will be blessed if you do them. ",
+      "ja": "もしこれらのことがわかり、それを行うなら、あなたがたは幸いである。"
+    },
+    {
+      "verse": 18,
+      "en": "“What I am saying does not refer to all of you. I know the ones I have chosen. But this is to fulfill the scripture, ‘<b>The one who eats my bread</b> <b>has turned against me</b>.’ ",
+      "ja": "私はあなたがた全員について言っているのではない。私は自分が選んだ者たちを知っている。しかし、『私のパンを食べている者が、私に逆らってかかとを上げた』という聖書の言葉が成就するためである。"
+    },
+    {
+      "verse": 19,
+      "en": "I am telling you this now, before it happens, so that when it happens you may believe that I am he.",
+      "ja": "事が起こる前に、今、あなたがたに言っておく。事が起こったとき、私がその者（「わたしはある」）であることを、あなたがたが信じるためである。"
+    },
+    {
+      "verse": 20,
+      "en": "I tell you the solemn truth, whoever accepts the one I send accepts me, and whoever accepts me accepts the one who sent me.” ",
+      "ja": "まことに、まことに、あなたがたに告げる。私が遣わす者を受け入れる者は私を受け入れるのであり、私を受け入れる者は私を遣わした方を受け入れるのである。」"
+    },
+    {
+      "verse": 21,
+      "en": "When he had said these things, Jesus was greatly distressed in spirit, and testified, “I tell you the solemn truth, one of you will betray me.” ",
+      "ja": "これらのことを話された後、イエスは霊において深く悩み、証しして言われた。「まことに、まことに、あなたがたに告げる。あなたがたのうちの一人が私を裏切る。」"
+    },
+    {
+      "verse": 22,
+      "en": "The disciples began to look at one another, worried and perplexed to know which of them he was talking about.",
+      "ja": "弟子たちは、誰のことを言っておられるのかわからず、当惑して互いに顔を見合わせた。"
+    },
+    {
+      "verse": 23,
+      "en": "One of his disciples, the one Jesus loved, was at the table to the right of Jesus in a place of honor. ",
+      "ja": "弟子の一人で、イエスが愛しておられた者が、イエスのすぐ隣の、名誉ある席に着いていた。"
+    },
+    {
+      "verse": 24,
+      "en": "So Simon Peter gestured to this disciple to ask Jesus who it was he was referring to. ",
+      "ja": "それで、シモン・ペテロはこの弟子に、誰のことを指しておられるのかイエスに尋ねるよう合図した。"
+    },
+    {
+      "verse": 25,
+      "en": "Then the disciple whom Jesus loved leaned back against Jesus’ chest and asked him, “Lord, who is it?”",
+      "ja": "その弟子は、イエスの胸もとに寄りかかって、「主よ、それは誰のことですか」と尋ねた。"
+    },
+    {
+      "verse": 26,
+      "en": "Jesus replied, “It is the one to whom I will give this piece of bread after I have dipped it in the dish.” Then he dipped the piece of bread in the dish and gave it to Judas Iscariot, Simon’s son. ",
+      "ja": "イエスは答えられた。「私がこのパン切れを浸して与える者が、その人である。」そして、イエスはパン切れを浸すと、それを取って、シモンの子イスカリオテのユダに与えられた。"
+    },
+    {
+      "verse": 27,
+      "en": "And after Judas took the piece of bread, Satan entered into him. Jesus said to him, “What you are about to do, do quickly.” ",
+      "ja": "ユダがそのパン切れを受け取ると、そのときサタンが彼に入った。イエスは彼に言われた。「しようとしていることを、すぐにするがよい。」"
+    },
+    {
+      "verse": 28,
+      "en": "(Now none of those present at the table understood why Jesus said this to Judas. ",
+      "ja": "（しかし、席に着いていた者たちは誰も、なぜイエスが彼にそう言われたのか理解できなかった。）"
+    },
+    {
+      "verse": 29,
+      "en": "Some thought that because Judas had the money box, Jesus was telling him to buy whatever they needed for the feast, or to give something to the poor.) ",
+      "ja": "（ユダが財布を預かっていたので、イエスが彼に「祭りのために必要なものを買いなさい」と言われたか、あるいは貧しい人々に何かを施すように言われたのだと思った者もいた。）"
+    },
+    {
+      "verse": 30,
+      "en": "Judas took the piece of bread and went out immediately. (Now it was night.) ",
+      "ja": "ユダはパン切れを受け取ると、すぐに出て行った。時は夜であった。"
+    },
+    {
+      "verse": 31,
+      "en": "When Judas had gone out, Jesus said, “Now the Son of Man is glorified, and God is glorified in him. ",
+      "ja": "ユダが出て行くと、イエスは言われた。「今や人の子は栄光を受けた。また、神も人の子によって栄光を受けられた。"
+    },
+    {
+      "verse": 32,
+      "en": "If God is glorified in him, God will also glorify him in himself, and he will glorify him right away. ",
+      "ja": "もし神が人の子によって栄光を受けられたのなら、神もご自身によって人の子に栄光をお与えになる。しかも、すぐにお与えになる。"
+    },
+    {
+      "verse": 33,
+      "en": "Children, I am still with you for a little while. You will look for me, and just as I said to the Jewish religious leaders, ‘Where I am going you cannot come,’ now I tell you the same.",
+      "ja": "子供たちよ、まだしばらくは私はあなたがたといっしょにいる。あなたがたは私を捜すだろう。そして、『私が行く所に、あなたがたは来ることができない』と私がユダヤの指導者たちに言ったように、今、あなたがたにも同じことを言う。"
+    },
+    {
+      "verse": 34,
+      "en": "“I give you a new commandment—to love one another. Just as I have loved you, you also are to love one another. ",
+      "ja": "私はあなたがたに新しい戒めを与える。互いに愛し合いなさい。私があなたがたを愛したように、あなたがたも互いに愛し合いなさい。"
+    },
+    {
+      "verse": 35,
+      "en": "Everyone will know by this that you are my disciples—if you have love for one another.” ",
+      "ja": "もしあなたがたの間に愛があるなら、それによって、すべての人が、あなたがたが私の弟子であることを認めるのである。」"
+    },
+    {
+      "verse": 36,
+      "en": "Simon Peter said to him, “Lord, where are you going?” Jesus replied, “Where I am going, you cannot follow me now, but you will follow later.” ",
+      "ja": "シモン・ペテロはイエスに言った。「主よ、どこへ行かれるのですか。」イエスは答えられた。「私が行く所へ、あなたは今はついて来ることができない。しかし、後でついて来ることになる。」"
+    },
+    {
+      "verse": 37,
+      "en": "Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you!” ",
+      "ja": "ペテロはイエスに言った。「主よ、なぜ今ついて行けないのですか。あなたのためなら命を捨てます！」"
+    },
+    {
+      "verse": 38,
+      "en": "Jesus answered, “Will you lay down your life for me? I tell you the solemn truth, the rooster will not crow until you have denied me three times! ",
+      "ja": "イエスは答えられた。「私のために命を捨てると言うのか。まことに、まことに、あなたに告げる。鶏が鳴く前に、あなたは三度、私を知らないと言うだろう。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “his hour.”",
+        "ja": "[翻訳注] ギリシャ語では「彼の時（hour）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “that he should depart.” The ἵνα (Jina) clause in Koine Greek frequently encroached on the simple infinitive (for the sake of greater clarity).",
+        "ja": "[翻訳注] ギリシャ語では「彼が去るべきこと」。コイネー・ギリシャ語における ἵνα（ヒナ）節は、（より明確にするために）単純な不定詞の領域にしばしば浸透しています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “he now loved them completely,” or “he now loved them to the uttermost” (see John 19:30). All of John 13:1 is a single sentence in Greek, although in English this would be unacceptably awkward. At the end of the verse the idiom εἰς τέλος (eis telos) was translated literally as “to the end” and the modern equivalents given in the note above, because there is an important lexical link between this passage and John 19:30, τετέλεσται (tetelestai, “It is ended”).[解説]  The full extent of Jesus’ love for his disciples is not merely seen in his humble service to them in washing their feet (the most common interpretation of the passage). The full extent of his love for them is demonstrated in his sacrificial death for them on the cross. The footwashing episode which follows then becomes a prophetic act, or acting out beforehand, of his upcoming death on their behalf. The message for the disciples was that they were to love one another not just in humble, self-effacing service, but were to be willing to die for one another. At least one of them got this message eventually, though none understood it at the time (see 1 John 3:16).",
+        "ja": "[翻訳注] あるいは「彼は今や彼らを完全に愛された」、または「彼は今や彼らを極みまで愛された」（ヨハネ19:30参照）。ヨハネ13:1はギリシャ語では一文ですが、英語（および日本語）では不自然になるため分けられています。節の最後にある慣用句 εἰς τέλος（エイス・テロス）は直訳的に「最後まで」と訳され、上記の現代的な同義語が添えられています。これは、この箇所とヨハネ19:30の τετέλεσται（テテレスタイ、「完了した」）との間に重要な語彙的関連があるためです。[解説] 弟子たちに対するイエスの愛の全貌は、単に足を洗うという謙遜な奉仕（最も一般的な解釈）に見られるだけではありません。彼の愛の全貌は、十字架上での彼らのための犠牲の死において示されています。続く足洗いのエピソードは、彼らのためにこれから起こる死の預言的な行為、あるいは事前の実演となります。弟子たちへのメッセージは、単に謙遜で控えめな奉仕において互いに愛し合うだけでなく、互いのために死ぬことも辞さないということでありました。弟子たちのうち少なくとも一人は最終的にこのメッセージを理解しましたが、当時は誰も理解していませんでした（第一ヨハネ3:16参照）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Supper.” To avoid possible confusion because of different regional English usage regarding the distinction between “dinner” and “supper” as an evening meal, the translation simply refers to “the evening meal.”",
+        "ja": "[翻訳注] あるいは「晩餐」。夕食を指す「ディナー」と「サパー」の区別による混乱を避けるため、翻訳では単に「夕食（evening meal）」としています。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  At this point the devil had already put into the heart of Judas Iscariot, Simon’s son, that he should betray Jesus. C. K. Barrett (St. John, 365) thought this was a reference to the idea entering the devil’s own heart, but this does not seem likely. It is more probable that Judas’ heart is meant, since the use of the Greek article (rather than a possessive pronoun) is a typical idiom when a part of one’s own body is indicated. Judas’ name is withheld until the end of the sentence for dramatic effect (emphasis). This action must be read in light of 13:27, and appears to refer to a preliminary idea or plan.",
+        "ja": "[解説] この時点で、悪魔はすでにシモンの子イスカリオテのユダの心に、イエスを裏切ろうとする思いを入れていました。C. K. バレット（St. John, 365）は、これが悪魔自身の心にその考えが入ったことを指すと解釈しましたが、その可能性は低いと考えられます。ギリシャ語の冠詞の使用（所有代名詞ではなく）は、自分自身の身体の一部を示す際によく使われる語法であるため、ユダの心を指している可能性が高いです。ユダの名前が文の最後まで伏せられているのは、劇的な効果（強調）のためです。この行動は13:27に照らして読まれるべきであり、予備的な考えや計画を指していると思われます。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “that he should hand over.”",
+        "ja": "[翻訳注] あるいは「彼を引き渡すべきこと」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “betray him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼を裏切る」。指示対象（イエス）を翻訳では明確にしています。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Because he knew”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼は知っていたので」。指示対象（イエス）を翻訳では明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “had given all things into his hands.”",
+        "ja": "[翻訳注] ギリシャ語では「すべてのものを彼の手に与えていた」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and removed”; the conjunction καί (kai, “and”) has been left untranslated here for improved English style.",
+        "ja": "[翻訳注] ギリシャ語では「そして脱いだ」。接続詞 καί（カイ、「そして」）は、日本語の文体を整えるためにここでは訳出していません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The plural τὰ ἱμάτια (ta Jimatia) is probably a reference to more than one garment (cf. John 19:23-24). If so, this would indicate that Jesus stripped to a loincloth, like a slave. The translation “outer clothes” is used to indicate that Jesus was not completely naked, since complete nudity would have been extremely offensive to Jewish sensibilities in this historical context.",
+        "ja": "[翻訳注] 複数形の τὰ ἱμάτια（タ・ヒマティア）は、おそらく複数の衣類を指しています（ヨハネ19:23-24参照）。もしそうなら、これはイエスが奴隷のように腰布一枚になったことを示唆しています。翻訳で「上着（outer clothes）」としているのは、イエスが完全に裸ではなかったことを示すためです。当時の歴史的文脈において、完全な全裸はユダヤ人の感性にとって極めて不快なものであったからです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “taking a towel he girded himself.” Jesus would have wrapped the towel (λέντιον, lention) around his waist (διέζωσεν ἑαυτόν, diezwsen Jeauton) for use in wiping the disciples’ feet. The term λέντιον is a Latin loanword (linteum) which is also found in the rabbinic literature (see BDAG 592 s.v.). It would have been a long piece of linen cloth, long enough for Jesus to have wrapped it about his waist and still used the free end to wipe the disciples’ feet.",
+        "ja": "[翻訳注] ギリシャ語では「手ぬぐいを取り、自分を帯びた（締めた）」。イエスは弟子たちの足を拭くために、手ぬぐい（λένティオン, lention）を腰に巻いた（διέζωσεν ἑαυτόν, ディエゾーセン・ヘアウトン）のでしょう。「レンティオン」という言葉はラテン語の借用語（linteum）で、ラビ文学にも見られます（BDAG 592参照）。これは麻の布で、イエスが腰に巻いた後、その端を使って弟子たちの足を拭くのに十分な長さがあったと考えられます。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “with the towel with which he was girded.”",
+        "ja": "[翻訳注] ギリシャ語では「自分が帯びていた手ぬぐいで」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “He”; the referent (Peter) is specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（ペテロ）を翻訳では明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “do you wash” or “are you washing.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたは洗うのですか」あるいは「あなたは洗っているのですか」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “answered and said to him.”",
+        "ja": "[翻訳注] ギリシャ語では「答えて彼に言った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “You do not know.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたは知らない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “you will know.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたは知るようになる」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “You will never wash my feet forever.” The negation is emphatic in Greek but somewhat awkward in English. Emphasis is conveyed in the translation by the use of an exclamation point.",
+        "ja": "[翻訳注] ギリシャ語では「あなたは永遠に私の足を決して洗わない」。ギリシャ語では強い否定ですが、英語（および日本語）ではやや不自然になるため、感嘆符を用いて強調を表しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Jesus answered him.”",
+        "ja": "[翻訳注] ギリシャ語では「イエスは彼に答えられた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “you have no part in me.”",
+        "ja": "[翻訳注] あるいは「あなたは私において何の分（part）も持たない」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “wash” is not in the Greek text, but is implied. Here it is supplied to improve the English style by making Peter’s utterance a complete sentence.",
+        "ja": "[翻訳注] ギリシャ語には「洗う」という言葉はありませんが、暗示されています。文を完結させて文体を整えるために補っています。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Jesus said to him.”",
+        "ja": "[翻訳注] ギリシャ語では「イエスは彼に言われた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “has no need except to wash his feet.”",
+        "ja": "[翻訳注] ギリシャ語では「足以外は洗う必要がない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “entirely.”",
+        "ja": "[翻訳注] あるいは「すっかり」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The one who has bathed needs only to wash his feet. A common understanding is that the “bath” Jesus referred to is the initial cleansing from sin, which necessitates only “lesser, partial” cleansings from sins after conversion. This makes a fine illustration from a homiletic standpoint, but is it the meaning of the passage? This seems highly doubtful. Jesus stated that the disciples were completely clean except for Judas (vv. 10b, 11). What they needed was to have their feet washed by Jesus. In the broader context of the Fourth Gospel, the significance of the foot-washing seems to point not just to an example of humble service (as most understand it), but something more – Jesus’ self-sacrificial death on the cross. If this is correct, then the foot-washing which they needed to undergo represented their acceptance of this act of self-sacrifice on the part of their master. This makes Peter’s initial abhorrence of the act of humiliation by his master all the more significant in context; it also explains Jesus’ seemingly harsh reply to Peter (above, v. 8; compare Matt 16:21-23 where Jesus says to Peter, “Get behind me, Satan”).",
+        "ja": "[解説] すでに水浴（入浴）した者は、足のほかは洗う必要がありません。一般的な理解では、イエスが言及した「水浴」とは罪からの最初の清めであり、回心後の罪については「より小さい、部分的な」清めだけで済むというものです。これは説教の例話としては優れていますが、この箇所の本来の意味でしょうか。それは非常に疑わしいです。イエスは、ユダを除いて弟子たちは完全に清いと述べられました（10b、11節）。彼らに必要だったのは、イエスによって足を洗われることでした。第四福音書の広い文脈において、足洗いの意義は単に謙遜な奉仕の模範（多くの人がそう理解していますが）を示すだけでなく、それ以上のこと、すなわち十字架上でのイエスの自己犠牲の死を指し示していると考えられます。もしこれが正しいなら、彼らが受ける必要があった足洗いは、主人であるイエスの側でのこの自己犠牲の行為を受け入れることを象徴していました。これは、ペテロが最初に主人の卑下した行為を忌み嫌ったことが、文脈上いかに重大であったかを説明します。また、イエスのペテロに対する一見厳しい返答（8節；イエスがペテロに「下がれ、サタン」と言ったマタイ16:21-23と比較）も説明がつきます。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  The word “disciples” is supplied in English to clarify the plural Greek pronoun and verb. Peter is not the only one Jesus is addressing here.",
+        "ja": "[翻訳注] 複数形の代名詞と動詞を明確にするために「弟子たち（disciples）」という言葉を補っています。イエスがここで語りかけているのはペテロだけではありません。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（イエス）を明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Not all of you are.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたがたの全員が……ではない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入的な注釈です。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（イエス）を明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he reclined at the table.” The phrase reflects the normal 1st century Near Eastern practice of eating a meal in a semi-reclining position.",
+        "ja": "[翻訳注] ギリシャ語では「彼は食卓に横たわった」。この表現は、半分横たわった姿勢で食事をするという、1世紀の近東の一般的な習慣を反映しています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Do you know.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたがたは知っていますか」。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “rightly.”",
+        "ja": "[翻訳注] あるいは「当然のこととして」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and I am these things.”",
+        "ja": "[翻訳注] ギリシャ語では「そして私はそれらのものである」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[解説]  I have given you an example. Jesus tells his disciples after he has finished washing their feet that what he has done is to set an example for them. In the previous verse he told them they were to wash one another’s feet. What is the point of the example? If it is simply an act of humble service, as most interpret the significance, then Jesus is really telling his disciples to serve one another in humility rather than seeking preeminence over one another. If, however, the example is one of self-sacrifice up to the point of death, then Jesus is telling them to lay down their lives for one another (cf. 15:13).",
+        "ja": "[解説] 「私はあなたがたに模範を示した」。イエスは足を洗い終えた後、自分のしたことは彼らのための模範を示すことだったと弟子たちに告げます。前の節で、イエスは互いに足を洗い合うようにと言われました。この模範の要点は何でしょうか。もしそれが、多くの人が解釈するように単なる謙遜な奉仕の行為であるなら、イエスは弟子たちに対し、互いの上に立とうとするのではなく、謙遜に仕え合うようにと言っておられることになります。しかし、もしこの模範が死に至るまでの自己犠牲であるなら、イエスは彼らに、互いのために命を捨てるようにと言っておられることになります（15:13参照）。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシャ語では「まことに、まことに、私はあなたがたに言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  See the note on the word “slaves” in 4:51.",
+        "ja": "[翻訳注] 4:51の「僕（奴隷）」という言葉の注釈を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “nor is the apostle” (“apostle” means “one who is sent” in Greek).",
+        "ja": "[翻訳注] あるいは「使徒も偉くはない」（ギリシャ語で「使徒」は「遣わされた者」を意味します）。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “If you know.”",
+        "ja": "[翻訳注] ギリシャ語では「もしあなたがたが知っているなら」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “But so that the scripture may be fulfilled.”",
+        "ja": "[翻訳注] ギリシャ語では「しかし、聖書が成就するために」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “The one who shares my food.”",
+        "ja": "[翻訳注] あるいは「私の食べ物を分かち合っている者」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “has become my enemy”; Grk “has lifted up his heel against me.” The phrase “to lift up one’s heel against someone” reads literally in the Hebrew of  “has made his heel great against me.” There have been numerous interpretations of this phrase, but most likely it is an idiom meaning “has given me a great fall,” “has taken cruel advantage of me,” or “has walked out on me.” Whatever the exact meaning of the idiom, it clearly speaks of betrayal by a close associate. See E. F. F. Bishop, “‘He that eateth bread with me hath lifted up his heel against me’ – Jn xiii.18 (Ps xli.9),” ExpTim 70 (1958-59): 331-33.[解説]  A quotation from Ps 41:9.",
+        "ja": "[翻訳注] あるいは「私の敵となった」。ギリシャ語では「私に対してかかとを持ち上げた」。この表現は、ヘブル語の詩篇41:9では「私に対してかかとを大きくした」と直訳されます。これには多くの解釈がありますが、おそらく「私をひどく転ばせた」「私を残酷に利用した」あるいは「私を見捨てて去った」という意味の慣用句です。いずれにせよ、親しい仲間による裏切りを明確に表しています。[解説] 詩篇41:9からの引用です。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or (perhaps) “I am certainly telling you this.” According to BDF §12.3 ἀπ᾿ ἄρτι (ap’ arti) should be read as ἀπαρτί (aparti), meaning “exactly, certainly.”",
+        "ja": "[翻訳注] あるいは（おそらく）「私は確かにこれをあなたがたに告げている」。BDF §12.3によれば、ἀπ᾿ ἄρティ（アプ・アルティ）は ἀπαρτί（アパルティ）と読むべきで、「正確に、確かに」という意味になります。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “so that you may believe.”",
+        "ja": "[翻訳注] ギリシャ語では「あなたがたが信じるために」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “that I am.” R. E. Brown (John [AB], 2:555) argues for a nonpredicated ἐγώ εἰμι (egw eimi) here, but this is far from certain.",
+        "ja": "[翻訳注] ギリシャ語では「私が（それ）である（I am）」。R. E. ブラウン（John [AB], 2:555）は、ここでの ἐγώ εἰミ（エゴー・エイミ）は述語を伴わない絶対的なものだと主張していますが、それは確実ではありません。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシャ語では「まことに、まことに、私はあなたがたに言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “receives,” and so throughout this verse.",
+        "ja": "[翻訳注] あるいは「受け取る」。この節全体で同様です。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The one who sent me refers to God.",
+        "ja": "[解説] 「私を遣わした方」とは神を指します。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “greatly troubled.”",
+        "ja": "[翻訳注] あるいは「ひどくかき乱された」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and testified and said.”",
+        "ja": "[翻訳注] ギリシャ語では「証しして言った」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシャ語では「まことに、まことに、私はあなたがたに言う」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “will hand me over.”",
+        "ja": "[翻訳注] あるいは「私を引き渡す」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “uncertain,” “at a loss.” Here two terms, “worried and perplexed,” were used to convey the single idea of the Greek verb ἀπορέω (aporew).",
+        "ja": "[翻訳注] ギリシャ語では「確信が持てない」「途方に暮れた」。ここではギリシャ語の動詞 ἀπορέω（アポレオ）の単一の概念を伝えるために、「心配し当惑して（worried and perplexed）」という二つの表現を用いています。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  Here for the first time the one Jesus loved, the ‘beloved disciple,’ is introduced. This individual also is mentioned in 19:26, 20:2, 21:7, and 21:20. Some have suggested that this disciple is to be identified with Lazarus, since the Fourth Gospel specifically states that Jesus loved him (11:3, 5, 36). From the terminology alone this is a possibility; the author is certainly capable of using language in this way to indicate connections. But there is nothing else to indicate that Lazarus was present at the last supper; Mark 14:17 seems to indicate it was only the twelve who were with Jesus at this time, and there is no indication in the Fourth Gospel to the contrary. Nor does it appear that Lazarus ever stood so close to Jesus as the later references in chaps. 19, 20 and 21 seem to indicate. When this is coupled with the omission of all references to John son of Zebedee from the Fourth Gospel, it seems far more likely that the references to the beloved disciple should be understood as references to him.",
+        "ja": "[解説] ここで初めて「イエスの愛しておられた弟子」が登場します。この人物は19:26、20:2、21:7、21:20でも言及されています。第四福音書には、イエスがラザロを愛しておられたと具体的に記されているため（11:3, 5, 36）、この弟子はラザロであると示唆する者もいます。用語だけを見ればその可能性はありますが、著者は確かに関連性を示すためにこのような言葉を使うことができます。しかし、ラザロが最後の晩餐に同席していたことを示す根拠は他にありません。マルコ14:17は、この時イエスと一緒にいたのは十二弟子だけであったことを示しているようで、第四福音書にもそれに反する記述はありません。また、19章、20章、21章の後の言及が示すほどに、ラザロがイエスと親密であったとも思われません。これに加えて、第四福音書からゼベダイの子ヨハネへの言及が一切欠落していることを考慮すると、愛された弟子への言及はヨハネを指していると理解するのがはるかに妥当です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “was reclining.” This reflects the normal 1st century practice of eating a meal in a semi-reclining position.",
+        "ja": "[翻訳注] ギリシャ語では「横たわっていた」。これは、半分横たわった姿勢で食事をするという1世紀の習慣を反映しています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “was reclining in the bosom (or “lap”) of Jesus” (according to both L&N 17.25 and BDAG 65 s.v. ἀνάκειμαι 2 an idiom for taking the place of honor at a meal, but note the similar expression in John 1:18). Whether this position or the position to the left of Jesus should be regarded as the position of second highest honor (next to the host, in this case Jesus, who was in the position of highest honor) is debated. F. Prat, “Les places d’honneur chez les Juifs contemporains du Christ” (RSR 15 [1925]: 512-22), who argued that the table arrangement was that of the Roman triclinium (a U-shaped table with Jesus and two other disciples at the bottom of the U), considered the position to the left of Jesus to be the one of second highest honor. Thus the present translation renders this “a position of honor” without specifying which one (since both of the two disciples to the right and to the left of Jesus would be in positions of honor). Other translations differ as to how they handle the phrase ἐν τῷ κόλπῳ τοῦ ᾿Ιησοῦ (en tw kolpw tou Ihsou; “leaning on Jesus’ bosom,” KJV; “lying close to the breast of Jesus,” RSV; “reclining on Jesus’ breast,” NASB; “reclining next to him,” NIV, NRSV) but the symbolic significance of the beloved disciple’s position seems clear. He is close to Jesus and in an honored position. The phrase as an idiom for a place of honor at a feast is attested in the Epistles of Pliny (the Younger) 4.22.4, an approximate contemporary of Paul.[解説]  Note that the same expression translated in a place of honor here (Grk “in the bosom of”) is used to indicate Jesus’ relationship with the Father in 1:18.",
+        "ja": "[翻訳注] ギリシャ語では「イエスの懐（あるいは「膝」）に横たわっていた」。これは、食事の際の名誉ある席に着くことを意味する慣用句ですが（ヨハネ1:18の同様の表現に注目）、この位置と、イエスの左側の位置のどちらが第二の上座（最高の上座にいる主人、この場合はイエスの隣）とされるべきかについては議論があります。F. プラットは、テーブルの配置がローマ風のトリクリニウム（U字型のテーブルで、イエスと他の二人の弟子がU字の底に位置する）であったと考え、イエスの左側が第二の上座であると主張しました。したがって、本翻訳ではどちらかを特定せずに「名誉ある席」としています（イエスの右と左の両方の弟子が名誉ある席にいることになるため）。他の翻訳では ἐν τῷ κόλπῳ τοῦ ᾿Ιησοῦ（エン・トー・コルポー・トゥ・イエスー）の扱いが異なりますが（「イエスの懐に寄りかかって」KJV、「イエスの胸の近くに横たわって」RSV、「イエスの懐に寄りかかって」NASB、「彼の隣に横たわって」NIV, NRSV）、愛された弟子の位置の象徴的な意義は明らかです。彼はイエスに近く、名誉ある地位にいます。祝宴での名誉ある席を指す慣用句としてのこの表現は、パウロとほぼ同時代の小プリニウスの書簡（4.22.4）にも見られます。[解説] ここで「名誉ある席（懐に）」と訳されているのと同じ表現が、1:18ではイエスと父との関係を示すために使われていることに注目してください。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[解説]  It is not clear where Simon Peter was seated. If he were on Jesus’ other side, it is difficult to see why he would not have asked the question himself. It would also have been difficult to beckon to the beloved disciple, on Jesus’ right, from such a position. So apparently Peter was seated somewhere else. It is entirely possible that Judas was seated to Jesus’ left. Matt 26:25 seems to indicate that Jesus could speak to him without being overheard by the rest of the group. Judas is evidently in a position where Jesus can hand him the morsel of food (13:26).",
+        "ja": "[解説] シモン・ペテロがどこに座っていたかは明らかではありません。もし彼がイエスの反対側にいたなら、なぜ自分で質問しなかったのか説明が困難です。また、そのような位置からイエスの右側にいる愛された弟子に合図を送るのも難しかったでしょう。したがって、ペテロは別の場所に座っていたようです。ユダがイエスの左側に座っていた可能性は十分にあります。マタイ26:25は、イエスが他の人々に聞こえないようにユダに話しかけることができたことを示唆しているようです。ユダは明らかに、イエスがパン切れを手渡すことができる位置にいました（13:26）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “to this one”; the referent (the beloved disciple) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「この者に」。指示対象（愛された弟子）を翻訳では明確にしています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼に」。指示対象（イエス）を翻訳では明確にしています。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  That is, who would betray him (v. 21).",
+        "ja": "[解説] つまり、誰が裏切るのかということです（21節）。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (the disciple Jesus loved) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（イエスが愛された弟子）を明確にしています。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Jesus answered.”",
+        "ja": "[翻訳注] ギリシャ語では「イエスは答えられた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The piece of bread was a broken-off piece of bread (not merely a crumb).",
+        "ja": "[解説] パン切れとは、（単なるくずではなく）ちぎり取ったパンの一片のことです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “after I have dipped it.” The words “in the dish” are not in the Greek text, but the presence of a bowl or dish is implied.",
+        "ja": "[翻訳注] ギリシャ語では「私が浸した後で」。「鉢（皿）の中に」という言葉はギリシャ語テキストにはありませんが、ボウルや皿の存在が暗示されています。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The words “in the dish” are not in the Greek text, but the presence of a bowl or dish is implied.",
+        "ja": "[翻訳注] 「鉢（皿）の中に」という言葉はギリシャ語テキストにはありませんが、暗示されています。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Judas) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（ユダ）を明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “into that one”; the pronoun “he” is more natural English style here.[解説]  This is the only time in the Fourth Gospel that Satan is mentioned by name. Luke 22:3 uses the same terminology of Satan “entering into” Judas but indicates it happened before the last supper at the time Judas made his deal with the authorities. This is not necessarily irreconcilable with John’s account, however, because John 13:2 makes it clear that Judas had already come under satanic influence prior to the meal itself. The statement here is probably meant to indicate that Judas at this point came under the influence of Satan even more completely and finally. It marks the end of a process which, as Luke indicates, had begun earlier.",
+        "ja": "[翻訳注] ギリシャ語では「あの人の中に」。代名詞「彼」の方が自然な日本語になります。[解説] 第四福音書でサタンが名前で言及されるのはここだけです。ルカ22:3も、サタンがユダに「入った」という同じ用語を使っていますが、それは最後の晩餐の前、ユダが当局と取引をした時であったとしています。しかし、ヨハネ13:2が、ユダが食事の前にすでに悪魔の影響下にあったことを明確にしているため、ヨハネの記述と必ずしも矛盾するわけではありません。ここでの記述は、ユダがこの時点でより完全かつ決定的にサタンの影響下に入ったことを示す意図があると思われます。これは、ルカが指摘するように以前から始まっていたプロセスの終着点を印づけています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Then Jesus said to him.”",
+        "ja": "[翻訳注] ギリシャ語では「そのとき、イエスは彼に言われた」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “reclining at the table.” The phrase reclining at the table reflects the normal practice in 1st century Near Eastern culture of eating a meal in a semi-reclining position.",
+        "ja": "[翻訳注] ギリシャ語では「食卓に横たわっている」。この表現は、半分横たわった姿勢で食事をするという、1世紀の近東文化の一般的な習慣を反映しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “knew.”",
+        "ja": "[翻訳注] あるいは「知っていた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（イエス）を明確にしています。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “to him”; the referent (Judas) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼に」。指示対象（ユダ）を明確にしています。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “telling him, ‘Buy whatever we need for the feast.’” The first clause is direct discourse and the second clause indirect discourse. For smoothness of English style, the first clause has been converted to indirect discourse to parallel the second (the meaning is left unchanged).",
+        "ja": "[翻訳注] ギリシャ語では、彼に「祭りのために必要なものを買いなさい」と言われた、となっています。前半は直接話法で、後半は間接話法です。日本語の文体を整えるために、両方を間接話法に統一しています（意味は変わりません）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入的な注釈です。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “That one”; the referent (Judas) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「あの人」。指示対象（ユダ）を翻訳では明確にしています。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Now it was night is a parenthetical note by the author. The comment is more than just a time indicator, however. With the departure of Judas to set in motion the betrayal, arrest, trials, crucifixion, and death of Jesus, daytime is over and night has come (see John 9:5; 11:9-10; 12:35-36). Judas had become one of those who walked by night and stumbled, because the light was not in him (11:10).",
+        "ja": "[解説] 「時は夜であった」は著者による挿入的な注釈です。しかし、このコメントは単なる時刻の表示以上のものです。裏切り、逮捕、裁判、十字架、そして死への動きを開始させるためにユダが去ったことで、昼は終わり、夜が来たのです（ヨハネ9:5、11:9-10、12:35-36参照）。ユダは、光がその人の内にないために、夜歩いてつまずく者の一人となったのでした（11:10）。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Then when.”",
+        "ja": "[翻訳注] ギリシャ語では「それで、……のとき」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Judas) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシャ語では「彼」。指示対象（ユダ）を明確にしています。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "rightly places the words in brackets, indicating doubt as to their authenticity.",
+        "ja": "（英語原文の注：特定の版において）「これらの言葉を括弧に入れ、その真実性に疑問があることを示している」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “immediately.”",
+        "ja": "[翻訳注] あるいは「直ちに」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “You will seek me.”",
+        "ja": "[翻訳注] あるいは「あなたがたは私を捜し求める」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the Jews.” In NT usage the term ᾿Ιουδαῖοι (Ioudaioi) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. (For further information see R. G. Bratcher, “‘The Jews’ in the Gospel of John,” BT 26 [1975]: 401-9.) Here the phrase refers to the residents of Jerusalem in general, or to the Jewish religious leaders in particular, who had sent servants to attempt to arrest Jesus on that occasion (John 7:33-35). The last option is the one adopted in the translation above.",
+        "ja": "[翻訳注] ギリシャ語では「ユダヤ人たち」。新約聖書の語法において、Ἰουδαῖοι（イウダイオイ）という語は、ユダヤ人全体、エルサレムとその周辺の住民、エルサレムの当局者、あるいは単にイエスに敵対した人々を指すことがあります。ここでは、エルサレムの一般住民、あるいは特に、その時にイエスを逮捕しようと役人を送ったユダヤの宗教指導者たちを指しています（ヨハネ7:33-35）。翻訳では後者の解釈を採用しています。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  See John 7:33-34.",
+        "ja": "[解説] ヨハネ7:33-34参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The words “the same” are not in the Greek text but are implied. Direct objects in Greek were often omitted when clear from the context.",
+        "ja": "[翻訳注] 「同じこと」という言葉はギリシャ語にはありませんが、文脈から暗示されています。ギリシャ語では、文脈から明らかな場合、直接目的語がしばしば省略されます。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The ἵνα (Jina) clause gives the content of the commandment. This is indicated by a dash in the translation.",
+        "ja": "[翻訳注] ἵνα（ヒナ）節が戒めの内容を示しています。翻訳ではダッシュを用いてこれを表しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The idea that love is a commandment is interesting. In the OT the ten commandments have a setting in the covenant between God and Israel at Sinai; they were the stipulations that Israel had to observe if the nation were to be God’s chosen people. In speaking of love as the new commandment for those whom Jesus had chosen as his own (John 13:1, 15:16) and as a mark by which they could be distinguished from others (13:35), John shows that he is thinking of this scene in covenant terminology. But note that the disciples are to love “Just as I have loved you” (13:34). The love Jesus has for his followers cannot be duplicated by them in one sense, because it effects their salvation, since he lays down his life for them: It is an act of love that gives life to people. But in another sense, they can follow his example (recall to the end, 13:1; also 1 John 3:16, 4:16 and the interpretation of Jesus’ washing of the disciples’ feet). In this way Jesus’ disciples are to love one another: They are to follow his example of sacrificial service to one another, to death if necessary.",
+        "ja": "[解説] 「愛」が「戒め（命令）」であるという考え方は興味深いものです。旧約聖書において、十戒はシナイでの神とイスラエルの契約の中に位置づけられています。それらは、イスラエルが神の選民であるために守らなければならない規定でした。イエスが、ご自分が選んだ者たちのための新しい戒めとして愛を語り（ヨハネ13:1, 15:16）、彼らが他者と区別される印として愛を挙げている（13:35）ことから、ヨハネはこの場面を契約の用語法で考えていることがわかります。しかし、弟子たちは「私があなたがたを愛したように」愛さなければならないことに注意してください（13:34）。イエスが追随者に対して抱く愛は、彼らの救いを成し遂げ、彼らのために命を捨てるものであるため、ある意味で彼らが複製することはできません。それは人々に命を与える愛の行為です。しかし別の意味で、彼らは彼の模範に従うことができます（13:1の「最後まで」、また第一ヨハネ3:16, 4:16、およびイエスの足洗いの解釈を想起してください）。このようにして、イエスの弟子たちは互いに愛し合うべきなのです。すなわち、互いへの犠牲的な奉仕という彼の模範に従い、必要であれば死に至るまで愛するのです。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “All people,” although many modern translations have rendered πάντες (pantes) as “all men” (ASV, RSV, NASB, NIV). While the gender of the pronoun is masculine, it is collective and includes people of both genders.",
+        "ja": "[翻訳注] ギリシャ語では「すべての人々（All people）」。多くの現代訳では πάντες（パンテス）を「すべての男たち（all men）」と訳していますが、代名詞の性は男性であっても、集合的なものであり男女両方の性を含んでいます。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Jesus answered him.”",
+        "ja": "[翻訳注] ギリシャ語では「イエスは彼に答えられた」。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “I will die willingly for you.”",
+        "ja": "[翻訳注] あるいは「あなたのために喜んで死にます」。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Will you die willingly for me?”",
+        "ja": "[翻訳注] あるいは「私のために喜んで死ぬと言うのか」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシャ語では「まことに、まことに、私はあなたに言う」。"
+      }
+    ]
+  }
+}

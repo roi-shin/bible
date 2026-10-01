@@ -1,0 +1,734 @@
+{
+  "book": "Luke",
+  "chapter": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Jesus looked up and saw the rich putting their gifts into the offering box. ",
+      "ja": "イエスは目を上げて、金持ちたちが献金箱に献金を入れているのを見られた。"
+    },
+    {
+      "verse": 2,
+      "en": "He also saw a poor widow put in two small copper coins. ",
+      "ja": "また、ある貧しいやもめがレプタ銅貨二枚を入れるのを見られた。"
+    },
+    {
+      "verse": 3,
+      "en": "He said, “I tell you the truth, this poor widow has put in more than all of them. ",
+      "ja": "そして言われた。「まことに、あなたがたに告げる。この貧しいやもめは、だれよりも多くを入れた。"
+    },
+    {
+      "verse": 4,
+      "en": "For they all offered their gifts out of their wealth. But she, out of her poverty, put in everything she had to live on.” ",
+      "ja": "彼らはみな、有り余る中から献金を献げたが、この人は乏しい中から、持っていた生活費のすべてを入れたからである。」"
+    },
+    {
+      "verse": 5,
+      "en": "Now while some were speaking about the temple, how it was adorned with beautiful stones and offerings, Jesus said, ",
+      "ja": "さて、ある人々が神殿について、見事な石と奉納物で美しく飾られていると話していたとき、イエスは言われた。"
+    },
+    {
+      "verse": 6,
+      "en": "“As for these things that you are gazing at, the days will come when not one stone will be left on another. All will be torn down!” ",
+      "ja": "「あなたがたが見つめているこれらの物について言えば、一つの石も崩されずに他の石の上に残ることのない日が来る。すべてが破壊される。」"
+    },
+    {
+      "verse": 7,
+      "en": "So they asked him, “Teacher, when will these things happen? And what will be the sign that these things are about to take place?” ",
+      "ja": "そこで彼らはイエスに尋ねた。「先生、それでは、これらのことはいつ起こるのですか。また、これらのことが起ころうとするときには、どのような前兆があるのですか。」"
+    },
+    {
+      "verse": 8,
+      "en": "He said, “Watch out that you are not misled. For many will come in my name, saying, ‘I am he,’ and, ‘The time is near.’ Do not follow them! ",
+      "ja": "イエスは言われた。「惑わされないように注意しなさい。多くの者がわたしの名を名乗って現れ、『わたしこそがそれだ』とか『時が近づいた』とか言う。彼らに従ってはいけない。"
+    },
+    {
+      "verse": 9,
+      "en": "And when you hear of wars and rebellions, do not be afraid. For these things must happen first, but the end will not come at once.” ",
+      "ja": "戦争や反乱のことを聞いても、恐れてはならない。これらのことはまず起こらなければならないが、終わりはすぐには来ない。」"
+    },
+    {
+      "verse": 10,
+      "en": "Then he said to them, “Nation will rise up in arms against nation, and kingdom against kingdom. ",
+      "ja": "それから、イエスは彼らに言われた。「民族は民族に、国は国に敵対して立ち上がる。"
+    },
+    {
+      "verse": 11,
+      "en": "There will be great earthquakes, and famines and plagues in various places, and there will be terrifying sights and great signs from heaven. ",
+      "ja": "大地震があり、あちこちで飢饉や疫病が起こり、恐ろしい光景や天からの著しい前兆が現れる。"
+    },
+    {
+      "verse": 12,
+      "en": "But before all this, they will seize you and persecute you, handing you over to the synagogues and prisons. You will be brought before kings and governors because of my name. ",
+      "ja": "しかし、これらのすべてのことの前に、人々はあなたがたを捕らえて迫害し、会堂や牢に引き渡し、わたしの名のために、王たちや総督たちの前に引き出す。"
+    },
+    {
+      "verse": 13,
+      "en": "This will be a time for you to serve as witnesses. ",
+      "ja": "これは、あなたがたが証しをする機会となる。"
+    },
+    {
+      "verse": 14,
+      "en": "Therefore be resolved not to rehearse ahead of time how to make your defense. ",
+      "ja": "だから、どう弁明するか前もって準備しないと心に決めなさい。"
+    },
+    {
+      "verse": 15,
+      "en": "For I will give you the words along with the wisdom that none of your adversaries will be able to withstand or contradict. ",
+      "ja": "わたしが、あなたがたの反対者のだれも対抗することも反論することもできない言葉と知恵を与えるからである。"
+    },
+    {
+      "verse": 16,
+      "en": "You will be betrayed even by parents, brothers, relatives, and friends, and they will have some of you put to death. ",
+      "ja": "あなたがたは両親、兄弟、親族、友人たちにさえ裏切られ、中には死に至らしめられる者もいる。"
+    },
+    {
+      "verse": 17,
+      "en": "You will be hated by everyone because of my name. ",
+      "ja": "また、わたしの名のために、すべての人に憎まれる。"
+    },
+    {
+      "verse": 18,
+      "en": "Yet not a hair of your head will perish. ",
+      "ja": "しかし、あなたがたの髪の毛一本すら失われない。"
+    },
+    {
+      "verse": 19,
+      "en": "By your endurance you will gain your lives. ",
+      "ja": "忍耐によって、あなたがたは自分の命を勝ち取る。"
+    },
+    {
+      "verse": 20,
+      "en": "“But when you see Jerusalem surrounded by armies, then know that its desolation has come near. ",
+      "ja": "「しかし、エルサレムが軍勢に包囲されるのを見たら、その荒廃が近づいたことを知りなさい。"
+    },
+    {
+      "verse": 21,
+      "en": "Then those who are in Judea must flee to the mountains. Those who are inside the city must depart. Those who are out in the country must not enter it, ",
+      "ja": "そのとき、ユダヤにいる者たちは山へ逃げなさい。都の中にいる者たちは脱出しなさい。田舎にいる者たちは都に入ってはならない。"
+    },
+    {
+      "verse": 22,
+      "en": "because these are days of vengeance, to fulfill all that is written. ",
+      "ja": "書かれているすべてのことが成就する、復讐の日々だからである。"
+    },
+    {
+      "verse": 23,
+      "en": "Woe to those who are pregnant and to those who are nursing their babies in those days! For there will be great distress on the earth and wrath against this people. ",
+      "ja": "その日々には、身重の女と乳母は災いである。この地に大きな苦難があり、この民に神の怒りが臨むからである。"
+    },
+    {
+      "verse": 24,
+      "en": "They will fall by the edge of the sword and be led away as captives among all nations. Jerusalem will be trampled down by the Gentiles until the times of the Gentiles are fulfilled. ",
+      "ja": "人々は剣の刃に倒れ、捕虜としてあらゆる異邦人のもとへ連れ去られる。そしてエルサレムは、異邦人の時が満ちるまで、異邦人に踏み荒らされる。"
+    },
+    {
+      "verse": 25,
+      "en": "“And there will be signs in the sun and moon and stars, and on the earth nations will be in distress, anxious over the roaring of the sea and the surging waves. ",
+      "ja": "「そして、太陽と月と星に前兆が現れ、地上では海のとどろきと激しい波に不安を抱き、諸民族が苦悩する。"
+    },
+    {
+      "verse": 26,
+      "en": "People will be fainting from fear and from the expectation of what is coming on the world, for the powers of the heavens will be shaken. ",
+      "ja": "人々は、世界に臨もうとする出来事への恐れと予感から気を失う。天の万象が揺り動かされるからである。"
+    },
+    {
+      "verse": 27,
+      "en": "Then they will see the Son of Man arriving in a cloud with power and great glory. ",
+      "ja": "そのとき、人の子が力と偉大な栄光を帯びて雲に乗って来るのを、人々は見る。"
+    },
+    {
+      "verse": 28,
+      "en": "But when these things begin to happen, stand up and raise your heads because your redemption is drawing near.” ",
+      "ja": "これらのことが起こり始めたら、身を起こし、頭を上げなさい。あなたがたの贖いが近づいているからである。」"
+    },
+    {
+      "verse": 29,
+      "en": "Then he told them a parable: “Look at the fig tree and all the other trees. ",
+      "ja": "それから、イエスは彼らにたとえを話された。「いちじくの木や、すべての木を見なさい。"
+    },
+    {
+      "verse": 30,
+      "en": "When they sprout leaves, you see for yourselves and know that summer is now near. ",
+      "ja": "それらが葉を出すと、あなたがたは自分で見て、すでに夏が近いことがわかる。"
+    },
+    {
+      "verse": 31,
+      "en": "So also you, when you see these things happening, know that the kingdom of God is near. ",
+      "ja": "このようにあなたがたも、これらのことが起こるのを見たら、神の国が近いことを知りなさい。"
+    },
+    {
+      "verse": 32,
+      "en": "I tell you the truth, this generation will not pass away until all these things take place. ",
+      "ja": "まことに、あなたがたに告げる。すべてのことが起こるまで、この時代が過ぎ去ることはない。"
+    },
+    {
+      "verse": 33,
+      "en": "Heaven and earth will pass away, but my words will never pass away. ",
+      "ja": "天地は過ぎ去る。しかし、わたしの言葉は過ぎ去ることがない。"
+    },
+    {
+      "verse": 34,
+      "en": "“But be on your guard so that your hearts are not weighed down with dissipation and drunkenness and the worries of this life, and that day close down upon you suddenly like a trap.",
+      "ja": "「しかし、放縦や深酒や生活の思い煩いによって心が重くなり、その日が罠のように思いがけずあなたがたを襲うことのないよう、油断なく警戒しなさい。"
+    },
+    {
+      "verse": 35,
+      "en": "For it will overtake all who live on the face of the whole earth. ",
+      "ja": "その日は、全地の表に住むすべての人に臨むからである。"
+    },
+    {
+      "verse": 36,
+      "en": "But stay alert at all times, praying that you may have strength to escape all these things that must happen, and to stand before the Son of Man.” ",
+      "ja": "だから、起ころうとしているこれらすべてのことから逃れ、人の子の前に立つ力を得られるよう、絶えず祈りつつ用心していなさい。」"
+    },
+    {
+      "verse": 37,
+      "en": "So every day Jesus was teaching in the temple courts, but at night he went and stayed on the Mount of Olives. ",
+      "ja": "こうして、イエスは昼は神殿の境内で教え、夜は出て行ってオリーブ山と呼ばれる山で夜を過ごされた。"
+    },
+    {
+      "verse": 38,
+      "en": "And all the people came to him early in the morning to listen to him in the temple courts. ",
+      "ja": "民衆はみな、イエスの話を聞こうと、朝早く神殿の境内におられるイエスのもとに集まった。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “He”; the referent has been specified in the translation for clarity. Here δέ (de) has not been translated.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼」。わかりやすくするために翻訳では指示対象を明示している。ここではδέ（de）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “looking up, he saw.” The participle ἀναβλέψας (anableya\") has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「目を上げると、彼は見た」。分詞ἀναβλέψας（anablepsas）は、現代英語の文体の要請により定形動詞として翻訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  On the term γαζοφυλάκιον (gazofulakion), often translated “treasury,” see BDAG 186 s.v., which states, “For Mk 12:41, 43; Lk 21:1 the mng. contribution box or receptacle is attractive. Acc. to Mishnah, Shekalim 6, 5 there were in the temple 13 such receptacles in the form of trumpets. But even in these passages the general sense of ‘treasury’ is prob., for the contributions would go [into] the treasury via the receptacles.” Based upon the extra-biblical evidence (see sn following), however, the translation opts to refer to the actual receptacles and not the treasury itself.[解説]  The offering box probably refers to the receptacles in the temple forecourt by the Court of Women used to collect freewill offerings. These are mentioned by Josephus, J. W. 5.5.2 (5.200), 6.5.2 (6.282); Ant. 19.6.1 (19.294); and in 1 Macc 14:49 and 2 Macc 3:6, 24, 28, 40 (see also Mark 12:41; John 8:20).",
+        "ja": "[翻訳注]  しばしば「宝物庫」と訳されるγαζοφυλάκιον（gazophylakion）という語については、BDAG 186を参照。「マルコ12:41, 43、ルカ21:1では、献金箱や受け箱という意味が魅力的である。ミシュナ（シェカリーム6:5）によると、神殿にはラッパの形をしたそのような受け箱が13個あった。しかしこれらの箇所でも一般的な意味での『宝物庫』である可能性が高く、献金は受け箱を通じて宝物庫に入ったためである。」しかし聖書外の証拠（次の解説を参照）に基づき、この翻訳では宝物庫自体ではなく実際の受け箱を指す訳語を選択している。[解説]  献金箱はおそらく、自由意志による献金を集めるために婦人の庭のそばの神殿の前庭に置かれていた受け箱を指す。これらはヨセフス（『ユダヤ戦記』5.5.2 [5.200]、6.5.2 [6.282]、『古代誌』19.6.1 [19.294]）や、マカバイ記一 14:49、マカバイ記二 3:6, 24, 28, 40で言及されている（マルコ12:41、ヨハネ8:20も参照）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[解説]  These two small copper coins were lepta (sing. “lepton”), the smallest and least valuable coins in circulation in Palestine, worth one-half of a quadrans or 1/128 of a denarius, or about six minutes of an average daily wage. This was next to nothing in value.",
+        "ja": "[解説]  この二枚の小さな銅貨はレプタ（単数形はレプトン）であり、パレスチナで流通していた最も小さく価値の低い硬貨であった。クドラントの半分、デナリの128分の1に相当し、平均的な日当の約6分間にあたる。その価値は無に等しいものであった。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Truly, I say to you.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「まことに、わたしはあなたがたに言う」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Has put in more than all of them. With God, giving is weighed evaluatively, not counted. The widow was praised because she gave sincerely and at some considerable cost to herself.",
+        "ja": "[解説]  「だれよりも多くを入れた」。神の御前では、捧げ物は数量ではなく価値によって評価される。このやもめは、自分にとって大きな犠牲を払い、真心から捧げたために称賛された。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “out of what abounded to them.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「自分たちに有り余るものの中から」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “put in her entire livelihood.”",
+        "ja": "[翻訳注]  または「生活の糧をすべて入れた」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注]  ここでは新しい話題への移行を示すため、καί（kai）が「さて」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The Jerusalem temple was widely admired around the world. See Josephus, Ant. 15.11 (15.380-425); J. W. 5.5 (5.184-227) and Tacitus, History 5.8, who called it “immensely opulent.” Josephus compared it to a beautiful snowcapped mountain.",
+        "ja": "[解説]  エルサレム神殿は世界中で広く賞賛されていた。ヨセフス（『古代誌』15.11 [15.380-425]、『ユダヤ戦記』5.5 [5.184-227]）や、それを「非常に豪華絢爛」と呼んだタキトゥス（『歴史』5.8）を参照。ヨセフスは神殿を雪をかぶった美しい山にたとえた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  For the translation of ἀνάθημα (anaqhma) as “offering” see L&N 53.18.",
+        "ja": "[翻訳注]  ἀνάθηマ（anathema）を「奉納物」と訳すことについては、L&N 53.18を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  With the statement days will come when not one stone will be left on another Jesus predicted the total destruction of the temple, something that did occur in a.d. 70.",
+        "ja": "[解説]  「一つの石も崩されずに他の石の上に残ることのない日が来る」という言葉で、イエスは神殿の完全な破壊を予告された。これは西暦70年に実際に起こったことである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “the days will come when not one stone will be left on another that will not be thrown down.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「一つの石も崩されずに他の石の上に残ることのない日が来る」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate the implied result of Jesus’ comments about the temple’s future destruction.",
+        "ja": "[翻訳注]  ここでは神殿の将来の破壊に関するイエスの発言から導かれる結果を示すため、δέ（de）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “asked him, saying.” The participle λέγοντες (legontes) is redundant in English and has not been translated.",
+        "ja": "[翻訳注]  ギリシャ語本文は「言って彼に尋ねた」。分詞λέγοντες（legontes）は英語では重複となるため翻訳されていない。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Both references to these things are plural, so more than the temple’s destruction is in view. The question may presuppose that such a catastrophe signals the end.",
+        "ja": "[解説]  「これらのこと」という言及はどちらも複数形であり、神殿の破壊以上のことが視野に入っている。この質問は、そのような破滅的な大惨事が終わりの前兆であるという前提に基づいている可能性がある。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “when.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「〜のときに」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注]  ここではδέ（de）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “Be on guard.”",
+        "ja": "[翻訳注]  または「警戒していなさい」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  That is, “I am the Messiah.”",
+        "ja": "[翻訳注]  すなわち「わたしこそがメシアである」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Social and political chaos also precedes the end. This term refers to revolutions (L&N 39.34).",
+        "ja": "[翻訳注]  社会と政治の混乱もまた終わりに先行する。この語は反乱や暴動を指す（L&N 39.34）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This is not the usual term for fear, but refers to a deep sense of terror and emotional distress (Luke 24:37; BDAG 895 s.v. πτοέω).",
+        "ja": "[翻訳注]  これは恐れを表す通常の語ではなく、強い恐怖や精神的動揺を指す（ルカ24:37、BDAG 895 πτοέωの項を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The end will not come at once. This remark about timing not only indicates that there will be events before the end, but that some time will also pass before it comes.",
+        "ja": "[解説]  「終わりはすぐには来ない」。この時期に関する言及は、終わりの前に幾多の出来事が起こるだけでなく、それが到来するまでに一定の時間が経過することも示している。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  For the translation “rise up in arms” see L&N 55.2.",
+        "ja": "[翻訳注]  「敵対して立ち上がる」という翻訳については、L&N 55.2を参照。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[解説]  See Isa 5:13-14; 13:6-16; Hag 2:6-7; Zech 14:4.",
+        "ja": "[解説]  イザヤ5:13-14、13:6-16、ハガイ2:6-7、ゼカリヤ14:4を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This term, φόβητρον (fobhtron), occurs only here in the NT. It could refer to an object, event, or condition that causes fear, but in the context it is linked with great signs from heaven, so the translation “sights” was preferred.",
+        "ja": "[翻訳注]  φόβητρον（phobetron）という語は新約聖書ではここにしか現れない。恐怖を引き起こす対象、出来事、状態を指す可能性があるが、文脈上「天からの著しい前兆」と結びついているため、「光景」という翻訳が選ばれた。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  See Jer 4:13-22; 14:12; 21:6-7.",
+        "ja": "[解説]  エレミヤ4:13-22、14:12、21:6-7を参照。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  But before all this. Another note of timing is present, this one especially important in understanding the sequence in the discourse. Before the things noted in vv. 8-11 are the events of vv. 12-19.",
+        "ja": "[解説]  「しかし、これらのすべてのことの前に」。時期に関する別の記述があり、これはこの講話の順序を理解する上で特に重要である。8-11節に記された事柄の前に、12-19節の出来事が起こる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “will lay their hands on you.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「あなたがたに手をかける」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Some of the persecution is of Jewish origin (the synagogues). Some fulfillment of this can be seen in Acts. See the note on synagogues in 4:15.",
+        "ja": "[解説]  迫害の一部はユダヤ人に起因する（会堂）。これの成就の一部は使徒の働きに見られる。4:15の会堂に関する注を参照。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.",
+        "ja": "[翻訳注]  ギリシャ語の文が長く複雑であるため、翻訳ではここで新しい文を開始している。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “This will turn out to you for [a] testimony.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「これはあなたがたにとって証しとなる」。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “determine in your hearts.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「心の中で定めなさい」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This term could refer to rehearsing a speech or a dance. On its syntax, see BDF §392.2.",
+        "ja": "[翻訳注]  この語は演説や踊りのリハーサルをすることを指す場合がある。その構文についてはBDF §392.2を参照。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “a mouth.” It is a metonymy and refers to the reply the Lord will give to them.",
+        "ja": "[翻訳注]  ギリシャ語本文は「口」。換喩であり、主が彼らに与える返答を指す。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and wisdom.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして知恵」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[解説]  To confess Christ might well mean rejection by one’s own family, even by parents.",
+        "ja": "[解説]  キリストを告白することは、自分の家族、両親にさえ拒絶されることを意味することがあった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and brothers and relatives,” but καί (kai) has not been translated twice here since English normally uses a coordinating conjunction only between the last two elements in a series of three or more.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして兄弟、そして親族」であるが、英語では通常3つ以上の要素を並べる際に最後の2つの間だけに等位接続詞を用いるため、ここではκαί（kai）が二度訳されていない。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[解説]  See Luke 6:22, 27; 1 Cor 1:25-31.",
+        "ja": "[解説]  ルカ6:22, 27、コリント第一 1:25-31を参照。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “yet” to indicate the contrast present in this context.",
+        "ja": "[翻訳注]  ここでは文脈に存在する対比を示すため、καί（kai）が「しかし」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Given v. 16, the expression not a hair of your head will perish must be taken figuratively and refer to living ultimately in the presence of God.",
+        "ja": "[解説]  16節を考慮すると、「髪の毛一本すら失われない」という表現は比喩的に理解されるべきであり、最終的に神の御前で生きることを指している。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[解説]  By your endurance is a call to remain faithful, because trusting in Jesus is the means to life.",
+        "ja": "[解説]  「忍耐によって」とは忠実であり続けることへの呼びかけである。イエスへの信頼こそが命に至る道だからである。"
+      },
+      {
+        "pos": 2,
+        "en": "33 pc lat sa) read the future indicative κτήσεσθε (kthsesqe). A decision is difficult because the evidence is so evenly balanced, but the aorist imperative is the harder reading and better explains the rise of the other. J. A. Fitzmyer assesses the translation options this way: “In English one has to use something similar [i.e., a future indicative], even if one follows the [aorist imperative]” (Luke [AB], 2:1341); in the same vein, although this translation follows the aorist imperative, because of English requirements it has been translated as though it were a future indicative.",
+        "ja": "[異読]  一部の写本（... 33 pc lat sa）は未来形直説法κτήσεσθε（ktesesthe）と読んでいる。証拠が均衡しているため判断は難しいが、アオリスト命令形の方が難読であり、他の読みが生じた理由をよりよく説明できる。J・A・フィッツマイヤーは翻訳の選択肢について次のように評価している。「アオリスト命令形に従う場合であっても、英語では類似の表現（すなわち未来形直説法）を用いざるを得ない」（Luke [AB], 2:1341）。同様に、この翻訳はアオリスト命令形に従っているものの、英語の要請により未来形直説法であるかのように翻訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “your souls,” but ψυχή (yuch) is frequently used of one’s physical life. In light of v. 16 that does not seem to be the case here. The entire phrase could be taken as an idiom meaning “you will save yourselves” (L&N 21.20), or (as in v. 18) this could refer to living ultimately in the presence of God.",
+        "ja": "[翻訳注]  ギリシャ語本文は「あなたがたの魂」。しかしψυχή（psyche）は肉体的な命を指して頻繁に用いられる。16節に照らすと、ここではその意味ではないと考えられる。句全体として「あなたがたは自分自身を救う」（L&N 21.20）を意味する慣用句と解釈することもできるし、（18節のように）最終的に神の御前で生きることを指していると解釈することもできる。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図]  位置についてはMap5-B1、Map6-F3、Map7-E2、Map8-F2、Map10-B3、JP1-F4、JP2-F4、JP3-F4、JP4-F4を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See Luke 19:41-44. This passage refers to the events associated with the fall of Jerusalem, when the city is surrounded by armies.",
+        "ja": "[解説]  ルカ19:41-44を参照。この箇所はエルサレムの陥落に伴う出来事、すなわち都が軍勢に包囲されるときを指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “her,” referring to the city of Jerusalem (the name “Jerusalem” in Greek is a feminine noun).",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼女の」。エルサレムの都を指している（ギリシャ語の「エルサレム」は女性名詞）。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The phrase its desolation is a reference to the fall of the city, which is the only antecedent present in Luke’s account. The parallels to this in Matt 24:15 and Mark 13:14 refer to the temple’s desolation, though Matthew’s allusion is clearer. They focus on the parallel events of the end, not on the short term realization in a.d. 70. The entire passage has a prophetic “two events in one” typology, where the near term destruction (a.d. 70) is like the end. So the evangelists could choose to focus on the near time realization (Luke) or on its long term fulfillment, which mirrors it (Matthew, Mark).",
+        "ja": "[解説]  「その荒廃」という表現は都の陥落を指しており、ルカの記述においてはこれが唯一の先行詞である。マタイ24:15およびマルコ13:14の並行箇所は神殿の荒廃を指している（マタイの引喩の方が明確である）。これらは西暦70年の短期的な実現ではなく、終わりの並行する出来事に焦点を当てている。この箇所全体には予言的な「一つの出来事の中に二つの出来事がある」というタイポロジーがあり、近い将来の破壊（西暦70年）が終末のひな型となっている。そのため福音書記者たちは、近い将来の実現（ルカ）に焦点を当てるか、それを反映する長期的な成就（マタイ、マルコ）に焦点を当てるかを選択できたのである。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[解説]  Fleeing to the mountains is a key OT image: Gen 19:17; Judg 6:2; Isa 15:5; Jer 16:16; Zech 14:5.",
+        "ja": "[解説]  山へ逃げることは旧約聖書の重要なモチーフである。創世記19:17、士師記6:2、イザヤ15:5、エレミヤ16:16、ゼカリヤ14:5を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “of punishment.” This is a time of judgment.",
+        "ja": "[翻訳注]  または「処罰の」。これは裁きの時である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The passive construction with the infinitive πλησθῆναι (plhsqhnai) has been translated as an active construction for simplicity, in keeping with contemporary English style.",
+        "ja": "[翻訳注]  不定詞πλησθῆναι（plesthenai）を伴う受動構文は、現代英語の文体に合わせて簡潔にするため、能動構文として翻訳されている。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  Great distress means that this is a period of great judgment.",
+        "ja": "[解説]  「大きな苦難」とは、これが大いなる裁きの期間であることを意味する。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “by the mouth of the sword” (an idiom for the edge of a sword).",
+        "ja": "[翻訳注]  ギリシャ語本文は「剣の口によって」（剣の刃を意味する慣用句）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Here is the predicted judgment against the nation until the time of Gentile rule has passed: Its people will be led away as captives.",
+        "ja": "[解説]  異邦人の支配の時が過ぎ去るまでの、この民に対する裁きの予告がここにある。その民は捕虜として連れ去られる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “And Jerusalem.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そしてエルサレム」。ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Until the times of the Gentiles are fulfilled implies a time when Israel again has a central role in God’s plan.",
+        "ja": "[解説]  「異邦人の時が満ちるまで」とは、イスラエルが神の計画において再び中心的な役割を果たす時を暗に示している。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[解説]  Signs in the sun and moon and stars are cosmic signs that turn our attention to the end and the Son of Man’s return for the righteous. OT imagery is present: See Isa 13:9-10; 24:18-20; 34:4; Ezek 32:7-8; Joel 2:1, 30-31; 3:15.",
+        "ja": "[解説]  太陽と月と星の前兆は、終末と、正しい者たちのための人の子の再臨へと注意を向けさせる宇宙規模の前兆である。旧約聖書のイメージが見られる。イザヤ13:9-10、24:18-20、34:4、エゼキエル32:7-8、ヨエル2:1, 30-31、3:15を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “distress of nations.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「諸民族の苦悩」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “in consternation” (L&N 32.9).",
+        "ja": "[翻訳注]  または「狼狽して」（L&N 32.9）。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  According to L&N 23.184 this could be mainly a psychological experience rather than actual loss of consciousness. It could also refer to complete discouragement because of fear, leading people to give up hope (L&N 25.293).",
+        "ja": "[翻訳注]  L&N 23.184によると、これは実際の失神ではなく主に心理的な経験である可能性がある。また恐怖のために気力を失い、人々が希望を捨てることを指す場合もある（L&N 25.293）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  An allusion to Isa 34:4. The heavens were seen as the abode of heavenly forces, so their shaking indicates distress in the spiritual realm. Although some take the powers as a reference to bodies in the heavens (like stars and planets, “the heavenly bodies,” NIV) this is not as likely.",
+        "ja": "[解説]  イザヤ34:4への引喩。天は天上の勢力の住まいと見なされていたため、それらが揺り動かされることは霊的領域における動揺を示している。勢力（powers）を天体（星や惑星、NIVの「the heavenly bodies」など）を指すと解釈する者もいるが、その可能性は低い。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And then” (καὶ τότε, kai tote). Here καί has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そしてそのとき」（καὶ τότε, kai tote）。ギリシャ語と英語の文体の違いにより、ここではκαίは翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  An allusion to Dan 7:13. Here is Jesus returning with full judging authority.",
+        "ja": "[解説]  ダニエル7:13への引喩。ここには完全な裁きの権威を帯びて再臨するイエスの姿がある。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[解説]  These things are all the events of vv. 8-27. Disciples represent the righteous here. The events surrounding the fall of the nation are a down payment on a fuller judgment to come on all humanity. The presence of one guarantees the other.",
+        "ja": "[解説]  「これらのこと」とは8-27節のすべての出来事である。ここでは弟子たちが義人を代表している。国家の陥落を取り巻く出来事は、全人類に臨む完全な裁きの手付金（前触れ）である。一方の存在が他方を保証している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  With Jesus’ return comes the manifestation of judgment and final salvation (redemption).",
+        "ja": "[解説]  イエスの再臨とともに、裁きと最終的な救い（贖い）の現れが到来する。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  ここでは物語内の出来事の暗黙の順序を示すため、καί（kai）が「それから」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “all the trees.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「すべての木」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “seeing for yourselves, you know.” The participle βλέποντες (bleponte\") has been translated as a finite verb due to requirements of contemporary English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「自分で見て、知る」。分詞βλέποντες（blepontes）は、現代英語の文体の要請により定形動詞として翻訳されている。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The verb γινώσκετε (ginwskete, “know”) can be parsed as either present indicative or present imperative. In this context the imperative fits better, since the movement is from analogy (trees and seasons) to the future (the signs of the coming of the kingdom) and since the emphasis is on preparation for this event.",
+        "ja": "[翻訳注]  動詞γινώσκετε（ginoskete、「知る」）は現在形直説法または現在形命令法のいずれにも分析できる。類比（木と季節）から未来（御国の到来の前兆）への展開があり、この出来事への備えに強調が置かれているため、この文脈では命令法の方が適切である。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The kingdom of God refers here to the kingdom in all its power. See Luke 17:20-37.",
+        "ja": "[解説]  ここでの「神の国」は、力に満ちた御国を指している。ルカ17:20-37を参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly (ἀμήν, amhn), I say to you.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「まことに（ἀμήν, amen）、わたしはあなたがたに言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is one of the hardest verses in the gospels to interpret. Various views exist for what generation means. (1) Some take it as meaning “race” and thus as an assurance that the Jewish race (nation) will not pass away. But it is very questionable that the Greek term γενεά (genea) can have this meaning. Two other options are possible. (2) Generation might mean “this type of generation” and refer to the generation of wicked humanity. Then the point is that humanity will not perish, because God will redeem it. Or (3) generation may refer to “the generation that sees the signs of the end” (vv. 25-26), who will also see the end itself. In other words, once the movement to the return of Christ starts, all the events connected with it happen very quickly, in rapid succession.",
+        "ja": "[解説]  これは福音書の中で最も解釈が難しい節の一つである。「時代（あるいは世代）」が何を意味するかについてはさまざまな見解が存在する。(1) これを「民族」という意味に解釈し、ユダヤ民族（国家）が滅び去らないという保証とする見解がある。しかしギリシャ語のγενεά（genea）がこの意味を持ちうるかは疑わしい。他に二つの解釈が可能である。(2) 「世代」が「この種の世代」を意味し、邪悪な人類の世代を指すとする見解。その場合、神が人類を贖われるため、人類は滅びないという趣旨になる。または(3) 「世代」が「終わりの前兆を見る世代」（25-26節）を指し、その世代が終わりの到来そのものも見るという見解。言い換えれば、キリストの再臨への動きが始まると、それに関連するすべての出来事が連続して起こるということである。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[解説]  The words that Jesus predicts here will never pass away. They are more stable and lasting than creation itself. For this kind of image, see Isa 40:8; 55:10-11.",
+        "ja": "[解説]  イエスがここで予告される言葉は決して過ぎ去ることがない。それらは被造物そのものよりも確固として永続する。このような描写については、イザヤ40:8、55:10-11を参照。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “watch out for yourselves.”[解説]  Disciples are to watch out. If they are too absorbed into everyday life, they will stop watching and living faithfully.",
+        "ja": "[翻訳注]  ギリシャ語本文は「自分自身に気をつけなさい」。[解説]  弟子たちは警戒していなければならない。日常生活に没頭しすぎると、警戒することをやめ、忠実に生きることをやめてしまうからである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Or like a thief, see Luke 12:39-40. The metaphor of a trap is a vivid one. Most modern English translations traditionally place the words “like a trap” at the end of v. 34, completing the metaphor. In the Greek text (and in the NRSV and REB) the words “like a trap” are placed at the beginning of v. 35. This does not affect the meaning.",
+        "ja": "[解説]  あるいは盗人のように（ルカ12:39-40を参照）。罠の比喩は鮮明である。現代の英語訳の多くは伝統的に「罠のように」という語を34節の最後に置き、比喩を完結させている。ギリシャ語本文（およびNRSVやREB）では、「罠のように」という語は35節の冒頭に置かれている。これは意味に影響を与えない。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  There is debate in the textual tradition about the position of γάρ (gar) and whether v. 35 looks back to v. 34 or is independent. The textual evidence does slightly favor placing γάρ after the verb and thus linking it back to v. 34. The other reading looks like Isa 24:17. However, the construction is harsh and the translation prefers for stylistic reasons to start a new English sentence here.",
+        "ja": "[翻訳注]  写本の伝承においてγάρ（gar）の位置や、35節が34節を振り返っているのか独立しているのかについて議論がある。写本の証拠は動詞の後にγάρを置き、34節と結びつける方をわずかに支持している。もう一つの読みはイザヤ24:17に似ている。しかしその構文は荒削りであり、翻訳では文体上の理由からここで英語の新しい文を開始することを選んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “come upon.”",
+        "ja": "[翻訳注]  または「〜の上に臨む」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This judgment involves everyone: all who live on the face of the whole earth. No one will escape this evaluation.",
+        "ja": "[解説]  この裁きは「全地の表に住むすべての人」、すなわちすべての人に関係する。だれもこの評価から逃れることはできない。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[解説]  The call to be alert at all times is a call to remain faithful in looking for the Lord’s return.",
+        "ja": "[解説]  「絶えず用心していなさい」という呼びかけは、主の再臨を待ち望みつつ忠実であり続けることへの呼びかけである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  For the translation of μέλλω (mellw) as “must,” see L&N 71.36.",
+        "ja": "[翻訳注]  μέλλω（mello）を「〜しなければならない」と訳すことについては、L&N 71.36を参照。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” since vv. 37-38 serve as something of a summary or transition from the discourse preceding to the passion narrative that follows.",
+        "ja": "[翻訳注]  37-38節は先行する講話から後続の受難物語への要約または移行としての役割を果たしているため、ここではδέ（de）が「こうして」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in the temple.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「神殿の中で」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “and spent the night,” but this is redundant because of the previous use of the word “night.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして夜を過ごした」であるが、前に「夜」という語が使われているため重複となる。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “at the mountain called ‘of Olives.’”[解説]  See the note on the phrase Mount of Olives in 19:29.",
+        "ja": "[翻訳注]  ギリシャ語本文は「『オリーブの』と呼ばれる山で」。[解説]  19:29の「オリーブ山」という句に関する注を参照。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus’ teaching was still quite popular with all the people at this point despite the leaders’ opposition.",
+        "ja": "[解説]  指導者たちの反対にもかかわらず、この時点でもイエスの教えは民衆全体の間で依然として大きな人気を集めていた。"
+      },
+      {
+        "pos": 2,
+        "en": ") place John 7:53-8:11 here after v. 38, no doubt because it was felt that this was a better setting for the pericope.[翻訳注]  Grk “in the temple.”",
+        "ja": "[異読]  一部の写本は、38節の後にヨハネ7:53-8:11を配置している。これはこの段落（姦淫の女の物語）にとってよりふさわしい背景であると感じられたためであることに疑いはない。[翻訳注]  ギリシャ語本文は「神殿の中で」。"
+      }
+    ]
+  }
+}

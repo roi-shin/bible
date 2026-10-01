@@ -1,0 +1,806 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "“I tell you the solemn truth, the one who does not enter the sheepfold by the door, but climbs in some other way, is a thief and a robber. ",
+      "ja": "「はっきりとあなたがたに言う。門を通らずに、ほかの所から羊の囲いに乗り越えて来る者は、盗人であり、強盗である。"
+    },
+    {
+      "verse": 2,
+      "en": "The one who enters by the door is the shepherd of the sheep. ",
+      "ja": "門から入る者こそ、羊の牧者である。"
+    },
+    {
+      "verse": 3,
+      "en": "The doorkeeper opens the door for him, and the sheep hear his voice. He calls his own sheep by name and leads them out. ",
+      "ja": "門番は彼のために門を開け、羊はその声を聞き分ける。彼は自分の羊を名指しで呼び、外へと連れ出す。"
+    },
+    {
+      "verse": 4,
+      "en": "When he has brought all his own sheep out, he goes ahead of them, and the sheep follow him because they recognize his voice. ",
+      "ja": "自分の羊をすべて外に出すと、彼はその先頭に立って行く。羊は彼の声を知っているので、彼について行くのである。"
+    },
+    {
+      "verse": 5,
+      "en": "They will never follow a stranger, but will run away from him because they do not recognize the stranger’s voice.” ",
+      "ja": "羊は他人に決してついて行かず、むしろその人から逃げ出す。他人の声を知らないからである。」"
+    },
+    {
+      "verse": 6,
+      "en": "Jesus told them this parable, but they did not understand what he was saying to them. ",
+      "ja": "イエスはこのたとえを彼らに話されたが、彼らはイエスが自分たちに何を語っておられるのか理解できなかった。"
+    },
+    {
+      "verse": 7,
+      "en": "So Jesus said again, “I tell you the solemn truth, I am the door for the sheep. ",
+      "ja": "そこでイエスは再び言われた。「はっきりとあなたがたに言う。わたしは羊の門である。"
+    },
+    {
+      "verse": 8,
+      "en": "All who came before me were thieves and robbers, but the sheep did not listen to them. ",
+      "ja": "わたしの前に来た者はみな、盗人であり強盗であった。しかし、羊は彼らに聞き従わなかった。"
+    },
+    {
+      "verse": 9,
+      "en": "I am the door. If anyone enters through me, he will be saved, and will come in and go out, and find pasture. ",
+      "ja": "わたしは門である。だれでも、わたしを通って入るなら救われ、また出入りし、牧草を見つけるであろう。"
+    },
+    {
+      "verse": 10,
+      "en": "The thief comes only to steal and kill and destroy; I have come so that they may have life, and may have it abundantly. ",
+      "ja": "盗人が来るのは、ただ盗んだり、殺したり、滅ぼしたりするためだけである。わたしが来たのは、彼らが命を得、またそれを豊かに持つためである。"
+    },
+    {
+      "verse": 11,
+      "en": "“I am the good shepherd. The good shepherd lays down his life for the sheep. ",
+      "ja": "「わたしは良い牧者である。良い牧者は羊のために自分の命を捨てる。"
+    },
+    {
+      "verse": 12,
+      "en": "The hired hand, who is not a shepherd and does not own sheep, sees the wolf coming and abandons the sheep and runs away. So the wolf attacks the sheep and scatters them.",
+      "ja": "牧者ではなく、また羊の持ち主でもない雇い人は、狼が来るのを見ると、羊を置き去りにして逃げ去る。すると、狼は羊を襲い、散らしてしまう。"
+    },
+    {
+      "verse": 13,
+      "en": "Because he is a hired hand and is not concerned about the sheep, he runs away.",
+      "ja": "彼は雇い人であり、羊のことを心にかけていないので、逃げ去るのである。"
+    },
+    {
+      "verse": 14,
+      "en": "“I am the good shepherd. I know my own and my own know me—",
+      "ja": "「わたしは良い牧者である。わたしは自分の者を知っており、わたしの者たちもわたしを知っている。"
+    },
+    {
+      "verse": 15,
+      "en": "just as the Father knows me and I know the Father—and I lay down my life for the sheep. ",
+      "ja": "それは、父がわたしを知っておられ、わたしが父を知っているのと同様である。わたしは羊のために自分の命を捨てる。"
+    },
+    {
+      "verse": 16,
+      "en": "I have other sheep that do not come from this sheepfold. I must bring them too, and they will listen to my voice, so that there will be one flock and one shepherd. ",
+      "ja": "わたしには、この囲いに入っていないほかの羊もいる。それらをも導かなければならない。彼らはわたしの声に聞き従い、一つの群れ、一人の牧者となるであろう。"
+    },
+    {
+      "verse": 17,
+      "en": "This is why the Father loves me—because I lay down my life, so that I may take it back again. ",
+      "ja": "父がわたしを愛してくださるのは、わたしが再び受けるために、自分の命を捨てるからである。"
+    },
+    {
+      "verse": 18,
+      "en": "No one takes it away from me, but I lay it down of my own free will. I have the authority to lay it down, and I have the authority to take it back again. This commandment I received from my Father.” ",
+      "ja": "だれも、わたしから命を取り上げるのではない。わたしが自分からそれを捨てるのである。わたしには、命を捨てる権威があり、それを再び受ける権威がある。この掟を、わたしは自分の父から受けたのである。」"
+    },
+    {
+      "verse": 19,
+      "en": "Another sharp division took place among the Jewish people because of these words. ",
+      "ja": "これらの言葉のゆえに、ユダヤ人たちの間で再び激しい対立が生じた。"
+    },
+    {
+      "verse": 20,
+      "en": "Many of them were saying, “He is possessed by a demon and has lost his mind! Why do you listen to him?” ",
+      "ja": "彼らの多くは、「彼は悪霊に取り憑かれて、気が狂っている。なぜ彼の言うことに耳を貸すのか」と言っていた。"
+    },
+    {
+      "verse": 21,
+      "en": "Others said, “These are not the words of someone possessed by a demon. A demon cannot cause the blind to see, can it?”",
+      "ja": "ほかの人々は言った。「これらは悪霊に取り憑かれた者の言葉ではない。悪霊が盲人の目を開けることなど、できようか。」"
+    },
+    {
+      "verse": 22,
+      "en": "Then came the feast of the Dedication in Jerusalem. ",
+      "ja": "そのころ、エルサレムで奉献の祭が行われた。"
+    },
+    {
+      "verse": 23,
+      "en": "It was winter, and Jesus was walking in the temple area in Solomon’s Portico. ",
+      "ja": "時は冬であった。イエスは、宮の境内のソロモンの回廊を歩いておられた。"
+    },
+    {
+      "verse": 24,
+      "en": "The Jewish leaders surrounded him and asked, “How long will you keep us in suspense? If you are the Christ, tell us plainly.” ",
+      "ja": "ユダヤの指導者たちがイエスを囲んで言った。「いつまでわたしたちを不安にさせておくのか。もしあなたがキリストなら、はっきりとそう言ってほしい。」"
+    },
+    {
+      "verse": 25,
+      "en": "Jesus replied, “I told you and you do not believe. The deeds I do in my Father’s name testify about me. ",
+      "ja": "イエスは答えられた。「わたしは話したが、あなたがたは信じない。わたしが父の名によって行う業が、わたしについて証ししている。"
+    },
+    {
+      "verse": 26,
+      "en": "But you refuse to believe because you are not my sheep. ",
+      "ja": "しかし、あなたがたは信じようとしない。わたしの羊ではないからである。"
+    },
+    {
+      "verse": 27,
+      "en": "My sheep listen to my voice, and I know them, and they follow me. ",
+      "ja": "わたしの羊はわたしの声に聞き従う。わたしは彼らを知っており、彼らはわたしについて来る。"
+    },
+    {
+      "verse": 28,
+      "en": "I give them eternal life, and they will never perish; no one will snatch them from my hand. ",
+      "ja": "わたしは彼らに永遠の命を与える。彼らは決して滅びることがなく、また、だれもわたしの手から彼らを奪い去ることはできない。"
+    },
+    {
+      "verse": 29,
+      "en": "My Father, who has given them to me, is greater than all, and no one can snatch them from my Father’s hand. ",
+      "ja": "彼らをわたしにくださったわたしの父は、すべてよりも偉大であり、だれも父の手から彼らを奪い去ることはできない。"
+    },
+    {
+      "verse": 30,
+      "en": "The Father and I are one.” ",
+      "ja": "父とわたしとは一つである。」"
+    },
+    {
+      "verse": 31,
+      "en": "The Jewish leaders picked up rocks again to stone him to death.",
+      "ja": "ユダヤの指導者たちは、イエスを石打ちにして殺そうとして、再び石を拾い上げた。"
+    },
+    {
+      "verse": 32,
+      "en": "Jesus said to them, “I have shown you many good deeds from the Father. For which one of them are you going to stone me?” ",
+      "ja": "イエスは彼らに言われた。「わたしは父から出た多くの良い業をあなたがたに示した。そのうちのどの業のために、わたしを石打ちにしようとするのか。」"
+    },
+    {
+      "verse": 33,
+      "en": "The Jewish leaders replied, “We are not going to stone you for a good deed but for blasphemy because you, a man, are claiming to be God.” ",
+      "ja": "ユダヤの指導者たちは答えた。「良い業のためにあなたを石打ちにするのではない。冒涜のゆえだ。あなたは人間でありながら、自分を神としているからだ。」"
+    },
+    {
+      "verse": 34,
+      "en": "Jesus answered, “Is it not written in your law, ‘<b>I said, you are gods</b>’? ",
+      "ja": "イエスは彼らに答えられた。「あなたがたの律法に、『わたしは言った、あなたがたは神々である』と書いてはないか。"
+    },
+    {
+      "verse": 35,
+      "en": "If those people to whom the word of God came were called ‘gods’ (and the scripture cannot be broken), ",
+      "ja": "もし、神の言葉を授かった人々が『神々』と呼ばれたとするなら（そして聖書が破棄されることはない）、"
+    },
+    {
+      "verse": 36,
+      "en": "do you say about the one whom the Father set apart and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’? ",
+      "ja": "父が聖別して世に遣わされたこのわたしが、『わたしは神の子である』と言ったからといって、どうして『あなたは神を冒涜している』と言うのか。"
+    },
+    {
+      "verse": 37,
+      "en": "If I do not perform the deeds of my Father, do not believe me. ",
+      "ja": "もし、わたしが父の業を行っていないなら、かわたしを信じなくてもよい。"
+    },
+    {
+      "verse": 38,
+      "en": "But if I do them, even if you do not believe me, believe the deeds, so that you may come to know and understand that I am in the Father and the Father is in me.” ",
+      "ja": "しかし、もし行っているなら、たとえわたしを信じなくても、その業を信じなさい。そうすれば、父がわたしのにおられ、わたしが父にいることを、あなたがたが知り、また悟るようになるためである。」"
+    },
+    {
+      "verse": 39,
+      "en": "Then they attempted again to seize him, but he escaped their clutches. ",
+      "ja": "そこで彼らは再びイエスを捕らえようとしたが、イエスは彼らの手から逃れられた。"
+    },
+    {
+      "verse": 40,
+      "en": "Jesus went back across the Jordan River again to the place where John had been baptizing at an earlier time, and he stayed there. ",
+      "ja": "イエスは再びヨルダン川の向こう側、かつてヨハネが洗礼を授けていた場所に行き、そこに滞在された。"
+    },
+    {
+      "verse": 41,
+      "en": "Many came to him and began to say, “John performed no miraculous sign, but everything John said about this man was true!” ",
+      "ja": "多くの人々がイエスのもとに来て、こう言い合った。「ヨハネは何のしるしも行わなかったが、ヨハネがこの人について語ったことはすべて真実であった。」"
+    },
+    {
+      "verse": 42,
+      "en": "And many believed in Jesus there. ",
+      "ja": "そして、多くの人々がその場所でイエスを信じた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシア語では「まことに、まことに、あなたがたに言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  There was more than one type of sheepfold in use in Palestine in Jesus’ day. The one here seems to be a courtyard in front of a house (the Greek word used for the sheepfold here, αὐλή [aulh] frequently refers to a courtyard), surrounded by a stone wall (often topped with briars for protection).",
+        "ja": "[解説] イエスの時代のパレスチナには、複数の種類の羊の囲いが存在していた。ここでの囲いは、家の前にある中庭（ここで使われているギリシア語 αὐλή [aulh] は、しばしば中庭を指す）を指しているようで、石壁（保護のためにしばしば上に茨が置かれた）に囲まれていた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “entrance.”",
+        "ja": "[翻訳注] または「入り口」。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “porter” (British English).[解説]  There have been many attempts to identify who the doorkeeper represents, none of which are convincing. More likely there are some details in this parable that are included for the sake of the story, necessary as parts of the overall picture but without symbolic significance.",
+        "ja": "[翻訳注] または「守衛」。 [解説] 門番が誰を象徴しているのかを特定しようとする試みは多くなされてきたが、説得力のあるものはない。むしろ、このたとえ話の中には、物語の全体像を構成するために必要な細部として含まれているものの、象徴的な意味を持たない要素もあると考えられる。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “the door” are not in the Greek text but are implied. Direct objects in Greek were often omitted when clear from the context.",
+        "ja": "[翻訳注] 「門」という言葉はギリシア語本文にはないが、文脈から含意されている。ギリシア語では、文脈から明らかな場合、直接目的語が省略されることがよくある。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “For this one.”",
+        "ja": "[翻訳注] 直訳すると「この者のために」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “And he.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] 直訳すると「そして彼は」。しばしば文や節を「そして」で始めるギリシア語の文体と、一般的にはそうしない英語（および日本語）の文体との違いを考慮し、ここではκαί（kai）を訳出していない。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  He calls his own sheep by name and leads them out. Some interpreters have suggested that there was more than one flock in the fold, and there would be a process of separation where each shepherd called out his own flock. This may also be suggested by the mention of a doorkeeper in v. 3 since only the larger sheepfolds would have such a guard. But the Gospel of John never mentions a distinction among the sheep in this fold; in fact (10:16) there are other sheep which are to be brought in, but they are to be one flock and one shepherd.",
+        "ja": "[解説] 「彼は自分の羊を名指しで呼び、外へと連れ出す」。解釈者の中には、囲いの中に複数の群れがおり、それぞれの牧者が自分の群れを呼び出すという分離のプロセスがあったと示唆する者もいる。3節で門番に言及されていることも、大規模な羊の囲いにはそのような番人がいたことから、この解釈を補強するかもしれない。しかし、ヨハネによる福音書は、この囲いの中の羊の区別について言及していない。実際（10:16）、運び込まれるべき「ほかの羊」がいるが、彼らは一つの群れ、一人の牧者となるのである。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “sheep” is not in the Greek text, but is implied.",
+        "ja": "[翻訳注] 「羊」という言葉はギリシア語本文にはないが、含意されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “because they know.”",
+        "ja": "[翻訳注] 直訳すると「彼らが知っているから」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “someone whom they do not know.”",
+        "ja": "[翻訳注] または「彼らが知らないだれか」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “know.”",
+        "ja": "[翻訳注] 「知っている（認識している）」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “the voice of someone they do not know.”",
+        "ja": "[翻訳注] または「自分たちの知らない人の声」。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  A parable is a fairly short narrative that has symbolic meaning. The Greek word παροιμίαν (paroimian) is used again in 16:25, 29. This term does not occur in the synoptic gospels, where παραβολή (parabolh) is used. Nevertheless it is similar, denoting a short narrative with figurative or symbolic meaning.",
+        "ja": "[解説] たとえ（parable）とは、象徴的な意味を持つ比較的短い物語のことである。ギリシア語の παροιμίαν (paroimian) という言葉は、16:25、29でも再び使われている。この用語は、παραβολή (parabolh) が使われる共観福音書には登場しない。それにもかかわらず、比喩的または象徴的な意味を持つ短い物語を指すという点では同様である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “these.”",
+        "ja": "[翻訳注] 直訳すると「これらのこと」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “comprehend.”",
+        "ja": "[翻訳注] または「把握する」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Truly, truly, I say to you.”",
+        "ja": "[翻訳注] ギリシア語では「まことに、まことに、あなたがたに言う」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “I am the sheep’s door.”",
+        "ja": "[翻訳注] または「わたしは羊たちの門である」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “are” (present tense).",
+        "ja": "[翻訳注] ギリシア語では「である」（現在形）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the sheep did not hear them.”",
+        "ja": "[翻訳注] または「羊は彼らの言うことを聞かなかった」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Since the Greek phrase εἰσέρχομαι καὶ ἐξέρχομαι (eisercomai kai exercomai, “come in and go out”) is in some places an idiom for living or conducting oneself in relationship to some community (“to live with, to live among” [cf. Acts 1:21; see also Num 27:17; 2 Chr 1:10]), it may well be that Jesus’ words here look forward to the new covenant community of believers. Another significant NT text is Luke 9:4, where both these verbs occur in the context of the safety and security provided by a given household for the disciples. See also BDAG 294 s.v. εἰσέρχομαι 1.b.β.",
+        "ja": "[翻訳注] ギリシア語の句 εἰσέρχομαι καὶ ἐξέρχομαι (eisercomai kai exercomai、「入ったり出たりする」) は、ある共同体との関係において生活することや振る舞うことを意味する慣用句（「〜と共に住む、〜の間で生活する」[使徒1:21、民数27:17、歴代下1:10参照]）である場所があるため、ここでのイエスの言葉は信者たちの新しい契約の共同体を見据えている可能性がある。もう一つの重要な新約聖書のテキストはルカ9:4であり、そこでは弟子たちにある家庭が提供する安全と保障の文脈で、これら両方の動詞が登場する。BDAG 294 s.v. εἰσέρχομαι 1.b.β.も参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  That is, pasture land in contrast to cultivated land.",
+        "ja": "[解説] すなわち、耕作地に対する牧草地のこと。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  That is, “to slaughter” (in reference to animals).",
+        "ja": "[翻訳注] すなわち、（動物に関連して）「屠る」こと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  That is, more than one would normally expect or anticipate.",
+        "ja": "[翻訳注] すなわち、通常期待されたり予期されたりする以上のもの。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “model” (see R. E. Brown, John [AB], 1:386, who argues that “model” is a more exact translation of καλός [kalos] here).",
+        "ja": "[翻訳注] または「模範的な」。(R. E. Brown, John [AB], 1:386 参照。彼は「模範的」がここでの καλός [kalos] のより正確な訳であると主張している)。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “The good shepherd dies willingly.”[解説]  Jesus speaks openly of his vicarious death twice in this section (John 10:11, 15). Note the contrast: The thief takes the life of the sheep (10:10), the good shepherd lays down his own life for the sheep. Jesus is not speaking generally here, but specifically: He has his own substitutionary death on the cross in view. For a literal shepherd with a literal flock, the shepherd’s death would have spelled disaster for the sheep; in this instance it spells life for them (Compare the worthless shepherd of Zech 11:17, by contrast).",
+        "ja": "[翻訳注] または「良い牧者は自ら進んで死ぬ」。 [解説] イエスはこの箇所で二度、身代わりの死について公然と語っておられる（ヨハネ 10:11, 15）。対比に注目せよ。盗人は羊の命を奪うが（10:10）、良い牧者は羊のために自分の命を捨てる。イエスはここで一般論を述べているのではなく、具体的に十字架上での身代わりの死を念頭に置いている。実際の羊の群れを持つ実際の牧者の場合、牧者の死は羊にとって災難を意味するが、この事例ではそれが彼らに命をもたらすのである（対照的にゼカリヤ11:17の「役立たずの牧者」と比較せよ）。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus contrasts the behavior of the shepherd with that of the hired hand. This is a worker who is simply paid to do a job; he has no other interest in the sheep and is certainly not about to risk his life for them. When they are threatened, he simply runs away.",
+        "ja": "[解説] イエスは、牧者の行動と雇い人の行動を対比させている。雇い人は単に仕事のために報酬を支払われている労働者であり、羊に対してそれ以上の関心はなく、彼らのために命をかけることなど到底しない。脅威にさらされると、彼は単に逃げ去るだけである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “leaves.”",
+        "ja": "[翻訳注] 直訳すると「去る」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “flees.”",
+        "ja": "[翻訳注] または「逃げる」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “seizes.” The more traditional rendering, “snatches,” has the idea of seizing something by force and carrying it off, which is certainly possible here. However, in the sequence in John 10:12, this action precedes the scattering of the flock of sheep, so “attacks” is preferable.",
+        "ja": "[翻訳注] または「奪い取る」。より伝統的な「ひったくる（snatches）」という訳は、何かを力ずくで捕らえて持ち去るという考えを含んでおり、ここでもその可能性はある。しかし、ヨハネ10:12の文脈では、この行動は羊の群れが散らされる前に行われているため、「襲う」の方が好ましい。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “does not have a care for the sheep.”",
+        "ja": "[翻訳注] 直訳すると「羊の世話をしない」。"
+      },
+      {
+        "pos": 2,
+        "en": "B D L [W] Θ 1 33 1241 al co). Most likely it was added by a later scribe to improve the readability of vv. 12-13, which is one long sentence in Greek. It has been included in the translation for the same stylistic reasons.",
+        "ja": "（翻訳者注：ギリシア語本文に関する校訂上の注記。特定の写本における差異に言及。）おそらく、ギリシア語では一つの長い文である12-13節の読みやすさを向上させるために、後代の写字生によって追加された。翻訳でも同じ文体上の理由で含めている。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And I.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] 直訳すると「そしてわたしは」。ギリシア語と英語（および日本語）の文体の違いにより、καί（kai）は訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The direct object is frequently omitted in Greek and must be supplied from the context. Here it could be “sheep,” but Jesus was ultimately talking about “people.”",
+        "ja": "[翻訳注] ギリシア語では直接目的語が省略されることが多く、文脈から補う必要がある。ここでは「羊」ともなり得るが、イエスは究極的には「人々」について語っておられる。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “I die willingly.”",
+        "ja": "[翻訳注] または「わたしは自ら進んで死ぬ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “on behalf of” or “for the sake of.”",
+        "ja": "[翻訳注] または「〜の代わりに」あるいは「〜のために」。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And I have.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] 直訳すると「そしてわたしは持っている」。ギリシア語と英語（および日本語）の文体の違いにより、καί（kai）は訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “that do not belong to”; Grk “that are not of.”",
+        "ja": "[翻訳注] または「〜に属していない」。直訳すると「〜の（出身）ではない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The statement I have other sheep that do not come from this sheepfold almost certainly refers to Gentiles. Jesus has sheep in the fold who are Jewish; there are other sheep which, while not of the same fold, belong to him also. This recalls the mission of the Son in 3:16-17, which was to save the world – not just the nation of Israel. Such an emphasis would be particularly appropriate to the author if he were writing to a non-Palestinian and primarily non-Jewish audience.",
+        "ja": "[解説] 「この囲いに入っていないほかの羊もいる」という声明は、ほぼ間違いなく異邦人を指している。イエスには、ユダヤ人である囲いの中の羊がいる。また、同じ囲いには属していないが、彼に属している「ほかの羊」もいる。これは、イスラエル国民だけでなく世を救うという3:16-17の御子の使命を思い起こさせる。このような強調は、著者がパレスチナ以外に住む、主に非ユダヤ人の聴衆に向けて書いていたのであれば、特に適切であっただろう。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “they will hear my voice.”",
+        "ja": "[翻訳注] 直訳すると「彼らはわたしの声を聞くであろう」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “voice, and.”",
+        "ja": "[翻訳注] 直訳すると「声、そして」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  The word “and” is not in the Greek text, but must be supplied to conform to English style. In Greek it is an instance of asyndeton (omission of a connective), usually somewhat emphatic.",
+        "ja": "[翻訳注] ギリシア語では接続詞が省略されており（非接続様式）、これは通常、幾分かの強調を表す。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Because of this the Father loves me.”",
+        "ja": "[翻訳注] 直訳すると「このゆえに父はわたしを愛してくださる」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “die willingly.”",
+        "ja": "[翻訳注] または「自ら進んで死ぬ」。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “give it up.”",
+        "ja": "[翻訳注] または「それを差し出す」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “of my own accord.” “Of my own free will” is given by BDAG 321 s.v. ἐμαυτοῦ c.",
+        "ja": "[翻訳注] または「自らの意思で」。BDAG 321 s.v. ἐμαυτοῦ c. によれば「自らの自由意志で」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “I have the right.”",
+        "ja": "[翻訳注] または「わたしには権利がある」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “I have the right.”",
+        "ja": "[翻訳注] または「わたしには権利がある」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “order.”",
+        "ja": "[翻訳注] または「命令」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or perhaps “the Jewish religious leaders”; Grk “the Jews.” In NT usage the term ᾿Ιουδαῖοι (Ioudaioi) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. (For further information see R. G. Bratcher, “‘The Jews’ in the Gospel of John,” BT 26 [1975]: 401-9.) Here the phrase could be taken to refer to the Jewish religious leaders, since the Pharisees were the last to be mentioned specifically by name, in John 9:40. However, in light of the charge about demon possession, which echoes 8:48, it is more likely that Jewish people in general (perhaps in Jerusalem, if that is understood to be the setting of the incident) are in view here.",
+        "ja": "[翻訳注] おそらく「ユダヤ人の宗教指導者たち」。直訳すると「ユダヤ人たち」。新約聖書の用法において ᾿Ιουδαῖοι (Ioudaioi) という用語は、ユダヤ民族全体、エルサレムとその周辺の住民、エルサレムの当局者、あるいは単にイエスに敵対的であった人々を指すことがある。ヨハネ9:40でパリサイ人が最後に名前を挙げられていることから、ここではユダヤの宗教指導者を指すと取ることができる。しかし、8:48の言葉を繰り返す悪霊憑きの容疑を考慮すると、ここではユダヤ人全般（おそらくエルサレムにいる人々）が念頭に置かれている可能性が高い。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “is insane.” To translate simply “he is mad” (so KJV, ASV, RSV; “raving mad” NIV) could give the impression that Jesus was angry, while the actual charge was madness or insanity.",
+        "ja": "[翻訳注] または「正気ではない」。単に「腹を立てている」と訳すと、イエスが怒っていたという印象を与える可能性があるが、実際の告発は狂気や精神異常に関するものである。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the sayings.”",
+        "ja": "[翻訳注] または「言説」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “open the eyes of the blind” (“opening the eyes” is an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] 直訳すると「盲人の目を開く」（「目を開く」は視力の回復を指す慣用句）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Questions prefaced with μή (mh) in Greek anticipate a negative answer. This can sometimes be indicated by using a “tag” at the end in English (here the tag is “can it?”).",
+        "ja": "[翻訳注] ギリシア語で μή (mh) を冠した疑問文は、否定的な回答を予期するものである。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  That is, Hanukkah or the ‘Festival of Lights.’ The Greek name for the feast, τὰ ἐγκαίνια (ta enkainia), literally means “renewal” and was used to translate Hanukkah which means “dedication.” The Greek noun, with its related verbs, was the standard term used in the LXX for the consecration of the altar of the Tabernacle (Num 7:10-11), the altar of the temple of Solomon (1 Kgs 8:63; 2 Chr 7:5), and the altar of the second temple (Ezra 6:16). The word is thus connected with the consecration of all the houses of God in the history of the nation of Israel.[解説]  The feast of the Dedication (also known as Hanukkah) was a feast celebrating annually the Maccabean victories of 165-164 b.c. – when Judas Maccabeus drove out the Syrians, rebuilt the altar, and rededicated the temple on 25 Kislev (1 Macc 4:41-61). From a historical standpoint, it was the last great deliverance the Jewish people had experienced, and it came at a time when least expected. Josephus ends his account of the institution of the festival with the following statement: “And from that time to the present we observe this festival, which we call the festival of Lights, giving this name to it, I think, from the fact that the right to worship appeared to us at a time when we hardly dared hope for it” (Ant. 12.7.6 [12.325]).",
+        "ja": "[翻訳注] すなわち「ハヌカ」または「光の祭り」。この祭りのギリシア語名 τὰ ἐγκαίνια (ta enkainia) は、逐語的には「更新」を意味し、「献納」を意味するハヌカの訳語として使われた。このギリシア語の名詞と関連する動詞は、七十人訳聖書において、幕屋の祭壇（民数記7:10-11）、ソロモンの神殿の祭壇（列王記上8:63、歴代下7:5）、第二神殿の祭壇（エズラ6:16）の奉献に使われる標準的な用語であった。したがって、この言葉はイスラエル民族の歴史におけるすべての神の家の奉献と結びついている。 [解説] 奉献の祭（ハヌカとしても知られる）は、紀元前165-164年にユダ・マカバイがシリア軍を追い出し、祭壇を再建し、キスレブの月の25日に神殿を再奉献したマカバイの勝利を毎年祝う祭りであった。歴史的な観点からは、それはユダヤ人が経験した最後の偉大な救出であり、最も予期せぬ時に訪れた。ヨセフスは、この祭りの制定についての記述を次の言葉で締めくくっている。「そしてその時から現在に至るまで、わたしたちはこの祭りを守っている。それを光の祭りと呼んでいる。この名を付けたのは、礼拝する権利が、ほとんど望み得なかった時に現れたという事実に由来するとわたしは考えている」（『ユダヤ古代誌』 12.7.6 [12.325]）。"
+      },
+      {
+        "pos": 2,
+        "en": "[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[地図] エルサレムの場所についてはMap5-B1等を参照。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  It was winter. The feast began on 25 Kislev, in November-December of the modern Gregorian calendar.",
+        "ja": "[解説] 「時は冬であった」。祭りはキスレブの月の25日、現代のグレゴリオ暦では11月から1月の間に始まった。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “in the temple.”",
+        "ja": "[翻訳注] 直訳すると「神殿の中で」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “portico,” “colonnade”; Grk “stoa.”[解説]  Solomon’s Portico was a covered walkway formed by rows of columns supporting a roof and open on the inner side facing the center of the temple complex.",
+        "ja": "[翻訳注] または「ポルチコ」、「列柱廊」。ギリシア語では stoa。 [解説] ソロモンの回廊とは、屋根を支える柱の列によって形成された屋根付きの歩道で、神殿複合体の中心に面した内側が開けていた。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders. The question they ask Jesus (“Are you the Christ?”) is the same one they sent and asked of John the Baptist in the desert (see John 1:19-34). See also the note on the phrase “the Jewish people” in v. 19.",
+        "ja": "[翻訳注] または「ユダヤ当局」；ギリシア語では「ユダヤ人たち」。ここではユダヤの指導者たちを指す。彼らがイエスにした質問（「あなたはキリストか」）は、彼らが荒野でヨハネのところに人を遣わして尋ねたものと同じである（ヨハネ1:19-34参照）。19節の「ユダヤ人たち」という語に関する注も参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “said to him.” This has been translated as “asked” for stylistic reasons.",
+        "ja": "[翻訳注] 直訳すると「彼に言った」。文体上の理由で「尋ねた」と訳している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “How long will you take away our life?” (an idiom which meant to keep one from coming to a conclusion about something). The use of the phrase τὴν ψυχὴν ἡμῶν αἴρεις (thn yuchn Jhmwn airei\") meaning “to keep in suspense” is not well attested, although it certainly fits the context here. In modern Greek the phrase means “to annoy, bother.”",
+        "ja": "[翻訳注] 直訳すると「いつまでわたしたちの命を取り去るつもりか」（物事について結論を出すのを控えさせることを意味する慣用句）。τὴν ψυχὴν ἡμῶν αἴρεις（テーン・プシュケーン・ヘーモーン・アイレイス）という句を「不安にさせておく、宙ぶらりんにしておく」という意味で使う例はあまり証明されていないが、ここでの文脈には確かによく適合する。現代ギリシア語では、この句は「悩ませる、困らせる」という意味になる。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “the Messiah” (Both Greek “Christ” and Hebrew and Aramaic “Messiah” mean “one who has been anointed”).[解説]  See the note on Christ in 1:20.",
+        "ja": "[翻訳注] または「メシア」（ギリシア語の「キリスト」もヘブライ語・アラマイ語の「メシア」も「油注がれた者」を意味する）。 [解説] 1:20の「キリスト」に関する注を参照。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “publicly.”",
+        "ja": "[翻訳注] または「公に」。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “answered them.”",
+        "ja": "[翻訳注] 直訳すると「彼らに答えられた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the works.”",
+        "ja": "[翻訳注] または「業（わざ）」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And I give.”",
+        "ja": "[翻訳注] 直訳すると「そしてわたしは与える」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “will never die” or “will never be lost.”",
+        "ja": "[翻訳注] または「決して死ぬことがない」、あるいは「決して失われることがない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “no one will seize.”",
+        "ja": "[翻訳注] または「だれもひったくることはできない」。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “is superior to all.”",
+        "ja": "[翻訳注] または「すべてに勝って優れている」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “no one can seize.”",
+        "ja": "[翻訳注] または「だれもひったくることはできない」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “I and the Father.” The order has been reversed to reflect English style.",
+        "ja": "[翻訳注] 直訳すると「わたしと父は」。日本語の文体を反映して語順を入れ替えている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The phrase ἕν ἐσμεν ({en esmen) is a significant assertion with trinitarian implications. ἕν is neuter, not masculine, so the assertion is not that Jesus and the Father are one person, but one “thing.” Identity of the two persons is not what is asserted, but essential unity (unity of essence).",
+        "ja": "[翻訳注] ἕν ἐσμεν（エン・エスメン）という句は、三位一体論的な意味合いを持つ重要な断言である。ἕνは男性形ではなく中性形であるため、ここでの主張はイエスと父が一人の「人格」であるということではなく、一つの「もの（本質）」であるということである。二つの人格の同一性が主張されているのではなく、本質的な一致（本質の統一）が主張されている。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders. See the notes on the phrases “Jewish people” in v. 19 and “Jewish leaders” in v. 24.",
+        "ja": "[翻訳注] または「ユダヤ当局」。ギリシア語では「ユダヤ人たち」。ここではユダヤの指導者たちを指す。19節と24節の「ユダヤ人たち」に関する注を参照。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Jesus answered them.”",
+        "ja": "[翻訳注] 直訳すると「イエスは彼らに答えられた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “good works.”",
+        "ja": "[翻訳注] または「良い業（わざ）」。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here again the phrase refers to the Jewish leaders. See the notes on the phrase “Jewish people” in v. 19 and “Jewish leaders” in vv. 24, 31.",
+        "ja": "[翻訳注] または「ユダヤ当局」。ここでもユダヤの指導者たちを指す。19節、24節、31節の「ユダヤ人たち」に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “answered him.”",
+        "ja": "[翻訳注] 直訳すると「彼に答えた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “good work.”",
+        "ja": "[翻訳注] または「良い業（わざ）」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This is the first time the official charge of blasphemy is voiced openly in the Fourth Gospel (although it was implicit in John 8:59).",
+        "ja": "[解説] 第四福音書において、神を冒涜したという正式な告発が公然と口にされたのは、これが初めてである（ただし、ヨハネ8:59において暗黙のうちに含まれていた）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “and because.”",
+        "ja": "[翻訳注] 直訳すると「そして〜のゆえに」。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “you, a man, make yourself to be God.”",
+        "ja": "[翻訳注] 直訳すると「あなたは人間でありながら、自分を神としている」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “answered them.”",
+        "ja": "[翻訳注] 直訳すると「彼らに答えられた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  A quotation from Ps 82:6. Technically the Psalms are not part of the OT “law” (which usually referred to the five books of Moses), but occasionally the term “law” was applied to the entire OT, as here. The problem in this verse concerns the meaning of Jesus’ quotation from Ps 82:6. It is important to look at the OT context: The whole line reads “I say, you are gods, sons of the Most High, all of you.” Jesus will pick up on the term “sons of the Most High” in 10:36, where he refers to himself as the Son of God. The psalm was understood in rabbinic circles as an attack on unjust judges who, though they have been given the title “gods” because of their quasi-divine function of exercising judgment, are just as mortal as other men. What is the argument here? It is often thought to be as follows: If it was an OT practice to refer to men like the judges as gods, and not blasphemy, why did the Jewish authorities object when this term was applied to Jesus? This really doesn’t seem to fit the context, however, since if that were the case Jesus would not be making any claim for “divinity” for himself over and above any other human being – and therefore he would not be subject to the charge of blasphemy. Rather, this is evidently a case of arguing from the lesser to the greater, a common form of rabbinic argument. The reason the OT judges could be called gods is because they were vehicles of the word of God (cf. 10:35). But granting that premise, Jesus deserves much more than they to be called God. He is the Word incarnate, whom the Father sanctified and sent into the world to save the world (10:36). In light of the prologue to the Gospel of John, it seems this interpretation would have been most natural for the author. If it is permissible to call men “gods” because they were the vehicles of the word of God, how much more permissible is it to use the word “God” of him who is the Word of God?",
+        "ja": "[解説] 詩篇82:6からの引用。厳密に言えば詩篇は旧約の「律法」（通常はモーセ五書を指す）の一部ではないが、ここでは旧約聖書全体に「律法」という用語が適用されている場合がある。この節の問題は、イエスが引用した詩篇82:6の意味に関わる。旧約聖書の文脈を見ると、その一行は「わたしは言った、あなたがたは神々である、あなたがたはみな、いと高き方の子らである」とある。イエスは10:36で、自分を「神の子」と呼ぶ際に、この「いと高き方の子ら」という言葉を拾い上げている。この詩篇はラビのサークルでは、裁きを行うという神に近い機能を付与されているがゆえに「神々」という称号を与えられていながら、他の人間と同様に死ぬべき運命にある不義な裁判官たちへの非難として理解されていた。ここでの論法は何だろうか。一般的には次のように考えられている。もし旧約聖書の慣習において、裁判官のような人間を神々と呼ぶことが許され、それが冒涜でなかったのなら、なぜユダヤ当局はイエスにこの用語が適用されたときに反対したのか。しかし、これでは文脈にあまり適合しない。なぜなら、もしそうであれば、イエスは他のいかなる人間に対しても自らの「神性」を主張していないことになり、したがって冒涜の罪に問われることもないはずだからである。むしろ、これは明らかに、ラビの一般的な論法である「小さいものから大きいものへ」という議論のケースである。旧約の裁判官たちが神々と呼ばれ得た理由は、彼らが神の言葉の器であったからである（10:35参照）。しかし、その前提を認めるならば、イエスは彼らよりもはるかに神と呼ばれるにふさわしい方である。彼は受肉した言（ことば）であり、父が聖別して世を救うために世に遣わされた方だからである（10:36）。ヨハネによる福音書の序文に照らせば、この解釈が著者にとって最も自然であったと思われる。もし神の言葉を伝える者であったがゆえに人間を「神々」と呼ぶことが許されるならば、神の言葉そのものである方に対して「神」という言葉を使うことは、どれほど許されることだろうか。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[解説]  The parenthetical note And the scripture cannot be broken belongs to Jesus’ words rather than the author’s. Not only does Jesus appeal to the OT to defend himself against the charge of blasphemy, but he also adds that the scripture cannot be “broken.” In this context he does not explain precisely what is meant by “broken,” but it is not too hard to determine. Jesus’ argument depended on the exact word used in the context of Ps 82:6. If any other word for “judge” had been used in the psalm, his argument would have been meaningless. Since the scriptures do use this word in Ps 82:6, the argument is binding, because they cannot be “broken” in the sense of being shown to be in error.",
+        "ja": "[解説] 括弧書きの「そして聖書が破棄される（無効になる）ことはない」という注釈は、著者ではなくイエスの言葉に属するものである。イエスは冒涜の罪から自分を守るために旧約聖書に訴えるだけでなく、聖書は「破棄される」ことがないとも付け加えておられる。この文脈でイエスは「破棄される」の意味を正確には説明していないが、それを判断するのは難しくない。イエスの論理は、詩篇82:6の文脈で使われている正確な言葉に依拠していた。もし詩篇で「裁判官」を表す他の言葉が使われていたなら、彼の論理は意味をなさない。聖書は実際に詩篇82:6でこの言葉を使っているため、その議論は拘束力を持つ。なぜなら、聖書は誤りであることを示されるという意味で「破棄される」ことはあり得ないからである。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “dedicated.”",
+        "ja": "[翻訳注] または「捧げられた」。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “do.”",
+        "ja": "[翻訳注] または「果たして」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “works.”",
+        "ja": "[翻訳注] または「業（わざ）」。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “works.”[解説]  Jesus says that in the final analysis, the deeds he did should indicate whether he was truly from the Father. If the authorities could not believe in him, it would be better to believe in the deeds he did than not to believe at all.",
+        "ja": "[翻訳注] または「業（わざ）」。 [解説] イエスは、最終的な分析において、自分の行った業が、自分が本当に父から来た者であるかどうかを示すはずだと言っておられる。もし当局が彼自身を信じられないのであれば、全く信じないよりは、彼の行った業を信じる方が良いということである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “so that you may learn.”",
+        "ja": "[翻訳注] または「あなたがたが学ぶようになるため」。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "and D may have committed haplography, leaving later scribes in the chain to guess at the conjunction needed. In sum, the best reading appears to be ἐζήτουν οὖν.",
+        "ja": "（翻訳者注：ギリシア語本文の写本上の差異に関する注記。）"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “they were seeking.”",
+        "ja": "[翻訳注] ギリシア語では「彼らは求めていた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “he departed out of their hand.”[解説]  It is not clear whether the authorities simply sought to “arrest” him, or were renewing their attempt to stone him (cf. John 10:31) by seizing him and taking him out to be stoned. In either event, Jesus escaped their clutches. Nor is it clear whether Jesus’ escape is to be understood as a miracle. If so, the text gives little indication and even less description. What is clear is that until his “hour” comes, Jesus is completely safe from the hands of men: His enemies are powerless to touch him until they are permitted to do so.",
+        "ja": "[翻訳注] 直訳すると「彼は彼らの手から去った」。 [解説] 当局が単に彼を「逮捕」しようとしたのか、あるいは彼を捕らえて石打ちにするために連れ出そうとして（ヨハネ10:31参照）、石打ちの試みを再開しようとしたのかは明らかではない。いずれにせよ、イエスは彼らの手から逃れられた。イエスの脱出が奇跡として理解されるべきかどうかも明確ではない。もしそうなら、本文はその徴候をほとんど示しておらず、描写もさらに少ない。明らかなことは、イエスの「時」が来るまでは、彼は人間の手から完全に守られているということである。敵は、許可されるまでは彼に触れることさえできないのである。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “He”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] 直訳すると「彼は」。明快さのために、翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “River” is not in the Greek text but is supplied for clarity.",
+        "ja": "[翻訳注] 「川」という言葉はギリシア語本文にはないが、明快さのために補っている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  John refers to John the Baptist.",
+        "ja": "[解説] ヨハネは洗礼者ヨハネを指す。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “formerly.”[解説]  This refers to the city of Bethany across the Jordan River (see John 1:28).",
+        "ja": "[翻訳注] 直訳すると「以前に」。 [解説] これはヨルダン川の向こう側のベタニアの町を指す（ヨハネ1:28参照）。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And many.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] 直訳すると「そして多くの（人々が）」。ギリシア語と英語（および日本語）の文体の違いにより、καί（kai）は訳出していない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  John refers to John the Baptist.",
+        "ja": "[解説] ヨハネは洗礼者ヨハネを指す。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “did.”",
+        "ja": "[翻訳注] 直訳すると「した」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] 直訳すると「この者」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “in him.”",
+        "ja": "[翻訳注] 直訳すると「彼において」。"
+      }
+    ]
+  }
+}

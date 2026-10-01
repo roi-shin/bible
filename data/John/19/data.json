@@ -1,0 +1,923 @@
+{
+  "book": "John",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Then Pilate took Jesus and had him flogged severely. ",
+      "ja": "そこでピラトはイエスをとらえ、鞭で厳しく打たせた。"
+    },
+    {
+      "verse": 2,
+      "en": "The soldiers braided a crown of thorns and put it on his head, and they clothed him in a purple robe. ",
+      "ja": "兵士たちは茨で冠を編んでイエスの頭に載せ、紫色のマントを着せた。"
+    },
+    {
+      "verse": 3,
+      "en": "They came up to him again and again and said, “Hail, king of the Jews!” And they struck him repeatedly in the face. ",
+      "ja": "そして幾度もイエスに近寄って、「ユダヤ人の王様、万歳！」と言い、その顔を何度も平手で打った。"
+    },
+    {
+      "verse": 4,
+      "en": "Again Pilate went out and said to the Jewish leaders, “Look, I am bringing him out to you, so that you may know that I find no reason for an accusation against him.” ",
+      "ja": "ピラトは再び外に出て来て、ユダヤ人の指導者たちに言った。「見なさい、彼をあなたたちのところに連れ出す。わたしはこの男に何の罪も見いださないということを、あなたたちが知るためだ。」"
+    },
+    {
+      "verse": 5,
+      "en": "So Jesus came outside, wearing the crown of thorns and the purple robe. Pilate said to them, “Look, here is the man!” ",
+      "ja": "そこでイエスは、茨の冠をかぶり、紫色のマントをまとったまま外に出て来られた。ピラトは彼らに言った。「見よ、この人だ！」"
+    },
+    {
+      "verse": 6,
+      "en": "When the chief priests and their officers saw him, they shouted out, “Crucify him! Crucify him!” Pilate said, “You take him and crucify him! Certainly I find no reason for an accusation against him!” ",
+      "ja": "祭司長たちやその部下たちはイエスを見ると、「十字架につけろ！ 十字架につけろ！」と叫んだ。ピラトは彼らに言った。「あなたたちが引き取って十字架につけるがよい。わたしはこの男に何の罪も見いださないのだから。」"
+    },
+    {
+      "verse": 7,
+      "en": "The Jewish leaders replied, “We have a law, and according to our law he ought to die because he claimed to be the Son of God!” ",
+      "ja": "ユダヤ人の指導者たちは答えた。「私たちには律法があります。私たちの律法によれば、この男は神の子と自称したのですから、死刑に処されるべきです。」"
+    },
+    {
+      "verse": 8,
+      "en": "When Pilate heard what they said, he was more afraid than ever, ",
+      "ja": "ピラトはその言葉を聞いて、ますます恐れを抱いた。"
+    },
+    {
+      "verse": 9,
+      "en": "and he went back into the governor’s residence and said to Jesus, “Where do you come from?” But Jesus gave him no answer. ",
+      "ja": "そして再び総督官邸に入り、イエスに尋ねた。「あなたはどこから来たのか。」しかし、イエスはお答えにならなかった。"
+    },
+    {
+      "verse": 10,
+      "en": "So Pilate said, “Do you refuse to speak to me? Don’t you know I have the authority to release you and to crucify you?” ",
+      "ja": "そこでピラトは言った。「私に話そうとしないのか。あなたを釈放する権限も、十字架につける権限も私にあることを知らないのか。」"
+    },
+    {
+      "verse": 11,
+      "en": "Jesus replied, “You would have no authority over me at all, unless it was given to you from above. Therefore the one who handed me over to you is guilty of greater sin.” ",
+      "ja": "イエスは答えられた。「上から与えられたのでなければ、あなたにはわたしに対する権限は何もない。だから、わたしをあなたに引き渡した者の罪のほうが大きい。」"
+    },
+    {
+      "verse": 12,
+      "en": "From this point on, Pilate tried to release him. But the Jewish leaders shouted out, “If you release this man, you are no friend of Caesar! Everyone who claims to be a king opposes Caesar!” ",
+      "ja": "この時から、ピラトはイエスを釈放しようと努めた。しかし、ユダヤ人の指導者たちは叫び続けた。「もしこの男を釈放するなら、あなたは皇帝の友ではありません。王と自称する者はみな、皇帝に逆らう者です。」"
+    },
+    {
+      "verse": 13,
+      "en": "When Pilate heard these words he brought Jesus outside and sat down on the judgment seat in the place called “The Stone Pavement” (Gabbatha in Aramaic). ",
+      "ja": "ピラトはこの言葉を聞くと、イエスを外に連れ出し、「敷石」（アラム語でガバタ）と呼ばれる場所にある裁きの座に着いた。"
+    },
+    {
+      "verse": 14,
+      "en": "(Now it was the day of preparation for the Passover, about noon.) Pilate said to the Jewish leaders, “Look, here is your king!”",
+      "ja": "（その日は過越祭の準備の日であり、時間は正午ごろであった。）ピラトはユダヤ人の指導者たちに言った。「見なさい、あなたたちの王だ。」"
+    },
+    {
+      "verse": 15,
+      "en": "Then they shouted out, “Away with him! Away with him! Crucify him!” Pilate asked, “Shall I crucify your king?” The high priests replied, “We have no king except Caesar!” ",
+      "ja": "すると彼らは叫んだ。「連れていけ！ 連れていけ！ 十字架につけろ！」ピラトは彼らに尋ねた。「あなたたちの王を十字架につけるのか。」祭司長たちは答えた。「私たちには皇帝のほかに王はいません！」"
+    },
+    {
+      "verse": 16,
+      "en": "Then Pilate handed him over to them to be crucified.So they took Jesus, ",
+      "ja": "そこでピラトは、十字架につけるためにイエスを彼らに引き渡した。彼らはイエスを引き取り、"
+    },
+    {
+      "verse": 17,
+      "en": "and carrying his own cross he went out to the place called “The Place of the Skull” (called in Aramaic Golgotha). ",
+      "ja": "ご自分の十字架を背負って、「頭の場所」（アラム語でゴルゴダと呼ばれる）という所へ出て行かれた。"
+    },
+    {
+      "verse": 18,
+      "en": "There they crucified him along with two others, one on each side, with Jesus in the middle. ",
+      "ja": "そこで彼らはイエスを十字架につけた。またほかの二人の者を、イエスを挟んで両側に、イエスを中央にしてつけた。"
+    },
+    {
+      "verse": 19,
+      "en": "Pilate also had a notice written and fastened to the cross, which read: “Jesus the Nazarene, the king of the Jews.” ",
+      "ja": "ピラトは銘板も書いて十字架の上に掲げさせた。そこには「ナザレのイエス、ユダヤ人の王」と書かれていた。"
+    },
+    {
+      "verse": 20,
+      "en": "Thus many of the Jewish residents of Jerusalem read this notice because the place where Jesus was crucified was near the city, and the notice was written in Aramaic, Latin, and Greek. ",
+      "ja": "イエスが十字架につけられた場所は都に近かったため、エルサレムの住民の多くがこの銘板を読んだ。それはアラム語、ラテン語、ギリシア語で書かれていた。"
+    },
+    {
+      "verse": 21,
+      "en": "Then the chief priests of the Jews said to Pilate, “Do not write, ‘The king of the Jews,’ but rather, ‘This man said, I am king of the Jews.’” ",
+      "ja": "ユダヤ人の祭司長たちがピラトに言った。「『ユダヤ人の王』と書かないで、『この男は、私はユダヤ人の王であると言った』と書いてください。」"
+    },
+    {
+      "verse": 22,
+      "en": "Pilate answered, “What I have written, I have written.” ",
+      "ja": "ピラトは答えた。「私が書いたものは、書いたままにしておく。」"
+    },
+    {
+      "verse": 23,
+      "en": "Now when the soldiers crucified Jesus, they took his clothes and made four shares, one for each soldier, and the tunic remained. (Now the tunic was seamless, woven from top to bottom as a single piece.) ",
+      "ja": "兵士たちはイエスを十字架につけた後、その衣を取って四つに分け、各人に一取り分ずつ行き渡らせた。下着もあったが、それは上から下まで継ぎ目なしに一枚で織られたものであった。"
+    },
+    {
+      "verse": 24,
+      "en": "So the soldiers said to one another, “Let’s not tear it, but throw dice to see who will get it.” This took place to fulfill the scripture that says, “<b>They divided my garments among them, and for my clothing they threw dice</b>.” So the soldiers did these things. ",
+      "ja": "そこで兵士たちは互いに言った。「これを裂くのはやめよう。誰が手に入れるか、くじを引こう。」それは、「彼らはわたしの衣を互いに分け合い、わたしの衣服のためにくじを引いた」という聖書が成就するためであった。兵士たちはその通りにした。"
+    },
+    {
+      "verse": 25,
+      "en": "Now standing beside Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene. ",
+      "ja": "イエスの十字架のそばには、その母と母の姉妹、クロパの妻マリア、およびマグダラのマリアが立っていた。"
+    },
+    {
+      "verse": 26,
+      "en": "So when Jesus saw his mother and the disciple whom he loved standing there, he said to his mother, “Woman, look, here is your son!” ",
+      "ja": "イエスは、母と、そばに立っている愛する弟子とを見て、母に言われた。「お母さん、ご覧なさい。あなたの息子です。」"
+    },
+    {
+      "verse": 27,
+      "en": "He then said to his disciple, “Look, here is your mother!” From that very time the disciple took her into his own home. ",
+      "ja": "それからその弟子に言われた。「ご覧なさい。あなたの母です。」その時から、この弟子は彼女を自分の家に引き取った。"
+    },
+    {
+      "verse": 28,
+      "en": "After this Jesus, realizing that by this time everything was completed, said (in order to fulfill the scripture), “I am thirsty!” ",
+      "ja": "この後、イエスはすでにすべてのことが完了したのを知り、（聖書を成就させるために）言われた。「わたしは渇く。」"
+    },
+    {
+      "verse": 29,
+      "en": "A jar full of sour wine was there, so they put a sponge soaked in sour wine on a branch of hyssop and lifted it to his mouth. ",
+      "ja": "そこには酸いワインの満ちた容器が置いてあった。そこで、彼らは酸いワインを含ませた海綿をヒソップの枝に付け、イエスの口もとに差し出した。"
+    },
+    {
+      "verse": 30,
+      "en": "When he had received the sour wine, Jesus said, “It is completed!” Then he bowed his head and gave up his spirit. ",
+      "ja": "イエスは酸いワインを受け取ると、「完了した！」と言われた。そして頭を垂れて、霊をお渡しになった。"
+    },
+    {
+      "verse": 31,
+      "en": "Then because it was the day of preparation, so that the bodies should not stay on the crosses on the Sabbath (for that Sabbath was an especially important one), the Jewish leaders asked Pilate to have the victims’ legs broken and the bodies taken down. ",
+      "ja": "その日は準備の日であり、安息日に遺体を十字架の上に残したくなかったため（その安息日は大いなる日であった）、ユダヤ人の指導者たちはピラトに、足の骨を折り、遺体を取り下げるよう求めた。"
+    },
+    {
+      "verse": 32,
+      "en": "So the soldiers came and broke the legs of the two men who had been crucified with Jesus, first the one and then the other. ",
+      "ja": "そこで兵士たちが来て、イエスと一緒に十字架につけられた最初の者の足と、もう一人の者の足とを折った。"
+    },
+    {
+      "verse": 33,
+      "en": "But when they came to Jesus and saw that he was already dead, they did not break his legs. ",
+      "ja": "しかし、イエスのところにきて、すでに死んでおられるのを見たので、その足は折らなかった。"
+    },
+    {
+      "verse": 34,
+      "en": "But one of the soldiers pierced his side with a spear, and blood and water flowed out immediately. ",
+      "ja": "ただ、兵士の一人が槍でイエスの脇腹を突き刺した。すると直ちに、血と水が流れ出た。"
+    },
+    {
+      "verse": 35,
+      "en": "And the person who saw it has testified (and his testimony is true, and he knows that he is telling the truth), so that you also may believe. ",
+      "ja": "それを目撃した者が証しをしており、その証しは真実である。その人は自分が真実を語っていることを知っている。それは、あなた方も信じるようになるためである。"
+    },
+    {
+      "verse": 36,
+      "en": "For these things happened so that the scripture would be fulfilled, “<b>Not a bone of his will be broken</b>.” ",
+      "ja": "これらのことが起こったのは、「その骨は一本も砕かれない」という聖書が成就するためであった。"
+    },
+    {
+      "verse": 37,
+      "en": "And again another scripture says, “<b>They will look on the one whom they have pierced</b>.” ",
+      "ja": "また、別の聖書にはこうある。「彼らは、自分が突き刺した者を仰ぎ見る。」"
+    },
+    {
+      "verse": 38,
+      "en": "After this, Joseph of Arimathea, a disciple of Jesus (but secretly because he feared the Jewish leaders), asked Pilate if he could remove the body of Jesus. Pilate gave him permission, so he went and took the body away. ",
+      "ja": "この後、アリマタヤのヨセフが、イエスの遺体を取り下げることをピラトに求めた。彼はイエスの弟子であったが、ユダヤ人の指導者たちを恐れてそのことは隠していた。ピラトが許可を与えたので、彼は行ってその遺体を取り去った。"
+    },
+    {
+      "verse": 39,
+      "en": "Nicodemus, the man who had previously come to Jesus at night, accompanied Joseph, carrying a mixture of myrrh and aloes weighing about 75 pounds. ",
+      "ja": "かつて夜、イエスのもとに来たことのあるニコデモも、没薬とアロエを混ぜ合わせたものを100ポンドほど持ってやって来た。"
+    },
+    {
+      "verse": 40,
+      "en": "Then they took Jesus’ body and wrapped it, with the aromatic spices, in strips of linen cloth according to Jewish burial customs. ",
+      "ja": "彼らはイエスの遺体を受け取り、ユダヤ人の埋葬の習慣に従い、香料と一緒に亜麻布の帯で包んだ。"
+    },
+    {
+      "verse": 41,
+      "en": "Now at the place where Jesus was crucified there was a garden, and in the garden was a new tomb where no one had yet been buried. ",
+      "ja": "イエスが十字架につけられた場所には園があり、その園の中に、まだ誰も葬られたことのない新しい墓があった。"
+    },
+    {
+      "verse": 42,
+      "en": "And so, because it was the Jewish day of preparation and the tomb was nearby, they placed Jesus’ body there.",
+      "ja": "その日はユダヤ人の準備の日であり、墓がすぐ近くにあったので、彼らはそこにイエスを納めた。"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “had him flogged,” or (traditional), “scourged him.” The verb should be read as causative. Pilate ordered Jesus to be flogged. A Roman governor would not carry out such a sentence in person. BDAG 620 s.v. μαστιγόω 1. states, “If J refers to the ‘verberatio’ given those condemned to death (TMommsen, Röm. Strafrecht 1899, 938f; Jos., Bell. 2, 308; 5, 449), it is odd that Pilate subsequently claims no cause for action (vs. 6); but if the latter statement refers only to the penalty of crucifixion, μ. vs. 1 may be equivalent to παιδεύω (q.v. 2bγ) in Lk 23:16, 22 (for μ. of a non-capital offense PFlor I, 61, 61 [85ad]=Mitt-Wilck. II/2, 80 II, 61).”[解説]  This severe flogging was not administered by Pilate himself but his officers, who took Jesus at Pilate’s order and scourged him. The author’s choice of wording here may constitute an allusion to Isa 50:6, “I gave my back to those who scourge me.” Three forms of corporal punishment were employed by the Romans, in increasing degree of severity: (1) fustigatio (beating), (2) flagellatio (flogging), and (3) verberatio (severe flogging, scourging). The first could be on occasion a punishment in itself, but the more severe forms were part of the capital sentence as a prelude to crucifixion. The most severe, verberatio, is what is indicated here by the Greek verb translated flogged severely (μαστιγόω, mastigow). People died on occasion while being flogged this way; frequently it was severe enough to rip a person’s body open or cut muscle and sinew to the bone. It was carried out with a whip that had fragments of bone or pieces of metal bound into the tips.",
+        "ja": "[翻訳注] または「鞭で打たせた」、あるいは伝統的に「鞭打たれた」。この動詞は使役として読まれるべきである。ピラトはイエスに鞭打ちを行うよう命じたのであり、ローマの総督が自らそのような判決を執行することはなかった。BDAG 620頁 μαστιγόω 1.によれば、「もしこれが死刑囚に下される『ヴェルベラティオ（重厳な鞭打ち）』を指すのであれば、ピラトが後に訴うべき理由がないと主張していること（6節）と奇妙に矛盾するように思われる。しかし、後の発言が十字架刑という刑罰のみを指すのであれば、1節の鞭打ちはルカ23:16, 22のπαιδεύω（パイドゥウオ）と同義である可能性がある」[解説] この過酷な鞭打ちはピラト自身ではなく、その部下たちによって執行された。彼らはピラトの命令を受けてイエスをとらえ、鞭で打ったのである。ここでの著者の言葉遣いは、イザヤ50:6の「わたしは打つ者に背を任せ…」に対する暗喩を構成している可能性がある。ローマ人による身体刑には、深刻さを増す3つの形態があった。(1) フスティガティオ（打擲）、(2) フラゲッラティオ（鞭打ち）、(3) ヴェルベラティオ（厳罰としての重い鞭打ち）である。最初のものはそれ自体が単独の刑罰とされることもあったが、より過酷な形態は十字架刑の前段階としての死刑判決の一部であった。ここでギリシア語動詞（μαστιγόω、マスティゴウ）によって示されているのは、最も過酷なヴェルベラティオである。この方法による鞭打ちの最中に死亡する者もおり、しばしば肉体が引き裂かれ、筋肉や腱が骨に達するほどの重傷を負うものであった。それは、先端に骨片や金属片が結び付けられた鞭を用いて執行された。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And the soldiers.” The conjunction καί (kai, “and”) has not been translated here in keeping with the tendency of contemporary English style to use shorter sentences.",
+        "ja": "[翻訳注] ギリシア語では「そして兵士たちは」。接続詞 καί（カイ、「そして」）は、より短い文を用いる現代英語のスタイルの傾向に合わせて、ここでは翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “wove.”",
+        "ja": "[翻訳注] または「織った」"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The crown of thorns was a crown plaited of some thorny material, intended as a mockery of Jesus’ “kingship.” Traditionally it has been regarded as an additional instrument of torture, but it seems more probable the purpose of the thorns was not necessarily to inflict more physical suffering but to imitate the spikes of the “radiant corona,” a type of crown portrayed on ruler’s heads on many coins of the period; the spikes on this type of crown represented rays of light pointing outward (the best contemporary illustration is the crown on the head of the Statue of Liberty in New York harbor).",
+        "ja": "[解説] 茨の冠は、イエスの「王権」を嘲笑うために何らかの茨質の素材で編まれた冠であった。伝統的には追加の拷問器具とみなされてきたが、茨の目的は必ずしも肉体的苦痛を増すことではなく、当時の多くの硬貨に描かれた支配者の頭部に見られる「光り輝く冠（ラディアント・コロナ）」の光芒を模したものであった可能性が高い。この種の冠にある突起は外側に向かう光の光線を象徴していた（現代の最良の例証は、ニューヨーク港にある自由の女神像の頭にある冠である）。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  The purple color of the robe indicated royal status. This was further mockery of Jesus, along with the crown of thorns.",
+        "ja": "[解説] マントの紫色 que は王位の身分を示していた。これは茨の冠とともに、イエスに対するさらなる嘲笑であった。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And they.” The conjunction καί (kai, “and”) has not been translated here in keeping with the tendency of contemporary English style to use shorter sentences.",
+        "ja": "[翻訳注] ギリシア語では「そして彼らは」。接続詞 καί（カイ、「そして」）は、より短い文を用いる現代英語のスタイルの傾向に合わせて、ここでは翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “again and again” are implied by the (iterative) imperfect verb ἤρχοντο (hrconto).",
+        "ja": "[翻訳注] 「何度も（again and again）」という言葉は、未完了相の動詞 ἤρχοντο（エルコント）から含意されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “Long live the King of the Jews!”[解説]  The greeting used by the soldiers, “Hail, King of the Jews!”, is a mockery based on the standard salutation for the Roman emperor, “Ave, Caesar!” (“Hail to Caesar!”).",
+        "ja": "[翻訳注] または「ユダヤ人の王様、万歳！」[解説] 兵士たちが用いた挨拶「ユダヤ人の王様、万歳！」は、ローマ皇帝に対する標準的な挨拶「アヴェ・カエサル！」（「カエサルに敬礼！」）に基づく嘲笑である。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “repeatedly” is implied by the (iterative) imperfect verb ἐδιδοσαν (edidosan).",
+        "ja": "[翻訳注] 「何度も（repeatedly）」という言葉は、未完了相の動詞 ἐδιδοσαν（エディドサン）から含意されている。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “to them.” The words “the Jewish leaders” are supplied from John 18:38 for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼らに」。明確化のために、ヨハネ18:38から「ユダヤ人の指導者たち」という言葉が補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “find no basis for an accusation”; Grk “find no cause.”",
+        "ja": "[翻訳注] または「告発の根拠を見いださない」；ギリシア語では「理由を見いださない」"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on the purple robe in 19:2.",
+        "ja": "[解説] 19:2の紫色のマントに関する注釈を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “He”; the referent (Pilate) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼は」。明確化のために、翻訳では指示対象（ピラト）が明示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Look, here is the man! Pilate may have meant no more than something like “Here is the accused!” or in a contemptuous way, “Here is your king!” Others have taken Pilate’s statement as intended to evoke pity from Jesus’ accusers: “Look at this poor fellow!” (Jesus would certainly not have looked very impressive after the scourging). For the author, however, Pilate’s words constituted an unconscious allusion to Zech 6:12, “Look, here is the man whose name is the Branch.” In this case Pilate (unknowingly and ironically) presented Jesus to the nation under a messianic title.",
+        "ja": "[解説] 「見よ、この人だ！」ピラトの意味は単に「ここに被告がいる！」という程度のものであったかもしれないし、あるいは侮蔑的に「これがあなたたちの王だ！」と言ったのかもしれない。ピラトの発言を、イエスの告発者たちから憐れみを引き出そうとする意図であったと解釈する者もいる（鞭打ちの後では、イエスの外見はとても堂々としたものではなかったはずである）。しかし著者にとって、ピラトの言葉はゼカリヤ6:12「見よ、その名を『枝』という人がある」に対する無意識の暗喩を構成していた。この場合、ピラトは（知らず知らずのうちに、また皮肉にも）メシア的称号をもってイエスを国民の前に提示したのである。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[解説]  Crucifixion was the cruelest form of punishment practiced by the Romans. Roman citizens could not normally undergo it. It was reserved for the worst crimes, like treason and evasion of due process in a capital case. The Roman statesman and orator Cicero (106-43 b.c.) called it “a cruel and disgusting penalty” (Against Verres 2.5.63-66 §§163-70); Josephus (J. W. 7.6.4 [7.203]) called it the worst of deaths.",
+        "ja": "[解説] 十字架刑は、ローマ人によって行われた最も残酷な処刑形態であった。ローマ市民がこれに処されることは通常なかった。それは反逆罪や死刑事件における適正手続の回避など、最悪の犯罪にのみ残されていた。ローマの政治家・弁論家キケロ（前106-43年）はこれを「残酷で忌まわしい刑罰」と呼び（『ヴェッレス弾劾』2.5.63-66 §§163-70）、ヨセフス（『ユダヤ戦記』7.6.4 [7.203]）は死の中で最も最悪なものと呼んだ。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “him” is not in the Greek text. Direct objects were often omitted in Greek when clear from context.",
+        "ja": "[翻訳注] 「彼を」という言葉はギリシア語の原文にはない。文脈から明らかな場合、ギリシア語では直接目的語がしばしば省略された。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “said to them.” The words “to them” are not translated because they are unnecessary in contemporary English style.",
+        "ja": "[翻訳注] ギリシア語では「彼らに言った」。現代英語のスタイルでは不要であるため、「彼らに」という言葉は翻訳されていない。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  How are Pilate’s words “You take him and crucify him” to be understood? Was he offering a serious alternative to the priests who wanted Jesus crucified? Was he offering them an exception to the statement in 18:31 that the Jewish authorities did not have the power to carry out a death penalty? Although a few scholars have suggested that the situation was at this point so far out of Pilate’s control that he really was telling the high priests they could go ahead and crucify a man he had found to be innocent, this seems unlikely. It is far more likely that Pilate’s statement should be understood as one of frustration and perhaps sarcasm. This seems to be supported by the context, for the Jewish authorities make no attempt at this point to seize Jesus and crucify him. Rather they continue to pester Pilate to order the crucifixion.",
+        "ja": "[解説] ピラトの言葉「あなたたちが引き取って十字架につけるがよい」はどのように理解されるべきか。彼はイエスを十字架につけたがっている祭司たちに対して、真剣な代替案を提示していたのだろうか。18:31における「ユダヤ人の当局には死刑を執行する権限がない」という記述に対する例外を彼らに提示していたのだろうか。この時点で状況があまりにもピラトの統御を離れていたため、彼が無罪と認めた男を祭司長たちが実際に進んで十字架につけてよいと本当に告げていたのだと示唆する学者もわずかにいるが、これはありそうもないことである。むしろピラトの発言は、フラストレーションと、おそらくは皮肉として理解されるべきである。これは文脈によって裏付けられているように思われる。なぜなら、ユダヤ人の指導者たちはこの時点でイエスをとらえて十字架につけようとはせず、むしろピラトにしつこく十字架刑を命じるよう要求し続けているからである。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  On this use of γάρ (gar) used in exclamations and strong affirmations, see BDAG 190 s.v. γάρ 3.",
+        "ja": "[翻訳注] 感嘆や強い肯定において用いられる γάρ（ガル）の用法については、BDAG 190頁 s.v. γάρ 3.を参照のこと。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Or “find no basis for an accusation”; Grk “find no cause.”",
+        "ja": "[翻訳注] または「告発の根拠を見いださない」；ギリシア語では「理由を見いださない」"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” In NT usage the term ᾿Ιουδαῖοι (Ioudaioi) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. (For further information see R. G. Bratcher, “‘The Jews’ in the Gospel of John,” BT 26 [1975]: 401-9.) Here the phrase refers to the Jewish leaders, especially members of the Sanhedrin, and their servants (mentioned specifically as “the chief priests and their servants” in John 19:6).",
+        "ja": "[翻訳注] または「ユダヤ人の当局」；ギリシア語では「ユダヤ人たち」。新約聖書の用法において、用語 ᾿Ιουδαῖοι（イウダイオイ）は、ユダヤ人全体、エルサレムおよび周辺地域の住民、エルサレムの当局者、あるいは単にイエスに敵対する者たちを指す場合がある。（詳細については R. G. Bratcher, “'The Jews' in the Gospel of John,” BT 26 [1975]: 401-9 を参照。）ここではこの表現は、ユダヤ人の指導者たち、特にサンヘドリン（最高法院）のメンバーやその下役たち（ヨハネ19:6で「祭司長たちとその部下たち」と具体的に言及されている）を指している。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “answered him.”",
+        "ja": "[翻訳注] ギリシア語では「彼に答えた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This law is not the entire Pentateuch, but Lev 24:16.",
+        "ja": "[解説] この律法はモーセ五書全体ではなく、レビ記24:16である。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “because he made himself out to be the Son of God.”",
+        "ja": "[翻訳注] ギリシア語では「なぜなら彼は自分自身を神の子としたからである」。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “heard this word.”",
+        "ja": "[翻訳注] ギリシア語では「この言葉を聞いた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “became more afraid.”",
+        "ja": "[翻訳注] ギリシア語では「ますます恐れるようになった」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “into the praetorium.”",
+        "ja": "[翻訳注] ギリシア語では「プラエトリウム（総督官邸）に」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “said to him.” The words “to him” are not translated because they are unnecessary in contemporary English style.",
+        "ja": "[翻訳注] ギリシア語では「彼に言った」。現代英語のスタイルでは不要であるため、「彼に」という言葉は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the power.”",
+        "ja": "[翻訳注] または「権力」"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “know that I have the authority to release you and the authority to crucify you.” Repetition of “the authority” is unnecessarily redundant English style.[解説]  See the note on Crucify in 19:6.",
+        "ja": "[翻訳注] ギリシア語では「あなたを釈放する権限があり、あなたを十字架につける権限があることを知っている」。権限の繰り返しは、英語のスタイルとしては不要な冗長表現である。[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “power.”",
+        "ja": "[翻訳注] または「権力」"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “who delivered me over to you.”[解説]  The one who handed me over to you appears to be a reference to Judas at first; yet Judas did not deliver Jesus up to Pilate, but to the Jewish authorities. The singular may be a reference to Caiaphas, who as high priest was representative of all the Jewish authorities, or it may be a generic singular referring to all the Jewish authorities directly. In either case the end result is more or less the same.",
+        "ja": "[翻訳注] または「わたしを引き渡した者」[解説] 「わたしをあなたに引き渡した者」は一見するとイスカリアテのユダを指しているように思われるが、ユダはイエスをピラトに引き渡したのではなく、ユダヤ人の指導者たちに引き渡したのである。この単数形は、大祭司としてすべてのユダヤ人指導者の代表であったカヤパを指しているか、あるいはすべてのユダヤ人指導者を直接指す総称的な単数形である可能性がある。いずれにせよ、最終的な帰結は多かれ少なかれ同じである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “has the greater sin” (an idiom).[解説]  Because Pilate had no authority over Jesus except what had been given to him from God, the one who handed Jesus over to Pilate was guilty of greater sin. This does not absolve Pilate of guilt; it simply means his guilt was less than those who handed Jesus over to him, because he was not acting against Jesus out of deliberate hatred or calculated malice, like the Jewish religious authorities. These were thereby guilty of greater sin.",
+        "ja": "[翻訳注] ギリシア語では「より大きな罪を持っている」（イディオム）。[解説] ピラトには神から与えられたものでなければイエスに対する権限が全くなかったため、イエスをピラトに引き渡した者のほうがより大きな罪に定められた。これはピラトの罪を免罪するものではなく、単に彼の罪が、イエスを引き渡した者たちよりも軽かったことを意味する。なぜなら彼は、ユダヤ教の宗教指導者たちのように、意図的な憎悪や計算された悪意をもってイエスに敵対して行動していたわけではなかったからである。したがって、彼らこそがより大きな罪を負っていたのである。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “sought.”",
+        "ja": "[翻訳注] ギリシア語では「求めた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders, especially members of the Sanhedrin, and their servants (mentioned specifically as “the chief priests and their servants” in John 19:6). See the note on the phrase “Jewish leaders” in v. 7.",
+        "ja": "[翻訳注] または「ユダヤ人の当局」；ギリシア語では「ユダヤ人たち」。ここではこの表現はユダヤ人の指導者たち、特にサンヘドリンのメンバーやその下役たち（19:6で「祭司長たちとその部下たち」と具体的に言及されている）を指している。v.7の「ユダヤ人の指導者たち」という表現の注釈を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “shouted out, saying.”",
+        "ja": "[翻訳注] ギリシア語では「叫んで、こう言った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] ギリシア語では「この者」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Is the author using the phrase Friend of Caesar in a technical sense, as a title bestowed on people for loyal service to the Emperor, or in a more general sense merely describing a person as loyal to the Emperor? L. Morris (John [NICNT], 798) thinks it is “unlikely” that the title is used in the technical sense, and J. H. Bernard (St. John [ICC], 2:621) argues that the technical sense of the phrase as an official title was not used before the time of Vespasian (a.d. 69-79). But there appears to be significant evidence for much earlier usage. Some of this is given in BDAG 498-99 s.v. Καῖσαρ. E. Bammel (“φίλος τοῦ καίσαρος (John 19:12),” TLZ 77 [1952]: 205-10) listed significant and convincing arguments that the official title was indeed in use at the time. Granting that the title was in use during this period, what is the likelihood that it had been bestowed on Pilate? Pilate was of the equestrian order, that is, of lower nobility as opposed to senatorial rank. As such he would have been eligible to receive such an honor. It also appears that the powerful Sejanus was his patron in Rome, and Sejanus held considerable influence with Tiberius. Tacitus (Annals 6.8) quotes Marcus Terentius in his defense before the Senate as saying that close friendship with Sejanus “was in every case a powerful recommendation to the Emperor’s friendship.” Thus it is possible that Pilate held this honor. Therefore it appears that the Jewish authorities were putting a good deal of psychological pressure on Pilate to convict Jesus. They had, in effect, finally specified the charge against Jesus as treason: “Everyone who makes himself to be king opposes Caesar.” If Pilate now failed to convict Jesus the Jewish authorities could complain to Rome that Pilate had released a traitor. This possibility carried more weight with Pilate than might at first be evident: (1) Pilate’s record as governor was not entirely above reproach; (2) Tiberius, who lived away from Rome as a virtual recluse on the island of Capri, was known for his suspicious nature, especially toward rivals or those who posed a political threat; and (3) worst of all, Pilate’s patron in Rome, Sejanus, had recently come under suspicion of plotting to seize the imperial succession for himself. Sejanus was deposed in October of a.d. 31. It may have been to Sejanus that Pilate owed his appointment in Judea. Pilate was now in a very delicate position. The Jewish authorities may have known something of this and deliberately used it as leverage against him. Whether or not they knew just how potent their veiled threat was, it had the desired effect. Pilate went directly to the judgment seat to pronounce his judgment.",
+        "ja": "[解説] 著者は「皇帝の友」という表現を、皇帝への忠実な奉仕に対して人々に授けられた称号という専門的な意味で用いているのだろうか、それとも単に皇帝に忠実な人物を描写する一般的な意味で用いているのだろうか。L.モーリス（『ヨハネによる福音書』[NICNT], 798頁）は、この称号が専門的な意味で使われているとは「考えにくい」と考えており、J.H.バーナード（『聖ヨハネ』[ICC], 2:621）は、公式称号としてのこの表現の専門的用法はウェスパシアヌス帝の時代（西暦69-79年）以前には使用されていなかったと主張している。しかし、はるかに初期の用法を示す重要な証拠が存在するようである。その一部は BDAG 498-99頁 s.v. Καῖσαρ に挙げられている。E.バンメル（“φίλος τοῦ καίσαρος (John 19:12),” TLZ 77 [1952]: 205-10）は、公式称号が実際に当時の時代に使用されていたことを示す、重要かつ説得力のある論拠を列挙した。この時期にその称号が使用されていたことを認めるとして、それがピラトに授けられていた可能性はどれほどあるだろうか。ピラトは騎士階級、すなわち元老院階級に対する下級貴族の出身であった。そのため、そのような名誉を受ける資格があった。また、ローマで権勢を振るっていたセジャヌスが彼の後見人であり、セジャヌスはティベリウスに対してかなりの影響力を持っていた。タキトゥス（『年録』6.8）は、マルクス・レントゥリウスが元老院で行った弁護の中で、セジャヌスとの密接な友情が「いかなる場合でも皇帝の友情に対する強力な推薦状であった」と述べていると伝えている。したがって、ピラトがこの名誉を保持していた可能性はあり得る。ゆえに、ユダヤ人の指導者たちはイエスを有罪にするようピラトに対して相当な心理的圧力をかけていたことがうかがえる。彼らは事実上、イエスに対する告発を反逆罪としてついに特定したのである。「自分を王とする者はみな皇帝に逆らう者です。」もしピラトがここでイエスを有罪にすることを怠れば、ユダヤ人の指導者たちは、ピラトが反逆者を釈放したとローマに訴え出る可能性があった。この可能性は、一見して明らかであるよりも大きな重みをピラトに持たせていた。(1) 総督としてのピラトの経歴は必ずしも非の打ち所のないものではなかった。(2) カプリ島に事実上の隠者として住んでいたティベリウスは、特に自身のライバルや政治的脅威となる者に対して、その疑り深い性格で知られていた。(3) 最悪なことに、ローマにおけるピラトの後見人セジャヌスが、皇帝の継承権を自ら奪取しようと陰謀を企てたという嫌疑を最近かけられていた。セジャヌスは西暦31年10月に失脚した。ピラトにユダヤでの任命をもたらしたのがセジャヌスであったかもしれない。ピラトは今や非常に微妙な立場にあった。ユダヤ人の指導者たちはこの事情の一部を知っており、彼に対するてことして意図的にそれを利活用したのかもしれない。彼らが自分たちのほのめかした脅しがどれほど強力であるかを正確に知っていたかどうかにかかわらず、それは望み通りの効果をもたらした。ピラトは自らの判決を下すため、直接裁きの座へと向かった。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “who makes himself out to be a king.”",
+        "ja": "[翻訳注] ギリシア語では「自分を王とする者」。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the judge’s seat.”[解説]  The judgment seat (βῆμα, bhma) was a raised platform mounted by steps and usually furnished with a seat. It was used by officials in addressing an assembly or making official pronouncements, often of a judicial nature.",
+        "ja": "[翻訳注] または「裁判官の座」[解説] 裁きの座（βῆμα、ベーマ）は、階段を登る高い壇であり、通常は座席が備えられていた。役人が集会に向かって演説したり、公式の宣言（しばしば司法的な性格を持つ）を行ったりするために使用された。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The precise location of the place called ‘The Stone Pavement’ is still uncertain, although a paved court on the lower level of the Fortress Antonia has been suggested. It is not certain whether it was laid prior to a.d. 135, however.",
+        "ja": "[解説] 「敷石」と呼ばれる場所の正確な位置は未だに不確かであるが、アントニア要塞の下層にある舗装された中庭であることが示唆されている。ただし、それが西暦135年以前に敷設されたものかどうかは確実ではない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in Hebrew.”[解説]  The author does not say that Gabbatha is the Aramaic (or Hebrew) translation for the Greek term Λιθόστρωτον (Liqostrwton). He simply points out that in Aramaic (or Hebrew) the place had another name. A number of meanings have been suggested, but the most likely appears to mean “elevated place.” It is possible that this was a term used by the common people for the judgment seat itself, which always stood on a raised platform.",
+        "ja": "[翻訳注] ギリシア語では「ヘブライ語で」[解説] 著者は、ガバタがギリシア語の用語 Λιθόστρωton（リトストルトン）のアラム語（またはヘブライ語）の翻訳であるとは述べていない。彼は単に、アラム語（またはヘブライ語）においてその場所には別の名前があったことを指摘している。いくつかの意味が提案されているが、最も可能性が高いのは「高められた場所」という意味である。これは、常に高台に据えられていた裁きの座そのものを指して一般民衆の間で使われていた言葉であった可能性がある。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[解説]  The term day of preparation (παρασκευή, paraskeuh) appears in all the gospels as a description of the day on which Jesus died. It could refer to any Friday as the day of preparation for the Sabbath (Saturday), and this is the way the synoptic gospels use the term (Matt 27:62, Mark 15:42, and Luke 23:54). John, however, specifies in addition that this was not only the day of preparation of the Sabbath, but also the day of preparation of the Passover, so that the Sabbath on the following day was the Passover (cf. 19:31).",
+        "ja": "[解説] 「準備の日」（παρασκευή、パラスケウエ）という用語は、イエスが亡くくなった日を描写するものとしてすべての福音書に登場する。それは安息日（土曜日）の準備の日としての任意のエレゲン（金曜日）を指すことがあり、共観福音書はこの用語をそのように用いている（マタイ27:62、マルコ15:42、ルカ23:54）。しかしヨハネは、これが単に安息日の準備の日であるだけでなく、過越祭の準備の日でもあったため、翌日の安息日が過越祭のそれであったと特別に明記している（19:31参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “about the sixth hour.”[解説]  For John, the time was especially important. When the note concerning the hour, about noon, is connected with the day, the day of preparation for the Passover, it becomes apparent that Jesus was going to die on the cross at the very time that the Passover lambs were being slain in the temple courts. Exod 12:6 required that the Passover lamb be kept alive until the 14th Nisan, the eve of the Passover, and then slaughtered by the head of the household at twilight (Grk “between the two evenings”). By this time the slaughtering was no longer done by the heads of households, but by the priests in the temple courts. But so many lambs were needed for the tens of thousands of pilgrims who came to Jerusalem to celebrate the feast (some estimates run in excess of 100,000 pilgrims) that the slaughter could not be completed during the evening, and so the rabbis redefined “between the two evenings” as beginning at noon, when the sun began to decline toward the horizon. Thus the priests had the entire afternoon of 14th Nisan in which to complete the slaughter of the Passover lambs. According to the Fourth Gospel, this is the time Jesus was dying on the cross.",
+        "ja": "[翻訳注] ギリシア語では「第六時ごろ」[解説] ヨハネにとって、この時刻は特に重要であった。時刻に関する注記（正午ごろ）が、その日（過越祭の準備の日）と結び付けられるとき、イエスが神殿の庭で過越の小羊たちがほふられているまさにその時刻に、十字架上で死を迎えつつあったことが明らかになる。出エジプト記12:6は、過越の小羊をニサンの月の14日まで、すなわち過越祭のイブまで生かしておき、夕暮れ時（ギリシア語で「二つの夕方の間」）に家族の長によってほふられるべきことを要求していた。この時代には、ほふりの作業はもはや家族の長によってではなく、神殿の庭で祭司たちによって行われていた。しかし、祭りを祝うためにエルサレムにやって来た十万人を超える巡礼者たちのために非常に多くの小羊が必要とされたため（巡礼者の数は10万を超えるとの見積もりもある）、そのほふりを夕方だけで完了させることはできず、そのためラビたちは「二つの夕方の間」の定義を、太陽が地平線に向かって傾き始める正午から始まると再定義したのである。したがって祭司たちには、ニサンの月の14日の午後全体が、過越の小羊のほふりを完了させるために残されていた。第四福音書によれば、これがイエスが十字架上で死に瀕していた時刻である。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “And he”; the referent (Pilate) has been specified in the translation for clarity, and the conjunction καί (kai, “and”) has not been translated here in keeping with the tendency of contemporary English style to use shorter sentences.",
+        "ja": "[翻訳注] ギリシア語では「そして彼は」。明確化のために翻訳では指示対象（ピラト）が明示されており、より短い文を用いる現代英語のスタイルの傾向に合わせて、接続詞 καί（カイ、「そして」）は翻訳されていない。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders, especially members of the Sanhedrin, and their servants (mentioned specifically as “the chief priests and their servants” in John 19:6). See the note on the phrase “Jewish leaders” in v. 7.",
+        "ja": "[翻訳注] または「ユダヤ人の当局」；ギリシア語では「ユダヤ人たち」。ここではこの表現はユダヤ人の指導者たち、特にサンヘドリンのメンバーやその下役たち（19:6で「祭司長たちとその部下たち」と具体的に言及されている）を指している。v.7の「ユダヤ人の指導者たち」という表現の注釈を参照のこと。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Then these.”",
+        "ja": "[翻訳注] ギリシア語では「それからこれらの者たちは」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The words “with him” (twice) are not in the Greek text. Direct objects were often omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 「彼とともに」という言葉（2回）はギリシア語の原文にはない。文脈から明らかな場合、ギリシア語では直接目的語がしばしば省略された。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  See the note on Crucify in 19:6.",
+        "ja": "[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “Pilate said to them.” The words “to them” are not translated because it is clear in English who Pilate is addressing.",
+        "ja": "[翻訳注] ギリシア語では「ピラトは彼らに言った」。ピラトが誰に語りかけているかは英語では明らかなため、「彼らに」という言葉は翻訳されていない。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Then he”; the referent (Pilate) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「それから彼は」。明確化のために、翻訳では指示対象（ピラト）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “delivered him over.”",
+        "ja": "[翻訳注] または「引き渡した」"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “carrying the cross by himself.”[解説]  As was customary practice in a Roman crucifixion, the prisoner was made to carry his own cross. In all probability this was only the crossbeam, called in Latin the patibulum, since the upright beam usually remained in the ground at the place of execution. According to Matt 27:32 and Mark 15:21, the soldiers forced Simon to take the cross; Luke 23:26 states that the cross was placed on Simon so that it might be carried behind Jesus. A reasonable explanation of all this is that Jesus started out carrying the cross until he was no longer able to do so, at which point Simon was forced to take over.",
+        "ja": "[翻訳注] または「自分で十字架を背負って」[解説] ローマの十字架刑における慣例として、罪人は自分の十字架を運ばされた。おそらくこれは横木のみであったと考えられ、ラテン語ではパティブルムと呼ばれる。縦木は通常、処刑場に据え置かれていたからである。マタイ27:32およびマルコ15:21によれば、兵士たちはシモンに無理やり十字架を背負わせた。ルカ23:26は、イエスの後ろから運ぶようにシモンに十字架が載せられたと述べている。これらすべての合理的な説明は、イエスが自分で十字架を運び始めたが、もはやそれができなくなった時点でシモンが無理やり交代させられたというものである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus was led out to the place called “The Place of the Skull” where he was to be crucified. It is clear from v. 20 that this was outside the city. The Latin word for the Greek κρανίον (kranion) is calvaria. Thus the English word “Calvary” is a transliteration of the Latin rather than a NT place name (cf. Luke 23:33 in the KJV).",
+        "ja": "[解説] イエスは「頭の場所」と呼ばれる、十字架につけられるべき場所へ連行された。これが都の外であったことは20節から明らかである。ギリシア語 κρανίον（クラニオン）に対するラテン語はカルヴァリア（calvary）である。したがって、英語の「カルバリ（Calvary）」は新約聖書の地名というよりも、ラテン語の音訳である（口語訳聖書のルカ23:33などを参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in Hebrew.”",
+        "ja": "[翻訳注] ギリシア語では「ヘブライ語で」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “where they.” This is a continuation of the previous verse in Greek, but contemporary English style tends toward shorter sentences. A literal translation would result in a lengthy and awkward English sentence.",
+        "ja": "[翻訳注] ギリシア語では「そこで彼らは」。これはギリシア語における前の節の続きであるが、現代英語のスタイルではより短い文の傾向がある。直訳すると、長くぎこちない英語の文になってしまう。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on Crucify in 19:6.",
+        "ja": "[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and with him two others.”",
+        "ja": "[翻訳注] ギリシア語では「そして彼とともにほかの二人の者たち」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “an inscription.”[解説]  Mention of the inscription is an important detail, because the inscription would normally give the reason for the execution. It shows that Jesus was executed for claiming to be a king. It was also probably written with irony from the executioners’ point of view.",
+        "ja": "[翻訳注] または「碑文」「銘板」[解説] 銘板への言及は重要な詳細である。なぜなら、銘板は通常、処刑の理由を示すからである。それはイエスが王であると主張したゆえに処刑されたことを示している。また、それは処刑者たちの視点からは皮肉を込めて書かれたものであった可能性もある。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “Pilate also wrote a notice and placed it on the cross.” The two verbs should be read as causatives, since it is highly unlikely that the Roman governor would perform either of these actions himself. He ordered them to be done.[解説]  John says simply that the notice was fastened to the cross. Luke 23:38 says the inscription was placed “over him” (Jesus), and Matt 27:37 that it was placed over Jesus’ head. On the basis of Matthew’s statement Jesus’ cross is usually depicted as the crux immissa, the cross which has the crossbeam set below the top of the upright beam. The other commonly used type of cross was the crux commissa, which had the crossbeam atop the upright beam. But Matthew’s statement is not conclusive, since with the crux commissa the body would have sagged downward enough to allow the placard to be placed above Jesus’ head. The placard with Pilate’s inscription is mentioned in all the gospels, but for John it was certainly ironic. Jesus really was the King of the Jews, although he was a king rejected by his own people (cf. 1:11). Pilate’s own motivation for placing the title over Jesus is considerably more obscure. He may have meant this as a final mockery of Jesus himself, but Pilate’s earlier mockery of Jesus seemed to be motivated by a desire to gain pity from the Jewish authorities in order to have him released. More likely Pilate saw this as a subtle way of getting back at the Jewish authorities who had pressured him into the execution of one he considered to be an innocent man.",
+        "ja": "[翻訳注] ギリシア語では「ピラトはまた銘板を書き、それを十字架の上に置いた」。ローマの総督がこれらの行為のどちらかを自分で実行したとは非常になしがたいため、2つの動詞は使役として読まれるべきである。彼はそれらを行うよう命じたのである。[解説] ヨハネは単にその銘板が十字架に留められたと述べている。ルカ23:38はその銘板が（イエスの）「上に」置かれたと述べ、マタイ27:37はそれがイエスの頭の上に置かれたと述べている。マタイの記述に基づき、イエスの十字架は通常、縦木の上部に横木が交差するクルックス・イミッサとして描かれる。もう一つの一般的に使用された十字架のタイプは、縦木の上に横木が載せられたクルックス・コミッサであった。しかしマタイの記述は決定的ではない。なぜならクルックス・コミッサであっても、身体が十分に下方に垂れ下がれば、イエスの頭の上に標示板を置くことが可能だったからである。ピラトの銘板が記された告示板はすべての福音書に言及されているが、ヨハネにとっては明らかに皮肉なものであった。イエスは、自分の民に拒絶された王であったとはいえ、真にユダヤ人の王であった（1:11参照）。イエスの上にその称号を掲げたピラト自身の動機は、かなり曖昧である。彼はこれをイエス自身に対する最後の嘲笑のつもりであったかもしれないが、ピラトによるそれ以前のイエスの嘲笑は、釈放させるためにユダヤ人の指導者たちから憐れみを引き出そうとする動機に基づくもののように見えた。より可能性が高いのは、ピラトがこれを、自分が無実とみなした人物の処刑を自分に強要したユダヤ人の指導者たちに対して密かにやり返す手段とみなしていたことである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Now it was written.”",
+        "ja": ""
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the Jews.” Here the phrase refers to the residents of Jerusalem in general. See also the note on the phrase Jewish religious leaders” in v. 7.[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.",
+        "ja": "[翻訳注] ギリシア語では「ユダヤ人たち」。ここではこの表現は広くエルサレムの住民を指している。v.7の「ユダヤ人の宗教指導者たち」という表現の注釈も参照のこと。[地図] 位置については Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4 を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “this inscription.”",
+        "ja": "[翻訳注] または「この碑文」"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in Hebrew.”",
+        "ja": "[翻訳注] ギリシア語では「ヘブライ語で」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish chief priests.” Nowhere else in the Fourth Gospel are the two expressions οἱ ἀρχιερεῖς τῶν ᾿Ιουδαίων (Joi arcierei\" twn Ioudaiwn) combined. Earlier in 19:15 the chief priests were simply referred to as οἱ ἀρχιερεῖς. It seems likely that this is another example of Johannine irony, to be seen in contrast to the inscription on the cross which read ὁ βασιλεὺς τῶν ᾿Ιουδαίων (Jo basileu\" twn Ioudaiwn). For this reason the phrase has been translated “the chief priests of the Jews” (which preserves in the translation the connection with “King of the Jews”) rather than “the Jewish chief priests.”",
+        "ja": "[翻訳注] または「ユダヤ人の祭司長たち」。第四福音書において、οἱ ἀρχιερεῖς τῶν ᾿Ιουδαίων（ホイ・アルキエレイス・トーン・イウダイオーン）という2つの表現が組み合わされているのはここだけである。先ほどの19:15では、祭司長たちは単に οἱ ἀρχιερεῖς と呼ばれていた。これが、十字架上の「ユダヤ人の王」（ὁ βασιλεὺς τῶν ᾿Ιουδαίων）という銘板との対比で見出される、ヨハネ特有の皮肉のもう一つの例である可能性が高い。この理由から、この表現は（「ユダヤ人の王」との繋がりを翻訳において保持するために）「ユダヤ人の祭司長たち」と訳されており、「ユダヤ人の祭司長たち」ではなくなっている。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Crucify in 19:6.",
+        "ja": "[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Four shares, one for each soldier. The Gospel of John is the only one to specify the number of soldiers involved in the crucifixion. This was a quaternion, a squad of four soldiers. It was accepted Roman practice for the soldiers who performed a crucifixion to divide the possessions of the person executed among themselves.",
+        "ja": "[解説] 四つに分け、各人に一取り分ずつ。ヨハネによる福音書は、十字架刑に関与した兵士の数を明記している唯一の福音書である。これは4人1組の分隊（クワテルニオ）であった。十字架刑を執行した兵士たちが、処刑された者の所持品を自分たちの間で分け合うことは、ローマの受け入れられた慣習であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “shirt” (a long garment worn under the cloak next to the skin). The name for this garment (χιτών, citwn) presents some difficulty in translation. Most modern readers would not understand what a ‘tunic’ was any more than they would be familiar with a ‘chiton.’ On the other hand, attempts to find a modern equivalent are also a problem: “Shirt” conveys the idea of a much shorter garment that covers only the upper body, and “undergarment” (given the styles of modern underwear) is more misleading still. “Tunic” was therefore employed, but with a note to explain its nature.",
+        "ja": "[翻訳注] または「シャツ」（上着の下に肌着として着用する長衣）。この衣服の名称（χιτών、キトーン）は翻訳においていくつかの困難をもたらす。現代の読者のほとんどは、「チュニック」がどのようなものであるか、「チトン」と同様に理解できないであろう。一方で、現代の同等品を見つけようとする試みも問題を含んでいる。「シャツ」は上半身のみを覆うはるかに短い衣服の概念を伝えており、「アンダーウェア（下着）」（現代の下着のスタイルを考慮すると）はさらに誤解を招くものである。そのため「チュニック」が採用されたが、その性質を説明するための注記が添えられている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “shirt” (a long garment worn under the cloak next to the skin). See the note on the same word earlier in this verse.",
+        "ja": "[翻訳注] または「シャツ」（上着の下に肌着として着用する長衣）。本節の先頭にある同単語の注釈を参照のこと。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “but choose by lot” (probably by using marked pebbles or broken pieces of pottery). A modern equivalent, “throw dice,” was chosen here because of its association with gambling.",
+        "ja": "[翻訳注] または「むしろくじによって選ぶ」（おそらく印を付けた小石や陶器の割れ片を用いていた）。ギャンブルとの関連性から、現代の同等表現である「くじを引く」がここで選ばれた。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “to see whose it will be.”",
+        "ja": "[翻訳注] ギリシア語では「誰のものになるかを見るために」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  The words “This took place” are not in the Greek text but are implied.",
+        "ja": "[翻訳注] 「これらのことが起こった」という言葉はギリシア語の原文にはないが、含意されている。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “cast lots.” See the note on “throw dice” earlier in the verse.[解説]  A quotation from Ps 22:18.",
+        "ja": "[翻訳注] ギリシア語では「くじを投じた」。本節の前半にある「くじを引く」の注釈を参照のこと。[解説] 詩篇22:18からの引用。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[解説]  Several women are mentioned, but it is not easy to determine how many. It is not clear whether his mother’s sister and Mary the wife of Clopas are to be understood as the same individual (in which case only three women are mentioned: Jesus’ mother, her sister Mary, and Mary Magdalene) or as two different individuals (in which case four women are mentioned: Jesus’ mother, her sister, Mary Clopas’ wife, and Mary Magdalene). It is impossible to be certain, but when John’s account is compared to the synoptics it is easier to reconcile the accounts if four women were present than if there were only three. It also seems that if there were four women present, this would have been seen by the author to be in juxtaposition to the four soldiers present who performed the crucifixion, and this may explain the transition from the one incident in 23-24 to the other in 25-27. Finally, if only three were present, this would mean that both Jesus’ mother and her sister were named Mary, and this is highly improbable in a Jewish family of that time. If there were four women present, the name of the second, the sister of Jesus’ mother, is not mentioned. It is entirely possible that the sister of Jesus’ mother mentioned here is to be identified with the woman named Salome mentioned in Mark 15:40 and also with the woman identified as “the mother of the sons of Zebedee” mentioned in Matt 27:56. If so, and if John the Apostle is to be identified as the beloved disciple, then the reason for the omission of the second woman’s name becomes clear; she would have been John’s own mother, and he consistently omitted direct reference to himself or his brother James or any other members of his family in the Fourth Gospel.",
+        "ja": "[解説] 何人かの女性が言及されているが、何人であるかを特定するのは容易ではない。イエスの母の姉妹とクロパの妻マリアが同一人物であると理解すべきか（その場合、言及されているのはイエスの母、彼女の姉妹マリア、マグダラのマリアの3人のみ）、あるいは2人の異なる人物であると理解すべきか（その場合、言及されているのはイエスの母、その姉妹、クロパの妻マリア、マグダラのマリアの4人の女性）は明らかではない。確信を得ることは不可能であるが、ヨハネの記述を共観福音書と比較する場合、女性が3人しかいなかったとするよりも4人いたとするほうが記述を調和させやすい。また、4人の女性がそこにいたとすれば、これは著者の目には、十字架刑を執行した4人の兵士と並置されていると映ったはずであり、これが23-24節の出来事から25-27節の出来事への移行を説明しているのかもしれない。最後に、もし3人しかいなかったとすれば、それはイエスの母とその姉妹の両方の名前がマリアであったことを意味することになり、当時のユダヤ人の家族においては極めてありそうもないことである。4人の女性がそこにいたとすれば、2番目の女性、すなわちイエスの母の姉妹の名前は言及されていない。ここで言及されているイエスの母の姉妹は、マルコ15:40に言及されているサロメという名前の女性、およびマタイ27:56で「ゼベダイの子らの母」と特定されている女性と同一人物である可能性が十分にある。もしそうであり、かつ使徒ヨハネが愛する弟子であると特定されるならば、2番目の女性の名前が省略された理由が明らかになる。彼女はヨハネ自身の母であったはずであり、彼は第四福音書において、自分自身や兄弟ヤコブ、あるいは自分の家族の他のメンバーについての直接的な言及を首尾一貫して省略していたからである。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[解説]  The term Woman is Jesus’ normal, polite way of addressing women (Matt 15:28, Luke 13:12; John 4:21; 8:10; 19:26; 20:15; see BDAG 208-9 s.v. γυνή 1). But it is unusual for a son to address his mother with this term. The custom in both Hebrew (or Aramaic) and Greek would be for a son to use a qualifying adjective or title. Is there significance in Jesus’ use here? Jesus probably used the term here to help establish Mary and the beloved disciple in a new “mother-son” relationship. Someone would soon need to provide for Mary since Jesus, her oldest son, would no longer be alive. By using this term Jesus distanced himself from Mary so the beloved disciple could take his place as her earthly son (cf. John 2:4). See D. A. Carson, John, 617-18, for discussion about symbolic interpretations of this relationship between Mary and the beloved disciple.",
+        "ja": "[解説] 「女性よ」という用語は、女性に対するイエスの通常かつ丁寧な呼びかけ方である（マタイ15:28、ルカ13:12、ヨハネ4:21; 8:10; 19:26; 20:15; BDAG 208-9 s.v. γυνή 1.参照）。しかし、息子が母親に対してこの用語を用いるのは異例である。ヘブライ語（またはアラム語）およびギリシア語の両方の習慣では、息子が修飾語や称号を用いることが一般的である。イエスがここでこの用語を用いたことには意味があるのだろうか。イエスはおそらく、マリアと愛する弟子との間に新たな「母と子」の関係を築き上げるのを助けるために、この用語を用いたのであろう。イエスの長男であるイエスがもはや生き残らないため、誰かが早急にマリアの世話をする必要があったのである。この用語を用いることで、イエスはマリアから自らを遠ざけ、愛する弟子が地上の息子としての自分の代わりに立てるようにした（ヨハネ2:4参照）。マリアと愛するの弟子の間のこの関係の象徴的解釈に関する議論については、D. A. Carson, John, 617-18 を参照のこと。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “from that very hour.”",
+        "ja": "[翻訳注] ギリシア語では「そのまさにその時から」。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “that already.”",
+        "ja": "[翻訳注] または「すでに」"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “finished,” “accomplished”; Grk “fulfilled.”",
+        "ja": "[翻訳注] または「終えられた」、「成し遂げられた」；ギリシア語では「成就された」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  A reference to Ps 69:21 or Ps 22:15.",
+        "ja": "[解説] 詩篇69:21または詩篇22:15への言及。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  In order to fulfill (τελειωθῇ [teleiwqh], a wordplay on the previous statement that everything was completed [τετέλεσται, tetelestai]) the scripture, he said, “I am thirsty.” The scripture referred to is probably Ps 69:21, “They also gave me gall for my food, and for my thirst they gave me vinegar to drink.” Also suggested, however, is Ps 22:15, “My tongue cleaves to the roof of my mouth, and you [God] lay me in the dust of death.” Ps 22:1 reads “My God, my God, why have you forsaken me?,” a statement Jesus makes from the cross in both Matt 27:46 and Mark 15:34. In light of the connection in the Fourth Gospel between thirst and the living water which Jesus offers, it is highly ironic that here Jesus himself, the source of that living water, expresses his thirst. And since 7:39 associates the living water with the Holy Spirit, Jesus’ statement here in 19:28 amounts to an admission that at this point he has been forsaken by God (cf. Ps 22:1, Matt 27:46, and Mark 15:34).",
+        "ja": "[解説] すべてのことが完了した（テテレスタイ、tetelestai）という先の宣言に対する言葉遊びである聖書を成就するため（テレレイオテー、teleiwqh）に、彼は「わたしは渇く」と言った。言及されている聖書はおそらく詩篇69:21「彼らはまたわたしの食物として毒を与え、わたしの渇きのために酢を飲ませた」である。しかし、詩篇22:15「わたしの舌は上顎に張り付き、あなたは[神]わたしを死の塵の中に置かれます」も示唆されている。詩篇22:1の1行目は「わが神、わが神、どうしてわたしをお見捨てになったのですか」であり、これはマタイ27:46とマルコ15:34の両方でイエスが十字架から発している言葉である。第四福音書における「渇き」と「イエスが与える生きた水」との間のつながりに照らし合わせてみると、生きた水そのものの源であるイエスご自身がここで自分の渇きを表明していることは、きわめて皮肉なことである。そして、7:39が「生きた水」を「聖霊」に関連付けているため、19:28におけるイエスのこの発言は、この時点で彼が神に見捨てられたという告白に等しい（詩篇22:1、マタイ27:46、マルコ15:34参照）。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[解説]  The cheap sour wine was called in Latin posca, and referred to a cheap vinegar wine diluted heavily with water. It was the drink of slaves and soldiers, and was probably there for the soldiers who had performed the crucifixion.",
+        "ja": "[解説] 安価な酸いワインはラテン語でポスカ（posca）と呼ばれ、水で多量に薄められた安価な酢のワインを指していた。それは奴隷や兵士たちの飲み物であり、十字架刑を執行した兵士たちのためにそこに置かれていたのであろう。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Hyssop was a small aromatic bush; exact identification of the plant is uncertain. The hyssop used to lift the wet sponge may have been a form of reed (κάλαμος, kalamo\", “reed,” is used in Matt 27:48 and Mark 15:36); the biblical name can refer to several different species of plant (at least eighteen different plants have been suggested).",
+        "ja": "[解説] ヒソップは芳香のある小さな灌木であり、その植物の正確な特定は不確かである。濡れた海綿を持ち上げるために使われたヒソップは葦の一種であったかもしれない（マタイ27:48およびマルコ15:36では κάλαμος、kalamo\"、「葦」が使用されている）。聖書の名称はいくつかの異なる植物の種を指すことがある（少なくとも18の異なる植物が提案されている）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “and brought it.”",
+        "ja": "[翻訳注] または「そして持って行った」"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Then when.” Here οὖν (oun) has not been translated for stylistic reasons.",
+        "ja": "[翻訳注] ギリシア語では「それからいつ」。ここではスタイルの理由から οὖν（ウン）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “It is accomplished,” “It is finished,” or “It is ended.” See tn on John 13:1.",
+        "ja": "[翻訳注] または「それは成し遂げられた」、「それは完了した」、あるいは「それは終わった」。ヨハネ13:1の訳注を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “he bowed his head and died”; Grk “he bowed his head and gave over the spirit.”",
+        "ja": "[翻訳注] または「彼は頭を垂れて死んだ」；ギリシア語では「彼は頭を垂れ、霊を引き渡した」。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Jewish authorities, because this was the day of preparation for the Sabbath and the Passover (cf. 19:14), requested Pilate to order the legs of the three who had been crucified to be broken. This would hasten their deaths, so that the bodies could be removed before the beginning of the Sabbath at 6 p.m. This was based on the law of Deut 21:22-23 and Josh 8:29 that specified the bodies of executed criminals who had been hanged on a tree should not remain there overnight. According to Josephus this law was interpreted in the 1st century to cover the bodies of those who had been crucified (J. W. 4.5.2 [4.317]). Philo of Alexandria also mentions that on occasion, especially at festivals, the bodies were taken down and given to relatives to bury (Flaccus 10 [83]). The normal Roman practice would have been to leave the bodies on the crosses, to serve as a warning to other would-be offenders.",
+        "ja": "[解説] ユダヤ人の指導者たちは、これが安息日と過越祭のための準備の日であったため（19:14参照）、十字架につけられた3人の足の骨を折るようピラトに要請した。これは彼らの死を早めるためであり、午後6時の安息日の開始前に遺体を取り除くことができるようにするためであった。これは、木にかけられた処刑された犯罪者の遺体を夜通しそのまま残してはならないという申命記21:22-23およびヨシュア記8:29の律法に基づいていた。ヨセフスによれば、この律法は1世紀において、十字架につけられた者たちの遺体にも及ぶものと解釈されていた（『ユダヤ戦記』4.5.2 [4.317]）。アレクサンドリアのフィロンもまた、折に触れて、特に祝祭の際には遺体を取り下げるために親族に引き渡されたと述べている（『フラックスについての伝記』10 [83]）。通常のローマの慣習では、他の潜在的な犯罪者への警告として、遺体を十字架にそのまま残すことであった。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders. See also the note on the phrase “Jewish leaders” in v. 7.",
+        "ja": "[翻訳注] または「ユダヤ人の当局」；ギリシア語では「ユダヤ人たち」。ここではこの表現はユダヤ人の指導者たちを指している。v.7の「ユダヤ人の指導者たち」という表現の注釈も参照のこと。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “asked Pilate that the legs of them might be broken.” The referent of “them” (the three individuals who were crucified, collectively referred to as “the victims”) has been supplied in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「ピラトに、彼らの足が折られるように求めた」。「彼ら」（十字架につけられた3人の個人で、総称して「犠牲者たち」と呼ばれる）の指示対象は、明確化のために翻訳で補われている。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  To have the legs…broken. Breaking the legs of a crucified person was a way of speeding up his death, since the victim could no longer use his legs to push upward in order to be able to draw a breath. This breaking of the legs was called in Latin crurifragium, and was done with a heavy mallet.",
+        "ja": "[解説] 足の骨を…折ること。十字架につけられた者の足を折ることは、犠牲者が息をするために上へ体を押し上げるために足を使えなくなるため、彼の死を早める手段であった。この足の骨折りはラテン語でクルリフラギウム（crurifragium）と呼ばれ、重い木槌を用いて行われた。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “asked Pilate that their legs might be broken and they might be taken down.” Here because of the numerous ambiguous third person references it is necessary to clarify that it was the crucified men whose legs were to be broken and whose corpses were to be removed from the crosses.",
+        "ja": "[翻訳注] ギリシア語では「ピラトに、彼らの足が折られ、彼らが取り下げられるように求めた」。ここでは多くの曖昧な三人称の指示対象が存在するため、足の骨を折られ、十字架から遺体を撤去されるべきだったのは十字架につけられた男たちであったことを明確にする必要がある。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Crucify in 19:6.",
+        "ja": "[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “with him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼とともに」；明確化のために指示対象（イエス）が明示されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “broke the legs of the first and of the other who had been crucified with him.”",
+        "ja": "[翻訳注] ギリシア語では「最初の者の足と、彼とともに十字架につけられたもう一人の者の足とを折った」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[解説]  If it was obvious to the soldiers that the victim was already dead it is difficult to see why one of them would try to inflict a wound. The Greek verb pierced (νύσσω, nussw) can indicate anything from a slight prod to a mortal wound. Probably one of the soldiers gave an exploratory stab to see if the body would jerk. If not, he was really dead. This thrust was hard enough to penetrate the side, since the author states that blood and water flowed out immediately.",
+        "ja": "[解説] もし犠牲者がすでに死亡していることが兵士たちにとって明らかであったのであれば、なぜそのうちの一人が傷を負わせようとしたのかを理解するのは困難である。ギリシア語の動詞 νύσσω（ニュッソー）は、軽い突き刺しから致命傷に至るまで、あらゆるものを指すことができる。おそらく兵士の一人は、体が痙攣するかどうかを確かめるために探るような突き刺しを行ったのであろう。もし痙攣しなければ、彼は本当に死んでいたのである。この突き刺しは脇腹を貫通するのに十分なほど強く、著者によればその結果として血と水が直ちに流れ出た。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  How is the reference to the blood and water that flowed out from Jesus’ side to be understood? This is probably to be connected with the statements in 1 John 5:6-8. In both passages water, blood, and testimony are mentioned. The Spirit is also mentioned in 1 John 5:7 as the source of the testimony, while here the testimony comes from one of the disciples (19:35). The connection between the Spirit and the living water with Jesus’ statement of thirst just before he died in the preceding context has already been noted (see 19:28). For the author, the water which flowed out of Jesus’ side was a symbolic reference to the Holy Spirit who could now be given because Jesus was now glorified (cf. 7:39); Jesus had now departed and returned to that glory which he had with the Father before the creation of the world (cf. 17:5). The mention of blood recalls the motif of the Passover lamb as a sacrificial victim. Later references to sacrificial procedures in the Mishnah appear to support this: m. Pesahim 5:3 and 5:5 state that the blood of the sacrificial animal should not be allowed to congeal but should flow forth freely at the instant of death so that it could be used for sprinkling; m. Tamid 4:2 actually specifies that the priest is to pierce the heart of the sacrificial victim and cause the blood to come forth.",
+        "ja": "[解説] イエスの脇腹から流れ出た血と水への言及はどのように理解されるべきか。これはおそらく、ヨハネの書簡第一 5:6-8の記述に関連している。両方の箇所で、水、血、および証しが言及されている。ヨハネの書簡第一 5:7では御霊も証しの源として言及されているのに対し、ここでは証しは弟子の一人から来ている（19:35）。前文において、死ぬ直前のイエスの渇きの告白と、御霊および生きた水との間のつながりはすでに指摘されている（19:28参照）。著者にとって、イエスの脇腹から流れ出た水は、イエスが栄光を受けた今や与えられるようになった聖霊への象徴的な言及であった（7:39参照）；イエスはもはや地上を去り、天地創造の前に父とともに持っていたその栄光へと戻られたのであった（17:5参照）。血への言及は、犠牲としての過越の小羊のモチーフを想起させる。ミシュナにおける犠牲の手順に関するその後の言及はこれを支持しているように見える。ミシュナ・ペサヒム5:3および5:5は、犠牲の動物の血が凝固しないようにし、すぐに振りかけるために使用できるように死の瞬間に自由に流れ出るべきであると述べており、ミシュナ・タミド4:2は、祭司が犠牲の動物の心臓を突き刺し、血を流れ出させるべきであると実際に定めている。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The word “it” is not in the Greek text but is implied. Direct objects were often omitted in Greek when clear from the context.",
+        "ja": "[翻訳注] 「それ」という言葉はギリシア語の原文にはないが、含意されている。文脈から明らかな場合、ギリシア語では直接目的語がしばしば省略された。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and that one.”",
+        "ja": "[翻訳注] ギリシア語では「そしてその者」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  A parenthetical note by the author.",
+        "ja": "[解説] 著者による挿入注記。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[解説]  A quotation from Exod 12:46, Num 9:12, and Ps 34:20. A number of different OT passages lie behind this quotation: Exod 12:10 LXX, Exod 12:46, Num 9:12, or Ps 34:20. Of these, the first is the closest in form to the quotation here. The first three are all more likely candidates than the last, since the first three all deal with descriptions of the Passover lamb.",
+        "ja": "[解説] 出エジプト記12:46、民数記9:12、および詩篇34:20からの引用。この引用の背景にはいくつかの異なる旧約聖書の箇所がある。出エジプト記12:10（七十人訳）、出エジプト記12:46、民数記9:12、あるいは詩篇34:20である。これらの中で、最初のものがここの引用の形式に最も近い。最初の3つは、いずれも過越の小羊の記述を扱っているため、最後のものよりも可能性の高い候補である。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[解説]  A quotation from Zech 12:10. Here a single phrase is quoted from , but the entire context is associated with the events surrounding the crucifixion. The “Spirit of grace and of supplication” is poured out on the house of David and the inhabitants of Jerusalem in the first part of v. 10. A few verses later in 13:1 Yahweh (typically rendered as “Lord” in the OT) says “In that day a fountain will be opened for the house of David and for the inhabitants of Jerusalem, for sin and for impurity.” The blood which flowed from Jesus’ pierced side may well be what the author saw as the connection here, since as the shedding of the blood of the sacrificial victim it represents cleansing from sin. Although the Jewish authorities and Roman soldiers certainly “looked on the one whom they have pierced” as he hung on the cross, the author may also have in mind the parousia (second coming) here. The context in Zech 12-14 is certainly the second coming, so that these who crucified Jesus will look upon him in another sense when he returns in judgment.",
+        "ja": "[解説] ゼカリヤ書12:10からの引用。ここでは単一のフレーズが引用されているが、文脈全体が十字架刑を取り巻く出来事に関連付けられている。「恵みと哀願の霊」は、10節の前半でダビデの家とエルサレムの住民に注がれる。数節後の13:1において、ヤーウェ（旧約聖書で「主」と訳されることが多い）は「その日、ダビデの家とエルサレムの住民のために、罪と汚れを洗い流す一つの泉が開かれる」と言われる。イエスの突き刺された脇腹から流れ出た血は、著者がここで見出したつながりである可能性が高い。なぜなら、犠牲の動物の血を流すこととしてそれは罪からの清めを象徴しているからである。ユダヤ人の指導者たちやローマの兵士たちが十字架にかかっている彼を「自分が突き刺した者を仰ぎ見る」ことは確かであるが、著者はここでパルーシア（再臨）をも念頭に置いていたかもしれない。ゼカリヤ書12-14章の文脈は確実に再臨であり、したがってイエスを十字架につけた者たちは、彼が審判のために戻ってくるときに、別の意味で彼を仰ぎ見ることになるのである。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish authorities”; Grk “the Jews.” Here the phrase refers to the Jewish leaders, especially the Pharisees (see John 12:42). See also the note on the phrase “Jewish leaders” in v. 7.",
+        "ja": "[翻訳注] または「ユダヤ人の当局」；ギリシア語では「ユダヤ人たち」。ここではこの表現はユダヤ人の指導者たち、特にパリサイ人を指している（ヨハネ12:42参照）。v.7の「ユダヤ人の指導者たち」という表現の注釈も参照のこと。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者による挿入注記である。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “And Pilate.” The conjunction καί (kai, “and”) has not been translated here in keeping with the tendency of contemporary English style to use shorter sentences.",
+        "ja": "[翻訳注] ギリシア語では「そしてピラトは」。より短い文を用いる現代英語のスタイルの傾向に合わせて、接続詞 καί（カイ、「そして」）は翻訳されていない。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “took away his body.”",
+        "ja": "[翻訳注] ギリシア語では「彼の体を取り去った」。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼を」；明確化のために指示対象（イエス）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See John 3:1-21.",
+        "ja": "[解説] ヨハネ3:1-21を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “came”; the words “accompanied Joseph” are not in the Greek text but are supplied for clarity.",
+        "ja": "[翻訳注] ギリシア語では「来た」；明確化のために「ヨセフに同行して」という言葉がギリシア語の原文にないが補われている。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Aloes refers to an aromatic resin from a plant similar to a lily, used for embalming a corpse.",
+        "ja": "[解説] アロエはユリに似た植物から採れる芳香性の樹脂を指し、死体の防腐処理に使用された。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  The Roman pound (λίτρα, litra) weighed twelve ounces or 325 grams. Thus 100 Roman pounds would be about 32.5 kilograms or 75 pounds.",
+        "ja": "[解説] ローマのポンド（λίτρα、リトラ）は12オンス、すなわち325グラムであった。したがって、100ローマポンドは約32.5キログラム、すなわち75ポンドとなる。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  On this term see BDAG 140-41 s.v. ἄρωμα. The Jews did not practice embalming, so these materials were used to cover the stench of decay and slow decomposition.",
+        "ja": "[翻訳注] この用語については BDAG 140-41頁 s.v. ἄρωμα を参照のこと。ユダヤ人たちは遺体の防腐処理を行わなかったため、これらの物質は腐敗の悪臭を覆い、分解を遅らせるために使用された。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Fourth Gospel uses ὀθονίοις (oqonioi\") to describe the wrappings, and this has caused a good deal of debate, since it appears to contradict the synoptic accounts which mention a σινδών (sindwn), a large single piece of linen cloth. If one understands ὀθονίοις to refer to smaller strips of cloth, like bandages, there would be a difference, but diminutive forms have often lost their diminutive force in Koine Greek (BDF §111.3), so there may not be any difference.",
+        "ja": "[翻訳注] 第四福音書では包帯を表すのに ὀθονίοις（オトニオイル）が使用されており、これが大きな1枚の亜麻布の布である σινδών（シンドン）に言及する共観福音書の記述と矛盾するように見えるため、多くの議論を引き起こしてきた。もし ὀθονίοις を包帯のような小さめの布の切れ端を指すと理解するならば違いが生じるが、コイネー・ギリシア語では縮小辞がしばしばその縮小の力を失っているため（BDF §111.3）、違いがない可能性もある。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “cloth as is the custom of the Jews to prepare for burial.”",
+        "ja": "[翻訳注] ギリシア語では「ユダヤ人が埋葬のために準備する習慣であるような布で」。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼は」；明確化のために指示対象（イエス）が明示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on Crucify in 19:6.",
+        "ja": "[解説] 19:6の「十字架につける」の注釈を参照のこと。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “an orchard.”",
+        "ja": "[翻訳注] または「果樹園」"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “orchard.”",
+        "ja": "[翻訳注] または「果樹園」"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “been placed.”",
+        "ja": "[翻訳注] ギリシア語では「置かれていた」。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[解説]  The day of preparation was the day before the Sabbath when everything had to be prepared for it, as no work could be done on the Sabbath.",
+        "ja": "[解説] 準備の日とは、安息日のためにあらゆることを準備しなければならなかった安息日の前日であり、安息日にはいかなる労働も行うことができなかった。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The tomb was nearby. The Passover and the Sabbath would begin at 6 p.m., so those who had come to prepare and bury the body could not afford to waste time.",
+        "ja": "[解説] 墓はすぐ近くにあった。過越祭と安息日は午後6時に始まるため、遺体を準備し埋葬するためにやって来た者たちは時間を無駄にすることができなかった。"
+      }
+    ]
+  }
+}

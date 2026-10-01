@@ -1,0 +1,895 @@
+{
+  "book": "John",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now as Jesus was passing by, he saw a man who had been blind from birth. ",
+      "ja": "さて、イエスは通りすがりに、生まれつき目の見えない人を見かけられた。"
+    },
+    {
+      "verse": 2,
+      "en": "His disciples asked him, “Rabbi, who committed the sin that caused him to be born blind, this man or his parents?” ",
+      "ja": "弟子たちがイエスに尋ねた。「ラビ、この人が生まれつき目の見えない者として生まれたのは、誰が罪を犯したからですか。この人ですか、それとも両親ですか。」"
+    },
+    {
+      "verse": 3,
+      "en": "Jesus answered, “Neither this man nor his parents sinned, but he was born blind so that the acts of God may be revealed through what happens to him. ",
+      "ja": "イエスは答えられた。「この人が罪を犯したのでもなく、その両親でもない。彼が生まれつき目の見えない者となったのは、神のわざが彼の身を通して現れるためである。」"
+    },
+    {
+      "verse": 4,
+      "en": "We must perform the deeds of the one who sent me as long as it is daytime. Night is coming when no one can work. ",
+      "ja": "わたしたちは、昼の間、わたしを遣わされた方のわざを行わなければならない。誰も働くことができない夜が来る。"
+    },
+    {
+      "verse": 5,
+      "en": "As long as I am in the world, I am the light of the world.” ",
+      "ja": "わたしが世にいる間、わたしは世の光である。"
+    },
+    {
+      "verse": 6,
+      "en": "Having said this, he spat on the ground and made some mud with the saliva. He smeared the mud on the blind man’s eyes ",
+      "ja": "こう言ってから、イエスは地面に唾をし、その唾で泥を作られた。そして、その泥を盲人の目に塗られた。"
+    },
+    {
+      "verse": 7,
+      "en": "and said to him, “Go wash in the pool of Siloam” (which is translated “sent”). So the blind man went away and washed, and came back seeing. ",
+      "ja": "そして、「シロアム（訳すと『遣わされた者』）の池に行って洗いなさい」と言われた。そこで彼は行って洗い、見えるようになって帰って来た。"
+    },
+    {
+      "verse": 8,
+      "en": "Then the neighbors and the people who had seen him previously as a beggar began saying, “Is this not the man who used to sit and beg?” ",
+      "ja": "近所の人たちや、以前彼が物乞いをしていたのを見ていた人たちが言い始めた。「これは、座って物乞いをしていたあの人ではないか。」"
+    },
+    {
+      "verse": 9,
+      "en": "Some people said, “This is the man!” while others said, “No, but he looks like him.” The man himself kept insisting, “I am the one!”",
+      "ja": "ある人々は「その人だ」と言い、他の人々は「いや、彼に似ているだけだ」と言った。本人は「わたしがその人間です」と言い続けた。"
+    },
+    {
+      "verse": 10,
+      "en": "So they asked him, “How then were you made to see?” ",
+      "ja": "そこで人々は彼に尋ねた。「それでは、どのようにしてあなたの目は開いたのですか。」"
+    },
+    {
+      "verse": 11,
+      "en": "He replied, “The man called Jesus made mud, smeared it on my eyes and told me, ‘Go to Siloam and wash.’ So I went and washed, and was able to see.” ",
+      "ja": "彼は答えた。「イエスという名前の方が泥を作り、わたしの目に塗り、『シロアムに行って洗いなさい』と言われました。そこで行って洗うと、見えるようになったのです。」"
+    },
+    {
+      "verse": 12,
+      "en": "They said to him, “Where is that man?” He replied, “I don’t know.” ",
+      "ja": "人々が「その人はどこにいるのか」と言うと、彼は「知りません」と答えた。"
+    },
+    {
+      "verse": 13,
+      "en": "They brought the man who used to be blind to the Pharisees. ",
+      "ja": "人々は、以前目の見えなかったその人をパリサイ人たちのところへ連れて行った。"
+    },
+    {
+      "verse": 14,
+      "en": "(Now the day on which Jesus made the mud and caused him to see was a Sabbath.) ",
+      "ja": "（イエスが泥を作り、彼の目を開けられたのは安息日のことであった。）"
+    },
+    {
+      "verse": 15,
+      "en": "So the Pharisees asked him again how he had gained his sight. He replied, “He put mud on my eyes and I washed, and now I am able to see.” ",
+      "ja": "そこでパリサイ人たちも、どのようにして見えるようになったのか、再び彼に尋ねた。彼は答えた。「あの方がわたしの目に泥を置き、わたしが洗うと、今こうして見えるようになっているのです。」"
+    },
+    {
+      "verse": 16,
+      "en": "Then some of the Pharisees began to say, “This man is not from God because he does not observe the Sabbath.” But others said, “How can a man who is a sinner perform such miraculous signs?” Thus there was a division among them. ",
+      "ja": "パリサイ人たちの中のある者たちは、「この男は安息日を守っていないのだから、神のもとから来たのではない」と言い始めた。しかし他の者たちは、「罪人である人間に、どうしてこのようなしるしを行うことができようか」と言った。こうして、彼らの間に分裂が生じた。"
+    },
+    {
+      "verse": 17,
+      "en": "So again they asked the man who used to be blind, “What do you say about him, since he caused you to see?” “He is a prophet,” the man replied. ",
+      "ja": "そこで彼らは、以前目の見えなかった者に再び言った。「あの方があなたの目を開けてくれたのだから、あなたはあの方を何者だと言うのか。」彼は「あの方は預言者です」と答えた。"
+    },
+    {
+      "verse": 18,
+      "en": "Now the Jewish religious leaders refused to believe that he had really been blind and had gained his sight until at last they summoned the parents of the man who had become able to see. ",
+      "ja": "ユダヤの宗教指導者たちは、彼が実際に盲目で見えるようになったということを信じようとせず、ついに、見えるようになったその人の両親を呼び出した。"
+    },
+    {
+      "verse": 19,
+      "en": "They asked the parents, “Is this your son, whom you say was born blind? Then how does he now see?” ",
+      "ja": "そして両親に尋ねた。「この者は、あなたがたが生まれつき盲目だと言っている息子か。それなら、どうして今は見えるのか。」"
+    },
+    {
+      "verse": 20,
+      "en": "So his parents replied, “We know that this is our son and that he was born blind. ",
+      "ja": "両親は答えて言った。「これがわたしたちの息子であること、また生まれつき盲目であったことは知っています。」"
+    },
+    {
+      "verse": 21,
+      "en": "But we do not know how he is now able to see, nor do we know who caused him to see. Ask him, he is a mature adult. He will speak for himself.” ",
+      "ja": "「しかし、どうして今見えるのかは知りませんし、誰が彼の目を開けたのかも知りません。彼に聞いてください。彼は成人しています。自分のことは自分で話すでしょう。」"
+    },
+    {
+      "verse": 22,
+      "en": "(His parents said these things because they were afraid of the Jewish religious leaders. For the Jewish leaders had already agreed that anyone who confessed Jesus to be the Christ would be put out of the synagogue. ",
+      "ja": "（両親がこう言ったのは、ユダヤの宗教指導者たちを恐れていたからである。すでにユダヤ人の指導者たちは、イエスをキリストであると告白する者は誰でも、会堂から追放することに決めていたからである。）"
+    },
+    {
+      "verse": 23,
+      "en": "For this reason his parents said, “He is a mature adult, ask him.”) ",
+      "ja": "（そのため、両親は「彼は成人しています。彼に聞いてください」と言ったのである。）"
+    },
+    {
+      "verse": 24,
+      "en": "Then they summoned the man who used to be blind a second time and said to him, “Promise before God to tell the truth. We know that this man is a sinner.” ",
+      "ja": "そこで彼らは、以前目の見えなかった人を再び呼び出して言った。「神の前で真実を語ると誓いなさい。わたしたちは、あの男が罪人であることを知っているのだ。」"
+    },
+    {
+      "verse": 25,
+      "en": "He replied, “I do not know whether he is a sinner. I do know one thing—that although I was blind, now I can see.” ",
+      "ja": "彼は答えた。「あの方が罪人かどうかはわたしには分かりません。ただ一つ知っているのは、わたしは盲目であったのに、今は見えるということです。」"
+    },
+    {
+      "verse": 26,
+      "en": "Then they said to him, “What did he do to you? How did he cause you to see?” ",
+      "ja": "彼らは彼に言った。「あの男はお前に何をしたのか。どのようにお前の目を開けたのか。」"
+    },
+    {
+      "verse": 27,
+      "en": "He answered, “I told you already and you didn’t listen. Why do you want to hear it again? You people don’t want to become his disciples too, do you?” ",
+      "ja": "彼は答えた。「もうお話ししましたが、あなたがたは聞いてくれませんでした直。なぜまた聞きたいのですか。あなたがたも、あの方の弟子になりたいのですか。」"
+    },
+    {
+      "verse": 28,
+      "en": "They heaped insults on him, saying, “You are his disciple! We are disciples of Moses! ",
+      "ja": "彼らは彼を罵って言った。「お前はあの男の弟子だが、わたしたちはモーセの弟子だ。」"
+    },
+    {
+      "verse": 29,
+      "en": "We know that God has spoken to Moses! We do not know where this man comes from!” ",
+      "ja": "「神がモーセに語られたことは知っているが、あの男がどこから来たのかは知らない。」"
+    },
+    {
+      "verse": 30,
+      "en": "The man replied, “This is a remarkable thing that you don’t know where he comes from, and yet he caused me to see! ",
+      "ja": "その人は答えた。「あの方がわたしの目を開けてくださったのに、あなたがたがあの方はどこから来たのかをご存じないとは、驚くべきことです。」"
+    },
+    {
+      "verse": 31,
+      "en": "We know that God doesn’t listen to sinners, but if anyone is devout and does his will, God listens to him. ",
+      "ja": "神が罪人の言うことはお聞きにならないが、もし誰かが敬虔で神のみこころを行うなら、神はその人の言うことをお聞きになることを、わたしたちは知っています。"
+    },
+    {
+      "verse": 32,
+      "en": "Never before has anyone heard of someone causing a man born blind to see. ",
+      "ja": "生まれつきの盲人の目を開けた者がいるなどとは、古今未だかつて聞いたことがありません。"
+    },
+    {
+      "verse": 33,
+      "en": "If this man were not from God, he could do nothing.” ",
+      "ja": "もしあの方が神のもとから来られたのでなければ、何もできなかったはずです。"
+    },
+    {
+      "verse": 34,
+      "en": "They replied, “You were born completely in sinfulness, and yet you presume to teach us?” So they threw him out. ",
+      "ja": "彼らは答えた。「お前は全く罪の中に生まれた身でありながら、わたしたちを教えようとするのか。」そして、彼を外に放り出した。"
+    },
+    {
+      "verse": 35,
+      "en": "Jesus heard that they had thrown him out, so he found the man and said to him, “Do you believe in the Son of Man?” ",
+      "ja": "イエスは、彼らがその人を外に放り出したことを聞き、彼を見つけ出して言われた。「あなたは人の子を信じるか。」"
+    },
+    {
+      "verse": 36,
+      "en": "The man replied, “And who is he, sir, that I may believe in him?” ",
+      "ja": "その人は答えた。「主よ、その方はどなたですか。その方を信じたいのです。」"
+    },
+    {
+      "verse": 37,
+      "en": "Jesus told him, “You have seen him; he is the one speaking with you.” [",
+      "ja": "イエスは彼に言われた。「あなたはすでにその方を見ている。今あなたと話しているのが、その方である。」"
+    },
+    {
+      "verse": 38,
+      "en": "He said, “Lord, I believe,” and he worshiped him. ",
+      "ja": "彼は言った。「主よ、信じます。」そして、イエスを拝した。"
+    },
+    {
+      "verse": 39,
+      "en": "Jesus said,] “For judgment I have come into this world, so that those who do not see may gain their sight, and the ones who see may become blind.” ",
+      "ja": "イエスは言われた。「わたしは裁きのためにこの世に来た。見えない者が見えるようになり、見える者が盲目となるためである。」"
+    },
+    {
+      "verse": 40,
+      "en": "Some of the Pharisees who were with him heard this and asked him, “We are not blind too, are we?”",
+      "ja": "イエスと一緒にいたパリサイ人たちの何人かがこれを聞いて、イエスに尋ねた。「わたしたちも盲目だというのか。」"
+    },
+    {
+      "verse": 41,
+      "en": "Jesus replied, “If you were blind, you would not be guilty of sin, but now because you claim that you can see, your guilt remains. ",
+      "ja": "イエスは答えられた。「もしあなたがたが盲目であったなら、罪はなかったであろう。しかし今、あなたがたが『見える』と言い張るからこそ、あなたがたの罪は残るのである。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “going along.” The opening words of chap. , καὶ παράγων (kai paragwn), convey only the vaguest indication of the circumstances.[解説]  Since there is no break with chap. , Jesus is presumably still in Jerusalem, and presumably not still in the temple area. The events of chap.  fall somewhere between the feast of Tabernacles (John 7:2) and the feast of the Dedication (John 10:22). But in the author’s narrative the connection exists – the incident recorded in chap.  (along with the ensuing debates with the Pharisees) serves as a real-life illustration of the claim Jesus made in 8:12, I am the light of the world. This is in fact the probable theological motivation behind the juxtaposition of these two incidents in the narrative. The second serves as an illustration of the first, and as a concrete example of the victory of light over darkness. One other thing which should be pointed out about the miracle recorded in chap.  is its messianic significance. In the OT it is God himself who is associated with the giving of sight to the blind (Exod 4:11, Ps 146:8). In a number of passages in Isa (29:18, 35:5, 42:7) it is considered to be a messianic activity.",
+        "ja": "[翻訳注] または「通りがかりに」。9章冒頭の言葉「καὶ παράγων (kai paragwn)」は、状況についてごく漠然とした暗示しか与えていません。[解説] 8章との断絶がないため、イエスはおそらくまだエルサレムにおり、おそらく神殿境内にはもういないと思われます。9章の出来事は、仮庵の祭り（ヨハネ7:2）と奉献の祭り（ヨハネ10:22）の間のどこかにあたります。しかし、著者の叙述において、この繋がりは存在します。9章に記録された出来事（およびそれに続くパリサイ人との論争）は、8:12でイエスがなされた「わたしは世の光である」という主張を、現実の出来事として例証する役割を果たしています。これこそが、叙述においてこれら二つの出来事を並置した、おそらく神学的な意図です。二番目の出来事は一番目の例証として機能し、闇に対する光の勝利の具体的な例となっています。9章に記録された奇跡について指摘しておくべきもう一つの点は、そのメシア的な意義です。旧約聖書において、盲人に視力を与えることは神自身に関連付けられています（出エジプト4:11、詩篇146:8）。イザヤ書の多くの箇所（29:18、35:5、42:7）では、それはメシアの活動であると考えられています。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “asked him, saying.”",
+        "ja": "[翻訳注] ギリシア語では「彼に尋ねて言った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] ギリシア語では「この人」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “in order that he should be born blind.”[解説]  The disciples assumed that sin (regardless of who committed it) was the cause of the man’s blindness. This was a common belief in Judaism; the rabbis used Ezek 18:20 to prove there was no death without sin, and Ps 89:33 to prove there was no punishment without guilt (the Babylonian Talmud, b. Shabbat 55a, although later than the NT, illustrates this). Thus in this case the sin must have been on the part of the man’s parents, or during his own prenatal existence. Song Rabbah 1:41 (another later rabbinic work) stated that when a pregnant woman worshiped in a heathen temple the unborn child also committed idolatry. This is only one example of how, in rabbinic Jewish thought, an unborn child was capable of sinning.",
+        "ja": "[翻訳注] ギリシア語では「彼が生まれつき盲目であるために」。[解説] 弟子たちは、誰が犯したかにかかわらず、罪がその人の盲目の原因であると仮定していました。これは当時のユダヤ教における一般的な信念でした。ラビたちはエゼキエル18:20を用いて「罪なしに死はない」ことを証明し、詩篇89:33を用いて「罪過なしに罰はない」ことを証明していました（後世のバビロニア・タルムード、b. Shabbat 55aにその例が見られます）。したがって、この場合、罪は両親の側にあるか、あるいは彼自身の出生前の存在の間にあったに違いないと考えられたのです。別の後世のラビ文献（Song Rabbah 1:41）には、妊婦が異教の神殿で礼拝したとき、胎児も偶像崇拝を犯したことになると記されています。これは、ラビ的なユダヤ思想において、胎児が罪を犯し得ると考えられていた一例にすぎません。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] ギリシア語では「この人」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “but so that.” There is an ellipsis that must be supplied: “but [he was born blind] so that” or “but [it happened to him] so that.”",
+        "ja": "[翻訳注] ギリシア語では「しかし、……ために」。ここには補うべき省略があります。「しかし、［彼が生まれつき目の見えない者として生まれたのは、］……ためである」あるいは「しかし、［そのことが彼に起こったのは、］……ためである」となります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “deeds”; Grk “works.”",
+        "ja": "[翻訳注] または「行い」。ギリシア語では「わざ（works）」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “manifested,” “brought to light.”",
+        "ja": "[翻訳注] または「現される」「明るみに出される」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “in him.”",
+        "ja": "[翻訳注] ギリシア語では「彼において」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “We must work the works.”",
+        "ja": "[翻訳注] ギリシア語では「わたしたちは……わざを働かなければならない」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “of him who sent me” (God).",
+        "ja": "[翻訳注] または「わたしを遣わされた方（神）の」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “while.”",
+        "ja": "[翻訳注] または「～の間」。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus’ statement I am the light of the world connects the present account with 8:12. Here (seen more clearly than at 8:12) it is obvious what the author sees as the significance of Jesus’ statement. “Light” is not a metaphysical definition of the person of Jesus but a description of his effect on the world, forcing everyone in the world to ‘choose up sides’ for or against him (cf. 3:19-21).",
+        "ja": "[解説] イエスの「わたしは世の光である」という宣言は、本章の記述を8:12と結びつけています。ここでは（8:12よりもはるかに明確に）、著者がこのイエスの宣言にどのような意義を見出しているかが明らかです。「光」とはイエスの人格についての形而上学的な定義ではなく、彼が世に対して及ぼす影響の記述であり、世のすべての人に、彼に味方するか反対するかという「側の選択」を強いるものです（3:19-21参照）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “said these things.”",
+        "ja": "[翻訳注] ギリシア語では「これらのことを言って」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “clay” (moistened earth of a clay-like consistency). The textual variant preserved in the Syriac text of Ephraem’s commentary on the Diatessaron (“he made eyes from his clay”) probably arose from the interpretation given by Irenaeus in Against Heresies: “that which the Artificer, the Word, had omitted to form in the womb, he then supplied in public.” This involves taking the clay as an allusion to Gen 2:7, which is very unlikely.",
+        "ja": "[翻訳注] または「粘土」（粘土のような硬さに湿らせた土）。エフレムによる『ディアテッサロン』注解のシリア語写本に保存されている異読（「彼は自分の粘土から目を作った」）は、おそらくエイレナイオスの『異端反駁』に見られる解釈から生じたものです。「造り主であるロゴスが胎内で形作るのを省略したものを、その時公に補われた」。これは泥を創世記2:7への暗示として捉えるものですが、その可能性は極めて低いです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Because of the length and complexity of the Greek sentence, the conjunction καί (kai) was replaced by a third person pronoun and a new sentence started here in the translation.",
+        "ja": "[翻訳注] ギリシア語の文が長く複雑であるため、翻訳では接続詞 καί (kai) を三人称代名詞に置き換え、ここで新しい文を開始しました。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “on his.”",
+        "ja": "[翻訳注] ギリシア語では「彼の（目に）」。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The pool’s name in Hebrew is shiloah from the Hebrew verb “to send.” In Gen 49:10 the somewhat obscure shiloh was interpreted messianically by later Jewish tradition, and some have seen a lexical connection between the two names (although this is somewhat dubious). It is known, however, that it was from the pool of Siloam that the water which was poured out at the altar during the feast of Tabernacles was drawn.",
+        "ja": "[翻訳注] この池のヘブライ語名は shiloah で、ヘブライ語の動詞「遣わす（send）」に由来します。創世記49:10にあるやや不明瞭な語 shiloh は、後のユダヤ教の伝統でメシア的に解釈されており、両者の名前に語彙的な関連性を見出す者もいます（ただし、これはやや疑わしい説です）。しかし、仮庵の祭りの期間中に祭壇で注がれる水は、このシロアムの池から汲み出されていたことが知られています。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author. Why does he comment on the meaning of the name of the pool? Here, the significance is that the Father sent the Son, and the Son sent the man born blind. The name of the pool is applicable to the man, but also to Jesus himself, who was sent from heaven.",
+        "ja": "[解説] これは著者の挿入的な注釈です。なぜ彼は池の名前の意味についてコメントしているのでしょうか。ここでの意義は、父が子を遣わし、子が生まれつき目の見えない人を遣わしたという点にあります。池の名前は、その男にも当てはまりますが、天から遣わされたイエスご自身にも当てはまるのです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “So he”; the referent (the blind man) is specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「そこで彼は」。翻訳では明確にするために指示対象（盲人）を明示しました。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “formerly.”",
+        "ja": "[翻訳注] または「以前に」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  An ingressive force (“began saying”) is present here because the change in status of the blind person provokes this new response from those who knew him.",
+        "ja": "[翻訳注] 盲人の状態の変化が、彼を知っていた人々からのこの新しい反応を引き起こしているため、ここでは始動的な力（「言い始めた」）が含まれています。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “the one.”",
+        "ja": "[翻訳注] ギリシア語では「その者」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Others were saying.”",
+        "ja": "[翻訳注] ギリシア語では「他の人々は言っていた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “This is the one.”",
+        "ja": "[翻訳注] ギリシア語では「これがその者だ」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “No, but he is like him.”",
+        "ja": "[翻訳注] ギリシア語では「いや、しかし彼は彼に似ている」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “That one”; the referent (the man himself) is specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「あの者」。翻訳では明確にするために指示対象（本人）を明示しました。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “I am he.”",
+        "ja": "[翻訳注] ギリシア語では「わたしが彼（本人）です」。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “So they were saying to him.”",
+        "ja": "[翻訳注] ギリシア語では「そこで彼らは彼に言っていた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “How then were your eyes opened” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「それでは、どのようにしてあなたの目は開けられたのか」（視力の回復を指す慣用句）。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “That one answered.”",
+        "ja": "[翻訳注] ギリシア語では「あの者は答えた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “clay” (moistened earth of a clay-like consistency).",
+        "ja": "[翻訳注] または「粘土」（粘土のような硬さに湿らせた土）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and smeared.” Direct objects in Greek were often omitted when obvious from the context.",
+        "ja": "[翻訳注] ギリシア語では「そして（泥を）塗った」。ギリシア語では、文脈から明らかな場合、直接目的語が省略されることがよくありました。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “said to me.”",
+        "ja": "[翻訳注] ギリシア語では「わたしに言った」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “and I gained my sight.”",
+        "ja": "[翻訳注] または「そして視力を得た」。"
+      }
+    ],
+    "12": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And they said.”",
+        "ja": "[翻訳注] ギリシア語では「そして彼らは言った」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “that one.” “Man” is more normal English style for the referent.",
+        "ja": "[翻訳注] ギリシア語では「あの者」。英語（および日本語）のスタイルとしては、指示対象として「その人」とするのがより自然です。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “He said.”",
+        "ja": "[翻訳注] ギリシア語では「彼は言った」。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “who was formerly blind.”",
+        "ja": "[翻訳注] ギリシア語では「以前盲目であった者」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  See the note on Pharisees in 1:24.",
+        "ja": "[解説] 1:24のパリサイ人についての注釈を参照してください。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “clay” (moistened earth of a clay-like consistency).",
+        "ja": "[翻訳注] または「粘土」（粘土のような硬さに湿らせた土）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “and opened his eyes” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「そして彼の目を開けた」（視力の回復を指す慣用句）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This is a parenthetical note by the author.",
+        "ja": "[解説] これは著者の挿入的な注釈です。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “how he had become able to see.”[解説]  So the Pharisees asked him. Note the subtlety here: On the surface, the man is being judged. But through him, Jesus is being judged. Yet in reality (as the discerning reader will realize) it is ironically the Pharisees themselves who are being judged by their response to Jesus who is the light of the world (cf. 3:17-21).",
+        "ja": "[翻訳注] または「どのようにして見えるようになったのか」。[解説] 「そこでパリサイ人たちも彼に尋ねた」。ここでの微妙な点に注目してください。表面的には、この男が裁かれています。しかし、彼を通してイエスが裁かれています。ところが実際には（鋭い読者なら気づくように）、世の光であるイエスに対する自分たちの反応によって裁かれているのは、皮肉にもパリサイ人自身なのです（3:17-21参照）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “And he said to them.”",
+        "ja": "[翻訳注] ギリシア語では「そして彼は彼らに言った」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “clay” (moistened earth of a clay-like consistency).",
+        "ja": "[翻訳注] または「粘土」（粘土のような硬さに湿らせた土）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “now” is not in the Greek text, but is supplied to indicate the contrast between the man’s former state (blind) and his present state (able to see).",
+        "ja": "[翻訳注] 「今」という言葉はギリシア語原文にはありませんが、男の以前の状態（盲目）と現在の状態（見える）の対比を示すために補われています。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  As a response to the answers of the man who used to be blind, the use of the imperfect tense in the reply of the Pharisees is best translated as an ingressive imperfect (“began to say” or “started saying”).",
+        "ja": "[翻訳注] 以前目の見えなかった者の答えに対する反応として、パリサイ人の返答における未完了時制の使用は、始動的な未完了（「言い始めた」あるいは「言い出した」）として訳すのが最善です。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he does not keep.”",
+        "ja": "[翻訳注] ギリシア語では「彼は守っていない」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The Jewish religious leaders considered the work involved in making the mud to be a violation of the Sabbath.",
+        "ja": "[解説] ユダヤの宗教指導者たちは、泥を作ることに伴う作業を安息日の違反であると考えました。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “do.”",
+        "ja": "[翻訳注] ギリシア語では「する（do）」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Or “So there was discord.”",
+        "ja": "[翻訳注] または「こうして不和が生じた」。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the blind man.”",
+        "ja": "[翻訳注] ギリシア語では「その盲人」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “since he opened your eyes” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「彼があなたの目を開けたのだから」（視力の回復を指す慣用句）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “And he said, ‘He is a prophet.’”[解説]  At this point the man, pressed by the Pharisees, admitted there was something special about Jesus. But here, since prophet is anarthrous (is not accompanied by the Greek article) and since in his initial reply in 9:11-12 the man showed no particular insight into the true identity of Jesus, this probably does not refer to the prophet of Deut 18:15, but merely to an unusual person who is capable of working miracles. The Pharisees had put this man on the spot, and he felt compelled to say something about Jesus, but he still didn’t have a clear conception of who Jesus was, so he labeled him a “prophet.”",
+        "ja": "[翻訳注] ギリシア語では「彼は言った、『あの方は預言者です』」。[解説] この時点で、パリサイ人に迫られた男は、イエスに何か特別なことがあることを認めました。しかしここで、「預言者」には定冠詞がついておらず（ギリシア語の冠詞がない）、また9:11-12での彼の最初の返答において男はイエスの真の正体について特に洞察を示していなかったことから、これはおそらく申命記18:15の「あの預言者」を指すのではなく、単に奇跡を行うことができる並外れた人物を指しているのでしょう。パリサイ人はこの男を窮地に追い込み、彼はイエスについて何か言わざるを得なくなりましたが、まだイエスが誰であるかについて明確な概念を持っていなかったため、彼を「預言者」と呼んだのです。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish religious authorities”; Grk “the Jews.” In NT usage the term ᾿Ιουδαῖοι (Ioudaioi) may refer to the entire Jewish people, the residents of Jerusalem and surrounding territory, the authorities in Jerusalem, or merely those who were hostile to Jesus. (For further information see R. G. Bratcher, “‘The Jews’ in the Gospel of John,” BT 26 [1975]: 401-9.) Here the phrase refers mainly to the Pharisees, mentioned by name in John 9:13, 15, 16. References in this context to Pharisees and to the synagogue (v. 22) suggest an emphasis on the religious nature of the debate which is brought out by the translation “the Jewish religious leaders.”",
+        "ja": "[翻訳注] または「ユダヤの宗教当局者たち」。ギリシア語では「ユダヤ人たち」。新約聖書の用法において、᾿Ιουδαῖοι (Ioudaioi) という用語は、ユダヤ民族全体、エルサレムとその周辺地域の住民、エルサレムの当局者、あるいは単にイエスに敵対的だった人々を指すことがあります。ここでは、主にヨハネ9:13, 15, 16で名前が挙げられているパリサイ人を指しています。この文脈においてパリサイ人や会堂（22節）への言及があることは、論争の宗教的性質を強調しており、それを「ユダヤの宗教指導者たち」という翻訳で表現しています。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Greek text contains the words “about him” at this point: “the Jewish authorities did not believe about him…”",
+        "ja": "[翻訳注] ギリシア語原文はこの箇所に「彼について」という言葉を含んでいます。「ユダヤ人の当局者たちは、彼について信じなかった……」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “they called.”",
+        "ja": "[翻訳注] ギリシア語では「彼らは呼んだ」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “the man who had gained his sight.”",
+        "ja": "[翻訳注] または「視力を得たその男」。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “and they asked them, saying”; the referent (the parents) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「そして彼らに尋ねて言った」。翻訳では明確にするために指示対象（両親）を明示しました。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Greek pronoun and verb are both plural (both parents are addressed).",
+        "ja": "[翻訳注] ギリシア語の代名詞と動詞はどちらも複数形です（両親の二人に話しかけています）。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “So his parents answered and said.”",
+        "ja": "[翻訳注] ギリシア語では「そこで彼の両親は答えて言った」。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “who opened his eyes” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「誰が彼の目を開けたのか」（視力の回復を指す慣用句）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “he is of age.”",
+        "ja": "[翻訳注] または「彼は年季が明けている（一人前である）」。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “the Jewish religious authorities”; Grk “the Jews.” Twice in this verse the phrase refers to the Pharisees, mentioned by name in John 9:13, 15, 16. The second occurrence is shortened to “the Jewish leaders” for stylistic reasons. See the note on the phrase “the Jewish religious leaders” in v. 18.",
+        "ja": "[翻訳注] または「ユダヤの宗教当局者たち」。ギリシア語では「ユダヤ人たち」。この節で二度、このフレーズはヨハネ9:13, 15, 16で名前が挙げられているパリサイ人を指しています。二度目の出現は、文体上の理由から「ユダヤ人の指導者たち」と短縮されています。18節の「ユダヤの宗教指導者たち」というフレーズに関する注釈を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “confessed him.”",
+        "ja": "[翻訳注] ギリシア語では「彼を告白した」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “the Messiah” (Both Greek “Christ” and Hebrew and Aramaic “Messiah” mean “one who has been anointed”).[解説]  See the note on Christ in 1:20.",
+        "ja": "[翻訳注] または「メシア」（ギリシア語の「キリスト」もヘブライ語・アラム語の「メシア」も、「油注がれた者」を意味します）。[解説] 1:20のキリストに関する注釈を参照してください。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “would be expelled from.”",
+        "ja": "[翻訳注] または「～から追放される」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  This reference to excommunication from the Jewish synagogue for those who had made some sort of confession about Jesus being the Messiah is dismissed as anachronistic by some (e.g., Barrett) and nonhistorical by others. In later Jewish practice there were at least two forms of excommunication: a temporary ban for thirty days, and a permanent ban. But whether these applied in NT times is far from certain. There is no substantial evidence for a formal ban on Christians until later than this Gospel could possibly have been written. This may be a reference to some form of excommunication adopted as a contingency to deal with those who were proclaiming Jesus to be the Messiah. If so, there is no other record of the procedure than here. It was probably local, limited to the area around Jerusalem. See also the note on synagogue in 6:59.",
+        "ja": "[解説] イエスがメシアであるという何らかの告白をした者に対するユダヤ教の会堂からの追放（破門）についてのこの言及は、一部の学者（例えばバレット）によって時代錯誤的と退けられたり、他の学者によって非歴史的とされたりしています。後のユダヤ教の慣習では、少なくとも二つの形式の破門がありました。30日間の短期間の禁止と、永久的な禁止です。しかし、これらが新約聖書の時代に適用されていたかどうかは定かではありません。クリスチャンに対する正式な禁止措置については、この福音書が書かれた可能性のある時期よりも後になるまで、実質的な証拠はありません。これは、イエスをメシアであると宣べ伝えていた人々に対処するための緊急事態として採用された、何らかの形の破門への言及である可能性があります。もしそうなら、その手続きに関する記録はここ以外にありません。それはおそらく局地的なもので、エルサレム周辺の地域に限定されていたのでしょう。6:59の会堂に関する注釈も参照してください。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “he is of age.”",
+        "ja": "[翻訳注] または「彼は年季が明けている（一人前である）」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This is a parenthetical note by the author explaining the parents’ response.",
+        "ja": "[解説] これは、両親の返答を説明する著者の挿入的な注釈です。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “they called.”",
+        "ja": "[翻訳注] ギリシア語では「彼らは呼んだ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “who was blind.”",
+        "ja": "[翻訳注] ギリシア語では「盲目であった者」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Give glory to God” (an idiomatic formula used in placing someone under oath to tell the truth).",
+        "ja": "[翻訳注] ギリシア語では「神に栄光を帰せよ」（真実を語るよう誰かに誓わせる際に用いられた慣用的な定型句）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The phrase “this man” is a reference to Jesus.",
+        "ja": "[翻訳注] 「この男」というフレーズはイエスを指しています。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Then that one answered.”",
+        "ja": "[翻訳注] ギリシア語では「すると、あの者は答えた」。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “open your eyes” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「お前の目を開ける」（視力の回復を指す慣用句）。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “He answered them.” The indirect object αὐτοῖς (autois) has not been translated for stylistic reasons.",
+        "ja": "[翻訳注] ギリシア語では「彼は彼らに答えた」。間接目的語の αὐτοῖς (autois) は、文体上の理由から翻訳されていません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “you did not hear.”",
+        "ja": "[翻訳注] ギリシア語では「あなたがたは聞かなかった」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  “It” is not in the Greek text but has been supplied. Direct objects in Greek were often omitted when they were clearly implied in the context.",
+        "ja": "[翻訳注] 「それ（it）」はギリシア語原文にはありませんが、補われています。ギリシア語では、文脈上明らかに含まれる場合、直接目的語が省略されることがよくありました。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The word “people” is supplied in the translation to clarify the plural Greek pronoun and verb.",
+        "ja": "[翻訳注] 複数のギリシア語の代名詞と動詞を明確にするため、翻訳では「あなたがた（人たち）」という言葉を補っています。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And they.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] ギリシア語では「そして彼らは」。ギリシア語では文や節を「そして」で始めることが多いのに対し、英語（および日本語）では一般的にそうしないというスタイルの違いから、ここでは καί (kai) は翻訳されていません。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The Greek word means “to insult strongly” or “slander.”",
+        "ja": "[翻訳注] ギリシア語のこの言葉は「強く侮辱する」あるいは「中傷する」という意味です。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and said.”",
+        "ja": "[翻訳注] ギリシア語では「そして言った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “You are that one’s disciple.”",
+        "ja": "[翻訳注] ギリシア語では「お前はあの者の弟子だ」。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “where this one.”",
+        "ja": "[翻訳注] ギリシア語では「この者がどこから」。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “The man answered and said to them.” This has been simplified in the translation to “The man replied.”",
+        "ja": "[翻訳注] ギリシア語では「その人は彼らに答えて言った」。翻訳では「その人は答えた」と簡略化しました。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “For in this is a remarkable thing.”",
+        "ja": "[翻訳注] ギリシア語では「実に、このことの中に驚くべきことがある」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and he opened my eyes” (an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「そして彼はわたしの目を開けた」（視力の回復を指す慣用句）。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “God does not hear.”",
+        "ja": "[翻訳注] ギリシア語では「神は聞かない」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “godly.”",
+        "ja": "[翻訳注] または「神を敬う」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “he”; the referent (God) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼（he）」。翻訳では明確にするために指示対象（神）を明示しました。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “hears.”",
+        "ja": "[翻訳注] または「聞く」。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] ギリシア語では「この者」。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “Never from the beginning of time,” Grk “From eternity.”",
+        "ja": "[翻訳注] または「世の初めから一度も」。ギリシア語では「永遠から」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “someone opening the eyes of a man born blind” (“opening the eyes” is an idiom referring to restoration of sight).",
+        "ja": "[翻訳注] ギリシア語では「誰かが生まれつき盲目であった者の目を開けるのを」（「目を開ける」は視力の回復を指す慣用句）。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “this one.”",
+        "ja": "[翻訳注] ギリシア語では「この者」。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “They answered and said to him.” This has been simplified in the translation to “They replied.”",
+        "ja": "[翻訳注] ギリシア語では「彼らは彼に答えて言った」。翻訳では「彼らは答えた」と簡略化しました。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “From birth you have been evil.” The implication of this insult, in the context of , is that the man whom Jesus caused to see had not previously adhered rigorously to all the conventional requirements of the OT law as interpreted by the Pharisees. Thus he had no right to instruct them about who Jesus was.",
+        "ja": "[翻訳注] または「生まれつきお前は悪であった」。9:2の文脈におけるこの侮辱の含みは、イエスによって見えるようになったこの男が、パリサイ人によって解釈された旧約聖書の律法の伝統的な要求すべてを以前は厳格に守っていなかった、ということです。したがって、彼にはイエスが何者であるかについて彼らを教える権利はない、というわけです。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and are you teaching us?”",
+        "ja": "[翻訳注] ギリシア語では「それでお前がわたしたちを教えているのか」。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “found him”; the referent (the man) has been specified in the translation for clarity.",
+        "ja": "[翻訳注] ギリシア語では「彼を見つけた」。翻訳では明確にするために指示対象（その人）を明示しました。"
+      },
+      {
+        "pos": 2,
+        "en": ") have ἀνθρώπου. Not only is the external evidence decidedly on the side of ἀνθρώπου, but it is difficult to see such early and diverse witnesses changing θεοῦ to ἀνθρώπου. The wording “Son of Man” is thus virtually certain.",
+        "ja": "[本文批評] 最も古い写本（P66, 75, א*, B, D, W, sys）には ἀνθρώπου (anthrwpou, 「人の子」) とあり、他の多くの写本 (א2, A, C, K, L, P, Ψ, 0124, 0250, f1, 13, 33, 多数の写本, lat, syc, p, h) には θεοῦ (theou, 「神の子」) とあります。外部的な証拠が圧倒的に ἀνθρώπου の側にあるだけでなく、これほど初期の多様な証人が θεοῦ を ἀνθρώπου に変更したとは考えにくいです。したがって、「人の子」という語句はほぼ確実です。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “That one.”",
+        "ja": "[翻訳注] ギリシア語では「あの者は」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk answered and said.” This has been simplified in the translation to “replied.”",
+        "ja": "[翻訳注] ギリシア語では「答えて言った」。翻訳では「答えた」と簡略化しました。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “And who is he, sir? Tell me so that…” Some translations supply elliptical words like “Tell me” (NIV, NRSV) following the man’s initial question, but the shorter form given in the translation is clear enough.",
+        "ja": "[翻訳注] または「その方はどなたですか、主よ。……ために教えてください」。一部の翻訳では、男の最初の質問の後に「教えてください」（NIV, NRSVなど）のような省略語を補っていますが、本訳の短い形式でも十分に明快です。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “that one.”",
+        "ja": "[翻訳注] ギリシア語では「あの者が」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The καί – καί (kai – kai) construction would normally be translated “both – and”: “You have both seen him, and he is the one speaking with you.” In this instance the English semicolon was used instead because it produces a smoother and more emphatic effect in English.",
+        "ja": "[翻訳注] καί – καί (kai – kai) の構造は通常「～も……も」と訳されます。「あなたは彼を見たこともあり、また彼はあなたと話しているその人でもある」。この例では、英語のセミコロン（日本語では読点や接続の工夫）を用いて、よりスムーズで強調された効果を出しています。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[解説]  Assuming the authenticity of John 9:38-39a (see the tc note following the bracket in v. 39), the man’s response after Jesus’ statement of v. 37 is extremely significant: He worshiped Jesus. In the Johannine context the word would connote its full sense: This was something due God alone. Note also that Jesus did not prevent the man from doing this. The verb προσκυνέω (proskunew) is used in John 4:20-25 of worshiping God, and again with the same sense in 12:20. This would be the only place in John’s Gospel where anyone is said to have worshiped Jesus using this term. As such, it forms the climax of the story of the man born blind, but the uniqueness of the concept of worshiping Jesus at this point in John's narrative (which reaches its ultimate climax in the confession of Thomas in John 20:28) may suggest it is too early for such a response and it represents a later scribal addition.",
+        "ja": "[解説] ヨハネ9:38-39aの真正性を前提とすると（39節の括弧の後の本文批評の注を参照）、37節のイエスの発言に対する男の反応は極めて重要です。彼はイエスを拝した（礼拝した）のです。ヨハネの文脈において、この言葉は最大限の意味を含んでいます。これは神だけに捧げられるべきものでした。また、イエスが男がそうするのを妨げなかったことにも注目してください。προσκυνέω (proskunew) という動詞は、ヨハネ4:20-25で神を礼拝することについて使われており、12:20でも同じ意味で使われています。ヨハネによる福音書の中で、誰かがこの用語を使ってイエスを拝したと言及されているのは、ここだけです。そのため、これは生まれつき目の見えない人の物語のクライマックスを形成していますが、ヨハネの叙述のこの時点でイエスを拝するという概念のユニークさ（最終的なクライマックスはヨハネ20:28のトマスの告白にあります）は、このような反応には時期尚早であることを示唆しており、後の書記官による加筆である可能性も示唆されています。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And Jesus.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here.",
+        "ja": "[翻訳注] ギリシア語では「そしてイエスは」。ギリシア語では文や節を「そして」で始めることが多いのに対し、英語（および日本語）では一般的にそうしないというスタイルの違いから、ここでは καί (kai) は翻訳されていません。"
+      },
+      {
+        "pos": 2,
+        "en": "here, since it is the only currently available papyrus ms extant for the text of John 9:38-39. Further, א is an important and early Alexandrian witness for the omission. The versional testimony and codex W also give strong support to the omission. Nearly all other mss, however, include these words. The omission may have been occasioned by parablepsis (both vv. 37 and 39 begin with “Jesus said to him”), though it is difficult to account for such an error across such a wide variety of witnesses. On the other hand, the longer reading appears to be motivated by liturgical concerns (so R. E. Brown, John [AB], 1:375), since the verb προσκυνέω (proskunew, “I worship”) is used in John 4:20-25 of worshiping God, and again with the same sense in 12:20. If these words were authentic here, this would be the only place in John’s Gospel where Jesus is the explicit object of προσκυνέω. Even if these words are not authentic, such an omission would nevertheless hardly diminish John’s high Christology (cf. 1:1; 5:18-23; 14:6-10; 20:28), nor the implicit worship of him by Thomas (20:28). Nevertheless, a decision is difficult, and the included words may reflect a very early tradition about the blind man’s response to Jesus.",
+        "ja": "[本文批評] 38節全体と39節の最初の部分（「イエスは言われた」まで）は、P75とא*には欠けています。ヨハネ9:38-39のテキストについて現在利用可能な唯一のパピルス写本であるため、P75が欠落していることは特に重要です。さらに、אは Alexandrian（アレクサンドリア型）の証人として欠落を支持する初期の重要な写本です。翻訳版の証言やW写本も欠落を強く支持しています。しかし、他のほぼすべての写本はこれらの言葉を含んでいます。欠落は parablepsis（眼の横滑り。37節と39節の両方が「イエスは彼に言われた」で始まることによる書き損じ）によって生じた可能性がありますが、これほど多岐にわたる証人においてそのような誤りが生じたことを説明するのは困難です。一方で、より長い読み（加筆された方）は典礼的な関心（R. E. Brown, John [AB], 1:375による）によって動機づけられたように見えます。なぜなら、προσκυνέω (proskunew, 「拝する」) という動詞はヨハネ4:20-25で神を礼拝することについて使われており、12:20でも同じ意味で使われているからです。もしこれらの言葉がここにおいて真正であるなら、ヨハネによる福音書の中でイエスが προσκυνέω の明示的な対象となっている唯一の場所になります。たとえこれらの言葉が真正でなかったとしても、そのような欠落によってヨハネの高いキリスト論（1:1; 5:18-23; 14:6-10; 20:28参照）や、トマスによるイエスへの暗黙の礼拝（20:28）が損なわれることはほとんどありません。とはいえ、決定は難しく、含まれている言葉は、イエスに対する盲人の反応についての非常に初期の伝統を反映している可能性があります。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “that those who do not see may see.”",
+        "ja": "[翻訳注] または「見えない者が見るようになるため」。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[解説]  See the note on Pharisees in 1:24.",
+        "ja": "[解説] 1:24のパリサイ人についての注釈を参照してください。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “heard these things.”",
+        "ja": "[翻訳注] ギリシア語では「これらのことを聞いた」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “and said to him.”",
+        "ja": "[翻訳注] ギリシア語では「そして彼に言った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Questions prefaced with μή (mh) in Greek anticipate a negative answer. This can sometimes be indicated by using a “tag” at the end in English (here the tag is “are we?”).",
+        "ja": "[翻訳注] ギリシア語で μή (mh) で始まる質問は、否定的な答えを予期しています。これは英語では文末に付加疑問（tag）を用いることで示されることがあります（ここでは「are we?」）。日本語では「……というのか（いや、そうではないだろう）」といった反語的ニュアンスを含みます。"
+      }
+    ],
+    "41": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “Jesus said to them.”",
+        "ja": "[翻訳注] ギリシア語では「イエスは彼らに言われた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “you would not have sin.”",
+        "ja": "[翻訳注] ギリシア語では「あなたがたは罪を持っていないであろう」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “now because you say, ‘We see…’”",
+        "ja": "[翻訳注] ギリシア語では「しかし今、あなたがたは『わたしたちは見える』と言うので……」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “your sin.”",
+        "ja": "[翻訳注] または「あなたがたの罪」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Because you claim that you can see, your guilt remains. The blind man received sight physically, and this led him to see spiritually as well. But the Pharisees, who claimed to possess spiritual sight, were spiritually blinded. The reader might recall Jesus’ words to Nicodemus in 3:10, “Are you the teacher of Israel and don’t understand these things?” In other words, to receive Jesus was to receive the light of the world, to reject him was to reject the light, close one’s eyes, and become blind. This is the serious sin of which Jesus had warned before (8:21-24). The blindness of such people was incurable since they had rejected the only cure that exists (cf. 12:39-41).",
+        "ja": "[解説] 「あなたがたが『見える』と言い張るからこそ、あなたがたの罪は残るのである」。盲人は肉体的な視力を受け、それが彼を霊的な視力へと導きました。しかし、自分たちは霊的な視力を持っていると主張したパリサイ人たちは、霊的に盲目にされていました。読者は、3:10のニコデモに対するイエスの言葉「あなたはイスラエルの教師でありながら、これらのことがわからないのか」を思い出すかもしれません。言い換えれば、イエスを受け入れることは世の光を受け入れることであり、彼を拒絶することは光を拒絶し、目を閉じ、盲目になることなのです。これこそが、イエスが以前に警告された重大な罪です（8:21-24）。そのような人々の盲目は、唯一存在する治療法を彼らが拒絶してしまったため、不治のものなのです（12:39-41参照）。"
+      }
+    ]
+  }
+}

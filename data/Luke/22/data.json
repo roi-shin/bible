@@ -1,0 +1,1402 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "en": "Now the Feast of Unleavened Bread, which is called the Passover, was approaching. ",
+      "ja": "さて、過越祭と呼ばれる種なしパンの祭りが近づいていた。"
+    },
+    {
+      "verse": 2,
+      "en": "The chief priests and the experts in the law were trying to find some way to execute Jesus, for they were afraid of the people. ",
+      "ja": "祭司長たちや律法学者たちは、民衆を恐れていたため、イエスを処刑する何らかの方法を見つけようとしていた。"
+    },
+    {
+      "verse": 3,
+      "en": "Then Satan entered Judas, the one called Iscariot, who was one of the twelve. ",
+      "ja": "そのとき、十二人の一人でイスカリオテと呼ばれるユダにサタンが入った。"
+    },
+    {
+      "verse": 4,
+      "en": "He went away and discussed with the chief priests and officers of the temple guard how he might betray Jesus, handing him over to them. ",
+      "ja": "ユダは出て行き、どのようにイエスを裏切って彼らに引き渡すかについて、祭司長たちや宮の守衛長たちと相談した。"
+    },
+    {
+      "verse": 5,
+      "en": "They were delighted and arranged to give him money. ",
+      "ja": "彼らは喜び、ユダに金を与える取り決めをした。"
+    },
+    {
+      "verse": 6,
+      "en": "So Judas agreed and began looking for an opportunity to betray Jesus when no crowd was present. ",
+      "ja": "ユダは承諾し、群衆がいないときにイエスを裏切る機会をうかがい始めた。"
+    },
+    {
+      "verse": 7,
+      "en": "Then the day for the feast of Unleavened Bread came, on which the Passover lamb had to be sacrificed. ",
+      "ja": "さて、過越の羊が生け贄として屠られなければならない、種なしパンの祭りの日が来た。"
+    },
+    {
+      "verse": 8,
+      "en": "Jesus sent Peter and John, saying, “Go and prepare the Passover for us to eat.” ",
+      "ja": "イエスはペテロとヨハネを遣わして言われた。「行って、わたしたちが食べる過越の食事を準備しなさい。」"
+    },
+    {
+      "verse": 9,
+      "en": "They said to him, “Where do you want us to prepare it?”",
+      "ja": "二人がイエスに「どこに準備することを望まれますか」と言うと、"
+    },
+    {
+      "verse": 10,
+      "en": "He said to them, “Listen, when you have entered the city, a man carrying a jar of water will meet you. Follow him into the house that he enters, ",
+      "ja": "イエスは言われた。「よく聞きなさい。市内に入ると、水がめを運んでいる男に出会う。その人が入る家について行き、"
+    },
+    {
+      "verse": 11,
+      "en": "and tell the owner of the house, ‘The Teacher says to you, “Where is the guest room where I may eat the Passover with my disciples?”’ ",
+      "ja": "その家の主人に『先生が、「わたしが弟子たちと共に過越の食事を食べる客間はどこか」と言っておられる』と告げなさい。"
+    },
+    {
+      "verse": 12,
+      "en": "Then he will show you a large furnished room upstairs. Make preparations there.” ",
+      "ja": "するとその主人は、整えられた二階の広い部屋を見せてくれる。そこで準備をしなさい。」"
+    },
+    {
+      "verse": 13,
+      "en": "So they went and found things just as he had told them, and they prepared the Passover. ",
+      "ja": "二人が行ってみると、イエスが言われたとおりであったので、過越の食事を準備した。"
+    },
+    {
+      "verse": 14,
+      "en": "Now when the hour came, Jesus took his place at the table and the apostles joined him. ",
+      "ja": "さて、時刻になったので、イエスは食卓に着かれ、使徒たちもイエスと共に着いた。"
+    },
+    {
+      "verse": 15,
+      "en": "And he said to them, “I have earnestly desired to eat this Passover with you before I suffer. ",
+      "ja": "イエスは彼らに言われた。「わたしは苦しみを受ける前に、あなたがたと共にこの過越の食事を食べることを心から願っていた。"
+    },
+    {
+      "verse": 16,
+      "en": "For I tell you, I will not eat it again until it is fulfilled in the kingdom of God.” ",
+      "ja": "あなたがたに告げるが、神の国において成就するまで、わたしが再びこの食事を食べることはない。」"
+    },
+    {
+      "verse": 17,
+      "en": "Then he took a cup, and after giving thanks he said, “Take this and divide it among yourselves. ",
+      "ja": "そして杯を取り、感謝の祈りを捧げてから言われた。「これを取り、互いの間で分け合いなさい。"
+    },
+    {
+      "verse": 18,
+      "en": "For I tell you that from now on I will not drink of the fruit of the vine until the kingdom of God comes.” ",
+      "ja": "あなたがたに告げるが、神の国が来るまで、わたしは今後ぶどうの木の実からできたものを飲むことはない。」"
+    },
+    {
+      "verse": 19,
+      "en": "Then he took bread, and after giving thanks he broke it and gave it to them, saying, “This is my body which is given for you. Do this in remembrance of me.” ",
+      "ja": "それからパンを取り、感謝の祈りを捧げて裂き、彼らに与えて言われた。「これは、あなたがたのために与えられるわたしの体である。わたしを記念してこれを行いなさい。」"
+    },
+    {
+      "verse": 20,
+      "en": "And in the same way he took the cup after they had eaten, saying, “This cup that is poured out for you is the new covenant in my blood. ",
+      "ja": "食事の後、杯も同様にして言われた。「この杯は、あなたがたのために流される、わたしの血による新しい契約である。"
+    },
+    {
+      "verse": 21,
+      "en": "“But look, the hand of the one who betrays me is with me on the table. ",
+      "ja": "しかし見よ、わたしを裏切る者の手が、食卓でわたしと共にある。"
+    },
+    {
+      "verse": 22,
+      "en": "For the Son of Man is to go just as it has been determined, but woe to that man by whom he is betrayed!” ",
+      "ja": "人の子は定められたとおりに去って行くが、人の子を裏切るその人間には災いがある。」"
+    },
+    {
+      "verse": 23,
+      "en": "So they began to question one another as to which of them it could possibly be who would do this. ",
+      "ja": "そこで彼らは、自分たちのうちの誰がそのようなことをしようとしているのかと、互いに議論し始めた。"
+    },
+    {
+      "verse": 24,
+      "en": "A dispute also started among them over which of them was to be regarded as the greatest. ",
+      "ja": "また、彼らの間で、自分たちのうち誰が一番偉いと見なされるべきかという争いも生じた。"
+    },
+    {
+      "verse": 25,
+      "en": "So Jesus said to them, “The kings of the Gentiles lord it over them, and those in authority over them are called ‘benefactors.’",
+      "ja": "そこでイエスは彼らに言われた。「異邦人の王たちは人々を支配し、人々の上に権力を持つ者たちは『恩人』と呼ばれる。"
+    },
+    {
+      "verse": 26,
+      "en": "Not so with you; instead the one who is greatest among you must become like the youngest, and the leader like the one who serves. ",
+      "ja": "しかし、あなたがたはそうであってはならない。むしろ、あなたがたの中で一番偉い者は一番若い者のようになり、指導者は仕える者のようになるべきである。"
+    },
+    {
+      "verse": 27,
+      "en": "For who is greater, the one who is seated at the table, or the one who serves? Is it not the one who is seated at the table? But I am among you as one who serves. ",
+      "ja": "食卓に着く者と仕える者とでは、どちらが偉いか。食卓に着く者ではないか。しかし、わたしは仕える者としてあなたがたの間にいる。"
+    },
+    {
+      "verse": 28,
+      "en": "“You are the ones who have remained with me in my trials. ",
+      "ja": "あなたがたは、わたしの試練の間、わたしと共に踏みとどまってくれた者たちである。"
+    },
+    {
+      "verse": 29,
+      "en": "Thus I grant to you a kingdom, just as my Father granted to me, ",
+      "ja": "それゆえ、父がわたしに国を与えてくださったように、わたしもあなたがたに国を授ける。"
+    },
+    {
+      "verse": 30,
+      "en": "that you may eat and drink at my table in my kingdom, and you will sit on thrones judging the 12 tribes of Israel. ",
+      "ja": "それは、あなたがたがわたしの国でわたしの食卓に着いて飲み食いし、王座に座ってイスラエルの十二部族を裁くためである。"
+    },
+    {
+      "verse": 31,
+      "en": "“Simon, Simon, pay attention! Satan has demanded to have you all, to sift you like wheat, ",
+      "ja": "シモン、シモン、よく聞きなさい。サタンはあなたがた全員を小麦のようにふるいにかけることを要求した。"
+    },
+    {
+      "verse": 32,
+      "en": "but I have prayed for you, Simon, that your faith may not fail. When you have turned back, strengthen your brothers.” ",
+      "ja": "しかしわたしは、あなたの信仰がなくならないように、シモン、あなたのために祈った。あなたが立ち直ったら、兄弟たちを力づけなさい。」"
+    },
+    {
+      "verse": 33,
+      "en": "But Peter said to him, “Lord, I am ready to go with you both to prison and to death!” ",
+      "ja": "するとペテロはイエスに言った。「主よ、わたしは牢獄へも、死に至るまでも、ご一緒に行く覚悟ができています。」"
+    },
+    {
+      "verse": 34,
+      "en": "Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know me.” ",
+      "ja": "イエスは答えられた。「ペテロよ、あなたに言っておく。今日、鶏が鳴く前に、あなたは三度わたしを知らないと言うことになる。」"
+    },
+    {
+      "verse": 35,
+      "en": "Then Jesus said to them, “When I sent you out with no money bag, or traveler’s bag, or sandals, you didn’t lack anything, did you?” They replied, “Nothing.”",
+      "ja": "それからイエスは彼らに言われた。「財布も旅行袋も履物も持たせずにあなたがたを遣わしたとき、何か足りないものがあったか。」彼らは「何もありませんでした」と答えた。"
+    },
+    {
+      "verse": 36,
+      "en": "He said to them, “But now, the one who has a money bag must take it, and likewise a traveler’s bag too. And the one who has no sword must sell his cloak and buy one.",
+      "ja": "イエスは言われた。「しかし今は、財布のある者はそれを取り、旅行袋も同様にしなさい。そして、剣のない者は上着を売ってそれを買いなさい。"
+    },
+    {
+      "verse": 37,
+      "en": "For I tell you that this scripture must be fulfilled in me, ‘<b>And he was counted with the transgressors</b>.’ For what is written about me is being fulfilled.” ",
+      "ja": "あなたがたに告げるが、『彼は不法な者たちのひとりに数えられた』とあるこの聖書のことばは、わたしにおいて必ず成就しなければならない。わたしについて書かれていることは成就しつつあるからである。」"
+    },
+    {
+      "verse": 38,
+      "en": "So they said, “Look, Lord, here are two swords.” Then he told them, “It is enough.” ",
+      "ja": "彼らが「主よ、ご覧ください。ここに剣が二本あります」と言うと、イエスは彼らに「それで十分だ」と言われた。"
+    },
+    {
+      "verse": 39,
+      "en": "Then Jesus went out and made his way, as he customarily did, to the Mount of Olives, and the disciples followed him. ",
+      "ja": "それからイエスは出て、いつものようにオリーブ山へ向かわれ、弟子たちもついて行った。"
+    },
+    {
+      "verse": 40,
+      "en": "When he came to the place, he said to them, “Pray that you will not fall into temptation.” ",
+      "ja": "その場所に着くと、イエスは彼らに言われた。「誘惑に陥らないように祈りなさい。」"
+    },
+    {
+      "verse": 41,
+      "en": "He went away from them about a stone’s throw, knelt down, and prayed, ",
+      "ja": "そして、彼らから石を投げて届くほどの距離に離れ、ひざまずいて祈られた。"
+    },
+    {
+      "verse": 42,
+      "en": "“Father, if you are willing, take this cup away from me. Yet not my will but yours be done.” [",
+      "ja": "「父よ、みこころなら、この杯をわたしから取り去ってください。しかし、わたしの願いではなく、みこころがなりますように。」["
+    },
+    {
+      "verse": 43,
+      "en": "Then an angel from heaven appeared to him and strengthened him. ",
+      "ja": "そのとき、御使いが天からイエスに現れて力づけた。"
+    },
+    {
+      "verse": 44,
+      "en": "And in his anguish he prayed more earnestly, and his sweat was like drops of blood falling to the ground.] ",
+      "ja": "そしてイエスは苦しみもだえて、さらに切に祈られた。その汗は血のしずくのようになって地面に落ちた。]"
+    },
+    {
+      "verse": 45,
+      "en": "When he got up from prayer, he came to the disciples and found them sleeping, exhausted from grief. ",
+      "ja": "祈りを終えて立ち上がり、弟子たちのところに来られると、彼らが悲しみのあまり疲れ果てて眠っているのを見られた。"
+    },
+    {
+      "verse": 46,
+      "en": "So he said to them, “Why are you sleeping? Get up and pray that you will not fall into temptation!” ",
+      "ja": "そこでイエスは彼らに言われた。「なぜ眠っているのか。起きて、誘惑に陥らないように祈りなさい。」"
+    },
+    {
+      "verse": 47,
+      "en": "While he was still speaking, suddenly a crowd appeared, and the man named Judas, one of the twelve, was leading them. He walked up to Jesus to kiss him. ",
+      "ja": "イエスがまだ話しておられる間に、突然群衆が現れ、十二人の一人でユダと呼ばれる男が先頭に立っていた。ユダは口づけをしようとしてイエスに近づいた。"
+    },
+    {
+      "verse": 48,
+      "en": "But Jesus said to him, “Judas, would you betray the Son of Man with a kiss?” ",
+      "ja": "しかしイエスは彼に言われた。「ユダ、あなたは口づけをもって人の子を裏切るのか。」"
+    },
+    {
+      "verse": 49,
+      "en": "When those who were around him saw what was about to happen, they said, “Lord, should we use our swords?” ",
+      "ja": "イエスの周りにいた者たちは、起ころうとしていることを見て言った。「主よ、剣を使うべきでしょうか。」"
+    },
+    {
+      "verse": 50,
+      "en": "Then one of them struck the high priest’s slave, cutting off his right ear. ",
+      "ja": "そして、そのうちの一人が大祭司のしもべに打ちかかり、その右の耳を切り落とした。"
+    },
+    {
+      "verse": 51,
+      "en": "But Jesus said, “Enough of this!” And he touched the man’s ear and healed him. ",
+      "ja": "しかしイエスは「もうこれくらいにしなさい」と言われた。そしてその耳に触れて彼を癒やされた。"
+    },
+    {
+      "verse": 52,
+      "en": "Then Jesus said to the chief priests, the officers of the temple guard, and the elders who had come out to get him, “Have you come out with swords and clubs like you would against an outlaw? ",
+      "ja": "それからイエスは、捕らえに来た祭司長たち、宮の守衛長たち、長老たちに言われた。「まるで強盗にでも向かうように、剣や棒を持ってやって来たのか。"
+    },
+    {
+      "verse": 53,
+      "en": "Day after day when I was with you in the temple courts, you did not arrest me. But this is your hour, and that of the power of darkness!” ",
+      "ja": "わたしが日々神殿の境内でお前たちと一緒にいたときには、わたしに手を下さなかった。だが、今はあなたがたの時であり、暗闇の支配の時だ。」"
+    },
+    {
+      "verse": 54,
+      "en": "Then they arrested Jesus, led him away, and brought him into the high priest’s house. But Peter was following at a distance. ",
+      "ja": "彼らはイエスを捕らえて連行し、大祭司の屋敷へ連れて行った。しかしペテロは離れてついて行った。"
+    },
+    {
+      "verse": 55,
+      "en": "When they had made a fire in the middle of the courtyard and sat down together, Peter sat down among them. ",
+      "ja": "中庭の中央に火が焚かれ、人々が一緒に座っていたので、ペテロもその中に混じって座った。"
+    },
+    {
+      "verse": 56,
+      "en": "Then a slave girl, seeing him as he sat in the firelight, stared at him and said, “This man was with him too!”",
+      "ja": "すると、ある女中が、火明かりの中に座っているペテロを見てじっと見つめ、「この人も彼と一緒にいました」と言った。"
+    },
+    {
+      "verse": 57,
+      "en": "But Peter denied it: “Woman, I don’t know him!” ",
+      "ja": "しかしペテロはそれを否定して、「女の人よ、わたしはあの人を知りません」と言った。"
+    },
+    {
+      "verse": 58,
+      "en": "Then a little later someone else saw him and said, “You are one of them too.” But Peter said, “Man, I am not!” ",
+      "ja": "しばらくして、別の人がペテロを見て「お前も彼らの仲間だ」と言った。しかしペテロは「いや、違う」と言った。"
+    },
+    {
+      "verse": 59,
+      "en": "And after about an hour still another insisted, “Certainly this man was with him because he too is a Galilean.” ",
+      "ja": "それから一時間ほどして、さらに別の人が「確かにこの人も彼と一緒にいた。この男もガリラヤ人なのだから」と言い張った。"
+    },
+    {
+      "verse": 60,
+      "en": "But Peter said, “Man, I don’t know what you’re talking about!” At that moment, while he was still speaking, a rooster crowed. ",
+      "ja": "しかしペテロは言った。「あなたが何を言っているのか、わたしには分からない。」その瞬間、ペテロがまだ話している間に鶏が鳴いた。"
+    },
+    {
+      "verse": 61,
+      "en": "Then the Lord turned and looked straight at Peter, and Peter remembered the word of the Lord, how he had said to him, “Before a rooster crows today, you will deny me three times.” ",
+      "ja": "すると主が振り向いてペテロをじっと見つめられた。ペテロは、「今日、鶏が鳴く前に、あなたは三度わたしを知らないと言う」と言われた主のことばを思い出した。"
+    },
+    {
+      "verse": 62,
+      "en": "And he went outside and wept bitterly. ",
+      "ja": "そして外に出て、激しく泣いた。"
+    },
+    {
+      "verse": 63,
+      "en": "Now the men who were holding Jesus under guard began to mock him and beat him. ",
+      "ja": "さて、イエスを見張っていた男たちは、イエスをあざ笑い、殴り始めた。"
+    },
+    {
+      "verse": 64,
+      "en": "They blindfolded him and asked him repeatedly, “Prophesy! Who hit you?” ",
+      "ja": "彼らはイエスに目隠しをし、「当ててみろ。お前を殴ったのは誰だ」と繰り返し尋ねた。"
+    },
+    {
+      "verse": 65,
+      "en": "They also said many other things against him, reviling him. ",
+      "ja": "彼らはまた、ほかにも多くの言葉でイエスを罵った。"
+    },
+    {
+      "verse": 66,
+      "en": "When day came, the council of the elders of the people gathered together, both the chief priests and the experts in the law. Then they led Jesus away to their council ",
+      "ja": "夜が明けると、民の長老会、祭司長たちと律法学者たちが集まった。そして彼らはイエスを最高議会へ連れて行き、"
+    },
+    {
+      "verse": 67,
+      "en": "and said, “If you are the Christ, tell us.” But he said to them, “If I tell you, you will not believe, ",
+      "ja": "「あなたがキリストなら、そう言いなさい」と言った。しかしイエスは彼らに言われた。「わたしが話しても、お前たちは信じないだろう。"
+    },
+    {
+      "verse": 68,
+      "en": "and if I ask you, you will not answer. ",
+      "ja": "また、わたしが尋ねても、お前たちは答えないだろう。"
+    },
+    {
+      "verse": 69,
+      "en": "But from now on the Son of Man will be seated at the right hand of the power of God.” ",
+      "ja": "しかし今から後、人の子は神の全能の右の座に着く。」"
+    },
+    {
+      "verse": 70,
+      "en": "So they all said, “Are you the Son of God, then?” He answered them, “You say that I am.” ",
+      "ja": "そこで彼ら全員が「それでは、お前は神の子なのか」と言った。イエスは彼らに「わたしがそれであると、あなたがたが言っている」と答えられた。"
+    },
+    {
+      "verse": 71,
+      "en": "Then they said, “Why do we need further testimony? We have heard it ourselves from his own lips!” ",
+      "ja": "すると彼らは言った。「これ以上、何の証言が必要だろうか。わたしたち自身が、彼の口から直接聞いたのだから。」"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "pos": 1,
+        "en": "[解説]  The Feast of Unleavened Bread was a week long celebration that followed the day of Passover, so one name was used for both feasts (Exod 12:1-20; 23:15; 34:18; Deut 16:1-8).",
+        "ja": "[解説]  種なしパンの祭りは過越の日の後に続く一週間の祝祭であったため、両方の祭りに一つの名称が用いられていた（出エジプト12:1-20、23:15、34:18、申命記16:1-8）。"
+      }
+    ],
+    "2": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And the.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして〜は」。ここではギリシャ語と英語の文体の違いにより、καί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “and the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注]  または「律法学者たち」。5:21の「律法学者たち」に関する注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “were seeking how.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「どのように〜かを求めていた」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The Greek verb here means “to get rid of by execution” (BDAG 64 s.v. ἀναιρέω 2; cf. also L&N 20.71, which states, “to get rid of someone by execution, often with legal or quasi-legal procedures”).",
+        "ja": "[翻訳注]  ここでのギリシャ語動詞は「処刑によって排除する」を意味する（BDAG 64 s.v. ἀναιρέω 2、またL&N 20.71「多くの場合、法的または準法的な手続きを伴って処刑により人を排除すること」を参照）。"
+      },
+      {
+        "pos": 5,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 6,
+        "en": "[解説]  The suggestion here is that Jesus was too popular to openly arrest him. The verb were trying is imperfect. It suggests, in this context, that they were always considering the opportunities.",
+        "ja": "[解説]  イエスが非常に人気を集めていたため公然と捕らえることができなかったことが示唆されている。「見つけようとしていた」という動詞は未完了過去であり、この文脈では、彼らが常に機会をうかがっていたことを示唆している。"
+      }
+    ],
+    "3": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではδέ（de）が「そのとき」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The cross is portrayed as part of the cosmic battle between Satan and God; see Luke 4:1-13; 11:14-23.",
+        "ja": "[解説]  十字架はサタンと神との間の宇宙的戦いの一部として描写されている。ルカ4:1-13、11:14-23を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Iscariot, being of the number of the twelve.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「十二人の数に入っていたイスカリオテ」。"
+      }
+    ],
+    "4": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The full title στρατηγὸς τοῦ ἱεροῦ (strathgo\" tou Jierou; “officer of the temple” or “captain of the temple guard”) is sometimes shortened to στρατηγός as here (L&N 37.91).",
+        "ja": "[翻訳注]  正式な称号であるστρατηγὸς τοῦ ἱεροῦ（strategos tou hierou、「宮の役人」または「宮の守衛長」）は、ここでのように単にστρατηγόςと短縮されることがある（L&N 37.91）。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Luke uses this frequent indirect question to make his point (BDF §267.2).",
+        "ja": "[翻訳注]  ルカは自らの論点を述べるために、この頻出する間接疑問文を用いている（BDF §267.2）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “how he might hand him over to them,” in the sense of “betray him.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「どのようにして彼を彼らに引き渡すか」であり、「彼を裏切る」という意味である。"
+      }
+    ],
+    "5": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The leaders were delighted when Judas contacted them about betraying Jesus, because it gave them the opportunity they had been looking for, and they could later claim that Jesus had been betrayed by one of his own disciples.",
+        "ja": "[解説]  ユダがイエスを裏切ることについて接触してきたとき、指導者たちは喜んだ。探していた機会が得られ、後にイエス自身の弟子の一人によって裏切られたと主張できるからである。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Matt 26:15 states the amount of money they gave Judas was thirty pieces of silver (see also Matt 27:3-4; Zech 11:12-13).",
+        "ja": "[解説]  マタイ26:15は、彼らがユダに与えた金額が銀貨三十枚であったと記している（マタイ27:3-4、ゼカリヤ11:12-13も参照）。"
+      }
+    ],
+    "6": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of the arrangement worked out in the preceding verse.",
+        "ja": "[翻訳注]  前節で成立した取り決めの結果を示すため、ここではκαί（kai）が「ユダは〜し」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Judas) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（ユダ）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “betray him to them”; the referent of the first pronoun (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を彼らに裏切る」。わかりやすくするために翻訳では最初の代名詞の指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “apart from the crowd.”[解説]  The leaders wanted to do this quietly, when no crowd was present, so no public uproar would result (cf. v. 21:38; 22:2).",
+        "ja": "[翻訳注]  ギリシャ語本文は「群衆を離れて」。[解説]  民衆の騒動が起きないよう、指導者たちは群衆がいないときに内密にこれを行いたいと考えていた（21:38、22:2参照）。"
+      }
+    ],
+    "7": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “for the feast” are not in the Greek text, but have been supplied for clarity.",
+        "ja": "[翻訳注]  「祭りの」という語はギリシャ語本文にはないが、わかりやすくするために補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Generally the feast of Unleavened Bread would refer to Nisan 15 (Friday), but the following reference to the sacrifice of the Passover lamb indicates that Nisan 14 (Thursday) was what Luke had in mind (Nisan = March 27 to April 25). The celebration of the Feast of Unleavened Bread lasted eight days, beginning with the Passover meal. The celebrations were so close together that at times the names of both were used interchangeably.",
+        "ja": "[解説]  一般に種なしパンの祭りはニサンの月15日（金曜日）を指すが、続く過越の羊の屠殺への言及は、ルカがニサンの月14日（木曜日）を念頭に置いていたことを示している（ニサンの月＝3月27日〜4月25日頃）。種なしパンの祭りの祝いは過越の食事から始まり八日間続いた。二つの祝いは非常に密接していたため、両方の名称が同じ意味で使われることもあった。"
+      }
+    ],
+    "8": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This required getting a suitable lamb and finding lodging in Jerusalem where the meal could be eaten. The population of the city swelled during the feast, so lodging could be difficult to find. The Passover was celebrated each year in commemoration of the Israelites’ deliverance from Egypt; thus it was a feast celebrating redemption (see ). The Passover lamb was roasted and eaten after sunset in a family group of at least ten people (m. Pesahim 7.13). People ate the meal while reclining (see the note on table in 22:14). It included, besides the lamb, unleavened bread and bitter herbs as a reminder of Israel’s bitter affliction at the hands of the Egyptians. Four cups of wine mixed with water were also used for the meal. For a further description of the meal and the significance of the wine cups, see E. Ferguson, Backgrounds of Early Christianity, 523-24.",
+        "ja": "[解説]  これには適切な羊の確保と、エルサレムで食事をとることができる宿を見つけることが必要であった。祭りの期間中はエルサレムの人口が膨れ上がるため、宿を見つけるのは困難であった。過越祭はイスラエルの民のエジプト脱出を記念して毎年祝われ、贖いを祝う祭りであった。過越の羊はローストされ、日没後に十人以上の家族単位のグループで食べられた（ミシュナ・ペサヒーム 7.13）。人々は横たわった姿勢で食事をとった（22:14の食卓に関する注を参照）。羊のほかに、エジプト人の手によるイスラエルの苦難を思い起こすための種なしパンと苦菜が含まれていた。また、食事には水で薄めた四杯のぶどう酒が用いられた。食事の詳細な説明とぶどう酒の杯の意義については、E. Ferguson, Backgrounds of Early Christianity, 523-24を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “for us, so that we may eat.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「わたしたちが食べられるように、わたしたちのために」。"
+      }
+    ],
+    "9": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注]  ここではδέ（de）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  In the Greek text this a deliberative subjunctive.",
+        "ja": "[翻訳注]  ギリシャ語本文ではこれは思案の接続法である。"
+      }
+    ],
+    "10": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “behold.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「見よ」。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Since women usually carried these jars, it would have been no problem for Peter and John to recognize the man Jesus was referring to.",
+        "ja": "[解説]  このような水がめを運ぶのは通常女性であったため、ペテロとヨハネがイエスの言われた男を見分けることは容易であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Jesus is portrayed throughout Luke 22-23 as very aware of what will happen, almost directing events. Here this is indicated by his prediction that a man carrying a jar of water will meet you.",
+        "ja": "[解説]  イエスはルカ22-23章全体を通して、これから起こることを熟知し、出来事を導く存在として描かれている。ここでは、水がめを運ぶ男に出会うというイエスの予言によってそれが示されている。"
+      }
+    ],
+    "11": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “to the master of the household,” referring to one who owns and manages the household, including family, servants, and slaves (L&N 57.14).",
+        "ja": "[翻訳注]  ギリシャ語本文は「家の主人に」であり、家族、召使、しもべを含む世帯を所有・管理する者を指す（L&N 57.14）。"
+      }
+    ],
+    "13": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate the implied result of Jesus’ instructions.",
+        "ja": "[翻訳注]  イエスの指示の結果を示すため、ここではδέ（de）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The word “things” is not in the Greek text, but is implied. Direct objects were frequently omitted in Greek when clear from the context.",
+        "ja": "[翻訳注]  「事態（言われたとおり）」という語はギリシャ語本文にはないが、文脈上暗示されている。ギリシャ語では文脈から明らかな場合、直接目的語が省略されることがよくあった。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The author’s note that the disciples found things just as he had told them shows that Jesus’ word could be trusted.",
+        "ja": "[解説]  弟子たちがイエスの言われたとおりに見出したという著者の記述は、イエスのことばが信頼できるものであったことを示している。"
+      }
+    ],
+    "14": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注]  新しい話題への移行を示すため、ここではκαί（kai）が「さて」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “reclined at table,” as 1st century middle eastern meals were not eaten while sitting at a table, but while reclining on one’s side on the floor with the head closest to the low table and the feet farthest away.",
+        "ja": "[翻訳注]  ギリシャ語本文は「食卓に横たわった」。1世紀の中東の食事は椅子に座って食べるのではなく、頭を低い食卓に近づけ足を遠ざけて床に横たわってとられたためである。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Grk “the apostles with him.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「使徒たちも彼と共に」。"
+      }
+    ],
+    "15": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This phrase parallels a Hebrew infinitive absolute and serves to underline Jesus’ enthusiasm for holding this meal (BDF §198.6).",
+        "ja": "[翻訳注]  この表現はヘブライ語の絶対不定詞構文に類似しており、この食事をとることに対するイエスの強い願いを強調している（BDF §198.6）。"
+      }
+    ],
+    "16": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Although the word “again” is not in the Greek text, it is supplied to indicate that Jesus did indeed partake of this Passover meal, as statements in v. 18 suggest (“from now on”). For more complete discussion see D. L. Bock, Luke (BECNT), 2:1720.",
+        "ja": "[翻訳注]  「再び」という語はギリシャ語本文にはないが、18節の記述（「今後」）が示唆するように、イエスが実際にこの過越の食事を共にされたことを示すために補われている。詳細な議論については、D. L. Bock, Luke (BECNT), 2:1720を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus looked to a celebration in the kingdom to come when the Passover is fulfilled. This reference could well suggest that some type of commemorative sacrifice and meal will be celebrated then, as the antecedent is the Passover sacrifice. The reference is not to the Lord’s supper as some argue, but the Passover.",
+        "ja": "[解説]  イエスは過越が成就する来たるべき神の国での祝宴を見据えておられる。先行詞が過越の生け贄であることから、この言及は、そのときに記念となる生け贄と食事が祝われることを示唆している可能性がある。この言及は、一部で主張されているような主の晩餐ではなく、過越を指している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The kingdom of God here refers to the kingdom in all its power. See Luke 17:20-37.",
+        "ja": "[解説]  ここでの神の国は、その全能の力における御国を指す。ルカ17:20-37を参照。"
+      }
+    ],
+    "17": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「そして」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Then he took a cup. Only Luke mentions two cups at this meal; the other synoptic gospels (Matt, Mark) mention only one. This is the first of the two. It probably refers to the first cup in the traditional Passover meal, which today has four cups (although it is debated whether the fourth cup was used in the 1st century).",
+        "ja": "[解説]  「そして杯を取り」。ルカのみがこの食事で二つの杯に言及している。他の共観福音書（マタイ、マルコ）は一つの杯についてのみ言及している。これは二つの杯のうちの最初のものである。おそらく伝統的な過越の食事（今日では四つの杯を用いるが、1世紀に四つ目の杯が用いられていたかは議論がある）における最初の杯を指している。"
+      }
+    ],
+    "18": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “the produce” (“the produce of the vine” is a figurative expression for wine).",
+        "ja": "[翻訳注]  ギリシャ語本文は「産物」（「ぶどうの木の産物」はぶどう酒の比喩的表現）。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Until the kingdom of God comes is a reference to the kingdom in all its power. See Luke 17:20-37. Jesus awaits celebration with the arrival of full kingdom blessing.",
+        "ja": "[解説]  「神の国が来るまで」とは、その全能の力における御国を指す。ルカ17:20-37を参照。イエスは、御国の完全な祝福の到来に伴う祝宴を待っておられる。"
+      }
+    ],
+    "19": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「それから」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[写本注]  Some important Western mss (D it) lack the words from this point to the end of v. 20. However, the authenticity of these verses is very likely. The inclusion of the second cup is the harder reading, since it differs from Matt 26:26-29 and Mark 14:22-25, and it has much better ms support. It is thus easier to explain the shorter reading as a scribal accident or misunderstanding. Further discussion of this complicated problem (the most difficult in Luke) can be found in TCGNT 148-50.",
+        "ja": "[写本注]  一部の重要な西方写本（D it）には、この箇所から20節の終わりまでの言葉が欠けている。しかし、これらの節の信憑性は極めて高い。二つ目の杯が含まれている読みは、マタイ26:26-29やマルコ14:22-25と異なっており、より優れた写本の支持があるため、より難しい読み（harder reading）である。したがって、短い読みは書写上の過失や誤解として説明しやすい。この複雑な問題（ルカ福音書における最大の難所）についての詳細な議論は、TCGNT 148-50を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The language of the phrase given for you alludes to Christ’s death in our place. It is a powerful substitutionary image of what he did for us.",
+        "ja": "[解説]  「あなたがたのために与えられる」という表現は、わたしたちの身代わりとしてのキリストの死を暗示している。これは、キリストがわたしたちのために成し遂げられたことの強力な身代わりの描写である。"
+      }
+    ],
+    "20": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The words “he took” are not in the Greek text at this point, but are an understood repetition from v. 19.",
+        "ja": "[翻訳注]  「杯を取り」という言葉はこの箇所のギリシャ語本文にはないが、19節からの反復として理解される。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The phrase “after they had eaten” translates the temporal infinitive construction μετὰ τὸ δειπνῆσαι (meta to deipnhsai), where the verb δειπνέω (deipnew) means “to eat a meal” or “to have a meal.”",
+        "ja": "[翻訳注]  「食事の後」という句は、時間を示す不定詞構文μετὰ τὸ δειπνῆσαι（meta to deipnesai）を翻訳したものであり、動詞δειπνέω（deipneo）は「食事をとる」を意味する。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Jesus’ death established the forgiveness promised in the new covenant of Jer 31:31. Jesus is reinterpreting the symbolism of the Passover meal, indicating the presence of a new era.",
+        "ja": "[解説]  イエスの死は、エレミヤ31:31の新しい契約において約束された赦しを確立した。イエスは過越の食事の象徴的意味を再解釈し、新しい時代の到来を示しておられる。"
+      }
+    ],
+    "21": [
+      {
+        "pos": 1,
+        "en": "[解説]  The one who betrays me. Jesus knows about Judas and what he has done.",
+        "ja": "[解説]  「わたしを裏切る者」。イエスはユダのこと、そして彼が何をしたかをご存じである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The point of Jesus’ comment here is not to identify the specific individual per se, but to indicate that it is one who was close to him – somebody whom no one would suspect. His comment serves to heighten the treachery of Judas’ betrayal.",
+        "ja": "[解説]  ここでのイエスの発言の要点は、特定の個人を名指しすること自体ではなく、誰も疑わないような親しい者の一人であることを示すことである。イエスの発言は、ユダの裏切りの背信性を際立たせている。"
+      }
+    ],
+    "22": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus’ death has been determined as a part of God’s plan (Acts 2:22-24).",
+        "ja": "[解説]  イエスの死は、神の計画の一部として定められている（使徒2:22-24）。"
+      }
+    ],
+    "23": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of Jesus’ comments: The disciples begin wondering who would betray him.",
+        "ja": "[翻訳注]  イエスの発言の結果を示すため、ここではκαί（kai）が「そこで」と翻訳されている。弟子たちは誰がイエスを裏切るのか疑問を抱き始める。"
+      }
+    ],
+    "24": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “happened.”",
+        "ja": "[翻訳注]  または「生じた」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Though the term μείζων (meizwn) here is comparative in form, it is superlative in sense (BDF §244).",
+        "ja": "[翻訳注]  ここでの用語μείζων（meizon）は形態上は比較級であるが、意味上は最上級である（BDF §244）。"
+      }
+    ],
+    "25": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate the implied result of the dispute among the apostles.",
+        "ja": "[翻訳注]  使徒たちの間の争いの結果を示すため、ここではδέ（de）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The title ‘benefactor,’ highlighting grace and meaning something like “helper of the people,” was even given to tyrants (2 Macc 4:2; 3 Macc 3:19; Josephus, J. W. 3.9.8 [3.459]).",
+        "ja": "[解説]  恵みを強調し「人々の援助者」のような意味を持つ「恩人」という称号は、暴君に対してさえ与えられた（マカバイ記二 4:2、マカバイ記三 3:19、ヨセフス『ユダヤ戦記』3.9.8 [3.459]）。"
+      }
+    ],
+    "26": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “But you are not thus.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「しかしあなたがたはそうであってはならない」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “the ruler.”",
+        "ja": "[翻訳注]  または「支配者」。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  And the leader like the one who serves. Leadership was not to be a matter of privilege and special status, but of service. All social status is leveled out by these remarks. Jesus himself is the prime example of the servant-leader.",
+        "ja": "[解説]  「指導者は仕える者のようになるべきである」。指導力とは特権や特別な地位の問題ではなく、奉仕の問題であるべきであった。これらの言葉によって、すべての社会的地位は平準化される。イエスご自身が、仕える指導者の典型的な模範である。"
+      }
+    ],
+    "27": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “who reclines at table,” as 1st century middle eastern meals were not eaten while sitting at a table, but while reclining on one’s side on the floor with the head closest to the low table and the feet farthest away.",
+        "ja": "[翻訳注]  ギリシャ語本文は「食卓に横たわる者」。1世紀の中東の食事は椅子に座って食べるのではなく、頭を低い食卓に近づけ足を遠ざけて床に横たわってとられたためである。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The interrogative particle used here in the Greek text (οὐχί, ouci) expects a positive reply.",
+        "ja": "[翻訳注]  ギリシャ語本文でここで用いられている疑問不変化詞（οὐχί, ouchi）は、肯定の答えを期待するものである。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Jesus’ example of humble service, as one who serves, shows that the standard for a disciple is different from that of the world. For an example see John 13:1-17.",
+        "ja": "[解説]  仕える者としてのイエスの謙遜な奉仕の模範は、弟子の基準が世の基準とは異なることを示している。実例についてはヨハネ13:1-17を参照。"
+      }
+    ],
+    "28": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “continued” (L&N 34.3). Jesus acknowledges the disciples’ faithfulness.",
+        "ja": "[翻訳注]  または「留まり続けた」（L&N 34.3）。イエスは弟子たちの忠実さを認めておられる。"
+      }
+    ],
+    "29": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “thus” to indicate the implied result of the disciples’ perseverance with Jesus.",
+        "ja": "[翻訳注]  イエスと共に踏みとどまった弟子たちの忍耐の結果を示すため、ここではκαί（kai）が「それゆえ」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  With the statement “I grant to you a kingdom” Jesus gave the disciples authority over the kingdom, as God had given him such authority. The present tense looks at authority given presently, though the major manifestation of its presence is yet to come as the next verse shows.",
+        "ja": "[解説]  「わたしもあなたがたに国を授ける」という宣言により、神がイエスに権威を与えられたように、イエスも弟子たちに御国を治める権威を与えられた。現在形は現在与えられている権威を見据えているが、その主要な現れは次節が示すように将来にある。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “I give you the right to rule” (cf. CEV). For this translation of διατίθεμαι βασιλείαν (diatiqemai basileian) see L&N 37.105.",
+        "ja": "[翻訳注]  または「治める権利を与える」（CEV参照）。διατίθεμαι βασιλείαν（diatithemai basileian）のこの翻訳については、L&N 37.105を参照。"
+      }
+    ],
+    "30": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This verb is future indicative, and thus not subordinate to “grant” (διατίθεμαι, diatiqemai) as part of the result clause beginning with ἵνα ἔσθητε ({ina esqhte) at the beginning of v. 30. It is better understood as a predictive future.",
+        "ja": "[翻訳注]  この動詞は未来直接法であり、30節の冒頭にあるἵνα ἔσθητε（hina esthete）で始まる結果節の一部として「授ける」（διατίθεμαι, diatithemai）に従属するものではない。これは予言的未来時制として理解するのが適切である。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The statement you will sit on thrones judging the twelve tribes of Israel looks at the future authority the Twelve will have when Jesus returns. They will share in Israel’s judgment.",
+        "ja": "[解説]  「王座に座ってイスラエルの十二部族を裁く」という宣言は、イエスが再臨されるときに十二使徒が持つ将来の権威を見据えている。彼らはイスラエルの裁きにあずかることになる。"
+      }
+    ],
+    "31": [
+      {
+        "pos": 1,
+        "en": "co), do not contain these words. The abrupt shift is the more difficult reading and thus more likely to be original.",
+        "ja": "[写本注]  一部の写本（co）にはこれらの言葉が含まれていない。急な文体の変化はより難しい読みであり、原典の表現である可能性が高い。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “behold” (for “pay attention” see L&N 91.13).",
+        "ja": "[翻訳注]  ギリシャ語本文は「見よ」（「注意を払う」についてはL&N 91.13を参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  This pronoun is plural in the Greek text, so it refers to all the disciples of which Peter is the representative.",
+        "ja": "[解説]  この代名詞はギリシャ語本文では複数形であるため、ペテロが代表している弟子たち全員を指している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Satan has demanded permission to put them to the test. The idiom “sift (someone) like wheat” is similar to the English idiom “to pick (someone) apart.” The pronoun you is implied.",
+        "ja": "[解説]  サタンは彼らを試す許可を要求した。「小麦のように（人を）ふるいにかける」という慣用表現は、「（人を）徹底的に選り分ける」という意味に近い。代名詞「あなたがたを」が暗示されている。"
+      }
+    ],
+    "32": [
+      {
+        "pos": 1,
+        "en": "[解説]  Here and in the remainder of the verse the second person pronouns are singular, so only Peter is in view. The name “Simon” has been supplied as a form of direct address to make this clear in English.",
+        "ja": "[解説]  ここおよび本節の残りの部分における二人称代名詞は単数形であるため、ペテロのみが対象となっている。これを明確にするため、直接の呼びかけとして「シモン」という名が補われている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  That your faith may not fail. Note that Peter’s denials are pictured here as lapses, not as a total absence of faith.",
+        "ja": "[解説]  「あなたの信仰がなくならないように」。ここでのペテロの否認は、信仰の完全な喪失ではなく、一時的なつまずきとして描かれていることに注意されたい。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “And when.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして〜のとき」。ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “turned around.”",
+        "ja": "[翻訳注]  または「立ち直ったら」。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  Strengthen your brothers refers to Peter helping to strengthen their faith. Jesus quite graciously restores Peter “in advance,” even with the knowledge of his approaching denials.",
+        "ja": "[解説]  「兄弟たちを力づけなさい」とは、ペテロが彼らの信仰を強める手助けをすることを指す。イエスは、近づくペテロの否認をご存じでありながら、寛大にも「前もって」ペテロを回復させておられる。"
+      }
+    ],
+    "33": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he”; the referent (Peter) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（ペテロ）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The confidence Peter has in private (Lord, I am ready…) will wilt under the pressure of the public eye.",
+        "ja": "[解説]  個人的な場でペテロが抱いている自信（「主よ、覚悟ができています…」）は、公の場の圧力の前で崩れ去ることになる。"
+      }
+    ],
+    "34": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he said”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は言った」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  That is, Peter’s denials will happen before the sun rises.",
+        "ja": "[解説]  すなわち、ペテロの否認は日が昇る前に起こるということである。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  Once again, Jesus is quite aware that Peter will deny him. Peter, however, is too nonchalant about the possibility of stumbling.",
+        "ja": "[解説]  ここでもまた、イエスはペテロが自分を否認することを熟知しておられる。しかしペテロは、つまずく可能性に対してあまりにも無頓着である。"
+      }
+    ],
+    "35": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「それから」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Traditionally, “purse” (likewise in v. 36).",
+        "ja": "[翻訳注]  伝統的には「金入れ」（36節も同様）。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or possibly “beggar’s bag” (L&N 6.145).",
+        "ja": "[翻訳注]  または「物乞い袋」（L&N 6.145）。"
+      },
+      {
+        "pos": 5,
+        "en": "[解説]  This refers back to 9:3 and 10:3-4. The Greek construction anticipates a negative reply which is indicated in the translation by the ‘tag’ at the end, “did you?” Nothing was lacking.",
+        "ja": "[解説]  これは9:3および10:3-4を参照している。ギリシャ語構文は否定の答えを予想しており、翻訳では末尾の「何か足りないものがあったか」という問いかけによって示されている。何も不足していなかった。"
+      },
+      {
+        "pos": 6,
+        "en": "[翻訳注]  Grk “said.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「言った」。"
+      }
+    ],
+    "36": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The syntax of this verse is disputed, resulting in various translations. The major options are either (1) that reflected in the translation or (2) that those who have a money bag and traveler’s bag should get a sword, just as those who do not have these items should sell their cloak to buy a sword. The point of all the options is that things have changed and one now needs full provisions. Opposition will come. But “sword” is a figure for preparing to fight. See Luke 22:50-51.",
+        "ja": "[翻訳注]  この節の統語論には議論があり、様々な翻訳が存在する。主な見解としては、(1) この翻訳に反映されているもの、または (2) 財布や旅行袋を持っている者は剣を手に入れるべきであり、これらの物を持たない者は上着を売って剣を買うべきである、というものである。すべての見解の要点は、状況が一変し、十分な備えが必要になったということである。敵意に直面することになる。しかし「剣」は戦いの備えの比喩である。ルカ22:50-51を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or possibly “beggar’s bag” (L&N 6.145).",
+        "ja": "[翻訳注]  または「物乞い袋」（L&N 6.145）。"
+      }
+    ],
+    "37": [
+      {
+        "pos": 1,
+        "en": "[解説]  This scripture must be fulfilled in me. The statement again reflects the divine necessity of God’s plan. See 4:43-44.",
+        "ja": "[解説]  「この聖書のことばは、わたしにおいて必ず成就しなければならない」。この宣言は再び神の計画の必然性を反映している。4:43-44を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “with the lawless.”[解説]  This is a quotation from Isa 53:12. It highlights a theme of Luke 22-23. Though completely innocent, Jesus dies as if he were a criminal.",
+        "ja": "[翻訳注]  または「無法者たちと共に」。[解説]  これはイザヤ53:12からの引用である。ルカ22-23章の主題を際立たせている。イエスは無実でありながら、あたかも犯罪者であるかのように死なれる。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “is having its fulfillment.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「その成就を迎えている」。"
+      }
+    ],
+    "38": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “so” to indicate the implied result of Jesus’ comments about obtaining swords.",
+        "ja": "[翻訳注]  剣を入手することに関するイエスの発言の結果を示すため、ここではδέ（de）が「彼らが〜と言うと」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Here are two swords. The disciples mistakenly took Jesus to mean that they should prepare for armed resistance, something he will have to correct in 22:50-51.",
+        "ja": "[解説]  「ここに剣が二本あります」。弟子たちはイエスの言葉を誤解し、武力による抵抗の準備をすべきだと捉えた。この誤解は22:50-51でイエスによって正されることになる。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  It is enough. The disciples’ misunderstanding caused Jesus to terminate the discussion.",
+        "ja": "[解説]  「それで十分だ」。弟子たちの誤解により、イエスはこの話し合いを打ち切られた。"
+      }
+    ],
+    "39": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「それから」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “went.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「行った」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  See the note on the Mount of Olives in Luke 19:29.",
+        "ja": "[解説]  ルカ19:29のオリーブ山に関する注を参照。"
+      }
+    ],
+    "40": [
+      {
+        "pos": 1,
+        "en": "[解説]  Luke does not mention Gethsemane by name, but calls it simply the place.",
+        "ja": "[解説]  ルカはゲツセマネの名を挙げず、単に「その場所」と呼んでいる。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus’ instructions to pray not to fall into temptation is an allusion to Luke 22:28-38, especially 22:31. The temptation is Satan’s challenge to them to defect, like what happened to Judas and what will happen to Peter.",
+        "ja": "[解説]  誘惑に陥らないように祈りなさいというイエスの指示は、ルカ22:28-38、特に22:31を暗示している。誘惑とは、ユダに起こったことやペテロに起ころうとしていることのように、信仰を捨てるよう迫るサタンの試みである。"
+      }
+    ],
+    "42": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Luke’s term παρένεγκε is not as exact as the one in Matt 26:39. Luke’s means “take away” (BDAG 772 s.v. παρένεγκε 2.c) while Matthew’s means “take away without touching,” suggesting an alteration (if possible) in God’s plan. For further discussion see D. L. Bock, Luke (BECNT), 2:1759-60.",
+        "ja": "[翻訳注]  ルカの用語παρένεγκεはマタイ26:39の用語ほど厳密ではない。マタイの用語が「触れずに取り去る」を意味し、神の計画の変更（可能であれば）を示唆しているのに対し、ルカの用語は「取り去る」を意味する（BDAG 772 s.v. παρένεγκε 2.c）。詳細な議論については、D. L. Bock, Luke (BECNT), 2:1759-60を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  This cup alludes to the wrath of God that Jesus would experience (in the form of suffering and death) for us. See Ps 11:6; 75:8-9; Isa 51:17, 19, 22 for this figure.",
+        "ja": "[解説]  「この杯」は、イエスがわたしたちのために経験される神の怒り（苦しみと死という形での）を暗示している。この比喩表現については詩篇11:6、75:8-9、イザヤ51:17, 19, 22を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  With the statement “Not my will but yours be done” Jesus submitted fully to God’s will.",
+        "ja": "[解説]  「わたしの願いではなく、みこころがなりますように」という言葉により、イエスは神の御心に完全に従順になられた。"
+      }
+    ],
+    "44": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And being in anguish.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして苦しみもだえて」。"
+      },
+      {
+        "pos": 2,
+        "en": "Ï lat Ju Ir Hipp Eus. However, a number of mss mark the text with an asterisk or obelisk, indicating the scribe’s assessment of the verses as inauthentic. At the same time, these verses generally fit Luke’s style. Arguments can be given on both sides about whether scribes would tend to include or omit such comments about Jesus’ humanity and an angel’s help. But even if the verses are not literarily authentic, they are probably historically authentic. This is due to the fact that this text was well known in several different locales from a very early period. Since there are no synoptic parallels to this account and since there is no obvious reason for adding these words here, it is very likely that such verses recount a part of the actual suffering of our Lord. Nevertheless, because of the serious doubts as to these verses’ authenticity, they have been put in brackets. For an important discussion of this problem, see B. D. Ehrman and M. A. Plunkett, “The Angel and the Agony: The Textual Problem of Luke 22:43-44,” CBQ 45 (1983): 401-16.[解説]  Angelic aid is noted elsewhere in the gospels: Matt 4:11 = Mark 1:13.",
+        "ja": "[写本注]  𝔐 lat Ju Ir Hipp Eus。しかし多くの写本はこのテキストにアスタリスクやオベリスクを付しており、書写者がこれらの節を信憑性に欠けると判断していたことを示している。同時に、これらの節は全体としてルカの文体に合致している。書写者がイエスの人間性や御使いの助けに関するこのような記述を含める傾向があったのか、それとも省略する傾向があったのかについては、双方に議論が存在する。しかし、たとえこれらの節が文学的な意味で真正でないとしても、歴史的には真正である可能性が高い。このテキストが非常に初期の時代から様々な地域でよく知られていたからである。この記述には共観福音書の並行箇所がなく、ここにこれらの言葉を追加する明白な理由もないため、これらの節が主の実際の苦難の一部を語っている可能性は高い。それにもかかわらず、これらの節の信憑性に対する重大な疑義があるため、括弧に入れて表記されている。この問題に関する重要な議論については、B. D. Ehrman and M. A. Plunkett, “The Angel and the Agony: The Textual Problem of Luke 22:43-44,” CBQ 45 (1983): 401-16を参照。[解説]  御使いの助けについては福音書の他の箇所でも記されている（マタイ4:11＝マルコ1:13）。"
+      }
+    ],
+    "45": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “from grief.” The word “exhausted” is not in the Greek text, but is implied; the disciples have fallen asleep from mental and emotional exhaustion resulting from their distress (see L&N 25.273; cf. TEV, NIV, NLT).",
+        "ja": "[翻訳注]  ギリシャ語本文は「悲しみから」。「疲れ果てて」という語はギリシャ語本文にはないが、文脈上暗示されている。弟子たちは苦悩による精神的・感情的な疲労から眠り込んでしまったのである（L&N 25.273参照、TEV、NIV、NLTも参照）。"
+      }
+    ],
+    "46": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of Jesus finding them asleep.",
+        "ja": "[翻訳注]  イエスが弟子たちの眠っているのを見られた結果を示すため、ここではκαί（kai）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Jesus calls the disciples again to prayerful watchfulness with the words “Get up and pray” (see 22:40). The time is full of danger (22:53).",
+        "ja": "[解説]  イエスは「起きて祈りなさい」という言葉をもって、祈りによる油断のない警戒へと弟子たちを再び促しておられる（22:40参照）。この時は危険に満ちている（22:53）。"
+      }
+    ],
+    "47": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “While he was still speaking, behold, a crowd, and the one called Judas…was leading them.” The abrupt appearance of the crowd on the scene is indicated in the translation by “suddenly” and “appeared.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼がまだ話しておられる間に、見よ、群衆が、そしてユダと呼ばれる者が…彼らを率いていた」。群衆が突然その場に現れたことが、翻訳では「突然」および「現れ」によって示されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “drew near.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「近づいた」。"
+      },
+      {
+        "pos": 3,
+        "en": "700 pm as well as several versional mss) add here, “for this is the sign he gave to them: Whoever I kiss is [the one].” This addition is almost certainly not original, since most of the important mss lack it. It may be a copyist’s attempt to clarify the text, or the accidental inclusion of a marginal gloss.",
+        "ja": "[写本注]  一部の写本（700 pmおよびいくつかの古代訳写本）はここに「これは彼が彼らに与えた合図であった。『わたしが口づけする者がその人である』」と加えている。大半の重要な写本にこの語句がないため、この加筆は原典のものではない可能性が高い。テキストを明確にしようとした書写者の試みであるか、欄外註の誤入である可能性がある。"
+      }
+    ],
+    "48": [
+      {
+        "pos": 1,
+        "en": "[解説]  Jesus’ comment about betraying the Son of Man with a kiss shows the hypocrisy and blindness of an attempt to cover up sin. On “misused kisses” in the Bible, see Gen 27:26-27; 2 Sam 15:5; Prov 7:13; 27:6; and 2 Sam 20:9.",
+        "ja": "[解説]  口づけをもって人の子を裏切るというイエスの言葉は、罪を覆い隠そうとする偽善と盲目さを示している。聖書における「悪用された口づけ」については、創世記27:26-27、サムエル記下15:5、箴言7:13、27:6、サムエル記下20:9を参照。"
+      }
+    ],
+    "49": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has not been translated.",
+        "ja": "[翻訳注]  ここではδέ（de）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The direct question using “if” in Greek is not unusual (BDF §440.3).",
+        "ja": "[翻訳注]  ギリシャ語で「〜かどうか（if）」を用いた直接疑問文は珍しくない（BDF §440.3）。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  “Should we use our swords?” The disciples’ effort to defend Jesus recalls Luke 22:35-38. One individual did not wait for the answer.",
+        "ja": "[解説]  「剣を使うべきでしょうか」。イエスを守ろうとする弟子たちの行動は、ルカ22:35-38を思い起こさせる。ある者は返答を待たずに行動した。"
+      }
+    ],
+    "50": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「そして」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  One of them. The unnamed disciple is Peter according to John 18:10 (cf. also Matt 26:51; Mark 14:47).",
+        "ja": "[解説]  「そのうちの一人」。ヨハネ18:10によれば、名前の挙げられていないこの弟子はペテロである（マタイ26:51、マルコ14:47も参照）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  See the note on the word “slave” in 7:2.",
+        "ja": "[翻訳注]  7:2の「しもべ」という語に関する注を参照。"
+      }
+    ],
+    "51": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “But answering, Jesus said.” This is redundant in contemporary English and has been simplified in the translation.",
+        "ja": "[翻訳注]  ギリシャ語本文は「しかしイエスは答えて言われた」。これは現代英語では冗長であるため、翻訳では簡潔に表現されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “his”; the referent (the slave of the high priest mentioned in the previous verse) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼の」。わかりやすくするために翻訳では指示対象（前節で言及された大祭司のしもべ）を明示している。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  When Jesus healed the man’s ear he showed grace even to those who hated him, following his own teaching (Luke 6:27-36).",
+        "ja": "[解説]  イエスがこの男の耳を癒やされたとき、自らの教えに従い（ルカ6:27-36）、自分を憎む者にさえ恵みを示された。"
+      }
+    ],
+    "52": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではδέ（de）が「それから」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  This title, literally “official of the temple” (στρατηγὸς τοῦ ἱεροῦ, strathgo\" tou Jierou), referred to the commander of the Jewish soldiers who guarded and maintained order in the Jerusalem temple. Here, since the term is plural, it has been translated “officers of the temple guard” rather than “commanders of the temple guard,” since the idea of a number of commanders might be confusing to the modern English reader.",
+        "ja": "[翻訳注]  この称号は文字通りには「神殿の役人」（στρατηγὸς τοῦ ἱεροῦ, strategos tou hierou）であり、エルサレム神殿を警備し秩序を維持したユダヤ人兵士の指揮官を指した。ここでは複数形であるため、現代の読者に複数の指揮官という概念が混乱を招かないよう、「神殿の守衛長たち」と翻訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “a revolutionary.” This term can refer to one who stirs up rebellion: BDAG 594 s.v. λῃστής 2 has “revolutionary, insurrectionist, guerrilla” citing evidence from Josephus (J. W. 2.13.2-3 [2.253-254]). However, this usage generally postdates Jesus’ time. It does refer to a figure of violence. Luke uses the same term for the highwaymen who attack the traveler in the parable of the good Samaritan (10:30).",
+        "ja": "[翻訳注]  または「反逆者」。この語は反乱を扇動する者を指すことがある。BDAG 594 s.v. λῃστής 2には「革命家、反乱分子、ゲリラ」とあり、ヨセフス（『ユダヤ戦記』2.13.2-3 [2.253-254]）の証拠を挙げている。しかしこの用法は一般にイエスの時代より後のものである。これは暴力を振るう人物を指す。ルカは善いサマリア人のたとえ（10:30）で旅人を襲う強盗にも同じ語を用いている。"
+      }
+    ],
+    "53": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “in the temple.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「神殿で」。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “lay hands on me.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「わたしに手を伸ばした」。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Or “your time.”",
+        "ja": "[翻訳注]  または「あなたがたの時期」。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  Or “authority,” “domain.”",
+        "ja": "[翻訳注]  または「権威」「支配領域」。"
+      }
+    ],
+    "54": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「彼らは〜連れて行った」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “seized” (L&N 37.109).",
+        "ja": "[翻訳注]  または「捕縛した」（L&N 37.109）。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “he”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Putting all the gospel accounts together, there is a brief encounter with Annas (brought him into the high priest’s house, here and John 18:13, where Annas is named); the meeting led by Caiaphas (Matt 26:57-68 = Mark 14:53-65; and then a Sanhedrin meeting (Matt 27:1; Mark 15:1; Luke 22:66-71). These latter two meetings might be connected and apparently went into the morning.",
+        "ja": "[解説]  すべての福音書の記述を総合すると、アンナスとの短い対面があり（「大祭司の屋敷へ連れて行った」、ここおよびアンナスの名が挙げられているヨハネ18:13）、カヤパが主導する集まり（マタイ26:57-68＝マルコ14:53-65）、そして最高議会の集まり（マタイ27:1、マルコ15:1、ルカ22:66-71）が続く。これら後者の二つの集まりは連続しており、朝まで及んだと見られる。"
+      }
+    ],
+    "56": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  The Greek term here is παιδίσκη (paidiskh), referring to a slave girl or slave woman.",
+        "ja": "[翻訳注]  ここでのギリシャ語の用語はπαιδίσκη（paidiske）であり、女中や女奴隷を指す。"
+      }
+    ],
+    "57": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “he denied it, saying.” The referent (Peter) has been specified in the translation for clarity. The participle λέγων (legwn) is redundant and has not been translated.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼は言って否認した」。わかりやすくするために翻訳では指示対象（ペテロ）を明示している。分詞λέγων（legon）は冗長であるため翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Woman was a polite form of address (see BDAG 208-9 s.v. γυνή), similar to “Madam” or “Ma’am” used in English in different regions.",
+        "ja": "[解説]  「女の人よ」は丁寧な呼びかけであり（BDAG 208-9 s.v. γυνή参照）、英語で地域によって用いられる「Madam」や「Ma'am」に似ている。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The expression “I do not know him” had an idiomatic use in Jewish ban formulas in the synagogue and could mean, “I have nothing to do with him.”",
+        "ja": "[解説]  「わたしはあの人を知らない」という表現は会堂におけるユダヤ教の追放公式句において慣用的に用いられ、「わたしはあの人とは何の関係もない」という意味を持つことがあった。"
+      }
+    ],
+    "58": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「しばらくして」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  In Mark 14:69, the same slave girl made the charge. So apparently Peter was being identified by a variety of people.",
+        "ja": "[解説]  マルコ14:69では同じ女中が告発している。したがってペテロは様々な人々から身元を指摘されていたようである。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Here and in v. 60 “Man” is used as a neutral form of address to a stranger.",
+        "ja": "[翻訳注]  ここおよび60節の「人よ（いや）」は、見知らぬ人に対する中立的な呼びかけとして用いられている。"
+      }
+    ],
+    "59": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “insisted, saying.” The participle λέγων (legwn) is redundant in English and has not been translated here.",
+        "ja": "[翻訳注]  ギリシャ語本文は「言って言い張った」。分詞λέγων（legon）は英語では冗長であるため、ここでは翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  According to Mark 14:70 it was Peter’s accent that gave him away as a Galilean.",
+        "ja": "[解説]  マルコ14:70によれば、ペテロがガリラヤ人であることを露見させたのはその訛りであった。"
+      }
+    ],
+    "60": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Grk “And immediately.” Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語本文は「そして直ちに」。ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  A real rooster crowing is probably in view here (rather than the Roman trumpet call known as gallicinium), in part due to the fact that Mark 14:72 mentions the rooster crowing twice. See the discussion at Matt 26:74.",
+        "ja": "[翻訳注]  ここでは（ガリキニウムと呼ばれるローマ軍のラッパの合図ではなく）実際の鶏の鳴き声が念頭に置かれている可能性が高い。マルコ14:72が鶏が二度鳴いたと言及していることもその理由の一つである。マタイ26:74の議論を参照。"
+      }
+    ],
+    "61": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「すると」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  “The word of the Lord” is a technical expression in OT literature, often referring to a divine prophetic utterance (e.g., Gen 15:1, Isa 1:10, Jonah 1:1). In the NT it occurs 15 times: 3 times as ῥῆμα τοῦ κυρίου (rJhma tou kuriou; here and in Acts 11:16, 1 Pet 1:25) and 12 times as λόγος τοῦ κυρίου (logo\" tou kuriou; Acts 8:25; 13:44, 48, 49; 15:35, 36; 16:32; 19:10, 20; 1 Thess 1:8, 4:15; 2 Thess 3:1). As in the OT, this phrase focuses on the prophetic nature and divine origin of what has been said. Because of its technical nature the expression has been retained in the translation in preference to a smoother rendering like “remembered what the Lord had said” (cf. TEV, NLT).",
+        "ja": "[翻訳注]  「主のことば」は旧約聖書文学における専門用語であり、多くの場合、神による預言的な宣言を指す（創世記15:1、イザヤ1:10、ヨナ1:1など）。新約聖書では15回現れ、3回はῥῆμα τοῦ κυρίου（rhema tou kuriou、ここおよび使徒11:16、ペテロ第一1:25）、12回はλόγος τοῦ κυρίου（logos tou kuriou、使徒8:25、13:44, 48, 49、15:35, 36、16:32、19:10, 20、テサロニケ第一1:8, 4:15、テサロニケ第二3:1）として現れる。旧約聖書と同様に、この語句は語られたことの預言的な性質と神的な起源に焦点を当てている。その専門的な性質のため、「主が言われたことを思い出した」というような平易な表現よりも、この専門用語が翻訳において保持されている（TEV、NLT参照）。"
+      }
+    ],
+    "62": [
+      {
+        "pos": 1,
+        "en": "[解説]  When Peter went out and wept bitterly it shows he really did not want to fail here and was deeply grieved that he had.",
+        "ja": "[解説]  ペテロが外に出て激しく泣いたことは、彼がここでつまずくことを決して望んでおらず、自分が失敗したことを深く悲しんでいたことを示している。"
+      }
+    ],
+    "63": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “now” to indicate the transition to a new topic.",
+        "ja": "[翻訳注]  新しい話題への移行を示すため、ここではκαί（kai）が「さて」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      }
+    ],
+    "64": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.",
+        "ja": "[翻訳注]  ギリシャ語と英語の文体の違いにより、ここではκαί（kai）は翻訳されていない。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The verb ἐπηρώτων (ephrwtwn) has been translated as an iterative imperfect. The participle λέγοντες (legontes) is redundant in English and has not been translated here.",
+        "ja": "[翻訳注]  動詞ἐπηρώτων（eperoton）は反復の未完了過去として翻訳されている。分詞λέγοντες（legontes）は英語では冗長であるため、ここでは翻訳されていない。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “Who is the one who hit you?”[解説]  Who hit you? This is a variation of one of three ancient games that involved blindfolds.",
+        "ja": "[翻訳注]  ギリシャ語本文は「お前を殴った者は誰か」。[解説]  「お前を殴ったのは誰だ」。これは目隠しを伴う古代の三つの遊びの一つの変形である。"
+      }
+    ],
+    "65": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “insulting.” Luke uses a strong word here; it means “to revile, to defame, to blaspheme” (L&N 33.400).",
+        "ja": "[翻訳注]  または「侮辱した」。ルカはここで強い言葉を用いており、「罵る、中傷する、冒涜する」を意味する（L&N 33.400）。"
+      }
+    ],
+    "66": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Or “and the scribes.” See the note on the phrase “experts in the law” in 5:21.",
+        "ja": "[翻訳注]  または「律法学者たち」。5:21の「律法学者たち」に関する注を参照。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではκαί（kai）が「そして」と翻訳されている。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “him”; the referent (Jesus) has been specified in the translation for clarity.",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼を」。わかりやすくするために翻訳では指示対象（イエス）を明示している。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Their council is probably a reference to the Jewish Sanhedrin, the council of seventy leaders.",
+        "ja": "[解説]  「最高議会」はおそらくユダヤ人のサンヘドリン（七十人の指導者からなる評議会）を指している。"
+      }
+    ],
+    "67": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This is a first class condition in the Greek text.",
+        "ja": "[翻訳注]  ギリシャ語本文ではこれは第1種条件文である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  Or “Messiah”; both “Christ” (Greek) and “Messiah” (Hebrew and Aramaic) mean “one who has been anointed.”[解説]  See the note on Christ in 2:11.",
+        "ja": "[翻訳注]  または「メシア」。「キリスト」（ギリシャ語）も「メシア」（ヘブライ語およびアラム語）も共に「油注がれた者」を意味する。[解説]  2:11のキリストに関する注を参照。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  This is a third class condition in the Greek text. Jesus had this experience already in 20:1-8.",
+        "ja": "[翻訳注]  ギリシャ語本文ではこれは第3種条件文である。イエスはすでに20:1-8でこの経験をされていた。"
+      },
+      {
+        "pos": 4,
+        "en": "[翻訳注]  The negation in the Greek text is the strongest possible (οὐ μή, ou mh).",
+        "ja": "[翻訳注]  ギリシャ語本文における否定（οὐ μή, ou me）は最も強い否定である。"
+      }
+    ],
+    "68": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  This is also a third class condition in the Greek text.",
+        "ja": "[翻訳注]  これもギリシャ語本文では第3種条件文である。"
+      },
+      {
+        "pos": 2,
+        "en": "[翻訳注]  The negation in the Greek text is the strongest possible (οὐ μή, ou mh).",
+        "ja": "[翻訳注]  ギリシャ語本文における否定（οὐ μή, ou me）は最も強い否定である。"
+      }
+    ],
+    "69": [
+      {
+        "pos": 1,
+        "en": "[解説]  From now on. Jesus’ authority was taken up from this moment on. Ironically he is now the ultimate judge, who is himself being judged.",
+        "ja": "[解説]  「今から後」。イエスの権威はこの瞬間から確立された。皮肉なことに、イエスは現在裁かれている側でありながら、究極の裁判官なのである。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  Seated at the right hand is an allusion to Ps 110:1 (“Sit at my right hand…”) and is a claim that Jesus shares authority with God in heaven. Those present may have thought they were his judges, but, in fact, the reverse was true.",
+        "ja": "[解説]  「右の座に着く」は詩篇110:1（「わたしの右の座に着け…」）を暗示しており、イエスが天において神と権威を共有しているという主張である。居合わせた者たちは自分たちがイエスの裁判官であると考えたかもしれないが、実際にはその逆であった。"
+      },
+      {
+        "pos": 3,
+        "en": "[解説]  The expression the right hand of the power of God is a circumlocution for referring to God. Such indirect references to God were common in 1st century Judaism out of reverence for the divine name.",
+        "ja": "[解説]  「神の全能の右の座」という表現は、神を指す婉曲表現である。このような神への間接的な言及は、神の名に対する畏敬の念から、1世紀のユダヤ教において一般的であった。"
+      }
+    ],
+    "70": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here καί (kai) has been translated as “so” to indicate the implied result of Jesus’ pronouncement.",
+        "ja": "[翻訳注]  イエスの宣言の結果を示すため、ここではκαί（kai）が「そこで」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  The members of the council understood the force of the claim and asked Jesus about another title, Son of God.",
+        "ja": "[解説]  最高議会の議員たちはこの主張の重大さを理解し、イエスにもう一つの称号である「神の子」について尋ねた。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “He said to them.”",
+        "ja": "[翻訳注]  ギリシャ語本文は「イエスは彼らに言われた」。"
+      },
+      {
+        "pos": 4,
+        "en": "[解説]  Jesus’ reply, “You say that I am,” was not a denial, but a way of giving a qualified positive response: “You have said it, but I do not quite mean what you think.”",
+        "ja": "[解説]  「わたしがそれであると、あなたがたが言っている」というイエスの答えは否定ではなく、条件付きの肯定的な返答をする方法であった（「あなたがたはそう言ったが、わたしの真意はあなたがたの考えているものとは少し異なる」）。"
+      }
+    ],
+    "71": [
+      {
+        "pos": 1,
+        "en": "[翻訳注]  Here δέ (de) has been translated as “then” to indicate the implied sequence of events within the narrative.",
+        "ja": "[翻訳注]  物語の中での一連の出来事の流れを示すため、ここではδέ（de）が「すると」と翻訳されている。"
+      },
+      {
+        "pos": 2,
+        "en": "[解説]  We have heard it ourselves. The Sanhedrin regarded the answer as convicting Jesus. They saw it as blasphemous to claim such intimacy and shared authority with God, a claim so serious and convicting that no further testimony was needed.",
+        "ja": "[解説]  「わたしたち自身が聞いた」。サンヘドリンはこの答えを有罪の証拠と見なした。彼らは神とのそのような親密さと共有された権威を主張することを冒涜と見なし、それはこれ以上の証言を必要としないほど重大で確たるものであった。"
+      },
+      {
+        "pos": 3,
+        "en": "[翻訳注]  Grk “from his own mouth” (an idiom).",
+        "ja": "[翻訳注]  ギリシャ語本文は「彼自身の口から」（慣用句）。"
+      }
+    ]
+  }
+}

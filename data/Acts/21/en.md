@@ -1,0 +1,574 @@
+# Acts 21 (English)
+
+## Text
+
+**1** After we tore ourselves away from them, we put out to sea, and sailing a straight course, we came to Cos, on the next day to Rhodes, and from there to Patara. 
+
+**2** We found a ship crossing over to Phoenicia, went aboard, and put out to sea. 
+
+**3** After we sighted Cyprus and left it behind on our port side, we sailed on to Syria and put in at Tyre because the ship was to unload its cargo there. 
+
+**4** After we located the disciples, we stayed there seven days. They repeatedly told Paul through the Spirit not to set foot in Jerusalem. 
+
+**5** When our time was over, we left and went on our way. All of them, with their wives and children, accompanied us outside of the city. After kneeling down on the beach and praying, 
+
+**6** we said farewell to one another. Then we went aboard the ship, and they returned to their own homes. 
+
+**7** We continued the voyage from Tyre and arrived at Ptolemais, and when we had greeted the brothers, we stayed with them for one day. 
+
+**8** On the next day we left and came to Caesarea, and entered the house of Philip the evangelist, who was one of the seven, and stayed with him. 
+
+**9** (He had four unmarried daughters who prophesied.) 
+
+**10** While we remained there for a number of days, a prophet named Agabus came down from Judea. 
+
+**11** He came to us, took Paul’s belt, tied his own hands and feet with it, and said, “The Holy Spirit says this: ‘This is the way the Jews in Jerusalem will tie up the man whose belt this is and will hand him over to the Gentiles.’” 
+
+**12** When we heard this, both we and the local people begged him not to go up to Jerusalem. 
+
+**13** Then Paul replied, “What are you doing, weeping and breaking my heart? For I am ready not only to be tied up, but even to die in Jerusalem for the name of the Lord Jesus.” 
+
+**14** Because he could not be persuaded, we said no more except, “The Lord’s will be done.” 
+
+**15** After these days we got ready and started up to Jerusalem. 
+
+**16** Some of the disciples from Caesarea came along with us too, and brought us to the house of Mnason of Cyprus, a disciple from the earliest times, with whom we were to stay. 
+
+**17** When we arrived in Jerusalem, the brothers welcomed us gladly. 
+
+**18** The next day Paul went in with us to see James, and all the elders were there. 
+
+**19** When Paul had greeted them, he began to explain in detail what God had done among the Gentiles through his ministry. 
+
+**20** When they heard this, they praised God. Then they said to him, “You see, brother, how many thousands of Jews there are who have believed, and they are all ardent observers of the law. 
+
+**21** They have been informed about you—that you teach all the Jews now living among the Gentiles to abandon Moses, telling them not to circumcise their children or live according to our customs. 
+
+**22** What then should we do? They will no doubt hear that you have come. 
+
+**23** So do what we tell you: We have four men who have taken a vow; 
+
+**24** take them and purify yourself along with them and pay their expenses, so that they may have their heads shaved. Then everyone will know there is nothing in what they have been told about you, but that you yourself live in conformity with the law. 
+
+**25** But regarding the Gentiles who have believed, we have written a letter, having decided that they should avoid meat that has been sacrificed to idols and blood and what has been strangled and sexual immorality.” 
+
+**26** Then Paul took the men the next day, and after he had purified himself along with them, he went to the temple and gave notice of the completion of the days of purification, when the sacrifice would be offered for each of them. 
+
+**27** When the seven days were almost over, the Jews from the province of Asia who had seen him in the temple area stirred up the whole crowd and seized him, 
+
+**28** shouting, “Men of Israel, help! This is the man who teaches everyone everywhere against our people, our law, and this sanctuary! Furthermore he has brought Greeks into the inner courts of the temple and made this holy place ritually unclean!” 
+
+**29** (For they had seen Trophimus the Ephesian in the city with him previously, and they assumed Paul had brought him into the inner temple courts.) 
+
+**30** The whole city was stirred up, and the people rushed together. They seized Paul and dragged him out of the temple courts, and immediately the doors were shut. 
+
+**31** While they were trying to kill him, a report was sent up to the commanding officer of the cohort that all Jerusalem was in confusion. 
+
+**32** He immediately took soldiers and centurions and ran down to the crowd. When they saw the commanding officer and the soldiers, they stopped beating Paul. 
+
+**33** Then the commanding officer came up and arrested him and ordered him to be tied up with two chains; he then asked who he was and what he had done. 
+
+**34** But some in the crowd shouted one thing, and others something else, and when the commanding officer was unable to find out the truth because of the disturbance, he ordered Paul to be brought into the barracks. 
+
+**35** When he came to the steps, Paul had to be carried by the soldiers because of the violence of the mob, 
+
+**36** for a crowd of people followed them, screaming, “Away with him!” 
+
+**37** As Paul was about to be brought into the barracks, he said to the commanding officer, “May I say something to you?” The officer replied, “Do you know Greek? 
+
+**38** Then you’re not that Egyptian who started a rebellion and led the 4,000 men of the ‘Assassins’ into the wilderness sometime ago?”
+
+**39** Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of an important city. Please allow me to speak to the people.” 
+
+**40** When the commanding officer had given him permission, Paul stood on the steps and gestured to the people with his hand. When they had become silent, he addressed them in Aramaic, 
+
+## Notes
+
+### Verse 1 - Note 1
+[翻訳注]  Grk “It happened that when.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated. Since the action described by the participle ἀποσπασθέντας (apospasqenta", “tearing ourselves away”) is prior to the departure of the ship, it has been translated as antecedent action (“after”).
+
+### Verse 1 - Note 2
+[解説]  This marks the beginning of another “we” section in Acts. These have been traditionally understood to mean that Luke was in the company of Paul for this part of the journey.
+
+### Verse 1 - Note 3
+[翻訳注]  BDAG 120 s.v. ἀποσπάω 2.b has “pass. in mid. sense ἀ. ἀπό τινος tear oneself away Ac 21:1”; LSJ 218 gives several illustrations of this verb meaning “to tear or drag away from.”
+
+### Verse 1 - Note 4
+[翻訳注]  BDAG 62 s.v. ἀνάγω 4, “as a nautical t.t. (ἀ. τὴν ναῦν put a ship to sea), mid. or pass. ἀνάγεσθαι to begin to go by boat, put out to sea.”
+
+### Verse 1 - Note 5
+[翻訳注]  BDAG 406 s.v. εὐθυδρομέω has “of a ship run a straight course”; L&N 54.3 has “to sail a straight course, sail straight to.”
+
+### Verse 1 - Note 6
+[解説]  Cos was an island in the Aegean Sea.
+
+### Verse 1 - Note 7
+[解説]  Rhodes was an island off the southwestern coast of Asia Minor.
+
+### Verse 1 - Note 8
+[解説]  Patara was a city in Lycia on the southwestern coast of Asia Minor. The entire journey was about 185 mi (295 km).
+
+### Verse 2 - Note 1
+[翻訳注]  Grk “and finding.” The participle εὑρόντες (Jeuronte") has been translated as a finite verb due to requirements of contemporary English style. Because of the length of the Greek sentence, the conjunction καί (kai) has not been translated here. Instead a new English sentence is begun in the translation.
+
+### Verse 2 - Note 2
+[解説]  Phoenicia was the name of an area along the Mediterranean coast north of Palestine.
+
+### Verse 2 - Note 3
+[翻訳注]  Grk “going aboard, we put out to sea.” The participle ἐπιβάντες (epibante") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 2 - Note 4
+[翻訳注]  BDAG 62 s.v. ἀνάγω 4, “as a nautical t.t. (ἀ. τὴν ναῦν put a ship to sea), mid. or pass. ἀνάγεσθαι to begin to go by boat, put out to sea.”
+
+### Verse 3 - Note 1
+[解説]  Cyprus is a large island in the Mediterranean off the south coast of Asia Minor.
+
+### Verse 3 - Note 2
+[解説]  The expression left it behind on our port side here means “sailed past to the south of it” since the ship was sailing east.
+
+### Verse 3 - Note 3
+[翻訳注]  BDAG 531 s.v. κατέρχομαι 2 states, “arrive, put in, nautical t.t. of ships and those who sail in them, who ‘come down’ fr. the ‘high seas’…ἔις τι at someth. a harbor 18:22; 21:3; 27:5.”
+
+### Verse 3 - Note 4
+[解説]  Tyre was a city and seaport on the coast of Phoenicia. From Patara to Tyre was about 400 mi (640 km). It required a large cargo ship over 100 ft (30 m) long, and was a four to five day voyage.[地図]  For location see Map1-A2; Map2-G2; Map4-A1; JP3-F3; JP4-F3.
+
+### Verse 4 - Note 1
+[翻訳注]  BDAG 78 s.v. ἀνευρίσκω has “look/search for (w. finding presupposed) τινά…τοὺς μαθητάς Ac 21:4.” The English verb “locate,” when used in reference to persons, has the implication of both looking for and finding someone. The participle ἀνευρόντες (aneuronte") has been taken temporally.
+
+### Verse 4 - Note 2
+[翻訳注]  BDAG 154 s.v. αὐτοῦ states, “deictic adv. designating a position relatively near or far…there…Ac 21:4.”
+
+### Verse 4 - Note 3
+[翻訳注]  The imperfect verb ἔλεγον (elegon) has been taken iteratively.
+
+### Verse 4 - Note 4
+[解説]  Although they told this to Paul through the Spirit, it appears Paul had a choice here (see v. 14). Therefore this amounted to a warning: There was risk in going to Jerusalem, so he was urged not to go.
+
+### Verse 4 - Note 5
+[翻訳注]  BDAG 367 s.v. ἐπιβαίνω places Ac 21:4 under 1, “go up/upon, mount, board…πλοίῳ…Ac 27:2…Abs. go on board, embark…21:1 D, 2. – So perh. also ἐ. εἰς ᾿Ιεροσόλυμα embark for Jerusalem (i.e. to the seaport of Caesarea) vs. 4.” BDAG notes, however, “But this pass. may also belong to 2. to move to an area and be there, set foot in.” Because the message from the disciples to Paul through the Holy Spirit has the character of a warning, the latter meaning has been adopted for this translation.
+
+### Verse 4 - Note 6
+[地図]  For location see Map5-B1; Map6-F3; Map7-E2; Map8-F2; Map10-B3; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “It happened that when.” The introductory phrase ἐγένετο (egeneto, “it happened that”), common in Luke (69 times) and Acts (54 times), is redundant in contemporary English and has not been translated.
+
+### Verse 5 - Note 2
+[翻訳注]  Grk “When our days were over.” L&N 67.71 has “ὅτε δὲ ἐγένετο ἡμᾶς ἐξαρτίσαι τὰς ἡμέρας ‘when we brought that time to an end’ or ‘when our time with them was over’ Ac 21:5.”
+
+### Verse 5 - Note 3
+[翻訳注]  Grk “accompanying.” Due to the length and complexity of the Greek sentence, a new sentence was begun in the translation and the participle προπεμπόντων (propempontwn) translated as a finite verb.
+
+### Verse 5 - Note 4
+[翻訳注]  Grk “city, and after.” Because of the length of the Greek sentence, the conjunction καί (kai) has not been translated here. Instead a new English sentence is begun.
+
+### Verse 5 - Note 5
+[解説]  On praying in Acts, see 1:14, 24; 2:47; 4:23; 6:6; 10:2; 12:5, 12; 13:3; 16:25.
+
+### Verse 6 - Note 1
+[翻訳注]  BDAG 98 s.v. ἀπασπάζομαι has “take leave of, say farewell to τινά someone…ἀπησπασάμεθα ἀλλήλους we said farewell to one another Ac 21:6.”
+
+### Verse 6 - Note 2
+[解説]  These words are part of v. 5 in the standard critical Greek text.
+
+### Verse 6 - Note 3
+[翻訳注]  Grk “and.” Because of the length and complexity of the Greek sentence, a new sentence was begun in the translation, and καί (kai) has been translated as “then” to indicate the logical sequence.
+
+### Verse 6 - Note 4
+[翻訳注]  Grk “to their own”; the word “homes” is implied.
+
+### Verse 7 - Note 1
+[解説]  Tyre was a city and seaport on the coast of Phoenicia.
+
+### Verse 7 - Note 2
+[解説]  Ptolemais was a seaport on the coast of Palestine about 30 mi (48 km) south of Tyre.
+
+### Verse 8 - Note 1
+[翻訳注]  Grk “On the next day leaving, we came.” The participle ἐξελθόντες (exelqonte") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 8 - Note 2
+[解説]  Caesarea was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi). See the note on Caesarea in Acts 10:1. This was another 40 mi (65 km).[地図]  For location see Map2-C1; Map4-B3; Map5-F2; Map7-A1; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 8 - Note 3
+[翻訳注]  Grk “and entering…we stayed.” The participle εἰσελθόντες (eiselqonte") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 8 - Note 4
+[解説]  Philip was one of the seven deacons appointed in the Jerusalem church (Acts 6:1-7).
+
+### Verse 9 - Note 1
+[翻訳注]  Grk “virgin.” While the term παρθένος (parqeno") can refer to a woman who has never had sexual relations, the emphasis in this context seems to be on the fact that Philip’s daughters were not married (L&N 9.39).
+
+### Verse 9 - Note 2
+[解説]  This is best taken as a parenthetical note by the author. Luke again noted women who were gifted in the early church (see Eusebius, Ecclesiastical History 3.31; 3.39).
+
+### Verse 10 - Note 1
+[翻訳注]  BDAG 848 s.v. πολύς 1.b.α has “ἐπὶ ἡμέρας πλείους for a (large) number of days, for many days…Ac 13:31. – 21:10…24:17; 25:14; 27:20.”
+
+### Verse 10 - Note 2
+[解説]  Agabus also appeared in Acts 11:28. He was from Jerusalem, so the two churches were still in contact with one another.
+
+### Verse 11 - Note 1
+[翻訳注]  Grk “And coming.” Because of the difference between Greek style, which often begins sentences or clauses with “and,” and English style, which generally does not, καί (kai) has not been translated here. The participle ἐλθών (elqwn) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 11 - Note 2
+[翻訳注]  Grk “and taking.” This καί (kai) has not been translated since English normally uses a coordinating conjunction only between the last two elements in a series of three or more. The participle ἄρας (aras) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 11 - Note 3
+[解説]  The belt was a band or sash used to keep money as well as to gird up the tunic (BDAG 431 s.v. ζώνη).
+
+### Verse 11 - Note 4
+[翻訳注]  The participle δήσας (dhsas) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 11 - Note 5
+[翻訳注]  The words “with it” are not in the Greek text, but are implied.
+
+### Verse 11 - Note 6
+[翻訳注]  Grk “and will deliver him over into the hands of” (a Semitic idiom).[解説]  The Jews…will tie up…and will hand him over. As later events will show, the Jews in Jerusalem did not personally tie Paul up and hand him over to the Gentiles, but their reaction to him was the cause of his arrest (Acts 21:27-36).
+
+### Verse 12 - Note 1
+[翻訳注]  Or “the people there.”
+
+### Verse 13 - Note 1
+[翻訳注]  The term translated “breaking” as used by Josephus (Ant. 10.10.4 [10.207]) means to break something into pieces, but in its only NT use (it is a hapax legomenon) it is used figuratively (BDAG 972 s.v. συνθρύπτω).
+
+### Verse 13 - Note 2
+[翻訳注]  L&N 18.13 has “to tie objects together – ‘to tie, to tie together, to tie up.’” The verb δέω (dew) is sometimes figurative for imprisonment (L&N 37.114), but it is preferable to translate it literally here in light of v. 11 where Agabus tied himself up with Paul’s belt.
+
+### Verse 14 - Note 1
+[翻訳注]  The participle πειθομένου (peiqomenou) in this genitive absolute construction has been translated as a causal adverbial participle.
+
+### Verse 14 - Note 2
+[翻訳注]  Grk “we became silent, saying.”
+
+### Verse 14 - Note 3
+[解説]  “The Lord’s will be done.” Since no one knew exactly what would happen, the matter was left in the Lord’s hands.
+
+### Verse 15 - Note 1
+[翻訳注]  Or “we made preparations.”
+
+### Verse 15 - Note 2
+[翻訳注]  Grk “were going up”; the imperfect verb ἀνεβαίνομεν (anebainomen) has been translated as an ingressive imperfect.[解説]  In colloquial speech Jerusalem was always said to be “up” from any other location in Palestine. The group probably covered the 65 mi (105 km) in two days using horses. Their arrival in Jerusalem marked the end of Paul’s third missionary journey.
+
+### Verse 16 - Note 1
+[解説]  Caesarea was a city on the coast of Palestine south of Mount Carmel (not Caesarea Philippi). See the note on Caesarea in Acts 10:1.[地図]  For location see Map2-C1; Map4-B3; Map5-F2; Map7-A1; JP1-F4; JP2-F4; JP3-F4; JP4-F4.
+
+### Verse 16 - Note 2
+[翻訳注]  Grk “to Mnason…”; the words “the house of” are not in the Greek text, but are implied by the verb ξενισθῶμεν (xenisqwmen).
+
+### Verse 16 - Note 3
+[翻訳注]  Or perhaps, “Mnason of Cyprus, one of the original disciples.” BDAG 137 s.v. ἀρχαῖος 1 has “ἀ. μαθητής a disciple of long standing (perh. original disc.) Ac 21:16.”
+
+### Verse 17 - Note 1
+[翻訳注]  Or “warmly” (see BDAG 144 s.v. ἀσμένως).
+
+### Verse 18 - Note 1
+[翻訳注]  BDAG 760 s.v. παραγίνομαι 1 has this use under the broad category of meaning “draw near, come, arrive, be present.”[解説]  All the elders were there. This meeting shows how the Jerusalem church still regarded Paul and his mission with favor, but also with some concerns because of the rumors circulating about his actions.
+
+### Verse 19 - Note 1
+[翻訳注]  Grk “he”; the referent (Paul) has been specified in the translation for clarity.
+
+### Verse 19 - Note 2
+[翻訳注]  Or “to report,” “to describe.” The imperfect verb ἐξηγεῖτο (exhgeito) has been translated as an ingressive imperfect.
+
+### Verse 19 - Note 3
+[翻訳注]  BDAG 293 s.v. εἷς 5.e has “καθ᾿ ἕν one after the other (hence τὸ καθ᾿ ἕν ‘a detailed list’: PLille 11, 8 [III bc]; PTebt. 47, 34; 332, 16) J 21:25. Also καθ᾿ ἕν ἕκαστον…Ac 21:19.”
+
+### Verse 19 - Note 4
+[解説]  Note how Paul credited God with the success of his ministry.
+
+### Verse 20 - Note 1
+[翻訳注]  Or “glorified.”
+
+### Verse 20 - Note 2
+[翻訳注]  Grk “how many thousands there are among the Jews.”[解説]  How many thousands of Jews. See Acts 2-5 for the accounts of their conversion, esp. 2:41 and 4:4. Estimates of the total number of Jews living in Jerusalem at the time range from 20,000 to 50,000.
+
+### Verse 20 - Note 3
+[翻訳注]  Or “are all zealous for the law.” BDAG 427 s.v. ζηλωτής 1.a.β has “of thing…τοῦ νόμου an ardent observer of the law Ac 21:20.”
+
+### Verse 20 - Note 4
+[解説]  That is, the law of Moses. These Jewish Christians had remained close to their Jewish practices after becoming believers (1 Cor 7:18-19; Acts 16:3).
+
+### Verse 21 - Note 1
+[翻訳注]  BDAG 511 s.v. κατά B.1.a has “τοὺς κ. τὰ ἔθνη ᾿Ιουδαίους the Judeans (dispersed) throughout the nations 21:21.” The Jews in view are not those in Palestine, but those who are scattered throughout the Gentile world.
+
+### Verse 21 - Note 2
+[翻訳注]  Or “to forsake,” “to rebel against.” BDAG 120 s.v. ἀποστασία has “ἀποστασίαν διδάσκεις ἀπὸ Μωϋσέως you teach (Judeans) to abandon Moses Ac 21:21.”[解説]  The charge that Paul was teaching Jews in the Diaspora to abandon Moses was different from the issue faced in , where the question was whether Gentiles needed to become like Jews first in order to become Christians. The issue also appears in Acts 24:5-6, 13-21; 25:8.
+
+### Verse 21 - Note 3
+[解説]  That is, not to circumcise their male children. Biblical references to circumcision always refer to male circumcision.
+
+### Verse 21 - Note 4
+[翻訳注]  Grk “or walk.”
+
+### Verse 22 - Note 1
+[翻訳注]  L&N 71.16 has “pertaining to being in every respect certain – ‘certainly, really, doubtless, no doubt.’…‘they will no doubt hear that you have come’ Ac 21:22.”
+
+### Verse 23 - Note 1
+[翻訳注]  Grk “do this that.”
+
+### Verse 23 - Note 2
+[翻訳注]  Grk “There are four men here.”
+
+### Verse 23 - Note 3
+[翻訳注]  L&N 33.469 has “‘there are four men here who have taken a vow’ or ‘we have four men who…’ Ac 21:23.”
+
+### Verse 23 - Note 4
+[翻訳注]  On the term for “vow,” see BDAG 416 s.v. εὐχή 2.
+
+### Verse 24 - Note 1
+[解説]  That is, undergo ritual cleansing. Paul’s cleansing would be necessary because of his travels in “unclean” Gentile territory. This act would represent a conciliatory gesture. Paul would have supported a “law-free” mission to the Gentiles as an option, but this gesture would represent an attempt to be sensitive to the Jews (1 Cor 9:15-22).
+
+### Verse 24 - Note 2
+[翻訳注]  L&N 57.146 has “δαπάνησον ἐπ᾿ αὐτοῖς ‘pay their expenses’ Ac 21:24.”
+
+### Verse 24 - Note 3
+[翻訳注]  The future middle indicative has causative force here. BDAG 686 s.v. ξυράω has “mid. have oneself shaved…τὴν κεφαλήν have one’s head shaved…Ac 21:24.”[解説]  Having their heads shaved probably involved ending a voluntary Nazirite vow (Num 6:14-15).
+
+### Verse 24 - Note 4
+[翻訳注]  Grk “and.” Because of the length and complexity of the Greek sentence, a new sentence was begun in the translation, and καί (kai) has been translated as “then” to indicate the logical sequence.
+
+### Verse 24 - Note 5
+[翻訳注]  The verb here describes a report or some type of information (BDAG 534 s.v. κατηχέω 1).
+
+### Verse 24 - Note 6
+[翻訳注]  Grk “adhere to the keeping of the law.” L&N 41.12 has “στοιχέω: to live in conformity with some presumed standard or set of customs – ‘to live, to behave in accordance with.’”
+
+### Verse 24 - Note 7
+[解説]  The law refers to the law of Moses.
+
+### Verse 25 - Note 1
+[翻訳注]  L&N 13.154 has “‘having decided that they must keep themselves from food offered to idols, from blood, from an animal that has been strangled, and from sexual immorality’ Ac 21:25.”[解説]  Having decided refers here to the decision of the Jerusalem council (Acts 15:6-21). Mention of this previous decision reminds the reader that the issue here is somewhat different: It is not whether Gentiles must first become Jews before they can become Christians (as in ), but whether Jews who become Christians should retain their Jewish practices. Sensitivity to this issue would suggest that Jewish Christians and Gentile Christians might engage in different practices.
+
+### Verse 25 - Note 2
+[翻訳注]  This is a different Greek word than the one used in Acts 15:20, 29. BDAG 1068 s.v. φυλάσσω 3 has “to be on one’s guard against, look out for, avoid…w. acc. of pers. or thing avoided…Ac 21:25.” The Greek word used in Acts 15:20, 29 is ἀπέχω (apecw). The difference in meaning, although slight, has been maintained in the translation.
+
+### Verse 25 - Note 3
+[翻訳注]  There is no specific semantic component in the Greek word εἰδωλόθυτος that means “meat” (see BDAG 280 s.v. εἰδωλόθυτος; L&N 5.15). The stem –θυτος means “sacrifice” (referring to an animal sacrificially killed) and thereby implies meat.
+
+### Verse 25 - Note 4
+[解説]  What has been strangled. That is, to refrain from eating animals that had been killed without having the blood drained from them. According to the Mosaic law (Lev 17:13-14) Jews were forbidden to eat flesh with the blood still in it (note the preceding provision in this verse, and blood).
+
+### Verse 26 - Note 1
+[翻訳注]  BDAG 422 s.v. ἔχω 11.b.β has “temporal, to be next, immediately following…τῇ ἐχομένῃ…on the next day Lk 13:33…Ac 20:15; w. ἡμέρᾳ added…21:26.”
+
+### Verse 26 - Note 2
+[翻訳注]  That is, after he had undergone ritual cleansing. The aorist passive participle ἁγνισθείς (Jagnisqei") has been taken temporally of antecedent action.
+
+### Verse 26 - Note 3
+[翻訳注]  Grk “entered the temple, giving notice.” The participle διαγγέλλων (diangellwn) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 26 - Note 4
+[解説]  The days of purification refers to the days of ritual cleansing.
+
+### Verse 26 - Note 5
+[翻訳注]  Grk “until” (BDAG 423 s.v. ἕως 1.b.β.א), but since in English it is somewhat awkward to say “the completion of the days of purification, until the sacrifice would be offered,” the temporal clause was translated “when the sacrifice would be offered.” The point is that the sacrifice would be offered when the days were completed. Paul honored the request of the Jewish Christian leadership completely. As the following verse makes clear, the vow was made for seven days.
+
+### Verse 26 - Note 6
+[翻訳注]  Grk “for each one.”
+
+### Verse 27 - Note 1
+[翻訳注]  BDAG 975 s.v. συντελέω 4 has “to come to an end of a duration, come to an end, be over…Ac 21:27.”
+
+### Verse 27 - Note 2
+[翻訳注]  Grk “Asia”; in the NT this always refers to the Roman province of Asia, made up of about one-third of the west and southwest end of modern Asia Minor. Asia lay to the west of the region of Phrygia and Galatia. The words “the province of” are supplied to indicate to the modern reader that this does not refer to the continent of Asia.[解説]  Note how there is a sense of Paul being pursued from a distance. These Jews may well have been from Ephesus, since they recognized Trophimus the Ephesian (v. 29).
+
+### Verse 27 - Note 3
+[翻訳注]  Grk “in the temple.” See the note on the word “temple” in v. 28.
+
+### Verse 27 - Note 4
+[翻訳注]  Or “threw the whole crowd into consternation.” L&N 25.221 has “συνέχεον πάντα τὸν ὄχλον ‘they threw the whole crowd into consternation’ Ac 21:27. It is also possible to render the expression in Ac 21:27 as ‘they stirred up the whole crowd.’”
+
+### Verse 27 - Note 5
+[翻訳注]  Grk “and laid hands on.”
+
+### Verse 28 - Note 1
+[翻訳注]  Or “Israelite men,” although this is less natural English. The Greek term here is ἀνήρ (anhr), which only exceptionally is used in a generic sense of both males and females. In this context, it is conceivable that this is a generic usage since “the whole crowd” is mentioned in v. 27, although it can also be argued that these remarks were addressed primarily to the men present, even if women were there.
+
+### Verse 28 - Note 2
+[解説]  The law refers to the law of Moses.
+
+### Verse 28 - Note 3
+[翻訳注]  Grk “this place.”[解説]  This sanctuary refers to the temple. The charges were not new, but were similar to those made against Stephen (Acts 6:14) and Jesus (Luke 23:2).
+
+### Verse 28 - Note 4
+[翻訳注]  BDAG 400 s.v. ἔτι 2.b has “ἔ. δὲ καί furthermore…al. ἔ. τε καί…Lk 14:26; Ac 21:28.” This is a continuation of the same sentence in Greek, but due to the length and complexity of the Greek sentence and the tendency of contemporary English to use shorter sentences, a new sentence was begun here in the translation.
+
+### Verse 28 - Note 5
+[翻訳注]  Grk “into the temple.” The specific reference is to the Court of the Sons of Israel (see the note following the term “unclean” at the end of this verse). To avoid giving the modern reader the impression that they entered the temple building itself, the phrase “the inner courts of the temple” has been used in the translation.
+
+### Verse 28 - Note 6
+[翻訳注]  Or “and has defiled this holy place.”[解説]  Has brought Greeks…unclean. Note how the issue is both religious and ethnic, showing a different attitude by the Jews. A Gentile was not permitted to enter the inner temple precincts (contrast Eph 2:11-22). According to Josephus (Ant. 15.11.5 [15.417]; J. W. 5.5.2 [5.193], cf. 5.5.6 [5.227]), the inner temple courts (the Court of the Women, the Court of the Sons of Israel, and the Court of the Priests) were raised slightly above the level of the Court of the Gentiles and were surrounded by a wall about 5 ft (1.5 m) high. Notices in both Greek and Latin (two of which have been discovered) warned that any Gentiles who ventured into the inner courts would be responsible for their own deaths. See also Philo, Embassy 31 (212). In m. Middot 2:3 this wall was called “soreq” and according to m. Sanhedrin 9:6 the stranger who trespassed beyond the soreq would die by the hand of God.
+
+### Verse 29 - Note 1
+[翻訳注]  Grk “whom.”
+
+### Verse 29 - Note 2
+[翻訳注]  On the phrase “inner temple courts” see the note on the word “temple” in v. 28.[解説]  This is a parenthetical note by the author. The note explains the cause of the charge and also notes that it was false.
+
+### Verse 30 - Note 1
+[翻訳注]  On this term see BDAG 545 s.v. κινέω 2.b.
+
+### Verse 30 - Note 2
+[翻訳注]  Or “the people formed a mob.” BDAG 967 s.v. συνδρομή has “formation of a mob by pers. running together, running together…ἐγένετο σ. τοῦ λαοῦ the people rushed together Ac 21:30.”
+
+### Verse 30 - Note 3
+[翻訳注]  Grk “and seizing.” The participle ἐπιλαβόμενοι (epilabomenoi) has been translated as a finite verb due to requirements of contemporary English style. Because of the length and complexity of the Greek sentence, a new sentence was begun in the translation, and καί (kai) has not been translated here.
+
+### Verse 30 - Note 4
+[翻訳注]  Grk “out of the temple.” See the note on the word “temple” in v. 28.
+
+### Verse 31 - Note 1
+[翻訳注]  Grk “seeking.”
+
+### Verse 31 - Note 2
+[翻訳注]  Or “information” (originally concerning a crime; BDAG 1050 s.v. φάσις).
+
+### Verse 31 - Note 3
+[翻訳注]  Grk “went up”; this verb is used because the report went up to the Antonia Fortress where the Roman garrison was stationed.
+
+### Verse 31 - Note 4
+[翻訳注]  Grk “the chiliarch” (an officer in command of a thousand soldiers). In Greek the term χιλίαρχος (ciliarco") literally described the “commander of a thousand,” but it was used as the standard translation for the Latin tribunus militum or tribunus militare, the military tribune who commanded a cohort of 600 men.
+
+### Verse 31 - Note 5
+[解説]  A cohort was a Roman military unit of about 600 soldiers, one-tenth of a legion.
+
+### Verse 31 - Note 6
+[翻訳注]  BDAG 953 s.v. συγχέω has “Pass. w. act.force be in confusion…ὅλη συγχύννεται ᾿Ιερουσαλήμ 21:31.”
+
+### Verse 32 - Note 1
+[翻訳注]  Grk “who.” Because of the length and complexity of the Greek sentence and the tendency of contemporary English to use shorter sentences, the relative pronoun (“who”) was translated as a pronoun (“he”) and a new sentence was begun here in the translation.
+
+### Verse 32 - Note 2
+[翻訳注]  Grk “taking…ran down.” The participle κατέδραμεν (katedramen) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 32 - Note 3
+[解説]  See the note on the word centurion in 10:1.
+
+### Verse 32 - Note 4
+[翻訳注]  Grk “to them”; the referent (the crowd) has been specified in the translation for clarity.
+
+### Verse 32 - Note 5
+[翻訳注]  Grk “seeing.” The participle ἰδόντες (idonte") has been taken temporally.
+
+### Verse 32 - Note 6
+[翻訳注]  Grk “the chiliarch” (an officer in command of a thousand soldiers). See note on the term “commanding officer” in v. 31.
+
+### Verse 32 - Note 7
+[解説]  The mob stopped beating Paul because they feared the Romans would arrest them for disturbing the peace and for mob violence. They would let the Roman officials take care of the matter from this point on.
+
+### Verse 33 - Note 1
+[翻訳注]  Grk “the chiliarch” (an officer in command of a thousand soldiers). See note on the term “commanding officer” in v. 31.
+
+### Verse 33 - Note 2
+[翻訳注]  Grk “seized.”
+
+### Verse 33 - Note 3
+[翻訳注]  The two chains would be something like handcuffs (BDAG 48 s.v. ἅλυσις and compare Acts 28:20).
+
+### Verse 33 - Note 4
+[翻訳注]  Grk “and he.” Because of the length and complexity of the Greek sentence, a new sentence was begun in the translation, and καί (kai) has been replaced with a semicolon. “Then” has been supplied after “he” to clarify the logical sequence.
+
+### Verse 33 - Note 5
+[翻訳注]  Grk “and what it is”; this has been simplified to “what.”
+
+### Verse 34 - Note 1
+[翻訳注]  L&N 33.77 has “ἄλλοι δὲ ἄλλο τι ἐπεφώνουν ἐν τῷ ὄχλῳ ‘some in the crowd shouted one thing; others, something else’ Ac 21:34.”
+
+### Verse 34 - Note 2
+[翻訳注]  Grk “he”; the referent (the commanding officer) has been specified in the translation for clarity.
+
+### Verse 34 - Note 3
+[翻訳注]  This genitive absolute construction has been translated temporally; it could also be taken causally: “and since the commanding officer was unable to find out the truth.”
+
+### Verse 34 - Note 4
+[翻訳注]  Or “find out what had happened”; Grk “the certainty” (BDAG 147 s.v. ἀσφαλής 2).
+
+### Verse 34 - Note 5
+[翻訳注]  Or “clamor,” “uproar” (BDAG 458 s.v. θόρυβος).
+
+### Verse 34 - Note 6
+[翻訳注]  Grk “him”; the referent (Paul) has been specified in the translation for clarity.
+
+### Verse 34 - Note 7
+[翻訳注]  Or “the headquarters.” BDAG 775 s.v. παρεμβολή 2 has “barracks/headquarters of the Roman troops in Jerusalem Ac 21:34, 37; 22:24; 23:10, 16, 32.”
+
+### Verse 35 - Note 1
+[翻訳注]  Grk “he”; the referent (Paul) has been specified in the translation for clarity.
+
+### Verse 35 - Note 2
+[解説]  Paul had to be carried. Note how the arrest really ended up protecting Paul. The crowd is portrayed as irrational at this point.
+
+### Verse 35 - Note 3
+[翻訳注]  This refers to mob violence (BDAG 175 s.v. βία b).
+
+### Verse 36 - Note 1
+[翻訳注]  Grk “the multitude of people.” While πλῆθος (plhqo") is articular, it has been translated “a crowd” since it was probably a subset of the larger mob that gathered in v. 30.
+
+### Verse 36 - Note 2
+[翻訳注]  The word “them” is not in the Greek text but is implied. Direct objects were often omitted in Greek when clear from the context, but must be supplied for the modern English reader.
+
+### Verse 37 - Note 1
+[翻訳注]  Or “the headquarters.” BDAG 775 s.v. παρεμβολή 2 has “barracks/headquarters of the Roman troops in Jerusalem Ac 21:34, 37; 22:24; 23:10, 16, 32.”
+
+### Verse 37 - Note 2
+[翻訳注]  Grk “says” (a historical present).
+
+### Verse 37 - Note 3
+[翻訳注]  Grk “the chiliarch” (an officer in command of a thousand soldiers) See note on the term “commanding officer” in v. 31.
+
+### Verse 37 - Note 4
+[翻訳注]  Grk “Is it permitted for me to say” (an idiom).
+
+### Verse 37 - Note 5
+[翻訳注]  Grk “He”; the referent (the officer) has been specified in the translation for clarity.
+
+### Verse 37 - Note 6
+[翻訳注]  Grk “said.”
+
+### Verse 37 - Note 7
+[解説]  “Do you know Greek?” Paul as an educated rabbi was bilingual. Paul’s request in Greek allowed the officer to recognize that Paul was not the violent insurrectionist he thought he had arrested (see following verse). The confusion of identities reveals the degree of confusion dominating these events.
+
+### Verse 38 - Note 1
+[翻訳注]  L&N 39.41 has “οὐκ ἄρα σὺ εἶ ὁ Αἰγύπτιος ὁ πρὸ τούτων τῶν ἡμερῶν ἀναστατώσας ‘then you are not that Egyptian who some time ago started a rebellion’ Ac 21:38.”
+
+### Verse 38 - Note 2
+[翻訳注]  Grk “of the Sicarii.”[解説]  The term ‘Assassins’ is found several times in the writings of Josephus (J. W. 2.13.3 [2.254-257]; Ant. 20.8.10 [20.186]). It was the name of the most fanatical group among the Jewish nationalists, very hostile to Rome, who did not hesitate to assassinate their political opponents. They were named Sicarii in Latin after their weapon of choice, the short dagger or sicarius which could be easily hidden under one’s clothing. In effect, the officer who arrested Paul had thought he was dealing with a terrorist.
+
+### Verse 38 - Note 3
+[翻訳注]  Or “desert.”
+
+### Verse 38 - Note 4
+[翻訳注]  Grk “before these days.”
+
+### Verse 39 - Note 1
+[翻訳注]  Grk “said.”
+
+### Verse 39 - Note 2
+[翻訳注]  Grk “a Jewish man.”
+
+### Verse 39 - Note 3
+[翻訳注]  Grk “of a not insignificant city.” The double negative, common in Greek, is awkward in English and has been replaced by a corresponding positive expression (BDAG 142 s.v. ἄσημος 1).
+
+### Verse 39 - Note 4
+[翻訳注]  Grk “I beg you.”
+
+### Verse 40 - Note 1
+[翻訳注]  The referent (the commanding officer) has been supplied here in the translation for clarity.
+
+### Verse 40 - Note 2
+[翻訳注]  Grk “Giving him permission.” The participle ἐπιτρέψαντος (epitreyanto") has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 40 - Note 3
+[翻訳注]  Grk “standing.” The participle ἑστώς (Jestws) has been translated as a finite verb due to requirements of contemporary English style.
+
+### Verse 40 - Note 4
+[翻訳注]  Or “motioned.”
+
+### Verse 40 - Note 5
+[翻訳注]  γενομένης (genomenhs) has been taken temporally. BDAG 922 s.v. σιγή has “πολλῆς σιγῆς γενομένης when a great silence had fallen = when they had become silent Ac 21:40.”
+
+### Verse 40 - Note 6
+[翻訳注]  Or “spoke out to.” L&N 33.27 has “to address an audience, with possible emphasis upon loudness – ‘to address, to speak out to.’ πολλῆς δέ σιγῆς γενομένης προσεφώνησεν τῇ ᾿Εβραίδι διαλέκτῳ ‘when they were quiet, he addressed them in Hebrew’ Ac 21:40.”
+
+### Verse 40 - Note 7
+[翻訳注]  Grk “in the Hebrew dialect, saying.” This refers to the Aramaic spoken in Palestine in the 1st century (BDAG 270 s.v. ῾Εβραΐς). The participle λέγων (legwn) is redundant in English and has not been translated.

@@ -1,0 +1,26 @@
+{
+  "api_configs": [
+    {
+      "key_env": "GEMINI_API_KEY",
+      "exclude_models": [
+        "gemini-3.5-flash-lite",
+        "gemini-3.8-flash",
+        "gemini-3.7-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash",
+        // "gemini-3-flash-preview"
+      ]
+    },
+    {
+      "key_env": "GEMINI_API_KEY_2",
+      "exclude_models": [
+        // "gemini-3.5-flash-lite",
+        // "gemini-3.8-flash",
+        // "gemini-3.7-flash",
+        // "gemini-3.6-flash",
+        // "gemini-3.5-flash",
+        // "gemini-3-flash-preview"
+      ]
+    }
+  ]
+}

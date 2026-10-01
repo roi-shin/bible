@@ -1,0 +1,339 @@
+# Revelation 2 (English)
+
+## Text
+
+**1** “To the angel of the church in Ephesus, write the following: “This is the solemn pronouncement of the one who has a firm grasp on the seven stars in his right hand—the one who walks among the seven golden lampstands: 
+
+**2** ‘I know your works as well as your labor and steadfast endurance, and that you cannot tolerate evil. You have even put to the test those who refer to themselves as apostles (but are not), and have discovered that they are false. 
+
+**3** I am also aware that you have persisted steadfastly, endured much for the sake of my name, and have not grown weary. 
+
+**4** But I have this against you: You have departed from your first love! 
+
+**5** Therefore, remember from what high state you have fallen and repent! Do the deeds you did at the first; if not, I will come to you and remove your lampstand from its place—that is, if you do not repent. 
+
+**6** But you do have this going for you: You hate what the Nicolaitans practice—practices I also hate. 
+
+**7** The one who has an ear had better hear what the Spirit says to the churches. To the one who conquers, I will permit him to eat from the tree of life that is in the paradise of God.’ 
+
+**8** “To the angel of the church in Smyrna write the following: “This is the solemn pronouncement of the one who is the first and the last, the one who was dead, but came to life: 
+
+**9** ‘I know the distress you are suffering and your poverty (but you are rich). I also know the slander against you by those who call themselves Jews and really are not, but are a synagogue of Satan. 
+
+**10** Do not be afraid of the things you are about to suffer. The devil is about to have some of you thrown into prison so you may be tested, and you will experience suffering for ten days. Remain faithful even to the point of death, and I will give you the crown that is life itself.
+
+**11** The one who has an ear had better hear what the Spirit says to the churches. The one who conquers will in no way be harmed by the second death.’ 
+
+**12** “To the angel of the church in Pergamum write the following: “This is the solemn pronouncement of the one who has the sharp double-edged sword: 
+
+**13** ‘I know where you live—where Satan’s throne is. Yet you continue to cling to my name, and you have not denied your faith in me, even in the days of Antipas, my faithful witness, who was killed in your city where Satan lives. 
+
+**14** But I have a few things against you: You have some people there who follow the teaching of Balaam, who instructed Balak to put a stumbling block before the people of Israel so they would eat food sacrificed to idols and commit sexual immorality. 
+
+**15** In the same way, there are also some among you who follow the teaching of the Nicolaitans. 
+
+**16** Therefore, repent! If not, I will come against you quickly and make war against those people with the sword of my mouth. 
+
+**17** The one who has an ear had better hear what the Spirit says to the churches. To the one who conquers, I will give him some of the hidden manna, and I will give him a white stone, and on that stone will be written a new name that no one can understand except the one who receives it.’
+
+**18** “To the angel of the church in Thyatira write the following: “This is the solemn pronouncement of the Son of God, the one who has eyes like a fiery flame and whose feet are like polished bronze: 
+
+**19** ‘I know your deeds: your love, faith, service, and steadfast endurance. In fact, your more recent deeds are greater than your earlier ones. 
+
+**20** But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess, and by her teaching deceives my servants to commit sexual immorality and to eat food sacrificed to idols. 
+
+**21** I have given her time to repent, but she is not willing to repent of her sexual immorality. 
+
+**22** Look! I am throwing her onto a bed of violent illness, and those who commit adultery with her into terrible suffering, unless they repent of her deeds. 
+
+**23** Furthermore, I will strike her followers with a deadly disease, and then all the churches will know that I am the one who searches minds and hearts. I will repay each one of you what your deeds deserve.
+
+**24** But to the rest of you in Thyatira, all who do not hold to this teaching (who have not learned the so-called “deep secrets of Satan”), to you I say: I do not put any additional burden on you. 
+
+**25** However, hold on to what you have until I come. 
+
+**26** And to the one who conquers and who continues in my deeds until the end, I will give him authority over the nations—
+
+**27** <b>he</b> <b>will rule</b> <b>them with an iron rod,</b> <b>and like clay jars he will break them to pieces</b>,
+
+**28** just as I have received the right to rule from my Father—and I will give him the morning star. 
+
+**29** The one who has an ear had better hear what the Spirit says to the churches.’ 
+
+## Notes
+
+### Verse 1 - Note 1
+[地図]  For location see JP1-D2; JP2-D2; JP3-D2; JP4-D2.
+
+### Verse 1 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 1 - Note 3
+[翻訳注]  Grk “These things says [the One]…” The expression τάδε λέγει (tade legei) occurs eight times in the NT, seven of which are in Rev 2-3. “The pronoun is used to add solemnity to the prophetic utterance that follows. …In classical drama, it was used to introduce a new actor to the scene (Smyth, Greek Grammar, 307 [§1241]). But the τάδε λέγει formula in the NT derives from the OT, where it was used to introduce a prophetic utterance (BAGD, s.v. ὅδε, 1)” (ExSyn 328). Thus, the translation “this is the solemn pronouncement of” for τάδε λέγει is very much in keeping with the OT connotations of this expression.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. The LXX has the same Greek phrase (τάδε λέγει, tade legei) about 350 times, with nearly 320 of them having “the Lord” (Heb יהוה, Yahweh) as subject. That the author of Revelation would use such an expression seven times with the risen Christ as the speaker may well imply something of Christ’s sovereignty and deity. Cf. also Acts 21:11 in which the Holy Spirit is the speaker of this expression.
+
+### Verse 1 - Note 4
+[翻訳注]  Grk “holds,” but the term (i.e., κρατῶν, kratwn) with an accusative object, along with the context, argues for a sense of firmness. (Cf. ExSyn 132.)
+
+### Verse 1 - Note 5
+[解説]  On seven stars in his right hand see 1:16.
+
+### Verse 1 - Note 6
+[翻訳注]  Grk “lampstands of gold” with the genitive τῶν χρυσῶν (twn cruswn) translated as an attributive genitive.
+
+### Verse 2 - Note 1
+[翻訳注]  Although the first possessive pronoun σου (sou) is connected to τὰ ἔργα (ta erga) and the second σου is connected to ὑπομονήν (Jupomonhn), semantically κόπον (kopon) is also to be understood as belonging to the Ephesian church. The translation reflects this.
+
+### Verse 2 - Note 2
+[翻訳注]  The translation “tolerate” seems to capture the sense of βαστάσαι (bastasai) here. BDAG 171 s.v. βαστάζω 2.b.β says, “bear, endure…κακούς Rv 2:2.…bear patiently, put up with: weaknesses of the weak Ro 15:1; cf. IPol 1:2; evil Rv 2:3.”
+
+### Verse 2 - Note 3
+[翻訳注]  Because of the length and complexity of the Greek sentence, the participle was broken off from the previous sentence and translated as an indicative verb beginning a new sentence here in the translation.
+
+### Verse 3 - Note 1
+[翻訳注]  Because of the length and complexity of this Greek sentence, a new sentence was started here in the translation by supplying the phrase “I am also aware” to link this English sentence back to “I know” at the beginning of v. 2.
+
+### Verse 3 - Note 2
+[翻訳注]  The Greek word translated “persisted steadfastly” (ὑπομονή, Jupomonh) is the same one translated “steadfast endurance” in v. 2.
+
+### Verse 4 - Note 1
+[翻訳注]  The Greek word translated “departed from” (ἀφίημι, afihmi; L&N 15.48) can actually be used of divorce (L&N 34.78), so the imagery here is very strong.
+
+### Verse 5 - Note 1
+[翻訳注]  Grk “from where,” but status is in view rather than physical position. On this term BDAG 838 s.v. πόθεν 1 states, “from what place? from where?…In imagery μνημόνευε πόθεν πέπτωκες remember from what (state) you have fallen Rv 2:5.”
+
+### Verse 5 - Note 2
+[翻訳注]  Grk “and do” (a continuation of the previous sentence in the Greek text). For stylistic reasons in English a new sentence was started here in the translation. The repeated mention of repenting at the end of the verse suggests that the intervening material (“do the deeds you did at first”) specifies how the repentance is to be demonstrated.
+
+### Verse 5 - Note 3
+[翻訳注]  Or “you did formerly.”
+
+### Verse 5 - Note 4
+[翻訳注]  Although the final clause is somewhat awkward, it is typical of the style of Revelation.
+
+### Verse 6 - Note 1
+[翻訳注]  Grk “But you do have this.” The words “going for you” are supplied to complete the English idiom; other phrases like “in your favor” (NIV) or “to your credit” (NRSV) could also be supplied.
+
+### Verse 6 - Note 2
+[解説]  The Nicolaitans were a sect (sometimes associated with Nicolaus, one of the seven original deacons in the church in Jerusalem according to Acts 6:5) that apparently taught that Christians could engage in immoral behavior with impunity.
+
+### Verse 6 - Note 3
+[翻訳注]  The expression τὰ ἔργα τῶν Νικολαϊτῶν (ta erga twn Nikolaitwn) has been translated as a subjective genitive.
+
+### Verse 7 - Note 1
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.” The pendent dative is allowed to stand in the English translation because it is characteristic of the author’s style in Revelation.
+
+### Verse 7 - Note 2
+[翻訳注]  Or “grant.”
+
+### Verse 7 - Note 3
+[翻訳注]  Or “stands.”
+
+### Verse 7 - Note 4
+group, latt, and others, seems to be evidence of a purposeful conforming of the text to 3:2 and the four occurrences of “my God” (θεοῦ μου) in 3:12.
+
+### Verse 8 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 8 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 8 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 8 - Note 4
+[翻訳注]  Here καί (kai) has been translated as “but” to indicate the contrast present between these two phrases.
+
+### Verse 9 - Note 1
+[翻訳注]  Or “know your suffering.” This could refer to suffering or distress caused by persecution (see L&N 22.2).
+
+### Verse 9 - Note 2
+[翻訳注]  Because of the length and complexity of this Greek sentence, a new sentence was started here in the translation by supplying the phrase “I also know” to link this English sentence back to “I know” at the beginning of the verse.
+
+### Verse 9 - Note 3
+[翻訳注]  The words “against you” are not in the Greek text, but are implied.
+
+### Verse 9 - Note 4
+[解説]  A synagogue was a place for Jewish prayer and worship, with recognized leadership (e.g., Mt 4:23, Mk 1:21, Lk 4:15, Jn 6:59).
+
+### Verse 10 - Note 1
+[翻訳注]  Grk “is about to throw some of you,” but the force is causative in context.
+
+### Verse 10 - Note 2
+[翻訳注]  Or “tempted.”
+
+### Verse 10 - Note 3
+[翻訳注]  Or “experience persecution,” “will be in distress” (see L&N 22.2).
+
+### Verse 10 - Note 4
+[翻訳注]  Grk “crown of life,” with the genitive “of life” (τῆς ζωῆς, th" zwh") functioning in apposition to “crown” (στέφανον, stefanon): “the crown that consists of life.”
+
+### Verse 11 - Note 1
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.”
+
+### Verse 12 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 12 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 12 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 12 - Note 4
+[解説]  On the sharp double-edged sword see 1:16.
+
+### Verse 13 - Note 1
+[写本注]  The shorter reading adopted here has superior ms support (א A C P 2053 al latt co), while the inclusion of “your works and” (τὰ ἔργα σου καί, ta erga sou kai) before “where you reside” is supported by the Byzantine witnesses and is evidently a secondary attempt to harmonize the passage with 2:2, 19; 3:1, 8, 15.
+
+### Verse 13 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “Yet” to indicate the contrast between their location and their faithful behavior.
+
+### Verse 13 - Note 3
+[翻訳注]  The present indicative verb κρατεῖς (kratei") has been translated as a progressive present.
+
+### Verse 13 - Note 4
+[翻訳注]  Grk “the faith”; here the Greek article is used as a possessive pronoun (ExSyn 215).
+
+### Verse 13 - Note 5
+[翻訳注]  Grk “the faith of me” (τὴν πίστιν μου, thn pistin mou) with the genitive “of me” (μου) functioning objectively.
+
+### Verse 13 - Note 6
+[翻訳注]  Or “martyr.” The Greek word μάρτυς can mean either “witness” or “martyr.”
+
+### Verse 13 - Note 7
+[翻訳注]  Grk “killed among you.” The term “city” does not occur in the Greek text of course, but the expression παρ᾿ ὑμῖν, ὅπου ὁ σατανᾶς κατοικεῖ (par’ Jumin, {opou Jo satana" katoikei) seems to indicate that this is what is meant. See G. B. Caird, Revelation (HNTC), 36-38.
+
+### Verse 14 - Note 1
+[解説]  See Num 22-24; 31:16.
+
+### Verse 14 - Note 2
+[翻訳注]  That is, a cause for sinning. An alternate translation is “who instructed Balak to cause the people of Israel to sin by eating food sacrificed to idols…”
+
+### Verse 14 - Note 3
+[翻訳注]  Grk “sons,” but the expression υἱοὶ ᾿Ισραήλ (Juioi Israhl) is an idiom for the people of Israel as an ethnic entity (see L&N 11.58).
+
+### Verse 14 - Note 4
+[翻訳注]  Due to the actual events in the OT (Num 22-24; 31:16), πορνεῦσαι (porneusai) is taken to mean “sexual immorality.” BDAG 854 s.v. πορνεύω 1 states, “engage in illicit sex, to fornicate, to whore…W. φαγεῖν εἰδωλόθυτα ‘eat meat offered to idols’ Rv 2:14, 20.”
+
+### Verse 15 - Note 1
+[翻訳注]  The term ὁμοίως (Jomoiws, “likewise”) is left untranslated because it is quite redundant.[解説]  See the note on the term Nicolaitans in 2:6.
+
+### Verse 16 - Note 1
+co}. Though the conjunction looks at first glance like a scribal clarification, its omission may be explained on the basis of its similarity to the last three letters of the verb “repent” (μετανόησον, metanohson; since οὖν is a postpositive conjunction in Greek, the final three letters of the verb [-σον, -son] would have been immediately followed by ουν). A scribe could have simply passed over the conjunction in his copy when he saw the last three letters of the imperative verb. A decision is difficult, however, because of the motivation to add to the text and the quality of witnesses that lack the conjunction.
+
+### Verse 16 - Note 2
+[翻訳注]  Grk “with them”; the referent (those people who follow the teaching of Balaam and the Nicolaitans) has been specified in the translation for clarity.
+
+### Verse 17 - Note 1
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.” The pendent dative is allowed to stand in the English translation because it is characteristic of the author’s style in Revelation.
+
+### Verse 17 - Note 2
+[翻訳注]  Or “bright.” The Greek term λευκός (leukos) can refer either to the color white (traditional here) or to an object that is bright or shining, either from itself or from an outside source of illumination (L&N 14.50; 79.27).
+
+### Verse 17 - Note 3
+[翻訳注]  On the interpretation of the stone, L&N 2.27 states, “A number of different suggestions have been made as to the reference of ψῆφος in this context. Some scholars believe that the white ψῆφος indicates a vote of acquittal in court. Others contend that it is simply a magical amulet; still others, a token of Roman hospitality; and finally, some have suggested that it may represent a ticket to the gladiatorial games, that is to say, to martyrdom. The context, however, suggests clearly that this is something to be prized and a type of reward for those who have ‘won the victory.’”
+
+### Verse 17 - Note 4
+[翻訳注]  Or “know”; for the meaning “understand” see L&N 32.4.
+
+### Verse 18 - Note 1
+[翻訳注]  Here καί (kai) has not been translated due to differences between Greek and English style.
+
+### Verse 18 - Note 2
+[翻訳注]  The phrase “the following” after “write” is supplied to clarify that what follows is the content of what is to be written.
+
+### Verse 18 - Note 3
+[翻訳注]  Grk “These things says [the One]…” See the note on the phrase “this is the solemn pronouncement of” in 2:1.[解説]  The expression This is the solemn pronouncement of reflects an OT idiom. See the note on this phrase in 2:1.
+
+### Verse 18 - Note 4
+[翻訳注]  Grk “a flame of fire.” The Greek term πυρός (puros) has been translated as an attributive genitive.
+
+### Verse 18 - Note 5
+[翻訳注]  The precise meaning of the term translated “polished bronze” (χαλκολιβάνῳ, calkolibanw), which appears no where else in Greek literature outside of the book of Revelation (see 1:15), is uncertain. Without question it is some sort of metal. BDAG 1076 s.v. χαλκολίβανον suggests “fine brass/bronze.” L&N 2.57 takes the word to refer to particularly valuable or fine bronze, but notes that the emphasis here and in Rev 1:15 is more on the lustrous quality of the metal.
+
+### Verse 19 - Note 1
+[翻訳注]  Grk “and faith.” Here and before the following term καί (kai) has not been translated because English normally uses a coordinating conjunction only between the next to last and last terms in a list.
+
+### Verse 19 - Note 2
+[翻訳注]  Or “perseverance.”
+
+### Verse 19 - Note 3
+[翻訳注]  The phrase “In fact” is supplied in the translation to bring out the ascensive quality of the clause. It would also be possible to supply here an understood repetition of the phrase “I know” from the beginning of the verse (so NRSV). Grk “and your last deeds [that are] greater than the first.”
+
+### Verse 20 - Note 1
+[翻訳注]  The Greek article has been translated here with demonstrative force.
+
+### Verse 20 - Note 2
+(which only reads in portions of chapters 9-17) 1006 1611 2053; in this instance, the external evidence slightly favors the shorter reading. But internally, it gains strength. The longer reading implies the idea that the angel in 2:18 is the bishop or leader of the church in Thyatira. The pronoun “your” (σου) is used four times in vv. 19-20 and may have been the cause for the scribe copying it again. Further, once the monarchical episcopate was in vogue (beginning in the 2nd century) scribes might have been prone to add “your” here.
+
+### Verse 20 - Note 3
+[解説]  Jezebel was the name of King Ahab’s idolatrous and wicked queen in 1 Kgs 16:31; 18:1-5; 19:1-3; 21:5-24. It is probable that the individual named here was analogous to her prototype in idolatry and immoral behavior, since those are the items singled out for mention.
+
+### Verse 20 - Note 4
+[翻訳注]  Grk “teaches and deceives” (διδάσκει καὶ πλανᾷ, didaskei kai plana), a construction in which the first verb appears to specify the means by which the second is accomplished: “by her teaching, deceives…”
+
+### Verse 20 - Note 5
+[翻訳注]  See the note on the word “servants” in 1:1.
+
+### Verse 20 - Note 6
+[解説]  To commit sexual immorality and to eat food sacrificed to idols. Note the conclusions of the Jerusalem Council in Acts 15:29, which specifically prohibits Gentile Christians from engaging in these activities.
+
+### Verse 21 - Note 1
+[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and contemporary English style.
+
+### Verse 21 - Note 2
+[翻訳注]  Here καί (kai) has been translated as “but” to bring out the contrast present in this woman’s obstinate refusal to repent.
+
+### Verse 22 - Note 1
+[翻訳注]  Grk “onto a bed,” in this context an idiom for severe illness (L&N 23.152).
+
+### Verse 22 - Note 2
+[翻訳注]  Or “into great distress.” The suffering here is not specified as physical or emotional, and could involve persecution.
+
+### Verse 23 - Note 1
+[翻訳注]  Grk “her children,” but in this context a reference to this woman’s followers or disciples is more likely meant.
+
+### Verse 23 - Note 2
+[翻訳注]  Grk “I will kill with death.” θάνατος (qanatos) can in particular contexts refer to a manner of death, specifically a contagious disease (see BDAG 443 s.v. 3; L&N 23.158).
+
+### Verse 23 - Note 3
+[翻訳注]  Grk “I will give.” The sense of δίδωμι (didwmi) in this context is more “repay” than “give.”
+
+### Verse 23 - Note 4
+[解説]  This pronoun and the following one are plural in the Greek text.
+
+### Verse 23 - Note 5
+[翻訳注]  Grk “each one of you according to your works.”
+
+### Verse 24 - Note 1
+[解説]  That is, the teaching of Jezebel (v. 20).
+
+### Verse 24 - Note 2
+[翻訳注]  Grk “deep things.” For the translation “deep secrets” see L&N 28.76; cf. NAB, NIV, CEV.
+
+### Verse 26 - Note 1
+[翻訳注]  Or “who is victorious”; traditionally, “who overcomes.”
+
+### Verse 26 - Note 2
+[翻訳注]  Grk “keeps.” In a context that speaks of “holding on to what you have,” the idea here is one of continued faithful behavior (BDAG 1002 s.v. τηρέω 3 has “ὁ τηρῶν τὰ ἔργα μου the one who takes my deeds to heart Rv 2:26”).
+
+### Verse 26 - Note 3
+[翻訳注]  Or “over the Gentiles” (the same Greek word may be translated “Gentiles” or “nations”).
+
+### Verse 27 - Note 1
+[翻訳注]  Here καί (kai) has not been translated because of differences between Greek and English style.
+
+### Verse 27 - Note 2
+[翻訳注]  Grk “will shepherd.”
+
+### Verse 27 - Note 3
+[翻訳注]  Or “scepter.” The Greek term ῥάβδος (rJabdo") can mean either “rod” or “scepter.”
+
+### Verse 27 - Note 4
+[解説]  A quotation from Ps 2:9 (with the line introducing the quotation containing a partial allusion to Ps 2:8). See also Rev 12:5, 19:15.
+
+### Verse 28 - Note 1
+[翻訳注]  What has been received is not specified in the Greek text, but must be supplied from the context. In the light of the two immediately preceding verses about rulership or dominion, it seems that the implied direct object of δώσω (dwsw) is “the right to rule” (i.e., ἔχειν ἐξουσίαν ποιμάνειν, ecein exousian poimanein), although many modern translations supply the word “authority” here (so NAB, NRSV, NLT).
+
+### Verse 28 - Note 2
+[翻訳注]  On this expression BDAG 892 s.v. πρωϊνός states, “early, belonging to the morning ὁ ἀστὴρ ὁ πρ. the morning star, Venus Rv 2:28; 22:16.”

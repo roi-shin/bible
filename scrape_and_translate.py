@@ -216,7 +216,25 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-API_KEY = os.getenv("GEMINI_API_KEY")
+# config.json のロード
+CONFIG_FILE = os.path.join(os.path.dirname(__file__), "config.json")
+def load_api_configs():
+    if os.path.exists(CONFIG_FILE):
+        with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+            content = f.read()
+            import re
+            # JSONC形式（//コメント）のサポートのためコメント行を除去
+            content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+            # コメント削除によって残ってしまった末尾のカンマ（Trailing comma）を除去
+            content = re.sub(r',\s*([\]}])', r'\1', content)
+            return json.loads(content).get("api_configs", [])
+    # フォールバックのデフォルト
+    return [{
+        "key_env": "GEMINI_API_KEY",
+        "exclude_models": []
+    }]
+
+API_CONFIGS = load_api_configs()
 
 def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
     """agy CLIを使ってJSON全体の英語を一括翻訳する"""
@@ -278,49 +296,58 @@ def translate_with_agy(raw_data: dict, use_api: bool = False) -> dict:
         return rebuilt
 
     if use_api:
-        # 優先順序: 3.5-flash-lite (RPD500) → 3.8-flash → 3.7-flash → 3.6-flash → 3.5-flash → 3.0-flash
-        fallback_models = [
+        all_available_models = [
             "gemini-3.5-flash-lite",
             "gemini-3.8-flash",
             "gemini-3.7-flash",
             "gemini-3.6-flash",
             "gemini-3.5-flash",
-            "gemini-3-flash",
+            "gemini-3-flash-preview",
         ]
         api_prompt = prompt + "\n\nHere is the JSON data to translate:\n" + json_str
-        for model_name in fallback_models:
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={API_KEY}"
-            payload = {
-                "contents": [{"role": "user", "parts": [{"text": api_prompt}]}],
-                "generationConfig": {"responseMimeType": "application/json"}
-            }
-            max_retries_api = 3
-            success = False
-            for attempt in range(max_retries_api):
-                resp = requests.post(url, json=payload, timeout=120)
-                if resp.status_code == 200:
-                    try:
-                        text = resp.json()['candidates'][0]['content']['parts'][0]['text']
-                        print(f"    [{model_name}] 成功")
-                        flat_resp = json.loads(text)
-                        if isinstance(flat_resp, dict) and "response" in flat_resp:
-                            flat_resp = json.loads(flat_resp["response"])
-                        return rebuild_translated_data(flat_resp)
-                    except Exception as e:
-                        print(f"    [{model_name}] レスポンス形式エラー: {e}")
-                        break
-                elif resp.status_code in (429, 503):
-                    err_msg = resp.json().get("error", {}).get("message", "")
-                    if "quota" in err_msg.lower() or resp.status_code == 429:
-                        print(f"    [{model_name}] RPD上限に達しました。次のモデルへ切替...")
-                        break  # このモデルを諦めて次へ
+        
+        for config in API_CONFIGS:
+            api_key = config.get("key_raw")
+            if not api_key and config.get("key_env"):
+                api_key = os.getenv(config.get("key_env"))
+            if not api_key:
+                continue
+
+            exclude_models = set(config.get("exclude_models", []))
+            models_to_try = [m for m in all_available_models if m not in exclude_models]
+            
+            for model_name in models_to_try:
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+                payload = {
+                    "contents": [{"role": "user", "parts": [{"text": api_prompt}]}],
+                    "generationConfig": {"responseMimeType": "application/json"}
+                }
+                max_retries_api = 3
+                for attempt in range(max_retries_api):
+                    resp = requests.post(url, json=payload, timeout=120)
+                    if resp.status_code == 200:
+                        try:
+                            text = resp.json()['candidates'][0]['content']['parts'][0]['text']
+                            print(f"    [{model_name}] 成功")
+                            flat_resp = json.loads(text)
+                            if isinstance(flat_resp, dict) and "response" in flat_resp:
+                                flat_resp = json.loads(flat_resp["response"])
+                            return rebuild_translated_data(flat_resp)
+                        except Exception as e:
+                            print(f"    [{model_name}] レスポンス形式エラー: {e}")
+                            break
+                    elif resp.status_code in (429, 503):
+                        err_msg = resp.json().get("error", {}).get("message", "")
+                        if "quota" in err_msg.lower() or resp.status_code == 429:
+                            print(f"    [{model_name}] RPD上限に達しました。次のモデルへ切替...")
+                            break  # このモデルを諦めて次へ
+                        else:
+                            print(f"    [{model_name}] 一時的なエラー (試行 {attempt + 1}/{max_retries_api})、10秒後に再試行...")
+                            time.sleep(10)
                     else:
-                        print(f"    [{model_name}] 一時的なエラー (試行 {attempt + 1}/{max_retries_api})、10秒後に再試行...")
-                        time.sleep(10)
-                else:
-                    print(f"    [{model_name}] エラー {resp.status_code}: {resp.text[:100]}")
-                    break
-        raise Exception("全フォールバックモデルのAPI呼び出しに失敗しました")
+                        print(f"    [{model_name}] エラー {resp.status_code}: {resp.text[:100]}")
+                        break
+        raise Exception("全ての設定キー、全フォールバックモデルのAPI呼び出しに失敗しました")
 
     else:
         # agy コマンドの構築
