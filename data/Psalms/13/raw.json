@@ -1,0 +1,114 @@
+{
+  "notes": {
+    "1": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">sn</span> <i></i>. The psalmist, who is close to death, desperately pleads for God&#8217;s deliverance and affirms his trust in God&#8217;s faithfulness.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will you forget me continually.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;will you hide your face from me.&#8221;</div>"
+      ]
+    ],
+    "2": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;How long will I put counsel in my being?&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;[with] grief in my heart by day.&#8221;</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;be exalted over me.&#8221; Perhaps one could translate, &#8220;How long will my enemy defeat me?&#8221;</div>"
+      ]
+    ],
+    "3": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;see.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;Give light [to] my eyes.&#8221; The Hiphil of <font face=\"Galaxie Unicode Hebrew\">&#1488;&#1493;&#1468;&#1512;</font> (&#8217;<font face=\"Scholar\">ur</font>), when used elsewhere with &#8220;eyes&#8221; as object, refers to the law of God giving moral enlightenment (<span class=\"bibleref\" title=\"Psalms 19:8\">Ps 19:8</span>), to God the creator giving literal eyesight to all people (<span class=\"bibleref\" title=\"Proverbs 29:13\">Prov 29:13</span>), and to God giving encouragement to his people (<span class=\"bibleref\" title=\"Ezra 9:8\">Ezra 9:8</span>). Here the psalmist pictures himself as being on the verge of death. His eyes are falling shut and, if God does not intervene soon, he will &#8220;fall asleep&#8221; for good.</div>"
+      ],
+      [
+        3,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;or else I will sleep [in?] the death.&#8221; Perhaps the statement is elliptical, &#8220;I will sleep [the sleep] of death,&#8221; or &#8220;I will sleep [with the sleepers in] death.&#8221;</div>"
+      ]
+    ],
+    "4": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;or else.&#8221;</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;or else.&#8221;</div>"
+      ]
+    ],
+    "5": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The grammatical construction used here (conjunction with independent pronoun) highlights the contrast between the psalmist&#8217;s defeated condition envisioned in v. <span class=\"bibleref\" title=\"Psalms 13:4\">4</span> and confident attitude he displays in v. <span class=\"bibleref\" title=\"Psalms 13:5\">5</span>.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> <i>Heb</i> &#8220;may my heart rejoice in your deliverance.&#8221; The verb form is jussive. Having expressed his trust in God&#8217;s faithful character and promises, the psalmist prays that his confidence will prove to be well-placed. &#8220;Heart&#8221; is used here of the seat of the emotions.</div>"
+      ]
+    ],
+    "6": [
+      [
+        1,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> The verb form is cohortative, indicating the psalmist&#8217;s resolve (or vow) to praise the <sc>Lord</sc> when deliverance arrives.</div>"
+      ],
+      [
+        2,
+        "<div class=\"note\"><span class=\"notetype\">tn</span> Or &#8220;for he will have vindicated me.&#8221; The verb form indicates a future perfect here. The idiom <font face=\"Galaxie Unicode Hebrew\">&#1490;&#1464;&#1502;&#1463;&#1500; &#1506;&#1463;&#1500;</font> (<font face=\"Scholar\">gamal</font> &#8217;<font face=\"Scholar\">al</font>) means &#8220;to repay,&#8221; here in a positive sense.</div>"
+      ]
+    ]
+  },
+  "text_data": [
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "1",
+      "text": "For the music director, a psalm of David. How long, Lord, will you continue to ignore me? How long will you pay no attention to me?"
+    },
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "2",
+      "text": "How long must I worry, and suffer in broad daylight? How long will my enemy gloat over me?"
+    },
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "3",
+      "text": "Look at me! Answer me, O Lord my God! Revive me, or else I will die. "
+    },
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "4",
+      "text": "Then my enemy will say, “I have defeated him.” Then my foes will rejoice because I am shaken. "
+    },
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "5",
+      "text": "But I trust in your faithfulness. May I rejoice because of your deliverance. "
+    },
+    {
+      "bookname": "Psalms",
+      "chapter": "13",
+      "verse": "6",
+      "text": "I will sing praises to the Lord when he vindicates me."
+    }
+  ]
+}

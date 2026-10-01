@@ -1,0 +1,114 @@
+# Psalms 29 (English)
+
+## Text
+
+**1** A psalm of David. Acknowledge the Lord, you heavenly beings, acknowledge the Lord’s majesty and power. 
+
+**2** Acknowledge the majesty of the Lord’s reputation. Worship the Lord in holy attire. 
+
+**3** The Lord’s shout is heard over the water; the majestic God thunders, the Lord appears over the surging water. 
+
+**4** The Lord’s shout is powerful; the Lord’s shout is majestic. 
+
+**5** The Lord’s shout breaks the cedars; the Lord shatters the cedars of Lebanon. 
+
+**6** He makes them skip like a calf, Lebanon and Sirion like a young ox. 
+
+**7** The Lord’s shout strikes with flaming fire. 
+
+**8** The Lord’s shout shakes the wilderness; the Lord shakes the wilderness of Kadesh. 
+
+**9** The Lord’s shout bends the large trees and strips the leaves from the forests. Everyone in his temple says, “Majestic!”
+
+**10** The Lord sits enthroned over the engulfing waters; the Lord sits enthroned as the eternal king. 
+
+**11** The Lord gives his people strength; the Lord grants his people security. 
+
+## Notes
+
+### Verse 1 - Note 1
+[解説]  . In this hymn of praise the psalmist calls upon the heavenly assembly to acknowledge the royal splendor of the Lord. He describes the Lord’s devastating power as revealed in the thunderstorm and affirms that the Lord exerts this awesome might on behalf of his people. In its original context the psalm was a bold polemic against the Canaanite storm god Baal, for it affirms that the Lord is the real king who controls the elements of the storm, contrary to pagan belief. See R. B. Chisholm, Jr., “The Polemic against Baalism in Israel’s Early History and Literature,” BSac 150 (1994): 280-82.
+
+### Verse 1 - Note 2
+[写本注]  Heb “sons of gods,” or “sons of God.” Though אֵלִים (’elim) is vocalized as a plural form (“gods”) in the MT, it is likely that the final mem is actually enclitic, rather than a plural marker. In this case one may read “God.” Some, following a Qumran text and the LXX, also propose the phrase occurred in the original text of Deut 32:8.[翻訳注]  The phrase בְּנֵי אֵלִים (bÿney ’elim, “sons of gods” or “sons of God”) occurs only here and in Ps 89:6 (89:7 HT). In  the “sons of gods/God” are also called “the assembly of the holy ones” and “council of the holy ones.” The heavenly assembly, comprised of so-called “angels” and other supernatural beings, appears to be in view. See Job 5:1; 15:15 and Zech 14:5, where these supernatural beings are referred to as “holy ones.” In Canaanite mythological texts the divine council of the high god El is referred to as “the sons of El.” The OT apparently borrows the Canaanite phrase and applies it to the supernatural beings that surround the heavenly throne.
+
+### Verse 1 - Note 3
+[翻訳注]  Or “ascribe to the Lord glory and strength.”
+
+### Verse 2 - Note 1
+[翻訳注]  Heb “ascribe to the Lord the glory of his name.” The Hebrew term שֵׁם (shem, “name”) refers here to the Lord’s reputation. (The English term “name” is often used the same way.)
+
+### Verse 2 - Note 2
+[翻訳注]  That is, properly dressed for the occasion.
+
+### Verse 3 - Note 1
+[翻訳注]  Heb “the voice of the Lord [is] over the water.” As the next line makes clear, the “voice of the Lord” is here the thunder that accompanies a violent storm. The psalm depicts the Lord in the role of a warrior-king, so the thunder is his battle cry, as it were.
+
+### Verse 3 - Note 2
+[翻訳注]  The Hebrew perfect verbal form is probably descriptive. In dramatic fashion the psalmist portrays the Lord coming in the storm to do battle with his enemies and to vindicate his people.
+
+### Verse 3 - Note 3
+[翻訳注]  Traditionally “many waters.” The geographical references in the psalm (Lebanon, Sirion, Kadesh) suggest this is a reference to the Mediterranean Sea (see Ezek 26:19; 27:26). The psalmist describes a powerful storm moving in from the sea and sweeping over the mountainous areas north of Israel. The “surging waters” may symbolize the hostile enemies of God who seek to destroy his people (see Pss 18:17; 32:6; 77:20; 93:4; 144:7; Isa 17:13; Jer 51:55; Ezek 26:19; Hab 3:15). In this case the Lord is depicted as elevated above and sovereign over the raging waters.
+
+### Verse 4 - Note 1
+[翻訳注]  Heb “the voice of the Lord [is] accompanied by strength.”
+
+### Verse 4 - Note 2
+[翻訳注]  Heb “the voice of the Lord [is] accompanied by majesty.”
+
+### Verse 5 - Note 1
+[翻訳注]  The Hebrew participial form draws attention to the durative nature of the action being described.
+
+### Verse 5 - Note 2
+[翻訳注]  The prefixed verbal forms with vav (ו) consecutive here and in v. 6a carry on the descriptive function of the preceding participle (see GKC 329 §111.u). The verb שָׁבַר (shavar) appears in the Qal in the first line of the verse, and in the Piel in the second line. The verb, which means “break” in the Qal, appears thirty-six times in the Piel, always with multiple objects (the object is either a collective singular or grammatically plural or dual form). The Piel may highlight the repetition of the pluralative action, or it may suggest an intensification of action, indicating repeated action comprising a whole, perhaps with the nuance “break again and again, break in pieces.” Another option is to understand the form as resultative: “make broken” (see IBHS 404-7 §24.3).
+
+### Verse 5 - Note 3
+[解説]  The cedars of the Lebanon forest were well-known in ancient Israel for their immense size. Here they may symbolize the arrogant enemies of God (see Isa 2:12-13).
+
+### Verse 6 - Note 1
+[解説]  Sirion is another name for Mount Hermon (Deut 3:9).
+
+### Verse 6 - Note 2
+[解説]  Lebanon and Sirion are compared to frisky young animals (a calf…a young ox) who skip and jump. The thunderous shout of the Lord is so powerful, one can see the very mountains shake on the horizon.
+
+### Verse 7 - Note 1
+[翻訳注]  The verb normally means “to hew [stone or wood],” or “to hew out.” In Hos 6:5 it seems to mean “cut in pieces,” “knock down,” or perhaps “hack” (see F. I. Andersen and D. N. Freedman, Hosea [AB], 428). The Ugaritic cognate can mean “assault.” In v. 7 the verb seems to have a similar meaning, perhaps “attack, strike.” The phrase “flames of fire” is an adverbial accusative; the Lord’s shout is accompanied by “flames of fire,” that is, lightning bolts.
+
+### Verse 7 - Note 2
+[解説]  The Lord’s shout strikes with flaming fire. The short line has invited textual emendation, but its distinct, brief form may highlight the statement, which serves as the axis of a chiastic structure encompassing vv. 5-9: (A) the Lord’s shout destroys the forest (v. 5); (B) the Lord’s shout shakes the terrain (v. 6); (C) the Lord’s shout is accompanied by destructive lightning (v. 7); (B´) the Lord’s shout shakes the terrain (v. 8); (A´) the Lord’s shout destroys the forest (v. 9).
+
+### Verse 8 - Note 1
+[翻訳注]  The Hebrew imperfect verbal forms are descriptive in function; the psalmist depicts the action as underway.
+
+### Verse 8 - Note 2
+[解説]  Kadesh. The references to Lebanon and Sirion in v. 6 suggest this is a reference to the northern Kadesh, located north of Damascus, not the southern Kadesh mentioned so often in the OT. See M. Dahood, Psalms (AB), 1:178.
+
+### Verse 9 - Note 1
+[翻訳注]  The Hebrew imperfect verbal form is descriptive in function; the psalmist depicts the action as underway.
+
+### Verse 9 - Note 2
+[写本注]  Heb “the deer.” Preserving this reading, some translate the preceding verb, “causes [the deer] to give premature birth” (cf. NEB, NASB). But the Polel of חוּל/חִיל (khul/khil) means “give birth,” not “cause to give birth,” and the statement “the Lord’s shout gives birth to deer” is absurd. In light of the parallelism (note “forests” in the next line) and v. 5, it is preferable to emend אַיָּלוֹת (’ayyalot, “deer”) to אֵילוֹת (’elot, “large trees”) understanding the latter as an alternate form of the usual plural form אַיָּלִים (’ayyalim).
+
+### Verse 9 - Note 3
+[翻訳注]  The verb is used in Joel 1:7 of locusts stripping the leaves from a tree. The prefixed verbal form with vav (ו) consecutive here carries the descriptive function of the preceding imperfect. See GKC 329 §111.t.
+
+### Verse 9 - Note 4
+[翻訳注]  The usual form of the plural of יַעַר (ya’ar, “forest”) is יְעָרִים (yÿ’arim). For this reason some propose an emendation to יְעָלוֹת (yÿ’alot, “female mountain goats”) which would fit nicely in the parallelism with “deer” (cf. NEB “brings kids early to birth”). In this case one would have to understand the verb חָשַׂף (khasaf) to mean “cause premature birth,” an otherwise unattested homonym of the more common חָשַׂף (“strip bare”).[解説]  The Lord’s thunderous shout is accompanied by high winds which damage the trees of the forest.
+
+### Verse 9 - Note 5
+[翻訳注]  Heb “In his temple, all of it says, ‘Glory.’”
+
+### Verse 10 - Note 1
+[翻訳注]  The noun מַּבּוּל (mabbul, “flood”) appears only here and in Gen 6-11, where it refers to the Noahic flood. Some see a reference to that event here. The presence of the article (perhaps indicating uniqueness) and the switch to the perfect verbal form (which could be taken as describing a past situation) might support this. However, the immediate context indicates that the referent of מַּבּוּל is the “surging waters” mentioned in v. 3. The article indicates waters that are definite in the mind of the speaker and the perfect is probably descriptive in function, like “thunders” in v. 3. However, even though the historical flood is not the primary referent here, there may be a literary allusion involved. The psalmist views the threatening chaotic sea as a contemporary manifestation of the destructive waters of old.
+
+### Verse 10 - Note 2
+[翻訳注]  The prefixed verbal form with vav (ו) consecutive here carries the descriptive function of the preceding perfect.
+
+### Verse 11 - Note 1
+[翻訳注]  The imperfect verbal forms in v. 11 are either descriptive or generalizing.
+
+### Verse 11 - Note 2
+[解説]  Strength. This probably refers to military power; see the use of the noun in 1 Sam 2:10 and Ps 86:16.
+
+### Verse 11 - Note 3
+[翻訳注]  Heb “blesses his people with peace.” The Hebrew term שָׁלוֹם (shalom, “peace”) probably refers here to the protection and prosperity experienced by God’s people after the Lord intervenes in battle on their behalf.
